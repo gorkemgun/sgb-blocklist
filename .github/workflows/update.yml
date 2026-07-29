@@ -1,0 +1,83 @@
+name: Update malicious address lists
+
+on:
+  schedule:
+    # 17 minutes past every hour (UTC). The top of the hour is GitHub's busiest
+    # slot, so the schedule is offset to reduce queueing delays.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Sync mode"
+        type: choice
+        default: auto
+        options: [auto, full, delta]
+
+permissions:
+  contents: write
+
+# Never let two runs race each other on push
+concurrency:
+  group: sgb-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync lists
+        id: sync
+        run: |
+          python scripts/sgb_sync.py \
+            --mode "${{ inputs.mode || 'auto' }}" \
+            --out . \
+            --full-interval 24
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # -A so that category files dropped by a full crawl are staged too
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes, skipping commit."
+            exit 0
+          fi
+          git commit -m "Lists updated: ${{ steps.sync.outputs.domains }} domains, ${{ steps.sync.outputs.ipv4 }} IPv4, ${{ steps.sync.outputs.urls }} URLs (+${{ steps.sync.outputs.added }}/-${{ steps.sync.outputs.removed }}) [${{ steps.sync.outputs.mode }}]"
+          # Rebase on top of anything another run pushed meanwhile
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            sleep 5
+          done
+          echo "Push failed." >&2
+          exit 1
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### Malicious address list sync"
+            echo ""
+            echo "| List | Records |"
+            echo "|---|---|"
+            echo "| domains.txt | ${{ steps.sync.outputs.domains }} |"
+            echo "| urls.txt | ${{ steps.sync.outputs.urls }} |"
+            echo "| ipv4.txt | ${{ steps.sync.outputs.ipv4 }} |"
+            echo "| ipv6.txt | ${{ steps.sync.outputs.ipv6 }} |"
+            echo "| ipv6net.txt | ${{ steps.sync.outputs.ipv6net }} |"
+            echo "| url-list.txt (all) | ${{ steps.sync.outputs.total }} |"
+            echo "| category files | ${{ steps.sync.outputs.categories }} |"
+            echo ""
+            echo "Mode: \`${{ steps.sync.outputs.mode }}\` &nbsp;&nbsp; Domain delta: +${{ steps.sync.outputs.added }} / -${{ steps.sync.outputs.removed }}"
+          } >> "$GITHUB_STEP_SUMMARY"

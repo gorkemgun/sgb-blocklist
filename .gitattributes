@@ -1,0 +1,11 @@
+# Generated lists are always stored with LF endings, so running the script on
+# Windows never turns into a whole-file CRLF diff.
+* text=auto eol=lf
+domains.txt           text eol=lf
+urls.txt              text eol=lf
+ipv4.txt              text eol=lf
+ipv6.txt              text eol=lf
+ipv6net.txt           text eol=lf
+url-list.txt          text eol=lf
+domains-from-urls.txt text eol=lf
+state.json            text eol=lf

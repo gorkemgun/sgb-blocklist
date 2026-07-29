@@ -1,0 +1,28 @@
+# T.C. Siber Guvenlik Baskanligi - Full URL - Malware Distribution IP (MI)
+# Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=MI
+# Updated: 2026-07-29 16:46:07 UTC  (mode: delta)
+# Records: 24
+103.195.7.162/bins
+104.248.225.71/bins
+109.238.6.18/all/
+157.230.4.241/bins
+158.255.5.204/x86
+167.99.222.244/bins
+185.145.129.41/bins
+185.244.25.253/bins
+192.236.208.238/Pemex.sh
+192.236.208.238/lmaoWTF
+198.98.53.130/bins
+207.246.87.34/bins
+213.183.53.124/bins
+217.171.86.137/config.php
+217.171.86.137/rss_0.php
+45.76.244.144/bins
+51.68.214.116/bins
+51.68.214.116/lmaowtf
+51.68.214.116/vb
+66.133.129.5/~chuckgilbert/
+66.133.129.5/~kvas/
+66.133.129.5/~nsmarc1166/
+89.248.174.219/bins
+89.248.174.219/jaws.js

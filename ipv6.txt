@@ -1,0 +1,10 @@
+# T.C. Siber Guvenlik Baskanligi - IPv6 address - all categories
+# Source : https://siberguvenlik.gov.tr/api/address/index?type=ip6
+# Updated: 2026-07-29 16:46:07 UTC  (mode: delta)
+# Records: 6
+a83f:8110::30b9:b403:0:0
+a83f:8110:2000:5000:7200:6f00:7600:6900
+a83f:8110:4300:7200:7900:7000:7400:6f00
+a83f:8110:8dd6:ffff:3073:9b62:8dd6:ffff
+a83f:8110:d19b:48ff:d09a:47ff:d09a:47ff
+a83f:8110:fb7f:0:d50a::
