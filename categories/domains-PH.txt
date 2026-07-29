@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98184
-# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
+# Records: 98190
+# Last change: 2026-07-29 18:15:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -477,6 +477,7 @@
 132-33-154-22-366.com
 13213.523454.cc
 13222214544588989990894.duckdns.org
+13222214544588989990895.duckdns.org
 132454654161658468541651.com
 13247-coinbase.com
 13247-icloud.com
@@ -34644,6 +34645,7 @@ garanti-krediye-basvur.sbs
 garanti-onlinekredi.com.tr
 garanti-sube-onlinem.my-homeip.com
 garanti-yesil-kredili-garanti.xyz
+garanti.3w17.com
 garanti.giris-anlik-internetimm.online
 garanti.kmpynyenliil-mobligr.com
 garanti.kredi-bbva.com.tr
@@ -34703,6 +34705,7 @@ garantikredimbasvur.vercel.app
 garantikredinizherzaman.com
 garantili.bbvagirisbillgilersorug.site
 garantilibonus-online-hizmetleri2023.line.pm
+garantillik.cfd
 garantim.mobilde-sube.com
 garantim.to-giris.com
 garantim.yeniilamizda-girisler.com
@@ -47018,6 +47021,7 @@ izlaopopags.dns.navy
 izldas656tgfdx.blogspot.com
 izldasgsdhd.blogspot.com
 izlddsg.blogspot.com
+izle-listeleme.garden
 izleditummahalle.com
 izlekudurrrrrrrr-ac15389fdcc4.herokuapp.com
 izlemeyedevametlavuk.click
@@ -47691,6 +47695,7 @@ jhksas.net
 jhnnysnsleuzydayz.shop
 jhsgxukle.net
 jhspcf.top
+jhtlncm8494849.click
 jhtrdffg.com
 jhyysa.top
 jianfj.top
@@ -74085,6 +74090,7 @@ sdfjksdkjfsd.net
 sdfphs.xyz
 sdfrmd.top
 sdfsdfdsfsd123dsf.blogspot.com
+sdfsdfggfd.duckdns.org
 sdfsdfsdf.click
 sdfsruy.icu
 sdgbcvn.galtofraknispovratisyorkamni.net
