@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98207
-# Last change: 2026-07-29 19:49:21 UTC (sync mode: delta)
+# Records: 98211
+# Last change: 2026-07-29 21:14:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -479,6 +479,7 @@
 13222214544588989990894.duckdns.org
 13222214544588989990895.duckdns.org
 13222214544588989990896.duckdns.org
+13222214544588989990897.duckdns.org
 132454654161658468541651.com
 13247-coinbase.com
 13247-icloud.com
@@ -17539,6 +17540,7 @@ ceremonycanoe.top
 ceremonydenounce.top
 ceremonypoise.top
 ceremonyweariness.top
+ceretese-derersede.lol
 cerinor.com
 cermoldeef.com
 ceronet.work
@@ -38654,6 +38656,7 @@ haberler3552323.shop
 haberler4422424.shop
 haberler4561.sbs
 haberler562346.sbs
+haberler5632494.sbs
 haberler56755712366.com
 haberler6723236.sbs
 haberler78912.sbs
@@ -82445,6 +82448,7 @@ teklifaninda.net.tr
 teklifaninda.web.tr
 teklifbasvur.site
 teklifci-acenta.gen.tr
+teklifgoruntule.abrdns.com
 teklifhizi.com.tr
 teklifinizburada.site
 teklifler-burada.net.tr
