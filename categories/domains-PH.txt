@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98190
-# Last change: 2026-07-29 18:15:55 UTC (sync mode: delta)
+# Records: 98207
+# Last change: 2026-07-29 19:49:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -478,6 +478,7 @@
 13213.523454.cc
 13222214544588989990894.duckdns.org
 13222214544588989990895.duckdns.org
+13222214544588989990896.duckdns.org
 132454654161658468541651.com
 13247-coinbase.com
 13247-icloud.com
@@ -780,6 +781,7 @@
 18594162-coinbase.com
 18594962-coinbase.com
 18597162-coinbase.com
+186randevuburadan.duckdns.org
 187-197-112-2-1.site
 18719562-coinbase.com
 187253-uphold.com
@@ -2534,6 +2536,7 @@
 91923-coinbase.com
 9199923456.cloud
 92359302512.duckdns.org
+9273912dsasdasd.com
 927463729293.com
 92758-coinbase.com
 928167.store
@@ -8311,6 +8314,7 @@ asdasdasdasdquez.net
 asdasdass.net
 asdasdassqquez.net
 asdasdsaqweqwe.com
+asdasede-sedeadsada.lol
 asdasfamanassalvo.com
 asdasfasdmmn.click
 asdasqweqweaweq.net
@@ -34705,6 +34709,7 @@ garantikredimbasvur.vercel.app
 garantikredinizherzaman.com
 garantili.bbvagirisbillgilersorug.site
 garantilibonus-online-hizmetleri2023.line.pm
+garantillifk.cfd
 garantillik.cfd
 garantim.mobilde-sube.com
 garantim.to-giris.com
@@ -37340,6 +37345,7 @@ growtura.lat
 growwithusnetflx.com
 grrandventure.site
 grs724.com.tr
+grsz1rtark.cfd
 grsziryut.cfd
 grtnvba.cf
 grtnvba.tk
@@ -40667,6 +40673,7 @@ hgsaracdolum.web.app
 hgsaracoxpl.net
 hgsarhnekconlxneykldtserse.net
 hgsavmx-hizliodemelerxr.com
+hgsbaciyetkisi.art
 hgsbakiye-pttavm2.ml
 hgsbakiye-pttavm4.ml
 hgsbakiyeciboss.firebaseapp.com
@@ -50946,6 +50953,7 @@ kreditvergleichenseite.top
 kreditypay-firsatlarim.online
 krediuygulama.com
 krediyapimobildeonayla.co.vu
+krediye-online-basvur.click
 kredkartaidatfor4.com
 kredl-basvru-garantl.com.tr
 kredl.xn--ailegen-0xa.com
@@ -51490,6 +51498,7 @@ lahmacunamabey.free.nf
 lahsfz.top
 laidatiadelerimonlneil.fun
 laimafderfoil.top
+laismxj98skd342fcx.cfd
 lakearmor.cn
 lakeaudit.top
 lakeland-gov.net
@@ -56882,6 +56891,7 @@ mobilbasvurusubenfast.info
 mobilbilgilerimgirisgovtr.tk
 mobilbireyselkatilimm.online
 mobilcarkbinance.com.tr
+mobilcep-erisim.my-homeip.de
 mobilcepte.com.tr
 mobilde-denizbankacikhediye.com
 mobilde-sube.com
@@ -69237,6 +69247,8 @@ raesflow.store
 raf3134sadacjj1x3jk1jk23x12.shop
 rafa0102xadskjx2h3jx12312.cfd
 rafa09lasdck123x123.shop
+rafa12xksdjkadkjcksjdk123x12.sbs
+rafa1cadcjksakx13x12x3123x.cfd
 rafa1fkdlcaskdlx1231.shop
 rafa1sackcsakkjx123.shop
 rafa1yapisadkjkcj12jk3x123.cfd
@@ -69249,6 +69261,7 @@ rafa2vasdkasckl123jkx123.cfd
 rafa3234sxdkajkjscadc123.cfd
 rafa3ck123kjx1kj23x13123132.cfd
 rafa3csdackllk1kl3x123.cfd
+rafa5cjkadscasdjxk13x123.cfd
 rafa9911klasdkajx123x123.sbs
 rafabuilders.com
 rafac123lx123klx123z1.cfd
@@ -82279,6 +82292,7 @@ tebcekilisiphone12.com
 tebcep.kisalink.cc
 tebcepte-sube-parola.myonlineportal.de
 tebceptr.my-homeip.com
+tebdeburdabasvuru.my-homeip.de
 tebdecepsube.com
 tebdedenndenekredilerini.site
 tebdeonlinebasvurlarimylk.site
@@ -95866,6 +95880,7 @@ xxbvruuu.click
 xxcizmxirxzzzcx.line.pm
 xxdfja.help
 xxgegxegge.xyz
+xxhhhwwwsddww.duckdns.org
 xxilan.cix-tr.com
 xxilan.com
 xxmdleroddlrrx.net
@@ -96902,6 +96917,7 @@ yilinucuzurunleri.com
 yilkampanyasigeldi.com
 yillaraldi.com
 yillik-kredikarti-aidat-iadesi.com
+yilmaz-ticaret-ile-siparis-tamamla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
 yilmazdenizmotorlari.com
 yilmazegitimkulturvakfi.com
@@ -97159,6 +97175,7 @@ yonlendlrmeadresleklm.duckdns.org
 yonlendrici-guvenli.sbs
 yonlendrici-stiye-aktar.sbs
 yonlendriciye-aktarliyorsunuz.sbs
+yonlenim-securitytr.garden
 yonnebal.com
 yonnnersdwesd.net
 yonveren.sbs
