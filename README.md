@@ -26,6 +26,12 @@ remaining way to get the data: <https://siberguvenlik.gov.tr/api/>
 Type files start with `#` comment lines. If your consumer does not skip comment
 lines, use `url-list.txt`, which has none.
 
+The `Last change` line in a header is the last time that list's records
+actually changed, not the last time the sync ran. A file whose records are
+unchanged is left untouched, so an hourly run that finds nothing new produces
+no diff at all. `state.json` is where the timestamp of the most recent sync
+lives.
+
 ### By category
 
 [categories/](categories/) holds one file per `<type>-<CODE>` pair. The current
@@ -152,7 +158,8 @@ Running a full crawl every hour would mean pulling about 90 MB from the API
 each time, so it is deliberately avoided. Delta plus a daily full gives the
 same result.
 
-Nothing is committed when nothing changed.
+Only files whose records changed are rewritten, so a quiet hour touches nothing
+but `state.json`, and nothing is committed when even that matches.
 
 ### Running it manually
 
@@ -165,6 +172,7 @@ Locally:
 python scripts/sgb_sync.py --mode full --out .          # rebuild everything
 python scripts/sgb_sync.py --mode delta --out .         # only add what is new
 python scripts/sgb_sync.py --mode full --max-pages 1    # quick smoke test
+python scripts/sgb_sync.py --mode delta --force-write   # rewrite files after a header format change
 python scripts/sgb_sync.py --mode full --include-url-hosts   # merge URL hosts into domains.txt
 ```
 

@@ -376,9 +376,42 @@ def file_header(addr_type: str, desc: str | None, count: int, ts: str,
         f"# T.C. Siber Guvenlik Baskanligi - {title}\n"
         f"# Source : {API_URL}?type={addr_type}"
         + (f"&desc={desc}\n" if desc else "\n")
-        + f"# Updated: {ts}  (mode: {mode})\n"
-        f"# Records: {count}\n"
+        + f"# Records: {count}\n"
+        f"# Last change: {ts} (sync mode: {mode})\n"
     )
+
+
+# Header lines that carry a timestamp, so they must be ignored when deciding
+# whether a file actually changed. "# Updated:" is the pre-LAYOUT-4 spelling.
+TIMESTAMP_HEADERS = ("# Last change:", "# Updated:")
+
+
+def _stable_header(lines: list[str]) -> list[str]:
+    return [ln for ln in lines
+            if ln.startswith("#") and not ln.startswith(TIMESTAMP_HEADERS)]
+
+
+def write_if_changed(path: Path, values: list[str], header: str = "",
+                     force: bool = False) -> bool:
+    """Write a list file only when something other than the clock changed.
+
+    Records and the non-timestamp header lines are compared against what is on
+    disk. Leaving an untouched file alone keeps its timestamp honest, since it
+    then marks the last actual content change, and stops an hourly run that
+    found nothing new from producing a diff in every single file.
+
+    Pass force=True to rewrite regardless, which is what migrates existing
+    files after a change to the header layout.
+    """
+    if path.exists() and not force:
+        existing = path.read_text(encoding="utf-8", errors="replace").splitlines()
+        body = [ln.strip() for ln in existing
+                if ln.strip() and not ln.startswith("#")]
+        if body == values and _stable_header(existing) == _stable_header(
+                header.splitlines()):
+            return False
+    write_atomic(path, header + ("\n".join(values) + "\n" if values else ""))
+    return True
 
 
 # --------------------------------------------------------------------------- #
@@ -472,6 +505,10 @@ def main(argv=None) -> int:
                          "into domains.txt (covers the whole domain, which can "
                          "be too broad for legitimate sites where only one page "
                          "is malicious)")
+    ap.add_argument("--force-write", action="store_true",
+                    help="rewrite every list even when nothing changed, which "
+                         "is how a change to the file header format gets "
+                         "applied to lists that are otherwise static")
     ap.add_argument("--max-pages", type=int, default=None,
                     help="cap pages per type (for quick tests)")
     args = ap.parse_args(argv)
@@ -538,6 +575,7 @@ def main(argv=None) -> int:
 
     counts: dict[str, int] = {}
     category_counts: dict[str, int] = {}
+    changed_files: list[str] = []
 
     # one list per type
     sorted_by_type: dict[str, list[str]] = {}
@@ -545,11 +583,10 @@ def main(argv=None) -> int:
         vals = sort_values(addr_type, per_type[addr_type])
         sorted_by_type[addr_type] = vals
         counts[TYPE_FILES[addr_type]] = len(vals)
-        write_atomic(
-            out_dir / TYPE_FILES[addr_type],
-            file_header(addr_type, None, len(vals), ts, mode)
-            + ("\n".join(vals) + "\n" if vals else ""),
-        )
+        if write_if_changed(out_dir / TYPE_FILES[addr_type], vals,
+                            file_header(addr_type, None, len(vals), ts, mode),
+                            args.force_write):
+            changed_files.append(TYPE_FILES[addr_type])
 
     # one list per (type, category)
     written: set[str] = set()
@@ -560,16 +597,16 @@ def main(argv=None) -> int:
         name = f"{TYPE_PREFIX[addr_type]}-{desc}.txt"
         written.add(name)
         category_counts[f"{CATEGORY_DIR}/{name}"] = len(vals)
-        write_atomic(
-            cat_dir / name,
-            file_header(addr_type, desc, len(vals), ts, mode)
-            + "\n".join(vals) + "\n",
-        )
+        if write_if_changed(cat_dir / name, vals,
+                            file_header(addr_type, desc, len(vals), ts, mode),
+                            args.force_write):
+            changed_files.append(f"{CATEGORY_DIR}/{name}")
     removed_files = prune_category_files(cat_dir, written) if mode == "full" else []
     if removed_files:
         log("removed now-empty category files: " + ", ".join(removed_files))
 
-    # human-readable index for the category directory
+    # Human-readable index for the category directory. No timestamp here, so
+    # the file only changes when the counts do.
     idx = ["# Lists by category", "",
            "| File | Type | Category | Records |", "|---|---|---|---|"]
     for name in sorted(written):
@@ -579,26 +616,29 @@ def main(argv=None) -> int:
         idx.append(f"| [{name}]({name}) | {TYPE_LABELS[addr_type]} | "
                    f"{DESC_LABELS.get(desc, 'Unknown')} ({desc}) | "
                    f"{category_counts[f'{CATEGORY_DIR}/{name}']} |")
-    idx += ["", f"Updated: {ts} (mode: {mode})", ""]
+    idx += ["", "Record counts and sync timestamps live in ../state.json.", ""]
     write_atomic(cat_dir / "README.md", "\n".join(idx))
 
     # drop-in for the old url-list.txt: no header, every type in one file
     combined: list[str] = []
     for addr_type in TYPES:
         combined.extend(sorted_by_type[addr_type])
-    write_atomic(urllist_path, "\n".join(combined) + "\n")
+    if write_if_changed(urllist_path, combined, "", args.force_write):
+        changed_files.append("url-list.txt")
     counts["url-list.txt"] = len(combined)
 
     sorted_url_hosts = sorted(url_hosts)
-    write_atomic(
+    if write_if_changed(
         urlhosts_path,
+        sorted_url_hosts,
         "# Hostnames extracted from type=url records\n"
         "# NOTE: these cover the whole domain, while the source records may\n"
         "# only be malicious on one specific URL path.\n"
-        f"# Updated: {ts}\n"
         f"# Records: {len(sorted_url_hosts)}\n"
-        + ("\n".join(sorted_url_hosts) + "\n" if sorted_url_hosts else ""),
-    )
+        f"# Last change: {ts} (sync mode: {mode})\n",
+        args.force_write,
+    ):
+        changed_files.append("domains-from-urls.txt")
     counts["domains-from-urls.txt"] = len(sorted_url_hosts)
 
     domains_now = set(sorted_by_type["domain"])
@@ -617,6 +657,7 @@ def main(argv=None) -> int:
             "domains_added": len(domains_now - prev_domains),
             "domains_removed": len(prev_domains - domains_now),
         },
+        "changed_files": sorted(changed_files),
         "skipped": {t: len(v) for t, v in skipped.items() if v},
         "api": API_URL,
         "generator": "scripts/sgb_sync.py",
@@ -628,7 +669,8 @@ def main(argv=None) -> int:
     log("done: " + ", ".join(f"{TYPE_FILES[t]}={counts[TYPE_FILES[t]]}"
                              for t in TYPES))
     log(f"  domain delta: +{added} / -{removed}, "
-        f"category files: {len(written)}")
+        f"category files: {len(written)}, "
+        f"rewritten: {len(changed_files)}")
     for t, vals in skipped.items():
         log(f"  skipped ({t}): {len(vals)} samples -> {', '.join(vals[:5])}")
 
@@ -644,6 +686,7 @@ def main(argv=None) -> int:
             fh.write(f"ipv6net={counts['ipv6net.txt']}\n")
             fh.write(f"total={counts['url-list.txt']}\n")
             fh.write(f"categories={len(written)}\n")
+            fh.write(f"rewritten={len(changed_files)}\n")
             fh.write(f"added={added}\n")
             fh.write(f"removed={removed}\n")
     return 0

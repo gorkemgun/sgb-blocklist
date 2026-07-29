@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Cyber Attack (Port Scan, Brute Force etc.) (CA)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=CA
-# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 166
+# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
 1-free-reward.netlify.app
 6465522534.cloud
 a101markt.kampanyalialisveris.com

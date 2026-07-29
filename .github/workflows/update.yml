@@ -27,10 +27,10 @@ jobs:
     timeout-minutes: 30
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -79,5 +79,5 @@ jobs:
             echo "| url-list.txt (all) | ${{ steps.sync.outputs.total }} |"
             echo "| category files | ${{ steps.sync.outputs.categories }} |"
             echo ""
-            echo "Mode: \`${{ steps.sync.outputs.mode }}\` &nbsp;&nbsp; Domain delta: +${{ steps.sync.outputs.added }} / -${{ steps.sync.outputs.removed }}"
+            echo "Mode: \`${{ steps.sync.outputs.mode }}\` &nbsp;&nbsp; Domain delta: +${{ steps.sync.outputs.added }} / -${{ steps.sync.outputs.removed }} &nbsp;&nbsp; Files rewritten: ${{ steps.sync.outputs.rewritten }}"
           } >> "$GITHUB_STEP_SUMMARY"

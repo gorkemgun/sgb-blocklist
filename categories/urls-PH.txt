@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Full URL - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=PH
-# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 272
+# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
 129.121.23.148/~bakiyeyukleme
 129.121.23.148/~onlinepay
 129.121.23.148/~pttcelfaturaodem

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Full URL - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=BP
-# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 1021
+# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
 101dx20i65440.storage.googleapis.com/101dx20i65440.html
 103.255.250.133/~eyapikre
 104.152.168.37/~borcsorgusu

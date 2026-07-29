@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Full URL - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=MD
-# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 798
+# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
 055hd.com/db_template.php
 10beddings.com/db_template.php
 10ia.com/db_template.php

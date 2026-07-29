@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Full URL - Malware Distribution URL (MU)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=MU
-# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 2758
+# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
 055hd.com//db_template.php
 100kisses.org/9hgfdfyr6
 10100m.com/wp1/db_template.php
