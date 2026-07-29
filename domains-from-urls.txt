@@ -1,7 +1,7 @@
 # Hostnames extracted from type=url records
 # NOTE: these cover the whole domain, while the source records may
 # only be malicious on one specific URL path.
-# Updated: 2026-07-29 16:46:07 UTC
+# Updated: 2026-07-29 16:54:43 UTC
 # Records: 3305
 0092store.pk
 028xmz.com

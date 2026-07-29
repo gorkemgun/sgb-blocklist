@@ -1,6 +1,6 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MI
-# Updated: 2026-07-29 16:46:07 UTC  (mode: delta)
+# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 167
 0x666.info
 1235saddfs.icu

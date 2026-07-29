@@ -24,4 +24,4 @@
 | [urls-MU.txt](urls-MU.txt) | Full URL | Malware Distribution URL (MU) | 2758 |
 | [urls-PH.txt](urls-PH.txt) | Full URL | Phishing (PH) | 272 |
 
-Updated: 2026-07-29 16:46:07 UTC (mode: delta)
+Updated: 2026-07-29 16:54:43 UTC (mode: delta)

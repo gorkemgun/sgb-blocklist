@@ -1,6 +1,6 @@
 # T.C. Siber Guvenlik Baskanligi - Full URL - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=MI
-# Updated: 2026-07-29 16:46:07 UTC  (mode: delta)
+# Updated: 2026-07-29 16:54:43 UTC  (mode: delta)
 # Records: 24
 103.195.7.162/bins
 104.248.225.71/bins
