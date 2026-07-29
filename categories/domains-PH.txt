@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98215
-# Last change: 2026-07-29 22:16:32 UTC (sync mode: delta)
+# Records: 98216
+# Last change: 2026-07-29 23:27:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -90968,6 +90968,7 @@ vizeitalya.com
 vizsel.net
 vizyon-tasarlama.online
 vizyoncagrisi.com
+vizyoncephesi.com
 vizyonmimarliktr.com
 vizyonpanel.com
 vja00te.cn
