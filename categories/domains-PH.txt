@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98262
-# Last change: 2026-07-30 18:49:52 UTC (sync mode: delta)
+# Records: 98267
+# Last change: 2026-07-30 20:37:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -33067,6 +33067,7 @@ firsatlarozeltr.name.tr
 firsatlarr-buhaftaa.com.tr
 firsatlarr-indirimii.com
 firsatlarr20233.xyz
+firsatlarra.website
 firsatlarramazandabirbaska.online
 firsatlarrronline.me
 firsatlarsanagelsinsokmarket1.click
@@ -33139,6 +33140,7 @@ firsimvav.cfd
 firsimvav.sbs
 firsotlarbgunozell.site
 firssatsigorta.site
+first-onayweb.ink
 first-stk2023yeni.online
 firstaligel.com.tr
 firstalikacmaz.xyz
@@ -38986,6 +38988,7 @@ halkbankyilbasiozel.com
 halkbnkmobil.duckdns.org
 halkbnkmobilaktif.duckdns.org
 halkbnkmobilduyuru.duckdns.org
+halkdijital.help
 halkfirsati0faizoranlasizlerle.icu
 halki.click
 halkicanocan.co
@@ -56189,6 +56192,7 @@ mhotel2025.world
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
 mhr23623wfqwd.duckdns.org
+mhr23k6m236njsdf.duckdns.org
 mhr2srandv5larnzi.duckdns.org
 mhrandevugov.net
 mhrefshemenrndv.ice.lol
@@ -77621,6 +77625,7 @@ solitudedissident.top
 solitudeindulge.top
 solitudemow.top
 solitudevelvet.top
+soliveprolprsp.click
 sollsticeai.com
 sologerg.com
 solorn.bond
