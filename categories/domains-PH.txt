@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98267
-# Last change: 2026-07-30 20:37:18 UTC (sync mode: delta)
+# Records: 98271
+# Last change: 2026-07-30 22:29:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -41727,6 +41727,7 @@ home-treozr---wallet.webflow.io
 homeandutility.shop
 homebasketlane.shop
 homebasketway.shop
+homebesttish.duckdns.org
 homebrewclubs.org
 homebrewfaq.org
 homebrewupdate.org
@@ -55702,6 +55703,7 @@ melvoria.icu
 memajesty.top
 mematibaseqwe.shop
 member-validation.com
+membercloudzone.com
 memberelaborate.top
 memberentrypoint.com
 membership-listen-freebsd-blake.trycloudflare.com
@@ -72096,7 +72098,9 @@ s0kmarhet.lat
 s0kmarjklet.shop
 s0kmarkeletler.shop
 s0kmarkeltler.shop
+s0kmarklemler.com
 s0kmarkletmer.shop
+s0kmarleletr.com
 s0kmarlketlor.shop
 s0kmlarkletlerden.shop
 s0wexwsdo6.storage.googleapis.com
