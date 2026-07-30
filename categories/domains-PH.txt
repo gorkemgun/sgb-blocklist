@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98217
-# Last change: 2026-07-30 03:33:32 UTC (sync mode: delta)
+# Records: 98221
+# Last change: 2026-07-30 06:44:14 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38968,6 +38968,7 @@ halkanyr.com
 halkasigorta.cloud
 halkbank-islem.com
 halkbank.tr-forms.com
+halkbankasipromosyondeneme.duckdns.org
 halkbankbulusmalari.eventdaystr.com
 halkbankkredihesaplamasitesi.blogspot.com
 halkbankyilbasiozel.com
@@ -68555,6 +68556,7 @@ publishlever.top
 pubmanoeuvre.top
 pubsuppressive.top
 puddinglubricate.top
+pueedusstaff.unaux.com
 pufyna.com
 puigov.vip
 pujakumari.duckdns.org
@@ -79515,6 +79517,7 @@ stitchit.pk
 stitchmajestic.top
 stittintem.top
 stiturel.com
+stivaleno.pro
 stiwellberlingose-idente.com
 stiye-aktacrici--gvuenli-hzli.sbs
 stiye-hizli--yonlndirme.sbs
@@ -95929,6 +95932,7 @@ xzmrdexsnbz.net
 xzmxrxmh1zlyklee35.net
 xzokw.com
 xzpwxgtagutg.boyacentury.cn
+xzr300xbsvruzrt0life.click
 xzrt300zx300xrt.cfd
 xzrt300zxdv300xrt.cfd
 xzrt300zxnv300xrt.cfd
