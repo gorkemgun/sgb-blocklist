@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98225
-# Last change: 2026-07-30 09:45:08 UTC (sync mode: delta)
+# Records: 98231
+# Last change: 2026-07-30 12:06:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30268,6 +30268,7 @@ et-distinctio.com
 et1ilis.xdk8ax.cn
 etahsilatkgm.net
 etaksitode.net
+etalimatkamu.org
 etapkohbdes.online
 etapu.co
 etbccmuygulama.com
@@ -31902,6 +31903,7 @@ fashiontrendyol.com
 faslanfoslan11.nicepage.io
 fasliaf.click
 fassbind.help
+fast-havale.com
 fast-ilan.com
 fast-redirect.host
 fast.500bin-konut.com
@@ -35641,6 +35643,7 @@ germsulfur.top
 germtaste.top
 germyfood.click
 gernik.site
+gerokgun.duckdns.org
 gerstwenscou.com
 geryangro.com
 geryednukaktarim2024.cfd
@@ -45986,6 +45989,7 @@ isbankasi-etkinlikanketi.anbean.co
 isbankasi-turkiye.com
 isbankasi.mobilsubelerimizden.com
 isbankasiacc.com
+isbankasivatandaspayi.digital
 isbankdijitalgiris.tk
 isbankmobil-com-tr.ml
 isbankonlinebasvuru.top
@@ -49438,6 +49442,7 @@ kepbilgisi.com
 kepdogrulama.com
 kepim.com
 keralamist.com
+kerametran.ezgateway.net
 kerberdedasd.xyz
 kereca.space
 kereste.moe
@@ -51197,6 +51202,7 @@ kurumaktif.org
 kurumgecisodeavodesi.xyz
 kurumiadeportaliniz.com
 kurumlarinresmigirisadresii.com
+kurummali.org
 kurumodemeleri.co
 kurumsaiweb.co
 kurumsal-a101.online
