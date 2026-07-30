@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98221
-# Last change: 2026-07-30 06:44:14 UTC (sync mode: delta)
+# Records: 98225
+# Last change: 2026-07-30 09:45:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5737,6 +5737,7 @@ albarakka.com
 albay-b1mc3l.blogspot.com
 albaycheck.online
 albaycheck.shop
+albayquery.space
 albkrtkr4.app
 alboilehizli.com
 albrk71.app
@@ -7434,6 +7435,7 @@ araaracmuayene.com
 araaskargo.com
 arab-tupras-islamictrading.com
 araba-cekilisi-paribu.com
+araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi.com
 araba-cekilisisizinicinkampanya.com
 araba-paribu.com
@@ -75177,6 +75179,7 @@ service--legdrer--start--io.webflow.io
 service-account-notification-siginin-nonrf.wdwsd-wdm.com
 service-application.com
 service-cdiscount-tombola.one
+service-center-instagram.com
 service-ch.com
 service-djqdewwn-administrator.site
 service-fuqqoydy-administrator.site
@@ -88348,6 +88351,7 @@ universitevakfi.org
 universityconvict.top
 universitynomination.top
 universityslam.top
+universus.stream
 univiewd.com
 univiewd.online
 unk.hontinetalmanged.com
