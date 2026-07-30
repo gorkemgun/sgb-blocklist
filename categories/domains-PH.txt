@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98241
-# Last change: 2026-07-30 14:35:46 UTC (sync mode: delta)
+# Records: 98256
+# Last change: 2026-07-30 16:51:48 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -16184,6 +16184,7 @@ bytra.cyou
 byuunmlcel.net
 byvlsa.com
 bywaka.site
+byyrdrmdmdnsnttt.com
 byzlareal.buzz
 byzoxi.site
 byzuma.site
@@ -38496,6 +38497,7 @@ haber-trend.site
 haber-tur.site
 haber-turk.click
 haber-turk.life
+haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye1923.sbs
 haber-yayincilik.site
@@ -40384,6 +40386,7 @@ herddspnl.com
 herdestekbirfidan.com
 herdestekbirfidann.com
 heregelerdes.duckdns.org
+hergetxdeedxx.duckdns.org
 hergirisbirdestek.com
 hergunfirsatihemenglobalbance.tech
 herilox.store
@@ -46321,6 +46324,7 @@ istanbuldurbizim.xyz
 istanbuledu.co
 istanbulekonomix.com
 istanbulflom.com
+istanbulfree.xyz
 istanbulfrt.ml
 istanbulgngkartel.net
 istanbulguzellik.me
@@ -58781,6 +58785,7 @@ nchobro-2k43.4everland.app
 nclermkelsomedin.net
 ncm-invest.com
 ncminvest-global.com
+ncminvestmentmenkuldegerler.com
 ncnxinvsfrndnevu.net
 ncoalitmnmcs.shop
 ncqdvr.top
@@ -62943,6 +62948,10 @@ otokiralafiloonline.com
 otokiralama-hizmetleri.online
 otokiralikfiloport.com
 otokoc.rent
+otokocarabakirala.com.tr
+otokocarabakiralama.com.tr
+otokocarackirala.com.tr
+otokocarackirala.net.tr
 otokocfilo.net
 otokocfilo.org
 otokocfilom.net
@@ -62953,9 +62962,13 @@ otokocfilorentacar.com
 otokocfilotr.com
 otokocfilotr.net
 otokocfiloturkiye.net
+otokockirala.net.tr
 otokockurumsal.org
 otokockurumsal.rent
 otokoclakirala.com
+otokoconline.com.tr
+otokoconline.net.tr
+otokoconlinekirala.com.tr
 otokocrent.org
 otokocrentacar.net
 otokocrentacar.org
@@ -81387,6 +81400,7 @@ tabilenn.site
 tableadjust.top
 tableera.top
 tableexclaim.top
+tablemint.biz
 tabletunfold.top
 tablo-edilgen-deger.myonlineportal.ch
 tabooappraisal.top
@@ -84202,6 +84216,7 @@ togg.live
 togg.lol
 togg.onsatisbasvur.com
 togg.satisonbasvuru.com
+togg.website
 togg2026.com
 togg2026.xyz
 togg5000haziran.sbs

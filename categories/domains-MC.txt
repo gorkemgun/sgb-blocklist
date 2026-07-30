@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41079
-# Last change: 2026-07-30 14:35:46 UTC (sync mode: delta)
+# Records: 41070
+# Last change: 2026-07-30 16:51:48 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -8029,7 +8029,6 @@ classmunch.com
 clatteqrpq.digital
 clatter.btfdf.com
 claud-mail.ru
-claude-pro.com
 claudflurer.com
 claw0x3.ddns.net
 clawsindia.com
@@ -10528,7 +10527,6 @@ dlnoryuolxttcvp.su
 dlodapps.ru
 dlokis.xyz
 dlpossie.ddnsfree.com
-dlrz-web.oss-cn-beijing.aliyuncs.com
 dls-gov.firstcloudit.com
 dltruek.com
 dltucra.com
@@ -15450,7 +15448,6 @@ gouaondoaudbaebobguu.info
 goudieelectric.shop
 gougounu.site
 gouvn.me
-gouvvbo.top
 gov-lk.org-liv.net
 gov-pok.net
 gov.cn.uqauv.cn
@@ -20997,7 +20994,6 @@ library-update.com
 libudi.oreversa.com
 licatrade.com
 license-appointed-asset-pulled.trycloudflare.com
-license.claude-pro.com
 license23.xyz
 lid-gb.xyz
 liderfinancesa.com.de
@@ -33816,7 +33812,6 @@ syka228.ddns.net
 syloger.com
 sylvaclouds.eu
 sylvainralentit.ddns.net
-sylverixstrategy.com
 sylverrepair.com
 sylviaoslh01.ddns.net
 sym.publicvm.com
@@ -36267,16 +36262,13 @@ updatasuccess.ddnsgeek.com
 update-check.com
 update-checker-status.cc
 update-chrome.realgodad.workers.dev
-update-crowdstrike.com
 update-health-service.azurewebsites.net
 update-help.com
 update-kaspersky.workers.dev
 update-microsoft.space
 update-now.org
-update-sentinelone.com
 update-symantec.com
 update-teams.live
-update-trellix.com
 update-windows-security.tk
 update.86wts86a8j.com
 update.adboeonline.net
@@ -37034,7 +37026,6 @@ versinlinksiaru.jeterawa1982.workers.dev
 version.google-chrome.org
 versist.site
 versusx.us
-vertextrust-advisors.com
 vertical-pentium-b-dead.trycloudflare.com
 vertical-scaling.com
 vertualstreak.info
