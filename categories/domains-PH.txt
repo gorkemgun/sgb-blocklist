@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98231
-# Last change: 2026-07-30 12:06:30 UTC (sync mode: delta)
+# Records: 98241
+# Last change: 2026-07-30 14:35:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7436,6 +7436,7 @@ araaskargo.com
 arab-tupras-islamictrading.com
 araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
+araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
 araba-cekilisisizinicinkampanya.com
 araba-paribu.com
@@ -30252,6 +30253,7 @@ esubeinfonline.com
 esubeinfoyatirim.com
 esubemfibavarlikmobil.online
 esubenizz.net
+esubeturkishkayit.com
 esubevakfdgital-subemiz.xyz
 esubevaktizamanigeldi.xyz
 esubeyeri-vkf.tk
@@ -30268,6 +30270,7 @@ et-distinctio.com
 et1ilis.xdk8ax.cn
 etahsilatkgm.net
 etaksitode.net
+etalimatdosya.org
 etalimatkamu.org
 etapkohbdes.online
 etapu.co
@@ -40179,6 +40182,7 @@ hemenrandvu.com
 hemensatinalgunlukfirsatlar.xyz
 hemensepet.com.tr
 hemensepetekle.click
+hemensielmnokta-islnakt.net
 hemensigorta.net.tr
 hemensigortaarac.xyz
 hemensigortala.online
@@ -46449,6 +46453,7 @@ istanbuxlxllllkxrttt.net
 istancansancan.xyz
 istancbellxr.net
 istandblbenim.net
+istanfreefess.xyz
 istanibkllkart.com
 istankarttt.xyz
 istanlbxs.com
@@ -59468,6 +59473,7 @@ nextworldly.world
 nextxriver.com
 nexulio.xyz
 nexulix.com
+nexumra.com
 nexusapi.online
 nexuscoveinccorp.com
 nexusfleck.com
@@ -64106,6 +64112,7 @@ paribu-hediyelicark.com
 paribu-net-giris.site
 paribu-net-giris.website
 paribu-net-giris.xyz
+paribu-pepe-cekilisi.giize.com
 paribu-sistem.com
 paribu-sogukdepo.com
 paribu-technology.com
@@ -72922,6 +72929,7 @@ sahibinden.ileguvenliodeyin.com
 sahibinden.ileodeme-tr.com
 sahibinden.ileodeyin.com
 sahibinden.ileservishzmetin.com
+sahibinden.islemlerin-mobilde.com
 sahibinden.iyzico-get-safe.com
 sahibinden.kolay-alimsatim.com.tr
 sahibinden.kurumsal-al.com.tr
@@ -94869,6 +94877,7 @@ xanvirandeviksfl.net
 xanzal.xyz
 xaqwg226.app
 xaracmuxyneservisi.com
+xaratatata.duckdns.org
 xarxc-muanetr.net
 xasdzsdvasdx.net
 xavemora.com
@@ -95643,6 +95652,7 @@ xn--sahibinden-gvenli-e3b.ileal.com.tr
 xn--sahibinden-param-gvende-tpc.com
 xn--sahibinden-paramgvende-8lc.secure-gets.com.tr
 xn--sahibindengvenlialisveris-pwc.net
+xn--sahibindenkargomilanmn-6ld.com
 xn--sahibindenparagvende-3ec.com
 xn--sahibindensatlk-klcb.net
 xn--sahibindensatlk2el-q0cb.com
