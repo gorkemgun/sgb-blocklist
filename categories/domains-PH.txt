@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98256
-# Last change: 2026-07-30 16:51:48 UTC (sync mode: full)
+# Records: 98262
+# Last change: 2026-07-30 18:49:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5404,6 +5404,7 @@ akkredimm1.wixsite.com
 aklafirsatakacirma.com
 aklistrsaveras.online
 aklksfaoizlea.blogspot.com
+akmobil-ceptebasvuru-ekrani-com.webredirect.org
 akmobil-onlinebasvuru-ekrani-com.webredirect.org
 akmobil-onlineislem-ekrani.duckdns.org
 akmobilceptekredifirsatin.online
@@ -51243,6 +51244,7 @@ kurumsalsigortam.com.tr
 kurumsaltarife.com
 kurumsaltarife.net
 kurumsalyumx.cfd
+kurumsicil.org
 kurumsorgu.org
 kurutmazamanigeldi.com
 kuruumsalsigorta.site
@@ -56221,6 +56223,7 @@ mhrs.fr
 mhrs.iyoz.net
 mhrs.xyz
 mhrs5nwdkm3.duckdns.org
+mhrsanlikodemehizli.icu
 mhrsanlikolarakrandevuhak4nxd.duckdns.org
 mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
@@ -69578,6 +69581,7 @@ rappppc.com
 rappseo.com
 rar-lab.software
 raracim.net
+raramic640.online
 rarandvlrmmhrsbrda.sbs
 rarcherdeta.top
 rarebronze.top
@@ -84212,6 +84216,7 @@ togg-nato-ozel-cekilis.space
 togg-nato-ozel-cekilis.xyz
 togg-satisi.cfd
 togg.101kapimda.com
+togg.best
 togg.live
 togg.lol
 togg.onsatisbasvur.com
@@ -96968,6 +96973,7 @@ yillaraldi.com
 yillik-kredikarti-aidat-iadesi.com
 yilmaz-ticaret-ile-siparis-tamamla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
+yilmaz-ticaret-ile-siparisini-tamamla.com
 yilmazdenizmotorlari.com
 yilmazegitimkulturvakfi.com
 yilmazlartekel63.online
