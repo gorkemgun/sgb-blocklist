@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98280
-# Last change: 2026-07-31 07:17:06 UTC (sync mode: delta)
+# Records: 98290
+# Last change: 2026-07-31 10:01:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -743,6 +743,7 @@
 17eylul-com.site
 17nor.com
 17temmuzbucukdasipairs.cloud
+18-2-rnvlrdanbrda.com
 18-219-65-232.plesk.page
 18012024.com
 1817.dadjaneelse.live
@@ -13037,6 +13038,7 @@ bisikletlerihemenkesfetal.com
 biskletciniz-geldiy-ll.cfd
 bislem.net
 bisopinulgen.top
+bist.youthside.co
 bistbobette.site
 bisulfid.com
 bit-360.site
@@ -50071,6 +50073,7 @@ kkuvvve.duckdns.org
 kkvkvkvkvkllll.net
 kkwxle.click
 kkxntkxrtodmhmzet.net
+kkxxcsswxxx.duckdns.org
 kl12lps.click
 kl4d.blogspot.com
 klaimentglobe.top
@@ -58461,6 +58464,7 @@ n-v3diyaxainanim.net
 n-vi1diyaxainanim.net
 n-vnakavtslx.blogspot.com
 n-vvs-ii.net
+n-xsorguapileri.onrender.com
 n.misecure.com
 n1-eunews.com
 n1-hr.com
@@ -78832,6 +78836,7 @@ sqyqjp.help
 srandxuvkd.net
 src-mistress-submitted-operational.trycloudflare.com
 srcn.online
+srdansanrabigbrda.shop
 srg-online.online
 srgasdasd.click
 srgczu.help
@@ -82838,6 +82843,7 @@ telekominternetkampanyasi.org
 telekomkampanya.net
 telekomkurumsal.net
 telekommagazin.com
+telekommobilhattasima.com.tr
 telekomnet-internet.com
 telekomonline-basvuru.site
 telekomonline-fiber.site
@@ -83996,10 +84002,12 @@ tkdeservl.com
 tkdijital.site
 tkfbba.top
 tkg-edvtap-randv.org
+tkg-edvtap-randvv.org
 tkg-edvtapko.org
 tkg-edvtapkonrandv.org
 tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
+tkg-tapsurndvnuzs.info
 tkg-tapsurndvnuzs.net
 tkgmgov.weebly.com
 tki-online-bsvr.cyou
@@ -86775,6 +86783,7 @@ ttktskkcskcsxzx.net
 ttktslkcscsc.net
 ttkvldeserr.com
 ttmobile.com.tr
+ttmobilhattasima.com.tr
 ttmvsert.net
 ttn2wp.csb.app
 ttnet.internet-fiyatlari.com
@@ -87428,6 +87437,7 @@ turktelekom.kampanyasi.net
 turktelekom.kampanyasi.org
 turktelekom.onlinekampanyalar.org
 turktelekom.rewardsdelivery-program.club
+turktelekom.sbs
 turktelekom.site
 turktelekom.ta.tc
 turktelekom.website
