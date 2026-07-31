@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98290
-# Last change: 2026-07-31 10:01:33 UTC (sync mode: delta)
+# Records: 98310
+# Last change: 2026-07-31 12:20:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -136,6 +136,7 @@
 0xmo0aq.cn
 0zm57e9.cn
 1-0-1pluscepte.com
+1-82-brdanrdval.com
 1-sorgulama-adresi.blogspot.com
 1-stvilla-reservation-completion.com
 1-xn-www-acikdeniz.com.tr
@@ -2408,6 +2409,7 @@
 81958-coinbase.com
 81ileproje.sbs
 81sigortam.com.tr
+82-2-rnvlrdanbrda.com
 824346-coinbase.com
 826298-coinbase.com
 8276912.brizy.site
@@ -5180,7 +5182,10 @@ ailegencturkiyegovtr.com
 ailegovtr.online
 ailegovtr.tech
 ailelergencler.com
+ailemgov.biz
+ailemtr.biz
 ailesaglik-pademidestek-turkiye.com
+ailetr.online
 aileveevlilikfonu.com
 ailevegenclik-7.blogspot.com
 ailevegenclik-b.blogspot.com
@@ -6298,6 +6303,7 @@ alrandsg.net
 alreadyaeetic.top
 alreadycompile.top
 alriyadhgate.com
+alrndv1-82brdan.com
 alrzumcaymaknesi.shop
 alsadecealonlineal.pro
 alsanda-gulsen-mutlu-hissetsen-sakin-kacirma.com
@@ -17600,6 +17606,7 @@ ceza-bilgilendirme.com
 cezaadli.org
 cezaavukatburo.com
 cezabirim.org
+cezabirimi.net
 cezaborcu.com
 cezadavadosyalarim.com
 cezadavam.com
@@ -17616,6 +17623,7 @@ cezaislemi.com
 cezakamu.org
 cezakamuportal.org
 cezakarar.net
+cezakayit.com
 cezalarim13odemesi.herokuapp.com
 cezalarimodemesi.herokuapp.com
 cezalarodemesi.herokuapp.com
@@ -17628,6 +17636,7 @@ cezamaliyehukuk.com
 cezamaliyehukuku.com
 cezamaliyesihukuk.com
 cezamdosya.com
+cezamerkezi.org
 cezanizisorgulatin.com
 cezaodemem.net
 cezaodetbayi.com
@@ -17636,6 +17645,7 @@ cezasorgulat.com
 cezasorgusistemi.org
 cezasorgusu.com
 cezasorguuyap.com
+cezatakip.net
 cezatc.net
 cezauyapsorgu.com
 cezauzlasmamaliye.com
@@ -18594,6 +18604,7 @@ clyscslccss-cswqs.com
 cm342nsdvc.cyou
 cmahzmtsnryk.net
 cmdbycian.156953coinbase.com
+cmhuzlasma.org
 cmk3v4u.cn
 cmljpl.top
 cmmrbsknlk-vtndds-112.ga
@@ -27635,6 +27646,7 @@ e-sosyaldestekpandemiuygulamasigvtr.com
 e-sozlesme.kurumsal-online-islem.com
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
+e-sube.tunafonyonetimi.com
 e-subesiz-vakf-digitale.xyz
 e-t-c-meisai3.an4yu.cyou
 e-tahsiemlk.com
@@ -29051,6 +29063,7 @@ emajartjournal.com
 emakihabar24.lovable.app
 emaleblunder.top
 emaliyecezalar.org
+emaliyeegm.org
 emaliyegovtr206.com
 emaliyegovtr233.com
 emaliyegovtr336.com
@@ -41575,6 +41588,7 @@ hmnbnlaraglsnde.com
 hmnbsvr.site
 hmnebasvurtyap.co.vu
 hmniadeald.net
+hmnilsmkntans.net
 hmnislemonlniesonuc.net
 hmnislmknat.net
 hmnislmnkatnas.net
@@ -61859,6 +61873,7 @@ online-hemenbasvurvefirsatlardanyararlan.com
 online-hesap.com
 online-hgsyukle.com
 online-hizimet.tk
+online-hizli-islem.com
 online-hizmet-islem.com
 online-hizmet.shop
 online-hizmeti.net
@@ -84009,6 +84024,7 @@ tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info
 tkg-tapsurndvnuzs.net
+tkgg-edvtap-randvv.org
 tkgmgov.weebly.com
 tki-online-bsvr.cyou
 tkibasvurularimysfliocomdatatitansbschronosyssbs.luminix.sbs
@@ -85704,6 +85720,7 @@ trcbnrcbgrisi.com
 trcep-bn-tekno-giris2022.cf
 trcepprbdestek-prbbx2022.com
 trceza.org
+trcezasorgu.org
 trchery.com.tr
 trclothingstore.shop
 trclub.space
@@ -86909,6 +86926,7 @@ tumsongunceletkinlik.net
 tumsucbana.online
 tumtrk.b-cdn.net
 tumupap.pro
+tunafonyonetimi.com
 tunaportfoyonetim.com
 tunastra.cc
 tunedia.com
@@ -89594,6 +89612,7 @@ valdrmedia.top
 valedevation.top
 valencrestora.top
 valenspara-elre.it.com
+valenspara-fejoo.it.com
 valentakkx.store
 valentinpaketleme.site
 valentoro.top
@@ -96197,6 +96216,7 @@ yardimlasmavakfi.com
 yardimmerkezi-lnstagram.ml
 yardimmerkezi.cf
 yardimodemeleri.31-44-2-24.plesk.page
+yardimpaketim.com
 yardimpapara.com
 yardimpetek.org
 yardimsahibinden.com
