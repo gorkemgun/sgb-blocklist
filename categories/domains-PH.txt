@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98271
-# Last change: 2026-07-30 22:29:10 UTC (sync mode: delta)
+# Records: 98277
+# Last change: 2026-07-31 00:17:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -392,6 +392,7 @@
 1239156823.cloud
 123f5931.gfwisd-235.shop
 124124121.sbs
+124124124.duckdns.org
 1243124234.store
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
@@ -66486,6 +66487,7 @@ ppppssp.net
 ppppssssaaaaa.top
 pppt-alisvers.com
 ppptgov.fun
+pppzirpppsf.nicepage.io
 pprgkmz.com
 ppsba.site
 ppt-delivery.life
@@ -69184,6 +69186,7 @@ qwaxcheck.rf.gd
 qwbeqw.top
 qwdasdanxdnmwq.net
 qwdasdszxcvxv.duckdns.org
+qwdx21x1xd12.duckdns.org
 qweazd.net
 qwedfqwdqasdfasf.duckdns.org
 qwenytuntyuner.click
@@ -69488,6 +69491,7 @@ randevuhatti.net
 randevuhizmetlerimizz.com
 randevuhzmtlerburdsas.store
 randevulugun.com
+randevulugunlerburada.duckdns.org
 randevulugunlere.com
 randevumerkez.com
 randevumerkezi.net
@@ -95575,6 +95579,7 @@ xn--lgazors-qfb.de
 xn--lotremnant-1s6e.top
 xn--lzmrkxrttbkyxhzlykle-kbd.net
 xn--lzmrxczx-vkb.net
+xn--markafrasst101-bgc.com.tr
 xn--mehmetcikvkfi-rf2g.com
 xn--mgzaonlinesats-igc.com
 xn--mhmsadfwe-upb.net
@@ -97981,6 +97986,7 @@ ziraattenbasvuru.sbs
 ziraattenodemeyialin.com
 ziraatttt.com
 ziraatyazkacirilmazfirsat.tk
+zirailillf.cfd
 ziratbasvuruihtiyac.com.tr
 ziratoff.online
 zircartel.tr
