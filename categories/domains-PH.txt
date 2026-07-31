@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98373
-# Last change: 2026-07-31 19:56:13 UTC (sync mode: delta)
+# Records: 98374
+# Last change: 2026-07-31 21:31:22 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -51027,6 +51027,7 @@ kreditvergleichenseite.top
 kreditypay-firsatlarim.online
 krediuygulama.com
 krediyapimobildeonayla.co.vu
+krediye-online-basvur.cfd
 krediye-online-basvur.click
 kredkartaidatfor4.com
 kredl-basvru-garantl.com.tr
