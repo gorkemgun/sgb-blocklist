@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256613
-# Last change: 2026-07-31 12:20:07 UTC (sync mode: delta)
+# Records: 256630
+# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -177,6 +177,7 @@
 01230796125348888.cloud
 012323232.duckdns.org
 01241jf51135.duckdns.org
+012492352.duckdns.org
 01251z7346226.duckdns.org
 0125411202120.online
 0128m7t65235541r31267.store
@@ -6415,6 +6416,7 @@
 31102025basvuru.store
 312-234-54-65.cfd
 312222545548789988990.duckdns.org
+312222545548789988991.duckdns.org
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -10049,6 +10051,7 @@
 88635324-657546722222.com.tr
 8866868686886.duckdns.org
 88764332111111.cloud
+887879ymnsdssdsas.com
 888000888800.duckdns.org
 888002121588808.gleeze.com
 888005528.cloud
@@ -87699,6 +87702,7 @@ esnaf.e-devletmobil.net
 esnafdestekpaketi.epizy.com
 esnafdstekbasvr.cfd
 esnaflar-ciftci-webtr-giris.com
+esnek-figur.ink
 esnek-limit.net
 esnfdestek.cfd
 esnfytrmtdstk.cfd
@@ -107771,6 +107775,7 @@ haber-kartinizinislemlerigovtr.org
 haber-krizi.cfd
 haber-krizi.com
 haber-krizi.sbs
+haber-merityen18556.sbs
 haber-nerde.club
 haber-nerde.life
 haber-net.website
@@ -156465,6 +156470,7 @@ mail.online-basvur-vkf.us
 mail.online-cep.com.tr
 mail.onlineislemlervb.link
 mail.onlinekrediislemleribasvur.link
+mail.otokocfilo.net
 mail.pttavme.com
 mail.sahbindenparamguvende.duckdns.org
 mail.sahibiniz.top
@@ -164515,6 +164521,7 @@ muhtrrhssan.site
 muhuduhusuhud.site
 muhugudue-redetesede.lol
 muhugudueretese-duguhuderede.lol
+muhugufe-redesede.lol
 muhur.online
 muicu.info
 muikyatirim.com
@@ -165420,6 +165427,7 @@ n4m6k8xq9f3h7v2asb.sbs
 n4shcnkybimcell.net
 n4shkalistrongbabalarkeyifte.net
 n4shvekalilogkeyfi.net
+n4zyl8qwe2xrm7pkhv1cla.click
 n54ckn72sncg3lepw4ygs6czse-ac5fdsxevxq4s5y-www-isbank-com-tr.translate.goog
 n5q7b2x8m4v9.cfd
 n5t304xi49yf.icu
@@ -179052,6 +179060,7 @@ paribu-22-giris.com
 paribu-5yil.com
 paribu-6yilozel.com
 paribu-anindakampanya.online
+paribu-arabasansi.link
 paribu-auth-wallet.net
 paribu-auth.com
 paribu-authe-wallet.net
@@ -179202,6 +179211,8 @@ paribu-ozel.com
 paribu-ozelhediyegunu.com
 paribu-ozelhediyeleri.com
 paribu-ozelhediyeniz.com
+paribu-pepe-cekilisi.link
+paribu-pepehediyem.link
 paribu-promosyon.com
 paribu-promosyonlar.com
 paribu-ramazankampanyasi.net
@@ -180054,6 +180065,8 @@ paribuozelhediyefirsatlari.xyz
 paribuozelhediyeleri.com
 paribuparamguvende.com
 paribupazartesi.com
+paribupepe-hediyem.link
+paribupepe-hediyen.link
 paribupizzagunu.xyz
 paribuplartform.com
 paribuplaydogeseninle.com
@@ -218675,6 +218688,7 @@ tr-binancecarkicevir-kazanhemen.cloud
 tr-binancecarkicevir-kazansende.cloud
 tr-binancedestek.com
 tr-binancekampanyalar.net
+tr-binancelogin.com
 tr-binancem.com
 tr-binancemasak.duckdns.org
 tr-binances.click
@@ -245542,6 +245556,7 @@ xvertia-zcea001.com
 xvjxjvjxvjvj.net
 xvjxvjxvjxv.net
 xvjxvjxvjxxvj.net
+xvla9qtmz8crk4pb.cfd
 xvlbmvxbxv.net
 xvsgcklmdankcrmat.online
 xvsgcklmdankcrmax.online
@@ -245804,6 +245819,7 @@ y1o1comtr.online
 y22yk.com
 y2itsxza.com
 y3k7n5r9w2t6.sbs
+y44nlndird4st4maktifsen.duckdns.org
 y4kl4smaaa.xyz
 y4m7k2x8q9b3fhs6na.sbs
 y4pimineniyisi597ckjblk.com
@@ -253517,6 +253533,7 @@ zaceliskef.xyz
 zacetinet.store
 zacka.xyz
 zadasasdsad.sbs
+zadeserede-sedepiloki.lol
 zads34gkra.duckdns.org
 zafer-34bayramiozel.com
 zafer-bayramindrimi.com

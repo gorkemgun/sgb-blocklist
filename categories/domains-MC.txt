@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41070
-# Last change: 2026-07-30 16:51:48 UTC (sync mode: full)
+# Records: 41073
+# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -4104,6 +4104,7 @@ art.yfieldrainasch.com
 art12sec.ga
 art23546.xyz
 art67.xyz
+artcnb.com
 artexchange.top
 artflowerstreet.net
 arthearts.com
@@ -19109,6 +19110,7 @@ jreeyvzazu.duckdns.org
 jrescobar2020.com
 jrgixe.com
 jrjonesolicitors.com
+jrown.fun
 jrsahalarda.com
 jrsewjsabeucwfh.cn
 jrtersdfg.pages.dev
@@ -20851,6 +20853,7 @@ legendisback.icu
 legendnextdoor.com
 legendoffline.com
 leggelatez.lat
+legio.name
 legislature84.xyz
 leha.clay.rest
 lehelec.yachts

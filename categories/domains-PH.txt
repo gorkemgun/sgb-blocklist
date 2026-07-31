@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98310
-# Last change: 2026-07-31 12:20:07 UTC (sync mode: delta)
+# Records: 98345
+# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2354,6 +2354,7 @@
 7gx3ggs.xdk8ax.cn
 7h-h-hsr-f12fwsaadag-sagsad.com
 7h-h-hsr-f12fwsaag-sag-af1wqsasf.biz.tr
+7hgs.top
 7hxaupp.cn
 7jdy-n8ny.coinbase-com.info
 7jointrevive.com
@@ -7879,6 +7880,7 @@ aras-krgolariniz-kapilarda.com
 aras.heylink.website
 aras.kargo-expres.com.tr
 arasakmsa.click
+arasaslfasofaslmsa.online
 arascargos.com
 arasgkam.shop
 arasgunes.pro
@@ -13001,6 +13003,7 @@ birikimkutusu.site
 birikimyolu.net
 birimandaolusturulankampanya.beauty
 birimiz-kursun-birimiz-tabanca.mooo.com
+birimuzlasma.org
 birinebakicam.duckdns.org
 birislemin.com
 birkanvakfi.com
@@ -13674,6 +13677,7 @@ blogger-pakt-v.blogspot.com
 blogger-peak-pakeds12.blogspot.com
 bloggingthenews.com
 blogmnuscrpt.top
+blogs-innovations-accessing-jackson.trycloudflare.com
 blogsalmon.top
 blogsmile.ru.com
 blokmint.cfd
@@ -14790,6 +14794,7 @@ brdaalsengslegh.com
 brdafrsalarnfaydnlacrfsa.cfd
 brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
+brdamhrsrarandvzhmzr.sbs
 brdanlardankzdenlrden.com
 brdanlardanszlardans.shop
 brdfrsat1a1glalsindi.com
@@ -27363,6 +27368,7 @@ e-devlet-pandemi-destek.biz
 e-devlet-platform.vip
 e-devlet-portal-giris.haksizfil.cfd
 e-devlet-process-services.radlonx.online
+e-devlet-turkiye-ssk-prim-sorgu.blogspot.com
 e-devlet-veri.cf
 e-devlet.aidatiadesistemi-basvuru.rf.gd
 e-devlet.autocode.gg
@@ -27387,6 +27393,7 @@ e-devletaidat.hkmtta.org
 e-devletaidat.tk
 e-devletaidatodemebasvuruformu.tk
 e-devletaidatodemeleriniz.cf
+e-devletana.com.ph
 e-devletcom.tk
 e-devletfaiz.com
 e-devletgeri.net
@@ -27394,6 +27401,7 @@ e-devlethizmet-geliridaresi-portal.tk
 e-devletiadeleri-2020.com
 e-devletim-giris-portal-turkiye.com
 e-devletim-iadesi-aidat.com
+e-devletinvest.digital
 e-devletinvest.live
 e-devletkarthizmetleri-aidatiadelerigirisgovtr.com
 e-devletkredi.ga
@@ -27402,6 +27410,7 @@ e-devletmaslaksube.com
 e-devletmobilgiristrgov.tk
 e-devletodmelerim.com
 e-devletonlineiadebasvurularim2022.net
+e-devletresmituvturk.site
 e-devletsistemi.tech
 e-devletsistemi.xyz
 e-devlette-iade2021-destek-ekibi-guvenli-kurumsal.xyz
@@ -28798,6 +28807,7 @@ elaboratemortality.top
 elaborationcynical.top
 elaborationfrown.top
 eladjiomasek.top
+elaexallance.com
 elaexxellanceresorts.net
 elakshihousing.com
 elalemdinlemessedealemdinler.net
@@ -30505,6 +30515,7 @@ euygulama6.com
 euygulama7.com
 euzlasma.org
 euzlasmasorgu.org
+euzlasmatalimat.org
 euzlasmateblig.com
 euzlasmateblig.org
 ev-icin-modern-urunler.top
@@ -35287,6 +35298,7 @@ gecicikampanyafrisatisizlereozel.tech
 gecicikampanyaicinsongunsizlerle.tech
 gecis3dodeme3d.xyz
 gecisbakiyebayi.firebaseapp.com
+gecisbakiyukleme.web.app
 gecisbilgi-ihlalsis.icu
 gecisdevm.com
 gecisdlaosl.net
@@ -35354,6 +35366,7 @@ gelall360iade.app
 gelbirdeburdanyak.com
 gelbizdeal.net.tr
 gelbizdeal.org.tr
+geldasdawcce.duckdns.org
 geldesgeahhsder.duckdns.org
 geldi-basinda-kacirma-hizlica-yakala-alirsin.com
 geldi-suan-sende-kacirma.com
@@ -40166,6 +40179,7 @@ hemenislemnktsi.shop
 hemenislemnoktasnin.net
 hemenislemosnutlktaktan.blogspot.com
 hemenislmkntokas.net
+hemenislmokntai.net
 hemenislntknaslna.net
 hemenislslsonucsb.online
 hemenismlantans.net
@@ -41844,6 +41858,7 @@ honestcardinal.top
 honestenclose.top
 honestlerkesjer.duckdns.org
 honestspinal.top
+honestx.duckdns.org
 honestydegenerate.top
 honestymolecule.top
 honestysnail.top
@@ -49554,6 +49569,7 @@ kgm-cvs.com
 kgm-example.com
 kgm-goe.com
 kgm-gom.life
+kgm-gopv.com
 kgm-gou.com
 kgm-gov.icu
 kgm-gov.mobi
@@ -49639,6 +49655,7 @@ kgmit.top
 kgmkm.online
 kgmlh.bond
 kgmmgm2.net
+kgmn.qpon
 kgmng.life
 kgmnm.top
 kgmo-odemesi-org.ml
@@ -52913,6 +52930,7 @@ login-accounts.help
 login-asmx.com
 login-auth--logon-trzor.webflow.io
 login-biil.net
+login-binancetr.net
 login-deel.app
 login-insta.cf
 login-instagram.network
@@ -54266,6 +54284,7 @@ maliye.info
 maliyebirim.org
 maliyeborc.org
 maliyeborcsorgula.pages.dev
+maliyecezahukuk.org
 maliyecezan.com
 maliyecezasi.com
 maliyecezasorgu.com
@@ -56236,6 +56255,7 @@ mhrrsdsrnadevusiteds.online
 mhrs-2.digital
 mhrs-app.online
 mhrs-d.digital
+mhrs-e-devlet.vercel.app
 mhrs-giris.blog
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
@@ -57219,6 +57239,7 @@ modernmonth.top
 modernpaths24.space
 modernpressnote.com
 modernsaturation.top
+modernsorgulamam.shop
 modernsupplyhub.shop
 modernteknolojiler.com
 modernteknolojiler.online
@@ -61202,6 +61223,7 @@ oddsdespatch.top
 oddyawn.top
 ode-vergi.blogspot.com
 odeabnk.com
+odeal-yelvano.it.com
 odebekletme.net
 odebitrtarihkoly.net
 odebuglar.top
@@ -64208,6 +64230,7 @@ paribu3.com
 paribu5000dogecoinhediyeniz.com
 paribua.com
 paribuairdrop.tk
+paribuaraba-hediye.com
 paribuarabaavantaj.com
 paribuarabaavantaji.com
 paribuarabaayricalik.com
@@ -72625,6 +72648,7 @@ sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.net
+sahibinden-param-guvende.urunodemetr.online
 sahibinden-param-guvendesiparis.teknosaturuncugunler.com.tr
 sahibinden-param-guvenli-odeme.3d-ilaniniz.com
 sahibinden-param.e-alisverisim-tr.online
@@ -78933,6 +78957,7 @@ ssjapan.cn
 sskkilfulinnvestoor.site
 sskkilfulsttuddy.shop
 ssksads.net
+ssksorgulamasifresiz.blogspot.com
 ssl-127-0-0-1-goo-gl.com
 ssl-192-168-29-122-goo-gl.com
 ssl-4-4-192-1-g-o-o-g-l.com
@@ -82224,6 +82249,7 @@ tcnsosyalsayfasi.com
 tcompassion.top
 tcpanel.cfd
 tcrvbcnrtgrisi.com
+tcsicil.org
 tcsorgu.online
 tcsorgu.xyz
 tcsorgum.online
@@ -87643,6 +87669,7 @@ tuvturkdanismanlik.com
 tuvturkeor.com
 tuvturkeys.com
 tuvturkhizmetleri.com
+tuvturkistasyonlari.ph
 tuvturkiyel.digital
 tuvturkj-muayene.net
 tuvturkl.gac.gov.lr
@@ -88653,6 +88680,7 @@ urbanisesignify.top
 urbanizationoppression.top
 urbanizationturbulence.top
 urbankindle.com
+urbanloria.gifts
 urbanlytic.com
 urbanpeak.icu
 urbanpeak.sbs
@@ -89151,16 +89179,19 @@ uzayzamankapsamivedonusumkalkani.xyz
 uzcrfsaaylrm.cfd
 uzentra.com
 uzlasma-uyapegiris.com
+uzlasmabirim.org
 uzlasmaborcu.com
 uzlasmaburosuceza.com
 uzlasmacezasorgusu.com
 uzlasmacezauyap.com
 uzlasmadosya.org
+uzlasmadosyakontrol.org
 uzlasmadosyalar.org
 uzlasmadosyalari.org
 uzlasmadosyamaliye.com
 uzlasmadosyasimaliye.com
 uzlasmadosyauyap.org
+uzlasmaegm.org
 uzlasmaemaliye.org
 uzlasmasorgu.com
 uzlasmasorgulayalim.com
@@ -89168,6 +89199,7 @@ uzlasmasorgunuz.com
 uzlasmasorgusumaliye.com
 uzlasmasorgutr.com
 uzlasmasorusturmamaliye.com
+uzlasmatalimat.org
 uzlasmauyap-maliye.com
 uzlasmauyapsorgu.com
 uzlasmayideneyelim.com
@@ -89977,6 +90009,7 @@ veloxcart.store
 velqaro.gifts
 velstrox.com
 veltirio.com
+veltrani.it.com
 veltrim.vu
 veltrunz.com
 velttrixora.com
@@ -96894,6 +96927,7 @@ yetermibilmiyorumsenbilirsin.sbs
 yetisen-aliyor.com.tr
 yetisenalirkacmaz.info
 yetisenalirkacmaz.online
+yetkibelgeleri.com
 yetkili-sigorta.com.tr
 yetkili-veznem.724czislemhizmetleri.com
 yetkili.app
@@ -97019,6 +97053,7 @@ yilkampanyasigeldi.com
 yillaraldi.com
 yillik-kredikarti-aidat-iadesi.com
 yilmaz-ticaret-ile-siparis-tamamla.com
+yilmaz-ticaret-ile-siparisi-hizla-onayla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
 yilmaz-ticaret-ile-siparisini-tamamla.com
 yilmazdenizmotorlari.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65370
-# Last change: 2026-07-30 09:45:08 UTC (sync mode: delta)
+# Records: 65382
+# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -20535,6 +20535,7 @@ dovelabobzgnan.ddns.net
 dovychvpph.duckdns.org
 dow6tlb.duckdns.org
 dowas.hopto.org
+dowlfles.online
 dowling.top
 down.down0116.info
 down.mykings.pw
@@ -20545,6 +20546,8 @@ down2.ddns.net
 downhaote5.91tzy.com
 downhemfoso.com
 downlaod.xiaocen.com
+downlf.online
+downlfl.online
 download-cdn.com
 download-file.duckdns.org
 download-file.today
@@ -20975,6 +20978,7 @@ dwiezuojhg.duckdns.org
 dwk.ddns.net
 dwkxglwc.duckdns.org
 dwl77qia.duckdns.org
+dwlfils.online
 dwnqvaazxu.duckdns.org
 dwnrbl.duckdns.org
 dwotrdofkj.duckdns.org
@@ -24063,6 +24067,7 @@ filecoinwallet.net
 filecontract.hopto.org
 filedocs.hopto.org
 filedownloaderservers.com
+filedwnld.top
 fileetnmilka.com
 filefactory.online
 filejurere23.hopto.org
@@ -24071,6 +24076,9 @@ fileneopolo.online
 files.ug
 files5adobek.ddns.net
 filesaccess.hopto.org
+filesdwnl.top
+filesdwnld.top
+filesdwnload.top
 filesend.live
 fileserver03.com
 fileservingpro.com
@@ -24102,6 +24110,7 @@ filhotetro.ddns.net
 filifilm.com.br
 filiztopraktangeldim.com
 fill.bobbyj.tk
+filldowl.online
 fillizee.com
 filmaaron.zapto.org
 filmbounce.at
@@ -24325,6 +24334,7 @@ flaviamedia.ro
 flbox.net
 flbzwo.duckdns.org
 flch1z16g.duckdns.org
+fldwnld.online
 fleetcarrier.net
 fleetgo0.com
 flejae6h.duckdns.org
@@ -24379,6 +24389,7 @@ flpnlbaxef.duckdns.org
 flqpjqtcjf.duckdns.org
 fls-portal.co.uk
 flsbz25.duckdns.org
+flsdwnld.online
 flsihiryjv.duckdns.org
 flsvabpdvnalfbpeq.org
 fludd420.ddns.net
@@ -29075,6 +29086,7 @@ hrdeptfile.ddns.net
 hrdeptsupport.ddns.net
 hrdoffice.ddns.net
 hrdw9ocpx.duckdns.org
+hrefbfdhfhgre-1422102728.cos.ap-hongkong.myqcloud.com
 hremployeem.ddns.net
 hremployeesurvey.zapto.org
 hrenzabanish.ug
