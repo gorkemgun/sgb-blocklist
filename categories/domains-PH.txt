@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98374
-# Last change: 2026-07-31 21:31:22 UTC (sync mode: delta)
+# Records: 98379
+# Last change: 2026-07-31 23:17:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -31434,6 +31434,7 @@ extrakapnda1o1le.xyz
 extrametaphorical.top
 extraordinarydebate.top
 extraordinaryflush.top
+extrashoot.cfd
 extravagancebeak.top
 extravagancelyric.top
 extravagantalleviation.top
@@ -42388,6 +42389,7 @@ hugeradioactive.top
 hugerusty.top
 hugeshepherd.top
 hugeshiver.top
+hugifidier-redsedese.lol
 hugufudere-redesede.lol
 hugyva.com
 hukbirim.eu
@@ -56448,6 +56450,7 @@ mihbnvnbgrhasd.top
 mihot.com.cn
 mihtheatre.com
 miitmxklogan.webflow.io
+miki.jspara-col.cfd
 mikolop.com
 mikroalan.xyz
 mikrogolds.xyz
@@ -61658,6 +61661,7 @@ olympics2026.top
 olymposchecker.online
 olynesvy.net
 olynssrv.net
+olyuuflgjd.nicepage.io
 olyvesnyre.net
 omabim.net
 omanmanppost.top
@@ -97648,6 +97652,7 @@ z1ffssa.cfd
 z1o1comtr.online
 z1q7x4v9k2n8.cfd
 z1ttrhf.cfd
+z2ratll.cfd
 z4q7k1m8v3p9.lol
 z4uk0d.cn
 z4w7q2m9k6p1.cfd
