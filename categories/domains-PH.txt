@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98359
-# Last change: 2026-07-31 17:55:30 UTC (sync mode: full)
+# Records: 98373
+# Last change: 2026-07-31 19:56:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2122,6 +2122,7 @@
 66662523.cloud
 6666253652.cloud
 66663326.cloud
+6666sdsdsysdanas.com
 6677d4ed.ieybfs7j447b.org.cn
 6687fcef.hwqwwrh.com.cn
 669320432.net
@@ -13473,6 +13474,7 @@ blackoutbilgi.xyz
 blackoutkemeci.govt.hu
 blackoutkemops.xyz
 blackoutlarburdan.xyz
+blackoutnosering.okzk.com
 blackoutrageous.top
 blackoutseverim.xyz
 blackoutyenilmez.xyz
@@ -26969,6 +26971,7 @@ dubshorter.click
 dubstrf2.weebly.com
 duckcrawl.top
 duckdonaldearn.com
+duckduckdcqc.duckdns.org
 ducks.ajolotec.com
 dudicyqehama.top
 dueail.top
@@ -38534,6 +38537,7 @@ haber-trend.site
 haber-tur.site
 haber-turk.click
 haber-turk.life
+haber-turk.sbs
 haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye1923.sbs
@@ -48343,6 +48347,7 @@ kadorottas.net
 kadorsners.net
 kaentkmkart.net
 kafaleylaolsela.net
+kafamaskacagim.sbs
 kafamaskarimlan.sbs
 kafamaskarimlan1.sbs
 kafamizagorecas.net
@@ -50191,6 +50196,7 @@ klynrifz.com
 klypto.info
 klythoranex.com
 klyymxxc.com
+km-bilgialmak-icin-burarya.web.app
 km-bilgilerinizeulsmak-icin.web.app
 km-burdanogrenilir.firebaseapp.com
 km-burdanogrenilir.web.app
@@ -56234,6 +56240,7 @@ mhmrsnedsgelsnz.com
 mhmrsnzxmsn.mooo.com
 mhnrs.net
 mhotel2025.world
+mhr-al-hadisende.duckdns.org
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
 mhr23623wfqwd.duckdns.org
@@ -56275,6 +56282,7 @@ mhrs.xyz
 mhrs5nwdkm3.duckdns.org
 mhrsanlikodemehizli.icu
 mhrsanlikolarakrandevuhak4nxd.duckdns.org
+mhrsanlkodemebra.duckdns.org
 mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
 mhrsclsdc.com
@@ -57146,9 +57154,11 @@ mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
 mobilservisler-87.sbs
+mobilservisler-88.sbs
 mobilservisler.com
 mobilservisler.online
 mobilservisleriniz-1.sbs
+mobilservisleriniz-11.sbs
 mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
 mobilservisleriniz-5.sbs
@@ -59985,6 +59995,7 @@ nopanel-453465.top
 nopanel-564732.top
 nopanel-723462.top
 nopanel-815625.top
+nopanel-85434.top
 nopanel-98453.top
 nopanel.click
 nopanel.icu
@@ -80022,6 +80033,7 @@ sube-krediacikdenizbasvurgirisonayi.click
 sube-kuvytbasvurusorgulamagiris.fun
 sube-kuvytbasvurusorgulamagiris.site
 sube-kuvytbasvurusorgulamagiris.space
+sube-matriksmenkulkiymetler.com
 sube-matriksyatirim.com
 sube-pari.com
 sube.basvurumfirsatlariylaguzel.xyz
@@ -86895,6 +86907,7 @@ tttektikklasponsorlurrklam.com
 tttksltsktlscc.net
 tttlkkkmcccc.giize.com
 ttttektikklasponsorlurrklam.com
+tttzzdttaasrqw.nicepage.io
 ttv-lg-n-b.my-homeip.net
 tu.rkiye.dev
 tuaaiirkiye.online
@@ -98069,6 +98082,7 @@ ziraattenodemeyialin.com
 ziraatttt.com
 ziraatyazkacirilmazfirsat.tk
 zirailillf.cfd
+ziraitarimfs.cfd
 ziratbasvuruihtiyac.com.tr
 ziratoff.online
 zircartel.tr
