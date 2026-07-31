@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98345
-# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
+# Records: 98359
+# Last change: 2026-07-31 17:55:30 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1445,6 +1445,7 @@
 31-220-86-57.plesk.page
 31102025basvuru.shop
 31132556.cloud
+312222545548789988992.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -1989,6 +1990,7 @@
 5674564.com
 567834200.net
 567891.sbs
+568563523523865568.org
 56856856342352345754745.org
 568iwj.cn
 5696890049494000.net
@@ -2313,6 +2315,7 @@
 7767.click
 777563224.cloud
 777571654821651165651.tech
+7777sdsdsnsdsaym.com
 77979797997.cloud
 77bby721223132.duckdns.org
 77cxmai3zm.icu
@@ -8416,6 +8419,7 @@ asfaswrsdf.online
 asffsafsfsa.net
 asfinag-pay.live
 asfinag-pay.shop
+asfsadfrwqarf.sbs
 asfsadfvkmmnkfvkln.net
 asfsdqwffsadlsafm.net
 asfwqffwqwfqwfdsa.com
@@ -11621,6 +11625,7 @@ belgearsiviadeleriniz.com
 belgeasistani.xyz
 belgeciniz.com
 belgegirisi-netgsm.com
+belgegirisi-netgsm.online
 belgeislemleri.xyz
 belgekoruma.pro
 belgemaktif.com
@@ -15296,7 +15301,6 @@ btcturk-coin.com
 btcturk-formu.com
 btcturk-giris.site
 btcturk-kripto.com
-btcturk-kripto.zendesk.com
 btcturk-kripto1781772972.zendesk.com
 btcturk-ltc.com
 btcturk-mobil.com
@@ -28958,6 +28962,7 @@ elisabungalov.com
 elitbursvakfi.com
 elitegaming-usa.com
 eliteregi.digital
+elitgsm.com
 elka-kremlin.ru
 elki-tickets.ru
 elkrrsbasuvrusbilgisayfamm.link
@@ -52401,6 +52406,7 @@ likewisecontemplative.top
 likewisesmuggle.top
 likewisevaccinate.top
 likezoid.co
+likihigidese-derepiluyu.lol
 likitozelmgiris.cloud
 lilceycingenereklamcilik.net
 lilharts.com
@@ -64177,7 +64183,9 @@ paribu-hediyelicark.com
 paribu-net-giris.site
 paribu-net-giris.website
 paribu-net-giris.xyz
+paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
+paribu-pepe-cekilisi.info
 paribu-sistem.com
 paribu-sogukdepo.com
 paribu-technology.com
@@ -64386,6 +64394,8 @@ paribuotofirsat.com
 paribuotokampanya.com
 paribupepe-cekilisim.com
 paribupepe-cekilisin.com
+paribupepe-hediyem.com
+paribupepe-hediyen.com
 paribupresidentmyjoy-com.ml
 paribur.com
 paribusalhizmetler.co.vu
@@ -69589,6 +69599,7 @@ randvualdinx.net
 randvudesin.b-cdn.net
 randvuhizmeti.org
 randvuhizmmetti.org
+randvuislmlerinizburadan.duckdns.org
 randvumhmn.net
 randvvu-nvvi.org
 randvvvuunvi.online
@@ -71922,6 +71933,8 @@ rugeihrgf.info
 rugglitter.top
 rughurt.top
 ruhsuzpanel.online
+ruhsuzpanel.site
+ruhsuzpanel1.site
 ruinousatrocious.top
 ruinouseminent.top
 ruinousfriction.top
@@ -77136,6 +77149,7 @@ slotindigenous.top
 slotjudiciary.top
 slovenskpsea.top
 slovenvs.best
+slow-green-tarccrgc.edgeone.dev
 slowhayat.online
 slowhayat.site
 slowquick.top

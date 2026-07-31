@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 462506
-# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
+# Records: 462520
+# Last change: 2026-07-31 17:55:30 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11484,6 +11484,7 @@
 312054687.corolain.ru
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
+312222545548789988992.duckdns.org
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -15951,6 +15952,7 @@
 56789iugtfrd5t69i9ei9die9di9eidy7u889.rhiltons.com
 567999com.com
 567ff6675657656.blogspot.com
+568563523523865568.org
 56856856342352345754745.org
 5689.cloud
 56890309823.duckdns.org
@@ -18948,6 +18950,7 @@
 777777777777777754212.duckdns.org
 7777778454546894654.duckdns.org
 77778745577.cloud
+7777sdsdsnsdsaym.com
 777846522777.xyz
 7779315.xyz
 777bingos.xyz
@@ -51980,6 +51983,7 @@ asforum-bireysel-basvuru-sayfasi-online.ml
 asfqwfqf2qfqwf.com
 asfqwrqwqr.click
 asfsa-adbfa-aasfas.xyz
+asfsadfrwqarf.sbs
 asfsadfvkmmnkfvkln.net
 asfsafasfag.click
 asfsafjnk21251.xyz
@@ -66502,6 +66506,7 @@ belgeciniz.com
 belgedogrulama.sistemiturkiye.org
 belgedogrulamaonay.org
 belgegirisi-netgsm.com
+belgegirisi-netgsm.online
 belgehiz.xyz
 belgeiadeniz.com
 belgeislemleri.xyz
@@ -87958,7 +87963,6 @@ btcturk-girisi.xyz
 btcturk-il.com
 btcturk-kampanya.com
 btcturk-kripto.com
-btcturk-kripto.zendesk.com
 btcturk-kripto1781772972.zendesk.com
 btcturk-kriptom.com
 btcturk-login.com
@@ -147447,6 +147451,7 @@ eliteride.limo
 elitesurroundfish.top
 elitetoki.site
 eliteworldhotelsapancca.com
+elitgsm.com
 elitiorecfreetoo.cc
 elitizm11.com
 elitizm12.com
@@ -263408,6 +263413,7 @@ likhostbireysel.cf
 likhostbireysel.ml
 likhostbireysel.tk
 likid-write-logrnol.myonlineportal.ch
+likihigidese-derepiluyu.lol
 likitozelmgiris.cloud
 likitrujal.shop
 likklebit.com
@@ -315090,7 +315096,9 @@ paribu-ozel.com
 paribu-ozelhediyegunu.com
 paribu-ozelhediyeleri.com
 paribu-ozelhediyeniz.com
+paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
+paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.link
 paribu-pepehediyem.link
 paribu-promosyon.com
@@ -316153,7 +316161,9 @@ paribuparamguvende.com
 paribupazartesi.com
 paribupepe-cekilisim.com
 paribupepe-cekilisin.com
+paribupepe-hediyem.com
 paribupepe-hediyem.link
+paribupepe-hediyen.com
 paribupepe-hediyen.link
 paribupizzagunu.xyz
 paribuplartform.com
@@ -337516,6 +337526,7 @@ randvudesin.b-cdn.net
 randvuhizmeti.org
 randvuhizmmetti.org
 randvuislemi.org
+randvuislmlerinizburadan.duckdns.org
 randvukabul.b-cdn.net
 randvuklorikas.net
 randvularinizm.net
@@ -344512,6 +344523,8 @@ ruhi8pj.duckdns.org
 ruhnusarkisi.com
 ruhsatsepeti.com
 ruhsuzpanel.online
+ruhsuzpanel.site
+ruhsuzpanel1.site
 ruhumsokakgibiolduguyerde.blogspot.com
 ruicwkzt.com
 ruinousatrocious.top
@@ -367520,6 +367533,7 @@ slovakhasan.xyz
 slove19.com
 slovenskpsea.top
 slovenvs.best
+slow-green-tarccrgc.edgeone.dev
 slowermt2.com
 slowhayat.club
 slowhayat.online
