@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98444
-# Last change: 2026-08-01 19:36:55 UTC (sync mode: full)
+# Records: 98449
+# Last change: 2026-08-01 21:11:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10894,6 +10894,7 @@ baxrowoo.com
 bay-kr.site
 bay.redoveraex.com
 bayanlarlasohbet.live
+bayay0nl3ndiriliy0rs0n.duckdns.org
 baybahcem.com
 bayc.astalyt.top
 baycarkiralama.com
@@ -35942,6 +35943,7 @@ gexmallo.digital
 gexxclusivefoundation.space
 gezginlericinyenirotalarvetavsiyeler.xyz
 gf6.us
+gfagfasdgaas.sbs
 gfdgfdvbvb.nicepage.io
 gfdgiwneweb.top
 gfdvegrrewfghgfed.xyz
@@ -74039,6 +74041,7 @@ sayacupuncture.top
 sayayaya.duckdns.org
 saycarkiralama.com
 saycorality.top
+saydimsenikalbime.duckdns.org
 sayfa-a101.xyz
 sayfa-ist.blogspot.com
 sayfa-webbing-intranet-in.za.com
@@ -77400,6 +77403,7 @@ snaporra.com
 snapridge.top
 snapsalutaton.top
 snapstory.online
+snardesdefac.duckdns.org
 snatchantagonistic.top
 snathffhfchable.com
 snbdfejkonslkindfklvnjsoijdnflkmdkfljniofds.vip
@@ -80994,6 +80998,7 @@ symphonyturbulence.top
 symposiumfolklore.top
 symposiumsatirical.top
 symptommobilize.top
+syn.domainclx.biz
 syn.ezpizi.click
 synbroun.com
 sync-checker.xyz
