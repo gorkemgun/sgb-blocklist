@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98428
-# Last change: 2026-08-01 17:17:58 UTC (sync mode: delta)
+# Records: 98444
+# Last change: 2026-08-01 19:36:55 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5316,6 +5316,7 @@ akapimizdan.online
 akapindan.website
 akapinizda.info.tr
 akasigorta.com.tr
+akaycicekcilik.com
 akaylar.com
 akbabasoylu.net
 akbak-kampanya-online.preview-domain.com
@@ -14603,6 +14604,7 @@ bota-turinv.site
 botahiss.com
 botanicalmetaphor.top
 botanicalreconciliation.top
+botaniccicekcim.com
 botanico-id2934.world
 botanyformidable.top
 botanypendulum.top
@@ -17533,6 +17535,7 @@ ceptefirsat.info.tr
 ceptefirsatsok.site
 ceptegirisinizdecebinizde.b-cdn.net
 ceptehaziranozel.shop
+ceptehizlimenulerss.store
 ceptehizlinakit.nettc.cc
 ceptemarketimsok.com
 ceptemarketsanal101.xyz
@@ -18065,6 +18068,7 @@ cicekcihizli.homes
 cicekcihizli.sbs
 cicekcinur.com
 cicekdiyari.co
+cicekdunyam.online
 cicekdunyasi.co
 cicekdunyasi.info
 cicekdunyasi.store
@@ -25346,6 +25350,7 @@ dijital-imza-com-sube-16.ga
 dijital-imza-com-sube-17.ga
 dijital-imza-com-sube-18.ga
 dijital-islembilgi.sbs
+dijital-islemlerbilgi.sbs
 dijital-ivd.dev
 dijital-kampanya-dijital-kampanya-com.tk
 dijital-kampanya-dijital-kampanya.ml
@@ -29844,6 +29849,7 @@ envayy-mscskcx.net
 envayyy-vasquez.com
 envelopdeterrent.top
 envelopebaffle.top
+envercicek.com
 envhger.tech
 envicrsmblar.app
 enviodpeme.net
@@ -40171,6 +40177,7 @@ hemenbasvurnuyap202611.duckdns.org
 hemenbasvuru2025.org
 hemenbasvurvekazanfirsati.tech
 hemenbul.app
+hemencicekci.com
 hemendenfmsds.online
 hemenegir1.space
 hemenekim-ayifirsatikampanyasi.tech
@@ -50349,6 +50356,7 @@ kmpnnya-aldn-aldn-frssatlar.com
 kmpny.2023araclar.xyz
 kmpny1o1brd.com
 kmpnyaaaaprsmnynbsvrrr.info
+kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaaprmsynnbsvrrr.pro
 kmpnyalartukenyrr1o1.xyz
 kmpnyaparmsynnbsvr.art
@@ -54869,6 +54877,7 @@ marlex.life
 marlexcheck.xyz
 marlexnow.xyz
 marmara-budapest.com
+marmaracicekcim.com.tr
 marmaralink.com
 marmaratr.weebly.com
 marmaryar.duckdns.org
@@ -55912,6 +55921,8 @@ merkezbanka-tc.com
 merkezbankasi-edevlet.com
 merkezbankasi-tc.com
 merkezbelediyeislemi.net
+merkezcicek.com
+merkezcicekci.com
 merkezcicekcilik.site
 merkezdekayit.abrdns.com
 merkezdernegi.com
@@ -63071,6 +63082,7 @@ otokockirala.net.tr
 otokockurumsal.org
 otokockurumsal.rent
 otokoclakirala.com
+otokoclakiralama.com
 otokoconline.com.tr
 otokoconline.net.tr
 otokoconlinekirala.com.tr
@@ -69292,6 +69304,7 @@ qwaxcheck.rf.gd
 qwbeqw.top
 qwdasdanxdnmwq.net
 qwdasdszxcvxv.duckdns.org
+qwdx12xqadxqx.duckdns.org
 qwdx21x1xd12.duckdns.org
 qweazd.net
 qwedfqwdqasdfasf.duckdns.org
@@ -69643,6 +69656,7 @@ randtapv.online
 randuman.webredirect.org
 randv-kontlr-etmek-m.web.app
 randvcerlas.net
+randvhsziemtsd.store
 randvlrmzbrdamhrsa.sbs
 randvu-slemleri.net
 randvual.net
@@ -87418,6 +87432,7 @@ turkiyegov.byethost12.com
 turkiyegov.fun
 turkiyegovtr-aidat-kontrol-subesi.tk
 turkiyegovtr.109-207-172-193.plesk.page
+turkiyegovtr.lovestoblog.com
 turkiyegovtr.tech
 turkiyegovtralbay.info
 turkiyegovtrr.109-207-172-193.plesk.page
@@ -88852,7 +88867,7 @@ urunlerim-siparis.com
 urunlerimiz-firsatta.com
 urunlerimizsizlerlesepetlerde.xyz
 urunleruygunkacirma.com
-urunodee-tr.online
+urunodeme-tr.online
 urunsahibinden.com
 urunsatinal-secure.com
 urunsatis.com.tr
@@ -97134,6 +97149,7 @@ yilmaz-ticaret-ile-siparisi-hizla-onayla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
 yilmaz-ticaret-ile-siparisini-tamamla.com
 yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com
+yilmaz-ticaret-motor-ile-siparisi-tamamlayiniz.com
 yilmazdenizmotorlari.com
 yilmazegitimkulturvakfi.com
 yilmazlartekel63.online
