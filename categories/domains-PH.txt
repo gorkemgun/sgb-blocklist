@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98393
-# Last change: 2026-08-01 11:36:23 UTC (sync mode: delta)
+# Records: 98409
+# Last change: 2026-08-01 13:58:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -751,6 +751,7 @@
 182-alo.com
 182-hatti.com
 182-nett.com
+182-web.sbs
 182-web.xyz
 182-webb.sbs
 182-webb.xyz
@@ -11305,6 +11306,7 @@ bbaptl-3e6932925674.herokuapp.com
 bbasvuru-giristr.com
 bbasvurusu.wixsite.com
 bbavvstuy.info
+bbay0nl3ndiriliy0rs0n.duckdns.org
 bbayrramhemendasanssigortan.com.tr
 bbba.trprote.com
 bbbaykarr.noil.top
@@ -25339,6 +25341,7 @@ dijital-girism.org
 dijital-imza-com-sube-16.ga
 dijital-imza-com-sube-17.ga
 dijital-imza-com-sube-18.ga
+dijital-islembilgi.sbs
 dijital-ivd.dev
 dijital-kampanya-dijital-kampanya-com.tk
 dijital-kampanya-dijital-kampanya.ml
@@ -41622,6 +41625,7 @@ hmnasantasns.net
 hmnbnlaraglsnde.com
 hmnbsvr.site
 hmnebasvurtyap.co.vu
+hmneislemnktasi.net
 hmniadeald.net
 hmnilsmkntans.net
 hmnislemonlniesonuc.net
@@ -54298,6 +54302,7 @@ malimidwife.top
 malinapps2.xyz
 maliportal.net
 malisorgutc.org
+maliuyap.org
 maliuzlasma.com
 malivergi.com
 malivezne.com
@@ -55821,6 +55826,7 @@ mencycheck.online
 mendaskybrent.info
 meneksevakfi.org
 menenoftigir.com
+menfaatiolanbulur.sbs
 menotyy.pics
 mentalfloss.live
 mentioncathedral.top
@@ -58263,6 +58269,7 @@ mvploom.com
 mvppwb.turnsunchair.top
 mvrlvs.online
 mvrmkfmslmm.net
+mvsdnyrsnds-tnysds.com
 mvtaud.top
 mvtwgsodem.com
 mvvtxvyuklemem.org
@@ -58562,6 +58569,7 @@ n65453322.cloud
 n7q5m2y8v4k3.sbs
 n8x2q7v4k1m5.lol
 n9bbn9b9wgefs-d12egwgh-twqfsa.sbs
+na-microsoft.com
 na1.coinbase-com.info
 na1o1.net
 naala.online
@@ -62002,6 +62010,7 @@ online-siparis.satisim-30.site
 online-sipariss-firsatlarii1033.b-cdn.net
 online-sok.com.tr
 online-sorgu-ekrani.cfd
+online-sozlesme-islemleri.com
 online-t-o-k-i-bsrv.com
 online-takip-yurticikargo.com
 online-teknossa.com
@@ -63375,6 +63384,7 @@ ozel-satis-islemlerim.com
 ozel-securityparamguvensahibinden.com
 ozel-yil-sonu-indirimleri.online
 ozel101firsatlari.com
+ozelarackiralama.com
 ozelbas.cfd
 ozelbasvurubinnce.tech
 ozelbiralanaldim.com
@@ -74792,6 +74802,7 @@ selgebeachresortandhotel.com
 selgebeachresortside.com
 selgehotels.com
 selgeresortbeach.com
+selgeresortside.com
 selindudaksd.wixsite.com
 selingroup.pw
 selinyardimlari.com
@@ -74870,6 +74881,7 @@ senatorconspicuous.top
 senatoria.sbs
 senatormartyr.top
 senavikampanyaliarac.xyz
+senbanaddosatbensanaclick.sbs
 senbenbizsimditamam.online
 senbensirasiradevam.online
 senbensizeryecen.online
@@ -83257,6 +83269,7 @@ tepkiurbn.online
 tepperslist.com
 ter3535sss.epizy.com
 terab.retalonx.com
+teragrup.org
 tercelety.top
 tercell.online
 terencuasd.com
@@ -96677,6 +96690,7 @@ yeniden-sekillendirme.myonlineportal.ch
 yeniden.kemanci322.cfd
 yenidenal.info
 yenidenasdwe.co
+yenidengoruntule.abrdns.com
 yenidenhabercilik.blogspot.com
 yenidenistanbulx.com
 yenidenizsube.tk
@@ -97102,6 +97116,7 @@ yilmaz-ticaret-ile-siparis-tamamla.com
 yilmaz-ticaret-ile-siparisi-hizla-onayla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com
 yilmaz-ticaret-ile-siparisini-tamamla.com
+yilmaz-ticaret-ile-siparisinizi-tamamlayiniz.com
 yilmazdenizmotorlari.com
 yilmazegitimkulturvakfi.com
 yilmazlartekel63.online
@@ -97838,6 +97853,7 @@ zebraskin.store
 zebrasomeone.online
 zedanismanlik.online
 zedcompany.dev
+zederesede-sederesede.lol
 zedeyardim.online
 zednamo.com
 zedwellgreenwich.world

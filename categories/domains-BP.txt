@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256630
-# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
+# Records: 256669
+# Last change: 2026-08-01 13:58:56 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -24276,6 +24276,7 @@ alinmasicingerekli.za.com
 alinmatkapskyh.xyz
 alinmuyneburdan.lat
 aliopak.com.tr
+alipay-guvenli.ph
 aliranelnamakmu.xyz
 alirimayagiminaltina.cfd
 alirlxdokdxj.space
@@ -28889,6 +28890,7 @@ autodiscover.459671325743t527140.duckdns.org
 autodiscover.619378724639012408150.duckdns.org
 autodiscover.73214625721684432190.duckdns.org
 autodiscover.7641713825499140.duckdns.org
+autodiscover.862413415907186110.duckdns.org
 autodiscover.acikdeniz-com.tk
 autodiscover.acikdeniz-internetsube.gq
 autodiscover.acikdeniz-internetsube.tk
@@ -37269,6 +37271,7 @@ bestvipmarketingllc.com
 bestwaycadir.store
 besyilhediyezamani.xyz
 besyuzbinkonut.com
+beta.turkcellpasajsanalmagaza.com
 beta876.yazilimdestegi.org
 betabeta.click
 betadonis.pro
@@ -47282,6 +47285,7 @@ blog.evsahibibasvuru.com
 blog.kriptodunya.online
 blog.mutlupetler.com.tr
 blog.parliavip.cfd
+blog.turkcellpasajsanalmagaza.com
 bloger.sahaneindirimleriniz.xyz
 blogger-is-tn.blogspot.com
 blogger-istb.blogspot.com
@@ -50605,6 +50609,7 @@ botastr.top
 botasvest.top
 botasyatirim.org
 botnamce.nl
+botonline.click
 botoyolhxgxsy.online
 botscriptshop.com
 botslabturkiye.com
@@ -56842,6 +56847,7 @@ cepfinansqnb.com
 cepfirsat-onayiscep.vercel.app
 cepgarantifirsat.duckdns.org
 cepgarantisube.ph
+cepgarantisubeci.ph
 cepgarantisubem.com
 cepgarantisuben.com
 cepgarantisubesi.com
@@ -58084,6 +58090,7 @@ chasebankverification.com
 chasenationals.com
 chasingstardust.org
 chat.bntrxrp-basvuru.com
+chat.turkcellpasajsanalmagaza.com
 chatneet.com
 chatneet.site
 chavo.app
@@ -60115,6 +60122,7 @@ cpanel.73214625721684432160.duckdns.org
 cpanel.73214625721684432180.duckdns.org
 cpanel.7641713825499150.duckdns.org
 cpanel.7641713825499170.duckdns.org
+cpanel.862413415907186110.duckdns.org
 cpanel.862413415907186150.duckdns.org
 cpanel.acikdeniz-com.tk
 cpanel.acikdeniz-internetsube.gq
@@ -60211,6 +60219,7 @@ cpcalendars.1254598989899894.duckdns.org
 cpcalendars.7641713825499130.duckdns.org
 cpcalendars.7641713825499160.duckdns.org
 cpcalendars.7641713825499180.duckdns.org
+cpcalendars.862413415907186110.duckdns.org
 cpcalendars.acikdeniz-com.tk
 cpcalendars.acikdeniz-internetsube.gq
 cpcalendars.acikdeniz-internetsube.tk
@@ -60719,6 +60728,7 @@ crixsperyuma.duia.us
 crkfmkal1tcv.sbs
 crkxwjdwhxw.click
 crm.freelinkinpark.cfd
+crm.turkcellpasajsanalmagaza.com
 crmtastic.com
 crocsboxtop.homes
 crocsturkiye-tr.com
@@ -68224,6 +68234,7 @@ dev.birey-basvuru-destek-kmpnya.xyz
 dev.bntrkolaybasvuru.com
 dev.evsahibibasvuru.com
 dev.trblnancebasvuru.com
+dev.turkcellpasajsanalmagaza.com
 deva28.com
 devaidatiadesi.cyou
 devakremiresmi.ml
@@ -82558,6 +82569,7 @@ egov-cumhurriyettbasvur.com
 egov-cummhuriyetbasvur.com
 egov-cuumhuriyet.com
 egov-e-cimer.com
+egov-e-cumhuriiyet.org.ph
 egov-e-cumhuriyet.com
 egov-e-cumhuriyett.com
 egov-ecumhuriyet.com
@@ -85711,6 +85723,7 @@ eniyisigortacimburada.com.tr
 eniyisindrmlrmbusayki.click
 eniyisitr.live
 eniyisiyim.cfd
+eniyisiyim.sbs
 eniyisndlxmdlsmr.click
 eniyisndrmlxrmbunlarbuayk.ru.com
 eniyisnxdlsmdlrmnmxdm.online
@@ -87358,6 +87371,7 @@ eroilea101indirimleri.duckdns.org
 eroilehestiametakrali.duckdns.org
 eromarket.club
 eroxnocasetaksi.com
+erp.turkcellpasajsanalmagaza.com
 erpcoke.com
 erphgsc.com
 erqkfjs.top
@@ -122107,6 +122121,7 @@ hizmettesiniryokkredisorgulamas.net
 hizmettesiniryoktur.online
 hizmettislem.de
 hizmetturkiye.ml
+hizmetvakfi-net.vercel.app
 hizmetvakifi.com
 hizmetvakifi.info
 hizmetvakifi.org
@@ -126629,6 +126644,7 @@ icloud.com.support.apple.en-us-ht65678995545987300.space
 icloud.com.support.apple.en-us-ht65678995545987400.space
 icloudbun.top
 icloudcun.top
+icloudfind-my-iphone.ph
 icloudfindmyiphone.online
 icloudhint.com
 icloudser.cn
@@ -156370,6 +156386,7 @@ mail.73214625721684432180.duckdns.org
 mail.76417138254991100.duckdns.org
 mail.7641713825499130.duckdns.org
 mail.7641713825499140.duckdns.org
+mail.862413415907186110.duckdns.org
 mail.acikdeniz-com.tk
 mail.acikdeniz-internetsube.gq
 mail.acikdeniz-internetsube.tk
@@ -233863,6 +233880,7 @@ vpanel101.online
 vpapara.com
 vparibu.com
 vpn.garantibbvakredibasvuru.com
+vpn.turkcellpasajsanalmagaza.com
 vpn01.eptt-pttavm.info
 vpn01.epttavm-pttavm.online
 vpojwxdw.click
@@ -235295,6 +235313,7 @@ webdisk.1254598989899894.duckdns.org
 webdisk.6134728541296136547120.duckdns.org
 webdisk.619378724639012408140.duckdns.org
 webdisk.73214625721684432160.duckdns.org
+webdisk.862413415907186110.duckdns.org
 webdisk.862413415907186120.duckdns.org
 webdisk.acikdeniz-com.tk
 webdisk.acikdeniz-internetsube.gq
@@ -239855,6 +239874,16 @@ www-pttgouls.cyou
 www-pttgov-tr.com
 www-pttmarket-com.cfd
 www-qnb-duyuru-tr.com
+www-qnb-finansbank-access.ph
+www-qnb-finansbank-banking.ph
+www-qnb-finansbank-contact.ph
+www-qnb-finansbank-help.ph
+www-qnb-finansbank-login.ph
+www-qnb-finansbank-online.ph
+www-qnb-finansbank-secure-login.ph
+www-qnb-finansbank-secure.ph
+www-qnb-finansbank-service.ph
+www-qnb-finansbank-transfer.ph
 www-qnb-finansbank.ph
 www-qnb-flnansbank-hediyeli-anket.tk
 www-qnbffinans-tr.com
@@ -239868,6 +239897,7 @@ www-qnbfinans-nisan-kampanya-com.tk
 www-qnbfinans-online-hediyeler-com.tk
 www-qnbfinans-online-hediyeler.tk
 www-qnbfinans.com
+www-qnbfinansbank-access.ph
 www-qnbfinansbank-anket-burada-com.tk
 www-qnbfinansbank-anket-calismamiz-com.tk
 www-qnbfinansbank-anket-calismasi-com.tk
@@ -239882,6 +239912,7 @@ www-qnbfinansbank-anket-tr-com.tk
 www-qnbfinansbank-anket-zamani-com.tk
 www-qnbfinansbank-ankete-katilim-com.tk
 www-qnbfinansbank-ankete-katilim.tk
+www-qnbfinansbank-banking.ph
 www-qnbfinansbank-burasi.tk
 www-qnbfinansbank-cekilis-firsat-com.ph
 www-qnbfinansbank-cekilis.com
@@ -239895,6 +239926,7 @@ www-qnbfinansbank-cepsubeniz.tk
 www-qnbfinansbank-cepsubesi-com.ph
 www-qnbfinansbank-cepsubesi-com.tk
 www-qnbfinansbank-com-tr.tk
+www-qnbfinansbank-contact.ph
 www-qnbfinansbank-en-paran.com
 www-qnbfinansbank-enpara.com
 www-qnbfinansbank-enparam.com
@@ -239921,6 +239953,7 @@ www-qnbfinansbank-hediyeleri.tk
 www-qnbfinansbank-hediyelerim.ph
 www-qnbfinansbank-hediyelerim.tk
 www-qnbfinansbank-hediyeli-anket.tk
+www-qnbfinansbank-help.ph
 www-qnbfinansbank-iademerkezi.com
 www-qnbfinansbank-internetsube.tk
 www-qnbfinansbank-internetsubem-com.tk
@@ -239931,6 +239964,7 @@ www-qnbfinansbank-kampanya-cekilis-com.tk
 www-qnbfinansbank-kampanya-mart-com.tk
 www-qnbfinansbank-kampanya.com
 www-qnbfinansbank-kampanya.ph
+www-qnbfinansbank-login.ph
 www-qnbfinansbank-mart-cekilis-com.tk
 www-qnbfinansbank-mart-firsatlari-com.tk
 www-qnbfinansbank-mart-kampanyalari-com.tk
@@ -239947,9 +239981,13 @@ www-qnbfinansbank-nisan-hediyem-com.tk
 www-qnbfinansbank-nisan-hediyesi-com.tk
 www-qnbfinansbank-nisan-kampanyalari-com.tk
 www-qnbfinansbank-nisan.com
+www-qnbfinansbank-online.ph
 www-qnbfinansbank-onlinehediye.tk
 www-qnbfinansbank-onlinehediyeler.tk
 www-qnbfinansbank-org.tk
+www-qnbfinansbank-secure-login.ph
+www-qnbfinansbank-secure.ph
+www-qnbfinansbank-service.ph
 www-qnbfinansbank-subat-anketi.tk
 www-qnbfinansbank-subat-cekilis.tk
 www-qnbfinansbank-subat-cekilis.vg
@@ -239960,6 +239998,7 @@ www-qnbfinansbank-subat-hediyeler.tk
 www-qnbfinansbank-subat-hediyeleri.cf
 www-qnbfinansbank-subat-hediyeleri.tk
 www-qnbfinansbank-tr-com.tk
+www-qnbfinansbank-transfer.ph
 www-qnbfinansbank-yeni-cepsube-com.tk
 www-qnbfinansbank-yeni-cepsubem.com
 www-qnbfinansbank-yenilenen-bankacilik-com.tk
