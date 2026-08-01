@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98409
-# Last change: 2026-08-01 13:58:56 UTC (sync mode: delta)
+# Records: 98421
+# Last change: 2026-08-01 15:30:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9716,6 +9716,7 @@ axyvyra.xyz
 axyxo.xyz
 ay-pak.online
 ay-sonunda-sepet.com.tr
+ay0nl3ndiriliy0rs0n.duckdns.org
 ay101s.com
 ayagimdakiair.com
 ayakkaydiran.xyz
@@ -12151,6 +12152,7 @@ bilgilendir.website
 bilgilendir.xyz
 bilgilendirilme.net
 bilgilendirme-cim.com
+bilgilendirme-tr.online
 bilgilennyolgecis.netlify.app
 bilgilennyolgeciss.netlify.app
 bilgilennyollgeciss.netlify.app
@@ -25430,6 +25432,7 @@ dijitalimzanet.ml
 dijitalink.website
 dijitalinternetgirisiniz-denizacik.com
 dijitalislem-ziraatbireysel.com
+dijitalislemfirsati.sbs
 dijitalislemgirisiniz-denizacik.com
 dijitalislemler-ziraatbireysel.com
 dijitalislemlergiris-denizacik.com
@@ -31058,6 +31061,7 @@ evvermantix.com
 evvlliklerdsi.net
 evvllkbasvurabadresm.com.tr
 evvllkbasvvurradresm.com.tr
+evvlypyrbrsylrsdedr.com
 evvmlkvergvcsivodv.net
 evyuvam.click
 ewameamwfmsamfaw.blogspot.com
@@ -35385,6 +35389,7 @@ gelbizdeal.net.tr
 gelbizdeal.org.tr
 geldasdawcce.duckdns.org
 geldesgeahhsder.duckdns.org
+geldesmmeasdwas.duckdns.org
 geldi-basinda-kacirma-hizlica-yakala-alirsin.com
 geldi-suan-sende-kacirma.com
 geldi-tekrarlanan-mucize-kapiniza.com
@@ -39946,6 +39951,7 @@ helegeodemelr.store
 helegeodemelr.xyz
 helen-template.webflow.io
 helenderlerdermece.online
+helfeguystr.duckdns.org
 helicoptercustody.top
 hellembrox.info
 hello-vrchat.net
@@ -63091,6 +63097,7 @@ otomobilvergi.org
 otomtkdesinbizlerle.net
 otonom-dailyblog.info
 otoplus-arac.com
+otoplusaracal.com
 otoplusaracim.com
 otopluss.site
 otorentacartr.com
@@ -78202,6 +78209,7 @@ sortventilate.top
 sorucenaosm.freeddns.org
 sorugercek.info
 sorulakma.com
+sorumlular-verilentr.garden
 sorunsuz-yukleme-istanbul.com
 sorunszz-yukklee1.online
 sorustuggrnts2024yxlbasim.com.trrmavatandasuyap.com.tr
@@ -81964,6 +81972,7 @@ tarihaber.club
 tarihaber.site
 tarihaber.website
 tarihbasvuru.net
+tarihi-entry-web.ink
 tarihi-sayfa.click
 tarihibnncefirsati-icintikla.tech
 tarihislem.com
@@ -96148,6 +96157,7 @@ y2f.org
 y3lkmykl.net
 y3n6x0r9q5m2t8b1p7v4wz2.com.tr
 y3vo3y.csb.app
+y4nlndir4deincirl4yimknk.duckdns.org
 y4nsmsars.sbs
 y515.com
 y5hdcf.icu
@@ -96287,6 +96297,7 @@ yardimcom.github.io
 yardimdayanisma.com
 yardimdestekekiipsleri.com
 yardimdestekisigi.com
+yardimdestekpaketim.com
 yardimeli.buzz
 yardimelidernek.buzz
 yardimelim.com
@@ -97481,6 +97492,7 @@ ytfzhe.homes
 ytkslmashnyhhamalklnsbbdgnlka18965.store
 ytm-pltfzone.com
 ytm-trdinvest.com
+ytrsdsndsn-ytrseresrsr.com
 ytuf2r.cn
 ytunrtyndfgwe.click
 ytygkdcl5-ord.cs92-ord.coinbase-com.info
