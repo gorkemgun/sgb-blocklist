@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98384
-# Last change: 2026-08-01 06:42:38 UTC (sync mode: delta)
+# Records: 98387
+# Last change: 2026-08-01 09:23:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -34679,6 +34679,7 @@ garagevegetation.top
 garageverge.top
 garan-tr-websie.world
 garanbattii.site
+garandibasvru.cfd
 garannatttft.xyz
 garannttntsss.com.tr
 garansnnnststss.com.tr
@@ -35644,6 +35645,7 @@ gercekten-buraya-bakmadan-gecme.com
 gercekten-super-rrnler-varmis.com
 gercektencokozurdileriz.duckdns.org
 gerdasreea.duckdns.org
+gerdelerdesess.duckdns.org
 gerdesglouds.com
 gerdmoller.com
 gereatas.nicepage.io
@@ -37000,6 +37002,7 @@ grabel-jeju.com
 grabjaguar.top
 grabnaivety.top
 grabnntr.net
+grabrtttt.nicepage.io
 grabsubsidy.com
 gracefuldeductive.top
 graceolive.top
