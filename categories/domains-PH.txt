@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98379
-# Last change: 2026-07-31 23:17:42 UTC (sync mode: delta)
+# Records: 98382
+# Last change: 2026-08-01 03:53:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1944,6 +1944,7 @@
 543543534.duckdns.org
 54354982138943214000.net
 5435934934.cloud
+54375432423342645.org
 54389573489.xyz
 543902-coinbase.com
 54435623412534265432.org
@@ -35483,6 +35484,7 @@ gelseydmdunyayasendegelcan45.info
 gelsfkwfgww.click
 gelsinfirsa0tuirunmizsimd.com
 gelsinkapimahemen.xyz
+gelsinkapinaclub.click
 gelsinsiparisinhizli.xyz
 gelsndebrdahlltslerni.mooo.com
 gelsonfrsatbrda.com
@@ -38533,6 +38535,7 @@ haber-man.club
 haber-o.site
 haber-okuru.site
 haber-show.club
+haber-stanbul1453.sbs
 haber-trend.online
 haber-trend.site
 haber-tur.site
