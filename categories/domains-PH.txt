@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98421
-# Last change: 2026-08-01 15:30:03 UTC (sync mode: delta)
+# Records: 98428
+# Last change: 2026-08-01 17:17:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1519,6 +1519,7 @@
 34575423125.buzz
 346346wdrf23465.click
 346347452112412436.org
+347456586543242.org
 3475592.xyz
 3485319.xyz
 34be633d.gfwisd-235.shop
@@ -4928,6 +4929,7 @@ ahirdayanismasi.site
 ahirvakfi.site
 ahizli101.com
 ahjsle5.duckdns.org
+ahlarahdalders.duckdns.org
 ahlatche.vercel.app
 ahlatci-yatirimtr.com
 ahlatcihizli.online
@@ -25427,6 +25429,7 @@ dijitalhesap-denizacik.com
 dijitalhizligiris-denizacik.com
 dijitalhizliislemler-denizacik.com
 dijitalhizmet-denizacik.com
+dijitalhizzlihizmet.duckdns.org
 dijitalim22.xyz
 dijitalimzanet.ml
 dijitalink.website
@@ -53689,6 +53692,7 @@ m.xrdnet.click
 m0uhdyf.cn
 m1-arena.com
 m1112929211.cloud
+m1h46r5s458sdf.duckdns.org
 m1p8z.com
 m1uyhni1r56q.icu
 m2x8k4q9f6b3n7vzat.sbs
@@ -82005,6 +82009,7 @@ tarweej.top
 tarzxgiyimistxx.xyz
 tasangrc.com
 tasanzvz.net
+tasaqx1xadds.duckdns.org
 tasarimdenizi.org
 tasarimiz.org
 tashkentpalace.com
@@ -88847,6 +88852,7 @@ urunlerim-siparis.com
 urunlerimiz-firsatta.com
 urunlerimizsizlerlesepetlerde.xyz
 urunleruygunkacirma.com
+urunodee-tr.online
 urunsahibinden.com
 urunsatinal-secure.com
 urunsatis.com.tr
@@ -97242,6 +97248,7 @@ ynkvtx.help
 ynl3ndiriyn3nuzknkk.duckdns.org
 ynlendirbrnkrkmdyivlasi.duckdns.org
 ynlendiriyonuzzknkk.duckdns.org
+ynlndirckinmecnmsnsnbnm.duckdns.org
 ynlndirmdsnsormakdnk.duckdns.org
 ynlndr-smdi.shop
 ynlyrzbrdanorygldnbs.bond
