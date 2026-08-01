@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98387
-# Last change: 2026-08-01 09:23:59 UTC (sync mode: delta)
+# Records: 98393
+# Last change: 2026-08-01 11:36:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2302,6 +2302,7 @@
 765643232312.xyz
 7657.click
 765756543345.online
+7658576324143645.org
 766c9cf0.hwqwwrh.com.cn
 7681342591688148020.xyz
 7684597864523442.online
@@ -10010,6 +10011,7 @@ b8msal.net
 baaayraaamdaa-firrsttlrm.com
 baannnkkfinannsaa.click
 baayykaren.com
+bababiziz.sbs
 babahaber.club
 babahaber.online
 babahaber.site
@@ -26990,6 +26992,7 @@ dulybenevolent.top
 dulysensation.top
 dumanaltiizom.net
 dumanamankop.sbs
+dumanigonderroterdam.sbs
 dumaorganizasyon.com
 dumbnesss.live
 dumbobsessive.top
@@ -40194,6 +40197,7 @@ hemenislemnktsi.net
 hemenislemnktsi.shop
 hemenislemnoktasnin.net
 hemenislemosnutlktaktan.blogspot.com
+hemenislmatknas.net
 hemenislmkntokas.net
 hemenislmokntai.net
 hemenislntknaslna.net
@@ -41628,6 +41632,7 @@ hmnislmnknts.net
 hmnislmnkta.net
 hmnislmnktans.net
 hmnislmnktnas.net
+hmnislmnktnasnn.net
 hmnislmnktnsi.net
 hmnislmnkts.net
 hmnismlntans.net
@@ -46161,6 +46166,7 @@ islemiminizin.com
 islemin.online
 isleminhizlisi.app
 isleminizicintiklayin.cyou
+islemkhemennktasi.net
 islemkolayi.app
 islemler-ailevgenc.pw
 islemler-aillevgenc.pw
