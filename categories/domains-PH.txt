@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98463
-# Last change: 2026-08-02 09:24:55 UTC (sync mode: delta)
+# Records: 98467
+# Last change: 2026-08-02 11:36:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -40263,6 +40263,7 @@ hemenrandvu.com
 hemensatinalgunlukfirsatlar.xyz
 hemensepet.com.tr
 hemensepetekle.click
+hemensielmkntasi.net
 hemensielmnokta-islnakt.net
 hemensigorta.net.tr
 hemensigortaarac.xyz
@@ -52023,6 +52024,7 @@ leddgiderwalle.webflow.io
 leddgrlovilgu.webflow.io
 leddroliweloginllwet.webflow.io
 lederhoise.info
+ledferesaxxaw.duckdns.org
 ledferlivelogin.webflow.io
 ledgarliveloogen.webflow.io
 ledger--logen-helps.webflow.io
@@ -78113,6 +78115,7 @@ sorgulalamara.com
 sorgulama-1948.blogspot.com
 sorgulama-aktiflestirildi.sbs
 sorgulama-tc-1948.blogspot.com
+sorgulama-tr.online
 sorgulama-tr.site
 sorgulama.online
 sorgulama.onlinehizmetleradresi.com
@@ -84803,6 +84806,7 @@ toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut.gravitycl.app
 toplu-konut.sbs
 toplukontlar500bin.com
+toplukonut-toki.gravitycl.app
 toplukonut.click
 toplukonut.forum
 toplukonut.it.com
