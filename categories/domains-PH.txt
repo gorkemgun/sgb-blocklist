@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98467
-# Last change: 2026-08-02 11:36:06 UTC (sync mode: delta)
+# Records: 98475
+# Last change: 2026-08-02 14:00:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7884,6 +7884,7 @@ aramizi-hos-iyiden-yapanlar-alir-darilma.com
 araniyorummerkez.com
 aransastermlnal.com
 arantvuk.net
+araofdalgaogfa.online
 araramamexex.click
 ararapost.top
 aras-cargo.com
@@ -8393,6 +8394,7 @@ asdsaqffllfe00n.net
 asdsasadquez.net
 asdsdamsdsabmbmbmbmbm444.one
 asdshuzky.net
+asdsrversdersetrseser.com
 asdsvt-svdvtt.com
 asdvdssdgagergea.shop
 asdzxbqykle.net
@@ -25355,6 +25357,7 @@ dijital-imza-com-sube-17.ga
 dijital-imza-com-sube-18.ga
 dijital-islembilgi.sbs
 dijital-islemlerbilgi.sbs
+dijital-islemleriniz.sbs
 dijital-ivd.dev
 dijital-kampanya-dijital-kampanya-com.tk
 dijital-kampanya-dijital-kampanya.ml
@@ -39933,6 +39936,7 @@ heelclamp.top
 heelcomplimentary.top
 heeldetergent.top
 heelsolicitor.top
+hefelfeguystr.duckdns.org
 hegesecim.com
 hegesegunduz.com
 hegeseodemelr.com
@@ -39958,6 +39962,7 @@ heirconcurrent.top
 heiressbenevolence.top
 heiresshenceforth.top
 heirtopple.top
+heismebktaltara.net
 heladosyomyom.com
 helalfinansman-bilgilendirmeamaclikurulansitemizdir.eth3.me
 helax.duckdns.org
@@ -64239,6 +64244,7 @@ paribu-araba.com
 paribu-arabacekilisi.com
 paribu-arabahediye.com
 paribu-arabakazan.com
+paribu-arabasansi.com
 paribu-arabasansi.info
 paribu-basvurular.com
 paribu-buyukcekilisi.com
@@ -84809,6 +84815,7 @@ toplukontlar500bin.com
 toplukonut-toki.gravitycl.app
 toplukonut.click
 toplukonut.forum
+toplukonut.gravitycl.app
 toplukonut.it.com
 toplukonut0504.com
 toplukonut0701455346.vercel.app
@@ -96048,6 +96055,7 @@ xques.shop
 xqzeltopz.com
 xracmxuayneservisi.com
 xrcarrefrskmpny.online
+xrd.domainclx.biz
 xrd.domainclx.click
 xrdnet.click
 xrent.store
