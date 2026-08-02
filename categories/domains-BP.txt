@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256672
-# Last change: 2026-08-01 19:36:55 UTC (sync mode: full)
+# Records: 256676
+# Last change: 2026-08-02 00:16:03 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -129961,6 +129961,7 @@ ingbankinternetbankaciligi.site
 ingbankinternetsube.com
 ingbankonlinehizmetler.ws
 ingbanksubesi.com
+ingbanktrwebsube.ph
 ingbanktrwebsube.ws
 ingbankturkey.com
 ingbannk.com
@@ -131443,6 +131444,7 @@ intraktifvergidairesi.net
 intraktifvergiodeme.net
 intrane-web.online
 intranet-web.click
+intranet.evsahibibasvuru.com
 intranet.garantibbvakredibasvuru.com
 intranetiniz.com
 intranetwebs.digital
@@ -180790,6 +180792,7 @@ partner-trendyolkepadresim.com
 partner.evsahibibasvuru.com
 partner.tekno-sa-kepadres.com
 partner.trendoyol.xyz
+partners.evsahibibasvuru.com
 partnertrendyol.com
 partnertrendyolkepadresim.com
 partnertrendyolkepadresim.com.tr
@@ -228009,6 +228012,7 @@ useperson.store
 useplace.store
 useprocess.store
 user-onlinesettings.xyz
+user.evsahibibasvuru.com
 useralvoro.shop
 useralvoro.store
 usereason.store
