@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98490
-# Last change: 2026-08-02 17:19:12 UTC (sync mode: delta)
+# Records: 98498
+# Last change: 2026-08-02 19:37:26 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1451,6 +1451,8 @@
 312222545548789988993.duckdns.org
 312222545548789988994.duckdns.org
 312222545548789988995.duckdns.org
+312222545548789988996.duckdns.org
+312222545548789988997.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -17383,6 +17385,7 @@ cecenhamit.shop
 ceciudetain.top
 cedarcreeklabradoodles.com
 cedarshade.site
+cederese-deresedese.lol
 cedesir.com
 cedqrkq.storage.googleapis.com
 cedyhuu.com
@@ -25363,6 +25366,7 @@ dijital-imza-com-sube-16.ga
 dijital-imza-com-sube-17.ga
 dijital-imza-com-sube-18.ga
 dijital-islembilgi.sbs
+dijital-islemler.sbs
 dijital-islemlerbilgi.sbs
 dijital-islemleriniz.sbs
 dijital-ivd.dev
@@ -38822,6 +38826,7 @@ habersosyalmedya.site
 habertoki724.com
 habertr724.com
 habertrend.site
+habertry364.shop
 habertur.club
 habertur.site
 haberturk-34.club
@@ -42741,6 +42746,7 @@ hytsiysx.com
 hyukleyin.arabamuayenesi.xyz
 hyundaibahcealdin.xyz
 hyundaibahceisleri.xyz
+hyuzbrtemuzay.duckdns.org
 hyykkxxtst.net
 hz7.shop
 hzbwsv.cyou
@@ -43540,6 +43546,7 @@ ihlaltakip-sorgu.com
 ihlaltalebiolustur.gq
 ihlalweb-takip.online
 ihlalwebtakip.tk
+ihmalweb-trying.garden
 ihmihaldestekleri.org
 ihnhxl.top
 ihopkc-chinese.org
@@ -62980,6 +62987,7 @@ osmcancancafkfkk23.com
 osmisleegunaydinlar.net
 osmm-ww.net
 osmnlgdlkbopss.cfd
+osmurmaomurga.click
 osmwz-yk.com
 osmyform.com
 osmykksgecbasvur.com
