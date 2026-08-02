@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98503
-# Last change: 2026-08-02 21:12:21 UTC (sync mode: delta)
+# Records: 98507
+# Last change: 2026-08-02 22:13:05 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -15597,6 +15597,7 @@ buhaftnin-urunlerii.net
 buhafttda-firsttlr.dev
 buhayatbenicokyordu3.click
 buhayatbenicokyordu6.click
+buhu-guhuludese.lol
 buhugereteyesede.lat
 buhulukuge-redetpioli.lol
 buhuyutr-deresedere.lol
@@ -37379,6 +37380,7 @@ grntbvakrd.info
 grntbvbv.it.com
 grntcepsubeonnbes.site
 grntdeneme.tk
+grntibba.duckdns.org
 grntibca.cf
 grntikampanyasi.org.tr
 grntikmpnya.com.tr
@@ -39192,6 +39194,7 @@ hangas.web.tr
 hangbuk.xyz
 hangikredi.shop
 hangikredim.com
+hangikredin489874120.sbs
 hangwhirl.top
 hanistatrous.top
 hanreman.com
@@ -41745,6 +41748,7 @@ hodenserholse.com
 hodeslerkest.duckdns.org
 hoeemetst.icu
 hoeworkbscrity.top
+hofestlerkes.duckdns.org
 hofmannplus.com
 hofroyildozkari1211.xyz
 hogahxljk.xyz
