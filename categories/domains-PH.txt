@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98507
-# Last change: 2026-08-02 22:13:05 UTC (sync mode: delta)
+# Records: 98514
+# Last change: 2026-08-02 23:15:38 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -58318,6 +58318,7 @@ muzekartim.click
 muzeodeme.click
 muzeonline.click
 muzeportal.biz
+muzesitesi.com
 muzeyyen.site
 muzeziyaret.click
 mv24gk6.cn
@@ -72275,6 +72276,8 @@ s0kmarkeletler.shop
 s0kmarkeltler.shop
 s0kmarklemler.com
 s0kmarkletmer.shop
+s0kmarklkerler.com
+s0kmarkot.shop
 s0kmarleletr.com
 s0kmarlketlor.shop
 s0kmlarkletlerden.shop
@@ -95265,6 +95268,7 @@ xjakvb.help
 xjbsyp.online
 xjeasthope.cn
 xjeqebbcum.thechidocas.cyou
+xjlaksd4xcgx4ztbc.cfd
 xjmbjxbmjx.net
 xjrotxekce.xdk8ax.cn
 xjxjjxj.net
@@ -96177,6 +96181,7 @@ xxx-new-videos.com
 xxx-three-theta.vercel.app
 xxx3cx31s.duckdns.org
 xxxbabaproxxx.pro
+xxxswwwsxsxwxsxwxxxx.duckdns.org
 xyklemgbtr.xyz
 xykoy.store
 xylar.top
@@ -97478,6 +97483,7 @@ york-verificaton.glitch.me
 yorkscene.com
 yorlenix.asia
 yoroboshi.77-83-201-133.plesk.page
+yorum-ithal-gr.garden
 yosigdir-edu.org
 yotjje.top
 you-insk-bad.pages.dev
@@ -98265,6 +98271,7 @@ zlm0106661.duckdns.org
 zlm11090100001.duckdns.org
 zlumberjack.top
 zlxfqx.cn
+zm8w2krx5qvph9tcn4ylb.click
 zmirhizli.net
 zmirimizgzlcevar.net
 zmirimizlegeldn.net
