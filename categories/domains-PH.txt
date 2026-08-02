@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98498
-# Last change: 2026-08-02 19:37:26 UTC (sync mode: full)
+# Records: 98503
+# Last change: 2026-08-02 21:12:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1453,6 +1453,7 @@
 312222545548789988995.duckdns.org
 312222545548789988996.duckdns.org
 312222545548789988997.duckdns.org
+312222545548789988998.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -9543,6 +9544,7 @@ avkgstrodemesi.sbs
 avkrentacar.net
 avktbilgisistemi.icu
 avlsrentfilo.com
+avm-satinal.com
 avm-urunler.com.tr
 avmbireyselsepet.com
 avmgunlukleri1brda0firsat1.com
@@ -56875,6 +56877,7 @@ mjosqggpib.storage.googleapis.com
 mk-do.de
 mkachecker.xyz
 mkal1d3r.net
+mkasdjdgn3457.duckdns.org
 mkasmasaas.net
 mker.a0001.net
 mkers.nichesite.org
@@ -69466,6 +69469,7 @@ rafa2halksckdjkx123x13.sbs
 rafa2lcdsajcjksakjx123x12.cfd
 rafa2vasdkasckl123jkx123.cfd
 rafa3234sxdkajkjscadc123.cfd
+rafa3cajkcdaskx1x3213x.cfd
 rafa3ck123kjx1kj23x13123132.cfd
 rafa3csdackllk1kl3x123.cfd
 rafa5cjkadscasdjxk13x123.cfd
@@ -83219,6 +83223,7 @@ temmuzfirsatlari101.com.tr
 temmuzfirsatlari1o1.duckdns.org
 temmuzfirsatlarinagiirisiimbvagarantisiyle.click
 temmuzfirstlarix101.online
+temmuzflrsatlari.com
 temmuzflrsatlari.ilspd.sa.com
 temmuzfrsat1o1de.com
 temmuzgeldiyazgeldi.com.tr
