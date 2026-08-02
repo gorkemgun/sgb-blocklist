@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98482
-# Last change: 2026-08-02 15:30:03 UTC (sync mode: delta)
+# Records: 98490
+# Last change: 2026-08-02 17:19:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1449,6 +1449,8 @@
 31132556.cloud
 312222545548789988992.duckdns.org
 312222545548789988993.duckdns.org
+312222545548789988994.duckdns.org
+312222545548789988995.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -2061,6 +2063,7 @@
 60g.api18.shop
 61250-coinbase.com
 61355xf6771d2.duckdns.org
+6161616161.duckdns.org
 61662542.cloud
 61835-coinbase.com
 61851-coinbase.com
@@ -16549,6 +16552,7 @@ canileyukleme.shop
 canimburadasinartikxd.click
 canimlecanamin.net
 canimturkiye.cyou
+caninelab.co
 canizu.com
 canli-show.net
 canli-showw.com
@@ -35953,6 +35957,7 @@ gexxclusivefoundation.space
 gezginlericinyenirotalarvetavsiyeler.xyz
 gf6.us
 gfagfasdgaas.sbs
+gfbvr23ert.com
 gfdgfdvbvb.nicepage.io
 gfdgiwneweb.top
 gfdvegrrewfghgfed.xyz
@@ -39939,6 +39944,7 @@ heelclamp.top
 heelcomplimentary.top
 heeldetergent.top
 heelsolicitor.top
+hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 hegesecim.com
 hegesegunduz.com
@@ -51156,6 +51162,7 @@ krskarena.com
 krskfilarmonia.com
 krsnadamhykanresrndvandevm.com
 krsnsnsrn.tk
+krssxrglamalarinin.net
 krsyrdm.store
 krtdolmzmr.com.tr
 krtfast.net
@@ -56308,6 +56315,7 @@ mhr23623wfqwd.duckdns.org
 mhr23k6m236njsdf.duckdns.org
 mhr2srandv5larnzi.duckdns.org
 mhrandevugov.net
+mhrasd432734jnsdf.duckdns.org
 mhrefshemenrndv.ice.lol
 mhreseranedeual.net
 mhrk23km6747.duckdns.org
