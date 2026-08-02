@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98452
-# Last change: 2026-08-02 00:16:03 UTC (sync mode: delta)
+# Records: 98458
+# Last change: 2026-08-02 06:47:39 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5077,6 +5077,7 @@ aidatiadelerimizsn.net
 aidatiadelerimturkiye.org
 aidatiadeleriniztrxd.com
 aidatiademerkesitr.biz
+aidatiademerkezi.my-homeip.de
 aidatiadesi.online
 aidatiadesistemi-online.com
 aidatiadesistemi.de
@@ -48948,6 +48949,7 @@ karaogluvakifi.net
 karaogluyardim.org
 karaoguluvakfi.org
 karapara.icu
+karar-onemli.ink
 kararmaliye.org
 karartr.net
 karasoy4hold.live
@@ -49414,6 +49416,7 @@ kefalukabodrumresort.com
 kefalukahotelakyarlar.com
 kefalukaresorts.net
 kefalukaresortspa.com
+kefalukka.com
 kefilsizbasvurudepartmani.com
 kefilsizbasvuruplatformu.com
 kefrayornix.com
@@ -63569,6 +63572,7 @@ padregloncke.top
 padula-media-digital.com
 padula-mediapcp.com
 padula-mediaseo.com
+pafada-dertuyyu.lol
 paffee.com
 pag48484.com
 pagadeupedate.com
@@ -96195,6 +96199,7 @@ y6ntzhj.cn
 y89458343cxcvx.duckdns.org
 y9dz8uka.icu
 y9r4n7z2m6w3.sbs
+ya-l-bankac-l.vercel.app
 ya0nrtdrel2n.icu
 ya1o1.com
 yaalwgyl.ru
@@ -98294,6 +98299,7 @@ zormekalidu.digital
 zormuko.tr
 zorpleflux.top
 zorstore.com
+zortlata.ezpizi.click
 zorunlulastikhavalarikarlaberabergeldi.com
 zorunlusigorta.website
 zorunlusigortaci.store
