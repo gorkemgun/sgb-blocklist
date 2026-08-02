@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98475
-# Last change: 2026-08-02 14:00:10 UTC (sync mode: delta)
+# Records: 98482
+# Last change: 2026-08-02 15:30:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1448,6 +1448,7 @@
 31102025basvuru.shop
 31132556.cloud
 312222545548789988992.duckdns.org
+312222545548789988993.duckdns.org
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -2681,6 +2682,7 @@ a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
+a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-firsat.shop
 a-101-firsatlari-com.aldnaldnhftaninyildizlri.online
@@ -5750,6 +5752,7 @@ alanlranindilsmlr.xyz
 alanmeyerlforce.online
 alanoas.com
 alappuraheritage.in
+alarm-taslagi.garden
 alarmsay.top
 alb-turk-mobil.com
 albaraka-yeni.cms.pixelplus.org
@@ -62324,6 +62327,7 @@ onlinelimitvakifta.xyz
 onlinem-tr.com
 onlinem.com.tr
 onlinemagaza.shop
+onlinemarketafisi.com
 onlinemarketcilik.com.tr
 onlinemarketdesafranda.com
 onlinemarketimde.com.tr
@@ -69443,6 +69447,7 @@ rafa23aksdjackdkjx123.cfd
 rafa2askjcaskx123z123.cfd
 rafa2casdkkj13x123.cfd
 rafa2halksckdjkx123x13.sbs
+rafa2lcdsajcjksakjx123x12.cfd
 rafa2vasdkasckl123jkx123.cfd
 rafa3234sxdkajkjscadc123.cfd
 rafa3ck123kjx1kj23x13123132.cfd
@@ -76936,6 +76941,7 @@ size-enguzel-zaman-herzaman-hizmetinizdeyiz.com
 size-her-zaman--hizmetinizdeyiz.com
 size-normal-gelmeyen-yeni-urunler.com.tr
 size-ozel-kuvyt-islem.b-cdn.net
+size-ozel.ink
 size-ozelliletisimizinleri-guncel.net
 sizeozel-eventfirsati.com
 sizeozel-eventfirsati.globalcekilis-hemenbasvurveyararlan.com
@@ -98008,6 +98014,7 @@ zentoril.com
 zenvalis.site
 zenvorra.store
 zeqire.com
+zerdesa-turyederte.lol
 zerenem.net
 zereolipso-certesede.xyz
 zerfano.com
