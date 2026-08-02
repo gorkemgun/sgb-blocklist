@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 462667
-# Last change: 2026-08-02 06:47:39 UTC (sync mode: delta)
+# Records: 462672
+# Last change: 2026-08-02 09:24:55 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -184085,6 +184085,7 @@ gratis.from-ks.com
 gratis.from-ky.com
 gratis.from-oh.com
 gratis.from-va.com
+gratis.globalscholarpress.com
 gratis.groogle-analytics.com
 gratis.homelinux.net
 gratis.hookextender.com
@@ -286658,6 +286659,7 @@ muhtez.com
 muhtrrhssan.site
 muhu-bb-vv-aa-ss-dd.xyz
 muhuduhusuhud.site
+muhugudu-polililili.lol
 muhugudue-redetesede.lol
 muhugudueresede-afderese.lol
 muhugudueretese-duguhuderede.lol
@@ -359966,6 +359968,7 @@ setrmstore.top
 sets.ddns.net
 setsetpisetduranemmi.site
 setstich.buzz
+sett.basitdom.biz
 setting-secure.com
 setting3.yeahost.com
 settingdata.com
@@ -445019,6 +445022,7 @@ xrbwrbepsgow.space
 xrcarrefrs.click
 xrcarrefrskmpny.online
 xrchzfkkax.duckdns.org
+xrd.domainclx.click
 xrd1.net
 xrdnet.click
 xreaktorlisance78.duckdns.org
@@ -446684,6 +446688,7 @@ yaninizdafirsatlarsizlerlebirlikte.xyz
 yaninizdakigucvakif.tk
 yaninizdayiz.sbs
 yaniodeme.servebeer.com
+yanitlama-grs.garden
 yaniyorumhalaaa.cyou
 yaniyorumvovov.com
 yaniyorumyanginvarrr.click

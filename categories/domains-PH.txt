@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98458
-# Last change: 2026-08-02 06:47:39 UTC (sync mode: delta)
+# Records: 98463
+# Last change: 2026-08-02 09:24:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37177,6 +37177,7 @@ gratis.craftyhour.com
 gratis.dnsdojo.com
 gratis.from-ca.com
 gratis.from-in.com
+gratis.globalscholarpress.com
 gratis.homelinux.net
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
@@ -58060,6 +58061,7 @@ muhtesmkampanya101de.com
 muhtesmkasm101frsatlari.com
 muhtez.com
 muhu-bb-vv-aa-ss-dd.xyz
+muhugudu-polililili.lol
 muhugudueresede-afderese.lol
 muhyvau.com
 muiipaiydiplent.top
@@ -75459,6 +75461,7 @@ setrms-co.top
 setrms-store.top
 setrms-tr.top
 setrmstore.top
+sett.basitdom.biz
 settlementflip.top
 settlementsusceptible.top
 settlementvoid.top
@@ -96041,6 +96044,7 @@ xques.shop
 xqzeltopz.com
 xracmxuayneservisi.com
 xrcarrefrskmpny.online
+xrd.domainclx.click
 xrdnet.click
 xrent.store
 xrp-bntr.info
@@ -96271,6 +96275,7 @@ yanimda.store
 yanimda2023mobil.buzz
 yanindakineselisaatler.cfd
 yanindayimgulumsetirim.net
+yanitlama-grs.garden
 yanlarusturacanotaskes.xyz
 yanlzhayatzorbdegelbanasorbekan81.info
 yanparglobal.com
