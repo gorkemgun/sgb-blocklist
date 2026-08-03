@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98563
-# Last change: 2026-08-03 15:56:24 UTC (sync mode: delta)
+# Records: 98579
+# Last change: 2026-08-03 18:11:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -15607,6 +15607,7 @@ buhayatbenicokyordu3.click
 buhayatbenicokyordu6.click
 buhu-guhuludese.lol
 buhugereteyesede.lat
+buhugu-hurehugedere.lol
 buhulukuge-redetpioli.lol
 buhuyutr-deresedere.lol
 build-making-global.net
@@ -22760,6 +22761,7 @@ cuentas-appsssy-itunes.com
 cuentas-seguracompraverfvt.com
 cufdenwyirgzgx.com
 cugarmachine.com
+cugeredesede-sederese.lol
 cuinbbsewltxtsn.webflow.io
 cuisinecapsule.top
 cuisineintrigue.top
@@ -41946,6 +41948,7 @@ homogeubpz.shop
 hondaturkiyee.com
 honedestler.duckdns.org
 honehester.duckdns.org
+honejestrer.duckdns.org
 honeshadrteker.duckdns.org
 honesjterlarser.duckdns.org
 honestcardinal.top
@@ -43885,6 +43888,7 @@ iletsim-hizmtleri.net
 ilevleriproje.com
 ilgazqx.ru.com
 ilgenelitoplubasvuru.online
+ilgili-disp-asist.ink
 ilhammoo.com
 ilhamufku.online
 ilhamvakfi.com
@@ -46363,6 +46367,7 @@ ist4nbulb4kiy3cm.net
 ist4nbulknrt.net
 istaaanz.com
 istaanbbllkartykleme.blogspot.com
+istaanbulkartcan.xyz
 istaanz.com
 istabnz.net
 istacnbelxr.net
@@ -46451,6 +46456,7 @@ istanbulc4cmkart.net
 istanbulcancabab.xyz
 istanbulcancan.com
 istanbulcancan.xyz
+istanbulcancanbaba.xyz
 istanbulcancanw.xyz
 istanbulcuhaso.xyz
 istanbulda3d3.blogspot.com
@@ -47966,6 +47972,7 @@ joinnowandcampaignscontinue.cloud
 joinparent.top
 jointhejanuarycampaignsandwin.cloud
 jointlimp.top
+joinzooms.com
 joiterlabs.shop
 jokemaster.lol
 jokepilgage.top
@@ -50421,6 +50428,7 @@ kmpny1o1brd.com
 kmpnyaaaaprsmnynbsvrrr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaaprmsynnbsvrrr.pro
+kmpnyacpttbgrs.com
 kmpnyalartukenyrr1o1.xyz
 kmpnyaparmsynnbsvr.art
 kmpnyayeniyilxc.blogspot.com
@@ -57283,6 +57291,7 @@ mobilsondbasvurugiris.ml
 mobilsube-acikdenizdehediyelerkampanya.com
 mobilsubelerimden.com
 mobilsubelerimizden.com
+mobilsubem.myonlineportal.de
 mobilsubesidenizden.co.vu
 mobiltakipciyiz.com
 mobiltalep.xyz
@@ -76657,6 +76666,7 @@ simdipazartesitestereindirimi.xyz
 simdisepette.com
 simdisiparsver.click
 simdisofradahayverparmesan.sbs
+simdissenalimyapal.cloud
 simditakipcikazan.org
 simdiyuklee.com
 simendifer.online
@@ -77788,6 +77798,7 @@ soktabugun.site
 soktabugun.space
 soktamakinegunleri.org.tr
 soktansiparilere.cloud
+soktansiparilerinitamamlar.cloud
 soktantemmuzagirisklimasi.com
 soktasokfirsatlar.com
 sokttan-temmzzaozel.com
@@ -82593,6 +82604,7 @@ tebedevlet.kisalink.cc
 tebefsykh.abrdns.com
 tebfinansfx.com
 tebhediye-basvuru-iphone2022.net
+tebicinbasvuru.my-homeip.de
 tebligbayi.com
 tebsubat.kisalink.cc
 tebtedtektikbasvurularimonline.click
@@ -92171,6 +92183,7 @@ web-internet-online-digital.com
 web-islem-sonucla.me
 web-islemler-tr.online
 web-jose.com
+web-lanse.ink
 web-logon--ledger.webflow.io
 web-meets.com
 web-metrics.link
@@ -93890,6 +93903,7 @@ worldtrend.online
 worldvide-onayactivasyon-sorgu.duckdns.org
 worldwideaesthetics.top
 worldwidetaboo.top
+wormszone.app
 worpaxti.surf
 worpist.rest
 worryadversity.top
@@ -98441,6 +98455,7 @@ zriaxttttksrxdidstek.online
 zrirxxxaatkrexdi.online
 zrlat-dsvtzt.com
 zrnxcnd34xak.cfd
+zrrrtazt.nicepage.io
 zrrvpnl.com
 zrrvpnl2.com
 zrtasxhgs.xyz
@@ -98457,6 +98472,7 @@ zsaude.com.br
 zt93mx87zr300cxa.cfd
 ztide.lat
 ztoehcian.156953coinbase.com
+ztraattrr-com.cfd
 ztraktor9092.myaddr.io
 ztraktor9093.myaddr.io
 ztrrkt-katlim.cfd

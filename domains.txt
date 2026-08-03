@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 462860
-# Last change: 2026-08-03 15:56:24 UTC (sync mode: delta)
+# Records: 462884
+# Last change: 2026-08-03 18:11:00 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -37537,6 +37537,7 @@ akbank-basvuru.vercel.app
 akbank-basvuru.yildizgrubu.com
 akbank-basvuru.yildizmontaj.com
 akbank-basvuruyap.github.io
+akbank-bireysel-sube.ph
 akbank-bireyseliniz.com
 akbank-bireysell.vg
 akbank-bireyselsube.net
@@ -89398,6 +89399,7 @@ buhnnpqjpbuhnnpqjp.surge.sh
 buhu-guhuludese.lol
 buhuchetooo.ru
 buhugereteyesede.lat
+buhugu-hurehugedere.lol
 buhugufure-desedese.lol
 buhuisi.cn
 buhukulupolisede.lat
@@ -111231,6 +111233,7 @@ cuetheconnect.com
 cufdenwyirgzgx.com
 cuffircous.xyz
 cugarmachine.com
+cugeredesede-sederese.lol
 cugfertde.site
 cugivxe.duckdns.org
 cugubabaswass.best
@@ -211385,6 +211388,7 @@ hondurass.sbs
 honedestler.duckdns.org
 honehester.duckdns.org
 honeiwillre.biz
+honejestrer.duckdns.org
 honesfklerskes.com
 honeshadrteker.duckdns.org
 honesjterlarser.duckdns.org
@@ -220397,6 +220401,7 @@ ilgenelitoplubasvuru.online
 ilgibilgi.info
 ilgileniyoruz.com
 ilgili-basvuru-ekrani.com
+ilgili-disp-asist.ink
 ilgili-e-basvuru-ekrani.com
 ilgiliurnler01.shop
 ilgim.site
@@ -230977,6 +230982,7 @@ ist724.online
 istaaanz.com
 istaanbbllkartykleme.blogspot.com
 istaanblykle.net
+istaanbulkartcan.xyz
 istaanbulkartt.net
 istaanbulkxrtim.com
 istaanbullkartodemesi.net
@@ -231386,6 +231392,7 @@ istanbulcan.xyz
 istanbulcancabab.xyz
 istanbulcancan.com
 istanbulcancan.xyz
+istanbulcancanbaba.xyz
 istanbulcancanw.xyz
 istanbulcanhalis.shop
 istanbulcanlo.com
@@ -239533,6 +239540,7 @@ join-now-whatsapp.duckdns.org
 join-situs-dewasa.duckdns.org
 join-skype.info
 join-travel.online
+join.evsahibibasvuru.com
 join65newlist.duckdns.org
 join708singlebrought.live
 joinabrupt.top
@@ -239579,6 +239587,7 @@ joinushealth.com
 joinvvvvip-grub87.hopto.org
 joinwa109.duckdns.org
 joinwhatsapp98.zapto.org
+joinzooms.com
 joistbal.com
 joistikps.com
 joiterlabs.shop
@@ -251614,6 +251623,7 @@ kilometesrglrmbrdan.click
 kilometre-herzamanburda.firebaseapp.com
 kilometre-herzamanburda.web.app
 kilometre-sonuclarinizi-ogrnn.web.app
+kilometre-sonuclarnzi-ogrnin.web.app
 kilometre-verilernzi-ogrenin.web.app
 kilometre.autos
 kilometre.sa.com
@@ -254301,6 +254311,7 @@ kmpnyacklsbsvru.info
 kmpnyacklsbsvruu.info
 kmpnyacklsbsvruu.live
 kmpnyacklsbsvruu.pro
+kmpnyacpttbgrs.com
 kmpnyafrsatlarmm.com
 kmpnyafrsatlarnz.com
 kmpnyafrstlarim.online
@@ -269518,6 +269529,7 @@ mahkemedosya.org
 mahkemedosyalari.org
 mahkemedosyalarim.org
 mahkemedosyatrakip.org
+mahkemekurum.org
 mahkemeler.pro
 mahkemelerim.org
 mahkemelik.help
@@ -282411,6 +282423,7 @@ mobilsubem-kvyttrk.site
 mobilsubem.com
 mobilsubem.com.tr
 mobilsubem.host
+mobilsubem.myonlineportal.de
 mobilsubem2019da.tk
 mobilsubemburada.com
 mobilsubemcepteteb.com
@@ -364883,6 +364896,7 @@ simdisiparsver.click
 simdisofradahayverparmesan.sbs
 simdisorgulayin.com
 simdisormaklazrede.online
+simdissenalimyapal.cloud
 simdistediginindirimlier.shop
 simdisversiparis.click
 simditakipcikazan.org
@@ -369925,6 +369939,7 @@ soktanindirim.com
 soktanindirimler.com
 soktanindirimlercepte.site
 soktansiparilere.cloud
+soktansiparilerinitamamlar.cloud
 soktantemmuzagirisklimasi.com
 soktaozel-kliman.com
 soktasokfirsatlar.com
@@ -386806,6 +386821,7 @@ tebhediyen.com
 tebhediyeniz.com
 tebhtchediyesi.com
 tebiadenial.com
+tebicinbasvuru.my-homeip.de
 tebikler.eu
 tebilebayramlar.com
 tebilebayramlarr.com
@@ -409145,6 +409161,7 @@ ucuz-obilet.online
 ucuz-takipci.com
 ucuz.alim-verim.top
 ucuz.info
+ucuz.obilet-mobil.uk
 ucuz1-konto.22web.org
 ucuz101indirimmarket.com
 ucuzaaldin.online
@@ -426328,6 +426345,7 @@ web-kuveyt.com
 web-kuveytturk.com
 web-landmonitor-tr.click
 web-landtr.click
+web-lanse.ink
 web-likidite.xyz
 web-links-mobil-tr.click
 web-links-mobil-tr.sbs
@@ -431658,6 +431676,7 @@ wormhost221.ddns.net
 wormplace.duckdns.org
 wormratx.ddns.net
 worms.ddns.net
+wormszone.app
 wormxwar.ddns.net
 woronline.rf.gd
 worpax.org
@@ -443634,6 +443653,7 @@ xn--qnbfinansban-y7b.com
 xn--qnbfinansban-y7b.ph
 xn--qnbfinansbank-69b.com
 xn--qnbfinansbank-npara-8zb.com
+xn--qnbfinansbank-x3d.ph
 xn--qnbfinansbankkatlmx-v5cb.com
 xn--qnbfinansbnk-lbb.com
 xn--qnbfinansbnk-lbb599e.ws
@@ -454731,6 +454751,7 @@ yolcu.360-kirala.com.tr
 yolcu.360-online.com.tr
 yolcu.360-vip.com.tr
 yolcu.360mobil.com.tr
+yolcu.obilet-mobil.uk
 yolcu360-arackiralama.com
 yolcu360-kiralama.online
 yolcu360-kiralama.store
@@ -454931,6 +454952,7 @@ yolcufilokiralama.site
 yolcuhizmetlerivopex.net
 yolcuile360kiralamafilo.online
 yolcukiralama.com
+yolculuk.obilet-mobil.uk
 yolculuk.tk
 yolculukist.click
 yolcum360.autos
@@ -462091,6 +462113,7 @@ zrririxxaatkrxxdi.online
 zrrratxxreddstek.online
 zrrriaaatkxreddstek.online
 zrrrrt22-sfqewqwdsasaasxsda.xyz
+zrrrtazt.nicepage.io
 zrrrxxxiaatkxdrdi.online
 zrrt1-ssdqwqwdqasxzax.xyz
 zrrvpnl.com
@@ -462242,6 +462265,7 @@ ztoehcian.156953coinbase.com
 ztpdpbptwq.duckdns.org
 ztpspi.duckdns.org
 ztqs.info
+ztraattrr-com.cfd
 ztraktor.myaddr.io
 ztraktor9092.myaddr.io
 ztraktor9093.myaddr.io
