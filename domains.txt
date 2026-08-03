@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 462745
-# Last change: 2026-08-03 08:43:30 UTC (sync mode: delta)
+# Records: 462775
+# Last change: 2026-08-03 12:37:45 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5770,6 +5770,7 @@
 182-webb.sbs
 182-webb.xyz
 182-webhati.com
+182-webs.online
 182-website.com
 182-weeb.net
 182.24612-20114.click
@@ -8895,6 +8896,7 @@
 21212126513212156.space
 2121232323232.cloud
 2121431312.duckdns.org
+2121454457788785522590.duckdns.org
 2121quasar.ddns.net
 212224252.cloud
 21231321321313213213132.duckdns.org
@@ -68393,6 +68395,7 @@ biejmll.com
 bielcraft123.duckdns.org
 bielsistemas.duckdns.org
 biemcll.com
+biemdabulyusahibiyim.sbs
 biemjcll.com
 biemncll.net
 biemnnl.net
@@ -76712,6 +76715,7 @@ bireyselsigorrta.site
 bireyselsigortta.site
 bireyselsiigorta.site
 bireyselsikayyetvar.ml
+bireyselsiparis.com
 bireyselsiparis.com.tr
 bireyselsizacikdenizv2denizbank.co.vu
 bireyselsok.net.tr
@@ -77067,6 +77071,7 @@ birlikteekimayikampanyalari.online
 birlikteekimayikampanyalarina.online
 birlikteekimayikampanyalarina.xyz
 birlikteelele.com
+birliktegucluyuz.pages.dev
 birlikteguzelgunlere.net
 birlikteguzelgunlere.org
 birlikteiyilik.org
@@ -85507,6 +85512,7 @@ botaniccicekcim.com
 botanicloud.com
 botanico-id2934.world
 botanicoud.com
+botanikplatinumotel.com
 botanikveribankasi.com
 botanyformidable.top
 botanypendulum.top
@@ -86239,6 +86245,7 @@ brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
 brdamhrsrarandvzhmzr.sbs
 brdan-alirsan-rahatlik-edersin.com
+brdan1-82rvdleralnr.com
 brdanaldmsnkzzzzz.net
 brdanbsvasdasd.shop
 brdangeldksznrdsnzbrda.shop
@@ -159809,6 +159816,7 @@ fast-boxes.com
 fast-eda.my
 fast-havale.com
 fast-ilan.com
+fast-ilanlar.com
 fast-mob.com
 fast-notify.com
 fast-page.shop
@@ -172874,6 +172882,7 @@ garantibbvafirsat.duckdns.org
 garantibbvafirsat250.tk
 garantibbvafirsatlarmda.life
 garantibbvafirsatlarmda.online
+garantibbvafirsatlri.duckdns.org
 garantibbvaform.ml
 garantibbvagenel.ml
 garantibbvagiris.co.vu
@@ -181937,6 +181946,7 @@ go-ia.info
 go-ia.site
 go-mail-accounts.com
 go-mobiles.net
+go-para-odeme.online
 go-procoinwhu.top
 go-see.top
 go-servicewrap.com
@@ -210034,6 +210044,7 @@ hmnislemknasn.net
 hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
+hmnislemnoktnasn.net
 hmnislemonlniesonuc.net
 hmnislmbkntans.net
 hmnislmknat.net
@@ -231388,6 +231399,7 @@ istanbulekonomix.com
 istanbulekrem.net
 istanbulekrem.org
 istanbulekremimamoglu.dev
+istanbulemrecan.xyz
 istanbulenayiler.net
 istanbulenteresan.shop
 istanbulevdeneve.shop
@@ -251554,6 +251566,7 @@ kilometersorguyaphemengovpttas.web.app
 kilometesrglrmbrdan.click
 kilometre-herzamanburda.firebaseapp.com
 kilometre-herzamanburda.web.app
+kilometre-sonuclarinizi-ogrnn.web.app
 kilometre-verilernzi-ogrenin.web.app
 kilometre.autos
 kilometre.sa.com
@@ -255188,6 +255201,7 @@ kocotokiralama.online
 kocotomobil.com
 kocplatform-set.com
 kocraw.click
+kocrental.com
 kocrental.org
 kocrentcars.com
 kocs.top
@@ -263739,6 +263753,7 @@ linda-callaghan.icu
 linda-gaytan.website
 linda991.duckdns.org
 lindabungalov.com
+lindacarmical.com
 lindacolor.com
 lindafromhr.ddns.net
 lindarentacar.com
@@ -268660,6 +268675,7 @@ m2xyqh.duckdns.org
 m3.haikiss.net
 m345b.zapto.org
 m35qgcj.cn
+m365-owa.com
 m39793.cn
 m39cvtj.duckdns.org
 m3bankk.ddns.net
@@ -284523,6 +284539,8 @@ ms25h2-update.pro
 ms2ve.cc
 ms31hinet.hopto.org
 ms326b4k06385.74hxg7zk.ru
+ms365-device.com
+ms365-live.com
 ms47.zapto.org
 ms5hf7.cn
 ms6-upload-serv3.com
@@ -306475,6 +306493,7 @@ onlinetuvk.com.tr
 onlinetuvtrkmuaynec.web.app
 onlinetuvturkrandevual.com
 onlinetvturkrandevum.click
+onlineucuzlukfirsati.com
 onlineupdate.duckdns.org
 onlineupsolaid00391039.duckdns.org
 onlineurun.com.tr
@@ -309154,6 +309173,7 @@ otokocfilokurumsal.net
 otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
+otokocfilomturkey.net
 otokocfilorent.com
 otokocfilorentacar.com
 otokocfilorentacar.net
@@ -309968,6 +309988,7 @@ ow8trlqm0.duckdns.org
 owa-change-password.rf.gd
 owa-insss-org-ill-owa-authen.ml
 owa-microsoft.online
+owa-ms365.com
 owa.ahnlabinc.com
 owa.apmmacleans.ca
 owa365.bid
@@ -315247,6 +315268,7 @@ paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.link
+paribu-pepe-cekilisi.remotewire.net
 paribu-pepehediyem.link
 paribu-promosyon.com
 paribu-promosyonlar.com
@@ -315514,6 +315536,7 @@ paribualicetlmcoindagitim.tk
 paribuanlikkampanyalarimiz.com
 paribuapps.com
 paribuaraba-hediye.com
+paribuaraba-sansi.com
 paribuaraba.com
 paribuaraba2026.com
 paribuarabaavantaj.com
@@ -318271,6 +318294,7 @@ pazarama.bireyselhizmetleriniz.com.tr
 pazarama.bireyselprovizyon.com.tr
 pazarama.bireyselsatici.online
 pazarama.bireyselsatisin.com.tr
+pazarama.bireyselsiparis.com
 pazarama.bireyselticaret.com.tr
 pazarama.duckdns.org
 pazarama.fast-ilan.com
@@ -379144,6 +379168,7 @@ submit-busines-restricted.duckdns.org
 submit-form-here.netlify.app
 submit-here.vercel.app
 submit-review-for-blue-badge.wasmer.app
+submit-screen.shop
 submitdetails.ddns.net
 submitfactory.com
 submitimperative.top
@@ -387679,6 +387704,7 @@ teknosta.net
 teknoyasamak.online
 teknsa-online-firsat.com
 teknvibb.net
+tekoas.com
 tekonomicbankasi.com
 tekowave.click
 tekpanelsbayi.com
@@ -402426,6 +402452,7 @@ truktuvrndvu.blogspot.com
 truktuvrndvu.com
 trulkigh.xyz
 trulyfraudulent.top
+trumore.org
 trumoredesign.com
 trumoretasarla.com
 trump.ddns.net
@@ -403074,6 +403101,7 @@ ttasbsj002.ddns.net
 ttaseassseae.fit
 ttaswnddd2m.com
 ttattislemenuugiriss.com
+ttavskoc.com
 ttaypqursk.duckdns.org
 ttbankasi.com
 ttbbaits.com
@@ -459444,6 +459472,7 @@ ziraat.bilgi.ga
 ziraat.bireyselkampanya-firsatlari.cf
 ziraat.bireyselonlinemobilozel.tk
 ziraat.bk-tr.com
+ziraat.bkasionline.com
 ziraat.cepbankasi.com
 ziraat.com-tr.store
 ziraat.coralconsulting.org
@@ -462238,6 +462267,7 @@ zuqmi.duckdns.org
 zuqnh.duckdns.org
 zuqwwjwqyv.duckdns.org
 zurat.store
+zuretede-sedevedere.lol
 zurichbrothers.info
 zurifo.pro
 zurkrone-guest5325.cfd

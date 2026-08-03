@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MI
-# Records: 167
-# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
+# Records: 171
+# Last change: 2026-08-03 12:37:45 UTC (sync mode: delta)
 0x666.info
 1235saddfs.icu
 20gbhediyemiz.com
@@ -72,6 +72,7 @@ locvnpt.com
 loop.microsoftmse.com
 love.thotiana.live
 lxwo.org
+m365-owa.com
 madleets.ddns.net
 mail.rediffmail.kz
 malext.com
@@ -88,6 +89,8 @@ mobildevletsosyaldestek.com
 molokotarelka.com
 momentum.xcaligula.xyz
 morfeucarder.duckdns.org
+ms365-device.com
+ms365-live.com
 news.bradpitt.kz
 nibelined.com
 niggerdemon.in
@@ -95,6 +98,7 @@ nitlebuf.com
 notabotnet.lol
 ordai.quest
 ouilov.com
+owa-ms365.com
 pandemic-destek-app2.com
 paralegalmustang.icu
 payload.krakenbit.net

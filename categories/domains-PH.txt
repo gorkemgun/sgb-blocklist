@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98530
-# Last change: 2026-08-03 08:43:30 UTC (sync mode: delta)
+# Records: 98547
+# Last change: 2026-08-03 12:37:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -755,6 +755,7 @@
 182-web.xyz
 182-webb.sbs
 182-webb.xyz
+182-webs.online
 182-weeb.net
 182.24612-20114.click
 182.24612-20114.xyz
@@ -12056,6 +12057,7 @@ bideodemesi.likesyou.org
 bidsource.top
 bidzen.net
 bieguaiwomeigeitahaolianse.top
+biemdabulyusahibiyim.sbs
 biennz.net
 bievdiz.com
 big-circ.ru
@@ -13010,6 +13012,7 @@ bireyselonlineplatform.com.tr
 bireyselonlinevakifkredi.xyz
 bireyselozelkampanya-basvur-online.kampanya-basvuru-sayfa.xyz
 bireyselparamguvende-com.ga
+bireyselsiparis.com
 bireyselsubegiris.com
 bireyselsubem.com
 bireyselyeniyildapuankampanyalarionline.line.pm
@@ -14625,6 +14628,7 @@ botanicalmetaphor.top
 botanicalreconciliation.top
 botaniccicekcim.com
 botanico-id2934.world
+botanikplatinumotel.com
 botanyformidable.top
 botanypendulum.top
 botanysalmon.top
@@ -31992,6 +31996,7 @@ fasliaf.click
 fassbind.help
 fast-havale.com
 fast-ilan.com
+fast-ilanlar.com
 fast-redirect.host
 fast.500bin-konut.com
 fastbrokerlik.net.tr
@@ -41684,6 +41689,7 @@ hmnebasvurtyap.co.vu
 hmneislemnktasi.net
 hmniadeald.net
 hmnilsmkntans.net
+hmnislemnoktnasn.net
 hmnislemonlniesonuc.net
 hmnislmknat.net
 hmnislmnkatnas.net
@@ -46447,6 +46453,7 @@ istanbulddollmyeri.net
 istanbuldurbizim.xyz
 istanbuledu.co
 istanbulekonomix.com
+istanbulemrecan.xyz
 istanbulflom.com
 istanbulfree.xyz
 istanbulfrt.ml
@@ -49871,6 +49878,7 @@ kilometerlongevity.top
 kilometesrglrmbrdan.click
 kilometre-herzamanburda.firebaseapp.com
 kilometre-herzamanburda.web.app
+kilometre-sonuclarinizi-ogrnn.web.app
 kilometre.autos
 kilometre.sa.com
 kilometre3.shop
@@ -50630,6 +50638,7 @@ kocotofilo.net
 kocotomobil.com
 kocplatform-set.com
 kocraw.click
+kocrental.com
 kocrental.org
 kocsigortam.com
 kocsistema.info
@@ -52565,6 +52574,7 @@ limpiiot.top
 limuzindamat.lol
 linavixor.com
 linavo.store
+lindacarmical.com
 lindarentacar.com
 line-d.vip
 line-zhcn.com
@@ -62458,6 +62468,7 @@ onlinetrktuvdenrndevu.com.tr
 onlineturkcell.com
 onlineturrkkeyislemler.online
 onlinetuvk.com.tr
+onlineucuzlukfirsati.com
 onlineurun.com.tr
 onlinevakifinternetsubesi.xyz
 onlinevakifkredi.xyz
@@ -63128,6 +63139,7 @@ otokocfilo.org
 otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
+otokocfilomturkey.net
 otokocfilorent.com
 otokocfilorentacar.com
 otokocfilotr.com
@@ -64306,6 +64318,7 @@ paribu-net-giris.xyz
 paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
+paribu-pepe-cekilisi.remotewire.net
 paribu-sistem.com
 paribu-sogukdepo.com
 paribu-technology.com
@@ -64359,6 +64372,7 @@ paribu5000dogecoinhediyeniz.com
 paribua.com
 paribuairdrop.tk
 paribuaraba-hediye.com
+paribuaraba-sansi.com
 paribuarabaavantaj.com
 paribuarabaavantaji.com
 paribuarabaayricalik.com
@@ -82901,6 +82915,7 @@ teknosaonline.shop
 teknosaturuncufirsat.shop
 teknosavergisiz.com
 teknoslakmpanya.net
+tekoas.com
 tekowave.click
 tekpos.html-5.me
 tekrardan-geldi-sizinle-daha-mutlu.com
@@ -86820,6 +86835,7 @@ truist-one-view.cc
 truktuvrndvu.blogspot.com
 truktuvrndvu.com
 trulyfraudulent.top
+trumore.org
 trumpertonster.icu
 trumpetdevastation.top
 trumpetversatile.top
@@ -86967,6 +86983,7 @@ tt.srlmetal.com
 tt002332sd23.duckdns.org
 tta3p0px47q0.icu
 ttakip.com
+ttavskoc.com
 ttcbccuygulamasi.com
 ttccckk.duckdns.org
 tteebbaassvvuurruu.cfd
