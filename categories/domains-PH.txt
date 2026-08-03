@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98588
-# Last change: 2026-08-03 21:32:27 UTC (sync mode: delta)
+# Records: 98590
+# Last change: 2026-08-03 23:28:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -49624,6 +49624,7 @@ kesaiseac.sbs
 keshumeb.com
 kesinbilgi.club
 kesinbilgi.online
+keskn5brdaclsyrz.com
 keslibdo.net
 kesmezbizi.online
 kesmezbizi.shop
@@ -78388,6 +78389,7 @@ sosyalkazani.ml
 sosyalkont.com
 sosyalkontbasvuru.net
 sosyalkonut-basvurular.vercel.app
+sosyalkonut-toplukonut.vercel.app
 sosyalkonut.org
 sosyalkonut.sbs
 sosyalkonut2025.com.tr
