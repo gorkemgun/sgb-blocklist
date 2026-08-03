@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98586
-# Last change: 2026-08-03 20:01:03 UTC (sync mode: full)
+# Records: 98588
+# Last change: 2026-08-03 21:32:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -34747,6 +34747,7 @@ garanterentacar.ga
 garanti-action-form.pages.dev
 garanti-basvur-bireysel-fomu-online.ml
 garanti-bbva-cep-sifrematik.ir.aptoide.com
+garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bonus-girisim2023.com
 garanti-formu-kampanya-bizde-var-basvur-online.ml
@@ -81972,6 +81973,7 @@ tamamhadherseebakgotur.info
 tamamistanbulo.co
 tamamla-sip.com
 tamamla-sipars.com
+tamamlayan-dahafazla.ink
 tamammarket.click
 tamamsa-ugrayin-yanimiz-oldugundan-sebep.com
 tamamsan-ugrayan-habersiz-kalindi-iyiden.com
