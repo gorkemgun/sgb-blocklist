@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98547
-# Last change: 2026-08-03 12:37:45 UTC (sync mode: delta)
+# Records: 98563
+# Last change: 2026-08-03 15:56:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2690,6 +2690,7 @@ a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
+a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
 a-101-firsat.shop
@@ -16733,6 +16734,7 @@ captonmerger.top
 captureintegral.top
 capturelateral.top
 captureme.qpon
+capulcu.xyz
 capvero.gifts
 car-dbasvurukampanyafirsati.tech
 car.kocfilo.com.tr
@@ -37035,6 +37037,7 @@ gpostge.sbs
 gposti.top
 gpostpro.top
 gpostr.top
+gppmikicc.com
 gpremiumdresdenaltmarkthotel.world
 gps-establishing-maximize-jefferson.trycloudflare.com
 gpt-turkish.com
@@ -37275,6 +37278,7 @@ greatrecipe.top
 greatsimulation.top
 greatstunning.top
 gredcomemorte.top
+grederladsefasdwe.duckdns.org
 greedassimilation.top
 greedpedal.top
 greedthigh.top
@@ -40290,6 +40294,7 @@ hemenn-kapinizza-tesliim.com.tr
 hemenn-kapinizzdaa.com
 hemennalrtnlasna.net
 hemennislemonktnas.net
+hemennotknaslnta.net
 hemenodefatura.site
 hemenodendix.net
 hemenolsnn.xyz
@@ -46265,6 +46270,7 @@ islemmerkezsleri.com
 islemnktnasna.net
 islemnokta-nasita.net
 islemonay-acikdenizv2denizbank.com
+islemonay-tr.online
 islemparaiadesi.a2hosted.com
 islempenceresisaniyeler.com
 islems-ailevgenc.pw
@@ -46444,6 +46450,7 @@ istanbulbuyuksehirbelediyesi.com
 istanbulc4cmkart.net
 istanbulcancabab.xyz
 istanbulcancan.com
+istanbulcancan.xyz
 istanbulcancanw.xyz
 istanbulcuhaso.xyz
 istanbulda3d3.blogspot.com
@@ -46454,6 +46461,7 @@ istanbuldurbizim.xyz
 istanbuledu.co
 istanbulekonomix.com
 istanbulemrecan.xyz
+istanbulfestivali2026.com
 istanbulflom.com
 istanbulfree.xyz
 istanbulfrt.ml
@@ -53927,6 +53935,7 @@ mahjongcube.com
 mahjonglio.com
 mahjongsplayers.com
 mahkemeasliye.org
+mahkemebirim.org
 mahkemecezam.com
 mahkemedosya.org
 mahkemelerim.org
@@ -62442,6 +62451,7 @@ onlinesigortaajentalari.site
 onlinesiparisdyson.com
 onlinesipariseozelkampanyalar.com
 onlinesiparisi.com.tr
+onlinesiparislerim.com
 onlineslmleriniz.shop
 onlinesorgu.site
 onlinesorgusualsistemigovtr.sbs
@@ -64884,6 +64894,7 @@ paxfuluk.com
 paxfulza.com
 paxmentra.one
 paxshopu.gifts
+paxtonvirela.shop
 pay-aktif.com.tr
 pay-gatewayonline.cfd
 pay-ilan-satis.com.tr
@@ -72304,6 +72315,7 @@ s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
 s0kmarleletr.com
+s0kmarlketitim.com
 s0kmarlketlor.shop
 s0kmlarkletlerden.shop
 s0wexwsdo6.storage.googleapis.com
@@ -72690,6 +72702,7 @@ sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
+sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
@@ -72802,6 +72815,7 @@ sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.net
+sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-param-guvendesiparis.teknosaturuncugunler.com.tr
 sahibinden-param-guvenli-odeme.3d-ilaniniz.com
@@ -73405,6 +73419,7 @@ sahibinden.xn--guvenlesatnal-dbc.com
 sahibinden.xn--sipariim-swb.com.tr
 sahibinden.xn--xgvende-o2a.com
 sahibinden.xn--zelilan-80a.com
+sahibinden63.com
 sahibinden7-24paramguvende-com.tk
 sahibindenalisveris.trguvenliodeme.sa.com
 sahibindenalisverisplatformu-paramguvendebusiness.com
@@ -84478,6 +84493,7 @@ togghizlibasvuru.sbs
 togghizlikayit.com
 togghizlisatis.cfd
 toggkazan.com
+toggodeme.online
 toggonkayit.com.tr
 toggonsatis.com.tr
 toggonsatis.site

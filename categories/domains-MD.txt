@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65382
-# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
+# Records: 65439
+# Last change: 2026-08-03 15:56:24 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7848,6 +7848,7 @@ acca19.net
 acca69.com
 acca69.net
 accademiadeicoach.net
+accapple.ru
 accasp.com
 accbsns0980.duckdns.org
 accbsns1971.duckdns.org
@@ -8495,10 +8496,14 @@ ads-youtube.online
 ads-youtube.tech
 ads.alternativeads.net
 ads.playerapp1.pw
+adschecks.ru
 adserver-32.zapto.org
 adserver4.com
 adservices.gr.com
 adserviceupdate.com
+adsmobi.ru
+adsmorein.in
+adsmoreme.in
 adsports.in
 adsupporteam108378264.duckdns.org
 adsx.greystripe.com
@@ -9553,6 +9558,7 @@ ambrosineburgundy.net
 amcjkiz7asklgaga.zapto.org
 amcscomputer.com
 amd2k4m.duckdns.org
+amdcdn.ru
 amdomkiged.duckdns.org
 amdservc815.ddns.net
 amediverihds.ddns.net
@@ -9786,6 +9792,9 @@ amzamzamz.hopto.org
 amzhost8883120.hopto.org
 amzlogin-security.zapto.org
 amzn-330secure.ddns.net
+amzndev.in
+amzndev.ru
+amznprod.in
 amznsrver.hopto.org
 amzon-paymentsecure.duckdns.org
 amzonflouda.hopto.org
@@ -10345,8 +10354,11 @@ appleaccountunlock.ddns.net
 applearnnews.com
 appleccb.com
 applecloud-id.com
+appledisk.ru
+appledns.ru
 appleerveapple.duckdns.org
 applehost.ddns.net
+applehosts.ru
 appleib.com
 appleid-accountrecv.ddns.net
 appleid-apple-locked.live
@@ -10402,6 +10414,7 @@ applesupportinfo404.hopto.org
 applesuspend.ddns.net
 applesystememail.zapto.org
 appletfpkkqmntfpkkq.zapto.org
+appletime.in
 appletreecom.com
 appletreecomm.com
 appletreepr.com
@@ -15395,6 +15408,10 @@ cdn2.duc3k.com
 cdn4-rxe3-map.com
 cdnakamai.ru
 cdnakamaiplanet.com
+cdnamz.in
+cdnamz.ru
+cdnapple.in
+cdnatapple.ru
 cdncache.ml
 cdneu.kralprogramcdn.com
 cdninstagram.center
@@ -16075,6 +16092,7 @@ chrome-error.co
 chrome-extension.ddns.net
 chrome-extension2.ddns.net
 chrome2018.zapto.org
+chromeads.ru
 chromee.hopto.org
 chromemenow.xyz
 chrometabrelay.ddns.net
@@ -16824,6 +16842,7 @@ cnjuleurghyr.tech
 cnkcb7.duckdns.org
 cnkmoh.pw
 cnm1x6u4.duckdns.org
+cnmag.ru
 cnmah.pw
 cnmzucjrct.duckdns.org
 cnn-turk-haberciniz-turkiye.tk
@@ -19643,6 +19662,7 @@ devletten-tamdestek-30gb.com
 devletten30gb-firsati.com
 devlettenherkese20gbhediye.tk
 devltdestkpandemiyardimlari.com
+devnetaps.ru
 devolrdm.com
 devolutionrdp.com
 devonclemedverif.ddns.net
@@ -20238,6 +20258,7 @@ dns3.send-safe.com
 dns55.ddns.net
 dnsa0o.duckdns.org
 dnsamericaquincejulio.duckdns.org
+dnsapple.ru
 dnscachecloud.com
 dnschopnewload.ru
 dnscloudservice.com
@@ -20255,6 +20276,7 @@ dnshkjashsdk3d11144d.ru
 dnshsdfskjasdns1423.com
 dnsinass.hopto.org
 dnsontopnegros.ddns.net
+dnsrelays.ru
 dnssecure.ddns.net
 dnssersdfvisfs22.com.ua
 dnsserv.host
@@ -23068,6 +23090,7 @@ expertmediator.ca
 explode-vt.de
 exploit0day.top
 exploreafricatourssafaris.com
+explorecdn.ru
 export.zapto.org
 expoteam.net
 expres123123.zapto.org
@@ -24001,6 +24024,7 @@ fichiers7885667.duckdns.org
 ficnecwxpqwftazmlck.info
 fidapeste.duckdns.org
 fidbeocwep.duckdns.org
+fiddlejoy.ru
 fidelliware.pw
 fiedlityy.ddns.net
 field-delay-bath.com
@@ -24044,6 +24068,7 @@ figfrtk25.duckdns.org
 fighiting1013.org
 fightcompany.net
 fighttherefore.net
+figmanets.in
 figurecharge.net
 figurescrew-pipe.com
 fihcaur.duckdns.org
@@ -25026,6 +25051,7 @@ fullzaccess.ddns.net
 fumblingfuture.monster
 fumirol.com
 fun-pop.com
+funchats.ru
 funcionapage.com
 fundacionbogotaregion.com
 fundelcllm.duckdns.org
@@ -26095,6 +26121,7 @@ girlhistory.ru
 girlsneedhelp.info
 girlyoumashupmymind.hopto.org
 gironementdecarte.zapto.org
+gironetcdn.ru
 girtatapke.duckdns.org
 gisnampcuafsy.ddns.net
 gistraidiyt.xyz
@@ -26354,6 +26381,7 @@ go4nh1h7.duckdns.org
 goadbiz.org
 goalked.cfd
 goalkutoffsa.top
+goalmate.ru
 goanalytics.xyz
 goawzih5m5.com
 gob90d5i.duckdns.org
@@ -26583,6 +26611,7 @@ googlemailuserid008500580500defaulterrorerrorverifysecurityinfo.xyz
 googlemanagerads.com
 googlemap.ddns.net
 googlemgr.net
+googlenets.ru
 googlenetwork.ddns.net
 googlepetkavanis4.pw
 googleplay545.ddns.net
@@ -26810,6 +26839,7 @@ greaudstudio.com
 grecokitchens.com
 greedyduck.top
 greenbackercapital.hopto.org
+greencn.ru
 greenculturefoundation.org
 greendatainfo.com
 greenerlivingca.com
@@ -29818,6 +29848,7 @@ icloudreg.ddns.net
 iclouds-resolverecoversclients.com
 iclouds-updatedrecoversclients.com
 icloudservers.com
+icloudsnet.ru
 icmdufcqxd.duckdns.org
 ico-teleqram.net
 ico8vy9.duckdns.org
@@ -30277,6 +30308,7 @@ imagin-captcha.duckdns.org
 imagin-captchaparticulares.duckdns.org
 imaginariumfortmyers.com
 imaginemix.ru
+imails.ru
 imaistroextr.zapto.org
 imajust.hopto.org
 imamnhearte.hotmail.ru
@@ -34970,6 +35002,7 @@ leftii.zapto.org
 legacyrem.duckdns.org
 legacysoud.duckdns.org
 legal-life.foundation
+legalads.in
 legaleeny.pw
 legalson.com
 legenassedk.top
@@ -35360,6 +35393,8 @@ litigerequests-info.duckdns.org
 litigesppl-contest.duckdns.org
 litigesppl-contestrefund.duckdns.org
 litrtdei.in
+littleads.in
+littledns.ru
 littlegirlsporn.pw
 littlehf.ddns.net
 littlemall.ddns.net
@@ -36592,6 +36627,7 @@ mafik54.ddns.net
 magaji.duckdns.org
 magalu-ultra4k.hopto.org
 magalumobile.hopto.org
+maganet.ru
 maganomojer.eu
 magazineluiza.zapto.org
 magazinepromocao.zapto.org
@@ -38017,6 +38053,7 @@ mimi44.ddns.net
 mimishka.zapto.org
 mimolachupa.ddns.net
 minapplepay2023.hopto.org
+mindelgate.ru
 mindorbittest.com
 mine.best01011.com
 mine.remaariegarcia.com
@@ -40455,16 +40492,21 @@ net.tm.ro
 net2hverify.ddns.net
 net5minute5work.net
 netal10gbkampanyanet.com
+netapsdev.ru
 netawy1.blogspot.com.tr
 netbank-login.ddns.net
 netbank-onlinesecc.ddns.net
 netcant.com
 netcdn-cachefly.network
+netcdnads.in
+netcdnamz.ru
+netcdndev.in
 netco302.ddns.net
 netco305.ddns.net
 netco500.ddns.net
 netco803.ddns.net
 netcode-alert.ddns.net
+netcorps.ru
 netelassa.duckdns.org
 netf-lix2024.duckdns.org
 netfdsjkbwebstar.club
@@ -40559,6 +40601,8 @@ netobe0abc65628e.duckdns.org
 netresubscribeonlineid329131289.duckdns.org
 netsecuredmovies.ddns.net
 netsecureverifyinfo.hopto.org
+netsprot.in
+netsproto.in
 netsupp3ort.ddns.net
 nettech.org.in
 nettfflixe.ddns.net
@@ -40571,6 +40615,7 @@ network-msx-system33.com
 network.oossafe.com
 network.softwarepository.com
 network03c.hopto.org
+networkads.in
 networkenterprise.net
 networkipscan.com
 networkscanip.com
@@ -48169,6 +48214,7 @@ ridousoulementres.zapto.org
 ridss.hopto.org
 riewvt6h.duckdns.org
 rif-nador123333333.zapto.org
+rigacdn.in
 rigakeddo.com
 rigers.zapto.org
 righhedteventdidn.com
@@ -48178,6 +48224,9 @@ rightitlighwi.com
 rightofrenked.com
 righttogether.net
 rightwell.su
+rigmajoys.in
+rigmanet.ru
+rigmanets.in
 rihvv2j9y.duckdns.org
 rij0f5x.duckdns.org
 rikaleza.top
@@ -49275,6 +49324,7 @@ sahnvgghbx.duckdns.org
 sahokernu1.us
 sahrr21.zapto.org
 sahufyqocj.duckdns.org
+sahusuzuki.in
 saibaska.gdn
 said1256uiouiuoiiuo.ddns.net
 saidozdemir.com
@@ -53363,6 +53413,7 @@ studiopixo123.hopto.org
 studiotoscanosrl.it
 studyevenpack.com
 studyland-summer.com
+stuffdns.in
 stuffed8tomatoes.club
 stunning1.zapto.org
 stupid3.ddns.net
@@ -54966,6 +55017,7 @@ testingsvr.ddns.net
 testingwhmnew.duckdns.org
 testiranjebrava.ddns.net
 testitdeep.ddns.net
+testjoys.ru
 testkevin.duckdns.org
 testline.ddns.net
 testload.pythonanywhere.com
@@ -55347,6 +55399,7 @@ timetaiwan1.ddns.net
 timetengstell.com
 timeupdate.xyz
 timeupdateservice.com
+timewebnet.in
 timez0.duckdns.org
 timezone-update.duckdns.org
 timide.zapto.org
@@ -58945,6 +58998,7 @@ vigctlljer.duckdns.org
 vigdaylirp.duckdns.org
 viggointernal.ddns.net
 vigil33t.zapto.org
+vigmanet.ru
 vihfxupoca.duckdns.org
 viiion99.zapto.org
 vijehuiyjj.duckdns.org
@@ -60691,6 +60745,8 @@ whichraised.tk
 whilxdtqh.info
 whioh.duckdns.org
 whip.industryspark.bid
+whitead.in
+whiteads.ru
 whiteangel007.ddns.net
 whiteeye.zapto.org
 whiteip.ddns.net
@@ -60802,6 +60858,7 @@ win8telemetry.club
 winautoclicker.com
 winautoupdate.acmetoy.com
 winbanak-buisnesgr.ddns.net
+wincdn.ru
 winddns.zapto.org
 windefender.org
 windek.zapto.org
