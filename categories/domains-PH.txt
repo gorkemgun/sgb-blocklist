@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98517
-# Last change: 2026-08-03 00:17:14 UTC (sync mode: delta)
+# Records: 98530
+# Last change: 2026-08-03 08:43:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2000,6 +2000,7 @@
 5674564.com
 567834200.net
 567891.sbs
+5685632523532.org
 568563523523865568.org
 56856856342352345754745.org
 568iwj.cn
@@ -5739,6 +5740,7 @@ al0lmayisfirsatlari.com
 ala1o1.com
 alabid234.github.io
 alacagin-gun.com
+alacatibeachsresort.com
 alacatida.click
 aladeniz.com
 alagiznsdwesd.net
@@ -6839,6 +6841,7 @@ animationcognitive.top
 animationrejoicing.top
 animi.com.tr
 aninda-iadeni-al.shop
+aninda-kredi-basvuru.cloud
 aninda-lokal.ink
 aninda-online-basvuru-yap.tursab.co.uk
 aninda-oto-kirala.com
@@ -24805,6 +24808,7 @@ destekler-gov-tr.gq
 destekler-gov-tr.ml
 desteklerdenizden.xyz
 desteklerhibesicimer.com
+destekmenkuldegerler.com
 destekmenkulkiymetler.com
 destekmerkeziform.ml
 destekmerkezsiltd.vercel.app
@@ -25758,6 +25762,7 @@ discosanctuary.top
 discount-a101-firsat-kampanya-haftasi-tum-hafta-boyunca1575.primefirsatiyakala.net
 discountconvene.top
 discountequity.top
+discountonline.click
 discountoutrage.top
 discountrepertoire.top
 discountstock.top
@@ -35708,6 +35713,7 @@ gerigeliyor.net
 gerigerigeldik.net
 geriiade-odemeleri-al.net
 geriiade.ru
+geriislemmerkezi.site
 geriislemonline.net
 geriodeme-guvenli-vergi2021-vatandas-online.xyz
 geriodeme2024.site
@@ -39483,6 +39489,7 @@ havaist.dev
 havaist.org
 havaististnbl.com
 havale-ilan.com
+havalem-fast.com
 havalialetsatinal.com
 havalimaanarackirala.com
 havalimaniarackiralama.co
@@ -46709,6 +46716,7 @@ istkrttttttbsrvv.online
 istkrwt.com
 istky53k7rt.net
 istlalblbulbakyem.net
+istlbkrtlabsvrla.com
 istlnaltnlamatma.online
 istlnlmkas.com
 istlnx.shop
@@ -46967,6 +46975,7 @@ ivdborclarisxkxs.gq
 ivddhizlisistem.com
 ivddsorgusis.online
 ivdeleodeyenkazaniyor.net
+ivdesube.com
 ivdgib.net
 ivdgib.org
 ivdgibgov.com
@@ -78479,6 +78488,7 @@ sozcua.com
 sozcucomtr.com
 sozcuturkey.com
 sozireo.com
+sozlesme-imzala.com
 sozlesme-police.com
 sozlesme.islem-hizmet.com
 sozlesme.online-hizmet-islem.com
@@ -81739,6 +81749,7 @@ takip-eventi.net
 takip-eventim.net
 takip-eventle.net
 takip-hizmetleri-kapilariniz-da.hemenptt.com
+takip-mesafesi.ink
 takip-sisteminiz.com.tr
 takip88.com
 takipanaliz.com
@@ -97748,6 +97759,7 @@ yvdrlvlt-vdet.com
 yvquvn.top
 yvzj6.shop
 ywdtwss.icu
+yxcpanel.online
 yxcpanel.xyz
 yxdxva.top
 yxhzsj.help
@@ -98148,6 +98160,7 @@ zimbra2-0-5.webflow.io
 zimbraadmin-340df7.webflow.io
 zimbraadmin-8cb42a.webflow.io
 zimbramaillclient.weebly.com
+zimbranotereminder.weebly.com
 zimbrwebmal.wixsite.com
 zimnii-teatr.ru
 zimnii-ticket.ru
