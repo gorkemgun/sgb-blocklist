@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98514
-# Last change: 2026-08-02 23:15:38 UTC (sync mode: delta)
+# Records: 98517
+# Last change: 2026-08-03 00:17:14 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37149,6 +37149,7 @@ grantedplight.top
 grantedshrubbery.top
 grantfoot.top
 granticekilis.online
+grantiibba.duckdns.org
 grantiikreedisi.vercel.app
 grantisbbva.com
 grantsts.net
@@ -38984,6 +38985,7 @@ haftsnuyaknkrca.com
 hagsgshavsuqhshq.net
 hahaahahah.net
 hahedeladawd.duckdns.org
+haherdasdelazwxxx.duckdns.org
 hahkskmbe.net
 haikbank.com
 hailadore.top
@@ -97598,6 +97600,7 @@ yuddum45323.dns.navy
 yudops.online
 yudummyum65.dns.navy
 yudumyumdu6.dns.navy
+yugosadgsagdgasd92sadh23s.click
 yuhiguhajusi.store
 yuk6le.blogspot.com
 yukac.online
