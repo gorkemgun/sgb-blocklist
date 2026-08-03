@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98579
-# Last change: 2026-08-03 18:11:00 UTC (sync mode: delta)
+# Records: 98586
+# Last change: 2026-08-03 20:01:03 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1176,6 +1176,7 @@
 210823644-coinbase.com
 2112323232.cloud
 21158-coinbase.com
+2121454457788785522591.duckdns.org
 212224252.cloud
 2124552556555690.duckdns.org
 2124552556555695.duckdns.org
@@ -34746,6 +34747,7 @@ garanterentacar.ga
 garanti-action-form.pages.dev
 garanti-basvur-bireysel-fomu-online.ml
 garanti-bbva-cep-sifrematik.ir.aptoide.com
+garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bonus-girisim2023.com
 garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-hizmetleri.com
@@ -50426,6 +50428,7 @@ kmpnnya-aldn-aldn-frssatlar.com
 kmpny.2023araclar.xyz
 kmpny1o1brd.com
 kmpnyaaaaprsmnynbsvrrr.info
+kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaaprmsynnbsvrrr.pro
 kmpnyacpttbgrs.com
@@ -52525,6 +52528,7 @@ likewisevaccinate.top
 likezoid.co
 likihigidese-derepiluyu.lol
 likitozelmgiris.cloud
+liksaderese-zeredesede.lol
 lilceycingenereklamcilik.net
 lilharts.com
 lilhzvkpsmxn.icu
@@ -72304,6 +72308,7 @@ s-tksnfrs-t.online
 s-trget.online
 s-urunler.com.tr
 s-wagardw.app
+s-yetenek.org.tr
 s.luckygadgets.net
 s.online-urunler.com.tr
 s.t-dolap.com
@@ -73581,6 +73586,7 @@ sahibindenparanguvndeilan.com
 sahibindenpay.com.tr
 sahibindenpay.net
 sahibindenpay.sa.com
+sahibindenpay.shop
 sahibindenpayget.com
 sahibindenpayguvenle.com.ru
 sahibindenpayguvenli.com.ru
@@ -97521,6 +97527,7 @@ yonelsa.com
 yonetimphoenixmt2.xyz
 yonfilokiralama.com
 yongyouwexian.top
+yonlen-toplan-security.ink
 yonlen.click
 yonlendir9659.online
 yonlendirbabacan1.site
