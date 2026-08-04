@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98676
-# Last change: 2026-08-04 21:39:10 UTC (sync mode: full)
+# Records: 98687
+# Last change: 2026-08-04 23:27:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2718,6 +2718,7 @@ a-101-perakende.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
+a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-sanal.com.tr
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
@@ -10771,6 +10772,7 @@ basvurularimfibasubemm.net
 basvurularimiz.myonlineportal.de
 basvurularimiz150.com
 basvurularinguvendeonlinesuben.xyz
+basvurularinitamamlar.sbs
 basvurulariniz.myonlineportal.de
 basvurulariniz.sbs
 basvurulariyap.net
@@ -28820,6 +28822,7 @@ ekonomigelisimturkiye.site
 ekonomigundem.co
 ekonomihabersiz.dev
 ekonomihatti.site
+ekonomik-tcdd.biletal.uk
 ekonomikdoy.com
 ekonomikgise.xyz
 ekonomikgiseniz.xyz
@@ -35459,6 +35462,7 @@ gelbirdeburdanyak.com
 gelbizdeal.net.tr
 gelbizdeal.org.tr
 geldasdawcce.duckdns.org
+geldelerdensgeasw.duckdns.org
 geldesgeahhsder.duckdns.org
 geldesmmeasdwas.duckdns.org
 geldi-basinda-kacirma-hizlica-yakala-alirsin.com
@@ -38755,6 +38759,7 @@ haberinadresi342133.shop
 haberinadresi366.shop
 haberinadresi3786.shop
 haberinadresi4186.shop
+haberincepte4567891.shop
 haberinfo.buzz
 haberinfo.club
 haberinfo.online
@@ -39064,6 +39069,7 @@ hakkimvarmikontrolet.com
 hakkimvarmis.com
 hakkinda-olana-sessiz-kalan-bizlerde-degiliz.com
 hakkinda-sikayetler.com
+hakkinda-uyum.ink
 hakkindabilinenlerguzeldir.cfd
 hakkindaguncelsikayerlerr.vartr.com.tr
 hakkindaguncelsikayetlern.merkezitr.app
@@ -41548,6 +41554,7 @@ hizlistanley.xyz
 hizlistokfirrsatt.sbs
 hizlitahslt.com
 hizlitakipedebilirsin.com
+hizlitaoplabasvurlar.sbs
 hizliteklfiklerbudsa.shop
 hizliteklifler.com.tr
 hizliteknolojihizmetler2023.online
@@ -57343,6 +57350,7 @@ mobilsube-acikdenizdehediyelerkampanya.com
 mobilsubelerimden.com
 mobilsubelerimizden.com
 mobilsubem.myonlineportal.de
+mobilsubemiz.myonlineportal.de
 mobilsubesidenizden.co.vu
 mobiltakipciyiz.com
 mobiltalep.xyz
@@ -66841,6 +66849,7 @@ pramguvende.online
 prandoria.com
 prasevolim.com
 praticllicit.top
+pratik-portal.shop
 pratik-trafik.dev
 pratikgozluk.com
 pratikvezne2.xyz
@@ -67279,6 +67288,7 @@ prmguvende-onay.com
 prmgvnde-onlinesatis.com
 prmosyonbasvrlar.click
 prmsnynnkmponyaaaafrslarrr.info
+prmsnynnkmponyaaaafrslarrr.pro
 prmsooosynnngrntt.sa.com
 prmsyngrntbrd.com.tr
 prmsynllrllrfrst.click
@@ -98264,6 +98274,7 @@ zhcgsa.help
 zhcn-whatsapp.org
 zhcn.down-cdn.com
 zhdbio.online
+zhelerdsnlerd.duckdns.org
 zhengdeyaogenpangu.top
 zhgmrjum.site
 zhiyaonijiangdaibizhirenshuo.top
