@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98603
-# Last change: 2026-08-04 10:00:29 UTC (sync mode: delta)
+# Records: 98613
+# Last change: 2026-08-04 12:20:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -41680,6 +41680,7 @@ hlk-frasstkmp.sbs
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
 hlloo-wallet.webflow.io
+hlnkaemntlanas.net
 hlp4969465.com
 hlqa1l5j7l52.icu
 hlsgcodee.net
@@ -61199,6 +61200,7 @@ obeysingapore.com
 obeysouthafrica.com
 obeyturkiye.com
 obil3t.com
+obilet-tr.uk
 obilet.uk
 obiletal.net
 obiletall.net
@@ -64474,6 +64476,7 @@ paribubmwbayramkampanya.com
 paribubmwkayit.com
 paribubonuscarki.com
 paribubuyukcekilisi.com
+paribucark-burada.com
 paribucark-cevir.com
 paribucark-kazan.com
 paribucark.com
@@ -68915,6 +68918,7 @@ purto-port-id8245.world
 push21sing.top
 pushehotel.world
 pushlabs.site
+pusulaportfoymenkulas.com
 pusulaportfoyyonetimias.com
 putamendment.top
 putdpattern.shop
@@ -72233,6 +72237,7 @@ s-guveniliralisveris.com
 s-guvenilirodeme.com
 s-guvenli-odeme.com.tr
 s-guvenli-ticaret-ile-alisveris.site
+s-guvenlimuhasebeodemenoktasi.duckdns.org
 s-guvenliodeme.alisveristr.com.tr
 s-guvenliodeme.com
 s-ilanlar.net
@@ -74941,6 +74946,7 @@ selflessprecede.top
 selflessstudy.top
 selflesssubscribe.top
 selflessunderlying.top
+selgebeachmanavgat.com
 selgebeachresort.hotel-rezervasyon.com
 selgebeachresortandhotel.com
 selgebeachresortside.com
@@ -75936,7 +75942,9 @@ shop-dyson.com.tr
 shop-dyson.online
 shop-kamp.online
 shop-mobil-tr.com
+shop-ozel.online
 shop-sigortam.name.tr
+shop-tr-ozel.online
 shop-yap.com
 shop.lightoneday.com
 shop8877.com
@@ -89323,6 +89331,7 @@ uyelikbasvurumerkezi.net
 uyenaswr.com
 uyerivamhalktan.site
 uygnfsta.cfd
+uygula-mobile.online
 uygulama-edevletkapisi.com
 uygulama-internet.site
 uygulamadolap.com
@@ -97396,6 +97405,7 @@ ylylkrtzl.net
 ymarir.ru
 ymcbm85.scjtb.cloud
 ymdnma.help
+ymdreferans.online
 ymekuh.xyz
 ymmemreyildirim.com
 ymql.link
