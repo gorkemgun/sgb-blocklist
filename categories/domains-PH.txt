@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98666
-# Last change: 2026-08-04 18:05:53 UTC (sync mode: delta)
+# Records: 98671
+# Last change: 2026-08-04 19:59:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2715,6 +2715,7 @@ a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-onlineislem.net.tr
 a-101-perakende.online
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
+a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-sanal.com.tr
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
@@ -34769,6 +34770,7 @@ garanti-bireysel-basvurunuz-com.webredirect.org
 garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-girisim2023.com
 garanti-bonus-islemler-com.duckdns.org
+garanti-bonus-islemler-com.duia.ro
 garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-hizmetleri.com
 garanti-investing.mrqz.to
@@ -80268,6 +80270,7 @@ sube-hediyemobildeniz.online
 sube-hizlimobildenizgiris.online
 sube-infoyatirim.com
 sube-krediacikdenizbasvurgirisonayi.click
+sube-kuveyt-turk.duckdns.org
 sube-kuvytbasvurusorgulamagiris.fun
 sube-kuvytbasvurusorgulamagiris.site
 sube-kuvytbasvurusorgulamagiris.space
@@ -94742,6 +94745,7 @@ ws-global.online
 ws-gtg.com
 ws.182iletisim.cyou
 wsaa.1trbakar.com
+wsb-tapsverndvun.net
 wsbank.co
 wsghbb.help
 wsglobal.online
@@ -97931,6 +97935,7 @@ z1o1comtr.online
 z1q7x4v9k2n8.cfd
 z1ttrhf.cfd
 z2ratll.cfd
+z3ratvv.cfd
 z4q7k1m8v3p9.lol
 z4uk0d.cn
 z4w7q2m9k6p1.cfd
