@@ -2,16 +2,16 @@
 
 | File | Type | Category | Records |
 |---|---|---|---|
-| [domains-BP.txt](domains-BP.txt) | Domain | Financial Phishing (BP) | 256730 |
+| [domains-BP.txt](domains-BP.txt) | Domain | Financial Phishing (BP) | 256731 |
 | [domains-CA.txt](domains-CA.txt) | Domain | Cyber Attack (Port Scan, Brute Force etc.) (CA) | 166 |
 | [domains-MC.txt](domains-MC.txt) | Domain | Malware Command Center (MC) | 41099 |
 | [domains-MD.txt](domains-MD.txt) | Domain | Malware Distribution Domain (MD) | 65441 |
 | [domains-MI.txt](domains-MI.txt) | Domain | Malware Distribution IP (MI) | 171 |
 | [domains-MU.txt](domains-MU.txt) | Domain | Malware Distribution URL (MU) | 759 |
-| [domains-PH.txt](domains-PH.txt) | Domain | Phishing (PH) | 98652 |
+| [domains-PH.txt](domains-PH.txt) | Domain | Phishing (PH) | 98666 |
 | [ipv4-BP.txt](ipv4-BP.txt) | IPv4 address | Financial Phishing (BP) | 104 |
 | [ipv4-CA.txt](ipv4-CA.txt) | IPv4 address | Cyber Attack (Port Scan, Brute Force etc.) (CA) | 820 |
-| [ipv4-MC.txt](ipv4-MC.txt) | IPv4 address | Malware Command Center (MC) | 9257 |
+| [ipv4-MC.txt](ipv4-MC.txt) | IPv4 address | Malware Command Center (MC) | 9283 |
 | [ipv4-MD.txt](ipv4-MD.txt) | IPv4 address | Malware Distribution Domain (MD) | 472 |
 | [ipv4-MI.txt](ipv4-MI.txt) | IPv4 address | Malware Distribution IP (MI) | 3838 |
 | [ipv4-MU.txt](ipv4-MU.txt) | IPv4 address | Malware Distribution URL (MU) | 65 |

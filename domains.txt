@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463002
-# Last change: 2026-08-04 15:38:16 UTC (sync mode: delta)
+# Records: 463017
+# Last change: 2026-08-04 18:05:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -114648,6 +114648,7 @@ davadosyakontrol.org
 davadosyalari.org
 davadosyalarim.org
 davadosyasi.com
+davadosyasorgu.com
 davadosyasorgula.org
 davadosyatakip.org
 davadurum.org
@@ -144635,6 +144636,7 @@ efsaneflrsatlarkacmaz.duckdns.org
 efsanefrstlar1o1kapinda.shop
 efsanefrstlarburada1o1.com
 efsanefrstlarburdakpnda1o1.shop
+efsanefrstlarkapinizda1o1.shop
 efsanefrstlartukenmkuzere1o1.xyz
 efsanefrstlrkapinizda1o1.com
 efsanegeldiburada.biz.tr
@@ -171809,6 +171811,7 @@ garanti-bireyselsubenizcom.tk
 garanti-blue.vercel.app
 garanti-bnk-basvuruformu.site
 garanti-bnk.tk
+garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-com-tr.cf
 garanti-bonus-com-tr.ga
 garanti-bonus-com-tr.ml
@@ -235217,6 +235220,7 @@ izeltgdd.blogspot.com
 izeltgfj.dns.navy
 izelthcdd.dns.navy
 izeltoof.dns.navy
+izeltoot.dnsup.net
 izeltoxfx.dns.navy
 izeltrasmekanicifirsati.blogspot.com
 izeltrasmekanikcifirsati.blogspot.com
@@ -235307,6 +235311,7 @@ izktlqlqss.blogspot.com
 izlakd.dnsup.net
 izlakfoas.blogspot.com
 izlakopqps.dns.navy
+izlakosta.blogspot.com
 izlaopopags.dns.navy
 izlaopqds.duckdns.org
 izlaotsaas.blogspot.com
@@ -254228,6 +254233,7 @@ kmpanyaligonderi.com
 kmpanyalirimizdavrsn.blogspot.com
 kmpanyaparbudogkoinhedyeleribsladi.com
 kmpanyaparbudogkoinnhedyeleribsladii.com
+kmpanyasa.dnsup.net
 kmpanyaurnler.cfd
 kmpanyayklesende.org
 kmpanyazamani101kasmda.com
@@ -254292,6 +254298,7 @@ kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabsvrpromosynnnn.info
 kmpnyaabsvrpromosynnnn.live
+kmpnyaabsvrr12531.online
 kmpnyaabsvrr12531.pro
 kmpnyaabsvrrfrstlarrrrbsvrr.art
 kmpnyaabsvrrfrstlarrrrbsvrr.live
@@ -264919,6 +264926,7 @@ llllmzmrmxiszmrx.net
 llllowesax32.duckdns.org
 lllmlmlllllllnl.online
 lllparlbu.com
+lllprdannndandan.com
 lllpttlavmlislemlerl.click
 lllpttllavmllkilometrell.click
 lllrbgpc.xyz
@@ -346107,8 +346115,10 @@ s0kmarkletler.shop
 s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
+s0kmarkretler.com
 s0kmarkteltler.xyz
 s0kmarleletr.com
+s0kmarletrey.com
 s0kmarlkeper.shop
 s0kmarlket.shop
 s0kmarlketitim.com
@@ -347288,6 +347298,7 @@ safasfa33fsadasd.click
 safasfafasfasfisbankmobil.cloud
 safasfasbf.click
 safasfasfsag.click
+safasfgqqq.sbs
 safasfk2155l12.xyz
 safasflk215521.xyz
 safdfsadsdaf3.com.tr
@@ -400156,6 +400167,7 @@ trendyol-sepetin.rugvnli.online
 trendyol-shop-trendyol.xyz
 trendyol-siparis.com.tr
 trendyol-siparis.s-ilan.net
+trendyol-siparistamamla.com
 trendyol-tr-mobileodeme-hizmetleri.online
 trendyol-trk.org
 trendyol-urun.com.tr
@@ -446465,6 +446477,7 @@ y4ie3zv8c.duckdns.org
 y4kl4smaaa.xyz
 y4m7k2x8q9b3fhs6na.sbs
 y4mx1h76ex5ti0yfi054y6e.ddns.net
+y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nothing.xyz
 y4nsmsars.sbs
@@ -462168,6 +462181,7 @@ zraitathzliibsruv.sbs
 zraixxaatkxredidstek.online
 zrarnqo05.duckdns.org
 zrat-ggeris.cfd
+zratatsatsa.cfd
 zratciminniz4538gfdv.duckdns.org
 zratciminniz453h4zrt.duckdns.org
 zratdestksimdi.online
@@ -462269,6 +462283,7 @@ zrtnzhmbsdf.gleeze.com
 zrtnzhmnglsns.gleeze.com
 zrtoogbayramaozel.net
 zrtwebsbayrntim8.xyz
+zrtytrak.nicepage.io
 zrv047.duckdns.org
 zrvo9l0.duckdns.org
 zrvoudhdob.duckdns.org

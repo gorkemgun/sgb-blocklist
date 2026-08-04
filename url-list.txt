@@ -114644,6 +114644,7 @@ davadosyakontrol.org
 davadosyalari.org
 davadosyalarim.org
 davadosyasi.com
+davadosyasorgu.com
 davadosyasorgula.org
 davadosyatakip.org
 davadurum.org
@@ -144631,6 +144632,7 @@ efsaneflrsatlarkacmaz.duckdns.org
 efsanefrstlar1o1kapinda.shop
 efsanefrstlarburada1o1.com
 efsanefrstlarburdakpnda1o1.shop
+efsanefrstlarkapinizda1o1.shop
 efsanefrstlartukenmkuzere1o1.xyz
 efsanefrstlrkapinizda1o1.com
 efsanegeldiburada.biz.tr
@@ -171805,6 +171807,7 @@ garanti-bireyselsubenizcom.tk
 garanti-blue.vercel.app
 garanti-bnk-basvuruformu.site
 garanti-bnk.tk
+garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-com-tr.cf
 garanti-bonus-com-tr.ga
 garanti-bonus-com-tr.ml
@@ -235213,6 +235216,7 @@ izeltgdd.blogspot.com
 izeltgfj.dns.navy
 izelthcdd.dns.navy
 izeltoof.dns.navy
+izeltoot.dnsup.net
 izeltoxfx.dns.navy
 izeltrasmekanicifirsati.blogspot.com
 izeltrasmekanikcifirsati.blogspot.com
@@ -235303,6 +235307,7 @@ izktlqlqss.blogspot.com
 izlakd.dnsup.net
 izlakfoas.blogspot.com
 izlakopqps.dns.navy
+izlakosta.blogspot.com
 izlaopopags.dns.navy
 izlaopqds.duckdns.org
 izlaotsaas.blogspot.com
@@ -254224,6 +254229,7 @@ kmpanyaligonderi.com
 kmpanyalirimizdavrsn.blogspot.com
 kmpanyaparbudogkoinhedyeleribsladi.com
 kmpanyaparbudogkoinnhedyeleribsladii.com
+kmpanyasa.dnsup.net
 kmpanyaurnler.cfd
 kmpanyayklesende.org
 kmpanyazamani101kasmda.com
@@ -254288,6 +254294,7 @@ kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabsvrpromosynnnn.info
 kmpnyaabsvrpromosynnnn.live
+kmpnyaabsvrr12531.online
 kmpnyaabsvrr12531.pro
 kmpnyaabsvrrfrstlarrrrbsvrr.art
 kmpnyaabsvrrfrstlarrrrbsvrr.live
@@ -264915,6 +264922,7 @@ llllmzmrmxiszmrx.net
 llllowesax32.duckdns.org
 lllmlmlllllllnl.online
 lllparlbu.com
+lllprdannndandan.com
 lllpttlavmlislemlerl.click
 lllpttllavmllkilometrell.click
 lllrbgpc.xyz
@@ -346103,8 +346111,10 @@ s0kmarkletler.shop
 s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
+s0kmarkretler.com
 s0kmarkteltler.xyz
 s0kmarleletr.com
+s0kmarletrey.com
 s0kmarlkeper.shop
 s0kmarlket.shop
 s0kmarlketitim.com
@@ -347284,6 +347294,7 @@ safasfa33fsadasd.click
 safasfafasfasfisbankmobil.cloud
 safasfasbf.click
 safasfasfsag.click
+safasfgqqq.sbs
 safasfk2155l12.xyz
 safasflk215521.xyz
 safdfsadsdaf3.com.tr
@@ -400152,6 +400163,7 @@ trendyol-sepetin.rugvnli.online
 trendyol-shop-trendyol.xyz
 trendyol-siparis.com.tr
 trendyol-siparis.s-ilan.net
+trendyol-siparistamamla.com
 trendyol-tr-mobileodeme-hizmetleri.online
 trendyol-trk.org
 trendyol-urun.com.tr
@@ -446461,6 +446473,7 @@ y4ie3zv8c.duckdns.org
 y4kl4smaaa.xyz
 y4m7k2x8q9b3fhs6na.sbs
 y4mx1h76ex5ti0yfi054y6e.ddns.net
+y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nothing.xyz
 y4nsmsars.sbs
@@ -462164,6 +462177,7 @@ zraitathzliibsruv.sbs
 zraixxaatkxredidstek.online
 zrarnqo05.duckdns.org
 zrat-ggeris.cfd
+zratatsatsa.cfd
 zratciminniz4538gfdv.duckdns.org
 zratciminniz453h4zrt.duckdns.org
 zratdestksimdi.online
@@ -462265,6 +462279,7 @@ zrtnzhmbsdf.gleeze.com
 zrtnzhmnglsns.gleeze.com
 zrtoogbayramaozel.net
 zrtwebsbayrntim8.xyz
+zrtytrak.nicepage.io
 zrv047.duckdns.org
 zrvo9l0.duckdns.org
 zrvoudhdob.duckdns.org
@@ -470226,9 +470241,18 @@ zzb.bz/kobihalk
 5.181.80.129
 5.181.80.132
 5.181.132.95
+5.181.156.234
+5.181.159.9
 5.181.159.13
 5.181.159.16
 5.181.159.48
+5.181.159.60
+5.181.159.62
+5.181.159.112
+5.181.159.139
+5.181.159.140
+5.181.159.142
+5.181.159.143
 5.181.165.102
 5.181.171.133
 5.181.188.158
@@ -470325,14 +470349,18 @@ zzb.bz/kobihalk
 5.252.155.231
 5.252.176.3
 5.252.176.55
+5.252.177.15
 5.252.177.21
 5.252.177.22
 5.252.177.25
 5.252.177.111
+5.252.177.120
 5.252.177.207
 5.252.177.213
 5.252.177.249
+5.252.178.23
 5.252.178.92
+5.252.178.123
 5.252.179.34
 5.252.179.60
 5.252.189.0
@@ -476376,6 +476404,8 @@ zzb.bz/kobihalk
 94.158.245.131
 94.158.245.135
 94.158.245.137
+94.158.245.140
+94.158.245.170
 94.158.245.174
 94.158.247.27
 94.159.113.33
@@ -481955,8 +481985,13 @@ zzb.bz/kobihalk
 185.162.235.182
 185.162.235.206
 185.162.251.20
+185.163.45.16
 185.163.45.30
 185.163.45.41
+185.163.45.61
+185.163.45.73
+185.163.45.87
+185.163.45.97
 185.163.45.130
 185.163.45.221
 185.163.47.253
@@ -483553,6 +483588,12 @@ zzb.bz/kobihalk
 194.180.174.6
 194.180.174.51
 194.180.174.254
+194.180.191.17
+194.180.191.51
+194.180.191.168
+194.180.191.171
+194.180.191.189
+194.180.191.209
 194.180.224.13
 194.180.224.60
 194.180.224.113

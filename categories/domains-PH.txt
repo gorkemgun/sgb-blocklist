@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98652
-# Last change: 2026-08-04 15:38:16 UTC (sync mode: delta)
+# Records: 98666
+# Last change: 2026-08-04 18:05:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -23434,6 +23434,7 @@ davadosya.org
 davadosyalari.org
 davadosyalarim.org
 davadosyasi.com
+davadosyasorgu.com
 davadosyasorgula.org
 davadurum.org
 davaeavukat.org
@@ -34765,6 +34766,7 @@ garanti-basvur-bireysel-fomu-online.ml
 garanti-bbva-cep-sifrematik.ir.aptoide.com
 garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
+garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-girisim2023.com
 garanti-bonus-islemler-com.duckdns.org
 garanti-formu-kampanya-bizde-var-basvur-online.ml
@@ -47205,6 +47207,7 @@ izeltasticaretmerkezi.blogspot.com
 izeltastornavidaallindi.xyz
 izeltasyuzdeinidirms.xyz
 izeltddsa.dns.navy
+izeltoot.dnsup.net
 izelts042101.blogspot.com
 izeltskeedr.dns.navy
 izerm.net
@@ -47221,6 +47224,7 @@ izkfsagdsh.blogspot.com
 izkkmsxkr.com
 izklkvmrrttk.net
 izkrr.net
+izlakosta.blogspot.com
 izlaopopags.dns.navy
 izldas656tgfdx.blogspot.com
 izldasgsdhd.blogspot.com
@@ -50451,12 +50455,14 @@ kmpanya101defirstlari.com
 kmpanyalar1o1frstlarkapinda.shop
 kmpanyalarimizdavarsn.com
 kmpanyalarnzburdaa.com
+kmpanyasa.dnsup.net
 kmpnnnyaabsvrrsnnnfrsltar.info
 kmpnnnyaabsvrrsnnnfrsltar.pro
 kmpnnya-aldn-aldn-frssatlar.com
 kmpny.2023araclar.xyz
 kmpny1o1brd.com
 kmpnyaaaaprsmnynbsvrrr.info
+kmpnyaabsvrr12531.online
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaaprmsynnbsvrrr.pro
@@ -52925,6 +52931,7 @@ lllinoistollwayc.top
 llllizmrmxxll.net
 lllllllllllllllllll.net
 lllllllllllllllllllllllllllll.online
+lllprdannndandan.com
 lllpttllavmllkilometrell.click
 lllres2101.duckdns.org
 lllwsr43ax.duckdns.org
@@ -72380,7 +72387,9 @@ s0kmarklemler.com
 s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
+s0kmarkretler.com
 s0kmarleletr.com
+s0kmarletrey.com
 s0kmarlketitim.com
 s0kmarlketlor.shop
 s0kmlarkletlerden.shop
@@ -72594,6 +72603,7 @@ sadsosa1o1onlsfy.blogspot.com
 sadxcbhi132.wiki
 saf1qfqwfasfxafv.com
 safariturcolmisir.cfd
+safasfgqqq.sbs
 safe-reservation-page.world
 safe-summary.com
 safe-take.top
@@ -86158,6 +86168,7 @@ trendyol-ode.com
 trendyol-onlinemobil.com
 trendyol-sepetin.rugvnli.online
 trendyol-siparis.com.tr
+trendyol-siparistamamla.com
 trendyol.alisveris-banaozel.com
 trendyol.alisveris-hizmet.com.tr
 trendyol.amaserve-vip.one
@@ -96373,6 +96384,7 @@ y2f.org
 y3lkmykl.net
 y3n6x0r9q5m2t8b1p7v4wz2.com.tr
 y3vo3y.csb.app
+y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nsmsars.sbs
 y515.com
@@ -98524,6 +98536,7 @@ zraatbreysekred.online
 zraatnaktdstekks.online
 zrac-mu4eyenex.net
 zrat-ggeris.cfd
+zratatsatsa.cfd
 zriaxttttksrxdidstek.online
 zrirxxxaatkrexdi.online
 zrlat-dsvtzt.com
@@ -98534,6 +98547,7 @@ zrrvpnl2.com
 zrtasxhgs.xyz
 zrtkalim.com
 zrtoogbayramaozel.net
+zrtytrak.nicepage.io
 zrvpnl5.com
 zrxxxatttdstexxbsvru.online
 zrxxxtkkrdxidstek.online
