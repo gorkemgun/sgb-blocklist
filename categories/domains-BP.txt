@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256727
-# Last change: 2026-08-04 12:20:35 UTC (sync mode: delta)
+# Records: 256730
+# Last change: 2026-08-04 15:38:16 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -10440,6 +10440,7 @@
 95841514.cloud
 9585963021.cloud
 9586763434.cloud
+95874632kmpnyaabsvrrprsmynn.pro
 958859.cloud
 9594952-4t-4h-hfdt132xfs.sbs
 959798719848489489.com
@@ -149131,6 +149132,7 @@ kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabsvrpromosynnnn.info
 kmpnyaabsvrpromosynnnn.live
+kmpnyaabsvrr12531.pro
 kmpnyaabsvrrfrstlarrrrbsvrr.art
 kmpnyaabsvrrfrstlarrrrbsvrr.live
 kmpnyaabsvrrprmsynn.info
@@ -212834,6 +212836,7 @@ tarim-zirai.my-homeip.com
 tarim.my-homeip.com
 tarim20avmfirsat2024.online
 tarim20firsatavm2024.online
+tarim667oyed.nicepage.io
 tarimadestek.com.tr
 tarimadestek.cyou
 tarimadestek.xyz
