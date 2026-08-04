@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98671
-# Last change: 2026-08-04 19:59:34 UTC (sync mode: delta)
+# Records: 98676
+# Last change: 2026-08-04 21:39:10 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1190,6 +1190,7 @@
 21323123.cyou
 21323123.icu
 213weq12eqweq.blogspot.com
+21455452222255899891.duckdns.org
 21461sndmsndsasd.com
 21509-coinbase.com
 216-9-224-134.plesk.page
@@ -2714,6 +2715,7 @@ a-101-mrketler-snal.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
 a-101-onlineislem.net.tr
 a-101-perakende.online
+a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
@@ -34771,6 +34773,7 @@ garanti-bonus-cepte-com.duckdns.org
 garanti-bonus-girisim2023.com
 garanti-bonus-islemler-com.duckdns.org
 garanti-bonus-islemler-com.duia.ro
+garanti-bonus-islemler-com.mayddns.com
 garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-hizmetleri.com
 garanti-investing.mrqz.to
@@ -37570,6 +37573,7 @@ gtopinvestigate.shop
 gtr10n1ineka1i1im.net
 gtriotit-wqm.site
 gtrises.click
+gtrllkol.cfd
 gttr10n1ineka1i1im.net
 gtx-ns.site
 gtxpioneer.za.com
@@ -50727,6 +50731,7 @@ kolay-adresler1-c17b8de703bb.herokuapp.com
 kolay-alimsatim.com.tr
 kolay-alisveris.org
 kolay-iade.com
+kolay-kredi-basvuru.cloud
 kolay13odemesi.herokuapp.com
 kolay66.com
 kolayacilinsiqortam.xyz
@@ -72369,7 +72374,6 @@ s-tksnfrs-t.online
 s-trget.online
 s-urunler.com.tr
 s-wagardw.app
-s-yetenek.org.tr
 s.luckygadgets.net
 s.online-urunler.com.tr
 s.t-dolap.com
@@ -92966,6 +92970,7 @@ website6659845.nicepage.io
 website6660935.nicepage.io
 website6663199.nicepage.io
 website6663862.nicepage.io
+website6666391.nicepage.io
 websitemajesty.top
 websitemo.top
 websiteoppression.top
