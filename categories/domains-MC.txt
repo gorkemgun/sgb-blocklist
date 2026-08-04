@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41073
-# Last change: 2026-07-31 15:31:01 UTC (sync mode: delta)
+# Records: 41099
+# Last change: 2026-08-04 10:00:29 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3214,6 +3214,7 @@ alpha-man.info
 alpha.amenotiou.com
 alphabetllc.top
 alphacoronavirusvaccine.com
+alphastore.vg
 alphataxfiler.com
 alphazero1-endscape.cc
 alps.travelmountain.ml
@@ -3905,6 +3906,7 @@ apple-updates.online
 appleboltelwk.shop
 applebox.camdvr.org
 applecdn.ru
+appleid-customertelemetry.gl
 applejp.myfw.us
 appleking.top
 applemacios.com
@@ -7044,6 +7046,7 @@ cansgxhskjsbb.xyz
 cantikpidebursa161.com
 cantomus.com
 cantrellking62.ddns.net
+canva-arts.com
 canva-dreamlab.com
 canvadream-lab.com
 canvadreamlab.ai
@@ -7060,6 +7063,9 @@ caowo0.ddns.net
 caoy9n.c1.biz
 caoyong5.com
 cap-glove.com
+cap-t1.spec-connectweb3.tv
+cap-t2.spec-connectweb3.tv
+cap.spec-connectweb3.tv
 cap6896.xyz
 capchabot.cc
 capcutproai.com
@@ -8131,6 +8137,7 @@ cloud-drive.live
 cloud-drive.store
 cloud-ed980.firebaseapp.com
 cloud-ed980.web.app
+cloud-electronic.com
 cloud-front-gateway.cc
 cloud-js.cloud
 cloud-meeting-online.onrender.com
@@ -8196,6 +8203,7 @@ cloudon1.net
 cloudrootstorage.com
 clouds.rf.gd
 cloudsbox.net
+cloudscraft.com
 cloudsecure.space
 cloudservbr.com
 cloudserverapi.com
@@ -9074,6 +9082,7 @@ crvenazvezda.ddns.net
 crxokisfqslgfqhcn.org
 crxqd.com
 cry-havok.org
+cryoturbine.net
 crypt.xyz
 crypter202019.ddns.net
 cryptersandtools.hopto.org
@@ -10247,6 +10256,7 @@ diagramfiremonkeyowwa.fun
 dialogchelm.pl
 diamantes500.net
 diamond-beauties.com
+diamond-cli-znsxphqell.cn-shanghai.fcapp.run
 diamond.serivice.com
 diamond2opalix.website
 diamondrentalandleasing.com
@@ -10879,6 +10889,8 @@ dota2giveaway2017.weebly.com
 dotdrugconsort.com
 dotheneedfull.club
 double3573.xyz
+doublecap.live
+doublecap.ltd
 doubledisti3525.xyz
 dougfunnie.cf
 doukt.club
@@ -12605,6 +12617,7 @@ ex86r31.u5xq2.ru
 exa.duckdns.org
 exacter32.xyz
 exalt.aquatrackergo.com
+examcanvas.com
 examp1e.webredirect.org
 exampleliveinliveexample.live
 exampleporter.info
@@ -15038,6 +15051,7 @@ glecekyil123.site
 gledajtv.online
 glib-warnings.000webhostapp.com
 glidehigh.es
+glitch-vibe.com
 gljdxoh.com
 gll.metricaga.com
 gllnar.com
@@ -21335,10 +21349,14 @@ login-accounts.servehttp.com
 login-acount.me
 login-dc2-verifyaccounts.ga
 login-dc2-verifyaccounts.tk
+login-hubspot.com
 login-inbox.online
 login-mail.online
 login-microsof-0nline.com
+login-netsuite.com
+login-odoo.com
 login-private.com
+login-salesforce.com
 login-secure-account.cf
 login-secure-account.gq
 login-secure-account.ml
@@ -25628,6 +25646,7 @@ nwwgbluv65j6g0xgr-xk.com
 nxeumpdknxjmbdt.ru
 nxmp2.ddns.net
 nxrhhrnrxhbytke.cn
+nxtdrcliam.site
 nxvsugpipxdthxies.me
 nxwvctd.com
 ny-car-dealership.it.com
@@ -27292,6 +27311,7 @@ pendikkaynarcadailaclama.net
 pendikkaynarcahalikaynakmakinasi.site
 pendikkaynarcahaliyikamacisi.site
 pendiktopuzlarcadesinetlerde.net
+pending-verification.com
 pendosidolboebi.com
 peneloppe.chickenkiller.com
 pengexe.ru.xsph.ru
@@ -30224,6 +30244,7 @@ rooty.cc
 rope.vvkdio.com
 ropy2.ddns.net
 ropyi.xyz
+roqqcloud.com
 roriku.orankfix.com
 rosacriativa.shop
 rosaf112.ddns.net
@@ -33342,6 +33363,7 @@ storage-hub.pub
 storage6799.xyz
 storagecryptogate.com
 storagedrive.pub
+storagepioneer.com
 storagewiz.co.azurewebsites.net
 store-077864-live.com
 store-downloads.com
@@ -33588,6 +33610,7 @@ superapps.pm
 superb-rotation-gourmet-frequently.trycloudflare.com
 superbia.ddns.net
 superboler.com
+supercloudsaver.com
 superdadymster.ru
 superficial.ru
 superfirsatlar.tk
@@ -34768,6 +34791,7 @@ tiappschecktest.azurewebsites.net
 tibilaniznale7.intyoberbonfim.net
 ticaretinkanunuucyuz.tk
 ticcameyoutube5.ddns.net
+ticgo-cloud.com
 tickerqube.com
 ticket6585.xyz
 ticketpcs.ddns.net
@@ -36998,6 +37022,7 @@ verelemalaarunee.cyou
 verg55g.gb.net
 vergaespanola.site
 vergiborc.com
+verification-salesforce.com
 verificationsbycapcha.center
 verificationservice.online
 verifieer-gegevens.com
@@ -39384,6 +39409,7 @@ xehrj.com
 xeirz.ddns.net
 xekezix.com
 xekjcmyaf.com
+xemzqli2vu.ai-app.pub
 xenosissexy.ddns.net
 xeoghehofuuxo.su
 xeohgswl.com

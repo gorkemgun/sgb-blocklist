@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98592
-# Last change: 2026-08-04 06:43:24 UTC (sync mode: delta)
+# Records: 98603
+# Last change: 2026-08-04 10:00:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -137,6 +137,7 @@
 0zm57e9.cn
 1-0-1pluscepte.com
 1-82-brdanrdval.com
+1-82rvdnlrdanbndansn.com
 1-sorgulama-adresi.blogspot.com
 1-stvilla-reservation-completion.com
 1-xn-www-acikdeniz.com.tr
@@ -5740,6 +5741,7 @@ al0lgeldi.com
 al0lhaziranfirsatlar.com
 al0lkapida.com
 al0lmayisfirsatlari.com
+al1-82-rvdn.com
 ala1o1.com
 alabid234.github.io
 alacagin-gun.com
@@ -14064,6 +14066,7 @@ bncs.1dnserver.com
 bnctodayhazirankmpanyasi.net
 bncyeniyil.com
 bndengelensnaglsn.shop
+bndesndenbsysmtm.com
 bndestek-accrisk-securityverified.net
 bndirectweb.com
 bndyqxz.net
@@ -14715,6 +14718,7 @@ boxuer-chatskwebox.com
 boyalikhotels.com
 boycongregate.top
 boylegorduk.com
+boyner.demrebicer.com
 boynertr.com
 boytrait.top
 bozdemircarrentals.online
@@ -14841,6 +14845,7 @@ brdamhrsrarandvzhmzr.sbs
 brdanlardankzdenlrden.com
 brdanlardanszlardans.shop
 brdfrsat1a1glalsindi.com
+brdlssrabklemdn.com
 brdnbrangtmtsneeee.com
 brdnbrlrgcblrs.com
 brdngdrsnorya.mooo.com
@@ -38184,6 +38189,7 @@ guvenlialisverisiniz.com.tr
 guvenlialisveristr.sa.com
 guvenlialisverisyap.com
 guvenlialonline.com.tr
+guvenlianindaodeme.com
 guvenliapp.ru.com
 guvenliasliveris-yap.com
 guvenlibasvuru.com
@@ -43757,6 +43763,7 @@ ilanalisveris.com
 ilanda-ozelsepetim.com
 ilandan-al.com.tr
 ilandan-al.online
+ilandan-fast.com
 ilanget.com
 ilanguvenliiticaretim.com
 ilanhizmet.com.tr
@@ -64400,6 +64407,7 @@ paribua.com
 paribuairdrop.tk
 paribuaraba-hediye.com
 paribuaraba-sansi.com
+paribuaraba-sansi.info
 paribuarabaavantaj.com
 paribuarabaavantaji.com
 paribuarabaayricalik.com
@@ -82600,6 +82608,7 @@ teb.kisalink.cc
 tebarekteyazelcelaliverilkram-avis.vercel.app
 tebasvuruadresitebnoktanet.site
 tebbank.hizmetislemleri.com
+tebbasvurusayfa.my-homeip.de
 tebcebimde.com
 tebcekilisiphone12.com
 tebcep.kisalink.cc
@@ -91486,6 +91495,7 @@ voltamotorluaraclar.com
 voltamotoronline.com
 voltaonlinesatis.com
 voltarnus.digital
+voltasatis.com
 voltaturkiye.com
 voltbouquet.top
 volteretak.com
@@ -96254,6 +96264,7 @@ xxx-three-theta.vercel.app
 xxx3cx31s.duckdns.org
 xxxbabaproxxx.pro
 xxxswwwsxsxwxsxwxxxx.duckdns.org
+xxxxxxxxx111111.sbs
 xyklemgbtr.xyz
 xykoy.store
 xylar.top
