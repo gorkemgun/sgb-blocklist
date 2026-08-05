@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98759
-# Last change: 2026-08-05 19:57:49 UTC (sync mode: delta)
+# Records: 98766
+# Last change: 2026-08-05 21:35:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1191,6 +1191,7 @@
 21323123.icu
 213weq12eqweq.blogspot.com
 21455452222255899891.duckdns.org
+21455452222255899894.duckdns.org
 21461sndmsndsasd.com
 21509-coinbase.com
 216-9-224-134.plesk.page
@@ -23180,6 +23181,7 @@ daftarcasinolive.com
 dagitimgunleri-yarinindunyasi-basvuru-tr.tk
 dagitimgunleriteknolojiprbdoge-basvuru-com.tk
 dagitimpaketleme.com
+dagsdghqw.sbs
 dagsigorta.site
 daha-be-gunduz-nato.xyz
 daha-fazlasi.guru
@@ -34775,6 +34777,7 @@ garagevegetation.top
 garageverge.top
 garan-tr-websie.world
 garanbattii.site
+garandibas.cfd
 garandibasvru.cfd
 garannatttft.xyz
 garannttntsss.com.tr
@@ -41278,6 +41281,7 @@ hitwlyer.pics
 hivlor.com
 hiz-lisle-ml-erin-iz.live
 hizbayiservis.net
+hizhwomantre.pro
 hiziyla-alim.com
 hiziyla-tedarik.com
 hiziyla-ticaret.com
@@ -62016,6 +62020,7 @@ ondrirka.com
 ondsadcenf.duckdns.org
 ondtlyuklecll.net
 ondulinelevha.com
+one-cikar.casa
 one-pass-regions.cc
 one-re.ru
 one-usdt.net
@@ -72453,6 +72458,7 @@ s0kagustosyakal.com
 s0kfrsatbziimlehizlaa.com
 s0kmalrlet.shop
 s0kmarhet.lat
+s0kmarhketler.com
 s0kmarjklet.shop
 s0kmarkeletler.shop
 s0kmarkeltler.shop
@@ -97118,6 +97124,7 @@ yeniotobansweusa.us
 yenipaneladresi.net
 yenipapara.com
 yeniparibu.com
+yenipartibagisgovtr.sbs
 yenipjod22.icu
 yenipjod24.icu
 yenipjod28.icu
