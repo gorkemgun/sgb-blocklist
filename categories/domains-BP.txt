@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256762
-# Last change: 2026-08-05 15:30:44 UTC (sync mode: delta)
+# Records: 256769
+# Last change: 2026-08-05 17:55:31 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -67600,6 +67600,7 @@ depremkontrol.site
 depremyardimformu.com
 depremzedelere-yardim.com
 depremzedeyardimlarixdxme5.com
+depremzeminsorgulama.com
 deprety.b-cdn.net
 derbederberk.sbs
 derbi.name.tr
@@ -90553,6 +90554,7 @@ face-onlineyapicepbasvurum.vercel.app
 faceabook-moible.click
 facebasvuru.online
 facebook--com.ml
+facebook--login-security.ph
 facebook-change-password.com
 facebook-giris.cf
 facebook-giris.ml
@@ -129696,6 +129698,7 @@ indirimsler.online
 indirimsokagi.shop
 indirimson12aralik.com.tr
 indirimson12aralik.xyz
+indirimsonfrstt.dnsup.net
 indirimsongunmtkpbaslar.shop
 indirimsoykampanya.com.tr
 indirimspettimdedir.shop
@@ -136351,6 +136354,7 @@ isube-isbankmobil.com
 isube-kampanyalarim.sa.com
 isube-kampanyalarim.za.com
 isube-kuveytmobilgiris-togg-randevu.destekodemeleriservisi.net
+isube-kuveyttt.duckdns.org
 isube-kuveyttturk.top
 isube-kuveytturk-com-tr.uygunfaizorani.com
 isube-kuveytturk.com
@@ -193323,6 +193327,7 @@ s0kmarkeltler.xyz
 s0kmarkez.shop
 s0kmarklet.shop
 s0kmarkletler.shop
+s0kmarkletlt.com
 s0kmarkteltler.xyz
 s0kmarlkeper.shop
 s0kmarlket.shop
@@ -201404,6 +201409,7 @@ sgkemeklipromosyonu.cfd
 sgkgovtr.com
 sgkhizmet-tru.cfd
 sgkhizmetdokumu.info
+sgkhizmetdokumu.ph
 sgkhizmetsorgulama.net
 sgkline.com
 sgknnd.top
@@ -221609,6 +221615,7 @@ trendyol-baglanti-ile-satin-al.com
 trendyol-bc-game.com
 trendyol-bcgame.com
 trendyol-club.com
+trendyol-ekargo-4000.netlify.app
 trendyol-express.net
 trendyol-express.p-sepetim.com.tr
 trendyol-express.tr-alisverislerin.net

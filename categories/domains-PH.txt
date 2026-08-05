@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98738
-# Last change: 2026-08-05 15:30:44 UTC (sync mode: delta)
+# Records: 98746
+# Last change: 2026-08-05 17:55:31 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6715,6 +6715,7 @@ anadoluvakifbursu.com
 anadoluvector.com
 anadoluyasamim.com
 anafarta.net
+anaforlarindanam.sbs
 anahtar.club
 anahtar.site
 anakatledenazazel.net
@@ -24972,6 +24973,7 @@ dev.vegascheck.xyz
 dev.wyoming.coinbase-com.info
 dev2022.ml
 dev7129.d2qmcnsgj0y7oj.amplifyapp.com
+devamediyoruzbasvurla.sbs
 devamgez.net
 devapp.digital
 devasatemmuzzflrsatlarii.com
@@ -34781,6 +34783,7 @@ garanterentacar.com.tr
 garanterentacar.ga
 garanti-action-form.pages.dev
 garanti-basvur-bireysel-fomu-online.ml
+garanti-basvuru-bonus.mayddns.com
 garanti-bbva-cep-sifrematik.ir.aptoide.com
 garanti-bireysel-basvurular-com.webredirect.org
 garanti-bireysel-basvurunuz-com.webredirect.org
@@ -45175,6 +45178,7 @@ infyra.online
 ing-uygulama-guncelleme.azureedge.net
 ing.netbank-nb.com.au
 ing4x.com
+ingbank-online-kampanya.ph
 ingdenkasimfirsati.ml
 ingdensuperkasim.ml
 ingeniousconsulate.top
@@ -46794,6 +46798,7 @@ istkayipesya.site
 istkbnbklyeskle.net
 istkkartttbelggim.xyz
 istkkartttbelggimm.xyz
+istkrdabadss.duckdns.org
 istkrdcx1444.net
 istkrtbasvurla.com
 istkrtbsvrsnkzbrdanyp.mooo.com
@@ -57280,6 +57285,7 @@ mobildvltgovxv1tr.icu
 mobildvltgovxv1tr.one
 mobile-a101.online
 mobile-a101.shop
+mobile-akbank-basvurum.github.io
 mobile-btcturkpro.xyz
 mobile-cimer.com
 mobile-free-fr.freemooe.beget.tech
@@ -66789,6 +66795,7 @@ poxexgecis-autokesif.net
 poyansystem.ir
 poyhbg.online
 poyrazotelbozcaada.com
+poyuturyew-esederese.lol
 pozgio.cyou
 pozharstor-semspyat.jokideb.site
 pp112-224xsdsed.duckdns.org
@@ -80333,6 +80340,7 @@ sube-hediyemobildeniz.online
 sube-hizlimobildenizgiris.online
 sube-infoyatirim.com
 sube-krediacikdenizbasvurgirisonayi.click
+sube-kuveyt-ttr.duckdns.org
 sube-kuveyt-turk.duckdns.org
 sube-kuvytbasvurusorgulamagiris.fun
 sube-kuvytbasvurusorgulamagiris.site
