@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463140
-# Last change: 2026-08-05 17:55:31 UTC (sync mode: delta)
+# Records: 463159
+# Last change: 2026-08-05 19:57:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -18628,6 +18628,7 @@
 7458748765134120.duckdns.org
 7458748765134130.duckdns.org
 7458855com.com
+745896321kmpyaabsvrrsnfrstlarrr.pro
 745g3.nextra9.com
 745govciris.duckdns.org
 74602874556oi3663575.linkpc.net
@@ -143810,6 +143811,7 @@ edgecloudc.com
 edgecrksvd.com
 edgeislem.22web.org
 edgekey.live
+edgeone.dev
 edgepioneer.space
 edgerune.sbs
 edgesphere.site
@@ -152502,6 +152504,7 @@ erd0.gdn
 erd4power.sbs
 erda.certykat.top
 erdasgasmfsa.wiki
+erde-rederesedere.lol
 erde83e4msd.xyz
 erdekerefergete.online
 erdem7chavo.com
@@ -169287,6 +169290,7 @@ frrsatcampyal.sbs
 frrsatcampystok.sbs
 frrst-aldn.com.tr
 frrst-ssokta.com.tr
+frrstlrrkmnyaabsvrrr25479123.info
 frrsxxstrlriiiminn-olldugu-yer.com
 frrtodjpfvxlk.com
 frs-2024kcmzzfrs.xyz
@@ -180822,6 +180826,7 @@ girsisonnlneslemleriniz.sbs
 girsitrakb.online
 girsitrbccnrt.com
 girsizsabit2026.com
+girsizsabiti2026.com
 girsizsabits2026.com
 girsler-online-utka-basvuru.xyz
 girslerbnnrc-tronline.com
@@ -190735,6 +190740,7 @@ haberler56755712366.com
 haberler568794.sbs
 haberler66242.sbs
 haberler6723236.sbs
+haberler73421.shop
 haberler78912.sbs
 haberler8.club
 haberler8.online
@@ -213422,6 +213428,7 @@ hugui100247.zapto.org
 hugyva.com
 hugzho.hopto.org
 huhgu-fuyur-desede.xyz
+huhugufu-guyutere.lol
 huhugufue-redesepolise.lol
 huhujoo.cat
 huhukilipde.my-homeip.com
@@ -226319,6 +226326,7 @@ internetsube-qnbfinansbankan.com
 internetsube-qnbfinansbankasi-login.com
 internetsube-qnbfinansbankasi-tr.com
 internetsube-qnbfinansbankasi.com
+internetsube-qnbfinansbankasi.ph
 internetsube-qnbfinansbankasilogin-tr.com
 internetsube-qnbfinansbankasilogin.com
 internetsube-qnbfinanscin.com
@@ -232838,6 +232846,7 @@ istkartonline.xyz
 istkartrehber.xyz
 istkartrehberi.xyz
 istkartrtx.online
+istkartsamabggy.icu
 istkartssyukle.net
 istkartt.net
 istkarttertdfs.net
@@ -233579,6 +233588,7 @@ isube-kuvytbasvrhemengirishizli.online
 isube-kuvytbasvrhemengirishizli.space
 isube-login-password-tr.site
 isube-mobil.com
+isube-mobilll.duckdns.org
 isube-online-garant.sa.com
 isube-online-garant.za.com
 isube-online-giris.com
@@ -247534,6 +247544,7 @@ kartaidatsorgulamagovtr.org
 kartaidatsorgulazazelhakan.xyz
 kartaidattdevlet2.com
 kartaidatyardimi.com
+kartakip.duckdns.org
 kartal-915.com
 kartal-flexhome129.cloud
 kartal-yapsovunubugun.site
@@ -266396,6 +266407,7 @@ lorimartwork.com
 lorina.click
 lorinex.gifts
 lorivan.gifts
+lorivexanto.world
 lornivex.com
 lornointwonbt.org
 loroparqlue.com
@@ -346213,6 +346225,7 @@ s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
 s0kmarkretler.com
+s0kmarkretlero.com
 s0kmarkteltler.xyz
 s0kmarleletr.com
 s0kmarletrey.com
@@ -346718,6 +346731,7 @@ sabitislem.webislemyerin1sg-hosting.net
 sabitislemleriniz.xyz
 sabitlgirzsi2026.com
 sabitodemem.net
+sabitzgirizsi2026.com
 sabmilagawait.com
 sabomarshdominik.ml
 sabomarshdominik2.ml
@@ -372444,6 +372458,7 @@ sosyal-konut-t0ki.store
 sosyal-konut.com
 sosyal-konutbasvurusu.cloud
 sosyal-konutbasvurutoki.vercel.app
+sosyal-media.garden
 sosyal-online-pandemileri-odemeleri.com
 sosyal-pandemidestek.com
 sosyal-portal.online
@@ -372622,6 +372637,7 @@ sosyalhelponline.com
 sosyalhile.com
 sosyalhizmet-e.com
 sosyalhizmet.xyz
+sosyalhizmetbasvuru.site
 sosyalhizmetbasvuru.tk
 sosyalhizmetdestekbasvuru.ml
 sosyalhizmetdestekbasvuru.tk
@@ -443847,6 +443863,7 @@ xn--pttavm-hzlodemelerim-pbdc.com
 xn--pttavm-sipari-utc.com
 xn--pttavm-v4a.com
 xn--pttavm-yklemegn-6vbgb.com
+xn--pttavmilanlarm-sepet-ubd.com
 xn--pttavmirket-wgc.com
 xn--pttavml-hzlodemem-kvcc.com
 xn--pttavmm-hzlgncelinlem-kic92jca27i.com
@@ -451101,6 +451118,8 @@ yeni-nesil-bilim.digitalkick.cfd
 yeni-onlnesrgula-ekrani.sbs
 yeni-pandemibasvuruapp.com
 yeni-pandemidestek.com
+yeni-parti-bagis.com
+yeni-parti.uk
 yeni-pasaport.b-cdn.net
 yeni-piyasa.info
 yeni-randevu-190ac7583b5c.herokuapp.com

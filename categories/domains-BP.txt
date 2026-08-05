@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256769
-# Last change: 2026-08-05 17:55:31 UTC (sync mode: delta)
+# Records: 256775
+# Last change: 2026-08-05 19:57:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -131003,6 +131003,7 @@ internetsube-qnbfinansbankan.com
 internetsube-qnbfinansbankasi-login.com
 internetsube-qnbfinansbankasi-tr.com
 internetsube-qnbfinansbankasi.com
+internetsube-qnbfinansbankasi.ph
 internetsube-qnbfinansbankasilogin-tr.com
 internetsube-qnbfinansbankasilogin.com
 internetsube-qnbfinanscin.com
@@ -136369,6 +136370,7 @@ isube-kuvytbasvrhemengirishizli.fun
 isube-kuvytbasvrhemengirishizli.online
 isube-login-password-tr.site
 isube-mobil.com
+isube-mobilll.duckdns.org
 isube-online-garant.sa.com
 isube-online-garant.za.com
 isube-online-giris.com
@@ -144964,6 +144966,7 @@ kartaidatsorgulamagov.com
 kartaidatsorgulamagovtr.com
 kartaidatsorgulamagovtr.org
 kartaidatyardimi.com
+kartakip.duckdns.org
 kartal-flexhome129.cloud
 kartal-yapsovunubugun.site
 kartal.gridwander.cfd
@@ -155094,6 +155097,7 @@ loregion.com
 loremitahu.gotdns.ch
 loremsa-tipisum.xst.cl
 lorina.click
+lorivexanto.world
 lornivex.com
 lorqenta.com
 lortpakecaks.duckdns.org
@@ -244420,6 +244424,7 @@ xn--pttavm-hzlodemelerim-pbdc.com
 xn--pttavm-sipari-utc.com
 xn--pttavm-v4a.com
 xn--pttavm-yklemegn-6vbgb.com
+xn--pttavmilanlarm-sepet-ubd.com
 xn--pttavmirket-wgc.com
 xn--pttavml-hzlodemem-kvcc.com
 xn--pttavmm-hzlgncelinlem-kic92jca27i.com
@@ -249488,6 +249493,7 @@ yeni-mobildenizbasvurucekilisi.com
 yeni-mobildenizbireyselbasvur.com
 yeni-mobildenizbireyselbasvur.online
 yeni-nesil-bilim.digitalkick.cfd
+yeni-parti-bagis.com
 yeni-pasaport.b-cdn.net
 yeni-piyasa.info
 yeni-randevu-e394708089fc.herokuapp.com

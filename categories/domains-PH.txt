@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98746
-# Last change: 2026-08-05 17:55:31 UTC (sync mode: delta)
+# Records: 98759
+# Last change: 2026-08-05 19:57:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2277,6 +2277,7 @@
 740777id.xyz
 74185236901.cloud
 744de30e.hwqwwrh.com.cn
+745896321kmpyaabsvrrsnfrstlarrr.pro
 74651-coinbase.com
 746578234676856729387.com.tr
 74728292.ns-u629df.shop
@@ -28357,6 +28358,7 @@ edevltnlnllnln.com
 edevltsosyalyardm.tech
 edevoodemesi.com
 edfvlettaidatt.online
+edgeone.dev
 edgepioneer.space
 edgesphere.site
 edictoria.sbs
@@ -30098,6 +30100,7 @@ ercanvinc.shop
 ercapnlistnb.com
 erd4power.sbs
 erdasgasmfsa.wiki
+erde-rederesedere.lol
 erdekerefergete.online
 erdemcars55.com
 erdemirtr.com
@@ -34325,6 +34328,7 @@ frozeinc.site
 frozzenpath.top
 frpieocoa.xyz
 frracb.top
+frrstlrrkmnyaabsvrrr25479123.info
 frsat-katalog.com
 frsataks-bgn.cfd
 frsatbyesa55.com
@@ -36384,6 +36388,7 @@ girlythings.shop
 girsiebl.shop
 girsim-dsvltbasvrulari.com
 girsizsabit2026.com
+girsizsabiti2026.com
 girsizsabits2026.com
 girslerbnnrc-tronline.com
 girsleronline-trddvt.com
@@ -38834,6 +38839,7 @@ haberler562346.sbs
 haberler5632494.sbs
 haberler56755712366.com
 haberler6723236.sbs
+haberler73421.shop
 haberler78912.sbs
 haberler8.club
 haberler8.online
@@ -42542,6 +42548,7 @@ hugeshiver.top
 hugifidier-redsedese.lol
 hugufudere-redesede.lol
 hugyva.com
+huhugufu-guyutere.lol
 hukbirim.eu
 hukuk-portal.com
 hukukasistan.org
@@ -46793,6 +46800,7 @@ istkartlar.com
 istkartlarmayuklicim.net
 istkartllv.blogspot.com
 istkartlmc.blogspot.com
+istkartsamabggy.icu
 istkarttertdfs.net
 istkayipesya.site
 istkbnbklyeskle.net
@@ -72453,6 +72461,7 @@ s0kmarkletmer.shop
 s0kmarklkerler.com
 s0kmarkot.shop
 s0kmarkretler.com
+s0kmarkretlero.com
 s0kmarleletr.com
 s0kmarletrey.com
 s0kmarlketitim.com
@@ -72538,6 +72547,7 @@ sabitgirsiz2026.com
 sabitgirsizi2026.com
 sabitlgirzsi2026.com
 sabitodemem.net
+sabitzgirizsi2026.com
 sabomarshdominik2.ml
 sabomarshdominik3.ml
 saburov-nurlan.com
@@ -78497,6 +78507,7 @@ sosyal--destek.gq
 sosyal--destek.ml
 sosyal-destek-ve-basvur-online.net
 sosyal-konutbasvurutoki.vercel.app
+sosyal-media.garden
 sosyal-proje.sbs
 sosyal-yardim-bagis.com
 sosyal-yardimbagis.com
@@ -78516,6 +78527,7 @@ sosyalform-sayfasi.org
 sosyalgecem.online
 sosyalgelecekler.com
 sosyalhile.com
+sosyalhizmetbasvuru.site
 sosyalhizmetlerim.tk
 sosyalistanbulun.xyz
 sosyalizm.site
@@ -96901,6 +96913,7 @@ yeni-kayit.com
 yeni-limit.com
 yeni-mobildenizcekilisbasvuru.com
 yeni-onlnesrgula-ekrani.sbs
+yeni-parti.uk
 yeni-randevu-190ac7583b5c.herokuapp.com
 yeni-ucuzluklxr-icin-gel.com
 yeni-yil-ozel-indirimler.online
