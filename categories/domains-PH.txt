@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98687
-# Last change: 2026-08-04 23:27:53 UTC (sync mode: delta)
+# Records: 98688
+# Last change: 2026-08-05 03:37:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -49146,6 +49146,7 @@ karliratr.com
 karma2022.com
 karmab.nicepage.io
 karmapaketler.net
+karmavotogalerist.duckdns.org
 karmelio.com
 karnelix.bond
 karonipux.com

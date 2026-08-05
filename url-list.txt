@@ -69214,6 +69214,7 @@ bilgilendirme-cimer.org
 bilgilendirme-edevlet.org
 bilgilendirme-kararduyurusu.com
 bilgilendirme-kararduyurusutr.com
+bilgilendirme-merkezi.sbs
 bilgilendirme-platformu.com
 bilgilendirme-resmiodemelerhemengiris.site
 bilgilendirme-tr.online
@@ -247152,6 +247153,7 @@ karmalast.ddns.net
 karmalirayukle.net
 karmalirayukleme.net
 karmapaketler.net
+karmavotogalerist.duckdns.org
 karmelio.com
 karmento.space
 karmi1963516.site

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463040
-# Last change: 2026-08-04 23:27:53 UTC (sync mode: delta)
+# Records: 463042
+# Last change: 2026-08-05 03:37:18 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -69218,6 +69218,7 @@ bilgilendirme-cimer.org
 bilgilendirme-edevlet.org
 bilgilendirme-kararduyurusu.com
 bilgilendirme-kararduyurusutr.com
+bilgilendirme-merkezi.sbs
 bilgilendirme-platformu.com
 bilgilendirme-resmiodemelerhemengiris.site
 bilgilendirme-tr.online
@@ -247156,6 +247157,7 @@ karmalast.ddns.net
 karmalirayukle.net
 karmalirayukleme.net
 karmapaketler.net
+karmavotogalerist.duckdns.org
 karmelio.com
 karmento.space
 karmi1963516.site
