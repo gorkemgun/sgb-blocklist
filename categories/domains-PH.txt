@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98709
-# Last change: 2026-08-05 12:19:08 UTC (sync mode: delta)
+# Records: 98738
+# Last change: 2026-08-05 15:30:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5705,6 +5705,7 @@ aktuelortisc.com
 aktuelpalace.shop
 aktuelperakendeindlrm.com
 aktuelredmialimlariburadaalisveris.sbs
+aktuelseninle.com
 aktuelsinirlisatiis.biz
 aktuelsinirlisatiis.club
 aktuelsinirlisatiis.vip
@@ -8372,6 +8373,7 @@ asdasede-sedeadsada.lol
 asdasfamanassalvo.com
 asdasfasdmmn.click
 asdasqweqweaweq.net
+asdaswqkwqfwqfk.shop
 asdatatsagdfgafsrt.com
 asdauvasdii.com
 asdawswas.jumpingcrab.com
@@ -8813,6 +8815,7 @@ atorjack.top
 atp.persmbxmrkt87.com
 atp500.ru
 atraskmm.online
+atrendy.vip
 atriocrm.com
 atrmercmas.net
 atrmhsrokdrts.net
@@ -9433,6 +9436,7 @@ avis-tr.com.tc
 avis-yanimda.somee.com
 avis-yaninda.com
 avis-yd-avis-filo.vercel.app
+avis.arackiralamaislem.com
 avis.arackiralamalar.net
 avis.arackiralamalari.org
 avis.com.tc
@@ -9790,6 +9794,7 @@ aydogdumdanree.xyz
 ayforsec.online
 aygnstngzlms.net
 aygozumdedunya.sbs
+ayhadsalosadl.online
 ayicoin.com
 ayidat-govturkiade.tk
 ayidattan-govtrkyi.tk
@@ -15536,6 +15541,7 @@ budway.site
 budwy.site
 budz.garden
 buevlilik.online
+buf2.com
 buffalotemperament.top
 bufferbud.top
 bufferdetention.top
@@ -25675,6 +25681,7 @@ dipixcanax.xyz
 diplom-attestat.net
 diploma.legal
 diplomaal.com
+diplomaal.online
 diplomabasvuru.com
 diplomabul.com
 diplomacuisine.top
@@ -25685,6 +25692,7 @@ diplomahizmetiniz.com.tr
 diplomahizmetiniz.xyz
 diplomakayit.online
 diplomamporal.top
+diplomasatisi.online
 diplomaservisi.com
 diplomatgrope.top
 diplomathumanism.top
@@ -29910,6 +29918,7 @@ envelopebaffle.top
 envercicek.com
 envhger.tech
 envicrsmblar.app
+enviirandevu.org
 enviodpeme.net
 environmentalcorrode.top
 environmentaldvastatng.top
@@ -33389,6 +33398,7 @@ flafsalfan.net
 flagconducive.top
 flagellariaslcmer.live
 flagfabrication.top
+flakecheck.online
 flakecheck.space
 flamboyant-meitner.93-177-103-39.plesk.page
 flameadolescent.top
@@ -39666,6 +39676,7 @@ hazinegovuktr7.ml
 hazineiadedestegi46.com
 hazineiadesi23.ga
 hazinekurum.org
+hazineleri.com
 hazinemaliyetc.net
 hazinemaliyetc.org
 hazineonline.hdirwanda.org
@@ -41303,6 +41314,7 @@ hizli-limit.xyz
 hizli-mobildenizonay.com
 hizli-odeme.com.tr
 hizli-odemeler.com
+hizli-odemem.com
 hizli-odemem.com.tr
 hizli-online-aktarma-sistemi.site
 hizli-online-islemler.com
@@ -41799,6 +41811,7 @@ hnvbdd.top
 hnxhbn.top
 hoareaseasholend.com
 hobannweklkswe.com
+hobbejstlerkester.duckdns.org
 hobbycaptain.top
 hobesletr.duckdns.org
 hobyerim.net
@@ -46598,12 +46611,14 @@ istanbulkweb.blogspot.com
 istanbullafirsat.net
 istanbullarkolaysistem.com
 istanbullbakiyesi.blogspot.com
+istanbullbiizmlaa.xyz
 istanbullcumbakim.pro
 istanbullhizlibakiyem.com
 istanbullkart34bakiyeyukleme.tk
 istanbullkartli-bakiye-dolum.com
 istanbullkartt.com
 istanbullkartv.blogspot.com
+istanbulllcannkarrtt.xyz
 istanbulllyuklex.net
 istanbullolunn.com
 istanbullsdemeleibb.net
@@ -47629,6 +47644,7 @@ izsmz.online
 izstxvmhzlxygl.net
 iztannbulpazargunu.net
 iztleasmekanikcifirsati.blogspot.com
+iztoaofsa.blogspot.com
 iztodgds.blogspot.com
 iztosfr.dns.navy
 iztospapfs.blogspot.com
@@ -50773,6 +50789,7 @@ kolaycadevur.online
 kolaycadevur.store
 kolaycaodeme.com
 kolaydegflsf.net
+kolaydiploma.com
 kolayhasrasar.net
 kolayhizmet.b-cdn.net
 kolaykampanyafirsatifirsathbance.tech
@@ -55130,6 +55147,7 @@ masaksorgu.org
 masaksorgulama.com
 masaksorgutc.org
 masaksorgutr.org
+masaktakibi.org
 masaktc.net
 masaktrmobilbinance1.duckdns.org
 masalarinkampanyasi.xyz
@@ -55291,7 +55309,9 @@ matureviable.top
 maturitybald.top
 maturityconnotation.top
 matvoucher.top
+mauicreativos.com
 mauroicard.sbs
+mavbuylo.com
 mavendron.com
 maventa.sbs
 mavereckford.info
@@ -68920,6 +68940,7 @@ pulsewarde.top
 pulsewhiz.com
 pulsewire.company
 pulsynk.org
+pulturturizm.com
 pumaindirimliayakkabi.com
 pumainsturkiye.com
 pumaturkiyeoutletr.com
@@ -71947,6 +71968,7 @@ romeo-and-julietta.ru
 romestavia.info
 romlegarki.workers.dev
 romotionssale.shop
+romuai-web.pages.dev
 ronesanspaketleme.com
 ronninwllut.webflow.io
 rontglobalx.com
@@ -72317,6 +72339,7 @@ s-guvenli-ticaret-ile-alisveris.site
 s-guvenlimuhasebeodemenoktasi.duckdns.org
 s-guvenliodeme.alisveristr.com.tr
 s-guvenliodeme.com
+s-guvenlisigortaodemenoktasi.duckdns.org
 s-ilanlar.net
 s-kurumsalalisverisahibinden-com.online
 s-kurumsalsatis.com.tr
@@ -72506,6 +72529,7 @@ sabitgecisleriniz.live
 sabitgirsisz2026.com
 sabitgirsiz2026.com
 sabitgirsizi2026.com
+sabitlgirzsi2026.com
 sabitodemem.net
 sabomarshdominik2.ml
 sabomarshdominik3.ml
@@ -72806,6 +72830,7 @@ sahibinden-get.guvenliodemelerim.online
 sahibinden-get.ilanjet-hizmetler.com
 sahibinden-get.ile-odeyin-tr.com
 sahibinden-get.ileodeme.com
+sahibinden-get.islem-guvende.online
 sahibinden-get.le-odeme.com
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilservisin-25.sbs
@@ -74488,6 +74513,7 @@ sdfsdfdsfsd123dsf.blogspot.com
 sdfsdfggfd.duckdns.org
 sdfsdfsdf.click
 sdfsruy.icu
+sdfvksdfvksdvfk.shop
 sdgbcvn.galtofraknispovratisyorkamni.net
 sdgdgdfs423.com
 sdglmm.top
@@ -76898,6 +76924,7 @@ siparilserdevamediyor.cloud
 siparinizolusturuldu.click
 siparis-alim.com
 siparis-baglantisi-kisa-link.com
+siparis-cekme.pages.dev
 siparis-geldi.com
 siparis-kapida.app
 siparis-kapida.com.tr
@@ -83699,6 +83726,7 @@ tgurl.cc
 th4nos.tech
 thaber.website
 thalassian.icu
+thamosdanismans.com
 thankfragrance.top
 thankfulencyclopedia.top
 thankfulperish.top
@@ -84198,6 +84226,7 @@ tikpremplaymarktuzb.sbs
 tikraal.com
 tiktik.nicepage.io
 tiktok-advance.com
+tiktok-officialcenter.com
 tiktok-verify.tk
 tiktokdestekturkiye.cf
 tiktokfollowershack.com
