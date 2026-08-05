@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98690
-# Last change: 2026-08-05 06:44:13 UTC (sync mode: delta)
+# Records: 98702
+# Last change: 2026-08-05 09:58:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2767,6 +2767,7 @@ a-101onlinemarketislemmerkezi.hemenkpndaalisveris.com
 a-101onlinesiparis.com
 a-101onlinetiklaal.online
 a-101saligdffff.com
+a-101xaxakapinda.com
 a-1o1-online.net
 a-1o1.bufirsatlarkacmaz.net
 a-1o1.co
@@ -29207,6 +29208,7 @@ emeeramaontinwrldecp.com
 emek3d.xyz
 emekklibasvur.com
 emekklibasvuru.com
+emekli-ozel-kampanya.online
 emeklilerrenakityeni.xyz
 emeklilik-web.vercel.app
 emeklipromosyonbasvuru.online
@@ -36369,6 +36371,7 @@ girlythings.shop
 girsiebl.shop
 girsim-dsvltbasvrulari.com
 girsizsabit2026.com
+girsizsabits2026.com
 girslerbnnrc-tronline.com
 girsleronline-trddvt.com
 girsorgulahemenizin.com
@@ -41473,6 +41476,7 @@ hizliizltslarbrada.xyz
 hizliizmirimkart.net
 hizlikampanyabasvurusu.online
 hizlikantemsi-8f6890bc61a1.herokuapp.com
+hizlikapida.com
 hizlikaydetseniz.com
 hizlikaydol.online
 hizlikayitt.com
@@ -43739,6 +43743,7 @@ ilan-getsecure.com
 ilan-gget.com
 ilan-guvende.online
 ilan-guvenli-satis.com.tr
+ilan-havale-fast.com
 ilan-havale-odemem.com
 ilan-havale-odemesi.com
 ilan-hizmeti.net
@@ -50225,6 +50230,7 @@ kizilay.misecure.com
 kizilaybagis.com
 kizilaymenkul.com
 kizimbenmatmazel.net
+kizlarburada.sbs
 kizlarsoruyo.store
 kizlarvi.com
 kizllay.com
@@ -53250,6 +53256,7 @@ loliipop.site
 lolohugufre-redesede.lol
 lolophiidae.org
 loloyagel.click
+lomas-capital.com
 lomendra.com
 lomento.de
 lomirento.com
@@ -55928,6 +55935,7 @@ memajesty.top
 mematibaseqwe.shop
 member-validation.com
 membercloudzone.com
+membercloudzone.net
 memberelaborate.top
 memberentrypoint.com
 membership-listen-freebsd-blake.trycloudflare.com
@@ -58688,6 +58696,7 @@ myxavo.cfd
 myxuvo.cc
 myxuvo.top
 myzsztvk.net
+mzhrrndvlrnzgovptt.duckdns.org
 mzkenzie.com
 mzkrkartyklme.net
 mzlofalolpia.com
@@ -71897,6 +71906,7 @@ rockheartede.com
 rockriddle.world
 rockscanner.digital
 rocksegregation.top
+roddddybdrydln.shop
 rodfilokiralama.com
 rodheslesson.online
 rodney.lat
@@ -72387,6 +72397,7 @@ s-tksnfrs-t.online
 s-trget.online
 s-urunler.com.tr
 s-wagardw.app
+s-x.xxxxxxxxx111111.xyz
 s.luckygadgets.net
 s.online-urunler.com.tr
 s.t-dolap.com
@@ -75099,6 +75110,7 @@ senbanaddosatbensanaclick.sbs
 senbenbizsimditamam.online
 senbensirasiradevam.online
 senbensizeryecen.online
+senbnademdnmmvgzl.com
 sencerdernegi.com
 sencrfdenall.cfd
 senct-purch-yusty.com

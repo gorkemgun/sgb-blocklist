@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463044
-# Last change: 2026-08-05 06:44:13 UTC (sync mode: delta)
+# Records: 463061
+# Last change: 2026-08-05 09:58:52 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22918,6 +22918,7 @@ a-101senal.cyou
 a-101sendegelal.com
 a-101sepetim-kapimda.online
 a-101sindirimcisiparis.com
+a-101xaxakapinda.com
 a-103.site
 a-1bcdn.com
 a-1o1-c.duckdns.org
@@ -96515,6 +96516,7 @@ cdnpakage.com
 cdnpymtf.com
 cdnreport.net
 cdnroute.ru
+cdns3.51quickfox.cn
 cdnscr.thruhere.net
 cdnstatics.net
 cdntestconnect.com
@@ -148124,6 +148126,7 @@ emeklbasvurusu.com
 emeklfirsatalhemenkmpny.site
 emekli-cekilis-promosyon.store
 emekli-kampanyamiz.com
+emekli-ozel-kampanya.online
 emekli-pro-teb.my-homeip.de
 emekli-promo-basvur.com
 emeklibasvurum.com
@@ -180794,6 +180797,7 @@ girsisonnlneslemleriniz.sbs
 girsitrakb.online
 girsitrbccnrt.com
 girsizsabit2026.com
+girsizsabits2026.com
 girsler-online-utka-basvuru.xyz
 girslerbnnrc-tronline.com
 girsleronline-trddvt.com
@@ -208337,6 +208341,7 @@ hizlikampanyalariniz.xyz
 hizlikampanyasi.pw
 hizlikantemsi-8f6890bc61a1.herokuapp.com
 hizlikantemsin-c25e1fcaa9b4.herokuapp.com
+hizlikapida.com
 hizlikapidamarket.com
 hizlikapinda.com
 hizlikargo.sbs
@@ -219634,6 +219639,7 @@ ilan-guvenli.com.tr
 ilan-guvenlialisveris.com
 ilan-guvenlieticaret.com
 ilan-guvenliodeme.com.tr
+ilan-havale-fast.com
 ilan-havale-odemem.com
 ilan-havale-odemesi.com
 ilan-hizli-odemem.com
@@ -240134,6 +240140,7 @@ jrypjkiursquobo.cn
 jryycllsiwonfmt.cn
 jrzqmkxvtpln.sa.com
 jrztxofmh.xdk8ax.cn
+js-mirror.com
 js-new.newtoyourgame.com
 js-stats.com
 js-storage.click
@@ -252922,6 +252929,7 @@ kizimbenmatmazel.net
 kizimece.click
 kizkardeslikvakfi.com
 kizkwkwxw.online
+kizlarburada.sbs
 kizlarparalarbendeler.za.com
 kizlarsoroyur.com
 kizlarsoruyo.store
@@ -266127,6 +266135,7 @@ lolxd.713mtauburnctcolumbusoh43085.st
 lolyouhoe.hopto.org
 lolzertnnn.zapto.org
 lomanca.name.tr
+lomas-capital.com
 lomavcazleb.site
 lomeasderasdewse.com
 lomendo.online
@@ -275624,6 +275633,7 @@ member1st-fcu-r1.duckdns.org
 member1st.duckdns.org
 memberboard.net
 membercloudzone.com
+membercloudzone.net
 memberelaborate.top
 memberentrypoint.com
 memberrs1stfcu-1bn.duckdns.org
@@ -289160,6 +289170,7 @@ mzedof.cc
 mzgel01.duckdns.org
 mzgrccefjhi.info
 mzhhacking2new.zapto.org
+mzhrrndvlrnzgovptt.duckdns.org
 mzihlalbildirigvtr.icu
 mzin5dx.duckdns.org
 mziyytm5ytk.ahroar.com
@@ -295806,6 +295817,7 @@ npkms.top
 npknraafbisrs7.com
 npkxr.cn
 npltfj.com
+npm-cache.com
 npm-solar.com
 npm.mave.finance
 npmcloudjs.com
@@ -332296,6 +332308,7 @@ pyojoh5.duckdns.org
 pyowgxubiuvp.tech
 pypaallsecreintl.duckdns.org
 pypal3.hopto.org
+pypi-get.com
 pypi-mirror.org
 pypihosted.org
 pypj.org
@@ -343813,6 +343826,7 @@ rocqcff.duckdns.org
 rocuf.com
 rocxnrxwvqmtsq.info
 rodaxabedrnfy.life
+roddddybdrydln.shop
 rode.hopto.org
 rodfilokiralama.com
 rodformi.run
@@ -346056,6 +346070,7 @@ s-urunler.com.tr
 s-urunler.net
 s-urunlerim-guvende-islemler.com.tr
 s-wagardw.app
+s-x.xxxxxxxxx111111.xyz
 s.6srvfcm.com
 s.adslinkup.com
 s.appjiagu.com
@@ -350018,6 +350033,7 @@ sahibinden.ilan-giris.com.tr
 sahibinden.ilan-guvende-alisveris.online
 sahibinden.ilan-guvenli-onay.com.tr
 sahibinden.ilan-guvenli.com.tr
+sahibinden.ilan-havale-fast.com
 sahibinden.ilan-hizliode.com.tr
 sahibinden.ilan-hizmet-giris.com.tr
 sahibinden.ilan-ile-satis.com
@@ -357851,6 +357867,7 @@ senbenyokuz.xyz
 senbirliktesindimi.net
 senbizitanimiyunhe.com
 senbiziyokedemesinhaci.xyz
+senbnademdnmmvgzl.com
 senbolla.duckdns.org
 senbugundeevdekaldiye.com
 senburunlerdenciftercifteralmnlzm.shop

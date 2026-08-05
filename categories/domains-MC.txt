@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41099
-# Last change: 2026-08-04 10:00:29 UTC (sync mode: delta)
+# Records: 41103
+# Last change: 2026-08-05 09:58:52 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -7382,6 +7382,7 @@ cdnpakage.com
 cdnpymtf.com
 cdnreport.net
 cdnroute.ru
+cdns3.51quickfox.cn
 cdnscr.thruhere.net
 cdnstatics.net
 cdntestconnect.com
@@ -19130,6 +19131,7 @@ jrsewjsabeucwfh.cn
 jrtersdfg.pages.dev
 jrypjkiursquobo.cn
 jryycllsiwonfmt.cn
+js-mirror.com
 js-new.newtoyourgame.com
 js-stats.com
 js0c892.se
@@ -25469,6 +25471,7 @@ npjledw.com
 npkms.top
 npknraafbisrs7.com
 npltfj.com
+npm-cache.com
 npm.mave.finance
 npmcloudjs.com
 npmjscloud.com
@@ -28688,6 +28691,7 @@ pyflbcxgiubuplj.cn
 pyijwbnc.com
 pymuestnwo.info
 pyoheekfkbwh.info
+pypi-get.com
 pypihosted.org
 pyproxy.com
 pyqhmecn.com
