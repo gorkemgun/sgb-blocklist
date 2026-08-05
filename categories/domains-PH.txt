@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98688
-# Last change: 2026-08-05 03:37:18 UTC (sync mode: delta)
+# Records: 98690
+# Last change: 2026-08-05 06:44:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -57352,6 +57352,7 @@ mobilsubelerimden.com
 mobilsubelerimizden.com
 mobilsubem.myonlineportal.de
 mobilsubemiz.myonlineportal.de
+mobilsubeniz.my-homeip.de
 mobilsubesidenizden.co.vu
 mobiltakipciyiz.com
 mobiltalep.xyz
@@ -62138,6 +62139,7 @@ online-kampanyalar-giris.com
 online-kapimda-market.name.tr
 online-kgm.net
 online-kmpanyakatilim-bireyselbasvur.nl
+online-kredi-onay.cloud
 online-login-digital-mobile.com
 online-market.app
 online-marketim.info.tr
