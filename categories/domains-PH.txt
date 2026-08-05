@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98702
-# Last change: 2026-08-05 09:58:52 UTC (sync mode: delta)
+# Records: 98709
+# Last change: 2026-08-05 12:19:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -41415,6 +41415,7 @@ hizlidolumerkezi.co
 hizliebkdaiosyebus.online
 hizlierisim.cf
 hizlifilolar.com
+hizlifinansyeriniz.xyz
 hizlifirsatlarmobil.xyz
 hizlifirsatlarsizinlebirliksetehemenalmalisin.xyz
 hizligcsonlinode82.duckdns.org
@@ -46493,6 +46494,7 @@ istanbulbilgihaberdiyari.xyz
 istanbulbilginx.com
 istanbulbiz.click
 istanbulbiz.sbs
+istanbulbizim.uk
 istanbulbizim3434.xyz
 istanbulbizimlee.xyz
 istanbulbizimleela.sbs
@@ -61256,6 +61258,7 @@ obeysingapore.com
 obeysouthafrica.com
 obeyturkiye.com
 obil3t.com
+obilet-mobil.uk
 obilet-tr.uk
 obilet.uk
 obiletal.net
@@ -62312,6 +62315,7 @@ onlinedenizde.online
 onlinedevletaidatsistml2.com
 onlinedevletgiristbmmkartlargovtr.tk
 onlinedietslimm.xyz
+onlinedinamik.com
 onlinedogrulama.com
 onlinedolap.app
 onlinedolap.net
@@ -71907,6 +71911,7 @@ rockriddle.world
 rockscanner.digital
 rocksegregation.top
 roddddybdrydln.shop
+roddddybdrydlnnn.shop
 rodfilokiralama.com
 rodheslesson.online
 rodney.lat
@@ -73768,6 +73773,7 @@ sahrayardim.org
 sahribindenn.com
 sahtediploma.com
 sahtediploma24.com
+sahtediplomam.com
 sahteehliyet.com
 sahurcanavarihakan.site
 sahurizeldevam.dns.navy
@@ -79200,6 +79206,7 @@ srrsewqsgqrsaqnismanlik.blogspot.com
 srrsewqsgqrsxaaqnismanlik.blogspot.com
 srsfxkqwr.sbs
 srszkmnpyllrkcrmbzlrle.com
+srt.kizlarburada.click
 srttewqrsaqrwqnixsqmanlik.blogspot.com
 srttewqrsnqrwqnixsqmanlik.blogspot.com
 srttewqrsnsnismanlik.blogspot.com

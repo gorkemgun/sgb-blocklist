@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256735
-# Last change: 2026-08-05 09:58:52 UTC (sync mode: delta)
+# Records: 256746
+# Last change: 2026-08-05 12:19:08 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -5165,6 +5165,7 @@
 2144325233.website
 2144444888999099.xyz
 21451215251251252.com
+21455452222255899892.duckdns.org
 21499782132964.net
 215.alcrof.net
 2152152159219.shop
@@ -57945,6 +57946,9 @@ cezaligecisislemlerin.in
 cezaligecisler.in
 cezaligecisler.info
 cezaligecislerin.info
+cezamahkeme.com
+cezamahkeme.org
+cezamahkemelerin.org
 cezamahkemesi.com
 cezamahkemesi.net
 cezamaliyeeuzlasma.com
@@ -99808,6 +99812,7 @@ gecisadresi.net
 gecisavhizliihlal.bond
 gecisbakiycis.lat
 gecisbakiyeyukle.xyz
+gecisbakyeyukleme.web.app
 gecisbayii.sg-host.com
 gecisbayisi.web.app
 gecisbildiri-websis.icu
@@ -156380,6 +156385,8 @@ mahhgsm.com
 mahhgsz.com
 mahkeme-dosya.com
 mahkemebelgearsivi.org
+mahkemeceza.com
+mahkemeceza.org
 mahkemecezasorgu.com
 mahkemedosyalari.org
 mahkemedosyalarim.org
@@ -156388,8 +156395,11 @@ mahkemekurum.org
 mahkemeler.pro
 mahkemelik.help
 mahkememaliye.org
+mahkemesicil.org
+mahkemesorgu.com
 mahkemesorgu.info
 mahkemesorgu.net
+mahkemesorgu.org
 mahkemesorgugov.org
 mahkemesorgulama.com
 mahkemesorgulama.net
@@ -234190,6 +234200,7 @@ vuferyophge.click
 vufyqa.asia
 vuhgatoi.com
 vuhgsci.rf.gd
+vuhgude-redesedere.lol
 vuhklideretese.lat
 vuhugesadesde.lat
 vuhugufutueurese.xyz

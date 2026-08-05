@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463061
-# Last change: 2026-08-05 09:58:52 UTC (sync mode: delta)
+# Records: 463079
+# Last change: 2026-08-05 12:19:08 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8957,6 +8957,7 @@
 2144444888999099.xyz
 21451215251251252.com
 21455452222255899891.duckdns.org
+21455452222255899892.duckdns.org
 21461sndmsndsasd.com
 21499782132964.net
 215.alcrof.net
@@ -99044,7 +99045,10 @@ cezaligecisislemlerin.in
 cezaligecisler.in
 cezaligecisler.info
 cezaligecislerin.info
+cezamahkeme.com
+cezamahkeme.org
 cezamahkemelerim.org
+cezamahkemelerin.org
 cezamahkemesi.com
 cezamahkemesi.net
 cezamaliyeburosu.com
@@ -175999,6 +176003,7 @@ gecisbakiycis.lat
 gecisbakiyebayi.firebaseapp.com
 gecisbakiyeyukle.xyz
 gecisbakiyukleme.web.app
+gecisbakyeyukleme.web.app
 gecisbayii.sg-host.com
 gecisbayisi.web.app
 gecisbildiri-websis.icu
@@ -207800,6 +207805,7 @@ hizlifaturamode.com
 hizlifaturaode.com
 hizlifaturaode.com.tr
 hizlifilolar.com
+hizlifinansyeriniz.xyz
 hizlifirsat-acikdenizv2denizbank.com
 hizlifirsatgunleri.shop
 hizlifirsatkapinda.com
@@ -231433,6 +231439,7 @@ istanbulbizim.click
 istanbulbizim.lol
 istanbulbizim.mom
 istanbulbizim.sbs
+istanbulbizim.uk
 istanbulbizim.xyz
 istanbulbizim3434.xyz
 istanbulbizimba.xyz
@@ -269620,6 +269627,8 @@ mahkeme-dosya.com
 mahkemeasliye.org
 mahkemebelgearsivi.org
 mahkemebirim.org
+mahkemeceza.com
+mahkemeceza.org
 mahkemecezam.com
 mahkemecezasorgu.com
 mahkemedosya.org
@@ -269631,8 +269640,11 @@ mahkemeler.pro
 mahkemelerim.org
 mahkemelik.help
 mahkememaliye.org
+mahkemesicil.org
+mahkemesorgu.com
 mahkemesorgu.info
 mahkemesorgu.net
+mahkemesorgu.org
 mahkemesorgugov.org
 mahkemesorgula.org
 mahkemesorgulama.com
@@ -299056,6 +299068,7 @@ obilet-indirimli.com
 obilet-kampanya.com
 obilet-kampanya.org
 obilet-kampanya.uk
+obilet-mobil.uk
 obilet-online.com
 obilet-tr.com
 obilet-tr.uk
@@ -304964,6 +304977,7 @@ onlinedial.net
 onlinedietslimm.xyz
 onlinedigitaal.duckdns.org
 onlinedijitalreklarnenulerirmtr.space
+onlinedinamik.com
 onlinednzv2krediniz.co.vu
 onlinedogrulama.com
 onlinedolap.app
@@ -343827,6 +343841,7 @@ rocuf.com
 rocxnrxwvqmtsq.info
 rodaxabedrnfy.life
 roddddybdrydln.shop
+roddddybdrydlnnn.shop
 rode.hopto.org
 rodfilokiralama.com
 rodformi.run
@@ -352122,6 +352137,7 @@ sahrr21.zapto.org
 sahsibilgilendirme.com
 sahtediploma.com
 sahtediploma24.com
+sahtediplomam.com
 sahteehliyet.com
 sahteyuz.gq
 sahtik.sbs
@@ -375007,6 +375023,7 @@ srsxmr.123unlock.nl
 srszfrsstknmpylrrbzlrli.com
 srszfrsstknmpylrrbzlrli.online
 srszkmnpyllrkcrmbzlrle.com
+srt.kizlarburada.click
 srta95l9.duckdns.org
 srtgtvbyqy.duckdns.org
 srttewqrsaqrwqnixsqmanlik.blogspot.com
@@ -424218,6 +424235,7 @@ vufyqa.asia
 vugca.cn
 vuhgatoi.com
 vuhgsci.rf.gd
+vuhgude-redesedere.lol
 vuhhtlylyl.duckdns.org
 vuhklideretese.lat
 vuhugesadesde.lat
