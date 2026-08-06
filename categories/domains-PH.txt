@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98796
-# Last change: 2026-08-06 10:01:33 UTC (sync mode: delta)
+# Records: 98804
+# Last change: 2026-08-06 12:20:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -46528,6 +46528,7 @@ istanbulbelbim.vercel.app
 istanbulbelbimdesin.vercel.app
 istanbulbelggim.xyz
 istanbulbelgiimmmcann.xyz
+istanbulbelgim.uk
 istanbulbelgim.xyz
 istanbulbelgimkarttt.xyz
 istanbulbelgimkartttcann.xyz
@@ -46650,6 +46651,7 @@ istanbullkart34bakiyeyukleme.tk
 istanbullkartli-bakiye-dolum.com
 istanbullkartt.com
 istanbullkartv.blogspot.com
+istanbulllbelgimmkart.com
 istanbulllcannkarrtt.xyz
 istanbulllyuklex.net
 istanbullolunn.com
@@ -46695,6 +46697,7 @@ istanbulyorum.info
 istanbulyuklemexsfs.com
 istanbulyuklesen.net
 istanbuulktttc.shop
+istanbuulonlinebelgem.uk
 istanbuxlxllllkxrttt.net
 istancansancan.xyz
 istancbellxr.net
@@ -62261,6 +62264,7 @@ online-tr-mobil.mooo.com
 online-tr-shop-mobil.site
 online-tr.sa.com
 online-tracking-status.hymnfork.com
+online-tuv.com
 online-urun.com
 online-urun.com.tr
 online-urunun.com.tr
@@ -74107,6 +74111,7 @@ sanzumanigcsakn.net
 saotykaso.xyz
 sapancarosebungalov.net
 sapaos.shop
+sapdfsaodfsadl.online
 sapmleregsrlvaton-clonf.com
 sapphirebloom.site
 sapphireeskeysolutions.com
@@ -81136,6 +81141,7 @@ svsguvende.online
 svspspadspsos.click
 svt-n.pro
 svtergh-shtpl-mntek-rtees.rest
+sw.sayatatata.cyou
 swa-gardw.app
 swaappeament.top
 swahilispirit.com
@@ -82619,6 +82625,7 @@ tcinfaz.net
 tckhkvytgoldpointpuanfirsat.com
 tckiadesayfasi.com
 tckk.app
+tcksorgu.org
 tckuzlasma.org
 tcmahkeme.net
 tcmalisorgu.org
@@ -84440,6 +84447,7 @@ tkg-edvtap-randv.org
 tkg-edvtap-randvv.org
 tkg-edvtapko.org
 tkg-edvtapkonrandv.org
+tkg-edvtepkonv.org
 tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info

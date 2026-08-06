@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256794
-# Last change: 2026-08-06 10:01:33 UTC (sync mode: delta)
+# Records: 256813
+# Last change: 2026-08-06 12:20:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -5167,6 +5167,7 @@
 21451215251251252.com
 21455452222255899892.duckdns.org
 21455452222255899893.duckdns.org
+21455452222255899896.duckdns.org
 21499782132964.net
 215.alcrof.net
 2152152159219.shop
@@ -21623,6 +21624,8 @@ akmhgsm.com
 akmhgss.com
 akmobiildestek.co.vu
 akmobil-bireysel-com.duckdns.org
+akmobil-ceptebasvuru-ekrani-com.duckdns.org
+akmobil-cepteislemler-ekrani-com.webredirect.org
 akmobil-kredimcebimde.duckdns.org
 akmobil-onlineislem-guncel-ekran.duckdns.org
 akmobil-onlineislemler-com.duckdns.org
@@ -37105,6 +37108,7 @@ benz-rezervasyon.online
 benz-siparis.online
 benz-siparislerim.online
 benz-turkiyeleri.online
+benz2.turkey-benz.com
 benzbayi.online
 benzbayim.online
 benzbayiniz.online
@@ -69309,6 +69313,7 @@ diijiital-vakifbank-platform-com-tr.cf
 diijiital-vakifbank-platform-com-tr.ga
 diijiital-vakifbank-platform-com-tr.ml
 diijitaldenizkampanyasiv2.tk
+diji-bilgikampanya.sbs
 diji-is.blogspot.com
 diji-tal.net
 diji-tal.org
@@ -76843,6 +76848,7 @@ e-met-dev-hiz.org
 e-mevduatlarbasvuru-portal.tk
 e-meyiode.net
 e-mhrsdijitalmerkezl.digital
+e-mhrsilesagligakavuskos.digital
 e-mhrsilesaglikliyasamm.digital
 e-mhrsrandevumerkezi.digital
 e-mlzbsvrgirsonayhediye.com
@@ -76933,6 +76939,7 @@ e-nisandasigorta.xyz
 e-nisankarcahome.shop
 e-nuverqi.net
 e-nvii.digital
+e-nvirandevu.org
 e-nvislem.com
 e-nvislemi.com
 e-nvislemin.xyz
@@ -96687,7 +96694,9 @@ garanti-cepsube-katilim.com
 garanti-cepsube.com
 garanti-cepsube.tk
 garanti-cepsubem.com
+garanti-cepte-basvuru-com.webredirect.org
 garanti-cepte-basvuruekrani-com.webredirect.org
+garanti-cepte-islemler-com.webredirect.org
 garanti-cepte.com
 garanti-cliksponsorlu.cfd
 garanti-com-tr-20gbkampanyasi.cf
@@ -120462,6 +120471,7 @@ hizlibakiyeniz.best
 hizlibakiyeniz.xyz
 hizlibakiyenoktasi-hgsodemesistemi.xyz
 hizlibakiyeyukle.xyz
+hizlibakiyuklemehgss.web.app
 hizlibakkal.com
 hizlibaklkilelr.net
 hizlibakyerhsguzebur.online
@@ -151137,9 +151147,12 @@ kredi-basvur-online.sbs
 kredi-basvur-portal.sbs
 kredi-basvur.pages.dev
 kredi-basvuru-formu.ml
+kredi-basvuru-merkezi.cfd
+kredi-basvuru-merkezi.click
 kredi-basvuru-online-portal.sbs
 kredi-basvuru-online.cfd
 kredi-basvuru-online.lat
+kredi-basvuru-online.lol
 kredi-basvuru-online.sbs
 kredi-basvuru-portal.sbs
 kredi-basvuru.short.gy
@@ -151348,6 +151361,7 @@ kredibasvurunkuveytt-tr.com
 kredibasvuruonayla.com
 kredibasvuruonaymerkezi.live
 kredibasvuruonline.click
+kredibasvuruonline.lat
 kredibasvuruonline.sbs
 kredibasvuruportal.club
 kredibasvuruportali.lat
@@ -162476,6 +162490,7 @@ mobilsubeparibu-dogehediyebasvurusu-com.tk
 mobilsubeqnb-finans.com
 mobilsubesi-zireatbank.com
 mobilsubesi.com
+mobilsubesi.my-homeip.de
 mobilsubesii.com
 mobilsubesite.com
 mobilsubesitem.com
@@ -164629,6 +164644,7 @@ mujudujusuhu.site
 mujuhubi-bililide.lol
 mukaddes.app
 mukemmel-zamsiz-sezon-bitisine-yetis.com
+mukemmelbirbaslangicicinharikagunlerde.lat
 mukemmelbmwcekilisi.com
 mukemmelds6f.nicepage.io
 mukemmelfirsatlaraldinaldin.club
@@ -210214,6 +210230,7 @@ sube-mobildenizfirsathemenkredibasvur.click
 sube-mobildenizfirsathemenkredibasvur.site
 sube-mobildenizfirsathemenkredibasvur.space
 sube-mobilhediyedeniz.com
+sube-mobilkvyt.duckdns.org
 sube-mobill.com
 sube-online-bireysel.com
 sube-online-garantibbva.cekilisgunleri.com.tr
@@ -224497,6 +224514,7 @@ turkeportalgirisi.com
 turkesalim.net
 turkexpress.company
 turkey-bddk-iadeler.com
+turkey-benz.com
 turkey-copyright.ml
 turkey-e-kart-iade.net
 turkey-e-kart-iade.org
@@ -241941,6 +241959,7 @@ xemdorak.com
 xemlakimxodemem.net
 xemlakvergimxodmx.net
 xendora.xyz
+xenlatis.com
 xenodochial-easley.31-210-39-124.plesk.page
 xenzari.tr
 xerado.sbs
