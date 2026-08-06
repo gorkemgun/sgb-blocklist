@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98769
-# Last change: 2026-08-06 03:42:54 UTC (sync mode: delta)
+# Records: 98777
+# Last change: 2026-08-06 06:48:41 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1791,6 +1791,7 @@
 45641eb1.9du-flk.shop
 4566576544575463534.com.tr
 45754685678431.cloud
+4615265236523.xyz
 46164sdnsdsmsdnsds.com
 462423534543654.cloud
 46564234.net
@@ -25442,6 +25443,7 @@ dijitalbasvurm.site
 dijitalbasvuru-forumudeniztaha.tk
 dijitalbasvurugiris-denizacik.com
 dijitalbilgi-giris.sbs
+dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-sorgu.sbs
 dijitalbilgiform.sbs
 dijitalbilgilendirme.sbs
@@ -27598,6 +27600,7 @@ e-ilanlar.com.tr
 e-ilanverdim.cix-tr.com
 e-ilanverdim.com
 e-ilvlilikrdisial.net
+e-imza-sozlesme.com
 e-imza.org.tr
 e-infovergi.net
 e-intdvergi.net
@@ -32655,6 +32658,7 @@ filocunuzburada.com
 filodanaraciniz.com
 filofast.com.tr
 filohizmetlerin.online
+filojet.net
 filokampanyali.com.tr
 filokapi.com
 filokapida.com.tr
@@ -74443,6 +74447,7 @@ sckancalon.xyz
 scoala10gl.ro
 scohl.66ghz.com
 scolecoid.com
+scoopova.info
 scootkey.xyz
 scopecommoran.top
 scopecorrosion.top
@@ -86266,6 +86271,7 @@ trendyol-onlinemobil.com
 trendyol-sepetin.rugvnli.online
 trendyol-siparis.com.tr
 trendyol-siparistamamla.com
+trendyol-siparistamamla.online
 trendyol.alisveris-banaozel.com
 trendyol.alisveris-hizmet.com.tr
 trendyol.amaserve-vip.one
@@ -95616,6 +95622,7 @@ xn--asjdoasdjsadsda-blc.xyz
 xn--atakenthalkalvergi-q0c.net
 xn--atansghuz-ypb.xyz
 xn--avislekiralk-c5b.net
+xn--avs-kua.com
 xn--b1mcelltllyklemee-d3b.com
 xn--bademcigvenlik-nsb.online
 xn--bakiyenihesabnagecirtr-yld.net
@@ -96131,6 +96138,7 @@ xn--resmenbrdan-5zb.com
 xn--retlnpwqqwe-0tba50g.net
 xn--rwltpqwe-bgbbb27e.net
 xn--s-onlinedeme-cjb.com
+xn--s0kmarlktlr-8zb.com
 xn--sadamttier-eeb03b31aa.net
 xn--saendmithr-ieb92by1a.net
 xn--sahbinden-xpb.com.tr
