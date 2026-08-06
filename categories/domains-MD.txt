@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65441
-# Last change: 2026-08-04 10:00:29 UTC (sync mode: delta)
+# Records: 65457
+# Last change: 2026-08-06 10:01:33 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10357,6 +10357,7 @@ applecloud-id.com
 appledisk.ru
 appledns.ru
 appleerveapple.duckdns.org
+applefilevault.com
 applehost.ddns.net
 applehosts.ru
 appleib.com
@@ -10527,6 +10528,7 @@ appxmacos.com
 appynote-itsme24.duckdns.org
 apqnlkkbzx.duckdns.org
 aprhsesmha.com
+apricotfilepoint.com
 aprijs7250.duckdns.org
 aprilxrwo8450.duckdns.org
 aprilxrwonew8450.duckdns.org
@@ -12050,6 +12052,7 @@ banadouraa.zapto.org
 banage.live
 banana.dp.ua
 banana88.net
+bananafastfile.com
 bananahost5.ddns.net
 banananews.pk
 bananasquad.ru
@@ -16707,6 +16710,7 @@ cloudcontentsmak.com
 clouddoma.hopto.org
 cloudeadmin.com
 cloudf1are.com
+cloudfilebridge.com
 cloudflare-analyse.com
 cloudflare-analyse.xyz
 cloudflare-api.com
@@ -24089,8 +24093,11 @@ filebinna.duckdns.org
 filebrowserapp.com
 filebucket.duckdns.org
 filecache.ml
+filecedarwallet.online
 filecoinwallet.net
 filecontract.hopto.org
+filecopperbasket.sbs
+filecrimsonsignal.online
 filedocs.hopto.org
 filedownloaderservers.com
 filedwnld.top
@@ -24098,7 +24105,10 @@ fileetnmilka.com
 filefactory.online
 filejurere23.hopto.org
 filekarlmilkkm.com
+filemarblegarden.sbs
 fileneopolo.online
+fileoceanhammer.sbs
+filerubyfolder.sbs
 files.ug
 files5adobek.ddns.net
 filesaccess.hopto.org
@@ -24124,6 +24134,7 @@ filesview.ddns.net
 filesxsharex.ddns.net
 filetosend-upload.net
 filev2.getsession.org
+filevelvettractor.sbs
 fileview.ddns.net
 fileview1.ddns.net
 filexsharex.ddns.net
@@ -35024,6 +35035,7 @@ lele.zapto.org
 lelinasta.pw
 lemayojo.zapto.org
 lembu.zapto.org
+lemonfilewave.com
 lemonupdate.ddns.net
 lenda.info
 lenda.zapto.org
@@ -35268,6 +35280,7 @@ lilrh8ok.duckdns.org
 lilupophilupop.com
 lilyfdj.duckdns.org
 limakan.hopto.org
+limefilescope.com
 limitationverifyscurepage2075.duckdns.org
 limitauthnet.hopto.org
 limiteaccount-resolutioncenter.com
@@ -36893,6 +36906,7 @@ mangeddnsserver.ddns.net
 mangesfu-accountsbingfosecure.duckdns.org
 manggaleso.duckdns.org
 mango77usr.urlredirect.net
+mangocloudfile.com
 mangogroup.sale
 mangohills.net
 maniac.zapto.org
@@ -43083,6 +43097,7 @@ orangekeysbonus.com
 orangemultimedia.in
 orangesd.zapto.org
 orangeserviceclient.hopto.org
+orangesmartfile.com
 orangewebmail.ddns.net
 orangfr.zapto.org
 orangfre.zapto.org
@@ -53995,6 +54010,7 @@ symigkyqyyea.com
 symoty.com
 syn1112223334445556667778889990.org
 sync.zapto.org
+syncdatavault.com
 syncheaven.online
 synchro-service.com
 synclayershop.co

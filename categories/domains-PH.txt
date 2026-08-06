@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98777
-# Last change: 2026-08-06 06:48:41 UTC (sync mode: delta)
+# Records: 98796
+# Last change: 2026-08-06 10:01:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4628,6 +4628,7 @@ ads.msicrosoft.com
 ads.pageverifybusiness.cfd
 ads.store
 adsaara.sbs
+adsadburadanhemenalve.digital
 adsadburadanhemenalvesa.digital
 adsbusinesscampaingscoupons.com
 adsclick.me
@@ -11809,6 +11810,7 @@ benkullandim.club
 benleonardlagarde.com
 benmevim.weebly.com
 benmisimsdwe.net
+bensanahemengelddm.shop
 bensbdwesdwe.net
 bensendetutuklukaldim.xyz
 benseninlemutluyum.online
@@ -19640,6 +19642,7 @@ comeleg.top
 comelimb.top
 comelogistic.top
 comencemob.tk
+comeonbbyalbrdan.shop
 cometcorelatve.top
 cometrait.top
 comfirmation-id42378.com
@@ -22997,6 +23000,7 @@ cvoksc4b1kc4b1nkafamkarskson.art
 cvs32sx.click
 cvsbn14-vnblassawkspacket.com
 cvvbcvbcvxcvxcv.sbs
+cw.xxxxxxxxx111111.xyz
 cw63895.tmweb.ru
 cw7bftj3ix.storage.googleapis.com
 cwexfyog.ujxswqvf.get-ilan-guvenli-odeme-sahibinden.com
@@ -25445,6 +25449,7 @@ dijitalbasvurugiris-denizacik.com
 dijitalbilgi-giris.sbs
 dijitalbilgi-giriskampanya.sbs
 dijitalbilgi-sorgu.sbs
+dijitalbilgi-sorguislem.sbs
 dijitalbilgiform.sbs
 dijitalbilgilendirme.sbs
 dijitalbilgilendirmeler.xyz
@@ -25485,6 +25490,7 @@ dijitalgib.com
 dijitalgiris-com.cf
 dijitalgiris-denizacik.com
 dijitalgiris-isbankinternet.com
+dijitalgiris-netbilgi.sbs
 dijitalgiris-webdenizacik.com
 dijitalgiris-ziraatbireysel.com
 dijitalgirisgarantionline.com
@@ -27673,6 +27679,7 @@ e-netgsm.online
 e-netode.net
 e-news.club
 e-nvcrmsbnszns.blogspot.com
+e-nvirandevu.com
 e-nvislemin.com
 e-nvycrsmblr.net
 e-ode.com.tr
@@ -34336,6 +34343,7 @@ frozzenpath.top
 frpieocoa.xyz
 frracb.top
 frrstlrrkmnyaabsvrrr25479123.info
+frrstlrrkmnyaabsvrrr25479123.pro
 frsat-katalog.com
 frsataks-bgn.cfd
 frsatbyesa55.com
@@ -40623,6 +40631,7 @@ herselfdestine.top
 herseuxshop.info
 hersey2023iadelericin1.net
 herseybbvaicin.net
+herseybrdanalrn.shop
 herseyhalkimiziicin.sbs
 herseyhasd.com
 herseyhasd.net
@@ -41322,6 +41331,7 @@ hizli-f-923-a-101.shop
 hizli-geri-yukleme-ekrani.store
 hizli-hemengelsinaktivasyonkvyt.click
 hizli-hemengelsinaktivasyonkvyt.space
+hizli-ilan-fast.com
 hizli-ilan-odemesi.com
 hizli-ilan.com
 hizli-islem-merkezi.com
@@ -42923,6 +42933,7 @@ hzxlindirimkacrma.online
 hzzlgcs.com
 i-acikbaharv2denizbank.online
 i-ade.de
+i-braun.com
 i-haber.org
 i-hemenacikbasvurbireysel100yildeniz.com
 i-hemenacikbasvurbireysel100yildeniz.xyz
@@ -50271,6 +50282,7 @@ kizilay.misecure.com
 kizilaybagis.com
 kizilaymenkul.com
 kizimbenmatmazel.net
+kizlarburada.click
 kizlarburada.sbs
 kizlarsoruyo.store
 kizlarvi.com
@@ -58180,6 +58192,7 @@ muayenearacim.com
 muayenehizmetleri.com.tr
 muayenehizmetleri.xyz
 muayeneliaracim.net
+muayenenyaninda.com
 muayenerandevu.online
 muayenerandevuistasyonlari.com
 muayenerandevusistemi.com
@@ -61738,6 +61751,7 @@ ogkghw.top
 ogknkt.top
 oglnreklmsvktmxs.net
 ogm2.volkanbiyikli.com
+ogodkekflkks.click
 ogor5xyj.one
 ogrencibil.sbs
 ogrencibursu.com
@@ -63325,6 +63339,7 @@ otonom-dailyblog.info
 otoplus-arac.com
 otoplusaracal.com
 otoplusaracim.com
+otoplusaraclar.com
 otopluss.site
 otorentacartr.com
 otorentmax.online
@@ -72472,6 +72487,7 @@ s0kmarkeltler.shop
 s0kmarklemler.com
 s0kmarkletmer.shop
 s0kmarklkerler.com
+s0kmarkmetler.com
 s0kmarkot.shop
 s0kmarkretler.com
 s0kmarkretlero.com
@@ -77684,6 +77700,7 @@ snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
 snde-hmnbasvrkmpnyasinagl.com
 sndebndangyrotegdmez.shop
+sndebrdanbnlaral.shop
 sndebuguneozelkatilhemen.tech
 sndebunlaraglmban.com
 sndehmngelal.com
@@ -87677,6 +87694,7 @@ turkiye-sigorta.com
 turkiye-simdi.pro
 turkiye-web-giris.net
 turkiye.com.se
+turkiye.gov.1pgw.com
 turkiye.gov.clskl.com
 turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page
 turkiye.gov.tr.haziranayi.77-83-201-133.plesk.page
@@ -94846,6 +94864,7 @@ ws-global.online
 ws-gtg.com
 ws.182iletisim.cyou
 wsaa.1trbakar.com
+wsb-tapsverndvun.info
 wsb-tapsverndvun.net
 wsbank.co
 wsghbb.help
