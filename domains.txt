@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463168
-# Last change: 2026-08-05 23:19:48 UTC (sync mode: full)
+# Records: 463170
+# Last change: 2026-08-06 03:42:54 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -32624,6 +32624,7 @@ ads.store
 ads.teleryanhart.com
 ads.wcond.site
 adsaara.sbs
+adsadburadanhemenalvesa.digital
 adsaddasddasdasds.sbs
 adsadsa45.app
 adsadsadsads.duckdns.org
@@ -336819,6 +336820,7 @@ rafa3cajkcdaskx1x3213x.cfd
 rafa3ck123kjx1kj23x13123132.cfd
 rafa3csdackllk1kl3x123.cfd
 rafa4aksdjjkx123x12.cfd
+rafa4dkjacjkdcakdx23.cfd
 rafa5cjkadscasdjxk13x123.cfd
 rafa9911klasdkajx123x123.sbs
 rafaasjck1k2j31x2sadcas.cfd
