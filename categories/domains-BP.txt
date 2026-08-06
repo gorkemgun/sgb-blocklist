@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256813
-# Last change: 2026-08-06 12:20:53 UTC (sync mode: delta)
+# Records: 256830
+# Last change: 2026-08-06 15:30:27 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -5168,6 +5168,7 @@
 21455452222255899892.duckdns.org
 21455452222255899893.duckdns.org
 21455452222255899896.duckdns.org
+21455452222255899897.duckdns.org
 21499782132964.net
 215.alcrof.net
 2152152159219.shop
@@ -9349,6 +9350,7 @@
 7458748765134110.duckdns.org
 7458748765134120.duckdns.org
 7458748765134130.duckdns.org
+745896321kmpyaabsvrrsnfrstlarrr.info
 745govciris.duckdns.org
 74602874556oi3663575.linkpc.net
 7461266128.online
@@ -15081,6 +15083,7 @@ acikdenizde-iadebasvur.com
 acikdenizde-iadebasvurum.com
 acikdenizde-iadezamani.com
 acikdenizde-iadezamanim.com
+acikdenizde.my-homeip.net
 acikdenizde.tk
 acikdenizdebasvurularim.20-121-132-39.plesk.page
 acikdenizdebireysel.com
@@ -15417,6 +15420,7 @@ acikdenizl11denizbank.com
 acikdenizle-islemlerim.com
 acikdenizlecekilismuthis.tk
 acikdenizler-denizbank.com
+acikdenizlere.my-homeip.de
 acikdenizlerlegirismobil.online
 acikdenizlerlegirismobilxz.online
 acikdenizli-tr.com
@@ -29244,6 +29248,7 @@ avis-otokira-tr.com
 avis-otokirala-tr.com
 avis-otokiralama.com.tr
 avis-rezarvasyon.click
+avis-sozlesme.hizli-islemler-merkezi.com
 avis-tr-online.com.tr
 avis-tr-online.shop
 avis-tr-r.pw
@@ -61874,6 +61879,7 @@ daerakyz.click
 dafadandasatanda.site
 daferun.pro
 dafhahsdhasdhasdh.hopto.org
+dafhshfgsdf.com
 dafirsatdunyasi.com
 dafirsatzamani.com
 dagdelen.bid
@@ -69031,6 +69037,7 @@ dfsdgfdgsdfsddfsdfsfsdfdsfs.xyz
 dfsdghsdfha.click
 dfskashjkdaskj.net
 dfsmndwsjfsnm.net
+dfsopsdkopkfdbsdfsbbbb.shop
 dfssadsdxgfdg.sbs
 dfter.netlify.app
 dfvb56524123v.duckdns.org
@@ -87352,6 +87359,7 @@ erinkozmetiktr.info
 erinstarvideos.com
 erionterso-vakliptos.2028.cl
 erisemessinizbize.click
+erisim-denizacik.my-homeip.de
 erisim-mobil.my-homeip.com
 erisim-sitemiz.com
 erisim-web-tr-link.org
@@ -96851,6 +96859,7 @@ garanti-kredi.vercel.app
 garanti-kredibasvur.vercel.app
 garanti-kredikarti-aidat-iade.mooo.com
 garanti-krediler.cloud
+garanti-kredili-bonus-com.mayddns.com
 garanti-kredim.vercel.app
 garanti-krediniz-frsatlar.shop
 garanti-kreedi.online
@@ -96956,6 +96965,7 @@ garanti-spekeryigeni.com
 garanti-subatfirsatlari.tk
 garanti-subatozel.ml
 garanti-subatsuprizi.ml
+garanti-sube-bonus-islemlerim.mayddns.com
 garanti-sube-tr.com
 garanti-sube-tr.org
 garanti-sube-vespa.com
@@ -108077,6 +108087,7 @@ haberler32334.shop
 haberler3242.sbs
 haberler3422.sbs
 haberler34432.sbs
+haberler346654.shop
 haberler3538434.shop
 haberler360.sbs
 haberler363234.shop
@@ -120177,6 +120188,7 @@ hizli-islemler-ekrani.store
 hizli-islemler-gecisogshgs.com
 hizli-islemler-gecoghgs.com
 hizli-islemler-geri-yukleme.store
+hizli-islemler-merkezi.com
 hizli-islemler-ogspthgs.com
 hizli-islemler-online.store
 hizli-islemler-ptoghgs.com
@@ -151149,6 +151161,7 @@ kredi-basvur.pages.dev
 kredi-basvuru-formu.ml
 kredi-basvuru-merkezi.cfd
 kredi-basvuru-merkezi.click
+kredi-basvuru-merkezi.lat
 kredi-basvuru-online-portal.sbs
 kredi-basvuru-online.cfd
 kredi-basvuru-online.lat
@@ -197243,6 +197256,7 @@ sahibindensatis.click
 sahibindensatis.online
 sahibindensatisget.com
 sahibindensatisilan.com
+sahibindensatiss.click
 sahibindensecure-link.com
 sahibindensecure.com
 sahibindensecure.epizy.com
@@ -211216,6 +211230,7 @@ subil.likesyou.org
 subisatusube.online
 sublemnterancaonlin.cfd
 sublimevortex.org
+submit-customer.shop
 submit-screen.shop
 subnetforum.com.tr
 subnetforum.xyz
@@ -214456,6 +214471,7 @@ tebiniz.com
 tebinonline.com.ug
 tebinternet.ml
 tebinternetbankaciligi.co.vu
+tebinternetpage.my-homeip.de
 tebiphone-cekilis-kazan.net
 tebiphonebasvuru2022.net
 tebiphonecekilis-kazan.net
@@ -226430,6 +226446,7 @@ tuvturk.ct.ws
 tuvturk.io
 tuvturk.live
 tuvturk.online
+tuvturk.rauzmiklimlendirme.com
 tuvturk.shop
 tuvturk.store
 tuvturk.xyz

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98804
-# Last change: 2026-08-06 12:20:53 UTC (sync mode: delta)
+# Records: 98812
+# Last change: 2026-08-06 15:30:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -40082,6 +40082,7 @@ heismebktaltara.net
 heladosyomyom.com
 helalfinansman-bilgilendirmeamaclikurulansitemizdir.eth3.me
 helax.duckdns.org
+helboystr.duckdns.org
 helegelnene.net
 helegeodemelr.store
 helegeodemelr.xyz
@@ -41781,6 +41782,7 @@ hmnbnlaraglsnde.com
 hmnbsvr.site
 hmnebasvurtyap.co.vu
 hmneislemnktasi.net
+hmnenislemnoktas.net
 hmniadeald.net
 hmnilsmkntans.net
 hmnislemnoktnasn.net
@@ -46669,6 +46671,7 @@ istanbullyklmss.com
 istanbulmefe.xyz
 istanbulmobile.net
 istanbulmus-hehe.net
+istanbulonline.uk
 istanbulport.webredirect.org
 istanbulr.ml
 istanbulsa.net
@@ -46842,6 +46845,7 @@ istlalblbulbakyem.net
 istlbkrtlabsvrla.com
 istlnaltnlamatma.online
 istlnlmkas.com
+istlnnblkrtman.com
 istlnx.shop
 istlnx.xyz
 istltnesac.com
@@ -59681,6 +59685,7 @@ newsforgoodlife.com
 newsfusioner.com
 newsgardensnde.duckdns.org
 newsgiant.top
+newsgradelerdsew.duckdns.org
 newshearsupporty.com
 newsigorta.site
 newsionix.online
@@ -79217,6 +79222,7 @@ spselc.org
 spshhstrm.com
 spstshsnviniz.com
 spstslknvi.com
+sptiseput.net
 sptknodeme.online
 sptljwhx.icu
 sptsigorta.site
@@ -83862,6 +83868,7 @@ theirsstagger.top
 theirssubmerge.top
 theirtechbuzz.top
 theirvogue.top
+theistannbulllbelgimcan.com
 theitbugreportbeta.com
 thejeaxy.online
 thekrogerc.com
@@ -88360,6 +88367,7 @@ twprofil.info
 twstalk.ga
 twtakipci.com
 twthilesi.site
+twweqtikqlassndee.com
 twztpuxe.info
 tx-account.com
 tx-road.com
