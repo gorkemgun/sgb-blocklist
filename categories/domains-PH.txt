@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98954
-# Last change: 2026-08-07 18:05:06 UTC (sync mode: delta)
+# Records: 98961
+# Last change: 2026-08-07 19:18:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -51176,6 +51176,7 @@ kredi-acikdenizhemenmobildenonayla.space
 kredi-acikdenizsubesizalimmobilde.space
 kredi-atolyesi.online
 kredi-basvuru-merkezi.ooguy.com
+kredi-basvuru-merkezi.quest
 kredi-basvuru-online.click
 kredi-basvuru-online.club
 kredi-basvuru-online.rest
@@ -54038,6 +54039,7 @@ magazafirsatingeldi.com
 magazafirsatlari.com
 magazafirsatlarinizgeldi.com
 magazahizmetlerinoktasi.com
+magazaindirimi.com
 magazakampanyalari.site
 magazalarimiz.com
 magazalarimiz.com.tr
@@ -60090,6 +60092,7 @@ nisdeh.top
 nissaann-ozl.net
 nissandaki-kmpnylr.com
 nitalastarakalatacamataleritabakamaladures.net
+nitelik-vasif.ink
 nitelikleriniz.online
 nitrogenbureaucracy.top
 nitrogencollide.top
@@ -69801,6 +69804,7 @@ rafabuilders.com
 rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
 rafael13jxk12kjxkaskdas.cfd
+rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
 rafalardakiindiirmhavasiburadaesiyor.com.tr
 rafata3131acsldjcklk1j3x12.cfd
@@ -79843,6 +79847,7 @@ stardustcascade.org
 starecalcium.top
 staredtrazorrio.webflow.io
 staremerhadise.top
+starffdshsvsdd.com
 starfootballl.com
 starforgewars.com
 starghotelpremium.world
@@ -81972,6 +81977,7 @@ taahhut.online
 taapulbasvuru.net
 taas.mobilenow-05portal.platform.aws.coinbase-com.info
 taatas.com
+tabble.site
 tabburandab.net
 tabiklimagicinizden.xyz
 tabilenn.site
@@ -87203,6 +87209,7 @@ truktuvrndvu.blogspot.com
 truktuvrndvu.com
 trulyfraudulent.top
 trumore.org
+trumoresiparis.com
 trumpertonster.icu
 trumpetdevastation.top
 trumpetversatile.top
