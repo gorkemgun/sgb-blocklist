@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98923
-# Last change: 2026-08-07 11:59:49 UTC (sync mode: delta)
+# Records: 98928
+# Last change: 2026-08-07 13:41:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -44979,6 +44979,7 @@ indirimsepetii.com
 indirimsepetinde.com
 indirimsizcikmayin.xyz
 indirimsonaralikkacirma.com
+indirimsonfrsttxx.duckdns.org
 indirimsubatortalari.cfd
 indirimvakti101.online
 indirism-firssat-kampasnya-haftsasi-tusm-hsafta-boysunca757.aktulefirsatin.net
@@ -64535,6 +64536,7 @@ paribu-hediyelicekilisi.com
 paribu-net-giris.site
 paribu-net-giris.website
 paribu-net-giris.xyz
+paribu-pepe-cekilis.com
 paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
@@ -72840,6 +72842,7 @@ safevault-coinbase.com
 safewallet-coinbase.com
 saflapfsalfsafksamfsmak.com.tr
 safsadfslal230sladsa.net
+safsaqwrcs.sbs
 safsazasxsawqrwq.app
 safsevza20145.wordpress.com
 safteks.top
@@ -72984,6 +72987,7 @@ sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
 sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
+sahibinden-get.mobilservisleriniz-16.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
@@ -85126,6 +85130,7 @@ tomatopartition.top
 tomatoprob.top
 tomatorecurrence.top
 tombankasi101.click
+tombankhadi.com
 tombankhaydi.icu
 tombankozels.sbs
 tomdx.com
