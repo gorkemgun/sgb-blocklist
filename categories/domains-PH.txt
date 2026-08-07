@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98873
-# Last change: 2026-08-07 07:44:52 UTC (sync mode: delta)
+# Records: 98916
+# Last change: 2026-08-07 09:17:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5561,6 +5561,7 @@ aktifbnonlinetr.com
 aktifduyuruprbtr.com
 aktifgirisbnca.com
 aktifgirisbnncetr.com
+aktifgirisparibu.xyz
 aktifgirisprburesmi.com
 aktifgiristrbncse.com
 aktifgiristrbnncs.com
@@ -7491,6 +7492,7 @@ araacsigorta.site
 araaracmuayene.com
 araaskargo.com
 arab-tupras-islamictrading.com
+araba--paribu.com
 araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
@@ -8122,6 +8124,7 @@ arguscheck.myddns.me
 arhamilton.com
 arhatship.com
 aria-tickets.ru
+aribu.dev
 aricente.com
 aridgena.com
 aridgenix.com
@@ -17468,6 +17471,7 @@ cekilisgiris.net
 cekilisgunu.com.tr
 cekilishizli-acikdenizv2denizbank.online
 cekilisi--paribu.com
+cekilisi-paribu.co
 cekilisi-paribu.com
 cekilisimekatilhmnodyulunualtooapparently.net
 cekilisimizekatil.tk
@@ -25413,6 +25417,7 @@ diijiital-isbank-platform-com-tr.cf
 diijiital-vakifbank-platform-com-tr.tk
 diiveindulge.top
 dij-ital.store
+diji-siparis.sbs
 dijicuucey.com
 dijiitallgarantibasvuru.com
 dijital-birlik.org
@@ -27687,6 +27692,7 @@ e-netgsm.online
 e-netode.net
 e-news.club
 e-nvcrmsbnszns.blogspot.com
+e-nviirandevu.com
 e-nvirandevu.com
 e-nvislemin.com
 e-nvycrsmblr.net
@@ -63999,6 +64005,7 @@ pagi.top
 pagina-secureappleid.com
 pagmiliia.top
 pagnebleedwhite.space
+paibu.cn
 painautonomous.top
 painfuldeducible.top
 painfuldiscern.top
@@ -64439,6 +64446,7 @@ parcelfraudulent.top
 parcelthrone.top
 parchamalzahra.ir
 pardonnight.top
+parebu.click
 parenceo.net
 parentalincorporation.top
 parentarye.top
@@ -64489,6 +64497,7 @@ paribu--cekilis.com
 paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
+paribu-araba-cekilisi.com
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazan.com
@@ -64499,14 +64508,17 @@ paribu-arababurada.link
 paribu-arabacekilisi.com
 paribu-arabahediye.com
 paribu-arabakazan.com
+paribu-arabakazanma.info
 paribu-arabakazanma.link
 paribu-arabasansi.com
 paribu-arabasansi.info
 paribu-basvurular.com
 paribu-buyukcekilisi.com
+paribu-cark-hediye.com
 paribu-carkcekilisi.com
 paribu-cekilisi.com
 paribu-cekilisleri.com
+paribu-cevirkazan.com
 paribu-com-hediyebasvuru.ml
 paribu-com.biz
 paribu-com.club
@@ -64517,6 +64529,7 @@ paribu-giris.com
 paribu-giris.net
 paribu-giris.online
 paribu-hediyelicark.com
+paribu-hediyelicekilisi.com
 paribu-net-giris.site
 paribu-net-giris.website
 paribu-net-giris.xyz
@@ -64524,6 +64537,11 @@ paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.remotewire.net
+paribu-pepehediyem.com
+paribu-pepehediyem.info
+paribu-pepehediyesi.com
+paribu-pepehediyesi.info
+paribu-pepehediyesi.link
 paribu-sistem.com
 paribu-sogukdepo.com
 paribu-technology.com
@@ -64537,6 +64555,7 @@ paribu.borsahediyeleriii.com
 paribu.boxcoinhediyesi.com
 paribu.cc
 paribu.cepsubem.com.tr
+paribu.coin-secimi.com
 paribu.com.commercialspecialist.com
 paribu.dabmwfirsati.com
 paribu.dacazipfirsatlar.digital
@@ -64544,6 +64563,7 @@ paribu.dacazipfirsatlar.xyz
 paribu.dafirsatdunyasi.com
 paribu.dankacmazfirsat.com
 paribu.daseninsansligunun.com
+paribu.de
 paribu.dijitalramazanda.com
 paribu.fun
 paribu.gq
@@ -64556,13 +64576,16 @@ paribu.kampanyalistesi.com
 paribu.kampanyamerkezi2022.com
 paribu.mukemmelbmwcekilisi.com
 paribu.muthiscekilislerbasladi.com
+paribu.ninjabotai.app
 paribu.nunencazipfirsati.com
 paribu.nuneniyikampanyasi.com
 paribu.ramazanhediyeleri.com
 paribu.sansligunfirsatlari.com
 paribu.ssl.securityy.fa2.com
 paribu.top
+paribu.trade
 paribu.tryediyelerii.xyz
+paribu1.eu
 paribu1.net
 paribu1.org
 paribu2.cc
@@ -64579,7 +64602,12 @@ paribuairdrop.tk
 paribuaraba-burada.com
 paribuaraba-burada.link
 paribuaraba-hediye.com
+paribuaraba-kazanci.com
+paribuaraba-kazanci.info
+paribuaraba-kazanci.link
 paribuaraba-kazanma.com
+paribuaraba-kazanma.info
+paribuaraba-kazanma.link
 paribuaraba-sansi.com
 paribuaraba-sansi.info
 paribuaraba-sansi.link
@@ -64652,10 +64680,16 @@ paribubuyukcekilisi.com
 paribucark-burada.com
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-hediyesi.com
 paribucark-kazan.com
+paribucark-kazanci.com
+paribucark-kazanci.info
 paribucark-kazanci.link
 paribucark-oyna.com
+paribucark-oyna.info
+paribucark-oyna.link
 paribucark.com
+paribucarkhediye.com
 paribucarkicevir.com
 paribucarkicevirkazan.com
 paribucarkkampanyasi.com
@@ -64743,8 +64777,15 @@ paribuotokampanya.com
 paribupepe-cekilisim.com
 paribupepe-cekilisin.com
 paribupepe-hediyem.com
+paribupepe-hediyem.info
 paribupepe-hediyen.com
+paribupepe-hediyen.info
+paribupepe-hediyesi.com
+paribupepe-hediyesi.info
 paribupepe-hediyesi.link
+paribupepehediyem.com
+paribupepehediyem.info
+paribupepehediyem.link
 paribupresidentmyjoy-com.ml
 paribur.com
 paribusalhizmetler.co.vu
@@ -64754,6 +64795,7 @@ paribusdtrek-kazan.ml
 paribusistemi.com
 paribusizinle.com
 paribusizlerle.com
+paribustock.org
 paribustransfergunleri.co.vu
 paribusupertokengirisleri.co.vu
 paributokkenshediye.cf
@@ -67326,6 +67368,7 @@ primenode.live
 primesourcehomes.com
 primetimeessentials.com
 primetrendwave.com
+primexly.com
 primitivebuffalo.top
 primkontrol.com
 princebarren.top

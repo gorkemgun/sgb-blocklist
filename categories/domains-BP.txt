@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256850
-# Last change: 2026-08-07 07:44:52 UTC (sync mode: delta)
+# Records: 256856
+# Last change: 2026-08-07 09:17:32 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -62588,6 +62588,7 @@ degisen-kimse-yok-bak-gizli-gor.com
 degisenler-biraz-farkeder-sende-gul-diye.com
 degisik-hislere-yonelen-hep-kazancli-olur.com
 degisikligi.com
+degisiklik-hakkinda.ink
 degisime-onay-verenler-bir-kere-daha-kazanir.com
 degisimebasla.name.tr
 degisimyildizi.info
@@ -67805,6 +67806,7 @@ destek-hizmetler-kart-iade-basvuru-sayfasi.xyz
 destek-hizmetler.icu
 destek-iade.com
 destek-iadehizmeti.com
+destek-ikame.ink
 destek-kacirma756.com
 destek-kampanya-basvur-bireysel.ga
 destek-kampanya-basvur-bireysel.tk
@@ -92412,6 +92414,7 @@ finanslasizdekazaninn.com
 finansline.online
 finanslmlaaktif.vercel.app
 finansman--qnbfinansbank.com
+finansman-togg.com
 finansman.popytalep.online
 finansmankredi.com
 finansmansorgulamahizmeti.net
@@ -162501,6 +162504,7 @@ mobilsubemyapibasvurularimda.co.vu
 mobilsubemziraat.com
 mobilsuben.com
 mobilsuben.com.tr
+mobilsubende.my-homeip.de
 mobilsubenhalk.com
 mobilsubenindir.com
 mobilsubeniz.com
@@ -215467,6 +215471,7 @@ teminiki.b-cdn.net
 temizecevre.name.tr
 temizler.name.tr
 temizlikseren1.ga
+temizlikyapiyoruz.click
 temmensat.com
 temmlxzdsa.duckdns.org
 temmsdlxsd.duckdns.org
@@ -255928,6 +255933,7 @@ ziraatrserv.com
 ziraatsanaozel.com
 ziraatsansinidene.cfd
 ziraatsar.cfd
+ziraatsbank.cftcrecovry.com
 ziraatsbank.com
 ziraatsbnk.com
 ziraatse.duckdns.org
