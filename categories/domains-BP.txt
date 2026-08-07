@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256892
-# Last change: 2026-08-07 16:10:50 UTC (sync mode: delta)
+# Records: 256903
+# Last change: 2026-08-07 17:10:50 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -7458,6 +7458,7 @@
 44444412323.cloud
 4444444444455555.com
 444444444455555.com
+4444444555.duckdns.org
 44444919919191.cloud
 4444523444.cloud
 4444557358356122.com
@@ -26462,6 +26463,8 @@ araabasigorta.site
 araanacmynetvuk.net
 araaskargomlq.life
 araba-cekilisii.com
+araba-cekilisim.com
+araba-cekilisim.info
 araba-cekilisinesendekatilmakistermisin.com
 araba-fiyatlari.com
 araba-kiralama.cfd
@@ -26480,9 +26483,12 @@ arabaasigorta.site
 arababasvurum.click
 arababilgiler.sa.com
 arababilgilerisorgulama.sa.com
+arabacekilis.info
 arabacekilisi-tr.com
 arabacekilisi.click
 arabacekilisibasladi.net
+arabacekilisim.com
+arabacekilisim.info
 arabacekilisinehemenkatil.website
 arabacekilisinekatilim.com
 arabacekilisisizlereozel.cloud
@@ -55493,6 +55499,7 @@ cariesmgir.pw
 cark-bntr.app
 cark-bntr.com
 cark-bntr.one
+cark-cekilisim.info
 cark-firsatim-lucky.net
 cark-kampansinda-son-gunler.net
 carkbasvurum-bn-daygiris.net
@@ -124128,6 +124135,7 @@ hukukburodosyasi.com
 hukukcezadairesi.com
 hukukcezalari.com
 hukukcezam.com
+hukukcezasi.org
 hukukcezasorgula.com
 hukukcezasorgulatma.com
 hukukdavasorgulama.com
@@ -154948,6 +154956,7 @@ loawis.site
 localgallery.cyou
 localhelperr.com
 localnewss.site
+location-findmydevice.info
 lockerfabricate.top
 locklindt.com
 lockprox.click
@@ -166417,6 +166426,7 @@ netfixkayitol.com
 netflix.us.org
 netflixbe.com
 netflixdiscounttime.com
+netflixdiscounttime.ph
 netflixglb.com
 netflsx.com
 netflx-login.homes
@@ -218848,6 +218858,7 @@ tr-bayisortalkhizmet.net
 tr-baykar.website
 tr-bb-va.my-homeip.com
 tr-bbva-garanti.com
+tr-bbva-garanti.ph
 tr-bbva-giris-lock.za.com
 tr-bbvagaranti.com
 tr-bbvagaranti.org

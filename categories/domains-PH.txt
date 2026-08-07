@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98940
-# Last change: 2026-08-07 16:10:50 UTC (sync mode: delta)
+# Records: 98950
+# Last change: 2026-08-07 17:10:50 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -35583,6 +35583,7 @@ gelenler-alir-iyilikler-hep-bize-gelir-gecer.com
 gelenleraldikamps.online
 gelenlerdenindirimler.com
 gelenyonelt.com
+gelerdesewend.duckdns.org
 gelgorsorgula.com.tr
 gelibolusubesindeler.xyz
 gelinberabergarantiye.online
@@ -38860,6 +38861,7 @@ haberler2153212.com
 haberler2223399.sbs
 haberler223522.sbs
 haberler231542423.online
+haberler23232.shop
 haberler233434123.shop
 haberler23432.sbs
 haberler235342.com
@@ -56578,6 +56580,7 @@ mhrsanlikolarakrandevuhak4nxd.duckdns.org
 mhrsanlkodemebra.duckdns.org
 mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
+mhrsbilgi.duckdns.org
 mhrsclsdc.com
 mhrsgirisportaliburada.digital
 mhrsilerandevuekrani.duckdns.org
@@ -63371,6 +63374,7 @@ otokoclakiralama.com
 otokoconline.com.tr
 otokoconline.net.tr
 otokoconlinekirala.com.tr
+otokocotokirala.com.tr
 otokocrent.org
 otokocrentacar.net
 otokocrentacar.org
@@ -65967,6 +65971,7 @@ pilgrimagepermeate.top
 pilgrimagereckless.top
 pilgrimdegenerate.top
 pilgrimrigorous.top
+pilifuere-sederilise.lol
 pillarsodium.top
 pillconstituency.top
 pillowtuck.cn
@@ -75679,6 +75684,7 @@ seriousmosquito.top
 serioustoil.top
 seritakipci.com
 serkanbas57.sbs
+serkancx.duckdns.org
 sermayehaber.info
 sermayehaber.org
 sermayehub.world
@@ -78544,6 +78550,7 @@ sorgumaliye.org
 sorgumenu1-8e09e0229026.herokuapp.com
 sorgumenu1-94c60338c441.herokuapp.com
 sorgumtrmses.net
+sorgunbosphours.com
 sorgupanel.app
 sorgupanel.com.tr
 sorgupanel.dev
@@ -82901,6 +82908,7 @@ tebarekteyazelcelaliverilkram-avis.vercel.app
 tebasvuruadresitebnoktanet.site
 tebbank.hizmetislemleri.com
 tebbasvurusayfa.my-homeip.de
+tebbmb.cfd
 tebcebimde.com
 tebcekilisiphone12.com
 tebcep.kisalink.cc
@@ -93221,6 +93229,7 @@ website6663199.nicepage.io
 website6663862.nicepage.io
 website6666391.nicepage.io
 website6666829.nicepage.io
+website6666977.nicepage.io
 websitemajesty.top
 websitemo.top
 websiteoppression.top
@@ -96095,6 +96104,7 @@ xn--hsabaeidsgatbrd-c6c.app
 xn--hsaidtapapp-xgc.app
 xn--hsfgglbrdiagsdtr-fpb18s.app
 xn--htbt-3oa0a.com
+xn--hukukcezas-6ub.org
 xn--hvalimanikralam-hlc.com.tr
 xn--hzl-iade-tkbc.com.tr
 xn--hzl-odeme-vpbc.com.tr
