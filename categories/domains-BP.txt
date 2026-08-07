@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256845
-# Last change: 2026-08-07 04:04:15 UTC (sync mode: delta)
+# Records: 256850
+# Last change: 2026-08-07 07:44:52 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -133224,6 +133224,7 @@ iscep.co.in
 iscep.finance
 iscep.kazan.cam
 iscep.netsube.com
+iscep.nt-fans.com
 iscep.online
 iscep.site
 iscep.trbilgiform.com
@@ -149314,6 +149315,7 @@ kmpnyhmnbrd1o1.info
 kmpnyhmnbrd1o1.online
 kmpnylrbrdsizlerle.space
 kmpnylrrbsvrrsnfrstlrrr.live
+kmpnylrrsnffrsttbsvrrr.click
 kmpnylrrsnffrsttbsvrrr.info
 kmpnylrrsnffrsttbsvrrr.live
 kmpnylrrsnffrsttbsvrrr.pro
@@ -181390,6 +181392,7 @@ pazarama.guvencelifirsatlar.com.tr
 pazarama.guvenlihizmetler.online
 pazarama.guvenlionline.com
 pazarama.guvenlisaticisi.online
+pazarama.hizli-havale.com
 pazarama.hizli-ilan-fast.com
 pazarama.hizli-odemem.com
 pazarama.hizlionline.com
@@ -181407,6 +181410,7 @@ pazarama.onlinebireyselcisatici.com.tr
 pazarama.onlinesaticimerkezi.com
 pazarama.onlinesaticimiz.com.tr
 pazarama.onlinesiparislerim.com
+pazarama.satiskapida.com
 pazarama.sorunsuzodeme.com
 pazaramaanelergunuozel.com
 pazaramafirsaturunleri.com.tr
@@ -253957,6 +253961,7 @@ zarnivex.live
 zarnovia.com
 zarzesdf.duckdns.org
 zasadasa-derederede.lol
+zasadert-yuplisede.lol
 zassryo.click
 zatehsja.click
 zatenasklarhepyalan.net

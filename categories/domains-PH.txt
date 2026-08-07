@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98863
-# Last change: 2026-08-07 04:04:15 UTC (sync mode: delta)
+# Records: 98873
+# Last change: 2026-08-07 07:44:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6802,6 +6802,7 @@ ancientshabby.top
 ancontemplative.top
 and5.org
 andanimtion.top
+andansiparisa.sbs
 anddaxloggn.webflow.io
 andersnelab.com
 andersontalisca.fun
@@ -41347,6 +41348,7 @@ hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
 hizli-geri-yukleme-ekrani.store
+hizli-havale.com
 hizli-hemengelsinaktivasyonkvyt.click
 hizli-hemengelsinaktivasyonkvyt.space
 hizli-ilan-fast.com
@@ -49735,6 +49737,7 @@ kepadresiguncel.com
 kepadresim.net
 kepbilgisi.com
 kepdogrulama.com
+kephepsiburada.com
 kepim.com
 keralamist.com
 kerametran.ezgateway.net
@@ -64492,6 +64495,7 @@ paribu-araba-kazan.com
 paribu-araba-kazanma.com
 paribu-araba.com
 paribu-arababurada.com
+paribu-arababurada.link
 paribu-arabacekilisi.com
 paribu-arabahediye.com
 paribu-arabakazan.com
@@ -64575,6 +64579,7 @@ paribuairdrop.tk
 paribuaraba-burada.com
 paribuaraba-burada.link
 paribuaraba-hediye.com
+paribuaraba-kazanma.com
 paribuaraba-sansi.com
 paribuaraba-sansi.info
 paribuaraba-sansi.link
@@ -69705,6 +69710,8 @@ raesflow.store
 raf3134sadacjj1x3jk1jk23x12.shop
 rafa0102xadskjx2h3jx12312.cfd
 rafa09lasdck123x123.shop
+rafa10jkascdkaskx13x123123x.cfd
+rafa11adkaxdkjxk12x213x13.cfd
 rafa12xksdjkadkjcksjdk123x12.sbs
 rafa1cadcjksakx13x12x3123x.cfd
 rafa1fkdlcaskdlx1231.shop
@@ -74294,6 +74301,7 @@ satisim-98.site
 satisislemi.com
 satisislemim.com
 satisislemleri.com
+satiskapida.com
 satiskapinda.com
 satiskurumsal-ilan.com.tr
 satiskurumsal-ilanlarim.com.tr
@@ -75151,6 +75159,7 @@ selgebeachmanavgat.com
 selgebeachresort.hotel-rezervasyon.com
 selgebeachresortandhotel.com
 selgebeachresortside.com
+selgebeachsresorts.com
 selgehotels.com
 selgeresortbeach.com
 selgeresortside.com
@@ -98340,6 +98349,7 @@ zelmarn.click
 zelmoraq.bond
 zeloravik.shop
 zelpazro.gifts
+zeltranix.com
 zeltrt453sdf.blogspot.com
 zelunirek.xyz
 zelunovrax.capital
