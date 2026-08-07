@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463414
-# Last change: 2026-08-07 09:17:32 UTC (sync mode: delta)
+# Records: 463444
+# Last change: 2026-08-07 11:59:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11497,6 +11497,7 @@
 311982941.corolain.ru
 312-234-54-65.cfd
 312054687.corolain.ru
+312221222145558999891.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
@@ -18976,6 +18977,7 @@
 77776589965.cloud
 77777001255.cloud
 777771112202102777.gleeze.com
+777777777.duckdns.org
 7777777772.no-ip.org
 777777777777777754212.duckdns.org
 7777778454546894654.duckdns.org
@@ -116952,6 +116954,8 @@ deniz-martt-seninle.ip-ddns.com
 deniz-memnuniyetiniz-tr.com
 deniz-merkez-basvuru.life
 deniz-merkez-basvuru.xyz
+deniz-mobb.duckdns.org
+deniz-mobbll.duckdns.org
 deniz-mobiilbasvuru-tr.com
 deniz-mobil-bireysel-com.duckdns.org
 deniz-mobil-com-cepte-basvuru-ekrani.duckdns.org
@@ -204004,6 +204008,7 @@ hgsbakiye-pttavm4.ml
 hgsbakiye-pttavm5.ml
 hgsbakiye-pttavm8.ml
 hgsbakiye-yukle.com
+hgsbakiye-yuklemeciburda.firebaseapp.com
 hgsbakiye-yuklemee.cf
 hgsbakiye-yuklemee.ga
 hgsbakiye-yuklemee.gq
@@ -210301,6 +210306,7 @@ hmnislmnkns.net
 hmnislmnknts.net
 hmnislmnkta.net
 hmnislmnktans.net
+hmnislmnktasni.net
 hmnislmnktbas.net
 hmnislmnktnas.net
 hmnislmnktnasnn.net
@@ -227116,6 +227122,7 @@ intsubayrntilrmmin2.xyz
 intsube-akbank.com
 intsube-enpara.com
 intsube-enpara.ml
+intsube-enpara.ph
 intsube-halkbank.com
 intsube-kuveytturk.com
 intsube-qnbfinansbank.com
@@ -252122,6 +252129,7 @@ kilometrevehasarkaydi.autos
 kilometreveri.web.app
 kilometreverisi.web.app
 kilometreyokeden.cfd
+kilometrogrenin.web.app
 kilometrosgorgulamahemengovpttsxsaz.com
 kilometrsorgularbenzina.web.app
 kilometrsorgularbenzinb.web.app
@@ -256549,6 +256557,7 @@ kopsemvoape.net
 kopsx1-001-site1.anytempurl.com
 koputcastap.xyz
 kopvlahpffqpuix.cn
+kopyaciceksepeti.ph
 kor-odemeler.xyz
 kor-paribu.com
 kor1.zapto.org
@@ -282115,6 +282124,7 @@ mobilhesapaninda.sbs
 mobilhglbgecicode.duckdns.org
 mobilhgsbilgi.com
 mobilhibebasvurusu2021.com
+mobilhimztlerimlerde.duckdns.org
 mobilhizlibasvuruportalin.info
 mobilhizligir.mefound.com
 mobilhizligirisekrani.online
@@ -286909,6 +286919,7 @@ muffframe.com
 muffinnyxt.tk
 muffinsoldier.top
 mufflyx.com
+mufgfinance.net
 mufiatf.duckdns.org
 mufomvc.duckdns.org
 mugbmutkhhexloq.su
@@ -295394,6 +295405,7 @@ nopanel-064900.click
 nopanel-087462.top
 nopanel-348252.click
 nopanel-363563.top
+nopanel-36672.top
 nopanel-440001.top
 nopanel-453465.top
 nopanel-455325.top
@@ -315498,6 +315510,10 @@ paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
 paribu-arabahediye.com
+paribu-arabahediyem.com
+paribu-arabahediyem.info
+paribu-arabahediyen.com
+paribu-arabahediyen.info
 paribu-arabakazan.com
 paribu-arabakazanma.com
 paribu-arabakazanma.info
@@ -315505,6 +315521,8 @@ paribu-arabakazanma.link
 paribu-arabasansi.com
 paribu-arabasansi.info
 paribu-arabasansi.link
+paribu-arabayakala.com
+paribu-arabayakala.info
 paribu-auth-wallet.net
 paribu-auth.com
 paribu-authe-wallet.net
@@ -315971,6 +315989,8 @@ paribuaraba-kazanma.link
 paribuaraba-sansi.com
 paribuaraba-sansi.info
 paribuaraba-sansi.link
+paribuaraba-yakala.com
+paribuaraba-yakala.info
 paribuaraba.com
 paribuaraba2026.com
 paribuarabaavantaj.com
@@ -316138,9 +316158,12 @@ paribubtcturk.com
 paribubuyukcekilisi.com
 paribucampany.com
 paribucard.xyz
+paribucark-alhediye.info
 paribucark-burada.com
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-hediye.info
+paribucark-hediye.link
 paribucark-hediyesi.com
 paribucark-kazan.com
 paribucark-kazanci.com
@@ -322226,6 +322249,7 @@ plplme.site
 plplplpxw.click
 plpoiupakludkosa.ru
 plpwdoxw.click
+plrdanbrdansnnn.com
 plrdasdbrdasnkasdasd.cyou
 pls-mny-grnb.my-homeip.net
 plscoverko.meibu.com
@@ -378721,6 +378745,7 @@ sube.garantionlinebasvurularimizla.xyz
 sube.halkbankmobilim.com
 sube.internetweb-ak-ayrintilar.shop
 sube.istbakiye.net
+sube.mufgfinance.net
 sube.online
 sube.onlinedenizbasvuralarimportalin.xyz
 sube.pics
@@ -387141,6 +387166,7 @@ tebbanlk.net
 tebbasvuruformu.com
 tebbasvuruforumu.com
 tebbasvuruiphonehediye.net
+tebbasvuruonay.my-homeip.de
 tebbasvurusayfa.my-homeip.de
 tebbasvurusorgu.com
 tebbayram-trtr.com
@@ -388239,6 +388265,7 @@ teknosaindirim.com.tr
 teknosakampanya.com
 teknosakampanya.com.tr
 teknosakariyer.store
+teknosakz.com
 teknosamarket.website
 teknosamindirim.com.tr
 teknosanalmarket.com
@@ -413707,6 +413734,7 @@ uyapgirisadres.vercel.app
 uyapgirisceza.com
 uyapgov.org
 uyapgov.us
+uyapgovtr.nl
 uyapgovtr.online
 uyapguncel.vercel.app
 uyapikredi.com
@@ -451206,6 +451234,7 @@ yemekcom.net
 yemekkartihalkbank.com
 yemeklerimlezzetli.blogspot.com
 yemeklsepeti.com
+yemeknlerin.click
 yemeksepeti-com.tk
 yemeksepeti-enpara.com
 yemeksepeti-finansbank.com
@@ -454795,6 +454824,7 @@ yklehgsonlne.cfd
 yklehgsyklepra.cfd
 ykleistkart.online
 yklemebmcxzll.net
+yklemesrguu.cfd
 yklemeyapbmclll.net
 yklemeyapbnce.net
 yklemeyaphizli.net

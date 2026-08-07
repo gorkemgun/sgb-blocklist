@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98916
-# Last change: 2026-08-07 09:17:32 UTC (sync mode: delta)
+# Records: 98923
+# Last change: 2026-08-07 11:59:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -58275,6 +58275,7 @@ mudinterim.top
 mudrexgpt.org
 mufasnasfanas.sbs
 muffinsoldier.top
+mufgfinance.net
 mugcosmetic.top
 mugdinosaur.top
 mugencyclopedia.top
@@ -60295,6 +60296,7 @@ nopanel-064900.click
 nopanel-087462.top
 nopanel-348252.click
 nopanel-363563.top
+nopanel-36672.top
 nopanel-440001.top
 nopanel-453465.top
 nopanel-564732.top
@@ -66333,6 +66335,7 @@ ploukederys.org
 plovarikenu.com
 ploynix.com
 plplme.site
+plrdanbrdansnnn.com
 plsk2jjk123xjk123x123z132.cfd
 plskcjsajkdasx123x123.cfd
 plsxkkj123k1z3123z12.cfd
@@ -80496,6 +80499,7 @@ sube.basvurumfirsatlariylaguzel.xyz
 sube.denizbasvuralarimizkontrolde.xyz
 sube.denizbasvurkontrolde.xyz
 sube.firsatlarimanindabenle.xyz
+sube.mufgfinance.net
 sube.sekermenkul.com
 sube.turkiyefirsatlarihemenonayla.xyz
 sube34trafik.com
@@ -83234,6 +83238,7 @@ teknosa-kampanya.shop
 teknosa-web.com
 teknosacellhizmetleri.com
 teknosacelll.com
+teknosakz.com
 teknosaonline.shop
 teknosaturuncufirsat.shop
 teknosavergisiz.com
@@ -97030,6 +97035,7 @@ yemek-com.com
 yemek-time.net
 yemek-time.org
 yemeklsepeti.com
+yemeknlerin.click
 yemeksepeti-com.tk
 yemeksepeti.carkicevirhediyelerikazan.com
 yemeksepeti.co
@@ -97665,6 +97671,7 @@ ykla-frst.online
 yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
+yklemesrguu.cfd
 yklemeyapbmclll.net
 yklemeyapbnce.net
 yklmayiz.net
