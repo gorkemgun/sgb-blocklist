@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98971
-# Last change: 2026-08-07 21:57:49 UTC (sync mode: delta)
+# Records: 98972
+# Last change: 2026-08-07 23:50:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -31895,6 +31895,7 @@ facultytrade.top
 fadeappeasement.top
 fadeclient.top
 fadeflirtation.top
+faderdasdleer.duckdns.org
 fadesteward.top
 fadimekurumu.com
 fadu.thetupaus.com
