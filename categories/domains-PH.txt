@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98928
-# Last change: 2026-08-07 13:41:54 UTC (sync mode: delta)
+# Records: 98935
+# Last change: 2026-08-07 15:11:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5223,6 +5223,7 @@ ailegovtr.tech
 ailelergencler.com
 ailemgov.biz
 ailemtr.biz
+ailemyanimda.org
 ailesaglik-pademidestek-turkiye.com
 ailetr.online
 aileveevlilikfonu.com
@@ -39598,6 +39599,7 @@ havaiiist.site
 havaist.dev
 havaist.org
 havaististnbl.com
+havale-gonderici.com
 havale-ilan.com
 havalem-fast.com
 havalialetsatinal.com
@@ -51427,6 +51429,7 @@ kuafor-tatar.net
 kuangyuanchao.cn
 kuankaq.com
 kuapsmenaf2.net
+kubafabrika.com
 kubamotorluaraclar.com
 kubamotoronline.com
 kubaonlinesatis.com
@@ -58813,6 +58816,7 @@ n-i-s-a.net
 n-nato333.com
 n-v-ii-i.net
 n-v3diyaxainanim.net
+n-vc.com
 n-vi1diyaxainanim.net
 n-vnakavtslx.blogspot.com
 n-vvs-ii.net
@@ -73486,6 +73490,7 @@ sahibinden.mobil-get.com.tr
 sahibinden.mobil-tr.com.tr
 sahibinden.mobilsepetin-tr.online
 sahibinden.mobilservisleri.com
+sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
 sahibinden.odeme-yap.com.tr
 sahibinden.odemelerin-guvenli.com.tr
@@ -79384,6 +79389,7 @@ srntrsnxssdanismanlik.blogspot.com
 srntrsqsssdanismanlik.blogspot.com
 srntrsrsesdanismanlik.blogspot.com
 srntrstnsdanismanlik.blogspot.com
+srnykrndlasrabkle.com
 sronsistanbul.shop
 srrgla.net
 srrsewqsgqdaqnismanlik.blogspot.com
@@ -96777,6 +96783,7 @@ yardimbasvrusuolusturmadvlet.online
 yardimbasvur.com
 yardimcom.github.io
 yardimdayanisma.com
+yardimdestek.org
 yardimdestekekiipsleri.com
 yardimdestekisigi.com
 yardimdestekpaketim.com
