@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98935
-# Last change: 2026-08-07 15:11:24 UTC (sync mode: delta)
+# Records: 98940
+# Last change: 2026-08-07 16:10:50 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25418,6 +25418,7 @@ diijiital-isbank-platform-com-tr.cf
 diijiital-vakifbank-platform-com-tr.tk
 diiveindulge.top
 dij-ital.store
+diji-internetsiparis.sbs
 diji-siparis.sbs
 dijicuucey.com
 dijiitallgarantibasvuru.com
@@ -27679,6 +27680,7 @@ e-mhrsrandevubilgilendirme.digital
 e-mhrsrandevulariylayasams.digital
 e-mhrssrandevumerkezii.digital
 e-mobilbilgilerim-onlineaidatlaredevlet.com
+e-mobilde-garantibbva.xyz
 e-mobildevletgiris-kurum-kredikartlar.com
 e-mobiliadelerim-iadatlariadegovtr.com
 e-mobiliadelerimbilgiler-hizmetadresi.com
@@ -51161,6 +51163,7 @@ kreadivstudios.com
 kreautopagne.de
 krebashem.pw
 krecikenlogin.webflow.io
+kredddfrstlrarrkmpnyaabsvrsu98563214.info
 kredi-acikdenizhemenmobildenonayla.click
 kredi-acikdenizhemenmobildenonayla.fun
 kredi-acikdenizhemenmobildenonayla.site
@@ -61953,6 +61956,7 @@ olmuyo.sorgupanel.net
 olnatp.top
 olohaisland.com
 olpyfw.top
+olrurdumamdszgds.com
 olsanasende.net
 olsnavyseny.net
 olsunbudabizdenolsun.net
@@ -88562,6 +88566,7 @@ u5s.us
 u5vzihu.cn
 u61.xyz
 u62010142.ct.sendgrid.net
+u648984.softaculous.dev
 u8404944.click
 u8b2mkoad.lomondviewcottage.co.uk
 u8n.us
