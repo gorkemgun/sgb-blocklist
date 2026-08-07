@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98966
-# Last change: 2026-08-07 21:02:23 UTC (sync mode: delta)
+# Records: 98971
+# Last change: 2026-08-07 21:57:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37264,6 +37264,7 @@ granticekilis.online
 grantiibba.duckdns.org
 grantiikreedisi.vercel.app
 grantisbbva.com
+grantiscylk.cfd
 grantsts.net
 granttonight.top
 granttstt.site
@@ -38859,6 +38860,7 @@ haberler131231123.site
 haberler1436542.sbs
 haberler16.online
 haberler16.website
+haberler163234.shop
 haberler2025.tk
 haberler2153212.com
 haberler2223399.sbs
@@ -39051,6 +39053,7 @@ haftalik-indirim-ve-aktuel.cfd
 haftalik-kapimda-urunler.com
 haftalik-market-indirimleri-ve-guncel-brosur-listesi.cfd
 haftalikaktuelkampanyalar.life
+haftalikmagaza.com
 haftalikmarketalisverisiniduzenle.cfd
 haftalikurunlerimiz.duckdns.org
 haftamasgirfirsatinn.com
@@ -64942,6 +64945,7 @@ parstor-sempyat.noqlybastes.top
 partcarfilo.com
 partdatalist.com
 parti-kampanya.fun
+parti-kampanyasi.online
 partialintermittent.top
 partiallyplace.top
 partialobstruction.top
@@ -79384,6 +79388,7 @@ squirrel-wallet.world
 squirrelaccident.top
 squre39-cld.info
 sqyqjp.help
+srabklmhrndval.com
 srandxuvkd.net
 src-mistress-submitted-operational.trycloudflare.com
 srcn.online
