@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98860
-# Last change: 2026-08-07 00:17:32 UTC (sync mode: full)
+# Records: 98863
+# Last change: 2026-08-07 04:04:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38359,6 +38359,7 @@ guvnlislmerldfs.net
 guvnnokt0z.app
 guvpay.tk
 guwenli-takp-islemleri.online
+guyofahsdhashd89sadas.click
 guzel-herkes-bizimle-birlikte-gorecegiz-sizinle.com
 guzelapp1-fd4eb5ee687a.herokuapp.com
 guzelde-enguzel-anlari-eniyi-zamani-hep-gorecegiz.com
@@ -40677,6 +40678,7 @@ heryerdehgs.com
 heryeregelersen.net
 heryeryakin.net
 herzaman.regaltess.xyz
+herzamandevamsiparis.sbs
 herzamanfirsat.shop
 herzamansize-ozzeliadeislemleri.net
 herzamansizeozeliadeeler1.net
@@ -69721,6 +69723,7 @@ rafa3ck123kjx1kj23x13123132.cfd
 rafa3csdackllk1kl3x123.cfd
 rafa4dkjacjkdcakdx23.cfd
 rafa5cjkadscasdjxk13x123.cfd
+rafa6cadkjasjkdax13x1x312.cfd
 rafa7cadscadskjxk13x123x123.cfd
 rafa9911klasdkajx123x123.sbs
 rafabuilders.com
