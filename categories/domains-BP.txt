@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256903
-# Last change: 2026-08-07 17:10:50 UTC (sync mode: delta)
+# Records: 256907
+# Last change: 2026-08-07 18:05:06 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -4217,6 +4217,7 @@
 2019-yapiworldinternetsubesi.com
 2019-yenilik.com
 2019-yenilikleri.com
+201919.one
 2019alacaksorgu.com
 2019bireyselcekilis.tk
 2019bonusyanimda.cf
@@ -21679,6 +21680,7 @@ akmobildefirsatincepte.tech
 akmobildefirsatzamanicebinde.cloud
 akmobildefirsatzamanicepte.cloud
 akmobildekurbanbayramifirsatin.xyz
+akmobildend.duckdns.org
 akmobildeocakfirsatlarim.xyz
 akmobildeocakfirsatlarincebinde.online
 akmobilfirsatinanindacebinde.cloud
@@ -165298,6 +165300,7 @@ my-den-iz.my-homeip.com
 my-deniz.my-homeip.com
 my-ent-antin.cfd
 my-ent-antin.sbs
+my-facebook-login-deal.ph
 my-fsrkskmpfsksfkfskfsagafsasfgas.com.tr
 my-garanti-subem.com
 my-google-drive.net
@@ -200963,6 +200966,7 @@ sevdiren-bilinirken-senden-uzaklarda-olmadik-hic.com
 sevdiren-hayatlari-yasatan-bizler.com
 sevdiren-sekilde-hayat-olmasi-bizler-icin-burda.com
 sevdiren.info
+sevdlyrklerdebyyzsrgnlr.com
 sevdlyrrklerbyzsrh.com
 sevecekmisandin.net
 seveceksandim.com

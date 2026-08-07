@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98950
-# Last change: 2026-08-07 17:10:50 UTC (sync mode: delta)
+# Records: 98954
+# Last change: 2026-08-07 18:05:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -23002,6 +23002,7 @@ cuzdaneglobalonaysizhesapdogrulamabasvurumonline.line.pm
 cuzdanimkolaysatinal.com
 cuzdanonaysorgulamasayfasibireyselozel.line.pm
 cv19aidatinnialedekall.org
+cv3434c.click
 cvasdsaddvt-dcdvt.com
 cvbnmbbj.click
 cvd19-aidatmerkezi.com
@@ -34901,6 +34902,7 @@ garantiimobilegirissefes.chickenkiller.com
 garantikkredim.wixsite.com
 garantikredimbasvur.vercel.app
 garantikredinizherzaman.com
+garantili-islemlerim-bireysel-com.webredirect.org
 garantili.bbvagirisbillgilersorug.site
 garantilibonus-online-hizmetleri2023.line.pm
 garantillifk.cfd
@@ -42337,6 +42339,7 @@ hotelzenit-reservation.com
 hotelzentralgijonreypelayo.com
 hoteo-confermo19238.com
 hoteo-confermo19257.com
+hoterstler.help
 hoteshaktif.net
 hotic-turkey.top
 hotic.shop
@@ -69798,6 +69801,7 @@ rafabuilders.com
 rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
 rafael13jxk12kjxkaskdas.cfd
+rafaeldykisn.duckdns.org
 rafalardakiindiirmhavasiburadaesiyor.com.tr
 rafata3131acsldjcklk1j3x12.cfd
 rafatafax123213z123.sbs
