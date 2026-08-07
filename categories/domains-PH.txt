@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98961
-# Last change: 2026-08-07 19:18:30 UTC (sync mode: delta)
+# Records: 98966
+# Last change: 2026-08-07 21:02:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -34825,6 +34825,7 @@ garanterentacar.com.tr
 garanterentacar.ga
 garanti-action-form.pages.dev
 garanti-basvur-bireysel-fomu-online.ml
+garanti-basvuru-bireysel-com.webredirect.org
 garanti-basvuru-bonus-islemlerim.mayddns.com
 garanti-basvuru-bonus.mayddns.com
 garanti-bbva-cep-sifrematik.ir.aptoide.com
@@ -64940,6 +64941,7 @@ parstor-dvest.noqlybastes.top
 parstor-sempyat.noqlybastes.top
 partcarfilo.com
 partdatalist.com
+parti-kampanya.fun
 partialintermittent.top
 partiallyplace.top
 partialobstruction.top
@@ -69780,6 +69782,7 @@ rafa09lasdck123x123.shop
 rafa10jkascdkaskx13x123123x.cfd
 rafa11adkaxdkjxk12x213x13.cfd
 rafa12xksdjkadkjcksjdk123x12.sbs
+rafa14dcsjkadjkskjx123x12312.cfd
 rafa1cadcjksakx13x12x3123x.cfd
 rafa1fkdlcaskdlx1231.shop
 rafa1sackcsakkjx123.shop
@@ -69804,6 +69807,7 @@ rafabuilders.com
 rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
 rafael13jxk12kjxkaskdas.cfd
+rafaelcimxd.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
 rafalardakiindiirmhavasiburadaesiyor.com.tr
@@ -82293,6 +82297,7 @@ tamamhadherseebakgotur.info
 tamamistanbulo.co
 tamamla-sip.com
 tamamla-sipars.com
+tamamlanan-beklenim.ink
 tamamlayan-dahafazla.ink
 tamammarket.click
 tamamsa-ugrayin-yanimiz-oldugundan-sebep.com
