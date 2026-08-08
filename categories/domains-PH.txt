@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99012
-# Last change: 2026-08-08 16:55:17 UTC (sync mode: delta)
+# Records: 99024
+# Last change: 2026-08-08 17:48:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3695,6 +3695,7 @@ access.cedakitestrategies.sa.com
 accessadvancedcodewf.com
 accessarena.store
 accessbound.top
+accessing-gregory-mhz-commitments.trycloudflare.com
 accidenthypocrite.top
 accidentpredominance.top
 acciikggirisdenzv02.ml
@@ -4401,6 +4402,7 @@ adalettbakanligi.com
 adalettrgov.sa.com
 adalthealths.com
 adalyatapurandevu.com
+adamiboleskerzddskskvsdva.sbs
 adanademir.net
 adanaindirimlerii.online
 adanzyefilo.online
@@ -8478,6 +8480,7 @@ asfsadfvkmmnkfvkln.net
 asfsdqwffsadlsafm.net
 asfwqffwqwfqwfdsa.com
 asg12q1gasgasdg.net
+asgadsqew.sbs
 asgafasdad222d.wiki
 asgard-cup.ru
 asgasdgqwre.sbs
@@ -10593,6 +10596,7 @@ basvrtrbnnccse.com.tr
 basvrularinizonaylansin-2025com.com
 basvrumerkzinoktasiihizlikayitol.net
 basvruncepte-garanti.dns.army
+basvruncepte-garanti.duckdns.org
 basvrunuz-dvettgirsleri.com
 basvrutr-dcvvltgirisi.org
 basvrutrbnnrce.online
@@ -24412,6 +24416,7 @@ denizliler.ml
 denizliler.tk
 denizlivipmasaj.xyz
 denizmartkrdi.xyz
+denizmenkul.pro
 denizmobil-basvuru-ekranim.duckdns.org
 denizmobil-online.za.com
 denizmobilacikdeniz.cf
@@ -25337,6 +25342,7 @@ digital-mobildenizfirsatbasvuru.com
 digital-online-islemler.site
 digital-online-pages.site
 digital-otomatik-acik.online
+digital-page.shop
 digital-sifresz.net
 digital-subesiz.website
 digital-subesjz.website
@@ -25435,6 +25441,7 @@ diji-internetsiparis.sbs
 diji-siparis.sbs
 dijicuucey.com
 dijiitallgarantibasvuru.com
+dijisiparis-internet.sbs
 dijital-birlik.org
 dijital-denizlili.tk
 dijital-donusum-girisdevletgovtr.duckdns.org
@@ -26489,6 +26496,7 @@ dolapguvende.com
 dolapguvendeal.gq
 dolapguvenlialisveris.rf.gd
 dolapilan.com.tr
+dolapilanlarim.com
 dolapileal.com.tr
 dolapileguvenlial.com
 dolapline.com
@@ -33547,6 +33555,7 @@ fleexbox.com
 flekkb.cn
 flenkordav.pro
 flentsac.top
+flerdensewxede.duckdns.org
 flerixapp.store
 fleshdwarf.top
 fleshpesticide.top
@@ -39028,6 +39037,7 @@ hackembark.top
 hackermartyr.top
 haddisenizeumr.com.tr
 hadeszcheck.online
+hadglgzlmuzklragdlm.shop
 hadhadhkhgfdd.sbs
 hadi-40000-basvr.cyou
 hadi-40bin-basvur.cfd
@@ -83796,6 +83806,7 @@ terab.retalonx.com
 teragrup.org
 tercelety.top
 tercell.online
+tercih-entry-gr.garden
 terencuasd.com
 terent.nichesite.org
 terevane.xyz
@@ -96717,6 +96728,7 @@ y2f.org
 y3lkmykl.net
 y3n6x0r9q5m2t8b1p7v4wz2.com.tr
 y3vo3y.csb.app
+y4nl4ndirkrdsimialblgyi.duckdns.org
 y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nsmsars.sbs

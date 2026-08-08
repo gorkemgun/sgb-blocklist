@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463568
-# Last change: 2026-08-08 16:55:17 UTC (sync mode: delta)
+# Records: 463581
+# Last change: 2026-08-08 17:48:33 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -27424,6 +27424,7 @@ accessharefile.ddns.net
 accessharehostfile.ddns.net
 accessiccu09.ddns.net
 accessid-applestores.com
+accessing-gregory-mhz-commitments.trycloudflare.com
 accessme.hopto.org
 accessmygov2.hopto.org
 accessmysecu.zapto.org
@@ -31721,6 +31722,7 @@ adamcebindetasirdaseningibigelini.duckdns.org
 adamdam.zapto.org
 adamedicez.cfd
 adamgibidurcan.cfd
+adamiboleskerzddskskvsdva.sbs
 adamimadamyaparlar-6a8861a20866.herokuapp.com
 adamimyumrukyersin.eu
 adaminhasidd.store
@@ -52108,6 +52110,7 @@ asg12fdhhasdg.com
 asg12q1gasgasdg.net
 asg5qxxw.duckdns.org
 asgaage.pw
+asgadsqew.sbs
 asgafasdad222d.wiki
 asgalabas.buzz
 asgalaseras.buzz
@@ -60498,6 +60501,7 @@ basvrumuz-ozel-bireysel-aidatiadesi.tk
 basvrumuz-yillik-kart-ucretiadesi.xyz
 basvrumvurdsa.duckdns.org
 basvruncepte-garanti.dns.army
+basvruncepte-garanti.duckdns.org
 basvrunoktasi-hemenkayitol.com
 basvrunoktasi-hemenkayitoll.com
 basvrunoktasi-hemnkayitol.com
@@ -120636,6 +120640,7 @@ denizmayistaozelkrdi.xyz
 denizmconlinekontrolsistemi.com
 denizmedyam.xyz
 denizmeet.com
+denizmenkul.pro
 denizmet.com
 denizmobb.com
 denizmobibankdoviz.com
@@ -125088,6 +125093,7 @@ digital-online-islemler.site
 digital-online-pages.site
 digital-online.website
 digital-otomatik-acik.online
+digital-page.shop
 digital-pages.net
 digital-pages.org
 digital-pageslogin.website
@@ -125409,6 +125415,7 @@ dijijuzdan.click
 dijimicrofon.com
 dijionlinedenizkredikntrl.com
 dijiseninle.click
+dijisiparis-internet.sbs
 dijislemenugirislerim.com
 dijit-al-web.net
 dijit-al.net
@@ -129482,6 +129489,7 @@ dolapilan.com.tr
 dolapilan.e-jetsiparis.com.tr
 dolapilan.p-alisverisler.online
 dolapilan.t-alisverisyap.online
+dolapilanlarim.com
 dolapileal.com.tr
 dolapileguvenlial.com
 dolapilehizlisiparis.com
@@ -166773,6 +166781,7 @@ flemaergvy.duckdns.org
 flenieregurd.com
 flenkordav.pro
 flentsac.top
+flerdensewxede.duckdns.org
 flerix.shop
 flerix.site
 flerix.store
@@ -191334,6 +191343,7 @@ hadeszcheck.online
 hadevndz2031.ddns.net
 hadezvendas.ddns.net
 hadgelsondakka44.click
+hadglgzlmuzklragdlm.shop
 hadhadhkhgfdd.sbs
 hadi-40000-basvr.cfd
 hadi-40000-basvr.cyou
@@ -257582,6 +257592,7 @@ kredi-basvuru-online.rest
 kredi-basvuru-online.sbs
 kredi-basvuru-portal.sbs
 kredi-basvuru-portali.sbs
+kredi-basvuru-sistemi.cfd
 kredi-basvuru.short.gy
 kredi-basvuru.site
 kredi-basvuru.vercel.app
@@ -389989,6 +390000,7 @@ tercell.shop
 tercell.store
 tercepico202120212021.duckdns.org
 terceroremco.duckdns.org
+tercih-entry-gr.garden
 tercih-senin12.net
 tercihettiginiz.com
 tercihiniyap.name.tr
@@ -447010,6 +447022,7 @@ y4ie3zv8c.duckdns.org
 y4kl4smaaa.xyz
 y4m7k2x8q9b3fhs6na.sbs
 y4mx1h76ex5ti0yfi054y6e.ddns.net
+y4nl4ndirkrdsimialblgyi.duckdns.org
 y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nothing.xyz
