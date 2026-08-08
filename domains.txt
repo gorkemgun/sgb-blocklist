@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463525
-# Last change: 2026-08-07 23:50:01 UTC (sync mode: delta)
+# Records: 463529
+# Last change: 2026-08-08 04:30:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11564,6 +11564,7 @@
 3175585geldigene.com
 317pzi.duckdns.org
 31844.cloud
+31852858529696963.baby
 318740.com
 318743.com
 318885919.com
@@ -23583,6 +23584,7 @@ a101-firsatlari2024-yili.site
 a101-firsatlarim.wuaze.com
 a101-firsatlarindirim.xyz
 a101-firsatlariniz-artik-burada.duckdns.org
+a101-firsatlariniza-gelin.duckdns.org
 a101-g.com.tr
 a101-geceindirimleri.com
 a101-gecekampanyalari.com
@@ -252203,6 +252205,7 @@ kilomtresorguchp.xyz
 kilomtresorguhiizmetichp.xyz
 kilomtresorgularim.xyz
 kilomtresorgularm.duckdns.org
+kilomtresorgulma.web.app
 kilomtresorgulmaachp.xyz
 kilomtresorgulmahizli.web.app
 kilomtresorgulmaychp.web.app
@@ -326597,6 +326600,7 @@ projectionevaporation.top
 projectionevasive.top
 projectionpasta.top
 projectionsalutation.top
+projectjuventus.xyz
 projectmanagerskills.com
 projectmob.sbs
 projector123.zapto.org

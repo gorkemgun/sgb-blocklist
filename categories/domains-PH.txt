@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98972
-# Last change: 2026-08-07 23:50:01 UTC (sync mode: delta)
+# Records: 98974
+# Last change: 2026-08-08 04:30:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1466,6 +1466,7 @@
 3125123.uk
 3142-guestcheck.com
 314537291820356484040.xyz
+31852858529696963.baby
 319821656498156312.net
 31check.com
 31e44fc9.hygth76y.com.cn
@@ -67765,6 +67766,7 @@ projectionevaporation.top
 projectionevasive.top
 projectionpasta.top
 projectionsalutation.top
+projectjuventus.xyz
 projectoroffset.top
 projectorsuperintendent.top
 projects-poker-championships-selecting.trycloudflare.com
