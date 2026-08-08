@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256925
-# Last change: 2026-08-08 21:48:15 UTC (sync mode: delta)
+# Records: 256933
+# Last change: 2026-08-08 22:49:46 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -42452,6 +42452,8 @@ binancbasvurulari.com
 binancbesinciyil.online
 binancbesinciyilozel.online
 binancdestek.xyz
+binance--cekilisi.com
+binance--cekilisleri.com
 binance-2022.net
 binance-airdrop-carv.app
 binance-airdrop-carv.com
@@ -42472,6 +42474,8 @@ binance-campaigns-check-november.net
 binance-campaigns-spprt-for-new-years.net
 binance-campaigns-support.net
 binance-campaigns-update-check.net
+binance-cekilisi.com
+binance-cekilisleri.com
 binance-cloudserver.com
 binance-com.cfd
 binance-com.com
@@ -42544,6 +42548,7 @@ binance-tanitim-giris-formu2022ceptrase22.ertenler.club
 binance-tanitim-giris-formu2022ceptrq233.ertenler.club
 binance-tanitimgirisformu2022-mobil.ertenler.club
 binance-test.site
+binance-tr-cekilis.com
 binance-tr-finans.cf
 binance-tr-finans.tk
 binance-tr-online-islemler-com.tk
@@ -42822,6 +42827,7 @@ binancetrcampaigntogi.vercel.app
 binancetrcampssqcaigntogi.vercel.app
 binancetrcdvvolkas.vercel.app
 binancetrceearvel.vercel.app
+binancetrcekilis.com
 binancetrcenwssei.vercel.app
 binancetrclaattimerturkey.vercel.app
 binancetrclaimertueurkey.vercel.app
@@ -134075,6 +134081,7 @@ islemnoktasihemenne.net
 islemnoktasihemn.net
 islemnoktnasni.net
 islemoak.shop
+islemonayla-tr.online
 islemonaylari2024.shop
 islemonline-ekrandan-kontrol.cyou
 islemonlinebudget.com
@@ -193454,6 +193461,7 @@ s0kmarkeltler.xyz
 s0kmarkez.shop
 s0kmarklet.shop
 s0kmarkletler.shop
+s0kmarkletlm.com
 s0kmarkletlt.com
 s0kmarkteltler.xyz
 s0kmarlkeper.shop

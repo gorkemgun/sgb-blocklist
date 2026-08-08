@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99033
-# Last change: 2026-08-08 21:48:15 UTC (sync mode: delta)
+# Records: 99040
+# Last change: 2026-08-08 22:49:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8480,6 +8480,7 @@ asfsadfvkmmnkfvkln.net
 asfsdqwffsadlsafm.net
 asfwqffwqwfqwfdsa.com
 asg12q1gasgasdg.net
+asgaarasa.click
 asgadsqew.sbs
 asgafasdad222d.wiki
 asgard-cup.ru
@@ -10530,6 +10531,7 @@ basitodemezzs.is-great.net
 basitrndv-d3d0104ca57b.herokuapp.com
 basitrndv24-7af5b06c2cbc.herokuapp.com
 basitrndvu-c737251f4f78.herokuapp.com
+basivurucu.duckdns.org
 baskabirhayat.net
 baskabirkampanyafirsatibance.tech
 baskadigi.digital
@@ -34055,6 +34057,7 @@ forumsceptical.top
 forumtariff.top
 forumyilsonu-bireyselkampanya-basvur.ml
 forundel.com
+forward-yonlendir.ink
 forwardday.top
 forwardgasp.top
 forwardhorizon.net
@@ -38928,6 +38931,7 @@ haberler8.club
 haberler8.online
 haberler8.site
 haberler911.sbs
+haberler93748.shop
 haberleralir.club
 haberleralir.online
 haberleralir.site
@@ -41949,6 +41953,7 @@ hogsxdjl.org
 hohestetres.duckdns.org
 hohomster.duckdns.org
 hoistlogistics.top
+hojdefterkester.click
 hojeasdert.duckdns.org
 hojemetstrer.duckdns.org
 hojesfejterdafs.duckdns.org
@@ -56623,6 +56628,7 @@ mhrs.basvurulari.org
 mhrs.cicekcihizli.cyou
 mhrs.fr
 mhrs.iyoz.net
+mhrs.mersinstar.com
 mhrs.xyz
 mhrs5nwdkm3.duckdns.org
 mhrsanlikodemehizli.icu
@@ -56656,6 +56662,7 @@ mhrsrarandvlrmbrda.sbs
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
 mhrss.hccsrrnxav.net
+mhrss.mersinstar.com
 mhrssrandevularimmorbidwsynx.com
 mhrsssdsasasa.xyz
 mhrsvatandaslaricinonline.duckdns.org
