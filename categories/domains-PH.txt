@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99024
-# Last change: 2026-08-08 17:48:33 UTC (sync mode: delta)
+# Records: 99026
+# Last change: 2026-08-08 19:01:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -46451,6 +46451,7 @@ islemnktnasna.net
 islemnokta-nasita.net
 islemonay-acikdenizv2denizbank.com
 islemonay-tr.online
+islemonaytr.online
 islemparaiadesi.a2hosted.com
 islempenceresisaniyeler.com
 islems-ailevgenc.pw
@@ -57493,6 +57494,7 @@ mobilservisin-10.sbs
 mobilservisin-15.sbs
 mobilservisin-20.sbs
 mobilservisin-22.sbs
+mobilservisin-32.sbs
 mobilservisiniz-10.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
