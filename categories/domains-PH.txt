@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98980
-# Last change: 2026-08-08 09:03:45 UTC (sync mode: delta)
+# Records: 98984
+# Last change: 2026-08-08 09:56:22 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -57267,6 +57267,7 @@ mobil-sgkk.tk
 mobil-subelerim.com
 mobil-tr-ilanlarim.com
 mobil.acikdeniz.denizbank.4-231-237-0.plesk.page
+mobil.obilet-tr.uk
 mobil.tebligyeri.com
 mobil.uyap-gov.com
 mobil.uyap-gov.me
@@ -88654,6 +88655,7 @@ ucurumsunbana9.uk
 ucutips.org
 ucuz-frst-indirim-kacima.com.tr
 ucuz-kontor-yukle.com
+ucuz.obilet-tr.uk
 ucuzaalin.cfd
 ucuzabindim.com.tr
 ucuzahgsyukleyin.com
@@ -97821,6 +97823,7 @@ yolcu-kiralama.com
 yolcu-turizm.com
 yolcu.360-cepte-tr.com
 yolcu.360-vip.com.tr
+yolcu.obilet-tr.uk
 yolcu360-arackiralama.com
 yolcu360.cloud
 yolcu360.ga
@@ -97854,6 +97857,7 @@ yolcuarabakiralaa360.online
 yolcuarackiralayin.com
 yolcuhizmetlerivopex.net
 yolcukiralama.com
+yolculuk.obilet-tr.uk
 yolcum360.autos
 yolcum360.cfd
 yolcum360.click
