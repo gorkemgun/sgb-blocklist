@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98995
-# Last change: 2026-08-08 14:00:47 UTC (sync mode: delta)
+# Records: 99002
+# Last change: 2026-08-08 14:51:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10717,6 +10717,7 @@ basvuruailevegenc.com.tr
 basvurualegenclikkredisi.link
 basvurualtiay-deniz.online
 basvurualtiay-erteleme-onay-acik.online
+basvuruasdagarantili.shop
 basvuruaxess.xyz
 basvurubasladihemensimdikaydinitamamla.url-hero.top
 basvurubnngirisyaptr.com
@@ -11420,6 +11421,7 @@ bchdrop.com
 bchdrop.net
 bchdrops.com
 bck-2qw8.onrender.com
+bckdayigabrjo.ice.mom
 bckdayimhbk.ice.lol
 bckddell.net
 bclnvbnz.ml
@@ -18809,6 +18811,7 @@ cocukistismario1masin.org
 cocukistismarlarinahayiir.org
 cocukistismarlarinahayirr.org
 cocukkistismarlarinason.com
+cocuklarabilerinizgeldi.sbs
 codalunax.gifts
 codalytix.digital
 codashop-freefire77.duckdns.org
@@ -38313,6 +38316,7 @@ guvenliislem.duckdns.org
 guvenliislem.net
 guvenlik-btc-turk.com
 guvenlik-edevletkapisi.com
+guvenlik-web-security.ink
 guvenlik.co.vu
 guvenlik.e-i-ad-e-gowermaqn.net
 guvenlik.tr-kriptobtcturk.com
@@ -39016,6 +39020,7 @@ hackembark.top
 hackermartyr.top
 haddisenizeumr.com.tr
 hadeszcheck.online
+hadhadhkhgfdd.sbs
 hadi-40000-basvr.cyou
 hadi-40bin-basvur.cfd
 hadialalhadial.xyz
@@ -43538,6 +43543,7 @@ idd-confrm88762.com
 iddefkurban.org
 ideacornerfh.xyz
 ideaefficient.top
+ideal-yonlendirme-security.ink
 idealapron.top
 idealismpact.top
 idealisticsmuggling.top
@@ -58911,6 +58917,7 @@ naivetyemigration.top
 nakdiyardim.com
 nakedaffirmative.top
 nakedcathedral.top
+nakil-web.ink
 nakit-hiza.online
 nakit-isigi.online
 nakit-kristali.online
