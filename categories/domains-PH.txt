@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99027
-# Last change: 2026-08-08 20:50:53 UTC (sync mode: delta)
+# Records: 99033
+# Last change: 2026-08-08 21:48:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10804,6 +10804,7 @@ basvurularimfibasubemm.net
 basvurularimiz.myonlineportal.de
 basvurularimiz150.com
 basvurularinguvendeonlinesuben.xyz
+basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
 basvurulariniz.myonlineportal.de
 basvurulariniz.sbs
@@ -51211,6 +51212,7 @@ kreautopagne.de
 krebashem.pw
 krecikenlogin.webflow.io
 kredddfrstlrarrkmpnyaabsvrsu98563214.info
+kredddfrstlrarrkmpnyaabsvrsu98563214.pro
 kredi-acikdenizhemenmobildenonayla.click
 kredi-acikdenizhemenmobildenonayla.fun
 kredi-acikdenizhemenmobildenonayla.site
@@ -58088,6 +58090,7 @@ mrgatescoins.info
 mrgatesgive.com
 mrgncrk.org.tr
 mrhs-aps.online
+mrhsbsvronline.com
 mrhsrrere.cfd
 mrjeay.top
 mrketplacessuprt.com
@@ -74010,6 +74013,7 @@ sahinindenkargopsecure.com.tr
 sahinn-paradisehotel.com
 sahinnparadisehotels.com
 sahinparadisehotelresort.com
+sahiplenici-edinim-gr.ink
 sahirbinden.com
 sahivinden.com
 sahlbinden.com.tr
@@ -82398,6 +82402,7 @@ tansanitation.top
 tanteviral-21.duckdns.org
 tantononleleggo.it
 taojfj2.cn
+tap2krocsklxucu.lol
 tapaptly.top
 tapbakasana.click
 tapboost.click
@@ -87362,6 +87367,7 @@ tryshellabove.top
 tryshorting.link
 tryustaalet.webflow.io
 tryvibration.top
+tryweb-logr-home.ink
 trzd.online
 trzor-iostartt.webflow.io
 trzoxore-oath-logen.webflow.io
