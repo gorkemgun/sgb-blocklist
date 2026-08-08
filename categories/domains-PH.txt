@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99002
-# Last change: 2026-08-08 14:51:21 UTC (sync mode: delta)
+# Records: 99012
+# Last change: 2026-08-08 16:55:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8480,6 +8480,7 @@ asfwqffwqwfqwfdsa.com
 asg12q1gasgasdg.net
 asgafasdad222d.wiki
 asgard-cup.ru
+asgasdgqwre.sbs
 asgd.olapnaskiyakrotasponarfalyaskarlis.net
 asgdfsf.mulkfatnirasyokinasrob.net
 asgshges.blogspot.com
@@ -9612,6 +9613,7 @@ avsarotokiralama.online
 avsarotomobil.online
 avscar.kiralamaonlinee.com.tr
 avscarfilo.net
+avscarfilom.com
 avscarrent.genel-merkez.com.tr
 avscarrental.net
 avsfilo.online
@@ -10590,6 +10592,7 @@ basvrsawkxa.sbs
 basvrtrbnnccse.com.tr
 basvrularinizonaylansin-2025com.com
 basvrumerkzinoktasiihizlikayitol.net
+basvruncepte-garanti.dns.army
 basvrunuz-dvettgirsleri.com
 basvrutr-dcvvltgirisi.org
 basvrutrbnnrce.online
@@ -12098,6 +12101,7 @@ bicti2.com
 bid-colorparty001ptn.coinbase-com.info
 bid-tupras.com
 bideodemesi.likesyou.org
+bidiurl.com
 bidsource.top
 bidzen.net
 bieguaiwomeigeitahaolianse.top
@@ -14329,6 +14333,7 @@ bondsuplsex.com
 bondvibration.top
 bonedivert.top
 bonhomia.co
+bonkorrafael.space
 bonleotoyolhgsgecskgm.duckdns.org
 bonny-marvels-authentic.top
 bonottoweb.com.br
@@ -17620,6 +17625,7 @@ ceptehizlinakit.nettc.cc
 ceptemarketimsok.com
 ceptemarketsanal101.xyz
 ceptemarketsokkampanya.site
+ceptemobili.my-homeip.de
 ceptenfaturalihattakredi.com
 ceptenhediyeliyizbiz.online
 ceptenkolaycll.net
@@ -28528,6 +28534,7 @@ efemelektrik.com.tr
 efendiman.org
 efeniveatoomos.top
 eferoad.com
+efesotomotiv.com
 effectcrush.top
 effectiveequity.top
 effectivelofty.top
@@ -38874,6 +38881,7 @@ haberler.today
 haberler112233.shop
 haberler131231123.site
 haberler1436542.sbs
+haberler1542334.shop
 haberler16.online
 haberler16.website
 haberler163234.shop
@@ -41407,6 +41415,7 @@ hizli-online-yukleme-hizmeti.online
 hizli-paribu.com
 hizli-pttavm-hgogs.com
 hizli-pttavm-ogshgs.com
+hizli-seri-entry-g.ink
 hizli-siparis-linki.com
 hizli-siparis-sayfasi.com
 hizli-siparis-ver-klima.xyz
@@ -83317,6 +83326,7 @@ tekoas.com
 tekowave.click
 tekpos.html-5.me
 tekrardan-geldi-sizinle-daha-mutlu.com
+tekrardanbasvurozamanas.sbs
 tekrardansoktayiz.cloud
 tekrardevametmelin3.cloud
 tekrarsa.dnsup.net
