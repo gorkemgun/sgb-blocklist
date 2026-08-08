@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99026
-# Last change: 2026-08-08 19:01:24 UTC (sync mode: delta)
+# Records: 99027
+# Last change: 2026-08-08 20:50:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -57509,6 +57509,7 @@ mobilservisler.com
 mobilservisler.online
 mobilservisleriniz-1.sbs
 mobilservisleriniz-11.sbs
+mobilservisleriniz-13.sbs
 mobilservisleriniz-14.sbs
 mobilservisleriniz-3.sbs
 mobilservisleriniz-4.sbs
