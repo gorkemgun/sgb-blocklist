@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98989
-# Last change: 2026-08-08 13:14:38 UTC (sync mode: delta)
+# Records: 98995
+# Last change: 2026-08-08 14:00:47 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30042,6 +30042,7 @@ eportalgirislerr.com
 eportaliadelerizamani.com
 eportalkamu.org
 eportalonlinebasvuruformu.com
+eportalsorgu.org
 eportlgibgov.site
 epossta.wufoo.com
 epostaaa.wufoo.com
@@ -32077,6 +32078,7 @@ fast-guvenli-hizmet.com
 fast-havale.com
 fast-ilan.com
 fast-ilanlar.com
+fast-islem-merkezi.com
 fast-redirect.host
 fast.500bin-konut.com
 fastbrokerlik.net.tr
@@ -33422,6 +33424,8 @@ fkarmwebgcskgmbl.duckdns.org
 fkasbsfjsha.com
 fkdkagasksg.com
 fkelderdedsla.duckdns.org
+fkelrdexsew.duckdns.org
+fkerlerdesnesa.duckdns.org
 fkgarage.net
 fkhgsbrckayolubile.duckdns.org
 fkluzh.top
@@ -37267,6 +37271,7 @@ grantedplight.top
 grantedshrubbery.top
 grantfoot.top
 granti-web.nicepage.io
+granti-webbn.nicepage.io
 granticekilis.online
 grantiibba.duckdns.org
 grantiikreedisi.vercel.app
@@ -60238,6 +60243,7 @@ nobilityarch.top
 nobilityfamily.top
 nobilitylandmark.top
 nobilitystance.top
+nobilservislerim-2.sbs
 noblelinguistics.top
 noblepamphlet.top
 nobleplow.com
