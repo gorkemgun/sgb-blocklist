@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463531
-# Last change: 2026-08-08 05:59:20 UTC (sync mode: delta)
+# Records: 463532
+# Last change: 2026-08-08 07:18:07 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -276484,6 +276484,7 @@ merkezitr.ru.com
 merkezixndevuhizmeti.net
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
+merkeziyetsizbasvuru.com
 merkezizz.xyz
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com

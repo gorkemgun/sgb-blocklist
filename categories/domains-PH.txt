@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98976
-# Last change: 2026-08-08 05:59:20 UTC (sync mode: delta)
+# Records: 98977
+# Last change: 2026-08-08 07:18:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -56228,6 +56228,7 @@ merkezitelifkontrolleri.com
 merkezitr.app
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
+merkeziyetsizbasvuru.com
 merkezkayiti.abrdns.com
 merkezleri.ru.com
 merkezleriiadegfdgjhkl.net
