@@ -51953,6 +51953,7 @@ aselite.xyz
 aselsan-app.digital
 aselsan-healthcare.com
 aselsan-soft.com
+aselsan-system.com
 aselsan-tr.com
 aselsan-tr.net
 aselsan.store
@@ -63143,6 +63144,7 @@ basvurusistemi.online
 basvurusistemim.com
 basvurusistemonlineglbl.com
 basvurusistm.com
+basvurusitesi-production.up.railway.app
 basvurusmslergirislerim.net
 basvurusnm.cyou
 basvurusondakika.cf

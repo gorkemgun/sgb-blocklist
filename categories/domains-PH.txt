@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 98974
-# Last change: 2026-08-08 04:30:43 UTC (sync mode: delta)
+# Records: 98976
+# Last change: 2026-08-08 05:59:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8444,6 +8444,7 @@ aseftanri.store
 aselsan-app.digital
 aselsan-healthcare.com
 aselsan-soft.com
+aselsan-system.com
 aselsan-tr.net
 aselsanai.net
 aselsanaibot.com
@@ -10867,6 +10868,7 @@ basvurusayfasi.online
 basvuruservisi.ml
 basvurusirasi.online
 basvurusistemi.cfd
+basvurusitesi-production.up.railway.app
 basvurusonucueuroonlneaeglobaliletisimsorgutrbinance.run.place
 basvurusorgunuz.info
 basvurusorgutrglobalbinanceactivasyononay.run.place
