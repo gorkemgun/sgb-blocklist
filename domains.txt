@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463626
-# Last change: 2026-08-09 07:19:04 UTC (sync mode: delta)
+# Records: 463631
+# Last change: 2026-08-09 09:04:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -54480,6 +54480,7 @@ avantaj-dunyasi3.xyz
 avantaj-dunyasi6.xyz
 avantaj-dunyasi9.xyz
 avantaj-istecepbasvurum.vercel.app
+avantaj-tr.online
 avantaj-web.guru
 avantaj-ziraatbankasi.com
 avantajalismarketfirsati.click
@@ -187549,6 +187550,7 @@ gunsonukampanyalariguzel.online
 gunspedgrntnewyears.net
 guntac.bet
 gunu-gelir-gulersin.net
+gunu-tr.online
 gunumemlak.net
 gunumfaturam.net
 gunumodeme.net
@@ -221959,6 +221961,7 @@ incblog.su
 incczcomga.duckdns.org
 incegecis.is-best.net
 incele-tr-glory.ink
+incele.online
 incelemekurulu.org
 incentiveconstrain.top
 incentivegarlic.top
@@ -269650,6 +269653,7 @@ magaza-sok.com.tr
 magaza-teslimat.com
 magaza-v-kayit.tk
 magaza.duckdns.org
+magaza.online
 magaza.paranguvende-banaozel.com
 magaza.troy-store.com
 magaza1o1.com
@@ -455004,6 +455008,7 @@ yklehgsonlne.cfd
 yklehgsyklepra.cfd
 ykleistkart.online
 yklemebmcxzll.net
+yklemebsladi.cfd
 yklemesrguu.cfd
 yklemeyapbmclll.net
 yklemeyapbnce.net

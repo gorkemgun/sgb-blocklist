@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99049
-# Last change: 2026-08-09 07:19:04 UTC (sync mode: delta)
+# Records: 99054
+# Last change: 2026-08-09 09:04:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9331,6 +9331,7 @@ availeminence.top
 avangard-tickets.ru
 avanosihwhsnznvi.app
 avantaj-dunyalari4.xyz
+avantaj-tr.online
 avantaj-web.guru
 avantajburada.click
 avantajburada.info
@@ -38123,6 +38124,7 @@ gunnpaketlemee.com
 gunrectification.top
 gunrehberi.online
 gunsigorta.site
+gunu-tr.online
 gununbakisi.cyou
 gunundosyasi.com
 gununfirsatlari.com
@@ -44517,6 +44519,7 @@ incaflex-uno.com
 incainn-id8492.world
 incandescentapp.com
 incappcloud.com
+incele.online
 incelemekurulu.org
 incentiveconstrain.top
 incentivegarlic.top
@@ -54081,6 +54084,7 @@ magaza-ilanim.com
 magaza-mobil.com
 magaza-odemesi.com
 magaza-siparis-ver.online
+magaza.online
 magaza.paranguvende-banaozel.com
 magaza.troy-store.com
 magazaalarii.com
@@ -97795,6 +97799,7 @@ ykla-frst.online
 yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
+yklemebsladi.cfd
 yklemesrguu.cfd
 yklemeyapbmclll.net
 yklemeyapbnce.net
