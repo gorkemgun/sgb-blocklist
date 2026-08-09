@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99054
-# Last change: 2026-08-09 09:04:53 UTC (sync mode: delta)
+# Records: 99058
+# Last change: 2026-08-09 09:59:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5754,6 +5754,7 @@ al-online.com.tr
 al-rndev-smdi-hemen.duckdns.org
 al-sat-sahibinden.com
 al-sget.com.tr
+al-tr.online
 al-vaikf.online
 al0l.store
 al0lalisverisgunleri.dnsup.net
@@ -17638,6 +17639,7 @@ ceptehizlinakit.nettc.cc
 ceptemarketimsok.com
 ceptemarketsanal101.xyz
 ceptemarketsokkampanya.site
+ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
 ceptenfaturalihattakredi.com
@@ -53293,6 +53295,7 @@ login-instagram.network
 login-live--auth-ledger.webflow.io
 login-live-ledger.webflow.io
 login-liveledger-live.webflow.io
+login-microsoft-virtualpe.com
 login-nexo.com
 login-papara.net
 login-paypel.com
@@ -97058,6 +97061,7 @@ yayinsvasldi.online
 yaylax.com
 yayman101.com
 yaymani65.dns.navy
+yaytrartkrpatmyn.shop
 yayzx.com
 yaz-firsati1605.site
 yaz-firsatlari.my-homeip.net
