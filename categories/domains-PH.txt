@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99040
-# Last change: 2026-08-08 22:49:46 UTC (sync mode: delta)
+# Records: 99045
+# Last change: 2026-08-09 02:31:33 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17469,8 +17469,10 @@ ceilingexcerpt.top
 cejx3ah.ytyukai.cn
 cekbinbesyuzduman.com
 cekiliiss.com
+cekilis--binance.com
 cekilis--paribu.com
 cekilis-acikdenizv2denizmobil.com
+cekilis-binance.com
 cekilis-event.com
 cekilis-event.globalcekilis-hemenbasvurveyararlan.com
 cekilis-firsatlari.com.tr
@@ -17478,6 +17480,7 @@ cekilis-paribu.cf
 cekilis-paribu.com
 cekilis-subemobildenizonay.com
 cekilis1.lat
+cekilisbinance.com
 cekilisbitmez7.sbs
 cekilisbitmez8.sbs
 cekilisci.store
@@ -17633,6 +17636,7 @@ ceptemarketimsok.com
 ceptemarketsanal101.xyz
 ceptemarketsokkampanya.site
 ceptemobili.my-homeip.de
+ceptemobilim.my-homeip.de
 ceptenfaturalihattakredi.com
 ceptenhediyeliyizbiz.online
 ceptenkolaycll.net
@@ -42122,6 +42126,7 @@ honedestler.duckdns.org
 honehester.duckdns.org
 honejestrer.duckdns.org
 honejsterheyr.duckdns.org
+honejsterkestler.click
 honeshadrteker.duckdns.org
 honesjterlarser.duckdns.org
 honestcardinal.top
