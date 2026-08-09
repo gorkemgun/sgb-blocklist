@@ -1,28 +1,28 @@
 {
   "layout": 3,
-  "last_run": "2026-08-09 10:54:34",
+  "last_run": "2026-08-09 11:48:08",
   "last_full": "2026-08-09 02:31:33",
   "last_mode": "delta",
-  "date_gte": "2026-08-09 03:59:00",
-  "newest_record_date": "2026-08-09 10:35:06.838829",
+  "date_gte": "2026-08-09 04:54:34",
+  "newest_record_date": "2026-08-09 11:10:01.741073",
   "fetched": {
-    "domain": 16,
+    "domain": 17,
     "url": 0,
     "ip": 0,
     "ip6": 0,
     "ip6net": 0
   },
   "counts": {
-    "domains.txt": 463638,
+    "domains.txt": 463639,
     "urls.txt": 6927,
     "ipv4.txt": 15167,
     "ipv6.txt": 6,
     "ipv6net.txt": 0,
-    "url-list.txt": 485738,
+    "url-list.txt": 485739,
     "domains-from-urls.txt": 3305
   },
   "category_counts": {
-    "categories/domains-BP.txt": 256935,
+    "categories/domains-BP.txt": 256936,
     "categories/domains-CA.txt": 166,
     "categories/domains-MC.txt": 41105,
     "categories/domains-MD.txt": 65457,
@@ -45,11 +45,11 @@
     "categories/urls-PH.txt": 272
   },
   "delta_vs_previous": {
-    "domains_added": 3,
+    "domains_added": 1,
     "domains_removed": 0
   },
   "changed_files": [
-    "categories/domains-PH.txt",
+    "categories/domains-BP.txt",
     "domains.txt",
     "url-list.txt"
   ],
