@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99073
-# Last change: 2026-08-09 17:50:07 UTC (sync mode: delta)
+# Records: 99074
+# Last change: 2026-08-09 19:04:09 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38380,6 +38380,7 @@ guvenliodemesirketi.xyz
 guvenliodemeyontemi.com
 guvenlionline.com
 guvenlionline.com.tr
+guvenlipanel.store
 guvenlipazaradresi.xyz
 guvenliqr.com
 guvenlisahibindenodemeyonlendirme.xyz
