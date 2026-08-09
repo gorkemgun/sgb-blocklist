@@ -2053,6 +2053,7 @@
 101-den-firsatlariniz-kacmasin.sbs
 101-efsane.shop
 101-eozel.xyz
+101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
 101-eylulgecesi13.com
 101-eylulgecesi13.net
@@ -102326,6 +102327,7 @@ claronqual.gruposenhordobonfim.org
 clarvix.sbs
 clas-c7.biz
 clasare.com.tr
+clascicek.com
 clases.pastorluiscastro.com
 clashbenevolent.top
 clashshrewd.top
@@ -159160,6 +159162,7 @@ facebook--com.ml
 facebook--login-security.ph
 facebook-change-password.com
 facebook-checkpoint.ddns.net
+facebook-confirm-login.com.ph
 facebook-de.ddns.net
 facebook-giris.cf
 facebook-giris.ml
@@ -159198,6 +159201,16 @@ facebookismetanow.com
 facebooklog.duckdns.org
 facebooklogin-facebook.com
 facebookloginapponline.ph
+facebookloginlabd.com.ph
+facebookloginlabe.com.ph
+facebookloginlabe.net.ph
+facebookloginlabg.com.ph
+facebookloginlabg.net.ph
+facebookloginlal.com.ph
+facebookloginlal.net.ph
+facebookloginlam.com.ph
+facebookloginlan.com.ph
+facebookloginlan.net.ph
 facebookloginlawyer.com.ph
 facebookloginonlinelegal.com.ph
 facebookloginparty.com.ph
@@ -210398,6 +210411,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemnoktnasn.net
+hmnislemntkas.net
 hmnislemonlniesonuc.net
 hmnislmbkntans.net
 hmnislmknat.net
@@ -253039,6 +253053,7 @@ kisiselwarrantybb.xyz
 kisisevgi.org
 kisisorgu.blogspot.com
 kisitkaldir.pro
+kisitkaldirmalinkibasvuru.duckdns.org
 kisiye-ozel-kampanyalar.com
 kisiyeozel.site
 kisiyeozelkampanya.com
