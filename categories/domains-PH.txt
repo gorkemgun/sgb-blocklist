@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99058
-# Last change: 2026-08-09 09:59:00 UTC (sync mode: delta)
+# Records: 99061
+# Last change: 2026-08-09 10:54:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29733,6 +29733,7 @@ enguzelalisveris.online
 enguzelksko.xyz
 enguzellikliurun.xyz
 engzl-anilar-birlikte-oldu.pro
+engzlera-82brdayz.org
 engzlfirstlerssizlerde.com
 enhanceallusion.top
 enhancecollision.top
@@ -76334,6 +76335,7 @@ shopkeeperly.gifts
 shoplovego.com
 shoplunaq.digital
 shopmix.click
+shopmobil.online
 shopnestat.com
 shopopp-2912.click
 shoppingmartyrdom.top
@@ -90295,6 +90297,7 @@ valderanit.xyz
 valdrmedia.top
 valedevation.top
 valencrestora.top
+valenspara-elemond.it.com
 valenspara-elre.it.com
 valenspara-fejoo.it.com
 valentakkx.store
