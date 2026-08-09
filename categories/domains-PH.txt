@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99063
-# Last change: 2026-08-09 14:55:07 UTC (sync mode: delta)
+# Records: 99069
+# Last change: 2026-08-09 15:49:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1454,6 +1454,7 @@
 31-220-86-57.plesk.page
 31102025basvuru.shop
 31132556.cloud
+312221222145558999893.duckdns.org
 312222545548789988992.duckdns.org
 312222545548789988993.duckdns.org
 312222545548789988994.duckdns.org
@@ -44050,6 +44051,7 @@ ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
 ilert.ru
 ilesatinal.com
+ileservishzmetlerinz.com
 iletiismediadedd93458.com
 iletisim-aktarim-ekrani.site
 iletisim-hzmtleri.org
@@ -50349,6 +50351,7 @@ kisaltyo.click
 kisaparlament.net
 kiscrrefrsa.cfd
 kiseads.com
+kisim-edinim-hakkinda.ink
 kisisel.website
 kisiselgelisimvesosyalmedyayonetimi.xyz
 kisisellestirme-istanbul-website.web.app
@@ -73562,6 +73565,7 @@ sahibinden.ileguvenliodeyin.com
 sahibinden.ileodeme-tr.com
 sahibinden.ileodeyin.com
 sahibinden.ileservishzmetin.com
+sahibinden.ileservishzmetlerinz.com
 sahibinden.islemlerin-mobilde.com
 sahibinden.iyzico-get-safe.com
 sahibinden.kolay-alimsatim.com.tr
@@ -77906,6 +77910,7 @@ snardesdefac.duckdns.org
 snatchantagonistic.top
 snathffhfchable.com
 snbdfejkonslkindfklvnjsoijdnflkmdkfljniofds.vip
+snbenmcokckardfas80.click
 snbnlarbrdanalmdnkrl.shop
 sncksancak.org
 sndbnlaraklgld.com
@@ -92143,6 +92148,7 @@ vudvt0l.cn
 vugca.cn
 vuhukul-daeredesede.lol
 vulgaparrot.top
+vulipilongo-katore.lol
 vulkanpanel.store
 vulnerabilitymute.top
 vulnerablearch.top
