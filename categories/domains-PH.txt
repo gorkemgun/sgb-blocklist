@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99076
-# Last change: 2026-08-09 20:54:11 UTC (sync mode: delta)
+# Records: 99079
+# Last change: 2026-08-09 21:50:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1783,6 +1783,7 @@
 45-77-60-160.plesk.page
 45-91-12-47-15.top
 45-91-169-60.plesk.page
+452145632563256255.duckdns.org
 452172.sbs
 45235362.cloud
 454219-24423.cloud
@@ -3281,6 +3282,7 @@ a101m.sponsorlukampanyapersembemasa.com
 a101m.xn--sponsorlukampanyalarm-3gd.com
 a101magaza.shop
 a101magazaa.com
+a101magazafislerionline.net
 a101magazaplus.com
 a101market.aktuelaldinaldin.com
 a101market.app
@@ -82384,6 +82386,7 @@ tallpartisan.top
 talvirox.store
 talvona.store
 talvoro.store
+tam-mutabakat.garden
 tam-simdi-sirasi.com
 tam-sirasi-simdi.com
 tam-zamani-su-siralar.cyou
