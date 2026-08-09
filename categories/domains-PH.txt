@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99069
-# Last change: 2026-08-09 15:49:33 UTC (sync mode: delta)
+# Records: 99071
+# Last change: 2026-08-09 16:57:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -43296,6 +43296,7 @@ icepalace-bolshoi.ru
 icepalace-kassa.com
 icepalace-kassa.ru
 icepalace-ticket.ru
+icerik-onemli.garden
 icesignify.top
 icesulhur.top
 icevundr.com
@@ -48657,6 +48658,7 @@ kadinsiddetlerinehayiir.org
 kadinsiddetolmasin.com
 kadirbkasers.net
 kadirhanapiservice.shop
+kadlkburdaartknapcagzburda37.art
 kadlnaslddetehaylr.org
 kadnaslddetehayir.org
 kadobaba.click
