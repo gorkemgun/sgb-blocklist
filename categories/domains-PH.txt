@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99061
-# Last change: 2026-08-09 10:54:34 UTC (sync mode: delta)
+# Records: 99062
+# Last change: 2026-08-09 13:18:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12235,6 +12235,7 @@ bilgilendir.website
 bilgilendir.xyz
 bilgilendirilme.net
 bilgilendirme-cim.com
+bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilennyolgecis.netlify.app
 bilgilennyolgeciss.netlify.app

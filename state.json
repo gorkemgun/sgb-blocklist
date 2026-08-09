@@ -1,34 +1,34 @@
 {
   "layout": 3,
-  "last_run": "2026-08-09 11:48:08",
+  "last_run": "2026-08-09 13:18:06",
   "last_full": "2026-08-09 02:31:33",
   "last_mode": "delta",
-  "date_gte": "2026-08-09 04:54:34",
-  "newest_record_date": "2026-08-09 11:10:01.741073",
+  "date_gte": "2026-08-09 05:48:08",
+  "newest_record_date": "2026-08-09 12:50:24.503017",
   "fetched": {
-    "domain": 17,
+    "domain": 26,
     "url": 0,
     "ip": 0,
     "ip6": 0,
     "ip6net": 0
   },
   "counts": {
-    "domains.txt": 463639,
+    "domains.txt": 463648,
     "urls.txt": 6927,
     "ipv4.txt": 15167,
     "ipv6.txt": 6,
     "ipv6net.txt": 0,
-    "url-list.txt": 485739,
+    "url-list.txt": 485748,
     "domains-from-urls.txt": 3305
   },
   "category_counts": {
-    "categories/domains-BP.txt": 256936,
+    "categories/domains-BP.txt": 256944,
     "categories/domains-CA.txt": 166,
     "categories/domains-MC.txt": 41105,
     "categories/domains-MD.txt": 65457,
     "categories/domains-MI.txt": 171,
     "categories/domains-MU.txt": 759,
-    "categories/domains-PH.txt": 99061,
+    "categories/domains-PH.txt": 99062,
     "categories/ipv4-BP.txt": 105,
     "categories/ipv4-CA.txt": 837,
     "categories/ipv4-MC.txt": 9302,
@@ -45,11 +45,12 @@
     "categories/urls-PH.txt": 272
   },
   "delta_vs_previous": {
-    "domains_added": 1,
+    "domains_added": 9,
     "domains_removed": 0
   },
   "changed_files": [
     "categories/domains-BP.txt",
+    "categories/domains-PH.txt",
     "domains.txt",
     "url-list.txt"
   ],
