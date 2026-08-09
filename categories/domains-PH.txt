@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99045
-# Last change: 2026-08-09 02:31:33 UTC (sync mode: full)
+# Records: 99049
+# Last change: 2026-08-09 07:19:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8413,6 +8413,7 @@ asdflflfaajsdaakdf.cyou
 asdflflfaajsdaakdf.icu
 asdfqff22fasf.blogspot.com
 asdfqwervcxz.net
+asdfsdfgdssdf.duckdns.org
 asdfsdfsdgdf.duckdns.org
 asdfsdfwsdf.duckdns.org
 asdgg3e23g32gg32.com
@@ -10147,6 +10148,7 @@ badlyheave.top
 badlyroom.top
 badmintonsynthesis.top
 badpropeller.top
+badsfghsadasdds.gleeze.com
 baelandworld.com
 bafd7a50.gfwisd-235.shop
 bafkreiaddfngryv3zb3f4ed22nnrt4bmdvyzluozw3texrixwbypvyfxau.ipfs.dweb.link
@@ -49185,6 +49187,7 @@ karacaileramazan.cfd
 karacaistnye.cfd
 karacakaracamhpme.com.tr
 karacakaramacakovalaca.xyz
+karacakorkmaz.com
 karacalar-sepetimden.vercel.app
 karacan-cepte.com.tr
 karacan-cepte.info.tr
@@ -56388,6 +56391,7 @@ metaglobalhelpsupport.com
 metaglobalsecuritys.com
 metahelpassistant.com
 metahsrait.top
+metakamp.site
 metakmasskklogin.webflow.io
 metalbook.top
 metalicanar.com
