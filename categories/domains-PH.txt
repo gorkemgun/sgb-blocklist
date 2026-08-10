@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99082
-# Last change: 2026-08-10 06:44:26 UTC (sync mode: delta)
+# Records: 99173
+# Last change: 2026-08-10 08:52:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4343,6 +4343,9 @@ action-price.serseason.com
 action-shakepay.com
 actiothreaz.com
 activatebcarbon.com
+activatemypasskey.com
+activatepasskey.com
+activatepasskeyportal.com
 activatepoised.top
 activateturkey.online
 activation-form.vercel.app
@@ -4363,6 +4366,7 @@ actualtr.blog
 actwillis.com
 acun.ink
 acun.store
+acunmedia.digital
 acuteinvert.cyou
 acyvn.cyou
 acyvn.icu
@@ -4421,6 +4425,7 @@ adcjklcjjqexqwexqwi123x12.cfd
 adcjobengage.com
 adclakcskdlacskklsdflkckladca.cfd
 adcvt-cvlrt.com
+add-passkey.com
 add-signal-group.com
 add-signal-groups.com
 addeniofexis.top
@@ -4428,8 +4433,11 @@ addictivrvgeful.top
 additionalgaorous.top
 additionally-formguestis.com
 additionaltones.com
+addmypasskey.com
+addoktapasskey.com
 addon-o-mozila--org.webflow.io
 addon.web1337.net
+addpasskey2fa.com
 address-4-72.top
 address.distributions.life
 addressagony.top
@@ -4437,7 +4445,9 @@ addressbudget.com
 addresscoalition.top
 addressmoan.top
 addssanonymous.top
+addssopasskey.com
 addventory.com
+addyourpasskey.com
 aded.click
 adenbaba.online
 adencheck.online
@@ -8653,6 +8663,7 @@ assignevacuation.top
 assignmentcradle.top
 assignmentdedicate.top
 assignmentindefinite.top
+assignpasskey.com
 assimilateadvent.top
 assimilateclasp.top
 assimilaterigidity.top
@@ -17994,6 +18005,7 @@ checkmate-id8278.world
 checkmate.zone
 checkofmahsen.strangled.net
 checkoutlane.org
+checkpasskey.com
 checkpoint-vpn.com
 checkremnant.top
 checksakura.site
@@ -19820,6 +19832,8 @@ compage-arrivalcheckin-29405835.com
 companionamplification.top
 companionshipverse.top
 company-certificadications.com
+company.addssopasskey.com
+company.createssopasskey.com
 companya.top
 companydepreciate.top
 companygloogdrivefile.webflow.io
@@ -22478,8 +22492,12 @@ creamymonotony.top
 creamyunveil.top
 createidiot.top
 createmal.digital
+createmfa.com
+createmypasskey.com
+createpasskey.com
 createrenowned.top
 createspecialbeauty.top
+createssopasskey.com
 createtempdoc.com
 creationalignment.top
 creationhemisphere.top
@@ -24614,6 +24632,7 @@ deploredelicacy.top
 deploreintrigue.top
 deployimperative.top
 deploymentannex.top
+deploypasskey.com
 depmilionario.store
 depndncefantic.top
 deportanalogous.top
@@ -25459,6 +25478,7 @@ diji-internetsiparis.sbs
 diji-siparis.sbs
 dijicuucey.com
 dijiitallgarantibasvuru.com
+dijionline-kampanya.sbs
 dijisiparis-internet.sbs
 dijital-birlik.org
 dijital-denizlili.tk
@@ -26178,6 +26198,7 @@ dmarisbayresortshotels.com
 dmartindia.tr
 dmartshopping.com.tr
 dmaz33ecrouch.top
+dmca-chrome-extensions.click
 dmcomunicacaovisual.com
 dmed33alisland.top
 dmenexts.net
@@ -29568,6 +29589,8 @@ enablefather.top
 enablemaneuver.top
 enableorthod.top
 enablepark.top
+enablepasskey.com
+enablepasskey2fa.com
 enableswamp.top
 enactjust.top
 enactmentdirectory.top
@@ -29863,6 +29886,7 @@ enrollmentcalcium.top
 enrollmentfeminist.top
 enrollmentsocket.top
 enrollmentwink.top
+enrollpasskey.com
 enrolmensenient.top
 ens-domains.webflow.io
 ensaevasilda.moy.su
@@ -30722,6 +30746,7 @@ evasivetemporal.top
 evastaflip.top
 evatandas.org
 evatandasaidtidefrsati.com
+evatandasbilgi.org
 evatandsaidthakiadsi.com
 evavillam.com
 evbasvuru3.duckdns.org
@@ -32424,6 +32449,7 @@ fenlinllumkor.com
 fenlummirkor.com
 fenmalloq.gifts
 fenmallu.com
+fennelspire.info
 fenniekibi.net
 fenomenbegeni.com
 fenorahq.store
@@ -39113,6 +39139,7 @@ haftalik-kapimda-urunler.com
 haftalik-market-indirimleri-ve-guncel-brosur-listesi.cfd
 haftalikaktuelkampanyalar.life
 haftalikmagaza.com
+haftalikmarketafisi.com
 haftalikmarketalisverisiniduzenle.cfd
 haftalikurunlerimiz.duckdns.org
 haftamasgirfirsatinn.com
@@ -39669,6 +39696,7 @@ havaist.dev
 havaist.org
 havaististnbl.com
 havale-gonderici.com
+havale-gonderim.com
 havale-ilan.com
 havalem-fast.com
 havalialetsatinal.com
@@ -42650,6 +42678,7 @@ hubinfodocs.com
 hubnedther.pro
 hubobik.com
 hubofstyle.com
+hubpasskey.com
 hubservices-crm.com
 hubtotrade.pro
 hucarent.com
@@ -43638,6 +43667,7 @@ idlesynthetic.top
 idlyail.top
 idnsdlxmrlsmdixndsirklcmrlm.online
 idochecker.fun
+idokta.com
 idolcollide.top
 idolcriterion.top
 idoldenounce.top
@@ -49883,9 +49913,11 @@ keyifliemekli.com
 keykwtgoysdays.net
 keylearnva.com
 keymedla.com
+keyokta.com
 keyoption.top
 keys-coinbase.com
 keyservicebar.com
+keysyncos.com
 keziq.help
 kfasdhgajsdodeme.net
 kfdsmkds.shop
@@ -54607,6 +54639,7 @@ makemodern.top
 makemodern.vip
 makemystep.online
 makenko.net
+makepasskey.com
 makepetition.top
 makeupmaestic.top
 makeventure.top
@@ -58177,6 +58210,7 @@ msk-concert.com
 mskhksmkrltkrmrmmm.com
 msofficesign.com
 msonlinecenter.com
+mspasskey.com
 msport-arena.ru
 msrnib.top
 mssjj345.blogspot.com
@@ -58709,6 +58743,7 @@ my1pasword.com
 myaccount-hbspot.com
 myaccountsecure2store-verifywebappid.com
 myaccountsecure841store-authwebappid.com
+myaccountsecurity.com
 myaillc.com
 myaillcpro.com
 myalanosan.net
@@ -58732,6 +58767,7 @@ mycoceit.top
 mycoinba.se
 mycoldstorage-coinbase.com
 mycommbannk-au.web-internet-online-digital.com
+myconnectkey.com
 mydatabase.live
 mydorra.my
 mydvr22.vercel.app
@@ -58811,6 +58847,7 @@ mymtamsckzlogunz.webflow.io
 mymtamsckzwletz.webflow.io
 mynethaber.cloud
 mynethaber.online
+mynewpasskey.com
 mynewsystemcontroll.com
 mynslemntvtruk.net
 mynslmlrntvuk.net
@@ -58822,7 +58859,10 @@ mynslmtvuk.net
 mynslmztvuk.net
 mynstvsztvk.net
 mynvesry.net
+myoktasso.com
 mypasskey.info
+mypasskeyid.com
+mypasskeysso.com
 myposcheck.com
 myqafua.info
 myqelix.my
@@ -58850,6 +58890,7 @@ mysnstvk.net
 myspace-web.it
 myspacebuzz.com
 mysrver-chbackend.com
+myssopasskey.com
 mystay-id6674.com
 mysteriousscornful.top
 mysterioussubtle.top
@@ -59789,6 +59830,7 @@ newmetatellifhaklaridestek.tk
 newmodernrunner.info
 newmodernrunner24.info
 newonlinesor.ru
+newpasskey.com
 newpassword-coinbase.com
 newpayee-auth0.com
 newpltfaltin.com
@@ -61977,7 +62019,9 @@ okontorleral.net
 oksaocanesa.cfd
 oksitepl.site
 okta-louisvuitton.com
+oktaenroll.com
 oktalogin-targetcompany.com
+oktaportalsso.com
 oktayreklamajansi.net
 okul10gb.blogspot.com
 okuldestegim.com
@@ -62086,6 +62130,7 @@ omegaengineering-inc.com
 omentosplenopexy.com
 omentra.site
 omexom-nz.com
+omio-trips.com
 omiohotels.com
 omionlines.cc
 omisego.sa.com
@@ -63121,6 +63166,7 @@ orbitforge.space
 orbitimt.com
 orbitintrinsically.top
 orbitisan.com
+orbitnuvo.com
 orbitont.com
 orbitpeakd.top
 orbivana.com
@@ -63309,6 +63355,8 @@ oseucsddi.cfd
 osheman45.sambal.web.id
 osintpanel.xyz
 osixmals.com
+oskeyconnect.com
+oskeysync.com
 osksmlgkms.cfd
 oslddjb.buzz
 oslocheck.com.tr
@@ -64647,6 +64695,7 @@ paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.remotewire.net
+paribu-pepecekilisim.com
 paribu-pepehediyem.com
 paribu-pepehediyem.info
 paribu-pepehediyesi.com
@@ -64715,6 +64764,7 @@ paribuaraba-hediye.com
 paribuaraba-kazanci.com
 paribuaraba-kazanci.info
 paribuaraba-kazanci.link
+paribuaraba-kazandim.com
 paribuaraba-kazandim.info
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
@@ -65156,7 +65206,32 @@ passionslack.top
 passiveassortment.top
 passivecontrive.top
 passiveobstruct.top
+passkey-check.com
+passkey-connect.com
+passkey-enable.com
+passkey-portal.com
+passkey-setup.com
+passkeyactivation.com
+passkeyadd.com
+passkeycenter.com
+passkeycreate.com
+passkeycreator.com
+passkeydeploy.com
+passkeyenable.com
+passkeyenroll.com
+passkeyhelpdesk.com
+passkeymfa.com
+passkeyokta.com
+passkeyportal.com
+passkeyportalsetup.com
+passkeyregister.com
+passkeyregistration.com
+passkeyrollout.com
+passkeyset.com
 passkeysetup.com
+passkeystatus.com
+passkeysupport.com
+passkeyuser.com
 passlanora.com
 passo-lig.com
 passoi1g.com
@@ -66757,9 +66832,11 @@ portalkamu.org
 portalkleimund.info
 portalldanykleme.net
 portalm1hrs.xyz
+portalpasskey.com
 portalrandevuwsynxhak4n.duckdns.org
 portalsecrutiymedia.ml
 portalsecrutiyteam-contact.ml
+portalsetuphub.com
 portalsorgulama.org
 portaltmgg.online
 portalvatandasmhrsonlinegirisekranimiz.duckdns.org
@@ -70919,6 +70996,7 @@ register-kampshpriregstoreinxe34125.shop
 register-kampshpriregstoreinxes24ss.online
 registeragitation.top
 registercampanyonline.com
+registerpasskey.com
 registrarmetropolitan.top
 registrarmonotonous.top
 registrarmortal.top
@@ -74957,6 +75035,7 @@ secure-param-guvende-online.com
 secure-param-sahibinden-guvende-get-online.tk
 secure-paramguvende.com
 secure-paramguvendee.ml
+secure-passkey.com
 secure-pay.fr
 secure-payment.cfd
 secure-paypal-verification.com
@@ -75032,6 +75111,7 @@ secure1sahibindenparamguvendev4.com
 secureaccess-cryptoissue.webflow.io
 securealimlar.com.tr
 securealisveris.org
+secureauthpasskey.com
 securebnnannce.info
 securebnnannce.pro
 securebrowssolution.com
@@ -75951,6 +76031,7 @@ setbackcoexist.top
 setcarsfilo.com
 setourset.webflow.io
 setoven.store
+setpasskey.com
 setpreoccupied.top
 setrm.top
 setrms-co.top
@@ -75964,6 +76045,8 @@ settlementvoid.top
 settleourdebt.com
 setup-ledger.live
 setupprofi.com
+setupsso.com
+setupssopasskey.com
 seturydutyfree.site
 setvipsec.club
 sevbasvurtrk.net
@@ -79457,6 +79540,7 @@ spyyrxx-nvy.net
 sqcepo.replit.app
 sqcssi.top
 sqcytjjh.xdk8ax.cn
+sqfepjvmrd.xyz
 sql-omnicrosoft365.com
 sql.vecedoo.online
 sqlhubzz.com
@@ -79707,6 +79791,7 @@ ssobtcturk.com
 ssocloudwebmiald5tdy5e767tyr7fityfxye564576.s3-eu-central-1.ionoscloud.com
 ssoklrkmfrklfskmczzrmtm.com
 ssoookkk-firrrstlrmmm.com
+ssopasskey.com
 sspshtssnvis.net
 sspsstrafikodemeleri.net
 ssrealestates.com
@@ -80007,6 +80092,8 @@ startleoar.top
 startleprosecute.top
 startnewly0.app
 startodulunuchekorderthesound.net
+startpasskey.com
+startpasskeysetup.com
 startqube.com
 startr-leadgercom.webflow.io
 startrecovery-coinbase.com
@@ -88279,6 +88366,7 @@ tuv-trk.net
 tuv.12855w652.forum
 tuvarac.com
 tuvaracmuaynehizmetleri.net
+tuvislem.site
 tuviviet.info
 tuvkdkaksaksaas.com.tr
 tuvktrdkodeme.net
@@ -89790,6 +89878,7 @@ uygunacentams.web.tr
 uygunacilsigortacim.com.tr
 uygunahmeaalll.website
 uygunalisverlerler.rest
+uygunarabakiralama.com.tr
 uyguncasiqortalarim.com.tr
 uygunfaizlioran.bns-vio.site
 uygunfatura.net
@@ -97952,6 +98041,8 @@ yolcu360rent.shop
 yolcu360s.autos
 yolcu36o.net
 yolcuarabakiralaa360.online
+yolcuarackirala.com.tr
+yolcuarackiralama.com.tr
 yolcuarackiralayin.com
 yolcuhizmetlerivopex.net
 yolcukiralama.com

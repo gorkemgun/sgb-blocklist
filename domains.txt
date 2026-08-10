@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 463698
-# Last change: 2026-08-10 06:44:26 UTC (sync mode: delta)
+# Records: 463808
+# Last change: 2026-08-10 08:52:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -31491,7 +31491,10 @@ activateappleid.com
 activatebcarbon.com
 activatecodeoption.ddns.net
 activateme.zapto.org
+activatemypasskey.com
 activateoffice.ddns.net
+activatepasskey.com
+activatepasskeyportal.com
 activatepoised.top
 activateturkey.online
 activation-agricole.ddns.net
@@ -31573,6 +31576,7 @@ acun.ink
 acun.store
 acunilicali-212.xyz
 acunilicali.cfd
+acunmedia.digital
 acunt-securityalert.ddns.net
 acupuncturebentonville.com
 acupuncturecenterofaugusta-devis-signe-a.duckdns.org
@@ -31848,6 +31852,7 @@ adconfig.appscomeon.com
 adcreators.com.au
 adcrtb.com
 adcvt-cvlrt.com
+add-passkey.com
 add-signal-group.com
 add-signal-groups.com
 add0be.hopto.org
@@ -31872,14 +31877,17 @@ additionalinfo.hopto.org
 additionally-formguestis.com
 additionaltones.com
 addlock.mitial.at
+addmypasskey.com
 addnow.zapto.org
 addo.iblogger.org
 addobefilevx.ddns.net
+addoktapasskey.com
 addon-o-mozila--org.webflow.io
 addon.web1337.net
 addons.news
 addons1.12cloudaddons198756.workers.dev
 addpack-digitalhosting.duckdns.org
+addpasskey2fa.com
 address-4-72.top
 address.distributions.life
 addressagony.top
@@ -31889,7 +31897,9 @@ addressmoan.top
 addressreward.com
 addsaintgaudens.com
 addssanonymous.top
+addssopasskey.com
 addventory.com
+addyourpasskey.com
 adeaidate-devletportaligovtr.com
 adeba.hopto.org
 adebighead23892389.hopto.org
@@ -52679,6 +52689,7 @@ assignmentcradle.top
 assignmentdedicate.top
 assignmenthelptoday.com
 assignmentindefinite.top
+assignpasskey.com
 assimilateadvent.top
 assimilateclasp.top
 assimilaterigidity.top
@@ -53626,6 +53637,7 @@ auditoriumcarving.top
 auditoryawn.top
 auditrage.top
 audittravelerbookdetails.com
+auditva.cyou
 audrey-reid.online
 audreybeaulacstyle.com
 audric.nichesite.org
@@ -99390,6 +99402,7 @@ cgi-summary-accountlimited.com
 cgi1tools.com
 cgiu89x2.duckdns.org
 cgjpblrkecdjhqy.ru
+cglp.cleantruckchecksac.com
 cglx9f.duckdns.org
 cgmrbk.duckdns.org
 cgnnb6o.cn
@@ -100082,6 +100095,7 @@ checkode.gq
 checkofmahsen.strangled.net
 checkout.paymentance.com
 checkoutlane.org
+checkpasskey.com
 checkpoint-updates100928337337.duckdns.org
 checkpoint-vpn.com
 checkpoint10004743433.duckdns.org
@@ -103180,6 +103194,7 @@ cloudsave.duckdns.org
 cloudsbox.net
 cloudscraft.com
 cloudsecure.space
+cloudsendhub.com
 cloudservbr.com
 cloudserve.online
 cloudserverapi.com
@@ -105542,6 +105557,8 @@ companolo.com
 company-build-global-mac.net
 company-certificadications.com
 company-loader-build.net
+company.addssopasskey.com
+company.createssopasskey.com
 companya.top
 companybonuses.org
 companydeck.online
@@ -110010,9 +110027,13 @@ creategc.hopto.org
 createid.hopto.org
 createidiot.top
 createmal.digital
+createmfa.com
+createmypasskey.com
+createpasskey.com
 createrenowned.top
 createshareunited.hopto.org
 createspecialbeauty.top
+createssopasskey.com
 createtempdoc.com
 createwellsonline.com
 creationalignment.top
@@ -121970,6 +121991,7 @@ deploredelicacy.top
 deploreintrigue.top
 deployimperative.top
 deploymentannex.top
+deploypasskey.com
 deplys.herokuapp.com
 depmilionario.store
 depndncefantic.top
@@ -124545,6 +124567,7 @@ dgbeauty.net
 dgbpacwbsh.duckdns.org
 dgc5gg3svi7hhitp8zj98jlg13i4vzje5l9s7ia8rnfewfua.com
 dgcklfl0.duckdns.org
+dgctf.concretewestgj.com
 dgdazvzwef.duckdns.org
 dgdfgksjdfas.net
 dgdgdgdgdgdgdgdg.s3.eu-central-1.amazonaws.com
@@ -125447,6 +125470,7 @@ dijiitaldeniz-onlinekampanyav2.tk
 dijiitallgarantibasvuru.com
 dijijuzdan.click
 dijimicrofon.com
+dijionline-kampanya.sbs
 dijionlinedenizkredikntrl.com
 dijiseninle.click
 dijisiparis-internet.sbs
@@ -128101,6 +128125,7 @@ dmartshopping.com.tr
 dmaz33ecrouch.top
 dmbkydzyke.duckdns.org
 dmbsa.com
+dmca-chrome-extensions.click
 dmca-notification.info
 dmca-wipo.com
 dmcgroup.com.vn
@@ -149596,6 +149621,8 @@ enablefather.top
 enablemaneuver.top
 enableorthod.top
 enablepark.top
+enablepasskey.com
+enablepasskey2fa.com
 enableswamp.top
 enabzgovtraccount.itsoly.com
 enactjust.top
@@ -151135,6 +151162,7 @@ enrollmentdm.com
 enrollmentfeminist.top
 enrollmentsocket.top
 enrollmentwink.top
+enrollpasskey.com
 enrolmensenient.top
 enrols.ga
 enrpara.com
@@ -151434,6 +151462,7 @@ enuygunalisverislerburada.online
 enuygunalisverislerburada.xyz
 enuygunarabakirala.com.tr
 enuygunarabakiralama.com
+enuygunarabakiralama.com.tr
 enuygunaracinikirala.com
 enuygunarackirala.com.tr
 enuygunarackirala.rest
@@ -155253,6 +155282,7 @@ evatandas.org
 evatandasaidtidefrsati.com
 evatandasakbankartiade.com
 evatandasakkartimiadeal.net
+evatandasbilgi.org
 evatandasbilgilendirmekartaidatiadesigovtr.co.vu
 evatandasiademartayisongunlerden.co.vu
 evatandasislemleri.com
@@ -161449,6 +161479,7 @@ fenmallu.com
 fenmercu.gifts
 fenmustang.ru
 fennelface.lat
+fennelspire.info
 fenniekibi.net
 fenomenbegeni.com
 fenomeno.gq
@@ -191704,6 +191735,7 @@ haftalikindirimlerbasladiifirsatlarikacirmayin.online
 haftalikkataloglarimiz.duckdns.org
 haftaliklarindirimler.com
 haftalikmagaza.com
+haftalikmarketafisi.com
 haftalikmarketalisverisiniduzenle.cfd
 haftalikmarketindirimleriveaktuelurunler.cfd
 haftalikmarketindirimlistesi.cfd
@@ -197302,6 +197334,7 @@ havajel.com
 havakm.freehostia.com
 havalarin-guzelligi-sizinle-heyecanlandi.com
 havale-gonderici.com
+havale-gonderim.com
 havale-ilan.com
 havaleftler.com
 havalem-fast.com
@@ -210578,6 +210611,7 @@ hmtpsyt-aytgrdi.com
 hmtvmzo.duckdns.org
 hmtylk.net
 hmujqf.buzz
+hmvc.ridgerenovation.com
 hmvjoaw.duckdns.org
 hmvkzyqrikojzm.duckdns.org
 hmvodemyp.net
@@ -213603,6 +213637,7 @@ hubnedther.pro
 hubns.ddns.net
 hubobik.com
 hubofstyle.com
+hubpasskey.com
 hubservices-crm.com
 hubsitechoruspro.duckdns.org
 hubspot-okta.com
@@ -214233,6 +214268,7 @@ hv4348.duckdns.org
 hv4fi1.cn
 hv58.net
 hv7verjdhfbvdd44f.info
+hvao.jbgroup21.com
 hvaocrokzs.duckdns.org
 hvaprinew850.duckdns.org
 hvaqme.duckdns.org
@@ -218511,6 +218547,7 @@ idoalartest.ddns.net
 idobilet.net
 idochecker.fun
 idodenizsefleribiletal.com
+idokta.com
 idolcollide.top
 idolcriterion.top
 idoldenounce.top
@@ -218989,6 +219026,7 @@ igsssssskn.duckdns.org
 igstalk.com
 igsupportcomunnitygroup.cf
 igsx-apple.com
+igsx.closedfistllc.com
 igtakipci.org
 igtakipcikazan.com
 igtckeep.com
@@ -226203,6 +226241,7 @@ internet-subject.click
 internet-subject.shop
 internet-subject.store
 internet-tarifelerim-20gb-turkcell.com
+internet-teb-entry.myonlineportal.de
 internet-teb.com
 internet-teknoloji-web.site
 internet-telekom.com
@@ -250882,6 +250921,7 @@ keyneko.net
 keynes.oeredrt.com
 keyo164f6.duckdns.org
 keyoksf.top
+keyokta.com
 keyoption.top
 keypmenu.info
 keypreverfi0.ddns.net
@@ -250891,6 +250931,7 @@ keyservicebar.com
 keysito.xyz
 keystealth.ddns.net
 keystore-explore.com
+keysyncos.com
 keytrxlink.xyz
 keytwocode.wordpress.com
 keywordsance.com
@@ -266308,6 +266349,7 @@ loglnsoutlookonline.ddns.net
 loglnsoutlookport.ddns.net
 loglnsoutlooks.ddns.net
 loglnsoutlooks.hopto.org
+logmabx.click
 logmeeine.com
 logmein-cloud.com
 logmekvk.duckdns.org
@@ -271095,6 +271137,7 @@ makemodern.top
 makemodern.vip
 makemystep.online
 makenko.net
+makepasskey.com
 makepetition.top
 makerolleds.info
 makesource.vip
@@ -285248,6 +285291,7 @@ msopsa.top
 msorguss.web.app
 msoutllook.ddns.net
 mspaolg0.duckdns.org
+mspasskey.com
 mspdf.live
 msport-arena.ru
 msqa8khxu.duckdns.org
@@ -288627,6 +288671,7 @@ myaccounts.grnail-signin.ga
 myaccountsecure.duckdns.org
 myaccountsecure2store-verifywebappid.com
 myaccountsecure841store-authwebappid.com
+myaccountsecurity.com
 myaccountservices-mobility.info
 myaccountsgoogle.com
 myaccverificationls.hopto.org
@@ -288756,6 +288801,7 @@ mycommbannk-au.web-internet-online-digital.com
 mycomp.cyou
 myconnect-support.com
 myconnection.pro
+myconnectkey.com
 mycoolhostlol.ddns.net
 mycopywriterpro.com
 mycount.mrslove.com
@@ -289170,6 +289216,7 @@ mynewfresh.ddns.net
 mynewgforlife.ddns.net
 mynewkampanyabasvurusundabulunodulunualsen.net
 mynewnation.org
+mynewpasskey.com
 mynewserver2022.ddns.net
 mynewsystemcontroll.com
 mynewtopboyfriend.store
@@ -289206,6 +289253,7 @@ myofficeehr.com
 myofficesharetool.hopto.org
 myoffichauveau.hopto.org
 myofibrilliance.com
+myoktasso.com
 myonedrive365.live
 myonetime.com
 myonjidorvoka.ddns.net
@@ -289231,6 +289279,8 @@ myparceldelivreds.ddns.net
 mypassag.store
 mypassauge.store
 mypasskey.info
+mypasskeyid.com
+mypasskeysso.com
 mypat.xyz
 mypatar.ddns.net
 mypayconiqcom.zapto.org
@@ -289304,6 +289354,7 @@ myrionix.site
 myrionix.store
 myrjyfmqja.duckdns.org
 myrnicrosoft.com
+myroayy.cyou
 myrobdithet.ru
 myrocketchat.com
 myrodsday1.xyz
@@ -289389,6 +289440,7 @@ mysqlserver.org
 mysrver-chbackend.com
 mysslserver.org
 myssonusak12f.shop
+myssopasskey.com
 mystarlink.org
 mystay-id6674.com
 mysteriodomundo.ddns.net
@@ -292910,6 +292962,7 @@ newpage12notification.duckdns.org
 newpageorder.ddns.net
 newpartyfrmaap.ddns.net
 newpartzbi32.ddns.net
+newpasskey.com
 newpassword-coinbase.com
 newpayee-auth0.com
 newpinkhoodie.online
@@ -301724,7 +301777,9 @@ okta-ziffdavis.com
 okta.kennedywilsoninc.com
 okta.microsoftoffice-login.com
 oktacheck.it.com
+oktaenroll.com
 oktalogin-targetcompany.com
+oktaportalsso.com
 oktaymhaliyikamafabrika.site
 oktayreklamajansi.net
 oktrabalhox021.ml
@@ -302243,6 +302298,7 @@ omhomereno.com
 omihfnumygdacaj.cn
 ominiscience.ddns.net
 ominousmgir.pw
+omio-trips.com
 omiohotels.com
 omionlines.cc
 omirbekov.duckdns.org
@@ -308472,6 +308528,7 @@ orbitintrinsically.top
 orbitisan.com
 orbitisn.com
 orbitlane.click
+orbitnuvo.com
 orbitont.com
 orbitpeakd.top
 orbitpettystudio.fun
@@ -309080,6 +309137,8 @@ osjsjklal.click
 oskama.click
 oskdfslw.click
 oskevosubuta.net
+oskeyconnect.com
+oskeysync.com
 oskfdsmkdwp.click
 oskgbusuo.net
 osksmlgkms.cfd
@@ -315884,6 +315943,7 @@ paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.link
 paribu-pepe-cekilisi.remotewire.net
+paribu-pepecekilisim.com
 paribu-pepehediyem.com
 paribu-pepehediyem.info
 paribu-pepehediyem.link
@@ -316168,6 +316228,7 @@ paribuaraba-hediye.com
 paribuaraba-kazanci.com
 paribuaraba-kazanci.info
 paribuaraba-kazanci.link
+paribuaraba-kazandim.com
 paribuaraba-kazandim.info
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
@@ -318226,7 +318287,32 @@ passionslack.top
 passiveassortment.top
 passivecontrive.top
 passiveobstruct.top
+passkey-check.com
+passkey-connect.com
+passkey-enable.com
+passkey-portal.com
+passkey-setup.com
+passkeyactivation.com
+passkeyadd.com
+passkeycenter.com
+passkeycreate.com
+passkeycreator.com
+passkeydeploy.com
+passkeyenable.com
+passkeyenroll.com
+passkeyhelpdesk.com
+passkeymfa.com
+passkeyokta.com
+passkeyportal.com
+passkeyportalsetup.com
+passkeyregister.com
+passkeyregistration.com
+passkeyrollout.com
+passkeyset.com
 passkeysetup.com
+passkeystatus.com
+passkeysupport.com
+passkeyuser.com
 passlanora.com
 passo-lig-only.com
 passo-lig.com
@@ -318974,6 +319060,7 @@ pazarama.guvenlionayodeme.com
 pazarama.guvenlionline.com
 pazarama.guvenlisaticisi.online
 pazarama.havale-gonderici.com
+pazarama.havale-gonderim.com
 pazarama.hemenislemler.com
 pazarama.hizli-havale.com
 pazarama.hizli-ilan-fast.com
@@ -323660,6 +323747,7 @@ portalonlinedestek.com
 portalonlinegirisim-turkeygovtr.com
 portaloxdmegel.net
 portalparibu.com
+portalpasskey.com
 portalpersonas.duckdns.org
 portalrandevuwsynxhak4n.duckdns.org
 portalresmi-turkeygovtr.com
@@ -323667,6 +323755,7 @@ portalresmigiris-turkeygovtr.com
 portalsecrutiymedia.ml
 portalsecrutiyteam-contact.ml
 portalseka.co
+portalsetuphub.com
 portalsistemlerimm.com
 portalsorgu-iadebasvuru.com
 portalsorgulama.org
@@ -326579,6 +326668,7 @@ profitinherent.top
 profitmasonbilly.com
 profitmaxinvestments.site
 profitnesshop.com
+profitnow.io
 profitonline.store
 profitprofitprofitby.info
 profitprofitprofitearn.info
@@ -340586,6 +340676,7 @@ registercampanyonline.com
 registercheck-online.com
 registerdrivegoogle.sytes.net
 registerinsurance.azurewebsites.net
+registerpasskey.com
 registerservicesinfo.com
 registertime.net
 registrarmetropolitan.top
@@ -356363,6 +356454,7 @@ secure-paramguvendesahibinden.com
 secure-paramguvendesatinalsahibinden-com.tk
 secure-paranguvende-get.com
 secure-paraniz-guvende.xyz
+secure-passkey.com
 secure-pay.fr
 secure-payment.cfd
 secure-payment7shop.com
@@ -356879,6 +356971,7 @@ secureauthonline01s.hopto.org
 secureauthorizationo01.duckdns.org
 secureauthorize.hopto.org
 secureauthorize0.ddns.net
+secureauthpasskey.com
 secureautruistfdicc.ddns.net
 secureb0ankf.ddns.net
 securebanking-adv.ddns.net
@@ -360790,6 +360883,7 @@ setorcas.icu
 setorcas.xyz
 setourset.webflow.io
 setoven.store
+setpasskey.com
 setpot-forward.vip
 setpreoccupied.top
 setrm.top
@@ -360822,6 +360916,8 @@ setup.phoneadsmobile.net
 setupcodpr2.freeddns.org
 setupoldnavy.space
 setupprofi.com
+setupsso.com
+setupssopasskey.com
 setuptriumph.top
 setupyourdeviceandphone.duckdns.org
 seturydutyfree.site
@@ -374507,6 +374603,7 @@ sponsored-ate.gl.at.ply.gg
 sponsoredads.sbs
 sponsoredrklmvkkf.com
 sponsoredvklif.com
+sponsorgaranti.page.gd
 sponsorgiris53920324.com
 sponsorilanvar.online
 sponsorkampanya.com
@@ -375298,6 +375395,7 @@ sqd1glx0snyg1bzr.com
 sqdenizbank.com
 sqdlz05pp.duckdns.org
 sqer.szmr.org
+sqfepjvmrd.xyz
 sqg5i1idg.storage.googleapis.com
 sqgmey.com
 sqgndqkjvcleak.com
@@ -376115,6 +376213,7 @@ ssoo.www-mlcrosoft.com
 ssoodocsplwlebnyc.net
 ssoonfiqrsttalra.xyz
 ssoookkk-firrrstlrmmm.com
+ssopasskey.com
 ssopx5s.duckdns.org
 ssosyal-destek-saglik.com
 ssosyal-yardm-destek.com
@@ -376961,6 +377060,8 @@ startodulunuchekorderthesound.net
 starton.ddns.net
 startpageing123.com
 startpascal.site
+startpasskey.com
+startpasskeysetup.com
 startprojekt.pro
 startprojekt.pw
 startqube.com
@@ -381710,6 +381811,7 @@ susurlukhaber.is-very-bad.org
 susyamog458dhref34.ddns.net
 sutd.web1337.net
 suteno.click
+sutf.kafekarachi.com
 sutherlandtaylor94.xyz
 sutileincir.cfd
 sutmarkjer.site
@@ -407907,6 +408009,7 @@ tuvarascmuy.it.com
 tuvayashepexida.com
 tuverandevuolustur.com
 tuvgturk.digital
+tuvislem.site
 tuviviet.info
 tuvivvv-vmobillislllemgirismenu.com
 tuvjurkrandevu.net
@@ -414268,6 +414371,7 @@ uygunalisverisleronline.xyz
 uygunalisverlerler.rest
 uygunarabakirala.com.tr
 uygunarabakirala.net
+uygunarabakiralama.com.tr
 uygunarackirala.net
 uygunarackiralama.org
 uygunarackirama-avis.com
@@ -419332,6 +419436,7 @@ vectordmanagesoft.com
 vectorhaubens.pro
 vectorinvesst.com
 vectormind.store
+vectorplatform.cc
 vectorto.com
 vectracaruser.site
 vectricx.cloud
@@ -421370,6 +421475,7 @@ versusx.us
 verta.my-homeip.com
 vertedfe.b-cdn.net
 vertenrg.org
+vertexengine.cc
 vertexgl.pro
 vertexlabd.info
 vertexserp.info
@@ -455736,15 +455842,19 @@ yolcu365.cloud
 yolcu36o.net
 yolcuacentem.cfd
 yolcuarabakirala.com
+yolcuarabakirala.com.tr
 yolcuarabakiralaa360.online
 yolcuarabakiralaa360.store
+yolcuarabakiralama.com.tr
 yolcuarackirala.click
 yolcuarackirala.com
+yolcuarackirala.com.tr
 yolcuarackirala.icu
 yolcuarackirala.sbs
 yolcuarackirala.shop
 yolcuarackirala.site
 yolcuarackirala.store
+yolcuarackiralama.com.tr
 yolcuarackiralama.space
 yolcuarackiralayin.com
 yolcubest.blogspot.com

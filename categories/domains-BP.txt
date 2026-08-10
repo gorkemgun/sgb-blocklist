@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256974
-# Last change: 2026-08-10 06:44:26 UTC (sync mode: delta)
+# Records: 256980
+# Last change: 2026-08-10 08:52:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -86551,6 +86551,7 @@ enuygunalisverislerburada.online
 enuygunalisverislerburada.xyz
 enuygunarabakirala.com.tr
 enuygunarabakiralama.com
+enuygunarabakiralama.com.tr
 enuygunarackirala.com.tr
 enuygunarackirala.rest
 enuygunarackiralama.rest
@@ -130797,6 +130798,7 @@ internet-subject.click
 internet-subject.shop
 internet-subject.store
 internet-tarifelerim-20gb-turkcell.com
+internet-teb-entry.myonlineportal.de
 internet-teb.com
 internet-teknoloji-web.site
 internet-trying-monitor.space
@@ -181495,6 +181497,7 @@ pazarama.guvenlihizmetler.online
 pazarama.guvenlionline.com
 pazarama.guvenlisaticisi.online
 pazarama.havale-gonderici.com
+pazarama.havale-gonderim.com
 pazarama.hizli-havale.com
 pazarama.hizli-ilan-fast.com
 pazarama.hizli-odemem.com
@@ -208574,6 +208577,7 @@ sponsorcunuz-844381.com
 sponsoredads.sbs
 sponsoredrklmvkkf.com
 sponsoredvklif.com
+sponsorgaranti.page.gd
 sponsorgiris53920324.com
 sponsorkampanya.com
 sponsorkampanyasi.com
@@ -252529,7 +252533,9 @@ yolcu361arackiralama.com.tr
 yolcu365.cloud
 yolcuacentem.cfd
 yolcuarabakirala.com
+yolcuarabakirala.com.tr
 yolcuarabakiralaa360.store
+yolcuarabakiralama.com.tr
 yolcuarackirala.click
 yolcuarackirala.com
 yolcuarackirala.icu

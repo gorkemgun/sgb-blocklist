@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65457
-# Last change: 2026-08-06 10:01:33 UTC (sync mode: delta)
+# Records: 65470
+# Last change: 2026-08-10 08:52:51 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11163,6 +11163,7 @@ audiomain.website
 audit-kg.com
 audit-pvv.com
 auditelecom-ticket.ddns.net
+auditva.cyou
 augami.net
 augsburger-maerchentheater.de
 augustbill.ddns.net
@@ -15664,6 +15665,7 @@ cgi-resolve-account.com
 cgi-summary-accountlimited.com
 cgi1tools.com
 cgiu89x2.duckdns.org
+cglp.cleantruckchecksac.com
 cglx9f.duckdns.org
 cgmrbk.duckdns.org
 cgp924yu.duckdns.org
@@ -16728,6 +16730,7 @@ cloudnaver.com
 cloudpulseonline.co
 cloudpulseshop.co
 cloudsave.duckdns.org
+cloudsendhub.com
 cloudserve.online
 cloudservice.tw
 cloudsond.me
@@ -19765,6 +19768,7 @@ dgaqsltyit.net
 dgbeauty.net
 dgbpacwbsh.duckdns.org
 dgcklfl0.duckdns.org
+dgctf.concretewestgj.com
 dgdazvzwef.duckdns.org
 dgdgdgdgdgdgdgdg.s3.eu-central-1.amazonaws.com
 dgeiylgolh.duckdns.org
@@ -28750,6 +28754,7 @@ hmt7j9z.duckdns.org
 hmteste.ddns.net
 hmtgn6oe.duckdns.org
 hmtvmzo.duckdns.org
+hmvc.ridgerenovation.com
 hmvjoaw.duckdns.org
 hmvkzyqrikojzm.duckdns.org
 hmvuhx.duckdns.org
@@ -29395,6 +29400,7 @@ huzirh.com
 hv4348.duckdns.org
 hv58.net
 hv7verjdhfbvdd44f.info
+hvao.jbgroup21.com
 hvaocrokzs.duckdns.org
 hvaprinew850.duckdns.org
 hvaqme.duckdns.org
@@ -30116,6 +30122,7 @@ igrbz.duckdns.org
 igrejaatos2.org
 igsssssskn.duckdns.org
 igsx-apple.com
+igsx.closedfistllc.com
 igtckeep.com
 igttpnbipb.duckdns.org
 iguhunnazz.duckdns.org
@@ -35773,6 +35780,7 @@ loglnsoutlookonline.ddns.net
 loglnsoutlookport.ddns.net
 loglnsoutlooks.ddns.net
 loglnsoutlooks.hopto.org
+logmabx.click
 logmekvk.duckdns.org
 logo-craft.zapto.org
 logoliiis22.duckdns.org
@@ -39878,6 +39886,7 @@ myredirectch.hopto.org
 myrepository.name
 myrepositoryx.com
 myrjyfmqja.duckdns.org
+myroayy.cyou
 myrobdithet.ru
 myryxlbfmh.duckdns.org
 mysafety-ntificationsapp.duckdns.org
@@ -45578,6 +45587,7 @@ profilecontacts.hopto.org
 profilehelpbofa.ddns.net
 profirst.com.vn
 profitmasonbilly.com
+profitnow.io
 profranco.hopto.org
 progesteron610.ddns.net
 program.hopto.org
@@ -53817,6 +53827,7 @@ susget.hopto.org
 susiorg.zapto.org
 sussywussysindoes.ddns.net
 susu-murni18.duckdns.org
+sutf.kafekarachi.com
 sutranjdf.info
 sutwvtjhmk.duckdns.org
 suukj7.duckdns.org
@@ -58446,6 +58457,7 @@ veb7hs51p.duckdns.org
 vec6cqww.duckdns.org
 vecr.ddns.net
 vectordmanagesoft.com
+vectorplatform.cc
 vedcathbte.duckdns.org
 vedisparbe.com
 vedrifitaionss-hzxvyuasgbx.duckdns.org
@@ -58838,6 +58850,7 @@ versione.ddns.net
 versionsenginen.ru
 versionwind.xyz
 versusbattle.pw
+vertexengine.cc
 vertitty-progawrg.ddns.net
 vertity-glbalrvind.ddns.net
 vertity-globalserv.ddns.net
