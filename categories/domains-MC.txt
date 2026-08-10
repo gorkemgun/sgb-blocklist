@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41105
-# Last change: 2026-08-07 07:44:52 UTC (sync mode: delta)
+# Records: 41119
+# Last change: 2026-08-10 12:01:58 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -5533,6 +5533,7 @@ bestwing.org
 bestzones.ddns.net
 besuj.com
 besvaxmf.com
+bet.slotgambit.com
 beta-man.info
 beta.atenceley.com
 beta.azernatow.com
@@ -10519,6 +10520,7 @@ dl.kasperskyupdates.com
 dl.micbig.top
 dl.nmcyclingexperience.com
 dl.sogouzhuyin.com
+dl.wel1.ru
 dl1.sync-share.com
 dl10-web-stock.ru
 dl16-web-eticket.ru
@@ -12713,6 +12715,7 @@ exsimpetroleum.com
 ext-checkdin.vercel.app
 ext.browserdog.com
 ext.businessforai.com
+ext.dl.wel1.ru
 ext.getdoctornow.com
 ext.getwebdoctor.com
 ext.internetwatchtower.com
@@ -24829,6 +24832,7 @@ net-support.site
 net-verification.online
 net-verify.site
 net-verify.website
+net.dl.wel1.ru
 net.todayaniversarygifts.info
 net25426.ddns.net
 net5minutework.net
@@ -26303,6 +26307,9 @@ onyenzoputa.ml
 onyxer.ddns.net
 onyxistn.bet
 oo99v.coqqwx.ru
+oob-worker.cf102-baf.workers.dev
+oob-worker.cf103-070.workers.dev
+oob-worker.cf99-9b3.workers.dev
 oodan888tools.atwebpages.com
 oofed.ddns.net
 ooinonqnbdqnjdnqwqkdn.space
@@ -26808,6 +26815,11 @@ pabloservices.tk
 pabuloa.asia
 paciflxinc.com
 pack9338.ddns.net
+package-proxy.cf11oobworker.workers.dev
+package-proxy.cf5oobworker.workers.dev
+package-proxy.cf6oobworker.workers.dev
+package-proxy.cf7oobworker.workers.dev
+package-proxy.cf8oobworker.workers.dev
 packagednyb.cyou
 packages.storeartifact.com
 packersmoversmohali.com
@@ -27658,6 +27670,7 @@ pkasujupier23.site
 pkfyoawi.com
 pkfzh.com
 pkg-metrics.official334.workers.dev
+pkg.dl.wel1.ru
 pkigoscorp.com
 pkil.me
 pkiwyuhvevnfoxj.cn
@@ -31145,6 +31158,7 @@ sdjkfhas15541.top
 sdjsofgsg.ddns.net
 sdk-dl-prod.proxiessdk.online
 sdk-dl-production.proxiessdk.store
+sdk.dl.wel1.ru
 sdk.hummercenter.com
 sdkmob.org
 sdkscontrol.pw

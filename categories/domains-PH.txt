@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99174
-# Last change: 2026-08-10 10:38:17 UTC (sync mode: delta)
+# Records: 99180
+# Last change: 2026-08-10 12:01:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2855,6 +2855,7 @@ a1-0-1market.com
 a1-0-1marketingyilbasissnda.com.tr
 a1-0-1onlinemarketozel.com
 a1-001-dnflratsar-yli.cfd
+a1-82rvdnalbrdan.org
 a1.dravencia.sbs
 a100.martfirsat.org
 a1001.online
@@ -30301,6 +30302,7 @@ esatokgtodeme.net
 esbank.co
 esbasvur-online-bireyselkampanya.kampanya-basvuru-sayfa.xyz
 esbetgiris-hizli.com
+esbmonline.com
 esbopehan.xyz
 escalaay.top
 escalate-coinbase.com
@@ -79036,6 +79038,7 @@ sozlesmeimza.com
 sozlesmeler.kurumsal-online-islem.com
 sozlesmeniz-sahibinden.kurumsal-online-islem.com
 sozlesmepolice.net
+sozlesmepolice.tech
 sp1stnvvii.com
 sp211315.sitebeat.crazydomains.com
 sp2stnvvii.com
@@ -85014,6 +85017,7 @@ toepasser-by.top
 togetherbetterdependnothing.click
 togetherhire.fun
 togethernet.site
+togg-finans-kredim.com
 togg-hizlisiparis.xyz
 togg-kredim.com
 togg-nato-ozel-cekilis.space
@@ -85926,6 +85930,7 @@ tr-sokraca.shop
 tr-sorgu.site
 tr-sorguportal-basvurupaributeknolojisi-com.tk
 tr-subesi.site
+tr-tekoaos.cc
 tr-toki-basvuru-formu.com
 tr-tpao.com.tr
 tr-tr-frfacebook.com
@@ -97127,6 +97132,7 @@ yatirim-firsatsss.melone.fun
 yatirim-garanti.net
 yatirim-nokta.com
 yatirim.finansmaninfo.biz
+yatirim.oykportfolio.com
 yatirimakli.world
 yatirimanaliz.org
 yatirimbasarisi.com

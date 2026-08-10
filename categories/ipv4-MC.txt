@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip&desc=MC
-# Records: 9302
-# Last change: 2026-08-05 15:30:44 UTC (sync mode: delta)
+# Records: 9304
+# Last change: 2026-08-10 12:01:58 UTC (sync mode: delta)
 1.12.37.113
 1.13.249.217
 1.80.218.75
@@ -610,6 +610,7 @@
 31.59.58.84
 31.59.139.111
 31.97.17.73
+31.97.137.157
 31.135.199.145
 31.166.29.242
 31.167.151.118
@@ -1836,6 +1837,7 @@
 46.173.215.132
 46.174.236.175
 46.182.21.248
+46.183.25.232
 46.183.184.91
 46.183.184.245
 46.183.187.61
