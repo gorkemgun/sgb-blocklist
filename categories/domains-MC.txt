@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41119
-# Last change: 2026-08-10 12:01:58 UTC (sync mode: delta)
+# Records: 41122
+# Last change: 2026-08-10 13:47:49 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -7107,6 +7107,7 @@ cardchsk.com
 cardiffpower.com
 cardiomedspecialists.azurewebsites.net
 cardkuys.com
+cardo.workers.dev
 carebytesolutions.azurewebsites.net
 careerfinder.ro
 careeronestop.site
@@ -32651,6 +32652,7 @@ sofexjordanx.com
 sofiaschulz.com
 sofiavergara.duckdns.org
 sofny.com
+soft-feather-7807.0x.cloudflare-workers.workers.dev
 soft-out1.aqgj.cn
 soft-storage.com
 soft.appofficeapp.co
@@ -37290,6 +37292,7 @@ vinnytroia.org
 vinokiwofexuge.weebly.com
 viocart.store
 violenttt112.ddns.net
+violet-87cardo.workers.dev
 violettru.click
 violin-amendment-stranger-job.trycloudflare.com
 vip.forpremium.cloud

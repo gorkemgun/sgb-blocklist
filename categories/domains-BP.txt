@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 256981
-# Last change: 2026-08-10 12:01:58 UTC (sync mode: delta)
+# Records: 257005
+# Last change: 2026-08-10 13:47:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -6424,6 +6424,7 @@
 31102025basvuru.store
 312-234-54-65.cfd
 312221222145558999891.duckdns.org
+312221222145558999898.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 31231231251321-1213.cloud
@@ -10752,6 +10753,7 @@ a-1-0-1-marketim.com
 a-1-0-1-online-kampanya.com
 a-1-0-1-online-ozel-kampanyalar.com
 a-1-0-1-online-ozel.com
+a-1-0-1-sadece-online-ozel-mobil-indirimler-sepette-tr.bilgis-tr.online
 a-1-0-1-snl-mrkt.cfd
 a-1-0-1-snl-mrkt.online
 a-1-0-1-tr.com
@@ -29287,6 +29289,7 @@ avis.arackiralamas.com
 avis.bayisorgulama.link
 avis.co.me
 avis.hizlikiralafilo.online
+avis.hizmet-merkezi-online.com
 avis.kiralama-tr.com
 avis.myonline.com.tr
 avis.onlinekirala.autos
@@ -71429,6 +71432,7 @@ dolap.firsat-odeme.com
 dolap.g-alim.com
 dolap.get-aktif-ilan.com.tr
 dolap.get-aktif-ilanim.com.tr
+dolap.guvenli-hizmet.online
 dolap.guvenli-ticaretlerim.com
 dolap.guvenlialimlarim.online
 dolap.guvenliodeme.website
@@ -71469,6 +71473,7 @@ dolap.satiskurumsal-tr-ilanim.com.tr
 dolap.secure-ilanim.com.tr
 dolap.sepette-alisverisim.com
 dolap.sepette-onayli.com.tr
+dolap.servsjethizmet.online
 dolap.siparisimguvende.com
 dolap.ss-securepayment.com
 dolap.ticaret-sepetim.com
@@ -91343,6 +91348,7 @@ fb0000sponsor365ak.com
 fb234645234234.com
 fb415897464564.com
 fb755442-4.b-cdn.net
+fbaesubem.com
 fbainizhzligiris.xyz
 fbasbdasbjfma.net
 fbasvuru.com
@@ -99268,6 +99274,7 @@ gardenislem.22web.org
 gardenstore.club
 gardiseftogg10axnes1191.net
 gardiyankurt.sa.com
+gardrops.guvenli-hizmet.online
 gareeentttaa.shop
 gareennta.shop
 gareentaaa.com
@@ -99999,6 +100006,7 @@ gecislersiswebavbilgi.cfd
 gecislerveodemeler.sg-host.com
 gecisliyuklemeler.sg-host.com
 gecismerkezislemleriniz.sg-host.com
+gecisnoktasiyuklme.web.app
 gecisode.info
 gecisodeleriavihlalodes.bond
 gecisodeme.info
@@ -106652,6 +106660,7 @@ guvenli-hizli-al.com
 guvenli-hizlisatinal.com
 guvenli-hizmet-islemler.com.tr
 guvenli-hizmet-param.com.tr
+guvenli-hizmet.online
 guvenli-hizmet.ru.com
 guvenli-hizmetin.com.tr
 guvenli-iade-e-kartta2021-aidat-hizmet-kredi.xyz
@@ -115654,6 +115663,7 @@ hemenodeme.tk
 hemenodemeal.xyz
 hemenodemealani.net
 hemenodemezs.xyz
+hemenogren.abrdns.com
 hemenolustursipars.click
 hemenolustursipars.sbs
 hemenonayaldenizdenekranlarimgelsin.duckdns.org
@@ -154188,6 +154198,7 @@ letgo-satinal-guvenliodeme-noktasi-com.line.pm
 letgo-satinal-guvenliodeme-noktasi.line.pm
 letgo.583259.click
 letgo.6325435.online
+letgo.guvenli-hizmet.online
 letgo.ilanlarim-ozelsepetim.com
 letgo.ile-guvenli-hizmetler.com
 letgo.pay-satis-ilan.com.tr
@@ -158629,6 +158640,7 @@ mediamaarkt.com
 mediamagaza.online
 mediamarkt-kasim-indirimleri.com
 mediamarkt.firsatlar.shop
+mediamarkt.guvenli-hizmet.online
 mediamrket.com
 mediantake.info
 mediaora.xyz
@@ -184834,6 +184846,7 @@ ptt-avm.elektronikalim.org
 ptt-avm.eservislerrim.com
 ptt-avm.g-islemler.online
 ptt-avm.g-secure.online
+ptt-avm.guvenli-hizmet.online
 ptt-avm.hemenalin.sa.com
 ptt-avm.hizli-devam.com.tr
 ptt-avm.hizli-islem.online
@@ -184850,6 +184863,7 @@ ptt-avm.sepet-alimlarin.online
 ptt-avm.servislerinizlink.com
 ptt-avm.servislerm-sistem.com
 ptt-avm.servisn-mobilin.com
+ptt-avm.servsjethizmet.online
 ptt-avm.shop
 ptt-avm.siparis-ver-tr.online
 ptt-avm.sn-hizmet.online
@@ -185364,6 +185378,7 @@ ptt-kargo-takip.online
 ptt-kargo-tkip.com
 ptt-kargo.acqualightdepuratori.it
 ptt-kargo.ealimmobil.com
+ptt-kargo.guvenli-hizmet.online
 ptt-kargo.net
 ptt-kargo.org
 ptt-kargo.servisjeticaret.com
@@ -187909,6 +187924,7 @@ pulsario.online
 pulsecorner.life
 pulseheadline.online
 pulsenova.online
+pulseriz.com
 pulsewiremedia.com
 pulseyn.com
 puma-tr.com.tr
@@ -192634,6 +192650,7 @@ roentgenization.com
 roeoyunda.rabbiyessiratasoy.net
 roexd.duckdns.org
 rofilime-kimler-bakmis-com.tk
+rofortrade.com
 rofusadhasdhashdh0093sadsad.click
 rog-verifications.com
 rogooglesgruo.work
@@ -201795,6 +201812,7 @@ shopier-guvenli-odeme.com
 shopier-guvenlialisveris.com
 shopier-guvenliodeme.com
 shopier.click
+shopier.guvenli-hizmet.online
 shopier.satiskurumsal-tr-ilanim.com.tr
 shopier.tech
 shopier.tr-satisofisi-ilanlar.com.tr
@@ -211367,6 +211385,7 @@ sublemnterancaonlin.cfd
 sublimevortex.org
 submit-customer.shop
 submit-screen.shop
+submitpages.shop
 subnetforum.com.tr
 subnetforum.xyz
 subo.mydiscussion.net
@@ -211869,6 +211888,7 @@ supurtelefonlarinadresi.xyz
 supuurgedeiindirimdev101.online
 supy-veb-graned.myonlineportal.ch
 suqortamnet.com.tr
+surat-kargo.guvenli-hizmet.online
 surat-kargo.servislerinizlink.com
 suratcimqwe123.com
 surathizmet.app
@@ -217361,6 +217381,7 @@ toggdestek.com
 toggdestek.org
 toggdestekmerkezi.com
 toggfaizsizlimitim.netlify.app
+toggfinansman.com
 toggggggaaakkkbsvrrkatilimmmm.cloud
 togggggggarankatilimmmbsvrrr.cloud
 togggkaatilimmmmbbsvr.cloud
@@ -221846,6 +221867,7 @@ trendyol.eonaylihizmetin.com
 trendyol.expresstr.net
 trendyol.expresstr.shop
 trendyol.exprestr.net
+trendyol.guvenli-hizmet.online
 trendyol.ilanservis-odemen.online
 trendyol.ile-alimin.com
 trendyol.iranshik.com
@@ -226453,6 +226475,7 @@ tuvmuayeneturkrandevu.online
 tuvmuaynehizmetlerinizden.net
 tuvmuaynehmztin.web.app
 tuvodemehiz-mtlri.net
+tuvonay.site
 tuvonaylandisistem.xyz
 tuvrandev.com
 tuvrandevu-muayene.net
@@ -253391,6 +253414,7 @@ yurticdikargo.ink
 yurtici-gonderinerede.firebaseapp.com
 yurtici-gonderinerede.web.app
 yurtici-kargo-takip.com
+yurtici-kargo.guvenli-hizmet.online
 yurtici-kargo.ilanlar-secure.com
 yurtici-kargotra.com
 yurtici-kibris.com

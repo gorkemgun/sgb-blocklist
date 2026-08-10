@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99180
-# Last change: 2026-08-10 12:01:58 UTC (sync mode: delta)
+# Records: 99189
+# Last change: 2026-08-10 13:47:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12279,6 +12279,7 @@ bilgiplatformu.com
 bilgiportal.com.tr
 bilgipusulasi.co
 bilgiret.org
+bilgis-tr.online
 bilgisayfam.link
 bilgisayfasi.net
 bilgisayffam.net
@@ -25229,6 +25230,7 @@ dhanikhera.com
 dhasc.shop
 dhazinemaliyeiade9.com
 dhegese.arabamuayenesi.xyz
+dhetressedest.duckdns.org
 dhg07.xyz
 dhg10.xyz
 dhgm-dot-meb-dot-gov-dot-tr.gateway.web.tr
@@ -30707,6 +30709,7 @@ eurunlerhizmetiniz.com
 eusuchian.com
 eutantimnt.top
 euunqc.top
+euyapbilgi.org
 euyapuzlasma.org
 euygulama2.com
 euygulama6.com
@@ -34693,6 +34696,7 @@ fwsqawaqs.blogspot.com
 fwywcegwgayw-cwfqywhwvfs-cwfqhfwa.shop
 fxcalc.mds.com.cy
 fxchemicalplant.com
+fximbra.weebly.com
 fxnjjf.top
 fxqot.cn
 fxrsatlx-fiyxtlxrr.online
@@ -41765,6 +41769,7 @@ hizmet-geldi.net
 hizmet-hemen.net
 hizmet-iadesi-e-devlet2021-portal-guvenli-transfer.xyz
 hizmet-islememleri.com
+hizmet-merkezi-online.com
 hizmet-p-ort-al.de
 hizmet-prtl.de
 hizmet-siniryok.de
@@ -58214,6 +58219,7 @@ msofficesign.com
 msonlinecenter.com
 mspasskey.com
 msport-arena.ru
+msrhonlbvr.com
 msrnib.top
 mssjj345.blogspot.com
 mssouthpolnte.com
@@ -73296,6 +73302,7 @@ sahibinden-param-guvende.a2hosted.com
 sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
+sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
@@ -73619,6 +73626,7 @@ sahibinden.hizmetler-tr.org
 sahibinden.hizmetlerin.com.tr
 sahibinden.hizmetleriniz.com.tr
 sahibinden.id17038.com
+sahibinden.id53131.cfd
 sahibinden.ilan-aktif.com.tr
 sahibinden.ilan-al-ode.com.tr
 sahibinden.ilan-guvende-alisveris.online
@@ -84804,6 +84812,7 @@ tkilkevim.sbs
 tkipetislemlerim.info
 tkisybsvrlrhmn.net
 tkkammk.shop
+tkkg-edvtapkonv.online
 tkkkiibasvrr.net
 tkksgabasvuru.work
 tkktkktkklnsslnkknn.com
