@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99189
-# Last change: 2026-08-10 13:47:49 UTC (sync mode: delta)
+# Records: 99199
+# Last change: 2026-08-10 15:18:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8366,6 +8366,7 @@ arzumtblenn.com
 as10.bkns.com.vn
 as11.bkns.com.vn
 as3.bkns.com.vn
+as39.site
 as5.bkdata.vn
 asa1o1.net
 asacvdvvtt-scvcvtt.com
@@ -41326,6 +41327,7 @@ hihuysite.site
 hihxkn.top
 hiizgadc.cyou
 hiizggecd.cfd
+hiizsfe.cyou
 hijackcatholic.top
 hijackobservatory.top
 hijligexicuzman.net
@@ -48306,6 +48308,7 @@ jrisictonpeding.top
 jrleif.top
 jrztxofmh.xdk8ax.cn
 js.staticounter.net
+jsadetersaeter.help
 jsbank.co
 jsgrcpa.cn
 jshsajk.top
@@ -54053,6 +54056,7 @@ m.24612-20114.click
 m.akglobal.pro
 m.ayfon16.click
 m.diogoflix.com
+m.garfielddom.click
 m.m4rcy.fun
 m.megabytesnow.online
 m.nousomtr1.click
@@ -54155,6 +54159,7 @@ magazadan-odemem.com
 magazafirsatingeldi.com
 magazafirsatlari.com
 magazafirsatlarinizgeldi.com
+magazafislerionline.com
 magazahizmetlerinoktasi.com
 magazaindirimi.com
 magazakampanyalari.site
@@ -63468,6 +63473,7 @@ otoarackiralamaavis.online
 otoarackiralamamerkezi.com
 otoaraclariavis.site
 otoaracsigortalat.site
+otoaracteoglion.org
 otoavishizmetleri.online
 otoavisihemenkiralama.online
 otoaviskiralama724.online
@@ -72808,6 +72814,7 @@ s1book0s.com
 s1mzamangldi1br0d1a.com
 s2lovam.com
 s2ver.online
+s3.eu-north-1.amazonaws.com
 s3caccverifisubmit.xyz
 s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
@@ -76451,6 +76458,7 @@ shoppingstrand.top
 shoppiniracy.top
 shoppp.cc
 shoppromising.top
+shops-mobil.online
 shops24.top
 shopsetrms.top
 shopsites.shop
@@ -77348,6 +77356,7 @@ siparisver-hemen.com
 siparisver.net.tr
 siparisverafyon.com
 siparisvergelir.click
+siparisverhemen.com
 siparisyolla.site
 siparssepetiniz.click
 sipqortam.xyz
@@ -88211,6 +88220,7 @@ turkpetrolborsa.com
 turkpetrolleri.click
 turkplatform-tr.com
 turkpltfonline.com
+turkpress.blog
 turkproam.com
 turkptrl.com
 turkrent.net

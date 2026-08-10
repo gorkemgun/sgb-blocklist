@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464109
-# Last change: 2026-08-10 13:47:49 UTC (sync mode: delta)
+# Records: 464136
+# Last change: 2026-08-10 15:18:35 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -11503,6 +11503,7 @@
 312221222145558999891.duckdns.org
 312221222145558999893.duckdns.org
 312221222145558999898.duckdns.org
+312221222145558999899.duckdns.org
 312222545548789988990.duckdns.org
 312222545548789988991.duckdns.org
 312222545548789988992.duckdns.org
@@ -51437,6 +51438,7 @@ as27g38vnc.rist0x1.com
 as2cx8c46a2ca.digital
 as2d1as5d1sa31as.digital
 as3.bkns.com.vn
+as39.site
 as45d1sa651ca6ca61sc.live
 as4d5sa64c6a684c.digital
 as4d768db372f5a7fbc0fe1fee5b311.com
@@ -54936,6 +54938,7 @@ avis-rent-tailwind-gfpdr84v9-ekremufacik.vercel.app
 avis-rezarvasyon.click
 avis-rezarvasyon.com
 avis-rezarvasyon.shop
+avis-sozlesme.fast-islem-merkezi.com
 avis-sozlesme.hizli-islemler-merkezi.com
 avis-tr-online.com.tr
 avis-tr-online.shop
@@ -93427,6 +93430,7 @@ caffeeperme.com
 caffegclasiqwp.shop
 caffezy.com
 cafkasd2.net
+cag-hizlanmasi-tr.ink
 cagarlerinmenuguncel.xyz
 cagatay3162.zapto.org
 cagdasbursvakfi.com
@@ -174191,10 +174195,12 @@ garantilerdesketst.duckdns.org
 garantili-b-b-v-a.my-homeip.de
 garantili-basvrular.vercel.app
 garantili-basvurgir.duckdns.org
+garantili-basvuru-islemlerim.webredirect.org
 garantili-bireysel-islemim-com.duckdns.org
 garantili-hediyem.com
 garantili-islemlerim-bireysel-com.mayddns.com
 garantili-islemlerim-bireysel-com.webredirect.org
+garantili-islemlerim-cepte-com.webredirect.org
 garantili.bbvagirisbillgilersorug.site
 garantili.my-homeip.net
 garantili2026.duckdns.org
@@ -206908,6 +206914,7 @@ hiizlislem.xyz
 hiizliveguvenimserviceds.com
 hiizmetbasvurumerkezii.buzz
 hiizmetgirismerkezi-hizlibasvur.com
+hiizsfe.cyou
 hijackcatholic.top
 hijackobservatory.top
 hijazlines.com
@@ -217785,6 +217792,7 @@ icepsubesinde.gq
 icepsubesinde.ml
 icepsubesinde.tk
 icepteteb.co.vu
+icerik-limitleri-s-g.ink
 icerik-onemli.garden
 iceseri.lat
 icesignify.top
@@ -240615,6 +240623,7 @@ js0c892.se
 js0crz.duckdns.org
 js0q8dft8.duckdns.org
 js1994.duckdns.org
+jsadetersaeter.help
 jsadlhba.duckdns.org
 jsamoep5i.duckdns.org
 jsb.gq
@@ -253226,6 +253235,7 @@ kisiselwarrantybb.xyz
 kisisevgi.org
 kisisorgu.blogspot.com
 kisitkaldir.pro
+kisitkaldirmaaktivasyonlinki.duckdns.org
 kisitkaldirmalinkibasvuru.duckdns.org
 kisiye-ozel-kampanyalar.com
 kisiyeozel.site
@@ -269099,6 +269109,7 @@ m-qnbfinansube.com
 m-qnbmusterisube.ga
 m-qnpsubeonline.com
 m-ramazanfirsatlari.com
+m-rhs1-82rvdnbrdn.org
 m-sahibinden-guvenliodemes.com
 m-sahibinden.com
 m-sahibinden.com.tr
@@ -269206,6 +269217,7 @@ m.diogoflix.com
 m.fasterxml.org
 m.flirting19.com
 m.g3bnb.one
+m.garfielddom.click
 m.gfsrsa.com
 m.hiyo19tv.com
 m.homelove19.com
@@ -269895,6 +269907,7 @@ magazafirsatisi.com
 magazafirsatlari.com
 magazafirsatlarinizgeldi.com
 magazafirsatmarketleri.com
+magazafislerionline.com
 magazagiris-hizmetlerim.com
 magazahizmetlerinoktasi.com
 magazahizmetuygunfiyat.xyz
@@ -280598,6 +280611,8 @@ mobil-deniz-internet-sayfa-basvuru.55mailservice.xyz
 mobil-deniz-kredi.top
 mobil-deniz-kredim.top
 mobil-deniz-promosyyon-bilgi-ekranim.theworkpc.com
+mobil-deniz-promosyyon-cepte.webredirect.org
+mobil-deniz-promosyyon-ekrani.theworkpc.com
 mobil-deniz-webislem.online
 mobil-deniz.firsatlarbildirimi.xyz
 mobil-deniz.life
@@ -291199,6 +291214,7 @@ ncvxnone.b-cdn.net
 ncvzbuwj.wiki
 ncwnnx.duckdns.org
 ncwugalsy.com
+ncxbmbvxvccxcnbvxcnnbvd57.click
 ncxi-rnbamdfbularal.net
 ncxrpjezyx.duckdns.org
 ncxxbirim444.fyi
@@ -309743,6 +309759,7 @@ otoarackiralamalar.site
 otoarackiralamamerkezi.com
 otoaraclariavis.site
 otoaracsigortalat.site
+otoaracteoglion.org
 otoaracyikamacihazim.store
 otoaviiskiira.cf
 otoavisarac724kiralama.com
@@ -346985,6 +347002,7 @@ s0kmarlketlr.com
 s0kmarlketr.com
 s0kmlarkletlerden.shop
 s0kyilbasialdinaldin.org
+s0lmalktlret.com
 s0mh58307lop1t1vo6oda2c.ddns.net
 s0mzamangldi1br0d1a.com
 s0n51as0tzelt0s.blogspot.com
@@ -347088,6 +347106,7 @@ s2xg23lp9.duckdns.org
 s3-contemp.s3.sa-east-1.amazonaws.com
 s3-microsoft.com
 s3-updatehub.cc
+s3.eu-north-1.amazonaws.com
 s3.fikofiko.top
 s3.megawoc.com
 s3.milonic-jquery.top
@@ -349822,6 +349841,7 @@ sahibinden-param-guvende.ilan-guvenli.online
 sahibinden-param-guvende.ilan-onay-tr.online
 sahibinden-param-guvende.ilan-onay.online
 sahibinden-param-guvende.islemonayla.online
+sahibinden-param-guvende.islemonaylatr.online
 sahibinden-param-guvende.islemonaytr.online
 sahibinden-param-guvende.ml
 sahibinden-param-guvende.net
@@ -351039,6 +351059,7 @@ sahibinden.kolay-alimsatim.com.tr
 sahibinden.kolay-alisveris.org
 sahibinden.kolayalimservisi.com.tr
 sahibinden.kolayca-ode.com.tr
+sahibinden.kolaysiparisler.com
 sahibinden.kurbandageldi.cfd
 sahibinden.kurumsal-al.com.tr
 sahibinden.kurumsal-get-ilanlar.com.tr
@@ -351492,6 +351513,7 @@ sahibinden.siparislerim-onayli-127452.com
 sahibinden.siparislerim.net
 sahibinden.siparissatin-al.com
 sahibinden.siparisver-hemen.com
+sahibinden.siparisverhemen.com
 sahibinden.siparisveriniz.com.tr
 sahibinden.siparisyolda.site
 sahibinden.sistemi-tamamla.com
@@ -363023,6 +363045,7 @@ shoppromising.top
 shopproxy.live
 shoppttgov.top
 shopquick.site
+shops-mobil.online
 shops-p-t-t-a-v-m.shop
 shops24.top
 shopsetrms.top
@@ -366651,6 +366674,7 @@ siparisverafyon.com
 siparisvergelir.click
 siparisvergelsin.site
 siparisvergelsindekapina.xyz
+siparisverhemen.com
 siparisveriniz.com.tr
 siparisvpay.online
 siparisweb.net
@@ -369635,6 +369659,7 @@ snnaxf5.duckdns.org
 snnd-ayyfirsttllrixyniozll.net.tr
 snnddeegegellaayzbre.mooo.com
 snndrlmerbrdabgld.sbs
+snnfrstlrarrkmpnyaabsvrsu14785.info
 snnfrstlrarrkmpnyaabsvrsu14785.pro
 snnhcmrketmmknmpyyllriyklaa.com
 snnkn2e.is-best.net
@@ -407751,6 +407776,7 @@ turkpetrolleri.click
 turkplatform-tr.com
 turkplatformhub.com
 turkpltfonline.com
+turkpress.blog
 turkproam.com
 turkpropertyinvest.com
 turkptrl.com
@@ -425763,6 +425789,7 @@ vxx-deneme.com.tr
 vxy6yca.duckdns.org
 vxyacnqmyoelyns.cn
 vxz.k4dr.xyz
+vxzcbvcbnbnxsszssd21.click
 vxzrmrm.net
 vxzxtuherz.duckdns.org
 vy0mlh9m.duckdns.org
