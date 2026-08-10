@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99209
-# Last change: 2026-08-10 17:11:36 UTC (sync mode: delta)
+# Records: 99217
+# Last change: 2026-08-10 18:05:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10679,6 +10679,7 @@ basvurkredidenizgrs.site
 basvurkredim.asyanfinans.com
 basvurkredine.basutkredi.com
 basvurlar.com
+basvurlarininsonucal.sbs
 basvurmst.cyou
 basvurnmz.com.tr
 basvuronlinetektenizde.fun
@@ -17360,6 +17361,7 @@ cavazzoniassociati.it
 cavernaid-ky.cloud
 cavingdisegard.top
 cavityredundant.top
+cay-caydanlikindirimleri.sbs
 cay-makinesi.online
 cayalleltlering.com
 cayaypaketsin.lat
@@ -25486,6 +25488,7 @@ diji-siparis.sbs
 dijicuucey.com
 dijiitallgarantibasvuru.com
 dijionline-kampanya.sbs
+dijionline-siparis.sbs
 dijisiparis-internet.sbs
 dijital-birlik.org
 dijital-denizlili.tk
@@ -46536,6 +46539,7 @@ islemyap.de
 islemyapins.net
 islemyenileme.com
 islemyermerkezi.blogspot.com
+islenim-klas-web.garden
 islergroup.pw
 isleryolundadegil.com
 islespotlight.top
@@ -48959,6 +48963,7 @@ kampanyalari2022.net
 kampanyalarikacirma.com
 kampanyalarikacirmaefsaneurunlersizlerle.xyz
 kampanyalarikacirmasonsans.xyz
+kampanyalarikacirmateoglion.com.tr
 kampanyalarim.com.tr
 kampanyalarimiz-qnbfinansbank.com
 kampanyalarimiz-yaz.myonlineportal.ch
@@ -53765,6 +53770,7 @@ luksvilla.net
 lukul3sdfb.net
 lukzev.xyz
 lululemonturkiye.com.tr
+lumarapolli-sedere.lol
 lumareko.store
 lumavo.info
 lumberes.top
@@ -56634,6 +56640,7 @@ mgrosshzlrannn.online
 mh-r-al-randv-simdi-hemence.duckdns.org
 mh-rs.182iletisim.click
 mh.cicekcihizli.sbs
+mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
 mhat-art-theatre.ru
 mhazinemaliyeiadee1.com
@@ -60171,6 +60178,7 @@ nilbort.online
 nilebliss.com
 nileora.sbs
 nilfeat.top
+nilokalisra-solere.lol
 nilordeal.top
 nilovifsorggula.net
 nilviyonsfsorgula.net

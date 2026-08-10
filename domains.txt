@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464149
-# Last change: 2026-08-10 17:11:36 UTC (sync mode: delta)
+# Records: 464157
+# Last change: 2026-08-10 18:05:45 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -61121,6 +61121,7 @@ basvurlar.com
 basvurlarabasladi.cloud
 basvurlaribas.mindframe.sbs
 basvurlarim.site
+basvurlarininsonucal.sbs
 basvurlariniztokki.online
 basvurlarinizz.com
 basvurlarracikdenizv2denizbank.co.vu
@@ -96126,6 +96127,7 @@ cawtrfcywt.duckdns.org
 cax1ch.duckdns.org
 caxtuxs.duckdns.org
 caxxxtrlgw.duckdns.org
+cay-caydanlikindirimleri.sbs
 cay-firsati-yakala.net
 cay-makinesi-aktuel.lat
 cay-makinesi.online
@@ -125560,6 +125562,7 @@ dijiitallgarantibasvuru.com
 dijijuzdan.click
 dijimicrofon.com
 dijionline-kampanya.sbs
+dijionline-siparis.sbs
 dijionlinedenizkredikntrl.com
 dijiseninle.click
 dijisiparis-internet.sbs
@@ -231056,6 +231059,7 @@ islemyeriniz.com
 islemyermerkezi.blogspot.com
 islemyonle.com
 islemziraat.cfd
+islenim-klas-web.garden
 islenpiding.hotmail.ru
 islerbasvurdunuzms.duckdns.org
 islerbasvvurular.click
@@ -244839,6 +244843,7 @@ kampanyalarikacirmasizleretumurunlersepette.xyz
 kampanyalarikacirmasonsans.com.tr
 kampanyalarikacirmasonsans.online
 kampanyalarikacirmasonsans.xyz
+kampanyalarikacirmateoglion.com.tr
 kampanyalarim-2023.info
 kampanyalarim-2023.xyz
 kampanyalarim-finansbank.com
@@ -267829,6 +267834,7 @@ lumaailabs.com
 lumalabs-dream.com
 lumalabsai.in
 lumar-office.com
+lumarapolli-sedere.lol
 lumareko.store
 lumavo.info
 lumavora.xyz
@@ -277778,6 +277784,7 @@ mh.cicekcihizli.sbs
 mh.madagent.cc
 mh22w4n.duckdns.org
 mh3roylarchp.blogspot.com
+mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
 mh652eba.duckdns.org
 mh6uxvk.duckdns.org
@@ -294326,6 +294333,7 @@ nilfeat.top
 nililotan.org
 niliy.cn
 nilmari.com
+nilokalisra-solere.lol
 nilordeal.top
 nilovifsorggula.net
 nilviyonsfsorgula.net
