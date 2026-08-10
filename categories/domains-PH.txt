@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99173
-# Last change: 2026-08-10 08:52:51 UTC (sync mode: delta)
+# Records: 99174
+# Last change: 2026-08-10 10:38:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -91756,6 +91756,7 @@ virusdetect.top
 virusportrayal.top
 virussalvation.top
 virusstadium.top
+virustotal.com.tr
 visaautonomy.top
 visanegocios.com
 viscarsfilo.org
