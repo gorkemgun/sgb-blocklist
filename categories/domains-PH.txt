@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99081
-# Last change: 2026-08-10 02:37:01 UTC (sync mode: full)
+# Records: 99082
+# Last change: 2026-08-10 06:44:26 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -83377,6 +83377,7 @@ teknosa-kampanya.shop
 teknosa-web.com
 teknosacellhizmetleri.com
 teknosacelll.com
+teknosakz-a5c3f6g4s7r9y5f4hk3d1a94g3hn15a9tgx1v2ju8sq8r2.com
 teknosakz.com
 teknosaonline.shop
 teknosaturuncufirsat.shop
