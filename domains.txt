@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464182
-# Last change: 2026-08-10 22:00:44 UTC (sync mode: delta)
+# Records: 464185
+# Last change: 2026-08-10 22:58:39 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -147756,6 +147756,7 @@ elementzone.shop
 elemsdfwed.net
 elemterekeyfe.com
 elenamasaj.com
+elenen-edinim-gr.ink
 elephant.zzux.com
 elephantintheroomproductions.net
 eleronixzkt.gq
@@ -207923,6 +207924,7 @@ hizlibasvur247.com
 hizlibasvur724.com
 hizlibasvura.com
 hizlibasvuralarim7temmuz.cloud
+hizlibasvuralartoplan.sbs
 hizlibasvurcaksn.net
 hizlibasvuriadenial.net
 hizlibasvurkonut.online
@@ -447302,6 +447304,7 @@ xzas1azx.ddns.net
 xzbnbgpap.storage.googleapis.com
 xzcdgx9n.duckdns.org
 xzcfifgpci.duckdns.org
+xzcvcbvmnsaddfgsdfgfsssa59.click
 xzcvcvxvxcvxfx.top
 xzcxzckvkvslvaxzc.net
 xzdgsdfhfgtjdfj.wuaze.com

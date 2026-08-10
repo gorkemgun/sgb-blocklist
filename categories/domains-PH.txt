@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99241
-# Last change: 2026-08-10 22:00:44 UTC (sync mode: delta)
+# Records: 99244
+# Last change: 2026-08-10 22:58:39 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29122,6 +29122,7 @@ elementarydrawback.top
 elementgauge.top
 elemsdfwed.net
 elenamasaj.com
+elenen-edinim-gr.ink
 elephantintheroomproductions.net
 elestiri-online.ink
 eletiribabapors.xyz
@@ -41565,6 +41566,7 @@ hizlibakiyeleriniz.arabamuayenesi.xyz
 hizlibakiyeniz.arabamuayenesi.xyz
 hizlibasvur.online
 hizlibasvuralarim7temmuz.cloud
+hizlibasvuralartoplan.sbs
 hizlibasvurlarinolustur.cloud
 hizlibasvurtamamlan.cloud
 hizlibasvuru.ml
@@ -96888,6 +96890,7 @@ xyvlar.top
 xyvojae.com
 xyvyor.homes
 xyz.vegascheck.net.tr
+xzcvcbvmnsaddfgsdfgfsssa59.click
 xzeez.cfd
 xzfsaaszfdsa.net
 xzmirimisilemler.net
