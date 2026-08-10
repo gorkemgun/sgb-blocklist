@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99199
-# Last change: 2026-08-10 15:18:35 UTC (sync mode: delta)
+# Records: 99209
+# Last change: 2026-08-10 17:11:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3285,6 +3285,7 @@ a101m.xn--sponsorlukampanyalarm-3gd.com
 a101magaza.shop
 a101magazaa.com
 a101magazafislerionline.net
+a101magazafislerionlinefirsati.com
 a101magazaplus.com
 a101market.aktuelaldinaldin.com
 a101market.app
@@ -8491,6 +8492,7 @@ asfas5f4a.ocserif.net
 asfasasfasfasf.net
 asfaswrsdf.online
 asffsafsfsa.net
+asfgaxq.sbs
 asfinag-pay.live
 asfinag-pay.shop
 asfsadfrwqarf.sbs
@@ -12755,6 +12757,7 @@ binancecampaignsupport.net
 binancecampaignsupprt.net
 binancecash.ga
 binancecat.online
+binancecekilisi.com
 binancedeals.com
 binancedeals.net
 binancedencokozelhediyeler.ml
@@ -30711,6 +30714,7 @@ eusuchian.com
 eutantimnt.top
 euunqc.top
 euyapbilgi.org
+euyaptakip.org
 euyapuzlasma.org
 euygulama2.com
 euygulama6.com
@@ -36652,6 +36656,7 @@ gleders-contrew.com
 gleemmuse.com
 glendermoide.xyz
 glercomandre.com
+glerdenlerdews.duckdns.org
 gletavo.store
 gleversfarmguste.com
 glfmgklf55fg.top
@@ -39705,6 +39710,7 @@ havaististnbl.com
 havale-gonderici.com
 havale-gonderim.com
 havale-ilan.com
+havale-ode.com
 havalem-fast.com
 havalialetsatinal.com
 havalimaanarackirala.com
@@ -40433,6 +40439,7 @@ hemenbasvurnu.click
 hemenbasvurnuyap202611.duckdns.org
 hemenbasvuru2025.org
 hemenbasvurvekazanfirsati.tech
+hemenbilgial.abrdns.com
 hemenbul.app
 hemencicekci.com
 hemendenfmsds.online
@@ -57572,6 +57579,7 @@ mobilonlinebasvurugiris.ml
 mobilonlinedogrulavarlikservice.online
 mobilsafariozel.cloud
 mobilservis-43.sbs
+mobilservis-44.sbs
 mobilservis-87.sbs
 mobilservisi-4.com
 mobilservisin-10.sbs
@@ -63065,6 +63073,7 @@ ophiuroidean.com
 opinionconsider.top
 opiniontimber.top
 opjj2y8.cn
+opklziyygnh.nicepage.io
 opmujykyumty.click
 opnvergi.net
 oportocoollection.com
@@ -98854,6 +98863,7 @@ ziraat-com-tpos.cfd
 ziraat-com-tt.cfd
 ziraat-com-xy.cfd
 ziraat-combo-bireysel.kastakdkdkd.tk
+ziraat-cvc.cfd
 ziraat-digital-subesi.online
 ziraat-ekspertiz.web.app
 ziraat-katilim-kredin-hazir-basvuru.mooo.com

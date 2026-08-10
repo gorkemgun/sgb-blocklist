@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257022
-# Last change: 2026-08-10 15:18:35 UTC (sync mode: delta)
+# Records: 257025
+# Last change: 2026-08-10 17:11:36 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -53770,6 +53770,7 @@ bv.my-homeip.com
 bv1mhjcl.ml
 bva-bsvru.lat
 bva-click.lat
+bva-digital.shop
 bva-garente.icu
 bva-garente.shop
 bva-global.lat
@@ -65642,6 +65643,7 @@ denizdensubem.gq
 denizdensubem.ml
 denizdensubem.tk
 denizdensupriz.gq
+denizdentoprag.my-homeip.de
 denizdentr.com
 denizdentrtiadem.com
 denizdentrtiadenial.com
@@ -148539,6 +148541,7 @@ kkfearlesmoonss.com
 kkfearlesss.com
 kkffvdv111.cloud
 kkfhhfsafsacascasfgg.space
+kkfkfjpdlfdmfsndfnsdnfmnvcxnvb58.click
 kkfvpu.cc
 kkgeliyorkkdom.com
 kkgeliyoryoldaaa.com
