@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99217
-# Last change: 2026-08-10 18:05:45 UTC (sync mode: delta)
+# Records: 99227
+# Last change: 2026-08-10 19:19:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2592,6 +2592,7 @@
 94fcea1f.asajadd8nds.com.cn
 95.169.80.34.bc.googleusercontent.com
 95463visitor.com
+95874bsvrsuukrediikmpnyssi.pro
 958cbdda.sieujnx.cloud
 959159195159159191915919.cloud
 95bimcell.net
@@ -3479,6 +3480,7 @@ a1o1magazan.com
 a1o1onlifirsatlnistbsf.blogspot.com
 a1o1onlinenisankarctrsgtr.blogspot.com
 a1o1onlineozelkampanyas.net
+a1o1onlinesadeconlin1d.blogdns.com
 a1o1reklamlariharcha.ddnsfree.com
 a1o1sadeceonlineee.shop
 a1o1sepet.net
@@ -5469,6 +5471,7 @@ akklevaltrlerndn.click
 akkmpfrst2024krbn.online
 akkredimm1.wixsite.com
 aklafirsatakacirma.com
+aklbnakbasvkampnya.com
 aklistrsaveras.online
 aklksfaoizlea.blogspot.com
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
@@ -41420,6 +41423,7 @@ historicatrocity.top
 historicobsessive.top
 historicparameter.top
 historicsimultaneous.top
+historik-dibayn-tgr.ink
 historyamplification.top
 historybenevolence.top
 historycommonwealth.top
@@ -56648,6 +56652,7 @@ mhcese.netlify.app
 mhdresrndevvsu.com
 mhfabthgsbska.shop
 mhgtheatre.ru
+mhherkesrs.com
 mhhmmhrs.app
 mhhres.dns.navy
 mhhrrss.com
@@ -63082,6 +63087,7 @@ opinionconsider.top
 opiniontimber.top
 opjj2y8.cn
 opklziyygnh.nicepage.io
+opklziyygnhg.nicepage.io
 opmujykyumty.click
 opnvergi.net
 oportocoollection.com
@@ -72172,6 +72178,7 @@ rixoshotelresort.com
 rixosluxuryhotels.com
 rixospremiumspa.com
 rixosrugs.com
+rixosshotels.com
 rixvona.cyou
 riyadhroute.com
 rizababageldi.online
@@ -77320,6 +77327,7 @@ siparis-alim.com
 siparis-baglantisi-kisa-link.com
 siparis-cekme.pages.dev
 siparis-geldi.com
+siparis-hizliislem.com
 siparis-kapida.app
 siparis-kapida.com.tr
 siparis-kayit.com.tr
@@ -98923,6 +98931,7 @@ zirailillf.cfd
 ziraitarimfs.cfd
 ziratbasvuruihtiyac.com.tr
 ziratoff.online
+ziratpngj.cfd
 zircartel.tr
 zirdijital-kampanya.sbs
 zireluxa.gifts
@@ -99088,6 +99097,7 @@ zraatnaktdstekks.online
 zrac-mu4eyenex.net
 zrat-ggeris.cfd
 zratatsatsa.cfd
+zrattttasa.nicepage.io
 zriaxttttksrxdidstek.online
 zrirxxxaatkrexdi.online
 zrlat-dsvtzt.com
