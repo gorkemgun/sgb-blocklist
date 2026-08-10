@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99227
-# Last change: 2026-08-10 19:19:13 UTC (sync mode: delta)
+# Records: 99233
+# Last change: 2026-08-10 21:04:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3658,6 +3658,7 @@ abzb3v0.cn
 ac.perf.coinbase-com.info
 ac123xlkdsdaxjk12kj3123c12.cfd
 ac2d6f60.jdhuwoskz.cloud
+acacacacacac.sbs
 academicianallusion.top
 academyairborne.cn
 academyfirsatlarisorgulama-bn.net
@@ -24950,6 +24951,7 @@ destekparibasvuru.com
 destekprbduyurutr.com
 destekprduyuru.com
 desteksistemi-telif.xyz
+destekyardim.net
 destekyardimmerkezi.tk
 destekyurdu.com
 destekyurdu.org
@@ -25492,6 +25494,7 @@ dijicuucey.com
 dijiitallgarantibasvuru.com
 dijionline-kampanya.sbs
 dijionline-siparis.sbs
+dijionline-siparisim.sbs
 dijisiparis-internet.sbs
 dijital-birlik.org
 dijital-denizlili.tk
@@ -63088,6 +63091,7 @@ opiniontimber.top
 opjj2y8.cn
 opklziyygnh.nicepage.io
 opklziyygnhg.nicepage.io
+opklziyygnhgg.nicepage.io
 opmujykyumty.click
 opnvergi.net
 oportocoollection.com
@@ -77709,6 +77713,7 @@ skmarket-alisveris.xyz
 skmarket-alisverisi.com
 skmarket-alisverisim.com
 skmarket-alisverisin.com
+skmarlktlr.com
 skok2w.servegame.com
 skokcepuygulamasi.lat
 skopevalno.top
@@ -98477,6 +98482,7 @@ z-mail-webauth.netlify.app
 z-portalbasvr.online
 z003osu.cn
 z03qc8q.cn
+z0iraat.cfd
 z0mi.top
 z102.site
 z1ffssa.cfd
