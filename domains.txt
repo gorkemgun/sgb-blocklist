@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464173
-# Last change: 2026-08-10 21:04:20 UTC (sync mode: delta)
+# Records: 464182
+# Last change: 2026-08-10 22:00:44 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -60335,6 +60335,7 @@ basralibsru.sbs
 basre.loveslife.biz
 basriasrl.shop
 basrolsensiin.lat
+basruvu-oil.cfd
 basruvular.hegikeiroz.workers.dev
 basruvularim.online
 basruvularimiz.online
@@ -125569,6 +125570,7 @@ dijimicrofon.com
 dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
+dijionline-siparisver.sbs
 dijionlinedenizkredikntrl.com
 dijiseninle.click
 dijisiparis-internet.sbs
@@ -191066,6 +191068,7 @@ haberler235423.sbs
 haberler24.site
 haberler2523432.sbs
 haberler311422.sbs
+haberler311748.shop
 haberler3123512.shop
 haberler31345653.shop
 haberler32334.shop
@@ -271137,6 +271140,7 @@ mailzoology.top
 main-confirmchk.hopto.org
 main-login.sbs
 main-side-193258.framer.app
+main.d1donrzp70jfih.amplifyapp.com
 main.html-5.me
 main.retrousszx.com
 main2-fbcvn1112604.gq
@@ -278115,6 +278119,7 @@ mhvjhvjhvjhgvjhgcg.sbs
 mhvmsgsdqwrw.com
 mhwhowdw9.duckdns.org
 mhxrsbzlehizlica.org
+mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
 mhxrsrandevularinizbizle.org
 mhxrsrndvvlarbizle.org
 mhxuqmhcbt.duckdns.org
@@ -294341,6 +294346,7 @@ nilfeat.top
 nililotan.org
 niliy.cn
 nilmari.com
+nilohipolna-katore.lol
 nilokalisra-solere.lol
 nilordeal.top
 nilovifsorggula.net
@@ -308361,6 +308367,7 @@ opklmn.html-5.me
 opklziyygnh.nicepage.io
 opklziyygnhg.nicepage.io
 opklziyygnhgg.nicepage.io
+opklziyygnhgga.nicepage.io
 oplatap.com
 oplatap.xyz
 oplcathaxuebhcd.ru
@@ -377932,6 +377939,7 @@ stiye-hizli--yonlndirme.sbs
 stiye-hizli-gvuenli-yonlndirme.sbs
 stiye-hlzli-aktrma.sbs
 stiye-hzlica-yonlndirme.sbs
+stiye-yonlendiirci.com
 stiye-yonlendililriyorsunuz.sbs
 stiye-yonlendirilme.sbs
 stiyxdm.cn
@@ -463347,6 +463355,7 @@ zratkredalhmnr.net
 zratregfdsiredi349.duckdns.org
 zratreklamikaitim.com
 zrattttasa.nicepage.io
+zrattttasaa.nicepage.io
 zrauhd.com
 zrax-node.sbs
 zraxiattkrxdidstek.online

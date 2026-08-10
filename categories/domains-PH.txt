@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99233
-# Last change: 2026-08-10 21:04:20 UTC (sync mode: delta)
+# Records: 99241
+# Last change: 2026-08-10 22:00:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10586,6 +10586,7 @@ basliyoruz7.xyz
 basnacelor.top
 basralibsru.sbs
 basriasrl.shop
+basruvu-oil.cfd
 bassaksigorta.com.tr
 bassescalation.top
 bassfishinelectronics.top
@@ -38976,6 +38977,7 @@ haberler2354123.shop
 haberler235423.sbs
 haberler2523432.sbs
 haberler311422.sbs
+haberler311748.shop
 haberler33544.sbs
 haberler34063.sbs
 haberler3412366.com
@@ -54614,6 +54616,7 @@ mailynlndrme.com.tr
 mailyonlendirici.com.tr
 mailyonlendirme.com.tr
 mailzoology.top
+main.d1donrzp70jfih.amplifyapp.com
 main2-fbcvn1112604.gq
 mainetiquette.top
 mainews-tr.site
@@ -56782,6 +56785,7 @@ mhsscfsrsa6.sbs
 mht-tickets.ru
 mhtmcntmbk.online
 mhxrsbzlehizlica.org
+mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
 mhxrsrndvvlarbizle.org
 mhyrfg.buzz
 mi3g.com
@@ -60186,6 +60190,7 @@ nilbort.online
 nilebliss.com
 nileora.sbs
 nilfeat.top
+nilohipolna-katore.lol
 nilokalisra-solere.lol
 nilordeal.top
 nilovifsorggula.net
@@ -63092,6 +63097,7 @@ opjj2y8.cn
 opklziyygnh.nicepage.io
 opklziyygnhg.nicepage.io
 opklziyygnhgg.nicepage.io
+opklziyygnhgga.nicepage.io
 opmujykyumty.click
 opnvergi.net
 oportocoollection.com
@@ -80366,6 +80372,7 @@ stivaleno.pro
 stiwellberlingose-idente.com
 stiye-aktacrici--gvuenli-hzli.sbs
 stiye-hizli--yonlndirme.sbs
+stiye-yonlendiirci.com
 stk-sn-kpdaylbasi.online
 stk-snsntkfrst.online
 stkl-rdasnurnler.online
@@ -99104,6 +99111,7 @@ zrac-mu4eyenex.net
 zrat-ggeris.cfd
 zratatsatsa.cfd
 zrattttasa.nicepage.io
+zrattttasaa.nicepage.io
 zriaxttttksrxdidstek.online
 zrirxxxaatkrexdi.online
 zrlat-dsvtzt.com
