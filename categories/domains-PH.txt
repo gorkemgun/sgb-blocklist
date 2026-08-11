@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99340
-# Last change: 2026-08-11 13:45:50 UTC (sync mode: delta)
+# Records: 99346
+# Last change: 2026-08-11 15:17:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2471,6 +2471,7 @@
 84992d88.jdhuwoskz.cloud
 84parcamatkap.myshopify.com
 850numara.com.tr
+85208520520520520520520.club
 853221-gmail.com
 854526542.cloud
 8569i21.cn
@@ -3837,6 +3838,7 @@ acentacim-online.web.tr
 acentafilo365.com
 acentaflypgs.net
 acentalarbirligi.org
+acentamerkezi.com
 acentamuygun.name.tr
 acentaonline365.com.tr
 acentasicilsorgu.org
@@ -25523,6 +25525,7 @@ dijiitallgarantibasvuru.com
 dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
+dijionline-sipariskampanya.sbs
 dijisiparis-internet.sbs
 dijital-birlik.org
 dijital-denizlili.tk
@@ -38433,6 +38436,7 @@ guvenlieticaretget.com
 guvenlifinans.com
 guvenligetodeme.ru.com
 guvenligiris-btcturk.com
+guvenlihavuz2026.com
 guvenlihizliodemebaglantisi.com.tr
 guvenlihizmet.com
 guvenlihizmetin.com.tr
@@ -58528,6 +58532,7 @@ muhammadfayed-markting-sales1.pages.dev
 muhammercevik.arabamuayenesi.xyz
 muhasebeler.club
 muhasebemizitutacakyokmu3.cfd
+muheydibturizm.com
 muhteremgez.com
 muhtesem-kasim-firsatlari-sahane.com.tr
 muhtesem101lefsanekasim.com
@@ -72398,6 +72403,7 @@ roddddybdrydlnnn.shop
 rodfilokiralama.com
 rodheslesson.online
 rodney.lat
+rodrodrodrodmusic.com
 roelpaketleme.site
 roeoyunda.yasinatasoyholding.net
 rogenberg.xyz

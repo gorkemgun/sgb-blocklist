@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257039
-# Last change: 2026-08-11 13:45:50 UTC (sync mode: delta)
+# Records: 257043
+# Last change: 2026-08-11 15:17:55 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -16988,6 +16988,7 @@ adliyasatakip.org
 adliyecezasorgulama.org
 adliyedosyatrakip.org
 adliyekamusorgu.org
+adliyekurum.net
 adliyekurum.org
 adlndiyagecekanaz.blogdns.org
 adlndiyagecekazan.blogdns.org
@@ -61950,6 +61951,7 @@ dagrtaniyenibas.duckdns.org
 dagsadatds.click
 dagununsanlicekilisi.com
 daha-fazla-anladim-seni.com
+daha-kolay-entry.garden
 daha-neler-gelecek-bir-bilseniz.xyz
 daha-yeni-baslayanlara-biz-coktan-bitirdik.com
 daha-yeni-gorduk-alacaklari-olan-bir-adim-one.com
@@ -104924,6 +104926,7 @@ grumetaki.com
 grungemgir.pw
 gruoptrsrazcznnnglgtgl.com
 grup-isim.my-homeip.com
+grup-web.ink
 grupodelega.net
 grvbntbvr.sbs
 grvdetaykatalogirislemenum.com
@@ -233275,6 +233278,7 @@ vesana.net
 vesasan.net
 vesasana.net
 vesasanan.net
+vesirapolgo-tudore.lol
 vesselhubz.com
 vessrgiiodmeslee.net
 vesstom.store
