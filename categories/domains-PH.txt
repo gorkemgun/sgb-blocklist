@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99251
-# Last change: 2026-08-11 04:42:44 UTC (sync mode: full)
+# Records: 99254
+# Last change: 2026-08-11 06:07:14 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -982,6 +982,7 @@
 1paf1lacebasket.top
 1ptbkx.xdk8ax.cn
 1savboa.wixsite.com
+1scdacdx123c123x12312.cfd
 1securecheckpoint.info
 1securecheckpoint.online
 1smax.com
@@ -70005,6 +70006,7 @@ rafa09lasdck123x123.shop
 rafa10jkascdkaskx13x123123x.cfd
 rafa10sakcdjakxk12k3lx123x12.cfd
 rafa11adkaxdkjxk12x213x13.cfd
+rafa12casdcasjkx13x123c1j312.cfd
 rafa12xksdjkadkjcksjdk123x12.sbs
 rafa14dcsjkadjkskjx123x12312.cfd
 rafa1cadcjksakx13x12x3123x.cfd
@@ -89924,6 +89926,7 @@ uyenaswr.com
 uyerivamhalktan.site
 uygnfsta.cfd
 uygoahsdhashdhashd9092asd.click
+uygosahdahshd2w832saasda.click
 uygula-mobile.online
 uygulama-edevletkapisi.com
 uygulama-internet.site
