@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257062
-# Last change: 2026-08-11 18:10:29 UTC (sync mode: delta)
+# Records: 257064
+# Last change: 2026-08-11 21:06:46 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -36879,6 +36879,7 @@ belgeaidatiadeleriniz.com
 belgealim.net
 belgearsiviadeler.com
 belgedogrulama.sistemiturkiye.org
+belgedogrulamaedevletverif.com
 belgedogrulamaonay.org
 belgehiz.xyz
 belgeiadeniz.com
@@ -61957,6 +61958,7 @@ dagrtaniyenibas.duckdns.org
 dagsadatds.click
 dagununsanlicekilisi.com
 daha-fazla-anladim-seni.com
+daha-imtina.casa
 daha-kolay-entry.garden
 daha-neler-gelecek-bir-bilseniz.xyz
 daha-yeni-baslayanlara-biz-coktan-bitirdik.com

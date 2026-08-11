@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99381
-# Last change: 2026-08-11 19:28:23 UTC (sync mode: delta)
+# Records: 99390
+# Last change: 2026-08-11 21:06:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8431,6 +8431,7 @@ asdasdsaqweqwe.com
 asdasede-sedeadsada.lol
 asdasfamanassalvo.com
 asdasfasdmmn.click
+asdasgfsdxczczfewrewr90.site
 asdasqweqweaweq.net
 asdaswqkwqfwqfk.shop
 asdatatsagdfgafsrt.com
@@ -23220,6 +23221,7 @@ d.strideoflife.com
 d.windowsupdatesupport.link
 d0k1.com
 d0m9nlo.cn
+d15svt30v3gp39.amplifyapp.com
 d1b878b3.hwqwwrh.com.cn
 d1ds1je4mxnvyl.amplifyapp.com
 d1g1talpoint.xyz
@@ -39056,6 +39058,7 @@ haberler4561.sbs
 haberler562346.sbs
 haberler5632494.sbs
 haberler56755712366.com
+haberler612448.shop
 haberler64348.shop
 haberler6723236.sbs
 haberler73421.shop
@@ -40442,6 +40445,7 @@ hememislemnkta.net
 hememnssnltamsa.net
 hemen-al-simdi.com
 hemen-alabilirsin.gtxsa-pril.pw
+hemen-aninda.cards
 hemen-biradan.b-cdns.ru.com
 hemen-birkacdakika.guru
 hemen-firsati-yakala-tr.online
@@ -46929,6 +46933,7 @@ istanbultespit.com.tr
 istanbultuvturkrandevu.blogspot.com
 istanbulugeziyorsun.com
 istanbulularyuklmesi.net
+istanbululasim.duckdns.org
 istanbulumkart.com
 istanbulumkartidolum.net
 istanbulumkartimx.com
@@ -55246,6 +55251,7 @@ market-online.app
 market-ozel.online
 market-pulse.icu
 market-tanitimlari.online
+market-web.cards
 market.1cumagustos6.com
 market.agustosalisabahgwe.com
 market.agustoscarsambahup.com
@@ -66733,6 +66739,7 @@ pninhesdiyedibesinciyil.com
 pnliineaktuel.com
 po-bahrain-bh.top
 po.vatangate.com
+poc4b1sdftrecvbnfew89.pro
 pochoirs-a-imprimer.info
 pocket-link1.co
 pocket-link13.co
@@ -70106,6 +70113,7 @@ rafa10sakcdjakxk12k3lx123x12.cfd
 rafa11adkaxdkjxk12x213x13.cfd
 rafa12casdcasjkx13x123c1j312.cfd
 rafa12xksdjkadkjcksjdk123x12.sbs
+rafa13kcadjkcjkads123x123x12x.sbs
 rafa14dcsjkadjkskjx123x12312.cfd
 rafa1cadcjksakx13x12x3123x.cfd
 rafa1fkdlcaskdlx1231.shop
@@ -98901,6 +98909,7 @@ zenvalis.site
 zenvorra.store
 zeqire.com
 zerdesa-turyederte.lol
+zerdesede-yuhgurete.lol
 zerenem.net
 zereolipso-certesede.xyz
 zerfano.com
