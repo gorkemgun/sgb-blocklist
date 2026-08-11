@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464193
-# Last change: 2026-08-11 02:30:19 UTC (sync mode: delta)
+# Records: 464192
+# Last change: 2026-08-11 04:42:44 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -395674,7 +395674,6 @@ tombankasi101.cfd
 tombankasi101.click
 tombankasi101.pics
 tombankasi101.sbs
-tombankhadi.com
 tombankhaydi.cfd
 tombankhaydi.click
 tombankhaydi.icu
