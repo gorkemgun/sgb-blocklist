@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99273
-# Last change: 2026-08-11 09:16:02 UTC (sync mode: delta)
+# Records: 99279
+# Last change: 2026-08-11 11:09:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7566,6 +7566,7 @@ arabanikirala.online
 arabaningecisi.dev
 arabaozelcekilisi.online
 arabaozelcekilisi.website
+arabaprotokol.com
 arabarentacar.online
 arabasiigorta.site
 arabatasitislemin.dev
@@ -34854,6 +34855,7 @@ galaxyindignation.top
 galaxypress.space
 galaxyspark.space
 galaxywin.space
+galderenderlerdens.duckdns.org
 galiba.jaguar-style.cfd
 galkin-tickets.ru
 gallerybox.pics
@@ -35569,6 +35571,7 @@ gecisbakiyukleme.web.app
 gecisbilgi-ihlalsis.icu
 gecisdevm.com
 gecisdlaosl.net
+gecisetketdolumu.web.app
 gecishacizleri.info
 gecishacizlerin.info
 gecishemen.heylink.fyi
@@ -37969,6 +37972,7 @@ gulgul.click
 gulizarcicek.com
 gulkigieresedere.xyz
 gulkrgoroot.net
+gulluoglubaklavalari.shop
 gulluoglushop.abacusai.app
 gulotoyedekparca.com
 gulperfish.com
@@ -49296,6 +49300,7 @@ karacastore.club
 karacatc.com
 karacatcb.cfd
 karacatr.shop
+karacaveg.homes
 karacayazfirsatlari.store
 karadeliksiralariuzayarastirmalari.xyz
 karadenizturlari.net
@@ -74728,6 +74733,7 @@ sbmibb.net
 sbmorgtr.net
 sbmsorgu.org
 sbogovtr.com
+sbsbsbsbsbs.sbs
 sbuqkl.top
 sc-tesla.com
 sc.shopeegift.com
