@@ -13599,6 +13599,7 @@
 411speed.duckdns.org
 412100012458.duckdns.org
 412142114-2025.xyz
+412221222145558999892.duckdns.org
 4122322.com
 41239521838512.cloud
 41241231548123124.online
@@ -43915,6 +43916,7 @@ alo10-marketciniz.com.tr
 alo12-market.com
 alo182.com
 alo182.org
+alo182biziz.duckdns.org
 aloa1idf.cfd
 aloa1idf.sbs
 aloaloaskmdnle.net
@@ -130116,6 +130118,7 @@ dondur.online
 dondur.site
 dondur.website
 dondur.xyz
+dondurmakraliduck.duckdns.org
 done-arch.gl.at.ply.gg
 doneindmoa.duckdns.org
 doneislem.22web.org
@@ -322199,6 +322202,7 @@ pla.omentra.site
 pla7ina.cfd
 plababatramrs.shop
 placc.blob.core.windows.net
+place-goruntu.garden
 place548.xyz
 placecricket.top
 placeholder.duckdns.org
@@ -451294,6 +451298,7 @@ yaz-sn-kmp.sbs
 yaz-try-loginweb.xyz
 yaz-web-himetlri.net
 yaz.firsatlari.kacirma.oprpesfkfpoogslkdalkasflk.click
+yaz.firsatlari.kacirma.varparlakahmtkslwlf.click
 yaz.sonu.firsatlari.dkolardenmslerd.click
 yaz.sonu.firsatlari.hismetlerdsfak.click
 yaz.sonu.firsatlari.hizmetlerimsizisf.click

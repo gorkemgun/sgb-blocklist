@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99247
-# Last change: 2026-08-10 23:52:37 UTC (sync mode: delta)
+# Records: 99252
+# Last change: 2026-08-11 02:30:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1725,6 +1725,7 @@
 404308.com
 407minions.com
 407teric.buzz
+412221222145558999892.duckdns.org
 41260-coinbase.com
 4144413221.cloud
 415545618516165665.cloud
@@ -6321,6 +6322,7 @@ alo-yogatr.com
 alo1-indirim.com
 alo1-marketin.com.tr
 alo182.org
+alo182biziz.duckdns.org
 alocagrimerkezi.com
 alocationrual.top
 aloecomasionate.top
@@ -26658,6 +26660,7 @@ dondur.online
 dondur.site
 dondur.website
 dondur.xyz
+dondurmakraliduck.duckdns.org
 doneminde.com
 donfree.space
 dongice-jksd.cloud
@@ -66378,6 +66381,7 @@ pkt-yklmxz.blogspot.com
 pkxnzm.homes
 pla.omentra.site
 plababatramrs.shop
+place-goruntu.garden
 placecricket.top
 placementeloquent.top
 placementnickname.top
@@ -97250,6 +97254,7 @@ yaz-firsatlari.my-homeip.net
 yaz-geldi-huzur-doldu.top
 yaz-ppromosyonlariburada.com
 yaz.firsatlari.kacirma.oprpesfkfpoogslkdalkasflk.click
+yaz.firsatlari.kacirma.varparlakahmtkslwlf.click
 yaza1o1.net
 yazaa-ozxellkampnylarr.com
 yazafan.net
