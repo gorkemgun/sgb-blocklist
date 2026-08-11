@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99257
-# Last change: 2026-08-11 07:40:18 UTC (sync mode: delta)
+# Records: 99273
+# Last change: 2026-08-11 09:16:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -137,6 +137,7 @@
 0zm57e9.cn
 1-0-1pluscepte.com
 1-82-brdanrdval.com
+1-82m-rhsrvdnbrdn.org
 1-82rvdnlrdanbndansn.com
 1-sorgulama-adresi.blogspot.com
 1-stvilla-reservation-completion.com
@@ -199,6 +200,7 @@
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
+101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101-salieylulmarketi.com
 101-sepetimz.com
 101-site.com.tr
@@ -24828,6 +24830,7 @@ desertvoyager.com
 deserveeminence.top
 deservesergeant.top
 desgnrdistil.top
+deshelerdesw.duckdns.org
 desi-porn.tube
 desiblin.net
 designatehoist.top
@@ -27110,6 +27113,7 @@ dsasdasddsaadsadspaket.net
 dsasdcvv-dvttt.com
 dsaxaz.nichesite.org
 dsbank.co
+dsdsdsdssd.sbs
 dsfbhtusdrtbr.sbs
 dsfcslfcksllkslcdadcas.sbs
 dsfdg.sbs
@@ -30269,6 +30273,7 @@ erkenrandevuler.com
 erkerandevular.com
 erkin.pro
 erkin.space
+erkndn1-82rvdalsn.org
 erknemkllk.net
 erknmklklk.net
 erkoller.online
@@ -33433,6 +33438,7 @@ firstzamani101learalikta.com
 firwourz.com
 firyama.com
 fisaattlarmm-burddxa.com
+fiscalapi.ro
 fiscalcoincide.cn
 fiscalpilgrimage.top
 fiscalwithhold.top
@@ -33738,6 +33744,7 @@ floydbtc.net
 flrsat-buradageldi.shop
 flrsat-klimakampanya.site
 flrsat-online-kapida.name.tr
+flrsatagustos.com
 flrsathabersizhelesenkimsindebanauat.world
 flrsathadiolmazolsundaolmadandad.store
 flrsathadisenbeniettinyasenkazanma.world
@@ -35602,6 +35609,7 @@ gecsodeme.com
 gecszhzll.org
 gectibahargulo.shop
 gecyniylotovsss.xyz
+gederselerdensler.duckdns.org
 gedewadgsqa.duckdns.org
 gedikhalkaarz.app
 gedikyatirim.co
@@ -41681,6 +41689,7 @@ hizliizmirimkart.net
 hizlikampanyabasvurusu.online
 hizlikantemsi-8f6890bc61a1.herokuapp.com
 hizlikapida.com
+hizlikargolar.com
 hizlikaydetseniz.com
 hizlikaydol.online
 hizlikayitt.com
@@ -48471,6 +48480,7 @@ juveromas.store
 juvtr.store
 juxtor.sbs
 juzzdankredjts.cbu.net
+jvbomzwbhaedeihch.qsewjn.icu
 jvibe.buzz
 jvip6aw.top
 jvplqxnrtkmz.sa.com
@@ -54871,6 +54881,7 @@ maliyestrgov42.com
 maliyestrgov67.com
 maliyestrgov89.com
 maliyet-fark.myonlineportal.ch
+maliyetakibi.org
 maliyetakip.com
 maliyetalepformu.com
 maliyetrhazineislktrgov113.com
@@ -64402,6 +64413,7 @@ panel.m4rcy.fun
 panel.market
 panel.mercycheck.co
 panel.perlagame.online
+panel.qsewjn.icu
 panel.royaleminecraft.club
 panel.yilmazpanel.xyz
 panelaktif.com.tr
@@ -69701,6 +69713,7 @@ qrjn9gt.cn
 qrpapara.com
 qrt-qtgsprgeqertd.duckdns.org
 qrttemo-rndsuv.app
+qsewjn.icu
 qsg9zopoe.storage.googleapis.com
 qsoyak.top
 qsty.vip.kks.ynwp.coinbase-com.info
@@ -81308,6 +81321,7 @@ support-zoho.com
 support.auth-cb.com
 support.diogoflix.com
 support.gac.gov.lr
+support.qsewjn.icu
 support4turkeynow.asia
 support4turkeynow.com
 support75441.live
@@ -84859,6 +84873,7 @@ tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info
 tkg-tapsurndvnuzs.net
+tkg-tapvrdvsunuz.net
 tkgg-edvtap-randvv.org
 tkgmgov.weebly.com
 tki-online-bsvr.cyou
@@ -94500,6 +94515,7 @@ workshopaesthetics.top
 workshopglamour.top
 workshopretrieve.top
 workspace-app.online
+workspace.qsewjn.icu
 workstudylive8.live
 workstumble.top
 world-resorts.net
