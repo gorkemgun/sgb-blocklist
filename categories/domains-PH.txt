@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99390
-# Last change: 2026-08-11 21:06:46 UTC (sync mode: delta)
+# Records: 99401
+# Last change: 2026-08-11 22:07:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2191,6 +2191,7 @@
 699yudumcaykurturkiye.me
 699yudumturkiyecay.me
 69p98pz.cn
+6acsdjasdcaksxkl12k3lx123.cfd
 6agustossiparislerinden.cloud
 6agustss.duckdns.org
 6b40b612.ns-u629df.shop
@@ -2470,6 +2471,7 @@
 8494615118941l1l1.duckdns.org
 84992d88.jdhuwoskz.cloud
 84parcamatkap.myshopify.com
+84parcamatkapseti.shop
 850numara.com.tr
 85208520520520520520520.club
 853221-gmail.com
@@ -2600,6 +2602,7 @@
 94fcea1f.asajadd8nds.com.cn
 95.169.80.34.bc.googleusercontent.com
 95463visitor.com
+95874bsvrsuukrediikmpnyssi.online
 95874bsvrsuukrediikmpnyssi.pro
 958cbdda.sieujnx.cloud
 959159195159159191915919.cloud
@@ -5822,6 +5825,7 @@ alarm-taslagi.garden
 alarmsay.top
 alb-turk-mobil.com
 albaraka-yeni.cms.pixelplus.org
+albarakaaiprojects.com
 albarakamobil-giris.tk
 albarakka.com
 albay-b1mc3l.blogspot.com
@@ -10773,6 +10777,7 @@ basvuru.talep.yardimlarinizicin-geldik2.org
 basvuru.ucuzevinterneti.com
 basvuru.ytbase1.p.azurewebsites.net
 basvuru2022ayinaozelfirsat.tech
+basvuru23152.sbs
 basvuruacikbireyselbasvuruformudnzzzzzz.com
 basvuruacikdenizv2denizbankform.co.vu
 basvuruadresimdeniizkatilim.site
@@ -27767,6 +27772,7 @@ e-islemler-online-saglik.com
 e-islemler-siparis-tr.sa.com
 e-islemlerin.online
 e-islemlerodememerkeziniz.com
+e-islemtuv.site
 e-islemyap.app
 e-istanbulkartv.blogspot.com
 e-isz.blogspot.com
@@ -62229,6 +62235,7 @@ olimpiysensd.com
 olimpkrasnodar.com
 oliticlamas.top
 olitudestubbor.top
+olivarentcar.org
 olivensin.com
 oliveprofit.top
 oliviagrand.site
@@ -62266,6 +62273,7 @@ olynesvy.net
 olynssrv.net
 olyuuflgjd.nicepage.io
 olyvesnyre.net
+om8w2krx5qvph9tcn4ylb.sbs
 omabim.net
 omanmanppost.top
 omarlabasvurular.com
@@ -62874,6 +62882,7 @@ onlinelimitvakifta.xyz
 onlinem-tr.com
 onlinem.com.tr
 onlinemagaza.shop
+onlinemagazafisleri.com
 onlinemarketafisi.com
 onlinemarketcilik.com.tr
 onlinemarketdesafranda.com
@@ -77840,6 +77849,7 @@ skmarket-alisverisi.com
 skmarket-alisverisim.com
 skmarket-alisverisin.com
 skmarlktlr.com
+skmlrketler.com
 skok2w.servegame.com
 skokcepuygulamasi.lat
 skopevalno.top
@@ -90078,6 +90088,7 @@ uygunacilsigortacim.com.tr
 uygunahmeaalll.website
 uygunalisverlerler.rest
 uygunarabakiralama.com.tr
+uygunarackirala.com.tr
 uyguncasiqortalarim.com.tr
 uygunfaizlioran.bns-vio.site
 uygunfatura.net

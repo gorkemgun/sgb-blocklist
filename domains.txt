@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464374
-# Last change: 2026-08-11 21:06:46 UTC (sync mode: delta)
+# Records: 464386
+# Last change: 2026-08-11 22:07:32 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -12336,6 +12336,7 @@
 360lakirala.space
 360mediashare.com
 360nd3drg.duckdns.org
+360otokiralama.com
 360otokiralamaonline.com
 360photo.oss-cn-hongkong.aliyuncs.com
 360proxy.com
@@ -17648,6 +17649,7 @@
 6a7hm1k7.duckdns.org
 6a8nis9mt.duckdns.org
 6a9r79slj.duckdns.org
+6acsdjasdcaksxkl12k3lx123.cfd
 6adiletasarim.com
 6agustos.duckdns.org
 6agustossiparislerinden.cloud
@@ -20196,6 +20198,7 @@
 84m4bl423.space
 84ntxu8.duckdns.org
 84parcamatkap.myshopify.com
+84parcamatkapseti.shop
 84r6lgqw.duckdns.org
 84uf7736893y3768294y.linkpc.net
 84y3677y26635284i476653.xyz
@@ -21562,6 +21565,7 @@
 9586763434.cloud
 95874632kmpnyaabsvrrprsmynn.info
 95874632kmpnyaabsvrrprsmynn.pro
+95874bsvrsuukrediikmpnyssi.online
 95874bsvrsuukrediikmpnyssi.pro
 958859.cloud
 958cbdda.sieujnx.cloud
@@ -41391,6 +41395,7 @@ albaraka.app
 albaraka.rewardsacquiring.com
 albaraka.services
 albarakaa.com
+albarakaaiprojects.com
 albarakaat.org
 albarakaatbank.com
 albarakaaturk.com
@@ -61971,6 +61976,7 @@ basvuru1ekrani.blogdns.org
 basvuru2021-cimerdestek.com
 basvuru2022ayinaozelfirsat.tech
 basvuru202l-cimerdestek.com
+basvuru23152.sbs
 basvuru24.online
 basvuru24.space
 basvuru24.store
@@ -137467,6 +137473,7 @@ e-islemlerturkiyegov.tc
 e-islemmerkerzi-portal.tk
 e-islemsorguodemeler-portal.tk
 e-islemtoki.digital
+e-islemtuv.site
 e-islemvatandas.com
 e-islemyap.app
 e-islm-lr.com
@@ -302403,6 +302410,7 @@ olitskifoundation.org
 olitudestubbor.top
 olitusd.com
 olivabarak.ddns.net
+olivarentcar.org
 olivcad.com
 olive-monkey-951412.hostingersite.com
 olivensin.com
@@ -302570,6 +302578,7 @@ om3mnvg1.duckdns.org
 om7fgo.duckdns.org
 om8e6clc.duckdns.org
 om8nlk.duckdns.org
+om8w2krx5qvph9tcn4ylb.sbs
 omabim.net
 omacwkgd.com
 omada.garantibbvakredibasvuru.com
@@ -306748,6 +306757,7 @@ onlinemagaza.online
 onlinemagaza.org.tr
 onlinemagaza.shop
 onlinemagazacilikislemleri.havalimanindankapinagelsin.com
+onlinemagazafisleri.com
 onlinemagazaislemleri.pages.dev
 onlinemagazalar-karaca.vercel.app
 onlinemagazam.com.tr
@@ -368512,6 +368522,7 @@ skmarkmtemas.shop
 skmarkt.hayamrwas.shop
 skmarlktlr.com
 skmdennissurda.site
+skmlrketler.com
 skmnq.com
 skmsiziyterbedomians.com
 skmstcahuz.duckdns.org
@@ -414882,6 +414893,7 @@ uygunalisverlerler.rest
 uygunarabakirala.com.tr
 uygunarabakirala.net
 uygunarabakiralama.com.tr
+uygunarackirala.com.tr
 uygunarackirala.net
 uygunarackiralama.org
 uygunarackirama-avis.com
