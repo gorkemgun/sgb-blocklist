@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257057
-# Last change: 2026-08-11 17:15:16 UTC (sync mode: delta)
+# Records: 257062
+# Last change: 2026-08-11 18:10:29 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -11442,6 +11442,7 @@ a101-firsatlariniza-gelin.duckdns.org
 a101-gecekampanyalari.com
 a101-geridonus.duckdns.org
 a101-get.aldinaldinn.com.tr
+a101-girisfacebook.click
 a101-guncelkampanya.online
 a101-guvenli-indirim.com
 a101-guvenli-sepetim.com
@@ -130324,6 +130325,8 @@ instagram-kisisel-bilgiler-hizmeti.pw
 instagram-mail.net
 instagram-meta.top
 instagram-post.tk
+instagram-secured-assistance.ph
+instagram-secured-login.ph
 instagram-security-help.com
 instagram-support-i.ml
 instagram-takip.cf
@@ -226103,6 +226106,7 @@ turkiyesesi.com
 turkiyesfinans.com
 turkiyesiddetedurde.cf
 turkiyesignal.com
+turkiyesigorta.com.ph
 turkiyesigorta.net
 turkiyesigorta.online
 turkiyesigortaara.site
@@ -256004,6 +256008,7 @@ ziraatmobilim-basvuru-tr.com
 ziraatmobilim.basvurumdan.sbs
 ziraatmobilim.com
 ziraatmobilin.basvuruyapin.sbs
+ziraatmobilin.mobilsubeden.sbs
 ziraatmobiling.com
 ziraatmobilins.com
 ziraatmobilislem.com
