@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99401
-# Last change: 2026-08-11 22:07:32 UTC (sync mode: delta)
+# Records: 99404
+# Last change: 2026-08-11 23:06:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2809,6 +2809,7 @@ a-1oo1-kapida.xyz
 a-1oo1-online.net
 a-a-101.store
 a-basvr25.sbs
+a-g-r.my-homeip.de
 a-haber.app
 a-i101.com
 a-kampanya-bizde-basvur-bireysel.ml
@@ -48186,6 +48187,7 @@ jet-servis.online
 jetbrains-apps-group.gitlab.io
 jetcarfilo.com
 jetcarsfly.com
+jetcepte.info
 jetcicek.org
 jetgroup.tk
 jethizindasigorta.net.tr
@@ -98330,6 +98332,7 @@ yonfilokiralama.com
 yongyouwexian.top
 yonlen-toplan-security.ink
 yonlen.click
+yonlendir-g.my-homeip.de
 yonlendir9659.online
 yonlendirbabacan1.site
 yonlendirme-security.ink

@@ -23041,6 +23041,7 @@ a-facebook.click
 a-findmy-icloud.com
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.com.tr
 a-fsg-y4-4y3hre-hhfddh-faswdg-ds.net.tr
+a-g-r.my-homeip.de
 a-gagiiriisllemmenus.com
 a-google-bcd.tk
 a-guvenli-alisveris.sa.com
@@ -239268,6 +239269,7 @@ jetbrains-apps-group.gitlab.io
 jetcarfilo.com
 jetcarsfly.com
 jetcepte.com
+jetcepte.info
 jetcepte.online
 jetcicek.org
 jetcozum.name.tr
@@ -456653,6 +456655,7 @@ yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
 yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
+yonlendir-g.my-homeip.de
 yonlendir-reklam.com
 yonlendir.click
 yonlendir.dynamic-dns.net
