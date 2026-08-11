@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99279
-# Last change: 2026-08-11 11:09:00 UTC (sync mode: delta)
+# Records: 99292
+# Last change: 2026-08-11 11:59:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7169,6 +7169,7 @@ apartamentsnederlands.forum
 apartdetrimental.top
 apartjeopardize.top
 apartment-reservation.com
+apartment.devour.top
 apartmentcynical.top
 apartmentnegligible.top
 apartmentremiscent.top
@@ -18369,6 +18370,7 @@ citoyens-en-seyne.fr
 citrexsolutions.co
 citrusnex.vu
 citsolar.mx
+city.eatnowliving.top
 cityassssin.top
 citycarousel.com
 cityclinicpanama.com
@@ -18685,6 +18687,7 @@ closetwedge.top
 clotgoxide.top
 clothdevastating.top
 clothecorrelate.top
+clothes.life-collective.top
 clothingdisplace.top
 clothingpottery.top
 clothingrefuge.top
@@ -19833,6 +19836,7 @@ communicateuphold.top
 communicativestreamline.top
 communismbronze.top
 communisttransistor.top
+community.commute-now.top
 communitybleak.top
 communitycareaid.org
 commutebleach.top
@@ -42121,6 +42125,7 @@ home-qkucoins.webflow.io
 home-sso---itrustcapital---com--auths.webflow.io
 home-treoz--wallet.webflow.io
 home-treozr---wallet.webflow.io
+home.current-games.top
 homeandutility.shop
 homebasketlane.shop
 homebasketway.shop
@@ -42514,6 +42519,7 @@ hourlyappal.top
 hourpeninsula.top
 hourready.com
 hourtenwalk-11.life
+house.currently.top
 houseformidable.top
 househndicraft.top
 householdportray.top
@@ -49299,6 +49305,7 @@ karacaonline.store
 karacastore.club
 karacatc.com
 karacatcb.cfd
+karacatr.homes
 karacatr.shop
 karacaveg.homes
 karacayazfirsatlari.store
@@ -55457,6 +55464,7 @@ massacrereckless.top
 massaetrek.top
 massagefutile.top
 massageoffspring.top
+massak.com.tr
 masseightok.top
 massfat.top
 massiveevaporate.top
@@ -56360,6 +56368,7 @@ merkezdukkanim.xyz
 merkezebasvur.com
 merkezekayit.abrdns.com
 merkezgirisim-hizlibasvurma.com
+merkezi-sozlesme-islemleri.com
 merkeziadeleriniz.org
 merkeziadem.net
 merkezicuzdaninaylamamerkeziozelonline.run.place
@@ -57437,6 +57446,7 @@ mobil-sahibinden.elektronik-alisveris.com.tr
 mobil-sgkk.tk
 mobil-subelerim.com
 mobil-tr-ilanlarim.com
+mobil-tradresi.live
 mobil.acikdeniz.denizbank.4-231-237-0.plesk.page
 mobil.obilet-tr.uk
 mobil.tebligyeri.com
@@ -79117,6 +79127,7 @@ sozcucomtr.com
 sozcuturkey.com
 sozireo.com
 sozlesme-imzala.com
+sozlesme-islemleri-online.com
 sozlesme-police.com
 sozlesme.islem-hizmet.com
 sozlesme.online-hizmet-islem.com
@@ -84882,6 +84893,7 @@ tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.net
 tkgg-edvtap-randvv.org
 tkgmgov.weebly.com
+tkgms.com.tr
 tki-online-bsvr.cyou
 tkibasvurularimysfliocomdatatitansbschronosyssbs.luminix.sbs
 tkibsvbrda.site
@@ -85149,6 +85161,7 @@ toggsiparis.com.tr
 toggsiparisi.com
 toggtr.info
 toggtr.online
+toggtrumoresatis.com
 togsiparis.com
 togyza.com
 tohef.com

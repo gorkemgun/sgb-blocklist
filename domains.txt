@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464228
-# Last change: 2026-08-11 11:09:00 UTC (sync mode: delta)
+# Records: 464242
+# Last change: 2026-08-11 11:59:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13607,6 +13607,7 @@
 412100012458.duckdns.org
 412142114-2025.xyz
 412221222145558999892.duckdns.org
+412221222145558999893.duckdns.org
 4122322.com
 41239521838512.cloud
 41241231548123124.online
@@ -47315,6 +47316,7 @@ apartmankapisi.ga
 apartmankontrol.site
 apartmengreenpramukacity.com
 apartment-reservation.com
+apartment.devour.top
 apartment5d.com
 apartmentcynical.top
 apartmentnegligible.top
@@ -102001,6 +102003,7 @@ cittidashboard4039.ddns.net
 cittiverffy.ddns.net
 citxresearchers.icu
 city-splash.online
+city.eatnowliving.top
 cityassssin.top
 citycarousel.com
 cityclinicpanama.com
@@ -103043,6 +103046,7 @@ clothcrib.xyz
 clothdevastating.top
 clothecorrelate.top
 clothes-show.online
+clothes.life-collective.top
 clothesgentle.net
 clothesshopuppy.com
 clothingbrandnamegenerator.app
@@ -105577,6 +105581,7 @@ communisttransistor.top
 communit1.ddns.net
 community-standards51200695169.duckdns.org
 community-support-091287.duckdns.org
+community.commute-now.top
 community.gumonso.ru
 community.mangerqu.ru
 community.openedr.eu.org
@@ -211216,6 +211221,7 @@ home-treoz--wallet.webflow.io
 home-treozr---wallet.webflow.io
 home-zxc.ddns.net
 home.boopainc.com
+home.current-games.top
 home.googlemobilecenter.info
 home.ktxhome.com
 home.manahegazeda.org
@@ -212641,6 +212647,7 @@ hoursuhouy.biz
 hourtenwalk-11.life
 house-contribute.com
 house-spirit.com
+house.currently.top
 housecafe-essen.de
 housecommand.duckdns.org
 houseformidable.top
@@ -247110,6 +247117,7 @@ karacatcb.cfd
 karacatr.biz.tr
 karacatr.com
 karacatr.com.tr
+karacatr.homes
 karacatr.info.tr
 karacatr.net.tr
 karacatr.org.tr
@@ -273723,6 +273731,7 @@ massaged404startedsferivy.duckdns.org
 massagefutile.top
 massageoffspring.top
 massagepage914verification.duckdns.org
+massak.com.tr
 masscarfilo.com
 masseffect.space
 masseffect.website
@@ -276713,6 +276722,7 @@ merkezi-bankasi-aidat.tk
 merkezi-destek-com-tr.cf
 merkezi-destek.com
 merkezi-islem-sorgu.cyou
+merkezi-sozlesme-islemleri.com
 merkezi-telif-destek-com.cf
 merkezi-telif-destek-com.tk
 merkezi-telif-destek.cf
@@ -281104,6 +281114,7 @@ mobil-tr-urun.com
 mobil-tr-urunlerim.com
 mobil-tr-urunlerin.com
 mobil-tr.my-homeip.com
+mobil-tradresi.live
 mobil-traktorcekilisi.click
 mobil-tredevlett-iade-sistemi-guncell.tk
 mobil-trprbdestek2022.com
@@ -374078,6 +374089,7 @@ sozericimento.tr
 sozireo.com
 sozlerineinanmistim.click
 sozlesme-imzala.com
+sozlesme-islemleri-online.com
 sozlesme-police.com
 sozlesme.hizli-islemler-merkezi.com
 sozlesme.islem-hizmet.com
@@ -393271,6 +393283,7 @@ tkgm-tapu-sorgula.com.tr
 tkgmgov.weebly.com
 tkgmislemler.net
 tkgmrandevu.blogspot.com
+tkgms.com.tr
 tkgmsystem.net
 tki-basvuru.blogspot.com
 tki-bssvr.xyz
@@ -394448,6 +394461,7 @@ toggtr.info
 toggtr.online
 toggtrgo.vercel.app
 toggtronsatis.com
+toggtrumoresatis.com
 toggturkiyeonline.com
 toggvakifkatilim.com
 toggveaxessgeliyor.shop
