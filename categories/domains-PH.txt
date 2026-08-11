@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99254
-# Last change: 2026-08-11 06:07:14 UTC (sync mode: delta)
+# Records: 99257
+# Last change: 2026-08-11 07:40:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7726,11 +7726,13 @@ arackiralamafirmasiiiii.net
 arackiralamagarentaaa.shop
 arackiralamahizmeti.autos
 arackiralamahizmeti.rf.gd
+arackiralamaislem.com
 arackiralamala.com
 arackiralamalar.com
 arackiralamalari.org
 arackiralamaserivis.com
 arackiralamasitesi.pw
+arackiralamasozlesmesi.com
 arackiralamaturkey.net
 arackiralamax.online
 arackiralamix.online
@@ -65709,6 +65711,7 @@ peoplep.site
 peopleradiator.top
 peoplesservicz.com
 peopletemptation.top
+pepe-cekilis.com
 pepecekilisim.com
 pepkgovi.top
 pepperaffiiation.top

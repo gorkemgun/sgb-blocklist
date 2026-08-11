@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464195
-# Last change: 2026-08-11 06:07:14 UTC (sync mode: delta)
+# Records: 464201
+# Last change: 2026-08-11 07:40:18 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -49349,6 +49349,7 @@ arackiralamahizmeti.rf.gd
 arackiralamahizmeti.store
 arackiralamahizmetleri.com.tr
 arackiralamahizmetleri.xyz
+arackiralamaislem.com
 arackiralamaist.xyz
 arackiralamakampanyalari.anadolumsigortaciniz.com
 arackiralamakampanyasi.net
@@ -49365,6 +49366,7 @@ arackiralamarentacar.shop
 arackiralamas.com
 arackiralamaserivis.com
 arackiralamasitesi.pw
+arackiralamasozlesmesi.com
 arackiralamatr.com
 arackiralamaturkey.net
 arackiralamaturkiye.net
@@ -191050,6 +191052,7 @@ haberler141153.shop
 haberler1436542.sbs
 haberler145.shop
 haberler145365349.sbs
+haberler145425462.shop
 haberler1542334.shop
 haberler16.online
 haberler16.website
@@ -220518,6 +220521,7 @@ ile-alisverislerini-tamamlama.com
 ile-anindaodeme.com
 ile-devam.com.tr
 ile-dogrulanmis-ilan.com
+ile-e-islem.com.tr
 ile-e-islemler.com.tr
 ile-firsatli-ilan.com
 ile-firsatli-ilanlar.com
@@ -320221,6 +320225,7 @@ peowork.ddnsgeek.com
 peowqlauoshau8.com
 pepasg6.duckdns.org
 pepcanocxxslorasetposa.vercel.app
+pepe-cekilis.com
 pepe.synergize.co
 pepe7.duckdns.org
 pepeairdrop01.com
@@ -340786,6 +340791,7 @@ refbntr29.vercel.app
 refec7.com
 refer.health
 referansdegerlendirme.com
+referansfba.com
 referansgirisi.com
 referanskod-a101volta-yetkilisatis-com.online
 referansmenkuldeger.com
