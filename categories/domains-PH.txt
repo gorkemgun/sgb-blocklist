@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99377
-# Last change: 2026-08-11 17:15:16 UTC (sync mode: delta)
+# Records: 99381
+# Last change: 2026-08-11 19:28:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -51123,6 +51123,7 @@ kolayycprtk.sbs
 kolbasnyytseh.ru
 kolbasnyytsekh.ru
 kolektifweb.digital
+kolibofilna-lucere.lol
 kolirapolse-vadore.lol
 kolkola2024.wordpress.com
 kolkolagarnti.net
@@ -75460,6 +75461,7 @@ sekerbank68yil.com
 sekercapital.com
 sekerimpanc.cfd
 sekerliayran.xyz
+sekermenkulglobal.com
 sekerotokiralama.biz
 sekerotokiralamaa.xyz
 sekertr.com
@@ -78391,6 +78393,7 @@ sok-market-sepet.cfd
 sok-market-zamani.cfd
 sok-market.com
 sok-marketci.cfd
+sok-marketler-kampanyasi-stoklarla52052052.sbs
 sok-online.com.tr
 sok-tr.org.tr
 sok-zamanlari.com
@@ -98808,6 +98811,7 @@ zedcompany.dev
 zederesede-sederesede.lol
 zedeyardim.online
 zednamo.com
+zedsere-luluyopi.lol
 zedwellgreenwich.world
 zedwellpiccadillycircus.world
 zedwellpiccadillycircus2025.com
