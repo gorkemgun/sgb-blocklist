@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257034
-# Last change: 2026-08-11 11:59:53 UTC (sync mode: delta)
+# Records: 257039
+# Last change: 2026-08-11 13:45:50 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -5802,6 +5802,8 @@
 25649898763.net
 25652625652625625.duckdns.org
 2568544854.site
+2569858477prmsynnkmpnyaabsvr.online
+2569858477prmsynnkmpnyaabsvr.pro
 2574345284563534.com
 25770235.cloud
 257845.cloud
@@ -7282,6 +7284,7 @@
 41068734.net
 412142114-2025.xyz
 412221222145558999893.duckdns.org
+412221222145558999894.duckdns.org
 4122322.com
 41239521838512.cloud
 41241231548123124.online
@@ -185639,6 +185642,7 @@ ptt.kargotakipp.com
 ptt.kialerc.top
 ptt.kxwl.qpon
 ptt.mobilservis-1.com
+ptt.mobilservis-43.sbs
 ptt.mobilservisi-3.com
 ptt.mobilservisi-4.com
 ptt.mobilservisi-6.com
@@ -244004,6 +244008,7 @@ xn--hzli-islem-ptthgs-cvc.com
 xn--hzlihggs-islemlerptt-ibde.com
 xn--hzliislemler-pttavm-g5c.com
 xn--hzliislemler-ptthgs-g5c.com
+xn--hzlkmpssa-vpbc.com
 xn--hzlmteri-pttilemleri-sec67ica02ija.com
 xn--hzlmusteri-pttislemlerii-qvdc.com
 xn--hzlmusteriler-pttislemlerii-wbec.com

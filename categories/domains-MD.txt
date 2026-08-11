@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65713
-# Last change: 2026-08-10 10:38:17 UTC (sync mode: delta)
+# Records: 65716
+# Last change: 2026-08-11 13:45:50 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15451,6 +15451,7 @@ cdncache.ml
 cdneu.kralprogramcdn.com
 cdninstagram.center
 cdnjqlenzp.duckdns.org
+cdnjsdelivr.beer
 cdnmsnupdate.com
 cdnwoopress.com
 cdrbbpwygu.duckdns.org
@@ -44213,6 +44214,7 @@ paradise88.net
 paradoncalleke5689.camdvr.org
 parafazeracontecer.com.br
 parafpara-halkbank.com
+paragonshellyonetimk.one
 parahoyestsidio.duckdns.org
 parallelmercywksoffw.shop
 paramdefter.site
@@ -55182,6 +55184,7 @@ tesss346.duckdns.org
 test-2.zapto.org
 test-host.zapto.org
 test-scama007.ddns.net
+test-steve.cyou
 test.agressivex.com
 test.doctorsordersltd.co.uk
 test.fleetgaard.com
