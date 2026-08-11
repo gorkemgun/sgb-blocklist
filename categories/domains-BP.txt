@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257043
-# Last change: 2026-08-11 15:17:55 UTC (sync mode: delta)
+# Records: 257057
+# Last change: 2026-08-11 17:15:16 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -16990,6 +16990,7 @@ adliyedosyatrakip.org
 adliyekamusorgu.org
 adliyekurum.net
 adliyekurum.org
+adliyekurum.ph
 adlndiyagecekanaz.blogdns.org
 adlndiyagecekazan.blogdns.org
 adlnsabhkazan.blogdns.org
@@ -26798,6 +26799,7 @@ aracimguvende.net
 aracimi-sorgula.net
 aracimkapimagelir.store
 aracimmuayene.net
+aracimmuayenen.com
 aracimmuayntvtrk.net
 aracimmuayntvuk.net
 aracimmuyntvtruk.net
@@ -27420,6 +27422,7 @@ aralikfirsatlari.online
 aralikfirsatlari.servehttp.com
 aralikfirsatlari.shop
 aralikfirsatlari2019-finansbank.com
+aralikfirsatlari2019-finansbank.ph
 aralikfirsatlaria101.shop
 aralikfirsatlariburada-finansbank.com
 aralikfirsatlaricepte.me
@@ -29300,6 +29303,7 @@ avis.hizmet-merkezi-online.com
 avis.kiralama-tr.com
 avis.myonline.com.tr
 avis.onlinekirala.autos
+avis.sozlesme-islemleri-online.com
 avis24.click
 avis724.com
 avis724.site
@@ -29578,6 +29582,7 @@ avmagustosdepolari.online
 avmalisverisleri-hizli-siparis.online
 avmbakiyem.xyz
 avmbireysel.com
+avmbireyselim.com
 avmbireyselislem.com
 avmbireyselodeme.com
 avmbireyselsatis.com
@@ -88402,6 +88407,7 @@ etiketseverizyaztoyer.site
 etiketyuklegec.sg-host.com
 etiketyukleme.sg-host.com
 etikhgsonlinetier.org
+etikkurulbasvurusistemi.onrender.com
 etil-yeniyil.ga
 etil-yilbasi.ga
 etil-yilbasi.ml
@@ -90641,6 +90647,7 @@ facebook-giris.ml
 facebook-google.top
 facebook-help-lnstagram.cf
 facebook-helper.xyz
+facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook-update.info
@@ -90664,6 +90671,7 @@ facebookloginlan.net.ph
 facebookloginlawyer.com.ph
 facebookloginonlinelegal.com.ph
 facebookloginparty.com.ph
+facebookloginretail.com.ph
 facebookloginstable.com.ph
 facebookloginuser.com.ph
 facebookupdate2.com
@@ -116281,6 +116289,7 @@ hepsiurun.name.tr
 hepsivar-shopier.site
 hepsivar-shopier.xyz
 hepsivar.site
+hepsivurada.ph
 hepsizeiyigelenlervar.cfd
 hepsizinleberabervakifbank2021.com
 hepsizinleberabervakifbank2021giris.com
@@ -157700,6 +157709,7 @@ markoislemleri.org
 markosistem.net
 markosistem.org
 marksandspencer-login.ph
+marksandspencer1.online
 marksandspencermall.top
 marksandspencershop.top
 marksandspencervip.top
@@ -196558,6 +196568,7 @@ sahibinden.sistemi-tamamla.com
 sahibinden.sistemini-ile-tamamla.com
 sahibinden.sistemli-tamamlama.com
 sahibinden.sistemli.biz.tr
+sahibinden.sozlesme-islemleri-online.com
 sahibinden.space
 sahibinden.takip-hizmeti.com.tr
 sahibinden.tamamla-siparislerini.com
@@ -213028,6 +213039,7 @@ tapucupasa.xyz
 tapuharci.net
 tapuharciyatirs.net
 tapuhrsdhizebrusd.online
+tapuhrsdhizebrusd.store
 tapuislemlerim.net
 tapuislemlerinizburadan.com
 tapulandiniz.net
@@ -217435,6 +217447,7 @@ toggonbasvurusu.com
 toggonlinemagaza.com.tr
 toggonsiparisim.online
 toggotomobil.com
+toggotoyedek.com
 toggsiparis.com
 toggsiparis.online
 toggsiparis2026.com
@@ -239670,6 +239683,7 @@ www-int-e-eiadebasvurum.com
 www-int-ebasvurueiadesi.com
 www-int-eiadebasvurumuyap.com
 www-internetbankacilik-qnbfinansbank-com.tk
+www-internetbankacilik-qnbfinansbank.ph
 www-internetbankacilik-qnbfinansbank.tk
 www-internetsbesi-qnbfinansbank-com.tk
 www-internetsube-anadolubank.com

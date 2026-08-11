@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99346
-# Last change: 2026-08-11 15:17:55 UTC (sync mode: delta)
+# Records: 99377
+# Last change: 2026-08-11 17:15:16 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3327,6 +3327,7 @@ a101ocakkfirsatlariniyakala707.net
 a101online.alisveris-sepetim.com.tr
 a101online.com
 a101online.com.tr
+a101online.help
 a101online.kodlioo.net
 a101onlineislemler.alisverisinortasi.com
 a101onlineislemler.magazaindirimservisler.com
@@ -4552,6 +4553,7 @@ adliyedava.com
 adliyeegm.org
 adliyekontrol.com
 adliyemasak.org
+adliyesorgu.net
 adliyesorgu.org
 adliyetakip.org
 adm-musulmans.com
@@ -7268,6 +7270,7 @@ app-101-shop.online
 app-101.com
 app-101.com.tr
 app-101.shop
+app-3-ai.liyalabs.com
 app-54124296d32502.lovable.app
 app-a-101.shop
 app-adresler-045995caf21f.herokuapp.com
@@ -7983,6 +7986,7 @@ araskargos.com
 araskargotakip.org
 araskarrgotakip.org
 araskrgo.com
+araskrgosorgmlama.gleeze.com
 araslinn.com
 arassigorta.web.tr
 arastir.sbs
@@ -8308,6 +8312,7 @@ arsibrent.site
 arsiduknasussever.com
 arsivbilgihizmet.com
 arskargomnerdesin.com
+arskrgmnsnz.giize.com
 arstvt.qpon
 arsuotokiralama.com
 art-gallery-128.webflow.io
@@ -9497,6 +9502,7 @@ avis-rent-tailwind-bua9ritgs-ekremufacik.vercel.app
 avis-rent-tailwind-gfpdr84v9-ekremufacik.vercel.app
 avis-rezarvasyon.com
 avis-rezarvasyon.shop
+avis-sozlesme.com
 avis-tr.com
 avis-tr.com.tc
 avis-yanimda.somee.com
@@ -10605,6 +10611,7 @@ basliyoruz7.xyz
 basnacelor.top
 basralibsru.sbs
 basriasrl.shop
+basruvu-oik.cfd
 basruvu-oil.cfd
 bassaksigorta.com.tr
 bassescalation.top
@@ -10689,6 +10696,7 @@ basvurdududap.website
 basvurdududapp.com
 basvurdududapp.website
 basvurdular2025.info
+basvurdunyasi.shop
 basvurevlikredin.asyanfinans.com
 basvurform.xyz
 basvurgnclevl.blogspot.com
@@ -13055,6 +13063,7 @@ bireysel-egiris.com.tr
 bireysel-hediyemobildenizgiris.com
 bireysel-hizmeti-s.com
 bireysel-ilan-secure.name.tr
+bireysel-islemlerim-garanti.freemyip.com
 bireysel-kampanya1000tlonline-basvur-com.cf
 bireysel-kampanya1000tlonline-basvur-com.ga
 bireysel-kampanya1000tlonline-basvur-com.gq
@@ -17157,6 +17166,7 @@ carinsuranceinfo.co.uk
 carismargajaya.com
 cariwebsiteku.com
 cark-bntr.biz
+cark-cekilisim.com
 carkcebimdeuygulamasi.com
 carkcekiliisi-hemenbasvur1.duckdns.org
 carkcevrtodaykazanbsvuru.net
@@ -17507,6 +17517,7 @@ cebimdefirsttsok.com
 cebimfull.com
 cebinde-temmuz.biz.tr
 cebinde-temmuz.com.tr
+cebinde-temmuz.org.tr
 cebinde.sok-serinleten-yaz.com
 cebinize-uygun-indirimleeer-burada.com.tr
 cebinizerenkkatacakfsatlar.xyz
@@ -23210,6 +23221,7 @@ d.windowsupdatesupport.link
 d0k1.com
 d0m9nlo.cn
 d1b878b3.hwqwwrh.com.cn
+d1ds1je4mxnvyl.amplifyapp.com
 d1g1talpoint.xyz
 d1nznkmobil.net
 d26218.cn
@@ -32422,6 +32434,7 @@ feasibilityvest.top
 feasibleintrigue.top
 feasiblemonitor.top
 feasibletoward.top
+feastlane.food
 featcompile.top
 featempirically.top
 featinhibition.top
@@ -33935,6 +33948,7 @@ fondrigid.top
 fontarma.com
 foodchoicen.info
 foodendow.top
+foodlane.food
 foodparty.top
 foodtruckit.com
 foolcarving.top
@@ -35044,6 +35058,7 @@ garantikredinizherzaman.com
 garantili-islemlerim-bireysel-com.webredirect.org
 garantili.bbvagirisbillgilersorug.site
 garantilibonus-online-hizmetleri2023.line.pm
+garantilihall.shop
 garantillifk.cfd
 garantillik.cfd
 garantim.mobilde-sube.com
@@ -36777,6 +36792,7 @@ globalcars.rent
 globalcekilis-hemenbasvurveyararlan.com
 globalchecknewevents.net
 globalcitizen.lat
+globalcleaningservice.nl
 globalcollaborationsandinnovations.live
 globalconnectivity.live
 globaldestek.net
@@ -37001,6 +37017,7 @@ gojosensei.kesug.com
 gokaca.store
 gokalptaskinn.online
 gokaraca.shop
+gokcencicek.com.tr
 gokkalesosyalvakfi.site
 gokkalevakfi.site
 goktepe-loravuni.lol
@@ -38416,6 +38433,7 @@ guvenlialisticareti.com.tr
 guvenlialisticari.com.tr
 guvenlialisverim-sahibinden.com
 guvenlialisveris-get.com
+guvenlialisveris-odeme.com
 guvenlialisveris-online.com
 guvenlialisveris-sitesi.online
 guvenlialisverisburada.xyz
@@ -39769,6 +39787,7 @@ havale-gonderici.com
 havale-gonderim.com
 havale-ilan.com
 havale-ode.com
+havale-odemem.com
 havalem-fast.com
 havalialetsatinal.com
 havalimaanarackirala.com
@@ -49824,6 +49843,7 @@ kefalukabodrumresort.com
 kefalukahotelakyarlar.com
 kefalukaresorts.net
 kefalukaresortspa.com
+kefalukasresort.com
 kefalukka.com
 kefilsizbasvurudepartmani.com
 kefilsizbasvuruplatformu.com
@@ -52090,6 +52110,7 @@ lamyconsulting.com
 lanasiewrdf.net
 landaloneproperty.live
 landaristocrat.top
+landerlerdesnes.duckdns.org
 landerosconstrustion.com
 landgoed-leudal.icu
 landinghitherto.top
@@ -52314,6 +52335,7 @@ ldcqmq.top
 ldddmp.top
 lddger-com-strt.webflow.io
 lddnmm.top
+lderdelnerdenews.duckdns.org
 ldfgmc.top
 ldfrmd.top
 ldfymh.top
@@ -53019,6 +53041,7 @@ linkskisaltma-tr.click
 linksorgula.online
 linkstrdizayn.online
 linksubsistence.top
+linktrum.com
 linshenlubosuxingwenqingsilansixin.top
 linshor.com
 lint18.com
@@ -61853,6 +61876,7 @@ odemeislemim.site
 odemeistanbul.net
 odemeitnerkq.net
 odemekayit.site
+odemekontrol.com
 odemekontrol.net
 odemekreim.cf
 odemeler-get.com
@@ -67779,6 +67803,7 @@ prmsooosynnngrntt.sa.com
 prmsyngrntbrd.com.tr
 prmsynllrllrfrst.click
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
+prmsynnkmpnyaabsv2569858477.online
 prmsynnnkmpnyrrsonffrstlar.pro
 pro-btcturk.co
 pro-concert.com
@@ -82559,6 +82584,7 @@ takltastlamvdas.com
 takpasbarobirlikorgtrgiris.co.vu
 takpkampanya.net
 taksici-e45ef.web.app
+taksim-net.ink
 taksimegider.online
 taksip-islemler1.click
 taktakkimo.net
@@ -88988,6 +89014,7 @@ ucretsiztwitterservisi.top
 ucretsiztwitterservisi.xyz
 ucubeler31.net
 uculu-konfor-paketi-firsat.top
+ucurumsunbana4.uk
 ucurumsunbana5.uk
 ucurumsunbana9.uk
 ucutips.org
@@ -89068,6 +89095,7 @@ ugolok-durova.ru
 ugrassdurrrchppburda.blogspot.com
 ugrsdrhdi.blogspot.com
 ugstaging2.com
+uguogashdashdhashd923asda.click
 ugurhanem.com
 ugziva.pro
 uhap.co.vu
@@ -92413,6 +92441,7 @@ vugca.cn
 vuhukul-daeredesede.lol
 vulgaparrot.top
 vulihipolse-sedere.lol
+vulimuralra-venere.lol
 vulipilongo-katore.lol
 vulkanpanel.store
 vulnerabilitymute.top
@@ -93609,6 +93638,8 @@ website6663862.nicepage.io
 website6666391.nicepage.io
 website6666829.nicepage.io
 website6666977.nicepage.io
+website6667577.nicepage.io
+website6667589.nicepage.io
 websitemajesty.top
 websitemo.top
 websiteoppression.top
