@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99417
-# Last change: 2026-08-12 08:41:09 UTC (sync mode: delta)
+# Records: 99421
+# Last change: 2026-08-12 10:28:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -32908,6 +32908,7 @@ finance89-est17.sbs
 finance95-ratione25.sbs
 finance96-perspiciatis7.sbs
 finance99-dolor1.sbs
+financeavira.com
 financeentrust.top
 financegrow-business.site
 financehizliiadeislemleri2021.mermerfatihlerimde.com
@@ -74835,6 +74836,7 @@ sbku7b1.cn
 sbmfuser.net
 sbmibb.net
 sbmorgtr.net
+sbmrsbsvr.com
 sbmsorgu.org
 sbogovtr.com
 sbsbsbsbsbs.sbs
@@ -76470,6 +76472,7 @@ shaverprestige.top
 shaw-0d76f0.webflow.io
 shawnbull.online
 shawtykalbimdevebasimabibela.net
+shb-guvenlimuhasebeodemesi.duckdns.org
 shbden.com
 shbdnkmsorgusu.com.tr
 shbndn-guvenle-satn-al.online
@@ -84993,6 +84996,7 @@ tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info
 tkg-tapsurndvnuzs.net
+tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
 tkgg-edvtap-randvv.org
