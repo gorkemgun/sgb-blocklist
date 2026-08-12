@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99463
-# Last change: 2026-08-12 15:16:52 UTC (sync mode: delta)
+# Records: 99472
+# Last change: 2026-08-12 16:14:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -755,6 +755,7 @@
 182-alo.com
 182-hatti.com
 182-nett.com
+182-onlines.biz
 182-web.sbs
 182-web.xyz
 182-webb.sbs
@@ -39053,6 +39054,7 @@ haberler-turkei-today.online
 haberler.dyndns.tv
 haberler.today
 haberler112233.shop
+haberler12348.shop
 haberler131231123.site
 haberler1436542.sbs
 haberler1542334.shop
@@ -51176,6 +51178,7 @@ kollaslosde.net
 kollaylsk.com
 kollvanora.com
 kolukai.com
+koly-g.my-homeip.de
 komelerdesneler.duckdns.org
 komiligunleria101.vercel.app
 komissartheatre.com
@@ -53813,6 +53816,7 @@ lrm-g-r-n-l.myonlineportal.ch
 lrniq.cfd
 lrnway.vu
 ls0rt3h.xdk8ax.cn
+ls11112.site
 lsaflafalfaws.net
 lsbank.tk
 lsdcheck.xyz
@@ -56917,6 +56921,7 @@ mhrsxzowskda.blogspot.com
 mhrszrndwoo.net
 mhrzsrndwoo.net
 mhsaraktiv.uk
+mhsdfbcxvbsd.art
 mhsdhfxbvcb.art
 mhshemen.uk
 mhskastogreen.uk
@@ -85913,6 +85918,7 @@ towardshound.top
 towardsporcelain.top
 towardsratify.top
 towardsrot.top
+towebsite.cfd
 towelemulation.top
 towelnomination.top
 towergessterv.com
@@ -93722,6 +93728,7 @@ website6666829.nicepage.io
 website6666977.nicepage.io
 website6667577.nicepage.io
 website6667589.nicepage.io
+website6667589999.nicepage.io
 websitemajesty.top
 websitemo.top
 websiteoppression.top
@@ -97103,6 +97110,7 @@ xyvlar.top
 xyvojae.com
 xyvyor.homes
 xyz.vegascheck.net.tr
+xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
 xzeez.cfd
 xzfsaaszfdsa.net
@@ -97319,6 +97327,7 @@ yardimmerkezi-lnstagram.ml
 yardimmerkezi.cf
 yardimodemeleri.31-44-2-24.plesk.page
 yardimpaketim.com
+yardimpaketim.net
 yardimpapara.com
 yardimpetek.org
 yardimsahibinden.com
