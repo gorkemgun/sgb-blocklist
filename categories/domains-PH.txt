@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
 # Records: 99407
-# Last change: 2026-08-12 00:02:03 UTC (sync mode: delta)
+# Last change: 2026-08-12 05:07:28 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -56204,6 +56204,7 @@ meharase-web.com
 meharrese.com
 meharrrese.com
 meheresebayram2.sbs
+meherse.com
 mehhrs.dns.navy
 mehhurst.com
 mehiray.com
@@ -72977,7 +72978,6 @@ s1book0s.com
 s1mzamangldi1br0d1a.com
 s2lovam.com
 s2ver.online
-s3.eu-north-1.amazonaws.com
 s3caccverifisubmit.xyz
 s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
