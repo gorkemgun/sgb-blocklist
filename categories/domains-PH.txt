@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99482
-# Last change: 2026-08-12 17:16:56 UTC (sync mode: delta)
+# Records: 99483
+# Last change: 2026-08-12 18:11:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7975,6 +7975,7 @@ aramiz-hos-olursa-yapanlar-alir-gorur.com
 aramizi-bozma-iyiden-yapanlar-sorar-darilma.com
 aramizi-hos-iyiden-yapanlar-alir-darilma.com
 araniyorummerkez.com
+aranj.my-homeip.de
 aransastermlnal.com
 arantvuk.net
 araofdalgaogfa.online
