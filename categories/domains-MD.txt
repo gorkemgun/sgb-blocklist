@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65716
-# Last change: 2026-08-11 13:45:50 UTC (sync mode: delta)
+# Records: 65717
+# Last change: 2026-08-12 12:01:01 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -52135,6 +52135,7 @@ silmeyinburdsafkidomainleri.xyz
 silmeyinburdsakidomainleri.xyz
 silopo.hopto.org
 silstop.pl
+silva.rest
 silvaestrela.zapto.org
 silvergeoa.com
 silverkk.ddns.net

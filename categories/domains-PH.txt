@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99421
-# Last change: 2026-08-12 10:28:29 UTC (sync mode: delta)
+# Records: 99440
+# Last change: 2026-08-12 12:01:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2065,6 +2065,7 @@
 5iacc.top
 5l4ofi4.cn
 5m8y7ex.cn
+5mp.eu
 5ofgx09.cn
 5q3oert.cn
 5q6f178.cn
@@ -4540,6 +4541,7 @@ adlidosya.org
 adlidosyasorgulama.com
 adligidiikampn.online
 adliislemler.tk
+adlikayit.org
 adlikontrol.org
 adlimgeldimini.xyz
 adlinalldiin.online
@@ -25549,6 +25551,7 @@ dijionline-kampanya.sbs
 dijionline-siparis.sbs
 dijionline-siparisim.sbs
 dijionline-sipariskampanya.sbs
+dijionline-siparismarkt.sbs
 dijisiparis-internet.sbs
 dijital-birlik.org
 dijital-denizlili.tk
@@ -27831,6 +27834,7 @@ e-news.club
 e-nvcrmsbnszns.blogspot.com
 e-nviirandevu.com
 e-nvirandevu.com
+e-nvirandevu.net
 e-nvislemin.com
 e-nvycrsmblr.net
 e-ode.com.tr
@@ -30552,6 +30556,7 @@ esube-vaktdgtal-subemiz.xyz
 esube.bmd-grup.com
 esube.hdfportfoy.com
 esube.hedeffon.com
+esube.hedefonportfoyum.com
 esube.my-homeip.com
 esubeceptetebkrediv2.co
 esubeinfonline.com
@@ -40222,7 +40227,9 @@ hedefimiz2024.dev
 hedefimiz2026.com
 hedefon.hdfportfoy.com
 hedefon.hedeffon.com
+hedefon.hedefonportfoyum.com
 hedefonmusteripaneli.com
+hedefonportfoyum.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
 hedeftrader.com
@@ -50146,15 +50153,18 @@ kgmgovtr.com
 kgmgovv.top
 kgmgv.cc
 kgmgyto.cfd
+kgmhelps.click
 kgmhga.top
 kgmhgc.top
 kgmhgd.top
 kgmhgz.top
 kgmhizmet.org
 kgmigo.top
+kgmigov.qpon
 kgmihlal.com.tr
 kgmihlalcezaodeme.net
 kgmihlalleri.com.tr
+kgmipfngmsypp.online
 kgmislerinizcxzun.online
 kgmit.top
 kgmkm.online
@@ -50163,6 +50173,7 @@ kgmmgm2.net
 kgmn.qpon
 kgmng.life
 kgmnm.top
+kgmnmubeyb.xyz
 kgmo-odemesi-org.ml
 kgmoa.top
 kgmodeme.com
@@ -53604,6 +53615,7 @@ loklolleode.net
 lokmslaode.net
 loko-hockey.com
 lokomotive-basket.ru
+loli32.vip
 lolihigi-logederese.lol
 loliipop.site
 lolohugufre-redesede.lol
@@ -56290,6 +56302,7 @@ meltoxahq.site
 meltoxahubs.site
 meltoxalabs.store
 meltplight.top
+meltraviona.com
 meltrefund.top
 meltsolve.top
 melttrnch.top
@@ -63304,6 +63317,7 @@ optionlabs.site
 optionlabs.store
 optixauvex.us
 optlatitude.top
+optryvo.com
 opttill.top
 opuaera.com
 opwymnasiumloscal.com
@@ -64509,6 +64523,7 @@ panel.goldenglobal.credit
 panel.goldenglobalbank.xyz
 panel.hdfportfoy.com
 panel.hedeffon.com
+panel.hedefonportfoyum.com
 panel.infolanmam.com
 panel.khalexcheck.xyz
 panel.m4rcy.fun
@@ -69929,6 +69944,7 @@ queenlure.top
 queenviciity.top
 quelcheck.fun
 quelorin.com
+quelvozy.com
 quem-via-perfilpro.cf
 quem-via-perfilpro.tk
 quemolhoumeuperfil-br.com
@@ -71577,6 +71593,7 @@ reportermaritime.top
 reporterupt.click
 reporterversatile.top
 reportextraction.top
+reportifynu.com
 reportlatin.top
 reportsenlo.top
 reportvan.top
@@ -79463,6 +79480,7 @@ sphshtsrmcdrstnv.com
 sphsnvs.com
 sphstccnvl.com
 sphtsnvii.com
+spicehotelbelek.net
 spicehotelspa.com
 spicemelodious.top
 spicemeticulous.top
@@ -93547,6 +93565,7 @@ webmailserver98291.b-cdn.net
 webmailserverr-p1tc.ar.4everland.app
 webmarket-a101.com
 webmarket-giris-sayfa.me
+webmaxly.com
 webmayista-finans-kazandiriyor.gq
 webmerkezinfo.com
 webmerkezisbilgi.com
