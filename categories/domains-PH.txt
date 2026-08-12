@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99411
-# Last change: 2026-08-12 06:44:39 UTC (sync mode: delta)
+# Records: 99417
+# Last change: 2026-08-12 08:41:09 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3490,6 +3490,7 @@ a1o1le.net
 a1o1leo.net
 a1o1magaza.com
 a1o1magazan.com
+a1o1marketafisleri.com
 a1o1onlifirsatlnistbsf.blogspot.com
 a1o1onlinenisankarctrsgtr.blogspot.com
 a1o1onlineozelkampanyas.net
@@ -7544,6 +7545,7 @@ araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
 araba-cekilisisizinicinkampanya.com
 araba-paribu.com
+arabacekilis.com
 arabacekilisfirsatisizlerlehemenkatil.space
 arabacekilisi.ml
 arabacekilisisizlereozel.website
@@ -44153,6 +44155,7 @@ ile-alisveris.com.tr
 ile-alisverisim-ode.com
 ile-alisverislerini-tamamlama.com
 ile-devam.com.tr
+ile-e-sepetler.com.tr
 ile-firsatli-ilan.com
 ile-guvendealisverisiyap.com
 ile-guvenilirodeme.com
@@ -52875,6 +52878,7 @@ lifeprrot.top
 lifepulse.top
 lifereacher.com
 lifereacher.info
+lifereal.digital
 liferentcar.com
 lifescapehub.com
 lifetestimony.top
@@ -84952,6 +84956,7 @@ tisssbasfasjfagsax.sbs
 tissuederegulation.top
 titanc5.net
 titanic2026.cyou
+titanixo.com
 titansorgu.com
 tiuorkkiyae.online
 tivibu.internet-kampanyasec.info
@@ -84989,6 +84994,7 @@ tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info
 tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.net
+tkg-tapvrdvsunuz.org
 tkgg-edvtap-randvv.org
 tkgmgov.weebly.com
 tkgms.com.tr

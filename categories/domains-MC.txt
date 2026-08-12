@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41124
-# Last change: 2026-08-11 13:45:50 UTC (sync mode: delta)
+# Records: 41128
+# Last change: 2026-08-12 08:41:09 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -7280,6 +7280,7 @@ ccgmfbhaogcudtb.cn
 cclawdbot.getintwopc.site
 ccleaner-2.ddns.net
 ccleaner.hopto.org
+ccleanerwind.top
 ccloudflare.com
 ccnbvb.pics
 ccokies1cakes.com
@@ -12158,6 +12159,8 @@ enucuziplikler.company
 enuygunkaskovesigorta.com
 env-check.daemontools.cc
 env2022.duckdns.org
+enveil.online
+envell.xyz
 enviocode.duckdns.org
 enviopago.mysynology.net
 envuz.com
@@ -36708,6 +36711,7 @@ uxoldpqgubsebfu.su
 uxplfve.com
 uxpsgvfr.com
 uxtml.com
+uxtramine.org
 uxusbtddbwgsz.org
 uxwhvdkio.com
 uxyajspyct.duckdns.org
