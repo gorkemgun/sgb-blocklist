@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99451
-# Last change: 2026-08-12 13:51:12 UTC (sync mode: delta)
+# Records: 99463
+# Last change: 2026-08-12 15:16:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3698,6 +3698,7 @@ acc-verfy-risk-acc-now.net
 acc-verfy-risk-bnc.net
 acc.hdfportfoy.com
 acc.hedeffon.com
+acc.hedefonportfoyum.com
 accc1kvvdeniz.net
 accckkbkonaydeniizizfrst.fun
 accentintrigue.top
@@ -7309,6 +7310,7 @@ app.diogoflix.com
 app.f02.qsty.vip.kks.ynwp.coinbase-com.info
 app.hdfportfoy.com
 app.hedeffon.com
+app.hedefonportfoyum.com
 app.instegro.xyz
 app.profilebakanlar.xyz
 app.sternroof.com
@@ -17535,6 +17537,7 @@ cebinde.sok-serinleten-yaz.com
 cebinize-uygun-indirimleeer-burada.com.tr
 cebinizerenkkatacakfsatlar.xyz
 cebinizi-dusunen-hayat-dolu-anlar-burada.com.tr
+cebteteb.my-homeip.de
 cecenhamit.shop
 ceciudetain.top
 cedarcreeklabradoodles.com
@@ -27917,6 +27920,7 @@ e-sosyaldestekpandemiuygulamasigvtr.com
 e-sozlesme.kurumsal-online-islem.com
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
+e-sube.hedefonportfoyum.com
 e-sube.tunafonyonetimi.com
 e-subesiz-vakf-digitale.xyz
 e-t-c-meisai3.an4yu.cyou
@@ -34197,6 +34201,7 @@ forumsceptical.top
 forumtariff.top
 forumyilsonu-bireyselkampanya-basvur.ml
 forundel.com
+forvar-d.my-homeip.de
 forward-yonlendir.ink
 forwardday.top
 forwardgasp.top
@@ -34216,6 +34221,7 @@ fossmaritimes.com
 fosterspeciality.top
 fostertrickvastdirt.com
 fosuxaritum.space
+fotocekinmeguzelim.vip
 fotografojoyeria.com
 fotografvegundelikgozlemplatformu.xyz
 fotografvesanatgozlemlerinesinlen.xyz
@@ -44110,6 +44116,7 @@ ilan458.com
 ilanadimi.com
 ilanalisveris.com
 ilanda-ozelsepetim.com
+ilanda-sepetim-1091.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -56514,6 +56521,7 @@ merkezyasam.com
 merkonlik.com
 merlinturkey.site
 merlinturkey.xyz
+merlrdenslesw.duckdns.org
 merlystore.com
 mermaidcommunity.duckdns.org
 mermurlar.net
@@ -74241,6 +74249,7 @@ sahibindenparamguvende.ilan-tr.com
 sahibindenparamguvende.ilan-tr.net
 sahibindenparamguvende.ilanodeme.com
 sahibindenparamguvende.ileguvenli-al.com
+sahibindenparamguvende.islemonaylatr.online
 sahibindenparamguvende.odemeonline.net
 sahibindenparamguvende.odemepay.net
 sahibindenparamguvende.odemetr.net
@@ -82804,6 +82813,7 @@ taptrsdrsndabursds.store
 tapu-islemleri.org
 tapu-kadastr0.online
 tapu-randevu.net
+tapu-randevumsu-tkgm-e-devlet.vercel.app
 tapu1.shop
 tapu11.shop
 tapu12.shop
@@ -83473,6 +83483,7 @@ teemmuzfirsatlarikapindapttile.online
 teenagermanuscript.top
 teendisposition.top
 teent.store
+tefasportfoyyonetimi.com
 tefasyatirimgiris.com
 tefasyatirimpaneli.com
 tegro.postegrolili.live
@@ -90197,6 +90208,7 @@ uzaykesifveteknolojigelecegimizinharitasi.xyz
 uzayzamankapsamivedonusumkalkani.xyz
 uzcrfsaaylrm.cfd
 uzentra.com
+uzerlerguzelim.co
 uzlasma-uyapegiris.com
 uzlasmabirim.org
 uzlasmaborcu.com
