@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99440
-# Last change: 2026-08-12 12:01:01 UTC (sync mode: delta)
+# Records: 99451
+# Last change: 2026-08-12 13:51:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7690,6 +7690,7 @@ aracimizsorgulayin.net
 aracimkapimdaolur.xyz
 aracimlmuayne.com
 aracimmikiralik.com.tr
+aracimmmuayeyem.com
 aracimmuane.net
 aracimmuayane.net
 aracimonlinesorgu.lol
@@ -9513,6 +9514,7 @@ avis-rent-tailwind-gfpdr84v9-ekremufacik.vercel.app
 avis-rezarvasyon.com
 avis-rezarvasyon.shop
 avis-sozlesme.com
+avis-sozlesme.detaylari-goruntule.com
 avis-tr.com
 avis-tr.com.tc
 avis-yanimda.somee.com
@@ -28761,6 +28763,7 @@ egiris-uyap.com
 egiris-vatandasuyap.com
 egirisbsvuruonline.com
 egirisbsvurusuiade.com
+egirisceza.org
 egirisi-cepteteb-basvuru.com
 egirisimdvltgirisimgovvxc2.one
 egirsmdevltbsvurmerkzi.com
@@ -29084,6 +29087,7 @@ elasticityridge.top
 elasticitysalvation.top
 elated-tu.20-125-61-179.plesk.page
 elaterium.com
+elativexona.sbs
 elbytet.com
 elchavohgsykll.net
 elcheert.live
@@ -38535,6 +38539,7 @@ guvenlisigortala.com.tr
 guvenlisigortan.com.tr
 guvenlisiparis-tr.com
 guvenlisiparis.click
+guvenlisiparisleriniz.com
 guvenliticaret-prmguvende.shop
 guvenlitr.com.tr
 guvenliyolculuklar.net
@@ -41578,6 +41583,8 @@ hizli-ilan.com
 hizli-islem-merkezi.com
 hizli-islem.com
 hizli-islemler.com.tr
+hizli-islemtuv.site
+hizli-kilometre-onlinesorgula.web.app
 hizli-kredi.com
 hizli-kredim.com
 hizli-limit.xyz
@@ -56782,6 +56789,7 @@ mhazinemaliyeiadee1.com
 mhcese.netlify.app
 mhdresrndevvsu.com
 mhfabthgsbska.shop
+mhgfshsfdhds.art
 mhgtheatre.ru
 mhherkesrs.com
 mhhmmhrs.app
@@ -56901,6 +56909,7 @@ mhrsxzowskda.blogspot.com
 mhrszrndwoo.net
 mhrzsrndwoo.net
 mhsaraktiv.uk
+mhsdhfxbvcb.art
 mhshemen.uk
 mhskastogreen.uk
 mhsr-randvu.net
@@ -61526,6 +61535,7 @@ nwa-oma.ml
 nwa-oma2.ml
 nwabzapato.top
 nwafsfhws.blogspot.com
+nwcsprasevess.duckdns.org
 nweasdgharx.net
 nweywey.duckdns.org
 nwherecnfide.top
@@ -73379,6 +73389,7 @@ sahibinden-get.islem-guvende.online
 sahibinden-get.le-odeme.com
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilservisin-25.sbs
+sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs

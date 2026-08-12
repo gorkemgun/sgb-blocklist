@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257070
-# Last change: 2026-08-12 10:28:29 UTC (sync mode: delta)
+# Records: 257094
+# Last change: 2026-08-12 13:51:12 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -6296,6 +6296,7 @@
 2qm7xk9v.click
 2qn889ueeos.storage.googleapis.com
 2rohtnb.storage.googleapis.com
+2sadxjasdklkjcladjkc123x12.cfd
 2sindetemmuzsiparisl.cloud
 2siparismartta.cloud
 2siparismarttanow.cloud
@@ -10186,6 +10187,7 @@
 8aralikkmpanyaindirimi.xyz
 8araliksizleakfirsat.com.tr
 8arkazlaanafakanzswaz.com
+8asdcasdjasklaksldlx12312.cfd
 8asugotystsamasa.cloud
 8b3329843843b43843.icu
 8baf5575075aa2ac757fceb43221eb9d.com
@@ -19054,6 +19056,7 @@ aidatiadeodesistemgovtr.org
 aidatiadeonaysorgusistemi.co.vu
 aidatiadeonaysorgusistemi.com
 aidatiadeonline.club
+aidatiadeonline.my-homeip.de
 aidatiadeonline.vizvaz.com
 aidatiadeportali.com
 aidatiadeportali.org
@@ -19300,6 +19303,7 @@ aidatmerkeziletisim.sbs
 aidatmerkezim.org
 aidatmerkezin.com
 aidatmerkezinizdenaliniz.com
+aidatmerkezislem.my-homeip.de
 aidatnaid.tk
 aidatnisanodemeleriniz.com
 aidatnoktan.xyz
@@ -44078,6 +44082,7 @@ bireysel-ziraatbanksubem.com
 bireysel-ziraatbanksubesi.com
 bireysel-ziraate-katilim-tr.com
 bireysel-ziraatim.com
+bireysel-ziraatli-kampanya.my-homeip.net
 bireysel-ziraattim.com
 bireysel-ziratbank.com
 bireysel-zireat.com
@@ -57484,6 +57489,7 @@ ceptemaxi.com
 ceptemayishizlilar.xyz
 ceptemercedes.com.tr
 ceptemercedes.online
+ceptemi-tebdemi.my-homeip.net
 ceptemobil.com
 ceptemobildenizgiris.ml
 ceptemobilim.vercel.app
@@ -57522,6 +57528,7 @@ ceptenislemler.com
 ceptenislemler.net
 ceptenkolayklecell.net
 ceptenkolayklecll.net
+ceptenmobilkredi.my-homeip.de
 ceptenmobilsubemvakifbank.ml
 ceptenmobilsubevakifbank.ml
 ceptennakit.com
@@ -86575,6 +86582,7 @@ enuygunal.site
 enuygunalisverisler.xyz
 enuygunalisverislerburada.online
 enuygunalisverislerburada.xyz
+enuygunaraba.com.tr
 enuygunarabakirala.com.tr
 enuygunarabakiralama.com
 enuygunarabakiralama.com.tr
@@ -105800,6 +105808,7 @@ gunceltrsikayetler-252.sbs
 gunceltrsikayetler-253.sbs
 gunceltrsikayetler-254.sbs
 gunceltrsikayetler-255.sbs
+gunceltrsikayetler-258.sbs
 gunceltrsikayetler-259.sbs
 gunceltrsikayetler-261.sbs
 gunceltrsikayetler-263.sbs
@@ -131329,6 +131338,7 @@ internetsubesi-enpara.tk
 internetsubesi-enparaa.com
 internetsubesi-enparaqnbfinansbank.com
 internetsubesi-fibakampanyasi.gq
+internetsubesi-finans.my-homeip.net
 internetsubesi-finansbank-com.tk
 internetsubesi-finansbank.cf
 internetsubesi-finansbank.ga
@@ -147349,6 +147359,7 @@ kgm.rdgth.homes
 kgm.reggzx.help
 kgm.scdqwl.homes
 kgm.suoesu.homes
+kgm.trionedk.com
 kgm.upipid.cc
 kgm.vtgfwh.cc
 kgm.wklxda.homes
@@ -151063,6 +151074,7 @@ krasanasam.cfd
 krasentiqo.one
 kratyeni2024.com
 kravisonline.net
+kravonixel.com
 kraylode.net
 krbimcell.com
 krblrbrayglcekbzdyc.mooo.com
@@ -175868,6 +175880,7 @@ otokocfilorentacar.net
 otokocfilosu.com
 otokocfiloturkiye.com
 otokocilan.info
+otokockirala.com.tr
 otokockirala.net
 otokockiralama.online
 otokockiralamatr.com
@@ -208535,6 +208548,7 @@ spinlogos.com
 spinmorph.com
 spinuni.com
 spireward.com
+spiritswift.digital
 spit2.cloudimg.my
 spitclarify.ml
 spitola.fk-afric.xyz
@@ -210363,6 +210377,7 @@ sube-garantibbvx-com.tk
 sube-garantibireysel.com
 sube-garantikanpanyam.com
 sube-garantili-yatirim.click
+sube-garantilibbva.my-homeip.net
 sube-garantim.com
 sube-garantionlineislemler.com
 sube-garantionlineislemler.ws
@@ -214742,6 +214757,7 @@ tebmobilgiriswebsitebasvurusayfasi.mobilsite.ga
 tebmobilgiriswebsitebasvurusayfasi.wewsite.tk
 tebmobilhesabim.com
 tebmobilim.com
+tebmobilkredi.my-homeip.de
 tebmobilsube.werte.win
 tebmobilsubem.com
 tebmobilsubemcep.ml
@@ -227903,6 +227919,7 @@ unfollowtr.com
 unglan.help
 unibursdestek.net
 unifi.garantibbvakredibasvuru.com
+unifiedvo.com
 uniistbner.xyz
 unileverweb.com
 unimgir.pw
@@ -236408,6 +236425,7 @@ website666454211.nicepage.io
 website666454654.nicepage.io
 website66645621a.nicepage.io
 website6664643534123.nicepage.io
+website666758999.nicepage.io
 website66746745233.nicepage.io
 website78855888.nicepage.io
 websitegit.lol
@@ -236751,6 +236769,7 @@ wheyproteinn.cfd
 whgsllpttllavmll.click
 whgslpttlavml.click
 whichobek.com
+whislock.store
 whisperingpeepulresort.com
 whisperingskies.store
 whisperjq.top
@@ -241315,6 +241334,7 @@ wwwdenizyilbasi.com
 wwwdestekpandemi.ml
 wwwdevletdolumveznesi7.blog
 wwwdevletodemeleri.com
+wwwdhl-parcel.dffbeauty.com.au
 wwwdigitalwalletparibu.com
 wwwdirektyilbasihediye.com
 wwwe-devlet-aidat-iade.com
@@ -252400,6 +252420,7 @@ ynlndirmaktarmaservisi.my
 ynlndirmerkzmx.online
 ynlndkbrdansnrbrd.icu
 ynlndkbryabzhpbrbr.mooo.com
+ynlndr-gr-t.my-homeip.de
 ynlndrlm-srvsi.shop
 ynlndrlme-hdflri.shop
 ynlndrlme-yrlri.shop
@@ -252643,6 +252664,7 @@ yolcum360.top
 yolcum360kirallama.com
 yolcum36o.com
 yolcun360arackiralama.com
+yolcuotokirala.com.tr
 yolcuotokiralama.site
 yolcurent360.com
 yolcuum360.autos
@@ -252749,6 +252771,7 @@ yonetimmerkezi-tr.com
 yonetimpaneli.xyz
 yonetimpaneli724borsa.com
 yonetmelisin.com
+yonhome-g.my-homeip.de
 yonkearyse.com
 yonl3ndirilidiorusunizi.duckdns.org
 yonld-hzs-bni.store
@@ -254519,6 +254542,7 @@ zir0ot-bank1s5.click
 zir1at.fun
 zira-a-t-bireysel-basvuru-ekran.my-homeip.de
 zira-a-t-login-page.my-homeip.de
+zira-at-basvuru-sureci.my-homeip.de
 zira-attbankasi.com
 zira1at-1.click
 zira4t-firsat-zamani.duckdns.org

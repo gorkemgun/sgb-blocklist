@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip
-# Records: 15196
-# Last change: 2026-08-12 08:41:09 UTC (sync mode: delta)
+# Records: 15198
+# Last change: 2026-08-12 13:51:12 UTC (sync mode: delta)
 1.12.37.113
 1.13.102.222
 1.13.249.217
@@ -9840,6 +9840,7 @@
 156.146.63.139
 156.208.240.185
 156.220.185.224
+156.225.1.109
 156.226.173.23
 156.226.174.212
 156.227.0.187
@@ -10096,6 +10097,7 @@
 160.30.173.87
 160.119.64.3
 160.119.76.33
+160.119.76.64
 160.119.253.36
 160.119.253.219
 160.119.253.242
