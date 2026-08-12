@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99497
-# Last change: 2026-08-12 21:05:33 UTC (sync mode: delta)
+# Records: 99513
+# Last change: 2026-08-12 22:05:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1799,6 +1799,7 @@
 454347.com
 45444879445.cloud
 45623456.com
+4562525656525252.club
 456345345.net
 4563462.cloud
 45641eb1.9du-flk.shop
@@ -4922,6 +4923,7 @@ agstaltayertsjfasldaslkdhfnsdjfnjsd.online
 agstoscrfsnzdngl.com
 agstoscrfsnzdngl.info
 agtrackflights.com
+agugoawsdasdhga923asdas.click
 agusots-tkelfibru-brasdsa.store
 agusto-s10-1comtr.online
 agustos-acikdenizbasvuruonay.com
@@ -8549,6 +8551,7 @@ asgaarasa.click
 asgadsqew.sbs
 asgafasdad222d.wiki
 asgard-cup.ru
+asgartarasa.click
 asgasdgqwre.sbs
 asgd.olapnaskiyakrotasponarfalyaskarlis.net
 asgdfsf.mulkfatnirasyokinasrob.net
@@ -13193,6 +13196,7 @@ birliktevim.com
 birlinks-tr.online
 birlinnoffsh.zapto.org
 birmirok.site
+birolalimisterdim.sbs
 biroybirhayatsiddeteson.com
 birpttingr.lat
 birseyldenzonaykredigiris.com
@@ -40888,6 +40892,7 @@ hersconsolation.top
 hersdpot.top
 hersecvakfi.net
 hersecvakfi.org
+hersekesyettklbudurumda2.click
 herselfcredibility.top
 herselfdestine.top
 herseuxshop.info
@@ -46128,6 +46133,7 @@ internetkampayalari.org
 internetkampayasi.com
 internetkampayasi.net
 internetkampayasi.org
+internetonline.click
 internetpaketi.website
 internetsube-vkf-kampanyalarn.us
 internetsube-yapikredicomtr.rf.gd
@@ -50603,6 +50609,7 @@ kiye.xyz
 kiymet-kurumu.org
 kiymetkurulusu.org
 kiymetvakfi.com
+kizibittik.click
 kiziiay.net
 kizilay.info
 kizilay.misecure.com
@@ -51111,6 +51118,7 @@ koduplay.com
 koent.website
 kofalu.com
 koftecialibaba.com
+kofteciyusuff.online
 kohlhoff-edelstahlverarbeitung.de
 koikykii.com
 koinim-tr.me
@@ -55623,6 +55631,7 @@ masyawa.click
 matabbrevition.top
 matadorfitnesspro.com
 matadormedya.xyz
+matakuttuk.click
 matamasklloghjn.webflow.io
 matamasloginex.webflow.io
 mataraniinfrastructure.com
@@ -56922,6 +56931,7 @@ mhrsrarandvzhmzrsbrda.sbs
 mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
+mhrsrxn3devuuhxzm3tleri45732.com
 mhrss.hccsrrnxav.net
 mhrss.mersinstar.com
 mhrssrandevularimmorbidwsynx.com
@@ -62999,6 +63009,7 @@ onlineprbresmi.com
 onlineprbubasvurusu.com
 onlineprohostz.cf
 onlinerandevu-kadastr-tapu.online
+onlinerandevuportalekranlarimizdir.duckdns.org
 onlinereklam.xyz
 onlineresmibnncs.com
 onlineresmibnncstr.com
@@ -74424,6 +74435,7 @@ sairisthereaouts.top
 saironroblox.com.tr
 sajebut12421.wordpress.com
 sakarya54x-odexmeservis.net
+sakasuttuk.click
 sakenil.top
 sakinlimavi.com
 sakliknt.com
@@ -75504,6 +75516,7 @@ seemtimid.top
 seesmskmvbdwqs.net
 seewhocheckedyourfb.com
 sefakindir.cc.dvrlists.com
+sefi.jspara-col.cfd
 sefira.site
 segirbayi.dev
 segkalmas.net
@@ -83748,6 +83761,7 @@ tekrardanbasvurozamanas.sbs
 tekrardansoktayiz.cloud
 tekrardevametmelin3.cloud
 tekrarsa.dnsup.net
+tekrartekrarbasvurdana.sbs
 teksancesbrdasance.cfd
 tekscarkiralama.com
 teksefer.tech
@@ -95765,6 +95779,7 @@ www-sekerbank68yil.com
 www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
 www-t0gg.net
+www-teb-com-tr-emekli.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
 www-telegram.org
@@ -97503,6 +97518,7 @@ yazbonusu.digital
 yazfirsatibnansda.net
 yazfirsatiklliima.com
 yazfirsatlari-aldin-aldin.duckdns.org
+yazfirsatlaribizden.my-homeip.de
 yazfirsatlaribnnglblde.net
 yazfirsatlarimilesok.cfd
 yazgeldifirsatgeldi.name.tr
