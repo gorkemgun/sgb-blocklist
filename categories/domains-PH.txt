@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99407
-# Last change: 2026-08-12 05:07:28 UTC (sync mode: full)
+# Records: 99411
+# Last change: 2026-08-12 06:44:39 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -23488,6 +23488,7 @@ dartcurtail.top
 dartengton.pro
 dartproximity.top
 darwinplumbers.com
+dasasdfdswerwrttxcz87.click
 dasdasdas.net
 dasdasdasd.great-site.net
 dasdasdasf34rewtgsdfvasdrw546ey.jampanistrafyakralismanyorsaftaparasf.net
@@ -29915,6 +29916,7 @@ enlighteningdegeneration.top
 enlighteningnotoriety.top
 enlightenmentfact.top
 enlightgo.com
+enlimitonay.online
 enlistappraise.top
 enlistbeneficial.top
 enlisthobby.top
@@ -54205,6 +54207,7 @@ m8d2sn0o.tokyo
 m8k4x6q2f9b3n7hvat.cfd
 m8lo58v.cn
 m9x4q2v8n1z6.cfd
+m9xt2qzrw7kv5phn8jcyb.click
 ma1o1.net
 ma588.com
 maantfragility.top
@@ -99061,6 +99064,7 @@ ziraat-combo-bireysel.kastakdkdkd.tk
 ziraat-cvc.cfd
 ziraat-digital-subesi.online
 ziraat-ekspertiz.web.app
+ziraat-inislemin.cfd
 ziraat-katilim-kredin-hazir-basvuru.mooo.com
 ziraat-try.com
 ziraat.coralconsulting.org
