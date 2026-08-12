@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99487
-# Last change: 2026-08-12 19:29:35 UTC (sync mode: delta)
+# Records: 99497
+# Last change: 2026-08-12 21:05:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -268,6 +268,7 @@
 101kapindakampanyasi.duckdns.org
 101kapndaonline2023.online
 101klimakampanyalari.com
+101kralsfe.duckdns.org
 101magazacty.com
 101marketonlineshop.vercel.app
 101marketyilbasifirsatlarinda.hostingoncloud.in
@@ -950,6 +951,7 @@
 1ix7htk.cn
 1jb.us
 1jc6e1950.storage.googleapis.com
+1kayamkcnckkamak1.info
 1kayipesya.site
 1ksamdvcakajx123x12.cfd
 1kzmconcert.com
@@ -3837,6 +3839,7 @@ acdem.bond
 ace-check.com
 ace.infolanmam.xyz
 aceelectricalsinc.com
+aceleetme.sbs
 acenta-sorgula.online
 acenta365.online
 acenta365.site
@@ -10645,6 +10648,7 @@ bastaconcert.site
 bastardysdomain.com
 bastgm.is-best.net
 basu.vuru.al.legvnclk.bislem.net
+basurvu-y.cfd
 basutkredi.com
 basuvur.a.ile.bilgilendirilme.net
 basuvur.a.ile.bilgilerin.net
@@ -25583,6 +25587,7 @@ dijital-kampanya-dijitalkampanya-com.cf
 dijital-katilim.net
 dijital-mobiluyelikks.ml
 dijital-online.website
+dijital-servisler.sbs
 dijital-sube.dev
 dijital-subesizgiris.net
 dijital-vkf.com
@@ -38929,6 +38934,7 @@ haber1425.shop
 haber142512.sbs
 haber1452.sbs
 haber1452.shop
+haber145216562.sbs
 haber1453.club
 haber1453.online
 haber1453.sbs
@@ -45567,6 +45573,7 @@ inkapidasiparis.com
 inkas10.com
 inkeast.top
 inkesait.top
+inkflowra.com
 inkild.top
 inknestr.top
 inknob.top
@@ -60660,6 +60667,7 @@ nopanel.sbs
 nopanel.shop
 nopanel.site
 nopanel.xyz
+nopanel2026.online
 nordin.toufanti.com
 noreplaydestekbinance.com
 normalbrick.online
@@ -93742,6 +93750,7 @@ website6666977.nicepage.io
 website6667577.nicepage.io
 website6667589.nicepage.io
 website6667589999.nicepage.io
+website6667809.nicepage.io
 websitemajesty.top
 websitemo.top
 websiteoppression.top
@@ -99383,6 +99392,7 @@ ztoehcian.156953coinbase.com
 ztraattrr-com.cfd
 ztraktor9092.myaddr.io
 ztraktor9093.myaddr.io
+ztrasattass.nicepage.io
 ztrrkt-katlim.cfd
 ztrtrtdsryl.cfd
 ztrtrtryl.cfd

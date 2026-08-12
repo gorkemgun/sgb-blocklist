@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257105
-# Last change: 2026-08-12 17:16:56 UTC (sync mode: delta)
+# Records: 257107
+# Last change: 2026-08-12 21:05:33 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -121530,6 +121530,7 @@ hizlionay.sbs
 hizlionay.tk
 hizlionaygerekenislerde.com
 hizlionaygerekenislerde.net
+hizlionaygerekenislerdebirlikteyizs.com
 hizlionayislem.com
 hizlionaylar.duckdns.org
 hizlionbasvuru.bond
@@ -195619,6 +195620,7 @@ sahibinden-paramguvende.hizmet-online.com.tr
 sahibinden-paramguvende.hizmetler-tr.com.tr
 sahibinden-paramguvende.ilan-onay-tr.online
 sahibinden-paramguvende.info
+sahibinden-paramguvende.islemonaylatr.online
 sahibinden-paramguvende.ml
 sahibinden-paramguvende.net
 sahibinden-paramguvende.online
