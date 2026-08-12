@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99472
-# Last change: 2026-08-12 16:14:20 UTC (sync mode: delta)
+# Records: 99482
+# Last change: 2026-08-12 17:16:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -26919,6 +26919,7 @@ dpostr.cfd
 dpostrfghd.top
 dpre33dictcattle.top
 dpressinunveil.top
+dpriv.my-homeip.de
 dpsio.ink
 dptxrmqlevzn.sa.com
 dpu.com.tr
@@ -38518,6 +38519,7 @@ guvenliodeme.sa.com
 guvenliodeme.site
 guvenliodeme.store
 guvenliodeme.za.com
+guvenliodemehizli.com
 guvenliodemem-al.com.tr
 guvenliodemen.xyz
 guvenliodemenoktasi.net
@@ -39123,6 +39125,7 @@ haberleriniz21.club
 haberleriniz21.online
 haberleriniz21.site
 haberleriniz21.website
+haberlersizdengelenler.biz
 haberlersonline.site
 haberleryeni.site
 haberlistesi.online
@@ -39426,6 +39429,7 @@ halkinsigortasi.com
 halklaiciceyiz.sbs
 halklarinbirlikteligi.sbs
 halklarinbirlikteligi1.sbs
+halklimit.online
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
@@ -62299,6 +62303,7 @@ olpyfw.top
 olrurdumamdszgds.com
 olsanasende.net
 olsnavyseny.net
+olsunbebegimcekinme.vip
 olsunbudabizdenolsun.net
 olurbnlrdasanagore.shop
 olusturan-rehber-lbrg.myonlineportal.ch
@@ -64866,11 +64871,13 @@ paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
 paribu-araba-cekilisi.com
+paribu-araba-cekilisi.live
 paribu-araba-cekilisi.ooguy.com
 paribu-araba-cekilisi.opik.net
 paribu-araba-kazan.com
 paribu-araba-kazanma.com
 paribu-araba.com
+paribu-araba.live
 paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
@@ -86326,6 +86333,7 @@ traditionalpropel.top
 traditionpreoccupy.top
 traditionreputable.top
 tradivexo.cfd
+tradli.net
 tradli.org
 tradomind.com
 traelyst.dk
@@ -90255,6 +90263,7 @@ uzmansofltwa.blogspot.com
 uzmantramersorgulama.blogspot.com
 uzmanwebtasarimi.online
 uzmnlarlagecsnde.net
+uzunlaryaniyoraramizda.co
 uzwsmm.top
 uzzbcfa.cn
 v-dyson.com.tr
@@ -99352,6 +99361,7 @@ zrrvpnl.com
 zrrvpnl2.com
 zrtasxhgs.xyz
 zrtkalim.com
+zrtmorbilek.cfd
 zrtoogbayramaozel.net
 zrtytrak.nicepage.io
 zrvpnl5.com
