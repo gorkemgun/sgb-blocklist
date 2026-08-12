@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99483
-# Last change: 2026-08-12 18:11:36 UTC (sync mode: delta)
+# Records: 99487
+# Last change: 2026-08-12 19:29:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9413,6 +9413,7 @@ avantajmarketim.xyz
 avantgardecollections.com
 avantle.net
 avanttajlikampny.pro
+avaraj.my-homeip.de
 avavetom.org
 avbir.eu
 avblgodmsisistemlerihil.com
@@ -55399,6 +55400,7 @@ marketten.lat
 marketthediyeceki.online
 markettrailway.shop
 markettrcepte.info.tr
+marketvistae.gifts
 marketvu.shop
 marketwarehouse.shop
 marketx-indirxmleri.com
@@ -59066,6 +59068,7 @@ myrionix.shop
 myrionix.site
 myrionix.store
 myrs-rndv-syfsi.duckdns.org
+myrsrndvuualinnn.duckdns.org
 myrulecontroldone.com
 mys-jtexpres.cyou
 mys-kmpmfskfsgjkgsjsakfsakfsasd.online
@@ -94634,6 +94637,7 @@ womako.com
 womanalso.top
 womanfamous.top
 womanyear.top
+womblix.gifts
 womcarfilo.com
 womebe.com
 womedeluxehotels.com
