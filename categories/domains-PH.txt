@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99556
-# Last change: 2026-08-13 12:01:40 UTC (sync mode: delta)
+# Records: 99563
+# Last change: 2026-08-13 13:51:22 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3339,6 +3339,7 @@ a101online.com
 a101online.com.tr
 a101online.help
 a101online.kodlioo.net
+a101onlineaktuelmarket.com
 a101onlineislemler.alisverisinortasi.com
 a101onlineislemler.magazaindirimservisler.com
 a101onlineislemler.siparisinyollda.com
@@ -7698,6 +7699,7 @@ aracimin.net
 araciminanesi.net
 aracimindetaylari.cfd
 aracimisigortala.net
+aracimizmuayenede.com
 aracimizmuayeneli.net
 aracimizsorgulayin.net
 aracimkapimdaolur.xyz
@@ -18730,6 +18732,7 @@ clodesveirflynew.com
 clogerix.com
 cloguprising.top
 clomr-rehssrlv-thoday.com
+clonatiempo.com
 clonebntr.vercel.app
 cloneinventive.com
 clonekebakykoke.vercel.app
@@ -42884,6 +42887,7 @@ hukukburosu.in
 hukukburosuodemesi.online
 hukukburosuuzlasma.com
 hukukcezaburosu.com
+hukukdava.org
 hukukdavalar.com
 hukukdepartmani.eu
 hukukdosyalar.info
@@ -56966,6 +56970,7 @@ mhrsxzowskda.blogspot.com
 mhrszrndwoo.net
 mhrzsrndwoo.net
 mhsaraktiv.uk
+mhsdfbavbsd.art
 mhsdfbcxvbsd.art
 mhsdhfxbvcb.art
 mhshemen.uk
@@ -58480,6 +58485,7 @@ mtl-ayrl-brdn-vakit-bitti.top
 mtlfksadisl.com
 mtmediareach.com
 mtmvodemegunu.com
+mtn-gh.cfd
 mtoodeme.com
 mtr11museti-tr.com
 mtrendyol.com
@@ -87012,6 +87018,7 @@ trendyol0.lat
 trendyol0.xyz
 trendyol016.k9d9c.my
 trendyol088.p17l23.my
+trendyol0b7.k9d9c.my
 trendyol0e8.p17l23.my
 trendyol0ef.p17l23.my
 trendyol1.baby

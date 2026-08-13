@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65725
-# Last change: 2026-08-13 12:01:40 UTC (sync mode: delta)
+# Records: 65744
+# Last change: 2026-08-13 13:51:22 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16262,6 +16262,7 @@ cinolasco.club
 cinycekecid.eu
 ciokenz0623.duckdns.org
 ciongxipoz.duckdns.org
+cipherway.space
 cipmifa.duckdns.org
 ciqcusbrlw.duckdns.org
 ciqhzz.duckdns.org
@@ -16756,6 +16757,7 @@ cloudflare.solutions
 cloudfront.site
 cloudguide.in
 cloudjs.live
+cloudmask.space
 cloudmetric-analytics.com
 cloudmgrtracker.com
 cloudmicrosoft.net
@@ -30933,6 +30935,7 @@ internetevdekal20gbkazan.com
 internethediyelerisizlerle.com
 internetksi.ddns.net
 internetpakethediyelerin.net
+internetprvpn.ru
 internette20gb.com
 internette20gb.xyz
 internetten-sosyaldestekbasvuru.com
@@ -31292,6 +31295,7 @@ iron65.ddns.net
 iron66.ddns.net
 ironbrave.online
 ironloxp.live
+ironproxy.space
 ironrockcc.com
 irqxvpn.site
 irrmsdbtnw.duckdns.org
@@ -34263,6 +34267,7 @@ korolevatancpola.ddns.net
 korom.zapto.org
 korotohxm.hopto.org
 korovkamu.com
+korovkavpn.space
 korpla.co.kr
 korxzqcsqw.duckdns.org
 kosmk.ddns.net
@@ -40067,6 +40072,7 @@ myworldss.hopto.org
 mywormtwon.ddns.net
 mywt1w.duckdns.org
 mywtqfzuur.duckdns.org
+myxasecure.space
 myxmr.pw
 myxshdysbc.duckdns.org
 myycrap.duckdns.org
@@ -41188,6 +41194,7 @@ nikzee.ddns.net
 nileacademy.ca
 nileloqistics.com
 nililotan.org
+nimbusshield.space
 nimp.org
 nimrolp.net
 nimtohulin.ddns.net
@@ -43357,6 +43364,7 @@ os1vdd5.duckdns.org
 os4p3t.duckdns.org
 osaam2015.zapto.org
 osama18888880.zapto.org
+osavpn.su
 osbwowgfnclc.space
 osdvnkdfnss.hopto.org
 oseeujmg.org
@@ -45644,6 +45652,7 @@ prime98-membership.duckdns.org
 primeassociatesinc.com
 primeline-lb.top
 primeminister-goverment-techcenter.tech
+primeproxy.space
 primerenewal-amazonaccount-yhvrnqwvrd.duckdns.org
 primes-konto-amazn.duckdns.org
 primesinfo.com
@@ -49577,6 +49586,7 @@ salasremote.duckdns.org
 salasssnikalim.duckdns.org
 salayaddu.com
 sale-deepseek.com
+salega.ru
 saleh200.hopto.org
 salemark.net
 saleseekr.com
@@ -50878,6 +50888,7 @@ securepplfrance.hopto.org
 secureprivacy.hopto.org
 securepro2c1t1serv2.hopto.org
 securepublic02vm.ddns.net
+securepulse.space
 securepverify7p.duckdns.org
 securepypel.hopto.org
 secureredirectiononline.duckdns.org
@@ -52124,6 +52135,7 @@ siiigfhwut.duckdns.org
 sij4z2zky.duckdns.org
 sijid489x.duckdns.org
 sikker1dk.ddns.net
+silashield.space
 silbot.ddns.net
 silcom.com
 silcroadseevers.net
@@ -53034,6 +53046,7 @@ spiceworld.ddns.net
 spider-man.club
 spiderahmedhac2356.zapto.org
 spidermanbaba.ddns.net
+spidervpn.online
 spilmt2.com
 spimports.com.br
 spin-byoxxo.ddns.net
@@ -53482,6 +53495,7 @@ stclegion.com
 stcsxeepej.duckdns.org
 std42.zapto.org
 stdacntrstrc.duckdns.org
+stealthpath.space
 stealur.info
 steam.zapto.org
 steamcmd.pw
@@ -54073,6 +54087,7 @@ svdc81jz.duckdns.org
 sve-ce-da-nas-pojebe.biz
 sve-ce-da-nas-pojebe.com
 sve-ce-da-nas-pojebe.net
+sverchvpn.space
 svetanakravenova248.ddns.net
 svetovid.bid
 svezzapo.duckdns.org
@@ -56621,6 +56636,7 @@ tunaavipe.ddns.net
 tunba.duckdns.org
 tunisia.zapto.org
 tunisie065.zapto.org
+tunnelbase.space
 tuntun2.digital
 tuohesacbiuf.ddns.net
 tupacsyrian.hopto.org
@@ -56628,6 +56644,7 @@ tur5avbm.duckdns.org
 turanbilisimtr.net
 turasogutmas.com
 turbotaxbitgroup.duckdns.org
+turbotunnel.space
 turbozik.hopto.org
 turcell-emusteri.org
 turcell-fatura.com
@@ -57956,6 +57973,7 @@ usaasmsaxcess.hopto.org
 usaaverify05.ddns.net
 usaaverifyfwd12.ddns.net
 usaaverifypprsv.ddns.net
+usachvpn.su
 usahawantuisyen.coachmohdnoor.com
 usaid.theyardservice.com
 usajsvjpgc.duckdns.org
@@ -65132,6 +65150,7 @@ zhpfvokdqttsqcfmknrwdpfyd.info
 zhqwgtul.duckdns.org
 zhsfmbjgdi.duckdns.org
 zht76o.duckdns.org
+zhukvpn.online
 zhvtn29.duckdns.org
 zhywc5.duckdns.org
 zi01.ddns.net
