@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99540
-# Last change: 2026-08-13 08:45:33 UTC (sync mode: delta)
+# Records: 99556
+# Last change: 2026-08-13 12:01:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7536,6 +7536,7 @@ aqshgsmarket.xyz
 aqty.top
 aqualispoll.xyz
 aquamanchecker.ml
+aquamsis.com
 aquapro.co
 aquasnapz.com
 aquent-careers.netlify.app
@@ -7556,6 +7557,7 @@ araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
 araba-cekilisi.live
+araba-cekilisi.online
 araba-cekilisisizinicinkampanya.com
 araba-paribu.com
 arabacekilis.com
@@ -25485,6 +25487,7 @@ digitalbasvuruacikdenizv2denizbank.co.vu
 digitalbasvurukampanyasindebugun.tech
 digitalbireysel.site
 digitalbirlik.net
+digitalcircuithub.com
 digitalcontinuity.de
 digitalcreativityhub.xyz
 digitalcurrencymining.sa.com
@@ -39554,6 +39557,7 @@ hangas.online
 hangas.site
 hangas.web.tr
 hangbuk.xyz
+hangikredi.ersoylabs.com
 hangikredi.shop
 hangikredim.com
 hangikredin489874120.sbs
@@ -42075,7 +42079,9 @@ hmniadeald.net
 hmnilsmkntans.net
 hmnislemnoktnasn.net
 hmnislemonlniesonuc.net
+hmnislmeonkt.net
 hmnislmknat.net
+hmnislmkntlasi.net
 hmnislmnkatnas.net
 hmnislmnkns.net
 hmnislmnknts.net
@@ -49421,6 +49427,7 @@ karacan-cepte.info.tr
 karacaocakta.com
 karacaonline.org.tr
 karacaonline.store
+karacasofras.homes
 karacastore.club
 karacatc.com
 karacatcb.cfd
@@ -53984,6 +53991,7 @@ lumiqo.sbs
 lumosphereb.eu
 lumpbald.top
 lumqiro.cyou
+lunakove.com
 lunarbirchfold.site
 lunarcrest.spcae
 lunardenunciation.top
@@ -58381,6 +58389,7 @@ mrcey.online
 mrceypro.online
 mrcwithwork.icu
 mrdigitalduniya.com
+mrelerdenlsewsa.duckdns.org
 mrfvdu.top
 mrgatescoins.info
 mrgatesgive.com
@@ -73832,6 +73841,7 @@ sahibinden.guvende-ticaret.com
 sahibinden.guvende.alisveris-online.com.tr
 sahibinden.guvendeal-tr.com
 sahibinden.guvendealim.com
+sahibinden.guvendealimlarimiz.com
 sahibinden.guvendeapp.com.tr
 sahibinden.guvendehizmetimiz.com.tr
 sahibinden.guvendesatinal.com
@@ -75695,6 +75705,7 @@ selgebeachresortandhotel.com
 selgebeachresortside.com
 selgebeachsresorts.com
 selgehotels.com
+selgeotelside.com
 selgeresortbeach.com
 selgeresortside.com
 selindudaksd.wixsite.com
@@ -77417,6 +77428,7 @@ simdi-destekal.online
 simdi-ode.com
 simdi-senin-olsun.com
 simdi-tam-olur.com
+simdi-tamamla-ilan.com
 simdi.hizli-kredi.com
 simdialdin.shop
 simdialdinaldinpazartesitesteresini.xyz
@@ -78958,6 +78970,7 @@ sorgu.world
 sorgu.wtf
 sorgu.xyz
 sorguadalet.org
+sorguadliye.net
 sorgualtr.com
 sorguapileri-tc.onrender.com
 sorguaracim.net
@@ -85114,6 +85127,7 @@ tkilkevim.sbs
 tkipetislemlerim.info
 tkisybsvrlrhmn.net
 tkkammk.shop
+tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
 tkkkiibasvrr.net
 tkksgabasvuru.work
@@ -86999,6 +87013,7 @@ trendyol0.xyz
 trendyol016.k9d9c.my
 trendyol088.p17l23.my
 trendyol0e8.p17l23.my
+trendyol0ef.p17l23.my
 trendyol1.baby
 trendyol1.click
 trendyol1.homes
@@ -88101,6 +88116,7 @@ turkakademiv.net
 turkakademivak.net
 turkbank.net.ph
 turkbank.xyz
+turkbasin.blog
 turkbe.kz
 turkboost.com
 turkbydonline.com

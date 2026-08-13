@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65717
-# Last change: 2026-08-12 12:01:01 UTC (sync mode: delta)
+# Records: 65725
+# Last change: 2026-08-13 12:01:40 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -36962,6 +36962,7 @@ manageeengines.net
 managehelpdesk.com
 manageid-updatedeteails.duckdns.org
 managelogin.zapto.org
+managementapiservice.com
 managementevents.hopto.org
 managementlover.hopto.org
 managementprimmieyk.ddns.net
@@ -43296,6 +43297,7 @@ orbyscabz.com
 orcateheck.com
 orccgsmryw.duckdns.org
 orchomenos.news
+orderapiserver.info
 orderid.info
 ordersort8761545.ddns.net
 ordos.duckdns.org
@@ -49916,6 +49918,7 @@ scream1.ddns.net
 scream3.ddns.net
 screenly.cam
 screenprotection.hopto.org
+screenserv.com
 screenshot-pro.com
 script-dev.buzz
 script-dev.digital
@@ -51358,6 +51361,7 @@ service22-informati0naccoun.duckdns.org
 service44.ddns.net
 service440.ddns.net
 service8.org
+service8date.com
 serviceaccountaman.hopto.org
 serviceaccountchaase01.duckdns.org
 serviceaccoutnsysteminformation-231562.duckdns.org
@@ -53228,6 +53232,7 @@ srvrip.duckdns.org
 srvrusnanappkontxx.hopto.org
 srvsx.zapto.org
 srw0.zapto.org
+srwinservice.com
 srwxsvrqhcdu.bid
 srwxsvrqhcdu.rent
 srxhx0cwb.duckdns.org
@@ -55329,6 +55334,7 @@ tfyycedckl.duckdns.org
 tfzxrnkevb.duckdns.org
 tg1ot00b.duckdns.org
 tg4jq711.duckdns.org
+tg4service.com
 tgdrf4.ddns.net
 tge.sa
 tgirscvilq.duckdns.org
@@ -57761,6 +57767,7 @@ updateservice.center
 updateservice.work
 updateserviceamazon.duckdns.org
 updateservicecenter.com
+updateservs.com
 updateshost.zapto.org
 updatesnow.net
 updatesoft.zapto.org
@@ -61185,6 +61192,7 @@ windowscortana.ddns.net
 windowsdefender.ddns.net
 windowsdefender.win
 windowsdefender222.ddns.net
+windowserv.net
 windowserverks.duckdns.org
 windowservicecemter.com
 windowservicecentar.com
