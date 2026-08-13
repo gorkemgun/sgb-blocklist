@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99574
-# Last change: 2026-08-13 15:17:45 UTC (sync mode: delta)
+# Records: 99577
+# Last change: 2026-08-13 17:15:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7651,6 +7651,7 @@ araccassmuaynee.net
 aracccpmuaayeneee.net
 aracccsorgucumahayirli.net
 araccim.blogspot.com
+araccimmuayeyen.com
 araccmuxxynemrkz.net
 araccmxayene.net
 araccrandsvm.net
@@ -8826,6 +8827,7 @@ at.benconcept.com
 at.ipro.ink
 at0micwallets.com
 at2nvs7.cn
+atakanaylar.com
 atakaylar.com
 atalayfiliz.com
 atamam-net.ink
@@ -32325,6 +32327,7 @@ fatodeme.com
 fattoriecanossa.it
 fatura-iade.com.tr
 fatura.s0rgulama-islemleri.com
+faturakom-faskero.it.com
 faturalarbimcelll.com
 faturalihatlar.org
 faturalihatlari.com
