@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99528
-# Last change: 2026-08-13 06:48:51 UTC (sync mode: delta)
+# Records: 99540
+# Last change: 2026-08-13 08:45:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7555,6 +7555,7 @@ araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
+araba-cekilisi.live
 araba-cekilisisizinicinkampanya.com
 araba-paribu.com
 arabacekilis.com
@@ -15256,6 +15257,7 @@ browser.tr-form.com
 browserdeduce.top
 browserextensio.com
 browzerexttention.com
+broxent.com
 brrightprrojecct.shop
 brsagunclcfrskmp.cfd
 brsakrtnexts.net
@@ -37417,6 +37419,7 @@ gramtakipci.com
 gramtakipci.net
 gran-to.online
 granadaexclusivehotels.com
+granadaluxuries.com
 granadaluxuriesbelek.com
 granattatatt.com
 grancarglobal.com
@@ -38295,6 +38298,7 @@ gunsigorta.site
 gunu-tr.online
 gununbakisi.cyou
 gunundosyasi.com
+gununfirsatiburada.com
 gununfirsatlari.com
 gununfirsatlarindeyiz.com
 gununvizyonu.com
@@ -65907,6 +65911,7 @@ peopleradiator.top
 peoplesservicz.com
 peopletemptation.top
 pepe-cekilis.com
+pepe-cekilisim.com
 pepecekilisim.com
 pepkgovi.top
 pepperaffiiation.top
@@ -72819,6 +72824,7 @@ ruhsuzpanel.online
 ruhsuzpanel.site
 ruhsuzpanel1.site
 ruhsuzpanel5.site
+ruhsuzpanel6.site
 ruinousatrocious.top
 ruinouseminent.top
 ruinousfriction.top
@@ -77977,6 +77983,7 @@ skyjetturkiye.com
 skylarkbay.com
 skylineflashnow.com
 skylinerevival.top
+skylinvo.com
 skyneed.johnelwayclaremontcdjr.com
 skypastry.top
 skyplatinkredi.online
@@ -82838,6 +82845,7 @@ taperepressive.top
 tapfkohbs.online
 tapgncweb.web.app
 taphzmett.shop
+taphzmts.shop
 tapirananivumx.online
 tapkopulu.online
 tapkorsandep.online
@@ -83779,6 +83787,7 @@ teksancesbrdasance.cfd
 tekscarkiralama.com
 teksefer.tech
 tekseferdehepsinigotur.top
+teksenbilisimn.com
 teksenvakfi.com
 teksenvakfi.net
 teksoksiparisi.cloud
@@ -85066,6 +85075,7 @@ tjekdfeggeh.com
 tjlpkcia.com
 tjqqpcmdbycian.156953coinbase.com
 tjxoin.top
+tk-tapursevrandvun.net
 tk9u.com
 tkaklatalka.online
 tkaltlasldasrarasdsa.online
@@ -88681,6 +88691,7 @@ tuv-trk.net
 tuv.12855w652.forum
 tuvarac.com
 tuvaracmuaynehizmetleri.net
+tuvhizlihizmetmobil.site
 tuvislem.site
 tuviviet.info
 tuvkdkaksaksaas.com.tr
@@ -91018,6 +91029,7 @@ veegiggity.top
 veexrgi-omede.net
 vefabursu.com
 vefqoaxzbg.xdk8ax.cn
+veganhost.top
 veganmsxhnsiwsk.net
 vegas.rf.gd
 vegascheck.fun
