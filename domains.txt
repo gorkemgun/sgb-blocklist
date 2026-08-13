@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464661
-# Last change: 2026-08-13 18:12:18 UTC (sync mode: delta)
+# Records: 464674
+# Last change: 2026-08-13 19:28:21 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -40500,6 +40500,7 @@ aktuelbncaduyurutr.com
 aktuelcampnysfirs.sbs
 aktuelcebimde.cfd
 aktuelcebinde.com
+aktuelcebindecom.com
 aktuelcep.cfd
 aktueldea1o1.com
 aktueldeki-yeni-malzemeler.com.tr
@@ -40557,6 +40558,7 @@ aktueleylullflrsat.com
 aktuelfamilia.com.tr
 aktuelfamilia.net.tr
 aktuelfamilia.org.tr
+aktuelfirsat.com
 aktuelfirsat.net
 aktuelfirsat.online
 aktuelfirsat101.online
@@ -66468,6 +66470,7 @@ bedavapanel.site
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.com
 bedavasorgu.org
+bedavasorgu2026.site
 bedavasorgula.com
 bedavasorgupaneli.online
 bedavasorgupaneli.site
@@ -125932,6 +125935,7 @@ dijital-kampanya-vakif.tk
 dijital-kampanya.com
 dijital-kampanya.net
 dijital-kampanya.org
+dijital-kampanyaindirimler.sbs
 dijital-kampanyalar.com
 dijital-katilim.net
 dijital-kendme.org
@@ -195093,6 +195097,7 @@ halklbanlk.com
 halklikazaniyor.com
 halklikazaniyor.org
 halklilarkazaniyor.com
+halklimit.my
 halklimit.online
 halklimizinbankasiyizhalkbankasi.com
 halkliyilbasinda.org
@@ -203483,6 +203488,7 @@ hg518618.com
 hg5is.is-best.net
 hg61sxjf.storage.googleapis.com
 hg67rmvajo0mhufq.ddns.net
+hg73983943.click
 hg777hdorotosskot.info
 hg8islemler.blogspot.com
 hg8y62.vip
@@ -275248,6 +275254,7 @@ mcdonaldspromo.site
 mceenzie.sbs
 mcefticbimslne.com
 mcehonline-48303.portmap.io
+mcelerndeslesw.duckdns.org
 mcepsube.com
 mcf-crypt.net
 mcgarryrob9.duckdns.org
@@ -293826,6 +293833,7 @@ nexcarti.gifts
 nexcity.vip
 nexcore.art
 nexenttradr.com
+nexentyatirimweb.com
 nexflarex.com
 nexflixonlinehelp.duckdns.org
 nexflixpay-update.ddns.net
@@ -302614,6 +302622,7 @@ olmayankatkiyedek.com.katilimhediyeleri.com
 olmayibiraktim.click
 olmaz-deme-olabilir.com
 olmazlarainat.shop
+olmazlarioldurduk.sbs
 olmazolms2312.site
 olmazsa-boyle.com
 olmazsa-olmaz-boyle.com
@@ -316312,6 +316321,7 @@ paribu-5yil.com
 paribu-6yilozel.com
 paribu-anindakampanya.online
 paribu-araba-cekilis.live
+paribu-araba-cekilis.online
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.online
@@ -316372,6 +316382,7 @@ paribu-cekilisi.com
 paribu-cekilisim.co
 paribu-cekilisler.com
 paribu-cekilisleri.com
+paribu-cekilislerim.live
 paribu-cekilislerim.online
 paribu-cevirkazan.com
 paribu-com-hediyebasvuru.ml
@@ -394718,6 +394729,7 @@ togg.lol
 togg.onsatisbasvur.com
 togg.satisonbasvuru.com
 togg.website
+togg.zuzzuu.com
 togg2023denizsubegiris.tk
 togg2023enparacekilisi.net
 togg2026.com
@@ -408826,6 +408838,7 @@ tuvtork.com
 tuvtr-veri-system.net
 tuvtr.click
 tuvtrk-rezervasyonmuayene.com
+tuvtrkaracmuayene.govt.hu
 tuvtrkaracmuaynb.web.app
 tuvtrkaracmuayneg.web.app
 tuvtrkarcmuayneet.net

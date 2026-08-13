@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99580
-# Last change: 2026-08-13 18:12:18 UTC (sync mode: delta)
+# Records: 99593
+# Last change: 2026-08-13 19:28:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5706,8 +5706,10 @@ aktuelalisveris.com.tr
 aktuelbasladi.com
 aktuelbenaktuela101.com
 aktuelcebinde.com
+aktuelcebindecom.com
 aktuelduyurusu.net
 aktuelekimindiirimi.xyz
+aktuelfirsat.com
 aktuelfirsat101.online
 aktuelfirsatlar.com.tr
 aktuelfirsatlar.info.tr
@@ -11692,6 +11694,7 @@ bedavapanel.net
 bedavapanel.org
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.org
+bedavasorgu2026.site
 bedavasorgula.com
 bedavasorgupaneli.xyz
 bedavatwitterhizmetleri.top
@@ -25606,6 +25609,7 @@ dijital-ivd.dev
 dijital-kampanya-dijital-kampanya-com.tk
 dijital-kampanya-dijital-kampanya.ml
 dijital-kampanya-dijitalkampanya-com.cf
+dijital-kampanyaindirimler.sbs
 dijital-katilim.net
 dijital-mobiluyelikks.ml
 dijital-online.website
@@ -39464,6 +39468,7 @@ halkinsigortasi.com
 halklaiciceyiz.sbs
 halklarinbirlikteligi.sbs
 halklarinbirlikteligi1.sbs
+halklimit.my
 halklimit.online
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
@@ -41090,6 +41095,7 @@ hg-gsborcmdvrg.net
 hg-jsodeme-vakt.org
 hg4fx6b456dfwg4v6gv5dfg.podzone.org
 hg61sxjf.storage.googleapis.com
+hg73983943.click
 hg8y62.vip
 hgbkyss.net
 hgdisraptor.com
@@ -55971,6 +55977,7 @@ mcbnxh.homes
 mccallagenvyinc.com
 mccmure.com
 mcdlhayat.org
+mcelerndeslesw.duckdns.org
 mcf-crypt.net
 mcgov.md
 mckinsey-careers.com
@@ -60194,6 +60201,7 @@ nexbyte.digital
 nexcartel.com
 nexcity.vip
 nexenttradr.com
+nexentyatirimweb.com
 nexflarex.com
 nexformaveld.pro
 nexigate.digital
@@ -62357,6 +62365,7 @@ olivineseo.com
 olivinework.com
 ollyhazircampanyasikazan.net
 olmasnkrtdnbmkaldnkrtn.cfd
+olmazlarioldurduk.sbs
 olmbahferder.net
 olmicdesote.top
 olmuyo.sorgupanel.net
@@ -64935,6 +64944,7 @@ paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
 paribu-araba-cekilis.live
+paribu-araba-cekilis.online
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.ooguy.com
@@ -64959,6 +64969,7 @@ paribu-cark-hediye.com
 paribu-carkcekilisi.com
 paribu-cekilisi.com
 paribu-cekilisleri.com
+paribu-cekilislerim.live
 paribu-cekilislerim.online
 paribu-cevirkazan.com
 paribu-com-hediyebasvuru.ml
@@ -85378,6 +85389,7 @@ togg.lol
 togg.onsatisbasvur.com
 togg.satisonbasvuru.com
 togg.website
+togg.zuzzuu.com
 togg2026.com
 togg2026.xyz
 togg5000haziran.sbs
@@ -88748,6 +88760,7 @@ tuvsaraccmuyenee.net
 tuvssssmuayneneeessrrr.net
 tuvsxstrksw.net
 tuvtr-veri-system.net
+tuvtrkaracmuayene.govt.hu
 tuvtrkarcmuayneet.net
 tuvtrknmynae-aracmuayneetf25.net
 tuvtrkodemelesi.net
