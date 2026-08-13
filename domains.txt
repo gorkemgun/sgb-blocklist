@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464658
-# Last change: 2026-08-13 17:15:35 UTC (sync mode: delta)
+# Records: 464661
+# Last change: 2026-08-13 18:12:18 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -229152,6 +229152,7 @@ isbak-yeniyil-kampanyalari-ozel.ml
 isbak-yilbasi-ozel-900tl-basvur-online.ml
 isbak-yilbasi-ozel-900tl-basvur-online.yeniyilsuprizkampanya-ozel.tk
 isbak.bireye-ozel-basvur-destek-kampanya.xyz
+isbak.online
 isbakasi.online
 isbakbasvrun.site
 isbake.online
@@ -260186,6 +260187,7 @@ kurumsalyumx.cfd
 kurumsatr.com.tr
 kurumsicil.org
 kurumsorgu.org
+kurumsorgulama.org
 kurumtrafikvergi.agency
 kurumxdao.cfd
 kurunsalfiba.cfd
@@ -316370,6 +316372,7 @@ paribu-cekilisi.com
 paribu-cekilisim.co
 paribu-cekilisler.com
 paribu-cekilisleri.com
+paribu-cekilislerim.online
 paribu-cevirkazan.com
 paribu-com-hediyebasvuru.ml
 paribu-com-tr-online.xyz

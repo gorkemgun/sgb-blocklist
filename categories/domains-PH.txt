@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99577
-# Last change: 2026-08-13 17:15:35 UTC (sync mode: delta)
+# Records: 99580
+# Last change: 2026-08-13 18:12:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -46545,6 +46545,7 @@ isatomatoafruit.com
 isbak-ekampanya-bireysel-basvur.ml
 isbak-ekampanya-ebasvuru-birey.ml
 isbak-yilbasi-ozel-900tl-basvur-online.yeniyilsuprizkampanya-ozel.tk
+isbak.online
 isbank-basvuru.vercel.app
 isbank-jobs.cds.link
 isbank-kampanya.vercel.app
@@ -51896,6 +51897,7 @@ kurumsaltarife.net
 kurumsalyumx.cfd
 kurumsicil.org
 kurumsorgu.org
+kurumsorgulama.org
 kurutmazamanigeldi.com
 kuruumsalsigorta.site
 kuryenet.sorgularim.online
@@ -64957,6 +64959,7 @@ paribu-cark-hediye.com
 paribu-carkcekilisi.com
 paribu-cekilisi.com
 paribu-cekilisleri.com
+paribu-cekilislerim.online
 paribu-cevirkazan.com
 paribu-com-hediyebasvuru.ml
 paribu-com.biz
