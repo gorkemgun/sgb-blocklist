@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99519
-# Last change: 2026-08-13 03:01:57 UTC (sync mode: delta)
+# Records: 99528
+# Last change: 2026-08-13 06:48:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8350,6 +8350,7 @@ artexpectations.com
 artgeniusai.com
 arthrodirous.com
 arti-limit.org
+arti-web.my-homeip.de
 articleautobiography.top
 articlespeak.com
 articletrophy.top
@@ -10638,6 +10639,7 @@ basralibsru.sbs
 basriasrl.shop
 basruvu-oik.cfd
 basruvu-oil.cfd
+basruvu-usk.cfd
 bassaksigorta.com.tr
 bassescalation.top
 bassfishinelectronics.top
@@ -15219,6 +15221,7 @@ brokerparachute.top
 brokerporcelain.top
 brokerprost.info
 brokesob.top
+brolta.shop
 brolta.vu
 brolyra.com
 bromekalidu.digital
@@ -40172,6 +40175,7 @@ headachewicked.top
 headingace.top
 headinginauguration.top
 headlinebay.online
+headlinecore.gifts
 headlineforge.world
 headlinegrove.com
 headlineobserver.com
@@ -49263,6 +49267,7 @@ kanal-liste.click
 kanalmuayne.net
 kanalsanati.blogspot.com
 kancin-3fb6e5913e2a.herokuapp.com
+kandemirol.duckdns.org
 kankaygrills.com
 kanmaynsahtesetlergbehaydebak45.click
 kanmazuhtu.com
@@ -56934,6 +56939,7 @@ mhrsrarandvzhmzrsbrda.sbs
 mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
+mhrsrx2ndevuh3zmetleriniz45012.com
 mhrsrxn3devuuhxzm3tleri45732.com
 mhrss.hccsrrnxav.net
 mhrss.mersinstar.com
@@ -59728,6 +59734,7 @@ nemkslkfskf.net
 nemoine.shop
 nemplomentt.top
 nenaapartmenst.com
+neo-g.my-homeip.de
 neobankora.xyz
 neofikra.click
 neolacaksizleribekliyoruz.com
@@ -68663,6 +68670,7 @@ ptt-govv.cyou
 ptt-govv.qpon
 ptt-gvc.cfd
 ptt-gvoez.top
+ptt-hgs-odeme.com
 ptt-hgs-yukleme.tk
 ptt-hgs.com
 ptt-hgsdolumu-bayisi.tk
@@ -69728,6 +69736,7 @@ qavlumo.tr
 qavmeriq.shop
 qavonirex.xyz
 qavorunexi.org
+qavpazar.com
 qavri.sbs
 qavux.shop
 qazci7o3.storage.googleapis.com

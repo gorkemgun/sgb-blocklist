@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 464556
-# Last change: 2026-08-13 03:01:57 UTC (sync mode: delta)
+# Records: 464566
+# Last change: 2026-08-13 06:48:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -51226,6 +51226,7 @@ arti-gunleri-seninle.xyz
 arti-limit.org
 arti-para-basvur.xyz
 arti-para-eylul.lol
+arti-web.my-homeip.de
 artibilisimler.xyz
 artichatfree.net
 artickon.shop
@@ -60407,6 +60408,7 @@ basriasrl.shop
 basrolsensiin.lat
 basruvu-oik.cfd
 basruvu-oil.cfd
+basruvu-usk.cfd
 basruvular.hegikeiroz.workers.dev
 basruvularim.online
 basruvularimiz.online
@@ -87187,6 +87189,7 @@ brokoliva.net
 brolandcarstroyrs.com
 brolardkas184.com
 brolarkafa.com
+brolta.shop
 brolta.vu
 brolyra.com
 bromather.xyz
@@ -100026,6 +100029,7 @@ chat-whatsapp-grup.duckdns.org
 chat-whatsapp8jhvztulp7ajofk9jua3jvgx3.duckdns.org
 chat-whatsappp.ddns.net
 chat.bntrxrp-basvuru.com
+chat.evsahibibasvuru.com
 chat.matchnewtoday.com
 chat.turkcellpasajsanalmagaza.com
 chat912.ddns.net
@@ -199318,6 +199322,7 @@ headinginauguration.top
 headislem.22web.org
 headline.news7-days-info.org
 headlinebay.online
+headlinecore.gifts
 headlinecore.online
 headlinecorehub.com
 headlinecurrent.com
@@ -246103,6 +246108,7 @@ kancelariaulewicz.pl
 kancin-3fb6e5913e2a.herokuapp.com
 kandamm.no-ip.biz
 kandanakananay.life
+kandemirol.duckdns.org
 kanderasd2.top
 kandir.app
 kandiraliferdi.gleeze.com
@@ -278287,6 +278293,7 @@ mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
 mhrsrsrs.cfd
+mhrsrx2ndevuh3zmetleriniz45012.com
 mhrsrxn3devuuhxzm3tleri45732.com
 mhrss.hccsrrnxav.net
 mhrss.mersinstar.com
@@ -292089,6 +292096,7 @@ nentacht.com
 nentrivend.ru
 neo-akbnk.com
 neo-bilgiislem.com
+neo-g.my-homeip.de
 neo-kikaku.jp
 neo.herosms.co
 neo.utfgop.com
@@ -329346,6 +329354,7 @@ ptt-hgs-borcodemejj.net
 ptt-hgs-doldurmabayi.gq
 ptt-hgs-dolumbayi.gq
 ptt-hgs-limit-dolumm.tk
+ptt-hgs-odeme.com
 ptt-hgs-onlineislemler.shop
 ptt-hgs-ptteavm-yukleme-551.com
 ptt-hgs-ptteavm-yukleme-552.com
@@ -333921,6 +333930,7 @@ qavmeriq.shop
 qavomirex.com
 qavonirex.xyz
 qavorunexi.org
+qavpazar.com
 qavri.sbs
 qavstorlo.gifts
 qavticlo.gifts
