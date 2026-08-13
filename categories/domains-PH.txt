@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99513
-# Last change: 2026-08-12 22:05:52 UTC (sync mode: delta)
+# Records: 99518
+# Last change: 2026-08-13 00:00:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -757,6 +757,7 @@
 182-hatti.com
 182-nett.com
 182-onlines.biz
+182-onlines.help
 182-web.sbs
 182-web.xyz
 182-webb.sbs
@@ -25580,6 +25581,7 @@ dijital-girism.org
 dijital-imza-com-sube-16.ga
 dijital-imza-com-sube-17.ga
 dijital-imza-com-sube-18.ga
+dijital-indirimler.sbs
 dijital-islembilgi.sbs
 dijital-islemler.sbs
 dijital-islemlerbilgi.sbs
@@ -64901,6 +64903,7 @@ paribu-araba-kazan.com
 paribu-araba-kazanma.com
 paribu-araba.com
 paribu-araba.live
+paribu-araba.online
 paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
@@ -89253,6 +89256,7 @@ uksiqorta.xyz
 ukzisrgh.cfd
 ulamaotrpastkslameoalsmgatadarasc.net
 ulamkipoint.site
+ulandunya.sbs
 ularlar.site
 ulasamazsin.net
 ulasamazsin.site
@@ -90932,6 +90936,7 @@ vaxil.shop
 vaxunor.gifts
 vaybabm23.up.railway.app
 vaybetekbasina.lat
+vaydunyavay.sbs
 vayoro4632-43011-0-mdn.pages.dev
 vayro.cyou
 vaystilgiyimxxl.duckdns.org
