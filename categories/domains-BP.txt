@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257125
-# Last change: 2026-08-13 13:51:22 UTC (sync mode: delta)
+# Records: 257128
+# Last change: 2026-08-13 15:17:45 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -10679,6 +10679,7 @@
 9eptmarket.com
 9eylulakfirsatlarimlavesizlerle.com.tr
 9eylulaklifirsatlarimlavesizlerle.com.tr
+9f317aeb98.nxcli.io
 9f6e47bc1002b4e905af5bddaf46ddaf.xyz
 9gsst-esh4f6.net
 9h5hh4933r2-23-234315dsg23fds.sbs
@@ -33599,6 +33600,7 @@ basvuru11aralik.cfd
 basvuru1ekrani.blogdns.org
 basvuru2021-cimerdestek.com
 basvuru202l-cimerdestek.com
+basvuru23153.sbs
 basvuru24.online
 basvuru24.space
 basvuru24.store
@@ -181594,6 +181596,7 @@ pazarama.hizlikargolar.com
 pazarama.hizlionline.com
 pazarama.ilan-havale-odemem.com
 pazarama.ilan-magaza.com
+pazarama.ilanda-sepetim-1092.com
 pazarama.ilandan-fast.com
 pazarama.ile-e-sepetler.com.tr
 pazarama.indirimsepetinde.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 99563
-# Last change: 2026-08-13 13:51:22 UTC (sync mode: delta)
+# Records: 99574
+# Last change: 2026-08-13 15:17:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8001,6 +8001,7 @@ aras.kargo-expres.com.tr
 arasakmsa.click
 arasaslfasofaslmsa.online
 arascargos.com
+arasckmblgnelendmre.online
 arasgkam.shop
 arasgunes.pro
 arasilekar.com
@@ -8914,6 +8915,7 @@ atorjack.top
 atp.persmbxmrkt87.com
 atp500.ru
 atraskmm.online
+atrendy.my
 atrendy.vip
 atriocrm.com
 atrmercmas.net
@@ -34081,6 +34083,7 @@ foresurpass.top
 foretelarisocratic.top
 foretellentail.top
 foreverpenguin.top
+forex-inside.com
 forexcfd.autos
 forextensions.com
 forfeitdeductible.top
@@ -34282,6 +34285,7 @@ foxyy.fun
 fozgvljk.ytyukai.cn
 fozuzd.cn
 fpanel101.online
+fppstart.com
 fppxoj.top
 fqb5hw.cn
 fqpgxk.cn
@@ -44157,6 +44161,7 @@ ilanadimi.com
 ilanalisveris.com
 ilanda-ozelsepetim.com
 ilanda-sepetim-1091.com
+ilanda-sepetim-1092.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -48691,6 +48696,7 @@ k748368.click
 k7asdhahsdhashdahsdhahsd.click
 k7qgstpns.storage.googleapis.com
 k8v2m9q4x1z7.cfd
+k9d9c.my
 ka8x2an.xdk8ax.cn
 kaanayberklo.net
 kaaxcheck.wuaze.com
@@ -59904,6 +59910,7 @@ netflixfreeoneyear.ml
 netflixthizmetileri.com.tr
 netgiris.site
 netgoall.com
+netgsm.online
 nethaber.digital
 nethaber.online
 nethaber.site
@@ -64922,6 +64929,7 @@ paribu--cekilis.com
 paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
+paribu-araba-cekilis.live
 paribu-araba-cekilisi.com
 paribu-araba-cekilisi.live
 paribu-araba-cekilisi.ooguy.com
@@ -67091,6 +67099,7 @@ portal.77-83-201-131.plesk.page
 portal.eaidamerkezi.com.tr
 portal.infura-ipfs.io
 portal.net-gsm.co
+portal.netgsm.online
 portal2.wufoo.com
 portalasliye.org
 portalavukat.org
@@ -70324,6 +70333,7 @@ rakaxlaraqaa.com
 rakibalikbim.com
 raksdlaskckjlc123x132.cfd
 rakuncraftr.tk
+rakvtxsdn.cc
 raldestory.info
 rall21ybracket.top
 rallycommonwealth.top
@@ -84509,6 +84519,7 @@ thefalmouthhotel.world
 thefeistysage.su
 thefiirmpmcom-b7ce8f.ingress-erytho.ewp.live
 thefiltr.xyz
+thefixbrosltd.com
 thefoxcloud.com
 thefoxesgroup.com
 thegreengeine.com
