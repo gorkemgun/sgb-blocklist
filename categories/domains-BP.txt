@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33362
-# Last change: 2026-08-14 15:08:58 UTC (sync mode: delta)
+# Records: 33364
+# Last change: 2026-08-14 17:14:28 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -9909,6 +9909,7 @@ eurwave.gifts
 euwtrpxcnzxkpwqasfwqpksas.today
 euyapkontrol.org
 euyapteblig.org
+euyapvatandas.org
 euzlasmabilgi.org
 euzlasmagib.org
 ev-basvurunuyap.com
@@ -31010,6 +31011,7 @@ vibronmx.site
 vidalocasonormale.org
 vidasana-diaria.life
 videox.gifts
+viemio.com
 vikendipmobil.duckdns.org
 viktare.com
 vildancicek.com
