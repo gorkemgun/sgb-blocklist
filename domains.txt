@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 60750
-# Last change: 2026-08-14 20:48:24 UTC (sync mode: delta)
+# Records: 60753
+# Last change: 2026-08-14 21:43:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -20522,6 +20522,7 @@ freeworldcupstreaming.xyz
 frehf.oss-cn-hongkong.aliyuncs.com
 frelerdeansew.duckdns.org
 frenavotil.com
+frenchbuldogg.duckdns.org
 frenksv.sbs
 frescontera.xyz
 freshcore.buzz
@@ -30168,6 +30169,7 @@ kapsamsekil-acil.biz
 kapsmuh.com
 kar-yatirim.info
 karac.shop
+karaca-a5q5-git-main-redmi1.vercel.app
 karaca-burada.vercel.app
 karaca-ev.shop
 karaca-haziran.vercel.app
@@ -48691,6 +48693,7 @@ spasopro.at
 spb.clayfenrirhuy.top
 spbnews.net
 spbooking-supporting643563456.com
+speak-g.garden
 speakershead.online
 special.services
 specialofferplace.com

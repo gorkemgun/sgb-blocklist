@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22837
-# Last change: 2026-08-14 20:48:24 UTC (sync mode: delta)
+# Records: 22840
+# Last change: 2026-08-14 21:43:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -8047,6 +8047,7 @@ freeworldcupstreaming.xyz
 frehf.oss-cn-hongkong.aliyuncs.com
 frelerdeansew.duckdns.org
 frenavotil.com
+frenchbuldogg.duckdns.org
 frenksv.sbs
 frescontera.xyz
 freshcore.buzz
@@ -11186,6 +11187,7 @@ kapitalined.cfd
 kapitalix.capital
 kapiya-yonlendin.shop
 kapsamsekil-acil.biz
+karaca-a5q5-git-main-redmi1.vercel.app
 karaca-indirimde.vercel.app
 karaca-store.shop
 karaca-temmuz.shop
@@ -17784,6 +17786,7 @@ sparresort.com
 spasanctum.com
 spaseburs.art
 spbooking-supporting643563456.com
+speak-g.garden
 speakershead.online
 special.services
 specialvivid.cyou
