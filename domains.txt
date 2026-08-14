@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 60749
-# Last change: 2026-08-14 19:59:40 UTC (sync mode: delta)
+# Records: 60750
+# Last change: 2026-08-14 20:48:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -27823,6 +27823,7 @@ is.my-homeip.com
 is1c2kjkdsakjcskj13c213x1.shop
 is96jalw222b.online
 isabiasdibdisasihsafgdksawqgsd.cyou
+isacsakldcjkcjk123x12321.shop
 isallanhanmhanmhanmbnanamamnanmahamhnamn.xyz
 isan.22web.org
 isandrix.net
