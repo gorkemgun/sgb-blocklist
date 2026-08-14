@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 1109
-# Last change: 2026-08-14 06:45:26 UTC (sync mode: full)
+# Records: 1141
+# Last change: 2026-08-14 13:46:58 UTC (sync mode: delta)
 0xvona.duckdns.org
 23421823.xyz
 260120.vercel.app
@@ -114,6 +114,7 @@ ashx.lhlsjcb.com
 aspeimoveis342235.online
 assistenza-sim.it
 assureeval.com
+atlasvpn.space
 audit-kg.com
 auditva.cyou
 aurekh.com
@@ -133,6 +134,7 @@ battleflight.org
 battleflight.pro
 benefasts-fhgs2.com
 bestcryptocurrency.top
+bezopasnet.space
 bigflaredefence.com
 billpay-info.com
 binancealliancesintro.com
@@ -315,6 +317,7 @@ e-library.wiki
 e598292a5fbd.ngrok-free.app
 easyguidepdf.com
 ec40pr.net
+echosecure.space
 edbo.linkpc.net
 edbo.publicvm.com
 edifaqe.org
@@ -414,6 +417,8 @@ govtop.one
 greencn.ru
 growhth.com
 gurucooldown.short.gy
+gusentun.space
+gusenvpn.online
 gxzhrc.cn
 h4k.icu
 hafksoawi925ds.com
@@ -430,6 +435,7 @@ hngfbgfbfb.cyou
 holapor67.top
 holicithed.com
 homebrewonline.org
+horizonguard.space
 hospitalinstallation.com
 hotnow.sweeffg.online
 hrefbfdhfhgre-1422102728.cos.ap-hongkong.myqcloud.com
@@ -530,6 +536,7 @@ mangocloudfile.com
 manualreaderpro.com
 manyrei.live
 marraheltin.com
+maskirovka.space
 maxapk.xyz
 maxolutions243.com
 mazdafinancialsevrices.com
@@ -578,6 +585,7 @@ msfconfig.icu
 mslearn.online
 mti4ywy4.lahuafa.com
 mtjln.siyangoil.com
+murvpn.space
 myclauda.it.com
 mydigitalrevival.com
 mydofiles.com
@@ -585,7 +593,11 @@ mypivotloop.co
 mypushstack.co
 myroayy.cyou
 mystarlink.org
+myxasafe.space
 myxasecure.space
+myxavpn.online
+myxavpn.space
+myxavpn.tech
 mziyytm5ytk.ahroar.com
 n49.top
 nac-ac.com
@@ -594,12 +606,14 @@ ncduuyese.live
 nefeshhope.com
 negratomasa2026.online
 neo.herosms.co
+neoncloak.space
 netapsdev.ru
 netcdnads.in
 netcdnamz.ru
 netcdndev.in
 netcorps.ru
 netml.shop
+netroutehub.space
 netsprot.in
 netsproto.in
 networkads.in
@@ -717,6 +731,7 @@ panzozerrot.com
 paragonshellyonetimk.one
 parasjha.info
 partners.spolettini.com
+pauktun.space
 paysolutions.ink
 pdf-reader.help
 pelorso90la.com
@@ -830,6 +845,8 @@ rigmanets.in
 rixifabed.org
 robotic-toys.com
 roller.johallow.workers.dev
+routekeeper.space
+routeshield.space
 ruelomamuy.com
 saborizerefeicoes34.online
 saborizerefeicoes34.site
@@ -860,7 +877,9 @@ servupdate.net
 seven7.to
 seven7.vip
 sgnlapp.info
+shershvpn.space
 sherwoods.ae
+shieldtunnel.space
 shopping5.shop
 shopsleta.ru
 signal.ct.ws
@@ -868,6 +887,8 @@ signspace.cloud
 silashield.space
 silva.rest
 sj9ioz3a7y89cy7.xyz
+skorostvpn.space
+skyproxy.space
 slmgr.sh
 soc.hero-sms.co
 soliq-uz.com
@@ -882,6 +903,7 @@ spiralkey.co
 srwinservice.com
 ssinvestigaciones.com
 ssl3.space
+stableproxy.space
 static-file.digital
 staticcloudflare.pro
 stclegion.com
@@ -904,6 +926,7 @@ strip-mens.tilda.ws
 stuffdns.in
 support-review.org
 sutf.kafekarachi.com
+sverchtun.store
 sverchvpn.space
 svs-verificationdate.beer
 svuatwea.love
@@ -919,6 +942,7 @@ t7c.icu
 tailwind-version-4.vercel.app
 taiwantradoshows.com
 tamunagame.blogspot.com
+tarakanvpn.online
 task-hrec.vercel.app
 tax-filecenter-irs.matthewtarwater.com
 tdk.hunanduodao.com
@@ -994,6 +1018,7 @@ updateservs.com
 updatewin.net
 usachvpn.su
 uzaudit.com
+vaultvpn.space
 vdsafsaf.it.com
 vectorplatform.cc
 vectorquantforge1.lol
@@ -1039,7 +1064,12 @@ vistertransit.com
 vivid.smshero.vip
 vocal-sfogliatella-400a98.netlify.app
 vpn-fortinet.com
+vpn-myxa.ru
 vpn-proton-setup.com
+vpnfasters.space
+vpnkomar.space
+vpnmyha.shop
+vpnmyxa.site
 vscode-bootstrapper.vercel.app
 vscode-config-setting.vercel.app
 vscode-config-settings.vercel.app
@@ -1105,9 +1135,11 @@ zebregts.com
 zeetcckhtudizieudqyck5o4ez16y973h.oast.fun
 zeftasarim.com
 zelpx.garden
+zenshield.space
 zerrotmamil.com
 zest.hero-sms.ai
 zg5mkr7q.apexharvestor.digital
+zhuknet.online
 zhukvpn.online
 znews.neti
 zxp0010w.vip

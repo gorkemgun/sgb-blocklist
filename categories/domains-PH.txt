@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22191
-# Last change: 2026-08-14 11:59:15 UTC (sync mode: delta)
+# Records: 22260
+# Last change: 2026-08-14 13:46:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -189,6 +189,7 @@
 197253-trezor.io
 198-189-120-225.space
 19912206.xyz
+1aaxzz123z1123xx4c123x123.shop
 1ceptesokindirim-liurunler.duckdns.org
 1drvmscloud-acrbatadbfls.com
 1ggeifqfn.storage.googleapis.com
@@ -880,6 +881,7 @@ agl11.com
 agoda-live.live
 agtrackflights.com
 agugoawsdasdhga923asdas.click
+agustosc.dnsup.net
 agwrlwr.xyz
 ahanda.click
 ahbetatlim.click
@@ -3736,6 +3738,7 @@ cay-makinesi.online
 cayalleltlering.com
 cayaypaketsin.lat
 caycial.online
+caydanlikburada.vercel.app
 cayfirsatialtili.com
 caykurturkiyeyudum.me
 caylclicimakinlere.com
@@ -4138,6 +4141,7 @@ cokkolaybiryol.blogspot.com
 cokkolaymis.online
 cokokremzamanlari.com
 coktatokimde.com
+cokyt.top
 col012f0232di.duckdns.org
 colasco.click
 coldwallets-coinbase.com
@@ -7110,6 +7114,9 @@ emghotionalsupport.top
 emhrsrandvlrmzburda.sbs
 eminadimlarla-ileriyedogru.sbs
 eminevimyatirim.com
+emiratespost.fnbd.top
+emiratespost.fnnp.top
+emiratespost.tcram.top
 emklpromsyon.cfd
 emlakduyuru.click
 emlakrandevular.com
@@ -7894,7 +7901,9 @@ fluxgardena.pro
 fmqklx.help
 fmrvpn.net
 fnaveg.cc
+fnbm.top
 fnly-yor-okay.com
+fntn.top
 focusfjord.com
 focusmingle.com
 focusnews.icu
@@ -8512,6 +8521,13 @@ goudbl.click
 gov-es.top
 gov-haorci.top
 gov-irs216.net
+gov.sg-erpb.com
+gov.sg-erpq.top
+gov.sg.billpilot24.com
+gov.sg.finedue.top
+gov.sg.fntm.top
+gov.sg.tszd.top
+gov.sg.tszz.top
 gov.y4nsmsars.sbs
 govbr.icu
 govbrk.shop
@@ -10617,6 +10633,7 @@ istanbulkartttt.xyz
 istanbulkqartmsd.store
 istanbulkqhilzsartmsd.store
 istanbulkweb.blogspot.com
+istanbullbelggimkart.xyz
 istanbullbiizmlaa.xyz
 istanbullkartv.blogspot.com
 istanbulllbelgimmkart.com
@@ -10785,6 +10802,7 @@ iztoaofsa.blogspot.com
 iztodgds.blogspot.com
 iztosfr.dns.navy
 iztospapfs.blogspot.com
+iztsdwws.blogspot.com
 izxalopasaq.blogspot.com
 j7cp.top
 jacobfebruary.com
@@ -12120,6 +12138,27 @@ lssc-canada.ca
 lsscol.com
 lstanbulluollunn.com
 lsvnkx.homes
+lta-obu-upgrade.top
+lta.feeba.top
+lta.gov.onemotoryng.cc
+lta.gov.sg-erps.top
+lta.gov.sg.citefix.top
+lta.gov.sg.tnfy.top
+lta.gov.sg.tnyb.top
+lta.gov.sg.tszn.top
+lta.sg.fntg.top
+lta.sg.fytr.top
+lta.sg.trrc.top
+lta.sg.tryd.top
+lta.sg.tryk.top
+lta.sg.ttye.top
+lta.sg.vrllu.top
+lta.sg.vrllyz.top
+lta.tollvrle.top
+lta.tszl.top
+lta.tszs.top
+lta.vrles.top
+lta.vrlez.top
 ltgxo.buzz
 ltlnlanlaatnlanlana.net
 lucidpoint.vu
@@ -13136,6 +13175,7 @@ myskylinkdouble.workers.dev
 myssopasskey.com
 mystay-id6674.com
 mystiqvalley.top
+myvelko.com
 mzhrrndvlrnzgovptt.duckdns.org
 n-nato333.com
 n-vc.com
@@ -13454,6 +13494,9 @@ nimetbalikci1-193f7d85c066.herokuapp.com
 nimetistanbul.net
 nineki.online
 ninepyramidview.com
+ninjavan.locfx.top
+ninjavan.mszn.top
+ninjavan.mzgb.top
 nintronz.com
 nipa-resort.com
 nipa-resortbeach.com
@@ -13474,6 +13517,7 @@ nl-baykar.com
 nlatlantlanlta.net
 nlatlnatkamama.online
 nlaylnalanlalnal.net
+nlhmrsrabklmdn.com
 nltalntalnal.net
 nltlantlanltanla.net
 nltlnaltanltant.net
@@ -13816,6 +13860,9 @@ onedrive-dsk.cassandra-warholak-ifrma-org-s-account.workers.dev
 oneline-sbm.org
 onemasterscorer.com
 onemomentreservcheckinnow.com
+onemotoring.lta.feebs.top
+onemotoring.vrleryx.top
+onemottoring.top
 onepass-word.com
 oneportfoy.online
 onfirmation-id8764.world
@@ -15092,6 +15139,7 @@ primeheadline.sbs
 primenode.live
 primetrendwave.com
 primexly.com
+primorixplc.shop
 priorityclouddrive365files.com
 prioritysdenvers.com
 prismaticd.pro
@@ -16670,6 +16718,21 @@ sfaasgtqaw.click
 sfawqrtqt.click
 sfjalsflasfaksflkasflkasfljafkasfjasl.sbs
 sfkwfmqfqq.click
+sg.billkeeper.top
+sg.citehub.top
+sg.feery.top
+sg.feevx.top
+sg.fineuno.top
+sg.fnbw.top
+sg.fntb.top
+sg.forfeite.top
+sg.tickdue.top
+sg.tnfl.top
+sg.tnyc.top
+sg.tryf.top
+sg.tszh.top
+sg.vrlia.top
+sg.vrlyu.top
 sgepost.top
 sgk-euravisionix.forum
 sgk-marmaranexis.buzz
@@ -16789,6 +16852,7 @@ singpass.icu
 singpass.sbs
 sinirlar-belirleme-durdur.myonlineportal.ch
 sinirlisayidaurununuz.sbs
+sinirlisayidayayinda.sbs
 sinodo.online
 sintroum.com
 siparilersicinburdayiz.cloud
@@ -18073,6 +18137,7 @@ tcmalisorgu.org
 tcmasakdosya.com
 tcmasakportal.com
 tcpanel.cfd
+tcportal.org
 tcsicil.org
 tcsorgumali.com
 tdm-sec.consulting
@@ -18431,6 +18496,7 @@ tgopartner.com
 tgrgdfgjhhjghj.top
 tgurl.cc
 thalassian.icu
+thalveron.world
 thamosdanismans.com
 thdhay-reslcvonf.world
 the-bull-hotel.com
@@ -19306,7 +19372,9 @@ tttlkkkmcccc.giize.com
 ttttektikklasponsorlurrklam.com
 tttzzdttaasrqw.nicepage.io
 ttv-lg-n-b.my-homeip.net
+ttyz.top
 tubitak4005stefam.blogspot.com
+tuerq1.carrd.co
 tugogroupreceptionz.com
 tuichuleshanxinyijiuer.top
 tukendiamanabizatiyor.sbs
@@ -21511,6 +21579,7 @@ xutuma.com
 xvwt.com
 xwsjl-jjhs-t5dl.p-436szmjv.workers.dev
 xwtw5222s-25252.xyz
+xx00212s021.duckdns.org
 xxbvruuu.click
 xxdfja.help
 xxhhhwwwsddww.duckdns.org

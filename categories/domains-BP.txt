@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33342
-# Last change: 2026-08-14 11:59:15 UTC (sync mode: delta)
+# Records: 33359
+# Last change: 2026-08-14 13:46:58 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -1003,6 +1003,7 @@
 412221222145558999894.duckdns.org
 412221222145558999896.duckdns.org
 412221222145558999897.duckdns.org
+412221222145558999898.duckdns.org
 4124124.duckdns.org
 4124124124.duckdns.org
 41242142142151512421.duckdns.org
@@ -1092,6 +1093,7 @@
 4nx2.com.tr
 4tdzbhfpn5r2.storage.googleapis.com
 4ukwxgexo.icu
+4xasdkadckjasldxkqlwexqw.cfd
 5-552412124rwqfsacgahasfas.sbs
 50-1-11-11-1113r111-11.sbs
 500-basvuru.online
@@ -8074,6 +8076,7 @@ destekleme-basvur.cfd
 desteklerburadan.sbs
 desteklerhakkindabilgi.com
 desteklerimizle.com
+destekmenkuldegerler.net
 destekmerkezi.cfd
 destekmerkezi.click
 destekosgeb.site
@@ -9857,6 +9860,7 @@ esube.hdfonmusteripaneli.com
 esube.hedefonmusteripanel.com
 esube.iknmusteri.online
 esube.prbmenkulyatirim.com
+esube.sumergrup.org
 esubeinf.com
 esubeinfo.com
 esubem--qnbfinansbank.ph
@@ -11982,6 +11986,7 @@ gormediginhergunukacirdiginkampanya.cfd
 gorntleme-likidite-rn.myonlineportal.ch
 gorunlebilenler.com
 goruntule.rf.gd
+gorunum-ayarlar.ink
 goster-sayfalari-trweb-en.za.com
 gosterkeset.click
 gosuwen.shop
@@ -14045,6 +14050,7 @@ hizliebkdaiosyebus.store
 hizliehrmenbdsurgyjkle.online
 hizliehrmenbdsurgyjkle.store
 hizlievim-yuzyil.online
+hizlifilom.com
 hizlifirsatlarimiz.com
 hizlifrsat.com
 hizligcs.app
@@ -15563,10 +15569,12 @@ istanbulbbislemleriniz.click
 istanbulbe.biz
 istanbulbe.click
 istanbulbeelgimcan.xyz
+istanbulbegimcan.xyz
 istanbulbegimkart.xyz
 istanbulbegimsel.xyz
 istanbulbelgimcann.xyz
 istanbulbelgimkart.xyz
+istanbulbelgimlkart.xyz
 istanbulbelgimmcan.xyz
 istanbulbelgimmkart.xyz
 istanbulbelgimmkartcan.xyz
@@ -15697,12 +15705,15 @@ istanbulkuryeler.shop
 istanbullarasana.shop
 istanbullardans.shop
 istanbullardansandan.mooo.com
+istanbullbelggimm.xyz
 istanbullblog2025.myshopify.com
 istanbullccokkguzell.com
 istanbullcokoolay.xyz
 istanbullda.shop
 istanbulldestekburasi.com
 istanbullhizmetleri.com
+istanbulllbelgimcan.xyz
+istanbulllbelgimm.xyz
 istanbullluhemen.com
 istanbullojistik.shop
 istanbullokko.com
@@ -16397,6 +16408,7 @@ joralitho.com
 jorlixen.com
 jornathic.shop
 josterlerkest.duckdns.org
+jott.life
 journey-flex.sbs
 journotix.com
 jovcf.cn
@@ -24884,6 +24896,7 @@ sacldlkfsldsadadgjdasd.sbs
 saclsamkatlk3l4k.club
 saclsamkatlk3l4k.store
 sacrementsr.click
+sacskllkgdcl1k2321kl3123x.shop
 sacxasfafasfdasfarafs.sbs
 sad-tok.com
 sad12213.carrd.co
@@ -27769,6 +27782,9 @@ sulaveti.site
 sultancicekevi.com
 sultandigital.info
 sultanscopextur.cyou
+sumergrup.org
+sumermenkulhaber.com
+sumermenkulyatirim.com
 sumeroxadi.gifts
 summiseek.com
 sunabilen.com
@@ -31480,6 +31496,7 @@ worldoftruth.club
 worldoftruth.info
 worldpressline.com
 worpax.org
+woscarfilo.com
 wotpoc.shop
 wqawqa.qardashlar.cfd
 wqawqa.tadislksaslsssq.cfd
