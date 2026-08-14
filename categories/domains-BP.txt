@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33338
-# Last change: 2026-08-14 10:19:15 UTC (sync mode: delta)
+# Records: 33342
+# Last change: 2026-08-14 11:59:15 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -260,6 +260,7 @@
 10ekim-sabahfirsatlari-101.com
 10ik3v2892b39261n7.space
 10kasimozel.cfd
+10sadcdajdskjakjkx123kx12312.sbs
 10yotlctt.storage.googleapis.com
 1101indirimleri.com
 110v1rvcb.icu
@@ -13545,6 +13546,7 @@ hemengeliyoruz.sbs
 hemengir.lol
 hemengitsinler.click
 hemengitsinlerhemen.click
+hemengor.abrdns.com
 hemenhaber.shop
 hemenhaftas.online
 hemenhazirlarburada.myonlineportal.eu
@@ -15160,6 +15162,7 @@ internete-ozel-firsatlar-mobilde-tr.duckdns.org
 internete-ozel-indirimli-alisveris.ooguy.com
 internete-ozel-mobil-store-tr.site
 internetim.my-homeip.net
+internetkobi.duckdns.org
 internetsitesi.lol
 internetsube-ing.click
 internetsube-qnbfinansbankasi.ph
@@ -18459,6 +18462,7 @@ kobi-kredibilgilendirme.com
 kobi-kredidestek.com
 kobi-krediformu.com
 kobi-projegelistirme.com
+kobi-sube.duckdns.org
 kobibilgi.click
 kobibilgilendirme.cfd
 kobibilgilendirmeleri.com

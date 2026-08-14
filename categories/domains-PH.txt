@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22170
-# Last change: 2026-08-14 10:19:15 UTC (sync mode: delta)
+# Records: 22191
+# Last change: 2026-08-14 11:59:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -2218,6 +2218,7 @@ bedavapanel.net
 bedavapanel.org
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.org
+bedavasorgu.site
 bedavasorgu2026.site
 bedavasorgupaneli.xyz
 bedellimsbhizmetyeri.org
@@ -2665,6 +2666,7 @@ bombclick.org
 bombclick.pro
 bonkorrafael.space
 bonus-btcreferans.com
+bonus-paribureferans.com
 bonus20-referans.com
 bonusfirsat.digital
 bonustivo.com
@@ -5967,6 +5969,7 @@ coralhearth.store
 coralveiltyd.pro
 coralyna.top
 coraran.com
+cordinely.com
 coreanalysis.bond
 coreaspro.com
 corefluxd.pro
@@ -7167,6 +7170,7 @@ eportalasliye.org
 eportalsorgu.org
 epostacozum24.com
 equityva.capital
+equuyl.com
 era7capone.sbs
 era7capone2.sbs
 era7capone5.sbs
@@ -14364,6 +14368,7 @@ parfumfinansapp25.com
 paribu--arabacekilisi.com
 paribu--arabam.com
 paribu--cekilis.com
+paribu--cekilis.live
 paribu--cekilisi.com
 paribu--technology.com
 paribu--tekloloji.com
@@ -14382,15 +14387,19 @@ paribu-arababurada.com
 paribu-arababurada.link
 paribu-arabacekilisi.com
 paribu-arabahediye.com
+paribu-arabahediyem.link
+paribu-arabahediyen.link
 paribu-arabakazan.com
 paribu-arabakazanma.info
 paribu-arabakazanma.link
 paribu-arabasansi.com
 paribu-arabasansi.info
+paribu-arabayakala.link
 paribu-buyukcekilisi.com
 paribu-cark-hediye.com
 paribu-carkcekilisi.com
 paribu-cekilisi.com
+paribu-cekilisi.online
 paribu-cekilisim.live
 paribu-cekilisim.online
 paribu-cekilisleri.com
@@ -14400,13 +14409,20 @@ paribu-cevirkazan.com
 paribu-hediyelicark.com
 paribu-hediyelicekilisi.com
 paribu-pepe-cekilis.com
+paribu-pepe-cekilis.info
 paribu-pepe-cekilis.link
 paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.remotewire.net
 paribu-pepecekilis.com
+paribu-pepecekilis.info
+paribu-pepecekilis.link
 paribu-pepecekilisim.com
+paribu-pepecekilisim.info
+paribu-pepecekilisim.link
+paribu-pepecekilisin.info
+paribu-pepecekilisin.link
 paribu-pepehediyem.com
 paribu-pepehediyem.info
 paribu-pepehediyesi.com
@@ -14426,6 +14442,7 @@ paribuaraba-kazanci.info
 paribuaraba-kazanci.link
 paribuaraba-kazandim.com
 paribuaraba-kazandim.info
+paribuaraba-kazandim.link
 paribuaraba-kazanma.com
 paribuaraba-kazanma.info
 paribuaraba-kazanma.link
@@ -14492,6 +14509,7 @@ paribucark-burada.com
 paribucark-burada.info
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-geldi.info
 paribucark-hediye.com
 paribucark-hediyesi.com
 paribucark-kazan.com
@@ -14502,6 +14520,7 @@ paribucark-oyna.com
 paribucark-oyna.info
 paribucark-oyna.link
 paribucark-surada.com
+paribucark-surada.info
 paribucark.com
 paribucarkhediye.com
 paribucarkicevir.com
@@ -15880,6 +15899,7 @@ rhrkajangcloudz.com
 rhtchie.com
 rhymedream.com
 rhythmora.com
+rhythmza.com
 rideory.com
 riderf1.cyou
 ridermission.com
@@ -16031,6 +16051,7 @@ ryzentix.com
 s-guvenlimuhasebeodemenoktasi.duckdns.org
 s-guvenlisigortaodemenoktasi.duckdns.org
 s-paramguvende.islembilgitr.online
+s-paramguvende.islemonaylatr.online
 s-paramguvende.onaybilgi.online
 s-paramguvende.servisbilgi-tr.online
 s-paramguvende.tr-islem-servisi.online
