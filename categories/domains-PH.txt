@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22823
-# Last change: 2026-08-14 17:14:28 UTC (sync mode: delta)
+# Records: 22833
+# Last change: 2026-08-14 19:16:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -49,6 +49,7 @@
 101-haftanin-firsatlari-dyson-com.duckdns.org
 101-kacmaz3.art
 101-kstra.s3.eu-north-1.amazonaws.com
+101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101-salieylulmarketi.com
 101-tr-bugune-ozel.sponsor-mobil-tr.com
@@ -2195,6 +2196,7 @@ bb-dd-cc-aa-gg.lat
 bb-dd-cc-aa-gg.xyz
 bb444031244402635.duckdns.org
 bbasruvu1-com.cfd
+bbasruvus-com.cfd
 bbay0nl3ndiriliy0rs0n.duckdns.org
 bbvaonlinetr.my-homeip.com
 bbytyzirtar.cfd
@@ -3748,6 +3750,7 @@ cayalleltlering.com
 cayaypaketsin.lat
 caycial.online
 caydanlikburada.vercel.app
+caydanlikburda.vercel.app
 cayfirsatialtili.com
 caykurturkiyeyudum.me
 caylclicimakinlere.com
@@ -6533,6 +6536,7 @@ dijitalkampanyahizmet-ziraatbireysel.sbs
 dijitalkrediler-ziraatmobilbireysel.sbs
 dijitalnetbilgi-giris.sbs
 dijitalreklarnencleritr.space
+dijitalsiparis-kampanyalar.sbs
 dijitalsorgu.org
 dijitaltokiislemlerin.digital
 dijitaltrportal.com
@@ -9269,6 +9273,7 @@ hastaneminkolayi.duckdns.org
 hastaneminkontrolu.cfd
 hastanentente.uk
 hastanerandevsu.mooo.com
+hastanerandevu.uk
 hastanerlere.men
 hastanerndvkntrl.cfd
 hastaneserere.uk
@@ -10761,6 +10766,7 @@ istanbulkqartmsd.store
 istanbulkqhilzsartmsd.store
 istanbulkweb.blogspot.com
 istanbullbelggimkart.xyz
+istanbullbelggimkartu.xyz
 istanbullbiizmlaa.xyz
 istanbullkartv.blogspot.com
 istanbulllbelgimmkart.com
@@ -11669,6 +11675,7 @@ kmpnyaabsvrr12531.online
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaaprmsynnbsvrrr.pro
+kmpnyabsvbrrprmsynn147852.online
 kmpnyacpttbgrs.com
 kmpnyalartukenyrr1o1.xyz
 kmpnyaparmsynnbsvr.art
@@ -13105,6 +13112,7 @@ mhrsrandevualsanala.duckdns.org
 mhrsrandevuekranlarimizzz.duckdns.org
 mhrsrandevuekranwork.duckdns.org
 mhrsrandevular.com
+mhrsrandevumerkezi.myshopify.com
 mhrsrandevun.com
 mhrsrandevuportalimizz.duckdns.org
 mhrsrandevuportalimizzx.duckdns.org
@@ -16619,6 +16627,7 @@ sadescsonlirfisrtalarttrvtrtcctrt.blogspot.com
 sadesocnscfcfirsatlartr.blogdns.com
 sadesocsnfsirsatlartrvc.blogdns.com
 sadfsafsda230203mk.net
+sadimuralme-venere.lol
 sadmsakfdmskqfdfflflfl.net
 sadsaconsfrsdfirsatlar.blogspot.com
 sadsacpmlimfirsatlar.duckdns.org
@@ -22221,6 +22230,7 @@ yanlzhayatzorbdegelbanasorbekan81.info
 yaopeng.icu
 yapcakbiseyyok.click
 yapicajsdkjjk123x123.sbs
+yapikredi.giris.2g0c.com
 yapisalkonutlar.pics
 yapt1gnbosyormmsayessnd.net
 yarakanan.my-homeip.com

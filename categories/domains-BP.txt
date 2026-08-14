@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33364
-# Last change: 2026-08-14 17:14:28 UTC (sync mode: delta)
+# Records: 33365
+# Last change: 2026-08-14 19:16:46 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -5172,6 +5172,7 @@ bireysel-fndex-rapor.sbs
 bireysel-iade-halkbank.ph
 bireysel-internet-basvurular.my-homeip.net
 bireysel-islemler-com-garanti.duckdns.org
+bireysel-islemleriniz-garanti.duckdns.org
 bireysel-kampanya-teb.my-homeip.de
 bireysel-kampanyam.my-homeip.de
 bireysel-kampanyan.my-homeip.net
