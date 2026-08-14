@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33359
-# Last change: 2026-08-14 13:46:58 UTC (sync mode: delta)
+# Records: 33362
+# Last change: 2026-08-14 15:08:58 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -465,6 +465,7 @@
 182-mherase.com
 182-net.com
 182-onlines.cfd
+182-onlines.fun
 182-webhati.com
 182-website.com
 1822-mehares.com
@@ -20681,6 +20682,7 @@ mmhrrksl.com
 mmhrxsranndevv.org
 mmisjr.cc
 mmjhnb.buzz
+mmmmmmm4.duckdns.org
 mmny77ghf3223.duckdns.org
 mmobil-giris-online.cfd
 mmrs-saglik.com
@@ -32597,6 +32599,7 @@ yonlendieiliyorsunuzi2334.duckdns.org
 yonlendiliyorsudi2sa.duckdns.org
 yonlendinizkis.duckdns.org
 yonlendir-559125.strangled.net
+yonlendir-sifre-guncel.ink
 yonlendirbeni.club
 yonlendirbeni.net
 yonlendirbenibebek.my-homeip.com
