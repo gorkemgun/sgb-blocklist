@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22833
-# Last change: 2026-08-14 19:16:46 UTC (sync mode: delta)
+# Records: 22836
+# Last change: 2026-08-14 19:59:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -7238,6 +7238,7 @@ erenokyaltirak2.sbs
 erenokyaltirak5.sbs
 erken-randevuhizmetleri.com
 erkendenalma.duckdns.org
+erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
 erkndn1-82rvdalsn.org
@@ -11676,6 +11677,7 @@ kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaaprmsynnbsvrrr.pro
 kmpnyabsvbrrprmsynn147852.online
+kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyalartukenyrr1o1.xyz
 kmpnyaparmsynnbsvr.art
@@ -19599,6 +19601,7 @@ toplukonutidaresigungecmiyoryenibiseyolmasin.vercel.app
 toplukonutonay.xyz
 toplukonutprojesi.com
 toplukonutsignalgiris.vercel.app
+topluluk-t.garden
 topluluknet.org
 toplumpenceresi.com
 toplumraporu.com

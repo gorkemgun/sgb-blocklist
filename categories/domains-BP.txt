@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33365
-# Last change: 2026-08-14 19:16:46 UTC (sync mode: delta)
+# Records: 33367
+# Last change: 2026-08-14 19:59:40 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -2427,6 +2427,7 @@ akbank-isube.ph
 akbank-odeme.social-networking.me
 akbank-pw.hizliyatirim.net
 akbank-synthetics.acmx.ai
+akbank.com.ph
 akbankasi.online
 akbankdirekmobil.ph
 akbankdireksube.ph
@@ -6931,6 +6932,7 @@ cepsiparisi.cfd
 cepsube-finansbank.ph
 cepte-esube.my-homeip.net
 cepte-extra-mobilde-tr.click
+cepte-islemleriniz-garanti.duckdns.org
 cepte-kampanya-2026.cfd
 cepte-kapida-sokfirsati.cfd
 cepte-mobil-teb.my-homeip.de
