@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22840
-# Last change: 2026-08-14 21:43:20 UTC (sync mode: delta)
+# Records: 22842
+# Last change: 2026-08-14 22:43:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -614,6 +614,7 @@
 928167.store
 9354.click
 9375w5vx29p.icu
+9521487prmsynnnbsvrrkmpnyasnfrrstr.info
 9521487prmsynnnbsvrrkmpnyasnfrrstr.online
 95463visitor.com
 95874bsvrsuukrediikmpnyssi.online
@@ -10634,6 +10635,7 @@ isimdesinburada.duckdns.org
 isisjaofnsormwo.cfd
 iskampanyasub3.sbs
 iskampanyasum4.xyz
+isko-web.ink
 iskurkosgeb.com
 islakkurusupurgee.click
 islem-sorgulama-merkez-ekrani.cyou

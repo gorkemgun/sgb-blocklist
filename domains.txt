@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 60753
-# Last change: 2026-08-14 21:43:20 UTC (sync mode: delta)
+# Records: 60755
+# Last change: 2026-08-14 22:43:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -2304,6 +2304,7 @@
 94393942242.click
 94812831283.site
 951891598x.com
+9521487prmsynnnbsvrrkmpnyasnfrrstr.info
 9521487prmsynnnbsvrrkmpnyasnfrrstr.online
 95463visitor.com
 95874632kmpnyaabsvrrprsmynn.info
@@ -27946,6 +27947,7 @@ iskaarttt.shop
 iskampanyasub3.sbs
 iskampanyasum4.xyz
 iskampanyaweb.xyz
+isko-web.ink
 iskred.qss.onl
 iskurbasvur.ph
 iskurkosgeb.com
