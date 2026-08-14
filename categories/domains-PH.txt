@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22153
-# Last change: 2026-08-14 08:39:17 UTC (sync mode: delta)
+# Records: 22170
+# Last change: 2026-08-14 10:19:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1109,6 +1109,7 @@ amirikar.com
 amironlabs.site
 among.tattvastudio.site
 amonntree.com
+amplifyko.com
 ampsenergia.org
 amritsarglow.com
 amsbinformbook.com
@@ -1648,6 +1649,7 @@ avm-satinal.com
 avmbireyselsepet.com
 avonelis.asia
 avorilla.com
+avrupadiyalog.net
 avscarfilo.net
 avscarfilom.com
 avscarrental.net
@@ -2662,6 +2664,7 @@ bom7.rilo.coinbase-com.info
 bombclick.org
 bombclick.pro
 bonkorrafael.space
+bonus-btcreferans.com
 bonus20-referans.com
 bonusfirsat.digital
 bonustivo.com
@@ -6486,6 +6489,7 @@ dijital-islemler.sbs
 dijital-islemlerbilgi.sbs
 dijital-islemleriniz.sbs
 dijital-kampanyaindirimler.sbs
+dijital-kampanyalarindirim.sbs
 dijital-servisler.sbs
 dijitalacentasorgulama.org
 dijitalalan.sbs
@@ -6733,6 +6737,7 @@ dshjfdf.oss-cn-hongkong.aliyuncs.com
 dsiuhfraosd.click
 dskflkaksldklcasx123x12.cfd
 dsmdwnqkdw.sbs
+dstndnstnckym.click
 dsytr-mloit-aqpolrt.com
 dtbwebwrngryn.sbs
 dubai-checkhotels.world
@@ -7054,6 +7059,7 @@ ekstraindirimfrsat.com
 ekwlqrsgm.sbs
 eladjiomasek.top
 elaexallance.com
+elaexxalence.com
 elaexxellanceresorts.net
 elapse.coinbase-com.info
 elativexona.sbs
@@ -11579,6 +11585,7 @@ kocfiinance.com
 kocfiloo.com
 kocfilosu.com
 kocfinanssecimtestiozelsecimprogrami.click
+kochold.eu
 kocholdin.eu
 kockor.tr
 kockurumsal.rent
@@ -12931,6 +12938,7 @@ mock.zuyistoo.today
 modelbuilder.xyz
 modernatx-zoom.com
 modernbrench.com
+modernki.com
 modernpressnote.com
 modernsorgulamam.shop
 modernsupplyhub.shop
@@ -13437,6 +13445,7 @@ nileora.sbs
 nilohipolna-katore.lol
 nilokalisra-solere.lol
 nimbisan.com
+nimbosity.world
 nimetbalikci1-193f7d85c066.herokuapp.com
 nimetistanbul.net
 nineki.online
@@ -13790,6 +13799,7 @@ onayekraniniz-sorogrengiris.sbs
 onayekrniniz-sorupogren.sbs
 onaylisatici.com
 onaylisatici.online
+onayvermebana.art
 oncekivesonraki.sbs
 ondanbndansndanszden.shop
 ondofinance.tech
@@ -14390,10 +14400,12 @@ paribu-cevirkazan.com
 paribu-hediyelicark.com
 paribu-hediyelicekilisi.com
 paribu-pepe-cekilis.com
+paribu-pepe-cekilis.link
 paribu-pepe-cekilisi.com
 paribu-pepe-cekilisi.giize.com
 paribu-pepe-cekilisi.info
 paribu-pepe-cekilisi.remotewire.net
+paribu-pepecekilis.com
 paribu-pepecekilisim.com
 paribu-pepehediyem.com
 paribu-pepehediyem.info
@@ -14475,9 +14487,12 @@ paribuarabayolunda.com
 paribuarabazamani.com
 paribubonuscarki.com
 paribubuyukcekilisi.com
+paribucark-alhediye.com
 paribucark-burada.com
+paribucark-burada.info
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-hediye.com
 paribucark-hediyesi.com
 paribucark-kazan.com
 paribucark-kazanci.com
@@ -14486,6 +14501,7 @@ paribucark-kazanci.link
 paribucark-oyna.com
 paribucark-oyna.info
 paribucark-oyna.link
+paribucark-surada.com
 paribucark.com
 paribucarkhediye.com
 paribucarkicevir.com
@@ -21271,6 +21287,7 @@ wvwtrbinance.click
 ww3.156953coinbase.com
 wwdx23b3.duckdns.org
 wwebsolympialocasly.com
+www-brauntr.com
 www-fifa.com
 www-fifa.me
 www-fifaworldcup.com
