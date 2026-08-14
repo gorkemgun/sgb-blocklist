@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22811
-# Last change: 2026-08-14 15:08:58 UTC (sync mode: delta)
+# Records: 22816
+# Last change: 2026-08-14 16:07:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1815,6 +1815,7 @@ basralibsru.sbs
 basriasrl.shop
 basruvu-oik.cfd
 basruvu-oil.cfd
+basruvu-unnb.cfd
 basruvu-usk.cfd
 bassfishinelectronics.top
 basurvu-y.cfd
@@ -2192,6 +2193,7 @@ bb-bb-vv-aa-ss-dd.xyz
 bb-dd-cc-aa-gg.lat
 bb-dd-cc-aa-gg.xyz
 bb444031244402635.duckdns.org
+bbasruvu1-com.cfd
 bbay0nl3ndiriliy0rs0n.duckdns.org
 bbvaonlinetr.my-homeip.com
 bbytyzirtar.cfd
@@ -3982,6 +3984,7 @@ ciutat-girona.cfd
 civanto.info
 cixlvs.cc
 cixpda.cc
+cjghnb555.duckdns.org
 ckitu.online
 cklsprmsynkmpnyabsvruuu.info
 cktilingservice.com.au
@@ -11193,6 +11196,7 @@ karacatc.com
 karacatcb.cfd
 karacatr.homes
 karacatr.shop
+karacatronline.shop
 karacaveg.homes
 karadenizturlari.net
 karagozototamir.com
@@ -16488,6 +16492,7 @@ ruhsuzpanel.site
 ruhsuzpanel1.site
 ruhsuzpanel5.site
 ruhsuzpanel6.site
+ruhsuzpanel7.site
 rumahkayu-resort.com
 rumahkayuresort-iso.com
 rumorliner.com

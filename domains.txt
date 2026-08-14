@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 60719
-# Last change: 2026-08-14 15:08:58 UTC (sync mode: delta)
+# Records: 60724
+# Last change: 2026-08-14 16:07:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -6290,6 +6290,7 @@ basriasrl.shop
 basrolsensiin.lat
 basruvu-oik.cfd
 basruvu-oil.cfd
+basruvu-unnb.cfd
 basruvu-usk.cfd
 basruvular.hegikeiroz.workers.dev
 basruvularim.online
@@ -7416,6 +7417,7 @@ bb444031244402635.duckdns.org
 bb555503141520554.duckdns.org
 bb66666200120666416.duckdns.org
 bb9933322c23442.shop
+bbasruvu1-com.cfd
 bbasvru-yyap.cfd
 bbav.bbvaprmsynkmpnyabsvr.info
 bbav.garantibbvakredibasvuru.com
@@ -11967,6 +11969,7 @@ cizgicicek.net
 ciziyoruzsolsag.click
 cj06y9v4xab.com
 cjby76nlcynrc4jvrb.com
+cjghnb555.duckdns.org
 cjitdrpwnna.mswinsoftupdload.design
 cjsdetailingcedarburg.net
 ck69a0kmpnya.store
@@ -30216,6 +30219,7 @@ karacatcb.cfd
 karacatr.com
 karacatr.homes
 karacatr.shop
+karacatronline.shop
 karacaveg.homes
 karacawz.shop
 karacayeni.com
@@ -44646,6 +44650,7 @@ ruhsuzpanel.site
 ruhsuzpanel1.site
 ruhsuzpanel5.site
 ruhsuzpanel6.site
+ruhsuzpanel7.site
 rumahkayu-resort.com
 rumahkayuresort-iso.com
 rumi.kumsaati.sbs
