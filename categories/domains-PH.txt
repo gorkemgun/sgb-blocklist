@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 22144
-# Last change: 2026-08-14 06:45:26 UTC (sync mode: full)
+# Records: 22153
+# Last change: 2026-08-14 08:39:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -677,6 +677,7 @@ a101-com-tr-aldin-aldin-extra-online.elenamasaj.com
 a101-ekstra.s3.eu-north-1.amazonaws.com
 a101.club
 a1011kacmaz-lndirim-firsatlari.com
+a101aktuelfiyatlari.com
 a101alisverise.shop
 a101extrakatalog.site
 a101katalogguncel.duckdns.org
@@ -8082,6 +8083,7 @@ galiba.jaguar-style.cfd
 gallerybox.pics
 gallerymission.com
 galthira.com
+gamaforge.com
 gameguy.neocities.org
 gamiunk.com
 garadato-id5972.world
@@ -10124,6 +10126,7 @@ ilanlarimode.shop
 ilanservis-odemehizmetler.online
 ile-alisverislerini-tamamlama.com
 ile-e-sepetler.com.tr
+ile-guvende-islemini-yap.com
 ile-sepetlerim.com.tr
 ileribakislar.com
 ilerivizyonrotasi.com
@@ -14379,6 +14382,7 @@ paribu-cark-hediye.com
 paribu-carkcekilisi.com
 paribu-cekilisi.com
 paribu-cekilisim.live
+paribu-cekilisim.online
 paribu-cekilisleri.com
 paribu-cekilislerim.live
 paribu-cekilislerim.online
@@ -16486,6 +16490,7 @@ selectumfamilyhotels.com
 selectumluxuryresorts.com
 selgebeachmanavgat.com
 selgebeachresortside.com
+selgebeachs.com
 selgebeachsresorts.com
 selgehotels.com
 selgeotelside.com
@@ -21749,12 +21754,16 @@ ynlyrzbrdanorygldnbs.bond
 ynwp.coinbase-com.info
 yogabloom.icu
 yogasoul.icu
+yolarabakirala.com.tr
+yolaracfilo.com.tr
+yolarackirala.com.tr
 yolcu.360-cepte-tr.com
 yolcu.obilet-tr.uk
 yolcuarackirala.com.tr
 yolcuarackiralama.com.tr
 yolculuk.obilet-tr.uk
 yolcurentacar.net
+yolfilokirala.com.tr
 yolgezgin.com
 yolgoarackiralama.com
 yolixarackiralama.com

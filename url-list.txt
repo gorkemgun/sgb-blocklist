@@ -2618,6 +2618,7 @@ a1011kacmaz-lndirim-firsatlari.com
 a1013.corepulse.sbs
 a101a101.shop
 a101aktuelburada.com
+a101aktuelfiyatlari.com
 a101aldn.duckdns.org
 a101aldnaldnkampanya.xyz
 a101alisverise.shop
@@ -20764,6 +20765,7 @@ gallerybox.pics
 gallerymission.com
 galthira.com
 galuthabbey.sbs
+gamaforge.com
 gameguy.neocities.org
 gameingarea.com
 gamelab.sbs
@@ -26675,6 +26677,7 @@ ile-alisverislerini-tamamlama.com
 ile-e-islem.com.tr
 ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
+ile-guvende-islemini-yap.com
 ile-guvenle-islemlerim.com
 ile-guvenle-web-islem.com
 ile-guvenli-siparisver.com
@@ -40003,6 +40006,7 @@ paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
 paribu-cekilisim.live
+paribu-cekilisim.online
 paribu-cekilisleri.com
 paribu-cekilislerim.live
 paribu-cekilislerim.online
@@ -45796,6 +45800,7 @@ selfad.gleeze.com
 selfcurious.com
 selgebeachmanavgat.com
 selgebeachresortside.com
+selgebeachs.com
 selgebeachsresorts.com
 selgehotels.com
 selgeotelside.com
@@ -58718,6 +58723,9 @@ yokedenbomba.cfd
 yokettiksizi.click
 yokneymisusommus.duckdns.org
 yol-hzmtgcis.mooo.com
+yolarabakirala.com.tr
+yolaracfilo.com.tr
+yolarackirala.com.tr
 yolarackiralama.com.tr
 yolcu-destek.shop
 yolcu.360-cepte-tr.com
@@ -58732,6 +58740,7 @@ yolculuk.obilet-tr.uk
 yolculukist.click
 yolcuotokirala.com.tr
 yolcurentacar.net
+yolfilokirala.com.tr
 yolgecisihlalbrcnodme.com
 yolgezgin.com
 yolgoarackiralama.com
@@ -67454,6 +67463,7 @@ zzb.bz/kobihalk
 14.18.141.27
 14.22.117.103
 14.46.136.77
+14.49.163.100
 14.49.164.116
 14.63.23.195
 14.103.104.162
@@ -72112,6 +72122,7 @@ zzb.bz/kobihalk
 85.9.126.76
 85.11.167.19
 85.11.167.101
+85.11.167.109
 85.11.167.121
 85.11.167.201
 85.11.167.203
@@ -79583,6 +79594,7 @@ zzb.bz/kobihalk
 186.68.51.159
 186.68.83.104
 186.90.153.162
+186.96.158.180
 186.112.198.62
 186.118.223.61
 186.121.195.22

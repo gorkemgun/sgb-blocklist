@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 59989
-# Last change: 2026-08-14 06:45:26 UTC (sync mode: full)
+# Records: 59998
+# Last change: 2026-08-14 08:39:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -2622,6 +2622,7 @@ a1011kacmaz-lndirim-firsatlari.com
 a1013.corepulse.sbs
 a101a101.shop
 a101aktuelburada.com
+a101aktuelfiyatlari.com
 a101aldn.duckdns.org
 a101aldnaldnkampanya.xyz
 a101alisverise.shop
@@ -20768,6 +20769,7 @@ gallerybox.pics
 gallerymission.com
 galthira.com
 galuthabbey.sbs
+gamaforge.com
 gameguy.neocities.org
 gameingarea.com
 gamelab.sbs
@@ -26679,6 +26681,7 @@ ile-alisverislerini-tamamlama.com
 ile-e-islem.com.tr
 ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
+ile-guvende-islemini-yap.com
 ile-guvenle-islemlerim.com
 ile-guvenle-web-islem.com
 ile-guvenli-siparisver.com
@@ -40007,6 +40010,7 @@ paribu-cekilis.co
 paribu-cekilisi.com
 paribu-cekilisim.co
 paribu-cekilisim.live
+paribu-cekilisim.online
 paribu-cekilisleri.com
 paribu-cekilislerim.live
 paribu-cekilislerim.online
@@ -45800,6 +45804,7 @@ selfad.gleeze.com
 selfcurious.com
 selgebeachmanavgat.com
 selgebeachresortside.com
+selgebeachs.com
 selgebeachsresorts.com
 selgehotels.com
 selgeotelside.com
@@ -58722,6 +58727,9 @@ yokedenbomba.cfd
 yokettiksizi.click
 yokneymisusommus.duckdns.org
 yol-hzmtgcis.mooo.com
+yolarabakirala.com.tr
+yolaracfilo.com.tr
+yolarackirala.com.tr
 yolarackiralama.com.tr
 yolcu-destek.shop
 yolcu.360-cepte-tr.com
@@ -58736,6 +58744,7 @@ yolculuk.obilet-tr.uk
 yolculukist.click
 yolcuotokirala.com.tr
 yolcurentacar.net
+yolfilokirala.com.tr
 yolgecisihlalbrcnodme.com
 yolgezgin.com
 yolgoarackiralama.com
