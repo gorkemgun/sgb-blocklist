@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100316
-# Last change: 2026-08-15 13:01:04 UTC (sync mode: delta)
+# Records: 100321
+# Last change: 2026-08-15 13:45:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25608,6 +25608,7 @@ diijiital-vakifbank-platform-com-tr.tk
 diiveindulge.top
 dij-ital.store
 diji-internetsiparis.sbs
+diji-mobile.shop
 diji-siparis.sbs
 dijicuucey.com
 dijiitallgarantibasvuru.com
@@ -35360,6 +35361,7 @@ garentada360.ml
 garentadayrent.com
 garentadays.shop
 garentae.com
+garentafilokurumsal.com
 garentaglobal.com
 garentahemen.com.tr
 garentaherzaman.com
@@ -42335,6 +42337,7 @@ hockeymaternal.top
 hockeynickname.top
 hockypresents.com
 hodenserholse.com
+hodenstler.duckdns.org
 hodeslerkest.duckdns.org
 hoeemetst.icu
 hoeworkbscrity.top
@@ -55305,6 +55308,7 @@ maksisafe.com
 maksodemem.com
 maleoz.website
 malerai.com
+malerdenlerdens.duckdns.org
 malescorn.top
 malespectacular.top
 malibirim.com
@@ -56758,6 +56762,7 @@ melarion.site
 melekekosa.click
 melekoomekas.redirectme.net
 melekosaks.xyz
+melerdesladwsw.duckdns.org
 meletianas.com
 melihasubesinde.com.tr
 melikbey.online
