@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 60755
-# Last change: 2026-08-14 22:43:18 UTC (sync mode: delta)
+# Records: 60758
+# Last change: 2026-08-15 04:49:28 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -42718,6 +42718,7 @@ pttavmkmportal.web.app
 pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgulama.com
+pttavmkmsorgum.com
 pttavmkmsorgumerkezi.web.app
 pttavmonlineguvence.com
 pttavmonlineislemlerim.com
@@ -55138,6 +55139,7 @@ ust-kurulusweby.myonlineportal.ch
 ustaseti.com
 ustaseti.sbs
 ustkoanicaken.xyz
+ustumuzeyokbualemdeeee.digital
 uswebzoomus.com
 utacanon2xs.cfd
 utah.gov-etcfr.win
@@ -60257,6 +60259,7 @@ zir-sorgu.nicepage.io
 zira-a-t-bireysel-basvuru-ekran.my-homeip.de
 zira-a-t-login-page.my-homeip.de
 zira-at-basvuru-sureci.my-homeip.de
+zira-trade.icu
 zira1at-1.click
 ziraa-at.cfd
 ziraa-t-bireysel-giris-yap-internet.my-homeip.de

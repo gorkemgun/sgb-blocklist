@@ -42714,6 +42714,7 @@ pttavmkmportal.web.app
 pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgulama.com
+pttavmkmsorgum.com
 pttavmkmsorgumerkezi.web.app
 pttavmonlineguvence.com
 pttavmonlineislemlerim.com
@@ -55134,6 +55135,7 @@ ust-kurulusweby.myonlineportal.ch
 ustaseti.com
 ustaseti.sbs
 ustkoanicaken.xyz
+ustumuzeyokbualemdeeee.digital
 uswebzoomus.com
 utacanon2xs.cfd
 utah.gov-etcfr.win
@@ -60253,6 +60255,7 @@ zir-sorgu.nicepage.io
 zira-a-t-bireysel-basvuru-ekran.my-homeip.de
 zira-a-t-login-page.my-homeip.de
 zira-at-basvuru-sureci.my-homeip.de
+zira-trade.icu
 zira1at-1.click
 ziraa-at.cfd
 ziraa-t-bireysel-giris-yap-internet.my-homeip.de

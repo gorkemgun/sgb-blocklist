@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 33367
-# Last change: 2026-08-14 19:59:40 UTC (sync mode: delta)
+# Records: 33368
+# Last change: 2026-08-15 04:49:28 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -23841,6 +23841,7 @@ pttavmkilometresorgu.com
 pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgulama.com
+pttavmkmsorgum.com
 pttavmonlineguvence.com
 pttavmonlineislemlerim.com
 pttavmonlinemagaza.com
