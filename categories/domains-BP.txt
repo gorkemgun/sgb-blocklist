@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257192
-# Last change: 2026-08-15 15:37:55 UTC (sync mode: delta)
+# Records: 257196
+# Last change: 2026-08-15 18:49:11 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -147515,6 +147515,7 @@ kgmgovcoio.top
 kgmgovconc.top
 kgmgovet.cfd
 kgmgovetctr.com
+kgmgovhelp.cc
 kgmgovitr.top
 kgmgovm.top
 kgmgovr.top
@@ -148210,6 +148211,7 @@ kiralikarac-otocars.tk
 kiralikarac360.com
 kiralikarac360.nl
 kiralikaracinizburada.com
+kiralikaraclarimislemler.com
 kiralikaraclarinizburda.store
 kiralikaraclarinizla.site
 kiralikaraclaronlinehizmetbudur.com.tr
@@ -170738,6 +170740,7 @@ olbmblm.icu
 olcakolcak.click
 olcumerkezi.com
 olcumt-grenaysdir.myonlineportal.ch
+old.evsahibibasvuru.com
 older-listings-rebate-chose.trycloudflare.com
 oldguardname.click
 oldhgs.com
@@ -222415,6 +222418,7 @@ trhalksubesii.com
 trhazine-govtr.com
 trhazinebakanligi.com
 trhazinegovaidaatt12.com
+trhazinemasak.org
 trhazinengirisgovuk.com
 trhazinengirisgovuktr.com
 trhesap.online

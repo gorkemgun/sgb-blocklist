@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100333
-# Last change: 2026-08-15 17:38:36 UTC (sync mode: delta)
+# Records: 100337
+# Last change: 2026-08-15 18:49:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -764,6 +764,7 @@
 182-web.xyz
 182-webb.sbs
 182-webb.xyz
+182-webs.biz
 182-webs.online
 182-webs.sbs
 182-weeb.net
@@ -11054,6 +11055,7 @@ battoc.online
 battterybrake.com
 batuflex4.site
 batuflexmarka.cc
+batuhancicekcilik.com.tr
 batzhyxdezt8ngy.bar
 baukartech.com
 baumtransporte.com
@@ -32989,6 +32991,7 @@ filorentcars.com
 filorentecar.com.tr
 filorenthizlikirala.online
 filorentkirala.com
+filorentkoc.net
 filorenttkiralama.com
 filormo.site
 filoservisim.com
@@ -57302,6 +57305,7 @@ mhhrsvatandasgiris.duckdns.org
 mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
+mhkasdmk3474578f.com
 mhlasdkrnd.com
 mhldkrsd.com
 mhldsahlads.com
