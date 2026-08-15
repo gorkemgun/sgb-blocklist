@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100321
-# Last change: 2026-08-15 13:45:07 UTC (sync mode: delta)
+# Records: 100330
+# Last change: 2026-08-15 15:37:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18327,6 +18327,7 @@ ciceksaati.net
 ciceksaati.vip
 ciceksaatim.shop
 ciceksabv.com
+ciceksepetci.com
 ciceksepeti.hicaku.com
 ciceksepetim.org.tr
 ciceksiparisleriniz.com
@@ -18847,6 +18848,7 @@ clubarmoniahotel.com
 clubbestdeal.com
 clubdatcahotel.com
 clubesthetic.top
+clubletooniafethiye.com
 clubunfold.top
 cludbeds-reserv-compl.com
 clueindex.com
@@ -30700,6 +30702,7 @@ eszoliso.site
 et-distinctio.com
 et1ilis.xdk8ax.cn
 etahsilatkgm.net
+etakip.org
 etaksitode.net
 etalimatdosya.org
 etalimatkamu.org
@@ -35430,6 +35433,7 @@ garga.elifrxckstar.pro
 gargasgara.com
 gargofark.sorgupanel.net
 garik-sukachev.com
+garikalisna-solere.lol
 garislennmenleritemmuzfrsatalr.site
 garlhahmencene.com
 garlicdinosaur.top
@@ -39258,6 +39262,7 @@ haberler-turkei-today.online
 haberler.dyndns.tv
 haberler.today
 haberler112233.shop
+haberler11278945.shop
 haberler12348.shop
 haberler131231123.site
 haberler1436542.sbs
@@ -42161,6 +42166,7 @@ hizmetleriniz.com.tr
 hizmetlerionline.graduatecommunications.com
 hizmetlerionline.vitamoshop.com
 hizmetlerionline.webrotnotr.space
+hizmetlermizdnens.click
 hizmetlermzokul.com
 hizmetlistem.net
 hizmetnoktalari.xyz
@@ -68384,6 +68390,7 @@ prikvetin.pro
 prim21aryrazor.top
 primaryedit.top
 primarypredominance.top
+prime-store-tr.online
 primeaktielndrim.net
 primebulletin.world
 primecheck.com.tr
@@ -68406,6 +68413,7 @@ primetrendwave.com
 primexly.com
 primitivebuffalo.top
 primkontrol.com
+primmenkulportfoyweb.com
 primorixplc.shop
 princebarren.top
 principaldeportation.top
@@ -76646,6 +76654,7 @@ sepetimde.xyz
 sepetimdeindirimleriyakala.com
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.store
 sepetimdinr.shahiyarran.sbs
 sepetimm-zamanii-a101.shop
 sepetimonay.click

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257177
-# Last change: 2026-08-15 08:47:17 UTC (sync mode: delta)
+# Records: 257192
+# Last change: 2026-08-15 15:37:55 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -24268,6 +24268,7 @@ alianacbaba.net
 alianacbaba.org
 aliayseyisevirsebendeseniseviyorum.cfd
 alibaba-t.com
+alibaba-zenithbank-garantibbva.com.ph
 alibabanin-ciftligi.com
 alibabaninciftligi.cfd
 alibabaninciftligiq1k212512-12521.com
@@ -25290,6 +25291,7 @@ amazon-berrypopterbaik8945tuh8345-goblok.com
 amazon-com-primeverification.com
 amazon-customerservice.masukyasayang.com
 amazon-customerservice.warkopskuyy.com
+amazon-garantibbva.ph
 amazon-primekolerbiee-09ed8w.com
 amazon-security-signed-in-uknown-access.sups-amzintlp.com
 amazon-signinauths.dynv6.net
@@ -25321,6 +25323,7 @@ amcodeme.22web.org
 amdankent.net
 amdi3corex.cfd
 amele.cfd
+ameli-garantibbva-appi.ph
 ameli-verification.com
 amend-bills.com
 amenorrheaslir.com
@@ -35886,6 +35889,7 @@ bbv387.com
 bbv4344.xyz
 bbva---2024-tr.shop
 bbva-9sd8fg9v9.com
+bbva-adyen-garantibbva.com.ph
 bbva-avisos-seguridad.com
 bbva-basvuru.click
 bbva-basvuru.help
@@ -36960,6 +36964,7 @@ bella-garden-2.site
 bellalegal.online
 bellami-designboutique.com
 bellawynn.com
+bellgarantibbva.ph
 bellinntorn.com
 bellonaonlineozel.duckdns.org
 belloprops.com
@@ -70757,6 +70762,8 @@ discounthaven.website
 discountlovers.club
 discounts-all-products.club
 discountshein.shop
+discover-garantibbva.com.ph
+discovergarantibbva.com.ph
 discoverislem.22web.org
 discriminatepiggy.digital
 discs-celebs-chelsea-leone.trycloudflare.com
@@ -97649,6 +97656,7 @@ garantibbva-com-tr.replit.app
 garantibbva-com-tr.space
 garantibbva-com.tk
 garantibbva-credit.com
+garantibbva-creditsuisse.ph
 garantibbva-dijital-kredihizli.online
 garantibbva-duyuru.com
 garantibbva-emeklilik.com
@@ -97719,6 +97727,7 @@ garantibbva-krediye-online-basvur.duckdns.org
 garantibbva-krediye-online-basvuru.duckdns.org
 garantibbva-krediye-onlinebasvur.duckdns.org
 garantibbva-mobil.life
+garantibbva-netflix.ph
 garantibbva-online-kredi-basvu.duckdns.org
 garantibbva-online-kredi-basvur.duckdns.org
 garantibbva-online-kredi-basvuru.duckdns.org
@@ -97822,6 +97831,7 @@ garantibbvaa.com
 garantibbvaa.mooo.com
 garantibbvaa.tk
 garantibbvaai.com.tr
+garantibbvaais.ph
 garantibbvabank.biz
 garantibbvabank.com
 garantibbvabank.info
@@ -97856,6 +97866,7 @@ garantibbvacom.com
 garantibbvacomtr.fun
 garantibbvacomtr.site
 garantibbvacomtr.space
+garantibbvacreditsuisse.ph
 garantibbvacrypto.com
 garantibbvadaimayaninda.tk
 garantibbvadekont.app
@@ -97907,6 +97918,7 @@ garantibbvakampanyasi2022.ml
 garantibbvakartaidatiadesistemi.com
 garantibbvakartaidatiadesistemi.net
 garantibbvakartaidatiadesistemi.org
+garantibbvakasikornbank.ph
 garantibbvakasim.com
 garantibbvakolaykampanya.tk
 garantibbvakonserv.com
@@ -97988,6 +98000,7 @@ garantibbvateyitmerkezi1.duckdns.org
 garantibbvatk.com
 garantibbvatoken.com
 garantibbvatoken.world
+garantibbvatoyota.ph
 garantibbvatr.com
 garantibbvatr.tk
 garantibbvatr.wordpress.com
@@ -149394,6 +149407,7 @@ kmpnyaabsvrrprmsyyy.live
 kmpnyaabsvrrprmsyyy.pro
 kmpnyaabsvrrraafinnss.click
 kmpnyaabsvrrrgrnntt.click
+kmpnyaabsvrrrhksnfrstlarrr.info
 kmpnyaabsvrrrprmo.click
 kmpnyaabsvrrrprmsynnn.art
 kmpnyaabsvrrrprmsynnn.info
@@ -166604,6 +166618,7 @@ netdenkampanya.my-homeip.net
 netdestekler.tk
 netdizayn.xyz
 netdunya.online
+neteller-garantibbva.ph
 netfaturaode.com
 netfaturaodeme.club
 netfaturaservis.com
