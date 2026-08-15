@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100301
-# Last change: 2026-08-15 07:45:42 UTC (sync mode: delta)
+# Records: 100316
+# Last change: 2026-08-15 13:01:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1449,6 +1449,7 @@
 3.fazpandemidestekyardimi.unaux.com
 301link.click
 3021.unsisany.live
+303030kkkd.nicepage.io
 309.nestarwell.live
 30agustos-sabah.art
 30ekimozel.online
@@ -11473,6 +11474,7 @@ bayrmozelsifir99erteleme.online
 bayrxma-ozl-firstt.com
 bayyraminenguzelurnnleri.com
 bayyrrramozellbassvurrukuveyttturkk62.net
+baz777.site
 bazjdgiesjfcouwgza.click
 bb-bb-vv-aa-ss-dd.xyz
 bb-dd-cc-aa-gg.lat
@@ -25640,6 +25642,7 @@ dijital-kampanyalarindirim.sbs
 dijital-katilim.net
 dijital-mobiluyelikks.ml
 dijital-online.website
+dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
 dijital-sube.dev
 dijital-subesizgiris.net
@@ -26880,6 +26883,7 @@ dosyadava.com
 dosyaform.com
 dosyagoruntuleme.org
 dosyahmb.net
+dosyaincele.org
 dosyainceleme.com
 dosyaislemlerim.com
 dosyakapisi.com
@@ -29245,6 +29249,7 @@ elektronik-urunler.online
 elektronikalisveris.net
 elektronikalisverisim.com.tr
 elektronikdevletsiste-miiad-e.com
+elektronikdtm.com
 elektronikgirisiadelerim.de
 elektronikhizmet.com.tr
 elektronikortam-odme.online
@@ -42317,6 +42322,7 @@ hobannweklkswe.com
 hobbejstlerkester.duckdns.org
 hobbycaptain.top
 hobesletr.duckdns.org
+hobestlerkest.duckdns.org
 hobyerim.net
 hobyjv.cc
 hoca-yesevi.org
@@ -49608,6 +49614,7 @@ karacafirsatlari.online
 karacagranit.nicepage.io
 karacahome-firsatlar.site
 karacahome.vercel.app
+karacahomes.shop
 karacaileramazan.cfd
 karacaistnye.cfd
 karacakaracamhpme.com.tr
@@ -49619,6 +49626,8 @@ karacan-cepte.info.tr
 karacaocakta.com
 karacaonline.org.tr
 karacaonline.store
+karacaonlinetr.shop
+karacasell.shop
 karacasofrac.homes
 karacasofras.homes
 karacastore.club
@@ -58306,6 +58315,7 @@ modelmonopolize.top
 modelolustur.online
 modelrenaissance.top
 modelsynthetic.top
+modelturizm.com
 modelunveil.top
 modenihost.top
 moderateradiate.top
@@ -59682,6 +59692,7 @@ nae1o1.store
 nafnaklerqeawas.net
 nafselaerasa.net
 naftolinne.com
+nahis.online
 naidistortio.top
 nailabnormal.top
 nailsuffice.top
@@ -64311,6 +64322,7 @@ otokoctr.net
 otokoctr.rent
 otokoctturkiye.com
 otokocturkey.com
+otokocturkeyfilo.net
 otolaraviskiralama724.site
 otomarket.info
 otomatik-verg.com
@@ -71264,6 +71276,7 @@ readingsubmarine.top
 readly.b-cdn.net
 readoxfile.live
 readrepertoire.top
+ready-loomer-t.ink
 readyextravagance.top
 readyhello.click
 readynoteworthy.top
@@ -79584,6 +79597,7 @@ sononayisleminigerceklestiriniz56.urlnames.xyz
 sonradabizlersevindiririz.cfd
 sonradan-gelen-yuzunuzu-gulduren-sizlerle.com
 sonradan-gormedim-demeyin-surekli-gelmez.com
+sonrakihizmetler.click
 sonrentcar.com
 sons-chubby-pushing-habits.trycloudflare.com
 sonsaatfirsatlarinikacirmaurunlersepette.com.tr
@@ -94718,6 +94732,7 @@ webwwwdenizsizinle.com
 webxmepgibiademdgov1tr.fun
 webxxonlinegovtrrr.net
 webxxzcepxv1cgirisgibxgovtr.fun
+weby-lybre.pro
 webyapi-haziranfirsati.com
 webyapi-kredi-katilim-world.gq
 webyapi-kredi-katilimtr.tk
