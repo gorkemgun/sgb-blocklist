@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100337
-# Last change: 2026-08-15 18:49:11 UTC (sync mode: delta)
+# Records: 100338
+# Last change: 2026-08-15 19:37:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -47771,6 +47771,7 @@ iyisaat.online
 iyisen-fazladan-ugradik-hizlica-daha.com
 iyisiniz-geri-gelebildiysek-sizden-daha-saglam.com
 iyiyollar.online
+iyte-utms.xyz
 iyvrep.top
 iyxybu.top
 iyzico-secure-pay.com
