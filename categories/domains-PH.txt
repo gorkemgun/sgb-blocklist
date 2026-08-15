@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100298
-# Last change: 2026-08-15 07:00:15 UTC (sync mode: full)
+# Records: 100301
+# Last change: 2026-08-15 07:45:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -39625,6 +39625,7 @@ halkinsigortasi.com
 halklaiciceyiz.sbs
 halklarinbirlikteligi.sbs
 halklarinbirlikteligi1.sbs
+halklimit.homes
 halklimit.lat
 halklimit.my
 halklimit.online
@@ -79033,6 +79034,7 @@ sndebunlaraglmban.com
 sndehmngelal.com
 sndenbnlaraglbrdanal.shop
 sndgle101-dn1al.com
+sndordnhmnrvdal.click
 sneakstatutory.top
 snguvende.online
 snhd1gejlx0sqzg1beqszers.com
@@ -96554,6 +96556,7 @@ www-sekerbank68yil.com
 www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
 www-t0gg.net
+www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
