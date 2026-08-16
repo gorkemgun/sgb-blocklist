@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100379
-# Last change: 2026-08-16 14:42:00 UTC (sync mode: delta)
+# Records: 100383
+# Last change: 2026-08-16 15:40:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29762,6 +29762,7 @@ emulatewithhold.top
 emulationsacred.top
 emusic-data.com
 emusic-ppc.com
+emvo.shop
 emwkeamodeme.ml
 emxkvrgiodemxixlerhz.net
 emxladnbxs.net
@@ -49644,6 +49645,7 @@ karaca-sultan.sbs
 karaca-sultann.club
 karaca-temmuz.shop
 karacabutik.com.tr
+karacaclub.shop
 karacadagdernegi.com
 karacaevs.store
 karacafirsatlari.online
@@ -86978,6 +86980,7 @@ tr-jethizmet.com.tr
 tr-kampanya-a.website
 tr-kampanyasisizlericinhemenbasvur.cloud
 tr-kara.cfd
+tr-karaca.store
 tr-karacatr.shop
 tr-karastore.com
 tr-karcas.shop
@@ -88099,6 +88102,7 @@ trk20mb.herokuapp.com
 trkaflsdkckode.net
 trkara.nicepage.io
 trkaraca.cfd
+trkaraca.homes
 trkaraca.shop
 trkaracas.shop
 trkatad.nicepage.io

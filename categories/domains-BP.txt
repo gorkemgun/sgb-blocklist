@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257222
-# Last change: 2026-08-16 13:46:29 UTC (sync mode: delta)
+# Records: 257226
+# Last change: 2026-08-16 15:40:02 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -183167,6 +183167,7 @@ portlgibxc.click
 porttx.net
 portvatandas-sorgu.com
 portvision.com.tr
+porty-lyb.myonlineportal.ch
 pory-logrenade-ky.myonlineportal.ch
 poryvalo.com
 pos-tr.top
@@ -199802,6 +199803,7 @@ selamdostumbennface.net
 selamgelinhadi.com.tr
 selamkuzenler.click
 selamlar-sizlere.site
+selammmmmbrdann.com
 selamorganize.duckdns.org
 selamsiz.net
 selamsiz.org
@@ -222472,6 +222474,7 @@ triadebasvurularim.store
 triadehizmetlerimart2023tr23.com
 triadezamani.com
 tribinence.com
+trible-shot.myonlineportal.ch
 tribncadestektr.com
 tribune-ode.com
 tricinevlilikredisi.com
@@ -232636,6 +232639,7 @@ vekfihakimbey.com
 vekifbenklerdide.com
 vekifberbombev.com
 vekmirt.com
+vekso-lym.myonlineportal.ch
 vel32vest.xyz
 velaira.sbs
 velbazar.gifts
