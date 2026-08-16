@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100342
-# Last change: 2026-08-16 03:14:31 UTC (sync mode: delta)
+# Records: 100343
+# Last change: 2026-08-16 05:46:16 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -199,6 +199,7 @@
 101-kasimozel.com.tr
 101-klimaozel.com.tr
 101-kstra.s3.eu-north-1.amazonaws.com
+101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
