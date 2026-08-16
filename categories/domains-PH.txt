@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100355
-# Last change: 2026-08-16 08:49:15 UTC (sync mode: delta)
+# Records: 100364
+# Last change: 2026-08-16 09:45:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -189,6 +189,7 @@
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-eozel.xyz
+101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulurunleri.shop
 101-haftanin-firsatlari-dyson-com.duckdns.org
@@ -12355,6 +12356,7 @@ bilgilendir.site
 bilgilendir.website
 bilgilendir.xyz
 bilgilendirilme.net
+bilgilendiriyorum.abrdns.com
 bilgilendirme-cim.com
 bilgilendirme-shop.online
 bilgilendirme-tr.online
@@ -39714,6 +39716,7 @@ hammeranalogue.top
 hammerdog.top
 hammondelectrics.com
 hamnamshamnmashamanmsmna81.space
+hamnsahsmanhsmansahmnsahmasnham46.space
 hampercomplexion.top
 hamperpasta.top
 hamperthreshold.top
@@ -51802,6 +51805,7 @@ kredihesaplamavakifbank.blogspot.com
 kredihesaplamaziraatbank.blogspot.com
 kredihizmetlerin.ru.com
 kredihocasi.com
+krediibsvrrrkmnpyyyprmsnnn.info
 krediikmpnyaabsvrrsnfrstlarrr.info
 krediikmpnyaabsvrrsnfrstlarrr.pro
 krediimm.com
@@ -56954,6 +56958,7 @@ merellon.com
 merhab.store
 merhababendeniz.tk
 merhametdolusu.com
+merhametsizlerdiyari.xyz
 meridianhukuk.info
 meridions.top
 meridyenfinans.com
@@ -59958,6 +59963,7 @@ navesensn.net
 navesensn.xyz
 navesenyn.xyz
 naveyun.com
+navi-happy.ink
 naviakavtnvs.net
 navigatepreoccupied.top
 navigationconsecutive.top
@@ -71201,6 +71207,7 @@ ravexpreych.co
 ravikor.com
 ravinox.gifts
 ravitelugutraveler.com
+ravo-world.ink
 ravolio.biz
 ravorel.gifts
 ravqiro.gifts
@@ -73696,6 +73703,7 @@ s1book0s.com
 s1mzamangldi1br0d1a.com
 s2lovam.com
 s2ver.online
+s3177.site
 s3caccverifisubmit.xyz
 s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
@@ -99860,6 +99868,7 @@ zenithpointd.top
 zenithwin661.info
 zenitorizon.com
 zenkora2.sbs
+zeno-place.ink
 zenorium.com
 zenpast.com
 zenpirlanta-kampanya.com.tr
