@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465574
-# Last change: 2026-08-16 13:02:55 UTC (sync mode: delta)
+# Records: 465585
+# Last change: 2026-08-16 13:46:29 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2061,6 +2061,7 @@
 101-eozel.xyz
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulgecesi13.com
@@ -33938,6 +33939,7 @@ agstos-moto-katalog.com
 agstoscrfsnzdngl.com
 agstoscrfsnzdngl.info
 agstoscrfsnzdngl.online
+agstosfrsatttwa.com
 agstosozlfrstt.com
 agsts-sonnn-ind-rimlerini-yakala-kacc-irmacom.net
 agstsaozelindirmlerinkyfni.com
@@ -48800,6 +48802,7 @@ araaskargo.com
 araaskargomlq.life
 arab-tupras-islamictrading.com
 araba--paribu.com
+araba--paribu.live
 araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
@@ -97205,6 +97208,7 @@ cekildenizonline.com
 cekilelnsdwe.net
 cekiliiss.com
 cekiliiszamani.com
+cekilis--araba.live
 cekilis--binance.com
 cekilis--paribu.com
 cekilis-acikbasvuru.com
@@ -173413,6 +173417,7 @@ garantibbva-bell.com.ph
 garantibbva-bireyselhizmetim.com
 garantibbva-bonus250tl-com-tr.tk
 garantibbva-bonusiadesistemi.com
+garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cepmobilsubekazandiriyor.tk
 garantibbva-cepmobilsubekazandiriyor.vg
 garantibbva-com-tr-tr.tk
@@ -278800,6 +278805,7 @@ mhrsbasvurularinizburadan.duckdns.org
 mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
 mhrsbilgi.duckdns.org
+mhrsc347niz234wfh.com
 mhrsclsdc.com
 mhrsekonomik.duckdns.org
 mhrsekrangirisyonlendirme.duckdns.org
@@ -278875,6 +278881,7 @@ mhrsrndvr.blogspot.com
 mhrsrsrs.cfd
 mhrsrx2ndevuh3zmetleriniz45012.com
 mhrsrxn3devuuhxzm3tleri45732.com
+mhrss-2026.duckdns.org
 mhrss.hccsrrnxav.net
 mhrss.mersinstar.com
 mhrsserandvu.com
@@ -317646,6 +317653,7 @@ paribucark-burada.com
 paribucark-burada.info
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-geldi.com
 paribucark-geldi.info
 paribucark-hediye.com
 paribucark-hediye.info
@@ -369124,6 +369132,7 @@ sizleringuvendigi18.space
 sizleringuvendigisiteler.space
 sizlerinhepberaberaldiklari.com.tr
 sizlerinhepberaberaldiklari.xyz
+sizlerininicburadayiz.click
 sizlerinistedigi.shop
 sizlerinizicin.duckdns.org
 sizlerinsectigiurunler.space
@@ -369232,6 +369241,7 @@ sizlerleyiz.com.tr
 sizlerleyiz.xyz
 sizlerleyizhalkbank.gq
 sizlerleyizhalkbank.tk
+sizlerleyizz.sbs
 sizlerleyukleme.sg-host.com
 sizlerlinsectigiurunlerfirsatlarlasepette.com.tr
 sizlerlinsectigiurunlerfirsatlarlasepette.online
@@ -457834,6 +457844,7 @@ yonlendir-aktarma-sistem.cyou
 yonlendir-denizcekilisim-2022.com
 yonlendir-g.my-homeip.de
 yonlendir-reklam.com
+yonlendir-secur-gr.my-homeip.de
 yonlendir-sifre-guncel.ink
 yonlendir.click
 yonlendir.dynamic-dns.net

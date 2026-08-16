@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100370
-# Last change: 2026-08-16 13:02:55 UTC (sync mode: delta)
+# Records: 100378
+# Last change: 2026-08-16 13:46:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4938,6 +4938,7 @@ agsikortam.xyz
 agstaltayertsjfasldaslkdhfnsdjfnjsd.online
 agstoscrfsnzdngl.com
 agstoscrfsnzdngl.info
+agstosfrsatttwa.com
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agusots-tkelfibru-brasdsa.store
@@ -7571,6 +7572,7 @@ araaracmuayene.com
 araaskargo.com
 arab-tupras-islamictrading.com
 araba--paribu.com
+araba--paribu.live
 araba-cekilisi-paribu.com
 araba-cekilisi-paribu.ezgateway.net
 araba-cekilisi-paribu.mywire.org
@@ -17617,6 +17619,7 @@ ceilingexcerpt.top
 cejx3ah.ytyukai.cn
 cekbinbesyuzduman.com
 cekiliiss.com
+cekilis--araba.live
 cekilis--binance.com
 cekilis--paribu.com
 cekilis-acikdenizv2denizmobil.com
@@ -57404,6 +57407,7 @@ mhrsanlkodemebra.duckdns.org
 mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
 mhrsbilgi.duckdns.org
+mhrsc347niz234wfh.com
 mhrsclsdc.com
 mhrsgirisportaliburada.digital
 mhrsilerandevuekrani.duckdns.org
@@ -65707,6 +65711,7 @@ paribucark-burada.com
 paribucark-burada.info
 paribucark-burada.link
 paribucark-cevir.com
+paribucark-geldi.com
 paribucark-geldi.info
 paribucark-hediye.com
 paribucark-hediyesi.com
@@ -78645,6 +78650,7 @@ sizlereozelhediyelerdunyasibonuslari.com
 sizlericin.iademaidat.com.tr
 sizlericin.net
 sizlericinburda.blogspot.com
+sizlerininicburadayiz.click
 sizlerinistedigi.shop
 sizlerlebuyuyoruz.com.tr
 sizlerlehadihemenfirst.sbs
@@ -78652,6 +78658,7 @@ sizlerlehg.xyz
 sizlerleolankampanyalarikacirmayin.com.tr
 sizlerleolankampanyalarikacirmayin.xyz
 sizlerleyiz.com.tr
+sizlerleyizz.sbs
 sizlrlrbulstrmakicin.info
 siznicinfirsatnni.com
 sizsevmeyindiyevarim.net
@@ -99294,6 +99301,7 @@ yongyouwexian.top
 yonlen-toplan-security.ink
 yonlen.click
 yonlendir-g.my-homeip.de
+yonlendir-secur-gr.my-homeip.de
 yonlendir9659.online
 yonlendirbabacan1.site
 yonlendirme-security.ink
