@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100348
-# Last change: 2026-08-16 07:47:21 UTC (sync mode: delta)
+# Records: 100355
+# Last change: 2026-08-16 08:49:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -612,6 +612,8 @@
 1512412412.shop
 15125guest-booking.com
 1516.walkzonecold.buzz
+152241snffrstlarrkpnyaabsvrr.info
+152241snffrstlarrkpnyaabsvrr.online
 154-4-4-4-1.cloud
 154184863.istanbul
 1545-4432511.net
@@ -10359,6 +10361,7 @@ bakiyeonay.net
 bakiyeyukle.com
 bakiyeyuklemek.info
 bakkatmlastanda.com
+baknburdaherseyvarsndegelhadi81.click
 bakprofile.com
 baksanaya.com
 baksanwesd.net
@@ -34701,6 +34704,8 @@ frstlrrrsnnnkmpnyaabsvrrkred.info
 frstlrrrsnnnkmpnyaabsvrrkred.pro
 frstmbssgfgs.blogspot.com
 frsttlari-kacrmaaa-klmaci.com
+frsttlsnbsvrrkmponyaa128549.online
+frsttlsnbsvrrkmponyaa128549.pro
 frstvktinikcirmavkt.com.tr
 frstyni-snstklarkpnda.online
 frsubesi.blogspot.com
@@ -51115,6 +51120,7 @@ kmpnyaaaaprsmnynbsvrrr.info
 kmpnyaabsvrr12531.online
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
+kmpnyaabsvrrrhksnfrstlarrr.online
 kmpnyaaprmsynnbsvrrr.pro
 kmpnyabsvbrrprmsynn147852.online
 kmpnyabsvbrrprmsynn147852.pro
@@ -98452,6 +98458,7 @@ yemektariflerivedogalurunlerkulubu.xyz
 yemektime2.net
 yemektime3.org
 yen-i-yil-lndirimleria1o-1de.blogspot.com
+yenbasvuruzamnansendekatl2.click
 yenerlervakfi.com
 yengirzs2026.com
 yengizrisin.com
