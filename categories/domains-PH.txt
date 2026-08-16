@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100414
-# Last change: 2026-08-16 21:36:33 UTC (sync mode: delta)
+# Records: 100421
+# Last change: 2026-08-16 22:39:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1022,6 +1022,7 @@
 1x-domain.space
 1xlite-661409.top
 1y6fzu.cn
+1zaxzz123z1123xx4c123x123.shop
 1zmir1mk4rtlaki.net
 1zmir1mkdk4rt.net
 1zxcnzxhf43412fcdzxcxz.sbs
@@ -1982,6 +1983,7 @@
 53ababybimcell.net
 53c15d1f.jdhuwoskz.cloud
 541221125565556559992.duckdns.org
+541221125565556559993.duckdns.org
 5435345435.cloud
 543543534.duckdns.org
 54354982138943214000.net
@@ -10701,6 +10703,7 @@ basuvur.a.ile.bilgilendirilme.net
 basuvur.a.ile.bilgilerin.net
 basuvur.ualle.gvnclk.bilgiekranin.net
 basuvur.ualle.gvncllk.bilgiekranim.net
+basuvurlardevamedc.sbs
 basuvuru.net
 basuvurudurum.net
 basuvuruevllikkrdisi.link
@@ -23490,6 +23493,7 @@ dance-open.com
 dancenomination.top
 danceopentheater.com
 danceopentheatre.com
+dandanadak.duckdns.org
 dandini.click
 dangercredibility.top
 dangerimmersion.top
@@ -41381,6 +41385,7 @@ hgs-pttdolumu-bayisi.tk
 hgs-pttodeme-nkts.net
 hgs-pttt-dolum-hizmeti.fun
 hgs-ramazan.tk
+hgs-rho.vercel.app
 hgs-sabahyukleme.com
 hgs-sistem-sorgu.com
 hgs-tr.tattoo
@@ -58685,6 +58690,7 @@ moravex.gifts
 morcartiq.gifts
 morcizgi.co
 mordexy.cfd
+more-inf.ink
 morecloak.top
 moreemlak.com
 morefeminine.top
@@ -76489,6 +76495,7 @@ sendeeyluldebasvur.tech
 sendefaydalanbufirsattanhemenkatil.tech
 sendefirsatalmadangitme.com.tr
 sendegelal.uk
+sendegelbasvurkazanpromosyon75.click
 sendegelbenimlegrntyee.net
 sendegelbizimle.com
 sendegeldikampleri.com
