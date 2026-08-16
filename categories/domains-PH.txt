@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100383
-# Last change: 2026-08-16 15:40:02 UTC (sync mode: delta)
+# Records: 100390
+# Last change: 2026-08-16 16:44:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -769,6 +769,7 @@
 182-webb.sbs
 182-webb.xyz
 182-webs.biz
+182-webs.help
 182-webs.online
 182-webs.sbs
 182-weeb.net
@@ -30456,6 +30457,7 @@ erkaylar.online
 erken-randevuhizmetleri.com
 erkenbasvuruyap.life
 erkendenalma.duckdns.org
+erkengulen.biz
 erkenmobilhizli.site
 erkenrandevuler.com
 erkerandevular.com
@@ -38378,6 +38380,7 @@ guncellaktuelurunler.com
 guncelle-dolap.com
 guncellenenbasvuru.com
 guncelmercekler.com
+guncelmerkez.abrdns.com
 guncelnotlar.company
 guncelrota.gifts
 guncelrota.world
@@ -38451,6 +38454,7 @@ guncelyatirimlar.online
 guncelzamanhizmeti2023.com
 guncelzamnhizmeti2023.com
 gunclcfrskmp.cfd
+gundelikhaberlerr.sbs
 gundelikurunler.life
 gundelikurunler.online
 gundem-turk.com
@@ -56474,6 +56478,7 @@ mdnxht.online
 mdpxmd.top
 mdramtheatre.com
 mdrdml.top
+mdsfhfgsr.com
 mdsmdfskdfskdfks.net
 mdsrmm.top
 mdtlmw.top
@@ -61491,6 +61496,7 @@ ns-cemaatkmpanyasiduckdnsorg.peakforge.cfd
 ns-wwwhaber61net.dismansuddy.cfd
 ns-wwwhaber61net.verged.cfd
 ns-wwwhaber61net.whilesorfe.sbs
+ns-wwwhaber7com.rojadirecta-com.co
 ns-wwwhaberlercom.cyberpath.cfd
 ns-wwwsondakikacom-haber.cotofora.cfd
 ns-wwwtokigovtr.mindframe.sbs
@@ -93724,6 +93730,7 @@ wastedeductive.top
 wasteexpire.top
 wastefragrance.top
 wastefulallude.top
+wastingtime.co
 watchandvictory.com
 watchfulelaborately.top
 watchfultribute.top
