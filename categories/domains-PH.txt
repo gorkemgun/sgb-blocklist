@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100390
-# Last change: 2026-08-16 16:44:06 UTC (sync mode: delta)
+# Records: 100392
+# Last change: 2026-08-16 17:37:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38245,6 +38245,7 @@ guestzone731.com
 guestzone916.com
 guf-tickets.ru
 gugoahahsadwasdas923sad.click
+gugoashdahshdashd999wdsa.click
 guidancespaghetti.top
 guide-gemini.com
 guide-roundcube.vercel.app
@@ -78668,6 +78669,7 @@ sizlerleolankampanyalarikacirmayin.com.tr
 sizlerleolankampanyalarikacirmayin.xyz
 sizlerleyiz.com.tr
 sizlerleyizz.sbs
+sizlerleyizzz.sbs
 sizlrlrbulstrmakicin.info
 siznicinfirsatnni.com
 sizsevmeyindiyevarim.net
