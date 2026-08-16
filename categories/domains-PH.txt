@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100404
-# Last change: 2026-08-16 20:41:12 UTC (sync mode: delta)
+# Records: 100414
+# Last change: 2026-08-16 21:36:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3635,6 +3635,7 @@ abergama.site
 abg.mk
 abhap.org
 abhbap.org
+abiacizvallayoksayapmayiz.duckdns.org
 abideabnormal.top
 abideelaborately.top
 abideranch.top
@@ -12367,6 +12368,7 @@ bilgilendiriyorum.abrdns.com
 bilgilendirme-cim.com
 bilgilendirme-shop.online
 bilgilendirme-tr.online
+bilgilendirmemm.netlify.app
 bilgilennyolgecis.netlify.app
 bilgilennyolgeciss.netlify.app
 bilgilennyollgeciss.netlify.app
@@ -39672,6 +39674,7 @@ halklimit.lat
 halklimit.lol
 halklimit.my
 halklimit.online
+halklimitim.xyz
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
@@ -51981,6 +51984,7 @@ ksqnbkmpnsyr.com
 kssmkgmtrmr.shop
 kstnbllarayklmyplmhmn.cfd
 ksuuruzrzindiirmler.cfd
+kt-bank-ag.com
 ktaltmlatabdanm.com
 ktbkulturturizmbilgi.ml
 ktcjadskjx1k23xk1zl123123.click
@@ -69059,6 +69063,7 @@ protectbotanical.top
 protectedportal-coinbase.com
 protectedvault-coinbase.com
 protectedviews.com
+protection-shark.ink
 protectionfoam.top
 protectionoffice.tech
 protectionspecialist.net
@@ -78767,7 +78772,9 @@ skmarket-alisveris.xyz
 skmarket-alisverisi.com
 skmarket-alisverisim.com
 skmarket-alisverisin.com
+skmarkleter.com
 skmarlktlr.com
+skmarltkler.com
 skmlrketler.com
 skok2w.servegame.com
 skokcepuygulamasi.lat
@@ -79355,6 +79362,7 @@ sokfirsatburada.com
 sokfirsatigeldi.com.tr
 sokfirsatigeldi.xyz
 sokfirsatlar-temmuzda.com.tr
+sokfirsatlarburada.com
 sokfirsatlarin.online
 sokgecefirsati.online
 sokindirimcepte.online
@@ -83318,6 +83326,7 @@ tabsvrnz.net
 tabsvrsnsz.net
 tabu.bastonstudio.com
 tabu.thetupaus.com
+tacdsardatopsznolsun58.click
 tackle-play.com
 tackleobscure.top
 tackleprobe.top
@@ -94679,6 +94688,7 @@ webtcbmtr773-993tr.com
 webtccbuygulamasi07.com
 webtccrmuygulamasi.com
 webtctrbm8.com
+webte-182.com
 webteb-2019basvurutr.com
 webteb-basvurtr.com
 webteb-basvurutr.com
