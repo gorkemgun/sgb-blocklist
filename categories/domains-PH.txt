@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100345
-# Last change: 2026-08-16 07:02:10 UTC (sync mode: full)
+# Records: 100348
+# Last change: 2026-08-16 07:47:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -50222,6 +50222,7 @@ kendinizicinkendinizebiriyilikyapin.com.tr
 kendinizservice.shop
 kendipayina.sa.com
 kendiyle.org
+kendmzszemenaetettksendebasvur4.click
 kenfvtikartt.net
 kenlktkart.com
 kennedy-hotel.icu
@@ -65468,6 +65469,7 @@ paribtc.com
 paribturkiyegiriscom.co.vu
 paribturkiyegirislerinizcovu.co.vu
 paribturkiyetrade.co.vu
+paribu--araba.live
 paribu--arabacekilisi.com
 paribu--arabam.com
 paribu--cekilis.com
@@ -67249,6 +67251,7 @@ planti.best
 planti.sbs
 plantosync.com
 planulate.com
+planyapldsendehemengelkatl3.click
 plarixan.com
 plartform-evdekalin.com
 plasanka.net
