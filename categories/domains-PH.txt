@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100364
-# Last change: 2026-08-16 09:45:01 UTC (sync mode: delta)
+# Records: 100370
+# Last change: 2026-08-16 13:02:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2061,6 +2061,7 @@
 5a75253f.dsfiurb-u.shop
 5a7p.top
 5ajnncg.cn
+5askdcjkaslx1kl23klx1312.cfd
 5auywtn.cn
 5b3aad15.yh764theb.com.cn
 5b3z1x46m416.duckdns.org
@@ -10441,6 +10442,7 @@ banaozel-alisveris.com
 banaozel-getilan.com
 banaozel-hizmet.com.tr
 banaozel-ilan.com
+banaozel-paramguvende.my
 banaozel-paranguvende.com
 banaozel-s-paranguvende.com
 banaozel-s-sahibinden.com
@@ -15927,6 +15929,7 @@ bunlari-kacirmxmani-soylemeliyimm.com
 bunlarinda-icini-bilerekten-sonralarina-alindiririz.top
 bunlarkacmaz-birer.com
 bunlarkacmazkosgel.com
+bunlarkaltesendeortakol.info
 bunninge.com
 bunnterion.com
 bunnwave.com
@@ -41477,6 +41480,7 @@ hgsodemelerimiz.blogspot.com
 hgsodemeleriyapma-gncl.net
 hgsodemeliribblsptt.com
 hgsodnne.net
+hgsodykle.com
 hgsonlegeciskgmm.duckdns.org
 hgsonline3.com
 hgsonlineptpavm.net
@@ -54734,6 +54738,7 @@ m1p8z.com
 m1uyhni1r56q.icu
 m2h4rspnline.art
 m2x8k4q9f6b3n7vzat.sbs
+m3333.site
 m35qgcj.cn
 m3rcy.shop
 m4qklb2.cn
@@ -56371,6 +56376,7 @@ maytinhnhatlong.com
 maytrillion.top
 maze-abstracted-catboat.glitch.me
 mazeargueconnectdeliver.com
+mazi-web.myonlineportal.ch
 mb952ja9hgujk3.store
 mbafwnds.com
 mbcyx.icu
