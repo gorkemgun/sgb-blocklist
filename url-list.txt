@@ -145072,6 +145072,7 @@ efsane-kasim.sbs
 efsane-kasimfirsatlari-basladi.shop
 efsane-kasimfirsatlaribasladi.shop
 efsane-kasimgeldi.shop
+efsane-lndirim-havasi-kapinda.com
 efsane-saat-ler-basladi.shop
 efsane-saatler-basladi.shop
 efsane-yeni-yil-firsatlari.shop

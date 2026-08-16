@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100340
-# Last change: 2026-08-15 21:38:13 UTC (sync mode: delta)
+# Records: 100341
+# Last change: 2026-08-16 01:58:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -28766,6 +28766,7 @@ efsane-firsat-kapimda.com.tr
 efsane-guzel-hatiralar-hep-bizimle-yasayin-bulun.com
 efsane-indirim-sadece-online-ozel.com.tr
 efsane-kampanya-saatigeldi.shop
+efsane-lndirim-havasi-kapinda.com
 efsane1-indirimler-sadece-online-ozel.com.tr
 efsane1o1kmpanyalaritukeniyr.shop
 efsane1o1kmpanytukenyr.shop
