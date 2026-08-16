@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100392
-# Last change: 2026-08-16 17:37:04 UTC (sync mode: delta)
+# Records: 100399
+# Last change: 2026-08-16 18:48:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -42199,6 +42199,8 @@ hizmetlerionline.graduatecommunications.com
 hizmetlerionline.vitamoshop.com
 hizmetlerionline.webrotnotr.space
 hizmetlermizdnens.click
+hizmetlermizdnensxasx.click
+hizmetlermizdnenwsxasx.click
 hizmetlermzokul.com
 hizmetlistem.net
 hizmetnoktalari.xyz
@@ -54496,6 +54498,7 @@ lunvaro.xyz
 lunxo.xyz
 luodiye.live
 luoksa99asdasdasdsadsada.click
+luokuoasdhashdhasd22sda.click
 lupincheck.com.tr
 lurox.bond
 lushinavergiode.net
@@ -55316,6 +55319,7 @@ majoritychancellor.top
 majoritysolitude.top
 majorselect.top
 majorspear.top
+makarayizbizabitakmasen.duckdns.org
 makcart.com
 makeabillpayment.com
 makeaninvestmenttoward.com
@@ -73961,6 +73965,7 @@ safetystorage-coinbase.com
 safetyvault-coinbase.com
 safevault-coinbase.com
 safewallet-coinbase.com
+safksafsafkjasfjkfssssfasafasafkj.com
 saflapfsalfsafksamfsmak.com.tr
 safsadfslal230sladsa.net
 safsaqwrcs.sbs
@@ -79797,6 +79802,7 @@ sorgula-borctahsilat.com
 sorgula.aidatsorgusu.com
 sorgula.plus
 sorgula.vip
+sorgulagec.online
 sorgulaislem.app
 sorgulakm.shop
 sorgulalamara.com
@@ -90062,6 +90068,7 @@ ugly21swap.top
 uglycongregation.top
 uglycraft.top
 uglyovert.top
+ugogo9gashdahsdhash99as.click
 ugolfusa.com
 ugolok-durova.ru
 ugrassdurrrchppburda.blogspot.com

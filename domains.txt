@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465603
-# Last change: 2026-08-16 17:37:04 UTC (sync mode: delta)
+# Records: 465611
+# Last change: 2026-08-16 18:48:46 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -210298,6 +210298,8 @@ hizmetlermaliyegov.com
 hizmetlermenusu1.xyz
 hizmetlermerkezimiz.xyz
 hizmetlermizdnens.click
+hizmetlermizdnensxasx.click
+hizmetlermizdnenwsxasx.click
 hizmetlermz.site
 hizmetlermzokul.com
 hizmetlerniz.org
@@ -268769,6 +268771,7 @@ luodixijin.com
 luodiye.live
 luoisviitton.news
 luoksa99asdasdasdsadsada.click
+luokuoasdhashdhasd22sda.click
 luonglee.zapto.org
 luoptiny-gurtion.cyou
 luoslasco.xyz
@@ -272036,6 +272039,7 @@ makana.b-cdn.net
 makaniri.com
 makanlele.duckdns.org
 makaraa.com
+makarayizbizabitakmasen.duckdns.org
 makaro7tnt.ddns.net
 makasatmacaddehosran.xyz
 makasattki1.fun
@@ -349404,6 +349408,7 @@ safkak2522.com
 safkalsaf125.church
 safkj2151sasdas.xyz
 safkjfsajk1532152.com
+safksafsafkjasfjkfssssfasafasafkj.com
 saflapfsalfsafksamfsmak.com.tr
 saflk-wqfa-gewgwe-dsvs.space
 saflock9protec.ddns.net
@@ -374047,6 +374052,7 @@ sorgula.vip
 sorgulaaktarhaziran-hediyesipaributeknoloji-com.tk
 sorgulaamveaktarimmerkezi.click
 sorgulabasvurhediyepaributeknolojileri-com.tk
+sorgulagec.online
 sorgulahediyelerimpaributeknolojidoge-com.tk
 sorgulahemenkilometre.blogspot.com
 sorgulahemenx.xyz
@@ -412179,11 +412185,13 @@ ugn6mer.pw
 ugn8mer.pw
 ugnbrlfnlloupch.ru
 ugnrv.duckdns.org
+ugogo9gashdahsdhash99as.click
 ugoguy01.ddns.net
 ugolfusa.com
 ugolok-durova.ru
 ugopmh.com
 ugoqwiix.ddns.net
+ugosahdahsdhas923sada.click
 ugotrat.hopto.org
 ugqeiw.com
 ugrasdurdusuremezsin.xyz
