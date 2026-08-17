@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100432
-# Last change: 2026-08-17 05:52:55 UTC (sync mode: delta)
+# Records: 100436
+# Last change: 2026-08-17 07:18:34 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -33227,6 +33227,7 @@ finmourn.com
 finnewstoday.com
 finnnorica.com
 finnnvision.com
+finny5-consequatur30.sbs
 finolyx.lat
 finoodemem.net
 finorbitz.com
@@ -38790,6 +38791,7 @@ guvenlisigortala.com.tr
 guvenlisigortan.com.tr
 guvenlisiparis-tr.com
 guvenlisiparis.click
+guvenlisiparislerin.com
 guvenlisiparisleriniz.com
 guvenliticaret-prmguvende.shop
 guvenlitr.com.tr
@@ -44397,6 +44399,7 @@ ilanalisveris.com
 ilanda-ozelsepetim.com
 ilanda-sepetim-1091.com
 ilanda-sepetim-1092.com
+ilanda-sepetim-1093.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -66351,6 +66354,7 @@ pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
 pazarama.satiskontrol.com
 pazaramabireyselsatis.online
+pazaramakapinda.com
 pazaramatg.duckdns.org
 pazararna.com
 pazarci-101-de-zamani.com
