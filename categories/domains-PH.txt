@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100444
-# Last change: 2026-08-17 09:03:09 UTC (sync mode: delta)
+# Records: 100447
+# Last change: 2026-08-17 10:49:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -271,6 +271,7 @@
 101kapinda.com
 101kapindakampanyasi.duckdns.org
 101kapndaonline2023.online
+101kariyer.com
 101klimakampanyalari.com
 101kralsfe.duckdns.org
 101magazacty.com
@@ -74549,6 +74550,7 @@ sahibinden.guvenli-odeyin.com
 sahibinden.guvenli-satin-al.com
 sahibinden.guvenli-satinal.online
 sahibinden.guvenli-secure.com
+sahibinden.guvenli-tamamla.com
 sahibinden.guvenli-tr.online
 sahibinden.guvenlialim.com.tr
 sahibinden.guvenlialisticareti.com.tr
@@ -87864,6 +87866,7 @@ trendyol0.lat
 trendyol0.xyz
 trendyol016.k9d9c.my
 trendyol088.p17l23.my
+trendyol0b5.pcfridkc33.com
 trendyol0b7.k9d9c.my
 trendyol0e8.p17l23.my
 trendyol0ef.p17l23.my
