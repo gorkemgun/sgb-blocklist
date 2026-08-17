@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100451
-# Last change: 2026-08-17 11:43:43 UTC (sync mode: delta)
+# Records: 100461
+# Last change: 2026-08-17 13:08:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29021,6 +29021,8 @@ eightypredecessor.top
 eikamet-sigorta.com
 eikampanya-bireyselformu900tl-basvur-com.ml
 eincun.top
+einfazgib.org
+einfazuzlasma.org
 eintelligencejob.com
 eintelligencepcp.com
 eis.customer.coinbase-com.info
@@ -33746,6 +33748,7 @@ fkhgsbrckayolubile.duckdns.org
 fkluzh.top
 fkm8gqzeoli.storage.googleapis.com
 fkmgzi.top
+fkrlatos.co
 fksafkasn.net
 fkulbntr.online
 fkvevliklmkreds.com
@@ -39686,6 +39689,7 @@ halklimit.lat
 halklimit.lol
 halklimit.my
 halklimit.online
+halklimitim.help
 halklimitim.online
 halklimitim.xyz
 halkmobil-internet-basvuruekrani-com.duckdns.org
@@ -49531,6 +49535,7 @@ kamusaldestekplatformu.online
 kamusorgu.org
 kamusorgulama.org
 kamuspotu.org
+kamutakibi.org
 kamuweb-ihlalsorgu.icu
 kan2kwesx.blogspot.com
 kanada.ct.ws
@@ -50428,6 +50433,7 @@ kgm.gzdmxw.help
 kgm.hhtfrm.help
 kgm.hmxkaz.help
 kgm.iuaemm.cc
+kgm.izsmy.xyz
 kgm.kocraw.click
 kgm.mcnzkx.homes
 kgm.nghyfd.cc
@@ -55559,6 +55565,7 @@ maliyeuzlasmaekrani.com
 maliyevergi.com
 maliyevergiformu.com
 maliyevezne.com
+maliyeveznedartalepformu.com
 mall.greydermalls.com
 mall1.vip
 mall777.vip
@@ -79398,6 +79405,7 @@ sokfirsatlarin.online
 sokgecefirsati.online
 sokindirimcepte.online
 sokislemnfs.com
+sokisokkapidafirsattilari.duckdns.org
 sokk-olursun.com
 sokk-sana-geliyor.com
 sokkaldnaldnfrstbrini.tech
@@ -84109,6 +84117,7 @@ tcddyhtlab.info
 tcdkyht.net
 tcegm.net
 tcgonderitr.lat
+tchazinemasak.org
 tciadesistemi.mermerfatihlerimde.com
 tciletisimbaskanligin.online
 tcinfaz.net
@@ -93073,6 +93082,7 @@ vizsel.net
 vizyon-tasarlama.online
 vizyoncagrisi.com
 vizyoncephesi.com
+vizyonhaber.info
 vizyonmimarliktr.com
 vizyonpanel.com
 vja00te.cn
