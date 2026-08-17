@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100485
-# Last change: 2026-08-17 15:43:06 UTC (sync mode: delta)
+# Records: 100495
+# Last change: 2026-08-17 17:46:41 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9715,6 +9715,7 @@ avoidortray.top
 avoilekirala.com
 avonelis.asia
 avonkatilim.space
+avonnitur.com
 avorcpd.top
 avorilla.com
 avrasyaburs.com
@@ -10932,6 +10933,7 @@ basvurularaile150hizmet.com
 basvurularailegenc.com.tr
 basvurularbasladi500.com
 basvurularhediyesayfasipaributeknoloji-com.tk
+basvurulari-1.sbs
 basvurularimakbbde.website
 basvurularimdijitaluzerinde.info
 basvurularimfibasubemm.net
@@ -18538,6 +18540,7 @@ civilizationportrayal.top
 civilpistol.top
 civilstructgeo.org
 cix-tr.com
+cix132jxk123z123z123.shop
 cixlvs.cc
 cixpda.cc
 cjghnb555.duckdns.org
@@ -30627,6 +30630,7 @@ esnafkefaletkredi.com
 esnafkrdibsvrhsnwz.net
 esnafytrmtdstek.cfd
 esnek-hesap.com
+esnekkosullar.abrdns.com
 esnfprogram.cfd
 esnfprogrm.cfd
 esnfytrmtdstek.cfd
@@ -34223,6 +34227,7 @@ forestrymonopolize.top
 foresurpass.top
 foretelarisocratic.top
 foretellentail.top
+forever-daily.ink
 foreverpenguin.top
 forex-inside.com
 forexcfd.autos
@@ -36851,6 +36856,7 @@ gkjadfhjahjdasad.net
 gkjow.freeluckyday.com
 gkjow.grabyourluck.net
 gkjsfjkdashjahfas.net
+gkkcl123klx12k3lz1312.shop
 gkkhjlp.click
 gkldkasxklkl13x12z123.sbs
 gknaja.top
@@ -41221,6 +41227,7 @@ hesapbildirimi.weebly.com
 hesapdogrula.com
 hesapdumantvn.net
 hesapdumantvrk.net
+hesaphareket.com
 hesaplargirisileryaptiniz.app
 hesapli.buradasigortacimerkez.com.tr
 hesapli.kiralamamerkeziarabacin.com.tr
@@ -64408,6 +64415,7 @@ otokocarabakirala.com.tr
 otokocarabakiralama.com.tr
 otokocarackirala.com.tr
 otokocarackirala.net.tr
+otokocaviskiralama.net
 otokocfilo.net
 otokocfilo.org
 otokocfilom.net
@@ -77604,6 +77612,7 @@ shops24.top
 shopsetrms.top
 shopsites.shop
 shopster.courses
+shopstore-tr.online
 shopsymbol.top
 shoptheos.link
 shoptr4.gpec-bd.org
@@ -91416,6 +91425,7 @@ v2whe5eelentry.top
 v2zee5rorule.top
 v3.magic-cat.world
 v34rgiodmee.ibbvrgxeeeodmee.net
+v34v3249813x9123x123.shop
 v3gdrxkcfipoxfnte.net
 v3giode.com
 v3grn1odexsadaseqwx.net
