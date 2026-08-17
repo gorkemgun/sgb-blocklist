@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100447
-# Last change: 2026-08-17 10:49:51 UTC (sync mode: delta)
+# Records: 100451
+# Last change: 2026-08-17 11:43:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38694,6 +38694,7 @@ guvenli-satis-satici.com
 guvenli-secures-s-paramweb.website
 guvenli-sepet.com.tr
 guvenli-sepette.com
+guvenli-tamamla.com
 guvenli-ticaret.com.tr
 guvenli-ticaretin.com.tr
 guvenli-tr.online
@@ -74139,6 +74140,7 @@ sahibinden-get.ileodeme.com
 sahibinden-get.islem-guvende.online
 sahibinden-get.le-odeme.com
 sahibinden-get.mobil-eservisin.com
+sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisler-50.sbs
@@ -74208,6 +74210,7 @@ sahibinden-guvenli.online-hizmeti.net
 sahibinden-guvenli.online-ticaretin.com
 sahibinden-guvenli.online-urunun.com.tr
 sahibinden-guvenli.onlinem-tr.com
+sahibinden-guvenli.siparisonayim.online
 sahibinden-guvenli.tr-aliminiz.net
 sahibinden-guvenliode.com.tr
 sahibinden-guvenliodeme-get-paramguvende.salihinden-al.net
@@ -74261,6 +74264,7 @@ sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
+sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-param-guvendesiparis.teknosaturuncugunler.com.tr

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465667
-# Last change: 2026-08-17 10:49:51 UTC (sync mode: delta)
+# Records: 465672
+# Last change: 2026-08-17 11:43:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -159275,6 +159275,7 @@ f10317.xyz
 f103c913.jdhuwoskz.cloud
 f11347232347883453457.cfd
 f12.control4r1344.nl
+f12c38259e.nxcli.io
 f13.ddnsking.com
 f13682ae-e.b-cdn.net
 f16-tc.net
@@ -189104,6 +189105,7 @@ guvenli-siparisver.click
 guvenli-siparisver.com
 guvenli-submtrafik.dev
 guvenli-takip-hizmetleri.info
+guvenli-tamamla.com
 guvenli-tedarik.com.tr
 guvenli-tedarik.online
 guvenli-telefoncum.za.com
@@ -350256,6 +350258,7 @@ sahibinden-get.mobil-islemler-hizmet.online
 sahibinden-get.mobil-jet-hizmet.online
 sahibinden-get.mobillservishizmetii.com
 sahibinden-get.mobillservisleriniz.com
+sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilservis-1.sbs
 sahibinden-get.mobilservis-15.com
 sahibinden-get.mobilservis-84.sbs
@@ -350600,6 +350603,7 @@ sahibinden-guvenli.secure-urun.net
 sahibinden-guvenli.sepet-alimin.online
 sahibinden-guvenli.servislerin.net
 sahibinden-guvenli.siparisalim.net
+sahibinden-guvenli.siparisonayim.online
 sahibinden-guvenli.t-odeme.online
 sahibinden-guvenli.t-odeme.sa.com
 sahibinden-guvenli.tr-aliminiz.net
@@ -350998,6 +351002,7 @@ sahibinden-param-guvende.secureapplication.com.tr
 sahibinden-param-guvende.secureodemebaglantisi.com.tr
 sahibinden-param-guvende.shop
 sahibinden-param-guvende.siparisbilgitr.online
+sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.store
 sahibinden-param-guvende.tk
 sahibinden-param-guvende.tr-alisveris-odeme.online
