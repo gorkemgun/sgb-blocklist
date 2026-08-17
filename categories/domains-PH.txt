@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100436
-# Last change: 2026-08-17 07:18:34 UTC (sync mode: full)
+# Records: 100444
+# Last change: 2026-08-17 09:03:09 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -22936,6 +22936,7 @@ csb.app
 csbsorgu.info
 cscyzr.csb.app
 csdcascalklkdlascdcasda.sbs
+csdf.rauzmiklimlendirme.com
 csdfcklsdcaskdla.cfd
 csdfklscklakldcaklssa.cfd
 csdveirfsconfrim.com
@@ -33188,6 +33189,7 @@ findercammer.tk
 finderlight.online
 findexkredim.shop
 findextrader.com
+findforme.vip
 findideallife.com
 findindulgence.top
 findingnominal.top
@@ -50418,6 +50420,8 @@ kgm-oqe.com
 kgm-oqi.com
 kgm-oqn.com
 kgm-sorgulamaodeme.org
+kgm-vipgov.cam
+kgm.govtt.site
 kgm.gzdmxw.help
 kgm.hhtfrm.help
 kgm.hmxkaz.help
@@ -50479,6 +50483,7 @@ kgmhgd.top
 kgmhgz.top
 kgmhizmet.org
 kgmigo.top
+kgmigov.homes
 kgmigov.qpon
 kgmihlal.com.tr
 kgmihlalcezaodeme.net
@@ -64345,6 +64350,7 @@ otobanguncelhaberler.net
 otobanhizlicozumler.org
 otobonbonil-odmetetndsf.net
 otoborcsorglama.net
+otobus.obilet-mobil.uk
 otobusbiletim.net
 otobusbilt.online
 otobusbilt.xyz
@@ -94618,6 +94624,7 @@ webroom-zoom.us
 webrotnotr.space
 webrtcgecisbilgi.sbs
 webs-a101.com
+webs182.com
 webs2sc-treasmde2.com
 websagliktr4.com
 websagliktr5.com
@@ -98382,6 +98389,7 @@ yatirimgazetesi.top
 yatirimgercekleri.com
 yatirimguru.online
 yatirimhaberleri.net
+yatirimhedef.com
 yatiriminci.com
 yatiriminfonline.com
 yatirimkayitlari.com

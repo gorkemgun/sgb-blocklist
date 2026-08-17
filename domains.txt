@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465654
-# Last change: 2026-08-17 07:18:34 UTC (sync mode: full)
+# Records: 465664
+# Last change: 2026-08-17 09:03:09 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -111295,6 +111295,7 @@ csdcascalklkdlascdcasda.sbs
 csdcsdcsdcs2.s3.eu-central-1.amazonaws.com
 csdcsdscsd.top
 csdcvewdayuzbir.hopto.org
+csdf.rauzmiklimlendirme.com
 csdfb-svssg-hfghj-gss.cyou
 csdfb-svssg-hfghj-gss.icu
 csdfccjkasjdcaskdcasdkc.sbs
@@ -164022,6 +164023,7 @@ findexkredim.com
 findexkredim.shop
 findexpuan.xyz
 findextrader.com
+findforme.vip
 findideallife.com
 findikcxq1.app
 findindulgence.top
@@ -251952,6 +251954,7 @@ kgm-trgov.cyou
 kgm-trgov.qpon
 kgm-trgov.sbs
 kgm-trm.cfd
+kgm-vipgov.cam
 kgm-vvc.top
 kgm-yukle.com
 kgm-yukle.net
@@ -251969,6 +251972,7 @@ kgm.cdbtrq.online
 kgm.cwptmz.help
 kgm.gofmsz.help
 kgm.govtek.help
+kgm.govtt.site
 kgm.gxmbgl.help
 kgm.gzdmxw.help
 kgm.hcbxkx.homes
@@ -252182,6 +252186,7 @@ kgmiag.top
 kgmig.top
 kgmigl.top
 kgmigo.top
+kgmigov.homes
 kgmigov.qpon
 kgmihlal.com.tr
 kgmihlalcezaodeme.net
@@ -266912,6 +266917,7 @@ login.mwhhncndn.xyz
 login.mycrsfts-passwd.live
 login.okasdlasdkasldk.site
 login.operative-sintecmedia.com
+login.org.tr
 login.outlook.kcrct.ml
 login.pap1ara.com
 login.papar-a.com
@@ -310857,6 +310863,7 @@ otobonil-gec-blogspot-bcdn.net
 otobonil-gec.net
 otobonile.net
 otoborcsorglama.net
+otobus.obilet-mobil.uk
 otobusbiletikamilkcc.net
 otobusbiletim.net
 otobusbilt.com
@@ -409322,6 +409329,7 @@ turktenekli.org
 turkth.com
 turkticaretbank.com
 turkticaretbank.org
+turkticaretbankasi.login.org.tr
 turkticaretbankasi.org.ph
 turkticarethub.space
 turkticaretpanel.com
@@ -430799,6 +430807,7 @@ webs-update.com
 webs-yapikredi.com
 webs-yapikredi.website
 webs-yepikredii.com
+webs182.com
 webs20.futuresouls.com
 webs2sc-treasmde2.com
 websad1.click
@@ -452542,6 +452551,7 @@ yatirimhaberim.online
 yatirimhaberleri.net
 yatirimharita.online
 yatirimhat.com
+yatirimhedef.com
 yatirimhesabi-acikdenizbank.com
 yatirimimacikdenizbank.com
 yatirimimiz-acikdenizbank.com
