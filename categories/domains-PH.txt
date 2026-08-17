@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100423
-# Last change: 2026-08-16 23:36:06 UTC (sync mode: delta)
+# Records: 100427
+# Last change: 2026-08-17 01:56:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25941,6 +25941,7 @@ diplom-attestat.net
 diploma.legal
 diplomaal.com
 diplomaal.online
+diplomaal.web.app
 diplomabasvuru.com
 diplomabul.com
 diplomacuisine.top
@@ -39678,6 +39679,7 @@ halklimit.lat
 halklimit.lol
 halklimit.my
 halklimit.online
+halklimitim.online
 halklimitim.xyz
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
@@ -52577,6 +52579,7 @@ latelyvolatility.top
 latendesade.net
 latendesade.xyz
 latenlevis.net
+lateorearly.biz
 lateradversity.top
 latercorrode.top
 laterlongitudinal.top
@@ -94697,6 +94700,7 @@ webtccbuygulamasi07.com
 webtccrmuygulamasi.com
 webtctrbm8.com
 webte-182.com
+webte182.com
 webteb-2019basvurutr.com
 webteb-basvurtr.com
 webteb-basvurutr.com
