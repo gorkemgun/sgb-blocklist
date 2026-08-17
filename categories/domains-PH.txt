@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100461
-# Last change: 2026-08-17 13:08:54 UTC (sync mode: delta)
+# Records: 100471
+# Last change: 2026-08-17 13:55:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7851,6 +7851,7 @@ aracmuayene-rezervasyon.com
 aracmuayene.dev
 aracmuayene.online
 aracmuayene724.net
+aracmuayenede.xyz
 aracmuayenedetaylar.com
 aracmuayeneflxyaqsvc.net
 aracmuayeneflyas.net
@@ -15977,6 +15978,7 @@ buradangerceklestir.com
 buradankatilin.com
 buradasanslarinizhepiyigider.com
 buradasigortacimerkez.com.tr
+buradasokaklarfazladacadar.digital
 buradateklifin.site
 burads-6d5bb5751c89.herokuapp.com
 burads1-bb4ae103b5bb.herokuapp.com
@@ -29022,6 +29024,7 @@ eikamet-sigorta.com
 eikampanya-bireyselformu900tl-basvur-com.ml
 eincun.top
 einfazgib.org
+einfazmaliye.org
 einfazuzlasma.org
 eintelligencejob.com
 eintelligencepcp.com
@@ -33981,6 +33984,7 @@ flrsatklardankosarakgelmesenlerl.life
 flrsatkusaginin.xyz
 flrsatlarburaadda.com
 flrsatlardankacicakdelikarasflrsat.world
+flrsatlardiyari.com
 flrsatlarikacirmamakicin.duckdns.org
 flrsatlarla1-0-1-lndlrlmleri.online
 flrstlmdslmflf.duckdns.org
@@ -50315,6 +50319,7 @@ kep-adres-tekno-sa.com
 kep-adres.com
 kep-adresi.com
 kep-aktif.com
+kep-hepsiburada.com
 kepadres-dogrulama.com
 kepadres-tekno-sa.com
 kepadresaktiflestirme.net
@@ -51420,6 +51425,7 @@ koent.website
 kofalu.com
 koftecialibaba.com
 kofteciyusuff.online
+kofteciyusufum.com
 kohlhoff-edelstahlverarbeitung.de
 koikykii.com
 koinim-tr.me
@@ -63474,6 +63480,7 @@ onlineeee-gooo.cloud
 onlineekonomikdestekmobilapptr.xyz
 onlineemarket-alisverisa1o1.online
 onlinefaturademe.com
+onlinefba.com
 onlinefibabank.net
 onlinefibaislemleri.net
 onlinefilokiralama.com
@@ -79822,6 +79829,7 @@ sorgu.world
 sorgu.wtf
 sorgu.xyz
 sorguadalet.org
+sorguadli.org
 sorguadliye.net
 sorgualtr.com
 sorguapileri-tc.onrender.com
@@ -89799,6 +89807,7 @@ twentiethscrap.top
 twentiethvaccinate.top
 twenty-one-pilots.ru
 twentyenterprise.top
+tweqtqlasepttee.com
 twex.rf.gd
 twig.lifeworkinc.com
 twiks.io
@@ -98276,6 +98285,7 @@ yardimbasvrusuolusturmadvlet.online
 yardimbasvur.com
 yardimcom.github.io
 yardimdayanisma.com
+yardimdestek.net
 yardimdestek.org
 yardimdestekekiipsleri.com
 yardimdestekisigi.com
