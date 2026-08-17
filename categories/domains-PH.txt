@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100502
-# Last change: 2026-08-17 22:44:13 UTC (sync mode: delta)
+# Records: 100505
+# Last change: 2026-08-17 23:40:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6070,6 +6070,7 @@ algebrajelly.top
 algel.click
 algelonikolistanlar.shop
 algitfirrsatlardakal.cfd
+algor-form.site
 alha1337.com.tr
 alharbi.com.tr
 alhaydibunlari.com.tr
@@ -65648,6 +65649,7 @@ paribu-pepecekilis.link
 paribu-pepecekilisim.com
 paribu-pepecekilisim.info
 paribu-pepecekilisim.link
+paribu-pepecekilisin.com
 paribu-pepecekilisin.info
 paribu-pepecekilisin.link
 paribu-pepehediyem.com
@@ -65657,6 +65659,7 @@ paribu-pepehediyesi.info
 paribu-pepehediyesi.link
 paribu-sistem.com
 paribu-sogukdepo.com
+paribu-sponsorlu-cekilisler.live
 paribu-technology.com
 paribu-tr.online
 paribu-tr.org
