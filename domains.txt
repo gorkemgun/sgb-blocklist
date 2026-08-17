@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465703
-# Last change: 2026-08-17 14:47:28 UTC (sync mode: delta)
+# Records: 465710
+# Last change: 2026-08-17 15:43:06 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -66084,6 +66084,7 @@ bddksorg.net
 bddksorgu.com
 bddksorgu.net
 bddksorgula.net
+bddktr.com
 bddktrgarantibankasi.com
 bddktumturkiyeiadeler.com
 bddkturkgiriskapisi.com
@@ -150290,6 +150291,7 @@ enerjisaenerjia.com
 enerjisafatura.com
 enerjisan.com
 enerjisaturkiye.com
+enerjisauretim.evre.ai
 enerjisauretinn.com
 enerjistant.online
 enerkenucuzluk.cfd
@@ -151513,6 +151515,7 @@ enpnve.top
 enpopiler.name.tr
 enpopulermarketlerinindirimlikataloglari.cfd
 enppara.com
+enpprrrprmss.xyz
 enpragirispromosyon.sbs
 enprakazanmafirsatinikacirma.net
 enprara.com
@@ -169411,6 +169414,7 @@ free-fire-reward-garena-bd-nepazl.epizy.com
 free-folower.ddns.net
 free-get-badge.netlify.app
 free-get-reward.netlify.app
+free-internet-turkey.blogspot.com
 free-opportunity-apply-verified-badge-blue-tick.vercel.app
 free-reward-m.netlify.app
 free-rewards-h.wasmer.app
@@ -250756,6 +250760,7 @@ kejoranews.net
 kek-technik.com
 keke61.zapto.org
 kekebizuuu.xyz
+kekecdanisman.com
 kekekanka1.xyz
 kekekelemenek.club
 kekekexe.dns.navy
@@ -360645,6 +360650,7 @@ senkia.pw
 senkimseenoxlem.cyou
 senkimsinyaaa.app
 senkolaysinistmkblfff.mooo.com
+senkrona.com
 senkronprojesi.com
 senle-bizde-iyiceden-deneyin-bakalim.com
 senle-bunlara-layik-olacak-baska-kisiler-yoktur.com
@@ -367712,6 +367718,7 @@ siparis-guvenli.com
 siparis-guvenliodeme.com
 siparis-hizliislem.com
 siparis-hizliodeme.com
+siparis-hizlisatinal.com
 siparis-iade.com
 siparis-kapida-aktuel.com.tr
 siparis-kapida-aktuel.net.tr

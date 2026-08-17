@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100479
-# Last change: 2026-08-17 14:47:28 UTC (sync mode: delta)
+# Records: 100485
+# Last change: 2026-08-17 15:43:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11607,6 +11607,7 @@ bddkkredi.com
 bddkmerkeziade.com
 bddkmerkeziade.kastakdkdkd.tk
 bddksorgu.net
+bddktr.com
 bdeniz-katilimgrubcekls.tk
 bdffmf.top
 bdfwmd.top
@@ -29929,6 +29930,7 @@ enerjionlinesanalmarkettt.com
 enerjisa-fatura-odeme.com
 enerjisaenerjia.com
 enerjisan.com
+enerjisauretim.evre.ai
 enerveos.com
 enerya-guide.com
 enerya-populate.com
@@ -30097,6 +30099,7 @@ enpara-hediyepara-tr.com
 enpara-ozel-xc90.com
 enpara.aralik10yilozel-basvuru.com
 enpnve.top
+enpprrrprmss.xyz
 enquirechant.top
 enquireconcede.top
 enquirepersecution.top
@@ -34505,6 +34508,7 @@ frechetes.site
 fred-reasons-loads-blocks.trycloudflare.com
 free-blue-tick-get-now.org
 free-collect-lifetime-badge.vercel.app
+free-internet-turkey.blogspot.com
 free-verifications.netlify.app
 free-vodafonered.com
 free.axery.net
@@ -50219,6 +50223,7 @@ kehribar.site
 keint.net
 keint.org
 kek-technik.com
+kekecdanisman.com
 kekelerarabayiyanastirir.click
 kekntsskart.net
 kekpanel.xyz
@@ -76652,6 +76657,7 @@ senjuinndustriessss.info
 senkamparacla.net.tr
 senkazanccsaglla.tk
 senkia.pw
+senkrona.com
 senledapele.site
 senlede-kaldiklarinda-ilkonce-gelirde-bilinir.top
 senlibenlikm.click
