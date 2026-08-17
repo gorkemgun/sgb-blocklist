@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100427
-# Last change: 2026-08-17 01:56:58 UTC (sync mode: delta)
+# Records: 100432
+# Last change: 2026-08-17 05:52:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -772,6 +772,7 @@
 182-webs.help
 182-webs.online
 182-webs.sbs
+182-webs.store
 182-weeb.net
 182.24612-20114.click
 182.24612-20114.xyz
@@ -57387,6 +57388,7 @@ mhmrsnedsgelsnz.com
 mhmrsnzxmsn.mooo.com
 mhnrs.net
 mhotel2025.world
+mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
@@ -70166,6 +70168,7 @@ publicvm.com
 publishabortion.top
 publishlever.top
 pubmanoeuvre.top
+pubmhsl.digital
 pubsuppressive.top
 puddinglubricate.top
 pueedusstaff.unaux.com
@@ -76730,6 +76733,7 @@ sepetimde.xyz
 sepetimdeindirimleriyakala.com
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.site
 sepetimdeonline.store
 sepetimdinr.shahiyarran.sbs
 sepetimm-zamanii-a101.shop
@@ -89713,6 +89717,7 @@ tvtrksc.click
 tvtrksevmsd.net
 tvtrksjer.shop
 tvtrksjwer.shop
+tvtrksnrhzsdme.store
 tvtrkssca.click
 tvtrksswtca.click
 tvtrkyklme.net
