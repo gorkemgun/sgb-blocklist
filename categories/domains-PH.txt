@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100568
-# Last change: 2026-08-18 11:43:52 UTC (sync mode: delta)
+# Records: 100576
+# Last change: 2026-08-18 13:10:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18748,6 +18748,7 @@ clicks.ahauntedcastleuponahill.com
 clicks.hellobatchsix.com
 clicks.stalingradrailstation.com
 clicksahibiananizisever.sbs
+clicksetupfile.info
 clickspiren.com
 clickupa.com
 cliclsresercheker.com
@@ -36384,6 +36385,7 @@ getlirithas.store
 getloops-ai-d822fc.webflow.io
 getluckyprize.com
 getlumex.store
+getmacforpc.com
 getmcafee.net
 getmeltoxa.store
 getmidaspro.com
@@ -37147,6 +37149,7 @@ gmelegancehotel.com
 gmobilogingirisllemleriimenu.com
 gmrcol.top
 gmtracker.online
+gmtrackerreserve.online
 gn-bg-bn.shop
 gn-claslxmr-firsstlylann.net.tr
 gn-cllxmr-firsstlylan.net
@@ -49753,6 +49756,7 @@ karacaocakta.com
 karacaonline.org.tr
 karacaonline.store
 karacaonlinetr.shop
+karacasale.homes
 karacasell.shop
 karacashop.homes
 karacasofrac.homes
@@ -56857,6 +56861,7 @@ megahaber.xyz
 megahirdavatciniz.com
 megaindirimlersinirliisayii.xyz
 megaindirimlersinirliisayiilar.xyz
+megamacnz.com
 megamarket.156953coinbase.com
 megamarketa101supuurge.online
 megamarketting.cyou
@@ -58837,6 +58842,7 @@ mosquitomelt.top
 mossadapii.tk
 mossatelier.store
 mossgroved.top
+mossmesh17.com
 mossovet-afisa.ru
 mossovetafisa.ru
 mossylorex.com
@@ -89704,6 +89710,7 @@ tuvtrkodmz.net
 tuvtrkrandvu.net
 tuvtrkrndvlalmahzlc.duckdns.org
 tuvtrksswtca.click
+tuvtruk.com
 tuvttrkrkkr.net
 tuvtturk.net
 tuvturaracmuayneservislerimiz.com
@@ -99632,6 +99639,7 @@ yuhiguhajusi.store
 yuk6le.blogspot.com
 yukac.online
 yukeshapi.neocities.org
+yukifabrikasatis.com
 yukj-e.blogspot.com
 yukklegez.net
 yukle-724.com
