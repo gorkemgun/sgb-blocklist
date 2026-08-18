@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100656
-# Last change: 2026-08-18 16:50:53 UTC (sync mode: delta)
+# Records: 100663
+# Last change: 2026-08-18 17:46:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -32716,6 +32716,7 @@ feelingruthless.top
 feelmanuscript.top
 feelridge.top
 feelyearn.top
+feelyourpain.co
 feepropagation.top
 felbranthor.shop
 felfecirdom.co
@@ -41298,6 +41299,7 @@ hesapli.sigortaamnnetg.site
 hesapli.sigortaamnneth.site
 hesapli.sigortacifirsatkampanyali.com.tr
 hesapli.sigortamnetabff.com.tr
+hesaplikasap.online
 hesaplimit.blog
 hesapmax.net
 hesapsizajans.com
@@ -42596,6 +42598,7 @@ homegoodscrate.shop
 homegoodsport.shop
 homegoodsway.shop
 homejuzdanlarpromotion.xyz
+homekitchenes.store
 homelerdeseen.duckdns.org
 homelesbazg.top
 homelessclergy.cn
@@ -49596,7 +49599,9 @@ kampnyalartukenyor1o1.shop
 kampnyasepete.click
 kampnynzpayfxde.com
 kampotodemon.my
+kampsandalyeleri.vercel.app
 kampsandalyesi.vercel.app
+kampsendalyesi.vercel.app
 kampvergix.net
 kampya-bireysel-basvur-com.ml
 kamu.biz
@@ -51090,6 +51095,7 @@ klenderadmsnevllh.shop
 klenderbont.info
 kleopatra.world
 kleovp.top
+klerdesnweasdes.duckdns.org
 klervergkolurts.net
 klgfmsnn2ksla.top
 klieuenant.top
@@ -57463,6 +57469,7 @@ mfcvll.top
 mfdemlkhvshvers.net
 mferje.cc
 mfiyzw.top
+mfkfjsdkfm347.duckdns.org
 mfohur-tnus-ypfay.icu
 mforumguncel.com.tr
 mfposb.host
