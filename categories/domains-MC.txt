@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41129
-# Last change: 2026-08-15 07:00:15 UTC (sync mode: full)
+# Records: 41133
+# Last change: 2026-08-18 14:54:39 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -20398,6 +20398,7 @@ ksnytbp.com
 ksomkm.ddns.net
 ksoxprwqd.com
 ksprudbdjdnflfn.xyz
+ksr-racingparts.com
 ksv01sokudwongsj.theworkpc.com
 ksxsh.com
 ktci.ir
@@ -20677,6 +20678,7 @@ lap-top.xyz
 lapalmaelsalvador.com
 lapas.live
 lapatate2.ddns.net
+lapellelaser.pl
 lapiosstiee.top
 lapiostie.top
 lapiostiee.top
@@ -27030,6 +27032,7 @@ parrottalks.info
 parrparsons45.xyz
 parrz.com
 parsefilm.com
+parsrulman.com
 part223.xyz
 partallomorte.com
 parteafterparte.xyz
@@ -36775,6 +36778,7 @@ uzuwzbrbww.owgal.ru
 uzvnqro.com
 uzwatersource.dynamic-dns.net
 uzxiaphg.com
+v-k.com.ua
 v-new.cloud
 v.qwezxcq18.pw
 v.verifyartical.com

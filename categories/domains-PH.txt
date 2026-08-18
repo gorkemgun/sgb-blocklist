@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100598
-# Last change: 2026-08-18 13:58:45 UTC (sync mode: delta)
+# Records: 100647
+# Last change: 2026-08-18 14:54:39 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1581,6 +1581,7 @@
 3534655.site
 354046793.net
 354323223.net
+354653468000.net
 354qytr.cn
 35542222534.cloud
 355cedae.jdhuwoskz.cloud
@@ -5430,6 +5431,7 @@ akbabasoylu.net
 akbak-kampanya-online.preview-domain.com
 akbakplc.com
 akbanfins.com
+akbank-bireysel-subesi.ph
 akbank-destek.com
 akbank-guvenlik.com
 akbank-kasimcekilisi.com
@@ -7899,6 +7901,7 @@ aracmuaynmm.net
 aracmuaynmtuvrk.net
 aracmuaynnxetucrt.com
 aracmuayntuvtrk.net
+aracmuayyyenen.com
 aracmuhayhnehmztleri.org
 aracmuyanaehzxmetileri.net
 aracmuyanehmzetleri.net
@@ -8554,6 +8557,7 @@ asdsvt-svdvtt.com
 asdvdssdgagergea.shop
 asdzxbqykle.net
 aseftanri.store
+aselsan-ai.sbs
 aselsan-app.digital
 aselsan-healthcare.com
 aselsan-soft.com
@@ -11183,6 +11187,7 @@ baykar-platformu-pro.pages.dev
 baykar-platformu.pro
 baykar-pro.bet
 baykar-pro.life
+baykar-pro.today
 baykar-software.com
 baykar-tr2024.com
 baykar-turkish.com
@@ -11985,6 +11990,7 @@ benimleoyunlaroynadin.click
 benimprofilim.com
 benimprofillimekimbakti.net
 benimtarifimyemek.blogspot.com
+benimyerim.com.tr
 benitasi.com
 benkafiloarackiralama.com
 benkullandim.club
@@ -15846,6 +15852,7 @@ build-making-global.net
 buildar.shop
 buildcarbohydrate.top
 builddrill.top
+builderwebsite.carrd.co
 buildingadhere.top
 buildingbrandsdos.com
 buildingbrandsmkt.com
@@ -26972,6 +26979,7 @@ dosyasorgusu.com
 dosyatakibi.org
 dosyatakibiyap.com
 dosyatakip.info
+dosyatakipmerkezi.org
 dosyauzlasmaportal.com
 dosyauzlasmaportali.com
 dosyauzlasmasi.com
@@ -36842,6 +36850,7 @@ girstrbnncra.online
 gisealani.xyz
 giselleblea.com
 gisematik.xyz
+gitgidebildiginyerdeyiz.sbs
 gitgidelimgrntye.net
 github-scanner.com
 github.zh-cns.top
@@ -37166,6 +37175,7 @@ gn-cllxmr-firsstlylan.net
 gn-clslxmr-firsstlylann.net.tr
 gnc-sip-yon-alims.xyz
 gnceazcrforsamarket.cfd
+gnceladresweb.web.app
 gnclalsvrscrfsa.cfd
 gncledvlltaid-atiaadesii.com
 gnclgirissitesi.shop
@@ -37804,6 +37814,7 @@ gratis.is-a-caterer.com
 gratis.is-a-geek.com
 gratis.lakeboundtech.com
 gratis.likescandy.com
+gratis.obliqueprism.com
 gratis.servehumour.com
 gratis.teknodeno.com.tr
 gratis.v6.army
@@ -38164,6 +38175,7 @@ gubersadd.net
 gububasfa.click
 gucluyardim.com
 gucluyarinlaravakfi.com.tr
+gucum109.click
 guduo.xyz
 gueastr-booikcheks.com
 gueetychekscnow.com
@@ -39162,6 +39174,7 @@ h3amazon.com
 h3bb7fin.cn
 h3q2wtrsaf12t3-gxfs-3-2gdsgy31q2t-fsa.sbs
 h3x8m2k9q6f4n7zh.cfd
+h47474cc.click
 h4rn.blogspot.com
 h4w0s09.cn
 h5bnqv.xdk8ax.cn
@@ -39601,6 +39614,7 @@ haftaninseciliurun.sbs
 haftanintelefonuu1001.com
 haftanintrendlerinesendebirbak.shop
 haftaninurunleris.com.tr
+haftaninyildizfirsatlari.com
 haftaninyildizindirime.sbs
 haftaninyildizindirimekle.sbs
 haftaninyildizisinirlicampanyler.xyz
@@ -42359,6 +42373,7 @@ hlfxlglendg.net
 hlgpjv.cc
 hlgsgxsiniz.net
 hlk-frasstkmp.sbs
+hlkbn2.blogspot.com
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
 hlloo-wallet.webflow.io
@@ -43532,6 +43547,7 @@ hzlrandvnnunall.net
 hzlrandvnual.net
 hzlrandvv-webtp.space
 hzlsigortamburdaatr.com.tr
+hzlsnnets.web.app
 hzlsrgulamalxsr.com
 hzlvrgodeme.fun
 hzlydzmi.net
@@ -44474,6 +44490,8 @@ ilanda-ozelsepetim.com
 ilanda-sepetim-1091.com
 ilanda-sepetim-1092.com
 ilanda-sepetim-1093.com
+ilanda-sepetim-1094.com
+ilanda-sepetim-1095.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -45846,6 +45864,7 @@ infyra.online
 ing-uygulama-guncelleme.azureedge.net
 ing.netbank-nb.com.au
 ing4x.com
+ingbank-kullanici.ph
 ingbank-online-kampanya.ph
 ingdenkasimfirsati.ml
 ingdensuperkasim.ml
@@ -46479,6 +46498,7 @@ internetpaketi.website
 internetsube-vkf-kampanyalarn.us
 internetsube-yapikredicomtr.rf.gd
 internetsubesi-akmobil.jumpingcrab.com
+internetsubesi-ingbank-tr.ph
 internetsubesi.11kasimdakfirsatim.online
 internetsubesi.online
 internetsubesigiris1.com
@@ -47199,6 +47219,7 @@ istanbulbozum.com
 istanbulbsvr.website
 istanbulbuyuksehirbelediyesi.com
 istanbulc4cmkart.net
+istanbulcanbelggimla.xyz
 istanbulcancabab.xyz
 istanbulcancan.com
 istanbulcancan.xyz
@@ -48375,6 +48396,7 @@ izzzmimdlm.net
 izzzmirfhvkarddt.com
 izzzmirrtcge.com
 izzzmrxmdebyksehirhalkxndrmleri.net
+j565656.click
 j5cfcb4.cn
 j67cwc9.cn
 j6jc79.csb.app
@@ -48585,6 +48607,7 @@ jetbrains-apps-group.gitlab.io
 jetcarfilo.com
 jetcarsfly.com
 jetcepte.info
+jetcepte.xyz
 jetcicek.org
 jetgroup.tk
 jethizindasigorta.net.tr
@@ -49570,6 +49593,7 @@ kampnyalartukenyor1o1.shop
 kampnyasepete.click
 kampnynzpayfxde.com
 kampotodemon.my
+kampsandalyesi.vercel.app
 kampvergix.net
 kampya-bireysel-basvur-com.ml
 kamu.biz
@@ -50500,6 +50524,7 @@ kgm-govs.life
 kgm-govt.site
 kgm-govtir.top
 kgm-hizmet.com
+kgm-igov.life
 kgm-ogc.com
 kgm-oqe.com
 kgm-oqi.com
@@ -51665,6 +51690,7 @@ kopasertgois.info
 kopekcik.art
 kopenheimer1.app
 koperatiftarim.cloud
+kopkop.click
 kopkrlzk.xyz
 koprugecis.2kool4u.net
 kopruluislemler.com
@@ -54635,6 +54661,7 @@ lutharen.com
 lutrella.com
 lutuosdahshad124sadh23sda.click
 luuu.top
+luv738437.click
 luvbjtav.tokyo
 luxdevon.com
 luxglow.beauty
@@ -57533,9 +57560,11 @@ mhrs-s.digital
 mhrs.alllahnerdekiya.sbs
 mhrs.basvurulari.org
 mhrs.cicekcihizli.cyou
+mhrs.cicekcihizli.homes
 mhrs.fr
 mhrs.iyoz.net
 mhrs.mersinstar.com
+mhrs.mersinstar.xyz
 mhrs.xyz
 mhrs5nwdkm3.duckdns.org
 mhrsanlikodemehizli.icu
@@ -57546,6 +57575,7 @@ mhrsbeta.duckdns.org
 mhrsbilgi.duckdns.org
 mhrsc347niz234wfh.com
 mhrsclsdc.com
+mhrsgiris-edvltlogin2026.com
 mhrsgirisportaliburada.digital
 mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
@@ -58387,6 +58417,7 @@ mobili.my-homeip.com
 mobilia.my-homeip.com
 mobiliadebasvuruformedvlt.ml
 mobilin85yillinaaozelkampanya.com
+mobilinbankasi-akbank.ph
 mobilisbank.gq
 mobilisecavity.top
 mobiliseemigrant.top
@@ -61280,6 +61311,7 @@ nodehubs.store
 nodenvoy.top
 noderler0z.net
 nodkalcvniv.net
+noedjsetertas.duckdns.org
 nofcarfilo.com
 nofun.lol
 noibmw.top
@@ -66084,6 +66116,7 @@ parliamentbarometer.top
 parliamentcensus.top
 parlibu.shop
 parlibundanhediyelergiris.ml
+parloparla.click
 parm-gvende.sahibiniden.shbl1.online
 parm-gvende.sahibiniden.shl1.online
 parm-gvnde-ilan-sahbden.com
@@ -69273,6 +69306,7 @@ proyorum.pro
 prpcekiliskatilhemen.cloud
 prpdyurugrslertr.com
 prprtk.blob.core.windows.net
+prrrrrdannnnnsssss.com
 prsecutembilise.top
 prshgjjxgcak.net
 prsmbeveasdgrihzmertt.net
@@ -69668,6 +69702,8 @@ pttavmaracdetay.firebaseapp.com
 pttavmaracdetay.web.app
 pttavmaracsorgu.firebaseapp.com
 pttavmaracsorgu.web.app
+pttavmdetaykontrol.firebaseapp.com
+pttavmdetaykontrol.web.app
 pttavmealisveris.com
 pttavmepazar.com
 pttavmesatis.com
@@ -69678,6 +69714,7 @@ pttavmhgsbakiyeyuklme.web.app
 pttavmhgsyukle.arabamuayenesi.xyz
 pttavminternet.com
 pttavmkampanyasi.com
+pttavmkm.web.app
 pttavmkmdestek.web.app
 pttavmkmislem.firebaseapp.com
 pttavmkmislem.web.app
@@ -69685,6 +69722,7 @@ pttavmkmkontrol.firebaseapp.com
 pttavmkmkontrol.web.app
 pttavmkmportal.web.app
 pttavmkmsorgumerkezi.web.app
+pttavmkmsormakweb.web.app
 pttavmkolay.com
 pttavmleri-kkx.net
 pttavmleri-rgx.net
@@ -70541,6 +70579,7 @@ qbnidfers.vercel.app
 qbozdlz.cn
 qbpuna.top
 qbrdy.com
+qbvn83748.click
 qcuzir.cyou
 qcvard.top
 qd7.qee666.com
@@ -78097,6 +78136,7 @@ sigortamgrop.b-cdn.net
 sigortamguvenli.net
 sigortamhalletimhizli.com
 sigortamhanem.net
+sigortamhgskask.com
 sigortamizuyguns.net
 sigortamm.net
 sigortammm.website
@@ -83444,6 +83484,7 @@ t3vakfi.wixsite.com
 t3vakfi.zone.id
 t70qurh.cn
 t718zra.cn
+t748383.click
 t74909303.click
 t8tgrws.boyacentury.cn
 t90141296286.p.clickup-attachments.com
@@ -83836,6 +83877,7 @@ tapelawsearchspecial.click
 taperepressive.top
 tapfkohbs.online
 tapgncweb.web.app
+taphzmet.web.app
 taphzmett.shop
 taphzmts.shop
 tapirananivumx.online
@@ -83882,7 +83924,9 @@ tapulbbasvuru.net
 tapulhemenrandvu.net
 tapumigo.com
 tapuno.store
+tapurandevu.com
 tapurandevucum.net
+tapurandevudanisma.web.app
 tapurandevugncel.web.app
 tapureko.store
 tapusorgu.tkgmturkiye.org
@@ -88977,7 +89021,10 @@ tubehum.top
 tubeintuition.top
 tuberclelike.com
 tubestewardess.top
+tubitak-67gov-90tr.weebly.com
 tubitak4005stefam.blogspot.com
+tubitakfenlisesi.info
+tubitakfenlisesi.site
 tubitakgovtr.formstack.com
 tubitakorg.typeform.com
 tucasacr.org
@@ -90974,6 +91021,7 @@ useininveskis.shop
 usejoiter.store
 uselessawful.top
 uselesscool.top
+uselessticket.co
 usemeltoxa.store
 usemyears.com
 usenovara.site
@@ -93642,6 +93690,7 @@ vvakkifibbasvclick.store
 vvd-vakf.com
 vvdecvt-gret.com
 vvdevl-fderrt.com
+vver-tubitak.vercel.app
 vverglodemeler.net
 vvg2rt.top
 vvgmgi.top

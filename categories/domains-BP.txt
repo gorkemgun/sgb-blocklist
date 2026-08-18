@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257289
-# Last change: 2026-08-18 13:58:45 UTC (sync mode: delta)
+# Records: 257303
+# Last change: 2026-08-18 14:54:39 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -50726,6 +50726,7 @@ botass.info
 botastr.top
 botasvest.top
 botasyatirim.org
+botitilanme-katore.lol
 botivedonse-katore.lol
 botnamce.nl
 botonline.click
@@ -56420,6 +56421,7 @@ cebteteb-tr-mobil-puan.com
 cebteteb.com
 cebteteb.my-homeip.net
 cebteteb.myonlineportal.de
+cebtetebi.myonlineportal.ch
 cebtetebonline.com
 cebtetebonusu.com
 cebtetebsube.online
@@ -93375,6 +93377,7 @@ firsatgunlerindeyiz.online
 firsatgunlerindirim.com
 firsatgunlerindirimeylul.com
 firsatgunlerinikacirmaz.com
+firsatgunlugu.sbs
 firsatgunlukleri.xyz
 firsatgunnewyearscamp6.net
 firsatgunu.sbs
@@ -108282,6 +108285,7 @@ haberler3538434.shop
 haberler360.sbs
 haberler363234.shop
 haberler365guncel.com
+haberler432432.shop
 haberler4567844.shop
 haberler4722.shop
 haberler47823.shop
@@ -121185,6 +121189,7 @@ hizligecsenebizimle.blogspot.com
 hizligecslerde.com
 hizligecsodemelerinizavbilgi.duckdns.org
 hizligectimcaktim.net
+hizligectimoldu.shop
 hizligecyukle.com
 hizligecyukle.sg-host.com
 hizligelsin.site
@@ -147077,6 +147082,7 @@ kepadresguncel.com
 kepadresim-aktif.com
 kepadresim-guncel.com
 kepadresim-tekno-sa.com
+kepadresimhepsiburada.com
 kepadresimyeni.com
 kepadresn11.com
 kepaktif.com
@@ -179669,7 +179675,10 @@ paribu-shibcoin.click
 paribu-shibcoin.com
 paribu-sorgulama.co
 paribu-sponsorcekilisi.live
+paribu-sponsorlu-cekilis.online
 paribu-sponsorlu-cekilisi.live
+paribu-sponsorlu-cekilisi.online
+paribu-sponsorlucekilis.online
 paribu-sponsorlugunda-cekilis.live
 paribu-tr-2022.com
 paribu-tr-2022.xyz
@@ -180564,6 +180573,9 @@ paribusizlerileshiba.co.vu
 paribuskts.xyz
 paribuslogin.co.vu
 paribusosyalmedyacekilisleri.xyz
+paribusponsorlu-cekilis.online
+paribusponsorlucekilis.online
+paribusponsorlucekilisi.online
 paribuss.com
 paribuss.xyz
 paribustellar.xyz
@@ -186156,6 +186168,7 @@ pttavm.hizmet-ilan.com.tr
 pttavm.hizmetalisveris.com.tr
 pttavm.ilan-m.com.co
 pttavm.ilan-m.com.pl
+pttavm.ilan-mobilde.com
 pttavm.ilan-satin-al.com.tr
 pttavm.ilan-sepetimde.com
 pttavm.ilanda-siparislerim.com
@@ -235056,6 +235069,7 @@ w5dwxw5xw.online
 w5t2r9x7n0q3b1m6y4p8z2v9.com.tr
 w7tpqlpeoter9jk03cspm6k4.newsthrifty.com
 w9ocr12ul.storage.googleapis.com
+w9qtx4mvl2rkap8.cfd
 wa15.duckdns.org
 wa1o1.com
 wadawsw.best
