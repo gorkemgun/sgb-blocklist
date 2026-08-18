@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100552
-# Last change: 2026-08-18 08:55:08 UTC (sync mode: delta)
+# Records: 100558
+# Last change: 2026-08-18 09:51:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9635,6 +9635,7 @@ aviskiralamalar724.site
 aviskiralikaraba.com
 aviskiralikaracfilosu.online
 aviskiraoto.online
+aviskurumsalotokoc.com
 avislearackirala.ml
 avislearackiralama.ml
 avisliol.ml
@@ -9656,6 +9657,7 @@ avisotoflosu.online
 avisotohemenkiralama.online
 avisotokiralama.epizy.com
 avisotokiralama.site
+avisotokocfilo.com
 avisotomobilkiralama.com
 avisotomobilkiralama724.com
 avisproileotokiralama.online
@@ -15057,6 +15059,7 @@ brdafrsalarnfaydnlacrfsa.cfd
 brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
 brdamhrsrarandvzhmzr.sbs
+brdan182rvdals.store
 brdanlardankzdenlrden.com
 brdanlardanszlardans.shop
 brdfrsat1a1glalsindi.com
@@ -44514,6 +44517,7 @@ ile-devam.com.tr
 ile-e-sepetler.com.tr
 ile-firsatli-ilan.com
 ile-guvende-islemini-yap.com
+ile-guvende-tamamla.com
 ile-guvendealisverisiyap.com
 ile-guvenilirodeme.com
 ile-guvenli-odemem.com
@@ -69473,6 +69477,7 @@ ptt-triapostrack.top
 ptt-zome.top
 ptt-zz.top
 ptt.avmbireyselsiparis.com
+ptt.avmsatislarim.com
 ptt.breffy.cyou
 ptt.breffy.icu
 ptt.com.co
@@ -97870,6 +97875,7 @@ xn--sahbinden-xpb.com.tr
 xn--sahbnden-vkbb.com.tr
 xn--sahbnden-w2ab.com
 xn--sahibinden-guvenli-sat-7ld81i.com
+xn--sahibinden-guvenliodeme-sifir-alsveris-fxf.lovable.app
 xn--sahibinden-gvenli-e3b.ileal.com.tr
 xn--sahibinden-param-gvende-tpc.com
 xn--sahibinden-paramgvende-8lc.secure-gets.com.tr
