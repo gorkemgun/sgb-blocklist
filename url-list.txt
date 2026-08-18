@@ -244953,6 +244953,7 @@ kampanyabugunhemenbasvur.site
 kampanyabuhafta.com
 kampanyabuhafta.com.tr
 kampanyabul.cfd
+kampanyabul.sbs
 kampanyaburada.cloud
 kampanyaburada.online
 kampanyaburada.org
@@ -281727,6 +281728,7 @@ mobil-devletaidatlarwebislemler.com
 mobil-devletbilgilerimiadegovtr.tk
 mobil-devletdestegi.com
 mobil-devletpandemidestegi.com
+mobil-dijital-firsatlar.sbs
 mobil-dijital-giris-sube.tk
 mobil-dijital-platform.tk
 mobil-dnzdeonay-basvuru.com
@@ -371626,6 +371628,7 @@ soft-feather-7807.0x.cloudflare-workers.workers.dev
 soft-gets.com
 soft-kind.com
 soft-make.com
+soft-moon.ink
 soft-out1.aqgj.cn
 soft-storage.com
 soft.appofficeapp.co
@@ -462816,6 +462819,7 @@ ziraatbank-mobilsubesi-tr.com
 ziraatbank-nsube.com
 ziraatbank-online-mobil.com
 ziraatbank-onlinecep.com
+ziraatbank-onlinesbi.ph
 ziraatbank-onlinesubesi.com
 ziraatbank-ozel.com
 ziraatbank-pratikbasvuri.vercel.app
