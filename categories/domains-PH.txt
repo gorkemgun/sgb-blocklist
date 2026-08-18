@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100559
-# Last change: 2026-08-18 10:49:06 UTC (sync mode: delta)
+# Records: 100568
+# Last change: 2026-08-18 11:43:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -189,6 +189,7 @@
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-eozel.xyz
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulurunleri.shop
@@ -7880,6 +7881,7 @@ aracmuayenesorgulamalar.com
 aracmuayenetuvturkrehberi.com
 aracmuayenex.com
 aracmuayenexxcc.net
+aracmuayeneyaptir.sbs
 aracmuaynalhemen.uk
 aracmuayne-al.net
 aracmuaynehzmetxlerode.net
@@ -16513,6 +16515,7 @@ c288a9v.cn
 c2qv9xrh7mzk4ptw6jyniii.click
 c31casc1.great-site.net
 c3vees.whatsmapp.download
+c4433.site
 c4commintyfree.a0001.net
 c50d72ce.dsfiurb-u.shop
 c55-shop.fit
@@ -30488,6 +30491,7 @@ erik-btc.com
 eriklisubesiekimindirimi.com.tr
 eriklisubesikasimindirimi.xyz
 erikliyardimvakfi.com
+erilenerji.biz
 erisim-web-tr-link.net
 erisimin.online
 erisimin.website
@@ -49719,6 +49723,7 @@ karaca-caydanlik.com.tr
 karaca-dunyasi-com-tr.sbs
 karaca-duyam-com-tr.cfd
 karaca-firsat-dunyasi.shop
+karaca-home.shop
 karaca-indirimde.vercel.app
 karaca-mutfak.com
 karaca-online.net.tr
@@ -52298,6 +52303,7 @@ kuveyturksebebi.click
 kuvukye.space
 kuvv-tr-julyceheck.online
 kuvvencekilinst.hopto.org
+kuvvetdenkuvvetdogar.co
 kuvvetledirektonnaayss.com
 kuvvetlehemennonayssube.com
 kuvvetlehemennonayylaaa.com
@@ -60337,6 +60343,7 @@ nejwkmnsb.net
 nejwnmsjkbs.net
 nejwsmkbs.net
 nekadsdralto.top
+nelerdeshanewds.duckdns.org
 nelik.click
 nelokoz.top
 neloree.com
@@ -73181,6 +73188,7 @@ rivxon.com
 rixosbelekpremium.com
 rixoshotelresort.com
 rixosluxuryhotels.com
+rixospremiumshotels.com
 rixospremiumspa.com
 rixosrugs.com
 rixosshotels.com
@@ -90094,6 +90102,7 @@ u61.xyz
 u62010142.ct.sendgrid.net
 u648984.softaculous.dev
 u649198.softaculous.dev
+u649786.softaculous.dev
 u8404944.click
 u8b2mkoad.lomondviewcottage.co.uk
 u8n.us
