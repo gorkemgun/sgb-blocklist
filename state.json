@@ -1,12 +1,12 @@
 {
   "layout": 3,
-  "last_run": "2026-08-18 22:44:08",
+  "last_run": "2026-08-18 23:39:49",
   "last_full": "2026-08-18 07:56:13",
   "last_mode": "delta",
-  "date_gte": "2026-08-18 15:41:19",
+  "date_gte": "2026-08-18 16:44:08",
   "newest_record_date": "2026-08-18 22:12:25.191171",
   "fetched": {
-    "domain": 35,
+    "domain": 24,
     "url": 0,
     "ip": 0,
     "ip6": 0,
@@ -45,15 +45,10 @@
     "categories/urls-PH.txt": 272
   },
   "delta_vs_previous": {
-    "domains_added": 3,
+    "domains_added": 0,
     "domains_removed": 0
   },
-  "changed_files": [
-    "categories/domains-BP.txt",
-    "categories/domains-PH.txt",
-    "domains.txt",
-    "url-list.txt"
-  ],
+  "changed_files": [],
   "skipped": {},
   "api": "https://siberguvenlik.gov.tr/api/address/index",
   "generator": "scripts/sgb_sync.py"
