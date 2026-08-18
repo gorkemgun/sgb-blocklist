@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100506
-# Last change: 2026-08-18 05:47:30 UTC (sync mode: delta)
+# Records: 100530
+# Last change: 2026-08-18 07:07:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1267,6 +1267,7 @@
 23465253sd235fsd.click
 234ec12f2109cfe9f835b71d0b51d6a3.schneiderei-bolten.de
 2351578.xyz
+235976235dfsohu32.click
 235dfsfds23gsdf.click
 235fjpsdo23532.cfd
 235sdaf235sa.click
@@ -3660,6 +3661,7 @@ ableplgrim.top
 ablestandby.top
 ablestroll.top
 abnkmjwlca.lol
+abnormin-legrn.ink
 abogadosprivados.com
 aboneligi.net
 abonelik.ucuzevinterneti.com
@@ -7074,6 +7076,7 @@ anlikodeme.net
 anlikpazarfrsat1o1de.com
 anliksiparis.com.tr
 anlikvergiode.net
+anlikvizyon.site
 anlkbakyetanmlma.lat
 anlkninda-satsonay.com.tr
 anna-karenina.ru
@@ -11359,6 +11362,7 @@ baykarprogram.com
 baykarproject.eu
 baykarprojects.info
 baykarpublic-investmentplatform.com
+baykarpusula.info
 baykarr-inv.com
 baykarr.info
 baykarr.online
@@ -28064,6 +28068,7 @@ e-turkiye.xyz
 e-turkiyegov.org
 e-turkiyem-kapisi.com
 e-tuvsorgulamalar.org
+e-tuvtr.site
 e-tuvturkmerkezitamir.digital
 e-urun-ilanlar.com.tr
 e-uyapsorgu.com
@@ -30488,6 +30493,7 @@ erkendenalma.duckdns.org
 erkengulen.biz
 erkenmobilhizli.site
 erkenrandevuler.com
+erkenyatan.biz
 erkerandevular.com
 erkin.pro
 erkin.space
@@ -39716,6 +39722,7 @@ halklimitim.help
 halklimitim.online
 halklimitim.xyz
 halklimitin.online
+halklimitin.xyz
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
@@ -49494,6 +49501,7 @@ kampanyasi.net
 kampanyasi.online
 kampanyasi.org
 kampanyasizgunyok.xyz
+kampanyasoksokkampnyalarimizzer.duckdns.org
 kampanyasongunu24.online
 kampanyatakip.net
 kampanyatakiple.net
@@ -53230,6 +53238,7 @@ librarianfringe.top
 library-novel-axe.com
 librarycurrents.duckdns.org
 librarypanoramic.top
+libren-web.ink
 licenseaggravation.top
 licensecanal.top
 licensendefinite.top
@@ -56844,6 +56853,8 @@ meharrese.com
 meharrrese.com
 meheresebayram2.sbs
 meherse.com
+mehersel.com
+mehersem.com
 mehhrs.dns.navy
 mehhurst.com
 mehiray.com
@@ -58413,6 +58424,7 @@ mobilweb-teknolojidagitimsorgulama-com.tk
 mobilxv2girsxv1gibcgovtr.fun
 mobilxv2girsxvlgibcgovtr.site
 mobilxxiademgovv1v1tr.live
+mobilyamerkezitr.shop
 mobilyapikredigirisi.com
 mobjldenizim.net
 moblaxia.shop
@@ -60729,6 +60741,7 @@ newsubtlety.top
 newsvanta.online
 newsvoyant.online
 newswave.company
+newswisp.today
 newswoven.com
 newsx24daily.com
 newsystemcontrol.com
@@ -65660,7 +65673,9 @@ paribu-pepehediyesi.info
 paribu-pepehediyesi.link
 paribu-sistem.com
 paribu-sogukdepo.com
+paribu-sponsorlu-cekilis.live
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlucekilis.live
 paribu-technology.com
 paribu-tr.online
 paribu-tr.org
@@ -70696,6 +70711,7 @@ quantum-mindfusion.sbs
 quantumai.tools
 quantumal.xyz
 quantumcheck.shop
+quantumflexivo.com
 quantumlighthouse.top
 quantummyself.top
 quantumoptimum.top
@@ -70775,6 +70791,7 @@ quickarea.top
 quickdigestx.com
 quickhype.click
 quickmagnify.top
+quickoza.com
 quickrent-kiralama.life
 quickroombook.com
 quickspheredaily.com
@@ -76836,6 +76853,7 @@ sepetteguvenlihizmet.com
 sepettehizlifirsatlar.xyz
 sepetteindirimlergel.xyz
 sepettenalishizmeti.com
+sepetteonline.site
 sepetteurunlertukenmedenalin.com.tr
 sepetteurunlertukenmedenalin.xyz
 sepetteyiz.club
@@ -80578,8 +80596,10 @@ sponsorlu-91.online
 sponsorlu-95.online
 sponsorlu-96.online
 sponsorlu-98.online
+sponsorlu-cekilisler-paribu.live
 sponsorlu-icerik.name.tr
 sponsorlu-market.xyz
+sponsorlu-paribu.live
 sponsorlu-tanitim.com.tr
 sponsorlu.click
 sponsorlu.online
@@ -83414,6 +83434,7 @@ tackleprobe.top
 tacklesyndrome.top
 tackletitansin.com
 tacklocomotive.top
+tacloude-q-dephaseum-dezenus.top
 tacobuo.com
 tactarrow.com
 tactdesk.com
@@ -84444,6 +84465,7 @@ techziyhqt.lat
 tecnicasreunidas.team
 tecnolineservice.com
 tecnoriego.com.ec
+tecnorix.com
 tedarigin-guvenlisi.com
 tedarik.works
 tedarikci-onayli.com
@@ -92697,6 +92719,7 @@ vesalesna.net
 vesanana.net
 vesansa.net
 vesasasan.net
+vespatch-lybr.ink
 vesselbusiness.top
 vesselcore.top
 vesselreassurance.top
@@ -99593,6 +99616,7 @@ yukleparki.net
 yukles.blogspot.com
 yuklmezamni.cfd
 yuksek-suda-swim.net
+yuksekdagindumani.co
 yuksekurum-sistemleri.net
 yukselen-sevincli-haberler-yanina-geldi.com
 yukumar643.xyz

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465740
-# Last change: 2026-08-18 05:47:30 UTC (sync mode: delta)
+# Records: 465765
+# Last change: 2026-08-18 07:07:36 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9469,6 +9469,7 @@
 23577235-q1.xyz
 235853921290560725.online
 235945.space
+235976235dfsohu32.click
 235dfsfds23gsdf.click
 235fjpsdo23532.cfd
 235nfs8f82vh.top
@@ -27114,6 +27115,7 @@ abnkkx.strangled.net
 abnkmjwlca.lol
 abnksstmnkts.online
 abnnk-kkrdii.com
+abnormin-legrn.ink
 abntrmuza.vercel.app
 abo0u6ach9k3w.net
 abo3mo.zapto.org
@@ -46772,6 +46774,7 @@ anliksistembasvuruhhizmetiba.com
 anliksonhaber.com
 anliksonhaberler.com
 anlikvergiode.net
+anlikvizyon.site
 anlikyatirim.com
 anlikyollar.xyz
 anlikyuklemc.xyz
@@ -64372,6 +64375,7 @@ baykarproject.eu
 baykarprojects.info
 baykarpublic-investmentplatform.com
 baykarpulse.info
+baykarpusula.info
 baykarr-inv.com
 baykarr-tr.wiki
 baykarr.com
@@ -139195,6 +139199,7 @@ e-turkiyemiz-gov.com
 e-turkiyeportaligovtr.com
 e-turly.com
 e-tuvsorgulamalar.org
+e-tuvtr.site
 e-tuvturkbaayi.digital
 e-tuvturkbayi.digital
 e-tuvturkbayilerrii.digital
@@ -153321,6 +153326,7 @@ erkenmartflrsatlariyla.com
 erkenmobilhizli.site
 erkenrandevuler.com
 erkenrezervasyonyapinizbize.net
+erkenyatan.biz
 erkenyilbasikatilimkazanckampanyasifirsatindasimdi.cloud
 erkenyukle.blogspot.com
 erkerandevular.com
@@ -195403,6 +195409,7 @@ halklimitim.help
 halklimitim.online
 halklimitim.xyz
 halklimitin.online
+halklimitin.xyz
 halklimizinbankasiyizhalkbankasi.com
 halkliyilbasinda.org
 halklonline.com
@@ -246044,6 +246051,7 @@ kampanyasizgunyok.xyz
 kampanyasizinicinhemenbasvurunuyap.cloud
 kampanyasizlericinak2.cloud
 kampanyasok.click
+kampanyasoksokkampnyalarimizzer.duckdns.org
 kampanyason.com
 kampanyasonbuluyor99.com
 kampanyasongunu101.online
@@ -264622,6 +264630,7 @@ librarycurrents.duckdns.org
 librarypanoramic.top
 librarysso.vu.cvrr.me
 libreint.hopto.org
+libren-web.ink
 libudi.oreversa.com
 libya.zapto.org
 licatrade.com
@@ -276778,6 +276787,8 @@ meheresebayram2.sbs
 meheresebayram7.sbs
 mehereses2keratar.vercel.app
 meherse.com
+mehersel.com
+mehersem.com
 mehersharrow.com
 mehhatdenizkanal.duckdns.org
 mehhearse.com
@@ -277734,6 +277745,7 @@ merkeztr.sbs
 merkezwhgsbilgi.sbs
 merkezyardim.tk
 merkezyasam.com
+merkezzinciri.abrdns.com
 merkkado.com
 merkonlik.com
 merlinkredihizmetleri.online
@@ -284193,6 +284205,7 @@ mobilxxiademgovv1v1tr.xyz
 mobilxxiademgovv1v2tr.live
 mobilyabahcem.com
 mobilyacihan.com
+mobilyamerkezitr.shop
 mobilyapi.com.tr
 mobilyapi.org.tr
 mobilyapi.tr
@@ -294390,6 +294403,7 @@ newsvault.store
 newsvectorial.pro
 newsvoyant.online
 newswave.company
+newswisp.today
 newsworldcity.com
 newsworldcity.ml
 newswoven.com
@@ -317313,7 +317327,9 @@ paribu-shibcoin.com
 paribu-sistem.com
 paribu-sogukdepo.com
 paribu-sorgulama.co
+paribu-sponsorlu-cekilis.live
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlucekilis.live
 paribu-technology.com
 paribu-tr-2022.com
 paribu-tr-2022.xyz
@@ -337596,6 +337612,7 @@ quantumcorps.online
 quantumdataserver5.homes
 quantumdimensions.website
 quantumdynamics.top
+quantumflexivo.com
 quantumfllare.com
 quantumglide.org
 quantumhalo.website
@@ -337812,6 +337829,7 @@ quicklimetsouic.pro
 quickmagnify.top
 quickmind.site
 quicknodez.com
+quickoza.com
 quickproassess.com
 quickquake.top
 quickregistration.top
@@ -361274,6 +361292,7 @@ sepettenaldn.com
 sepettenalishizmeti.com
 sepettendustu.xyz
 sepetteodeme.com
+sepetteonline.site
 sepettesevilenurunlerikacirma.com.tr
 sepettesevilenurunlerikacirma.online
 sepettesevilenurunlerikacirma.xyz
@@ -376451,6 +376470,7 @@ sponsorlu-bntr.live
 sponsorlu-bntr.store
 sponsorlu-bntr.tech
 sponsorlu-bntr.xyz
+sponsorlu-cekilisler-paribu.live
 sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
 sponsorlu-giris933410.com
@@ -376491,6 +376511,7 @@ sponsorlu-marketim.online
 sponsorlu-marketim.xyz
 sponsorlu-medya-2591982102.online
 sponsorlu-paribu-cekilisleri.live
+sponsorlu-paribu.live
 sponsorlu-promosyoncu.chickenkiller.com
 sponsorlu-reklam.cfd
 sponsorlu-reklam.com.tr
@@ -385535,6 +385556,7 @@ tacklesyndrome.top
 tackletitansin.com
 tacklocomotive.top
 taclane.ddns.net
+tacloude-q-dephaseum-dezenus.top
 tacobuo.com
 tacquezet.citurtion.com
 tacsent.com
@@ -389710,6 +389732,7 @@ tecnoiiletisim.biz
 tecnojournals.com
 tecnolineservice.com
 tecnoriego.com.ec
+tecnorix.com
 tecnotrendgame.ddns.net
 tecnowebclub.ga
 tecon.com.mx
@@ -423409,6 +423432,7 @@ vesasanan.net
 vesasasan.net
 vesinhchavi.com
 vesirapolgo-tudore.lol
+vespatch-lybr.ink
 vesperiskindagoated.hopto.org
 vesselbusiness.top
 vesselcore.top
@@ -459234,6 +459258,7 @@ yuksek-mutlulugunuz.com
 yuksek-suda-swim.net
 yuksek34m.66ghz.com
 yuksek34m.is-best.net
+yuksekdagindumani.co
 yuksekegitimkurumlari.site
 yuksekperspektif.pro
 yuksekurum-sistemleri.net
