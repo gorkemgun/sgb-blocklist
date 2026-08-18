@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100668
-# Last change: 2026-08-18 20:42:38 UTC (sync mode: delta)
+# Records: 100673
+# Last change: 2026-08-18 21:41:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -23412,6 +23412,7 @@ d2wak7lnutabsurd.top
 d2whk7olesomepurchase.top
 d30jd5t.cn
 d462b81b.dsfiurb-u.shop
+d4kzq9xv2mnp7cta.cfd
 d4z5fd.top
 d5b74r04.na1.hubspotlinksfree.com
 d61d1bcc.jdhuwoskz.cloud
@@ -34747,6 +34748,7 @@ frontierintrinsically.top
 frontierjeopardize.top
 frontiersturdy.top
 frontingenuity.top
+frontsignal.top
 frontstory.pro
 frostcelery.top
 frostgiantd.info
@@ -40882,6 +40884,7 @@ hemenalisvrismagaza.online
 hemenall.click
 hemenalnsanra.net
 hemenaluyguna101.online
+hemenaracbakim.blogspot.com
 hemenarackirala.online
 hemenarackiralama.online
 hemenarackiralama724.online
@@ -66034,6 +66037,7 @@ paribusdtrek-kazan.ml
 paribusistemi.com
 paribusizinle.com
 paribusizlerle.com
+paribusponsorlugundacekilis.online
 paribustock.org
 paribustransfergunleri.co.vu
 paribusupertokengirisleri.co.vu
@@ -70903,6 +70907,7 @@ quickoza.com
 quickrent-kiralama.life
 quickroombook.com
 quickspheredaily.com
+quiet-house.ink
 quietevacuation.top
 quietforestwalks.com
 quietsubsidize.top
