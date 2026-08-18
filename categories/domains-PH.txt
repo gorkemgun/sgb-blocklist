@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100647
-# Last change: 2026-08-18 14:54:39 UTC (sync mode: delta)
+# Records: 100651
+# Last change: 2026-08-18 15:48:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7685,6 +7685,7 @@ aracburadankiralanir.xyz
 aracbuzdolabisepetteindir.xyz
 aracc-muayturk.online
 araccassmuaynee.net
+aracccimmuayyenee.com
 aracccpmuaayeneee.net
 aracccsorgucumahayirli.net
 araccim.blogspot.com
@@ -13991,6 +13992,7 @@ blstknrmva.xyz
 blsvisa.com.tr
 bluconsituent.top
 blue-empire-hotel.com
+blue-harbor.ink
 bluebadgeabusinessportal.ml
 bluebellenterprise.com
 bluebottle.boats
@@ -49778,6 +49780,7 @@ karacaclub.shop
 karacadagdernegi.com
 karacaevs.store
 karacafirsatlari.online
+karacagood.shop
 karacagranit.nicepage.io
 karacahome-firsatlar.site
 karacahome.vercel.app
@@ -97983,6 +97986,7 @@ xn--sendebizdenalhaberi-8wd.net
 xn--sendegiriyap-dnc.app
 xn--sendekatlbizegaaranetem-vqd.net
 xn--sendmithr-x9a49auz.net
+xn--setdestekyardmlari-q0c.com
 xn--sigortas-0kb.com
 xn--sindibrdatraplsc-mdd.app
 xn--sipariim-swb.com.tr

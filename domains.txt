@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465939
-# Last change: 2026-08-18 14:54:39 UTC (sync mode: delta)
+# Records: 465949
+# Last change: 2026-08-18 15:48:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -49161,6 +49161,7 @@ aracc-muayturk.com
 aracc-muayturk.online
 aracc-muayturk.xyz
 araccassmuaynee.net
+aracccimmuayyenee.com
 aracccpmuaayeneee.net
 aracccsmuayenessk.net
 aracccsorgucumahayirli.net
@@ -81131,6 +81132,7 @@ blue-dew-1dc6.msapp.workers.dev
 blue-empire-hotel.com
 blue-eyed4326.xyz
 blue-gardens.com
+blue-harbor.ink
 blue-term-c168.gov-pkgov.workers.dev
 blue-tick-opportunity-us.vercel.app
 blue-verification-free.vercel.app
@@ -176990,6 +176992,7 @@ gecisyuklemeleri-hizliyolhizligecis.ml
 gecisyuklemeleri-hizliyolhizligecis.tk
 gecisyuklemeyaphgs.com
 gecisyukleynz.web.app
+gecisyuklmesihizli.web.app
 gecitimodeme.net
 gecitmerkezislemleriniz.sg-host.com
 geciyoruzgelin.xyz
@@ -232524,6 +232527,7 @@ istanbulbelediye1453.net
 istanbulbelediyebuyuksehir.com
 istanbulbelediyesidolum.net
 istanbulbelggim.xyz
+istanbulbelgiim.xyz
 istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.uk
@@ -232591,6 +232595,7 @@ istanbulc4cmkart.net
 istanbulcamsi.shop
 istanbulcan.net
 istanbulcan.xyz
+istanbulcanbelggim.xyz
 istanbulcanbelggimla.xyz
 istanbulcancabab.xyz
 istanbulcancan.com
@@ -233039,6 +233044,7 @@ istanbulldolm.net
 istanbullhizlibakiyem.com
 istanbullhizmetleri.com
 istanbullkaarrt.net
+istanbullkaartttcan.xyz
 istanbullkar.com
 istanbullkart.blogspot.com
 istanbullkart34bakiyeyukleme.tk
@@ -247643,6 +247649,7 @@ karacafirsatlariindirim.com
 karacafirsatlariindirim.dog
 karacafirsatlariindirim.shop
 karacaglaxcan.com
+karacagood.shop
 karacagranit.nicepage.io
 karacagunleri.biz.tr
 karacagunleri.com.tr
@@ -320591,6 +320598,7 @@ pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
 pazarama.satiskapida.com
 pazarama.satiskontrol.com
+pazarama.siparislerimguvende.com
 pazarama.sorunsuzodeme.com
 pazaramaanelergunuozel.com
 pazaramabireyselsatis.online
@@ -337131,6 +337139,7 @@ qnbsizlerekazandiriyor.ml
 qnbsizlerekazandiriyor.tk
 qnbsizlerekredi.xyz
 qnbsizlerleagustosozel.xyz
+qnbstart.com
 qnbsubat-surprizleribasladi.ml
 qnbsubat-surprizleribasladi.tk
 qnbsubatsurprizleribasladi.ga
@@ -446815,6 +446824,7 @@ xn--senekalime-q6a85la.shop
 xn--senibuldugumda-brakcam-herseyi-canm-shfs.site
 xn--seniizapphabertr-pdd.app
 xn--senkndnbilebileyktnbunaslbyle-55c.online
+xn--setdestekyardmlari-q0c.com
 xn--sevgililergununeozel-1q2l.com
 xn--sevgililiergunu-denizde-gzel-q7c.com
 xn--sevgilinehediyenmobilde-gj2n.com
