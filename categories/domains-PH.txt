@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100651
-# Last change: 2026-08-18 15:48:43 UTC (sync mode: delta)
+# Records: 100656
+# Last change: 2026-08-18 16:50:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12172,6 +12172,7 @@ bey.seoper.top
 beyan-life-optimum.myonlineportal.eu
 beyaz-ecz.club
 beyaz-ecz.life
+beyazfilokiralama.com
 beyazgunler.shop
 beyazisikvakfi.com
 beyazitli.click
@@ -49809,12 +49810,14 @@ karacatcb.cfd
 karacatr.homes
 karacatr.shop
 karacatronline.shop
+karacatrs.shop
 karacaveg.homes
 karacayazfirsatlari.store
 karadeliksiralariuzayarastirmalari.xyz
 karadenizturlari.net
 karadgtrmer.shop
 karagozototamir.com
+karahome.fashion
 karaidat-bsvr-songun25ock.com
 karakayagcsgecei.net
 karakoc.online
@@ -59268,6 +59271,7 @@ muayene.click
 muayenealin.com
 muayenearac.com
 muayenearacim.com
+muayenedearaccim.com
 muayenehizmetleri.com.tr
 muayenehizmetleri.xyz
 muayeneliaracim.net
@@ -80949,6 +80953,7 @@ ss-sahibinden.tmguvendea.com
 ss-secure.com
 ss-start-ledger-m--auth.webflow.io
 ss0-crypotal-sso.webflow.io
+ss6777.site
 ss9hykk.cn
 ss9n1ti.cn
 ssa-storeattsment.com
