@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100530
-# Last change: 2026-08-18 07:07:36 UTC (sync mode: delta)
+# Records: 100533
+# Last change: 2026-08-18 07:56:13 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -15590,6 +15590,7 @@ btcxbonus-participatenow.com
 btcxinvest.com
 bteturk.xyz
 btexencekilisleri.cf
+btf-adalet-bakanligi.pages.dev
 bthalas.click
 btheatre.spb.ru
 btjzcg.click
@@ -79759,6 +79760,7 @@ sonicwall-netextender.nl
 sonifgyr5.cf
 sonindirimgunleri.com
 sonindirimlesim.shop
+soniz.top
 sonizmirsever.net
 sonkampanyalarisorgulayinkayitolun.net
 sonkampanyavehaberlerisorgula.net
@@ -98136,6 +98138,7 @@ xxx-three-theta.vercel.app
 xxx3cx31s.duckdns.org
 xxxbabaproxxx.pro
 xxxswwwsxsxwxsxwxxxx.duckdns.org
+xxxxxxxxx111111.click
 xxxxxxxxx111111.sbs
 xyklemgbtr.xyz
 xykoy.store
