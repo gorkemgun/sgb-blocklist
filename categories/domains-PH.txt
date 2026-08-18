@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100576
-# Last change: 2026-08-18 13:10:55 UTC (sync mode: delta)
+# Records: 100598
+# Last change: 2026-08-18 13:58:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -206,6 +206,7 @@
 101-ocak-indirimleri.net
 101-pazar-zamani.com
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101-salieylulmarketi.com
 101-sepetimz.com
@@ -17541,6 +17542,7 @@ cbnmbzbnzxbvzbetytyruuee81.info
 cbookindata.com
 cbookindate.com
 cbpzsxxiv.acessoeditoracao.com.br
+cbsgib.org
 cbv7364376.online
 cbvcxcxzx.tk
 cc-bsvral.com
@@ -17951,7 +17953,9 @@ cezasorgusu.com
 cezasorguuyap.com
 cezatakip.net
 cezatc.net
+cezauyap.org
 cezauyapsorgu.com
+cezauzlasmaburosu.com
 cezauzlasmamaliye.com
 cezktkegrgel.net
 cezmisahin87995.workers.dev
@@ -26922,6 +26926,7 @@ dosya-bilgi.com
 dosya-no-sorgu.com
 dosya-sorgula.net.dosya-sorgula.org
 dosya-sorgula.org
+dosya-takip.com.idea-files.com
 dosya.adlitakip.com
 dosya.adlitakip.org
 dosya.adliyekontrol.com
@@ -27754,6 +27759,7 @@ e-devlet-pandemi-destek.biz
 e-devlet-platform.vip
 e-devlet-portal-giris.haksizfil.cfd
 e-devlet-process-services.radlonx.online
+e-devlet-rehberi.com
 e-devlet-tr.vip
 e-devlet-turkiye-ssk-prim-sorgu.blogspot.com
 e-devlet-veri.cf
@@ -30772,6 +30778,7 @@ et1ilis.xdk8ax.cn
 etahsilatkgm.net
 etakip.org
 etaksitode.net
+etalimatdava.org
 etalimatdosya.org
 etalimatkamu.org
 etapkohbdes.online
@@ -31028,6 +31035,9 @@ evastaflip.top
 evatandas.org
 evatandasaidtidefrsati.com
 evatandasbilgi.org
+evatandasceza.org
+evatandasgib.org
+evatandasuyap.org
 evatandsaidthakiadsi.com
 evavillam.com
 evbasvuru3.duckdns.org
@@ -38879,6 +38889,7 @@ guzelgelecekler.org
 guzelgeleceklere.online
 guzelgunler-finansda.com
 guzelgunlerde.com
+guzelgunlere-ormana-dogaya.sbs
 guzelgunleregelsendefer.net
 guzelgunlerle.net
 guzelhayatt.com
@@ -40050,6 +40061,7 @@ haskhsarslrrrmmm.com
 hasletvakfi.store
 haslire.net
 hasmnsamhshansanmasmhsan73.space
+hasnataherherh.uk
 hasntahizfafamar.cfd
 hasoraselinizas.net
 hasrartaraasn.com
@@ -41035,6 +41047,7 @@ hep-ileri-giden.com
 hep-teklfiebr-bruad.store
 hepberaberfirsatlarimiz.xyz
 hepberabergaaaraaanttiyeee.net
+hepberaberiz4.sbs
 hepbirliktecokgucluyuz.vip
 hepbirlikteguzelgunler.net
 hepbirlikteguzelgunler.org
@@ -49572,6 +49585,7 @@ kamudavasorgulama.org
 kamudosyakontrol.com
 kamudosyamibul.org
 kamudosyaportal.org
+kamudosyatakip.org
 kamuduyuru.bns-vio.site
 kamuesorgu.org
 kamuilan.org.tr
@@ -49592,6 +49606,7 @@ kamusorgu.org
 kamusorgulama.org
 kamuspotu.org
 kamutakibi.org
+kamutalimat.org
 kamuweb-ihlalsorgu.icu
 kan2kwesx.blogspot.com
 kanada.ct.ws
@@ -55501,6 +55516,7 @@ maliyecezasi.com
 maliyecezasorgu.com
 maliyecezasorgulatma.com
 maliyecezatakip.org
+maliyecezauzlasmasi.com
 maliyecimiz.com.tr
 maliyedavasorgu.org
 maliyedestekbasvurusu.ml
@@ -73194,6 +73210,7 @@ rivxon.com
 rixosbelekpremium.com
 rixoshotelresort.com
 rixosluxuryhotels.com
+rixosparkhotels.com
 rixospremiumshotels.com
 rixospremiumspa.com
 rixosrugs.com
@@ -84233,6 +84250,7 @@ tcksorgu.org
 tckuzlasma.org
 tcmahkeme.net
 tcmalisorgu.org
+tcmasak.net
 tcmasakdosya.com
 tcmasakportal.com
 tcmb-online.com
@@ -87370,6 +87388,7 @@ traditionreputable.top
 tradivexo.cfd
 tradli.net
 tradli.org
+tradliye.org
 tradomind.com
 traelyst.dk
 traemsas.com
@@ -88166,6 +88185,8 @@ trhakkindasikayetlerr.com
 trhakkindasikayetller.com
 trhakkinizda-sikayetler.com
 trhakkinizdasikayetlervars.com
+trhazine.org
+trhazinemasak.net
 trhediye20gb.com
 trhgs.ink
 trhisse.com
@@ -88335,6 +88356,7 @@ trmarc.net
 trmardsama.blogspot.com
 trmarfsfgs.shop
 trmarsrgulamaa.com
+trmasak.net
 trmasakportal.com
 trmasakportal.org
 trmasaksorgu.com
