@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 465773
-# Last change: 2026-08-18 07:56:13 UTC (sync mode: full)
+# Records: 465800
+# Last change: 2026-08-18 08:55:08 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15715,6 +15715,7 @@
 541221125565556559994.duckdns.org
 541221125565556559995.duckdns.org
 541221125565556559996.duckdns.org
+541221125565556559997.duckdns.org
 541ll1144151.duckdns.org
 542139758934539.xyz
 542152150254.shop
@@ -27328,6 +27329,7 @@ ac4hho7mh.duckdns.org
 ac4vglx51.duckdns.org
 ac4xp04.duckdns.org
 ac5ppby.duckdns.org
+ac7mzp4xq9vkn2rt.cfd
 ac921c39cefbb9f903a6655331c58d3e.de
 ac93850518703bb2.net
 acabakargomnerede.com
@@ -32353,6 +32355,7 @@ admin-root.ddns.net
 admin-rsm-rply-managements.xyz
 admin-shoopiffy.com
 admin-shopffy.cc
+admin-support-nz.com
 admin-supportextranet.com
 admin-treyripple-com-s-account.workers.dev
 admin.177954coinbase.com
@@ -88071,6 +88074,7 @@ bsvrrprmsynnnkmpnyaa.click
 bsvrrprsmynngrntt.click
 bsvrrprsmynngrntt.sa.com
 bsvrrrgrnnttkmpnyaa.click
+bsvrrrkmmmnpyyaaasnfrlstrprmsynn.info
 bsvrrrkmmmnpyyaaasnfrlstrprmsynn.pro
 bsvrrrkmnpyaa.click
 bsvrrrkmnpyyasnfrlstrprmsynn.info
@@ -125777,6 +125781,7 @@ diivwmunlsbv.me.uk
 dij-ital.store
 dijdij33.ddns.net
 diji-bilgikampanya.sbs
+diji-fiyat.sbs
 diji-internetsiparis.sbs
 diji-is.blogspot.com
 diji-mobile.shop
@@ -170147,6 +170152,7 @@ frstlartukenyrextrakmpnya1o1.xyz
 frstlartuknyr1o1.xyz
 frstlklrdn-cpdnyrrlan.com
 frstlllrrkmnnpyybsvrrprmsynn.info
+frstlllrrkmnnpyybsvrrprmsynn.pro
 frstllrrrkmpnyaabsvrrr.info
 frstllrrrkmpnyaabsvrrr.pro
 frstlndrmleribrdaa.mooo.com
@@ -193639,6 +193645,7 @@ hakveiadeogrenmesorguvatandasgor101.teknolojisepeti.net
 hakveiadeogrenmesorguvatandasgor101.tk
 hakyoluhediyeumrtog1-221ail.online
 hakzpu.top
+halaaranmyorsunartkyuhkankagelsendeburda.click
 halaban101.space
 halabanasandadsa.site
 halabekliyormusunhemengel.net
@@ -203197,6 +203204,7 @@ hertakni.top
 hertanaotel.com
 hertanotel.com
 hertertrighheg.com
+hertkestyer.duckdns.org
 hertqwerber.click
 hertreklasakldk45451.xyz
 hertrmrxd.net
@@ -203799,6 +203807,7 @@ hg-sykle.blogspot.com
 hg-syukle.gq
 hg-x-scosode.net
 hg.ddvvs.icu
+hg.xxxxxxxxx111111.click
 hg08139.com
 hg1ly40e.duckdns.org
 hg227228.com
@@ -247671,6 +247680,7 @@ karacasali.com
 karacasalikapi.com
 karacasell.shop
 karacasevincli.com
+karacashop.homes
 karacashop.store
 karacasite.hazirsite.pro
 karacasofrac.homes
@@ -255596,8 +255606,10 @@ kmpnyhmnbrd1o1.com
 kmpnyhmnbrd1o1.info
 kmpnyhmnbrd1o1.online
 kmpnylrbrdsizlerle.space
+kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.info
 kmpnylrrbsvrrsnfrstlrrr.live
+kmpnylrrbsvrrsnfrstlrrr.pro
 kmpnylrrsnffrsttbsvrrr.click
 kmpnylrrsnffrsttbsvrrr.info
 kmpnylrrsnffrsttbsvrrr.live
@@ -255634,6 +255646,7 @@ kmpnyysbsvrrprmsynn.info
 kmpnyysbsvrrprmsynn.live
 kmpnyysbsvrrprmsynn.pro
 kmpnyyssbsvrrrsnfrstlarrr.info
+kmpnyyssbsvrrrsnfrstlarrr.pro
 kmpnyyvbsvrrprmsynnnn.info
 kmpnyyvbsvrrprmsynnnn.pro
 kmpnyyybsvrrrrprmsynn.click
@@ -258405,6 +258418,7 @@ krdidenizonline.xyz
 krdiemeklivecftci.ip-ddns.com
 krdiertelemelideniz.xyz
 krdifaizsiztr.cloud
+krdiibsvrrfrsltrrrspnnnnn.art
 krdiibsvrrfrsltrrrspnnnnn.info
 krdiibsvrrfrsltrrrspnnnnn.pro
 krdimleguvendeislemlerimherzaman.net
@@ -312672,6 +312686,7 @@ ozllkmpynyaasbsbrrrfrstlar.info
 ozllkmpynyaasbsbrrrfrstlar.live
 ozllkmpynyaasbsbrrrfrstlar.pro
 ozlllfrsltrrbsvrrkmpnyalari.art
+ozlllfrsltrrbsvrrkmpnyalari.info
 ozlllfrsltrrbsvrrkmpnyalari.online
 ozlllfrsltrrbsvrrkmpnyalari.pro
 ozllz-yzsiinfrstllxrilyla.net.tr
@@ -317334,6 +317349,7 @@ paribu-sogukdepo.com
 paribu-sorgulama.co
 paribu-sponsorcekilisi.live
 paribu-sponsorlu-cekilis.live
+paribu-sponsorlu-cekilisi.live
 paribu-sponsorlu-cekilisler.live
 paribu-sponsorlucekilis.live
 paribu-technology.com
@@ -319416,6 +319432,7 @@ paryatirimislemlerim.xyz
 parybuguncelformgirisleri2024.com
 parzama.duckdns.org
 parzoama.duckdns.org
+pas-hizli-guvenli-girs.sbs
 pasa31.app
 pasa31.com
 pasaazaarkaaakmpanyya.xyz
@@ -327518,6 +327535,7 @@ prmsynnbasvrrrrgrntt.click
 prmsynnbsvrrkmpnya.info
 prmsynnbsvrrkmpnya.live
 prmsynnbsvrrkmpnya.pro
+prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynngrntttbsvrrr.info
 prmsynnkampanyabasvrrr.info
@@ -327570,6 +327588,7 @@ prmsynnnkmpnyaabsvrrr.pro
 prmsynnnkmpnyaalrremklir.art
 prmsynnnkmpnyabsvr.art
 prmsynnnkmpnyabsvr.xyz
+prmsynnnkmpnyrrsonffrstlar.info
 prmsynnnkmpnyrrsonffrstlar.pro
 prmsynnnnkmpnyaaacklsss.click
 prmsynnnnkmpnyaaacklsss.live
@@ -334157,6 +334176,7 @@ pwhssmawns.in
 pwhwsm.homes
 pwiuwb3dq.duckdns.org
 pwjht.duckdns.org
+pwk6zmtq3rnvcl8x.sbs
 pwkjauvwetsybq.me
 pwkqvcufts.info
 pwlljffbkn.duckdns.org
@@ -347193,6 +347213,7 @@ rva.info
 rva7n6sx.duckdns.org
 rvaldemort.xyz
 rvasconezb.ddns.net
+rvdal182brdn.org
 rvdnvslzcmadf.net
 rvdownloads.com
 rvenom.duckdns.org
@@ -347510,6 +347531,7 @@ s-bireysel-online-hizmetleri.com
 s-bireysel-paramguvende-hizmet.com
 s-bireyselparamguvende.xyz
 s-bntdestektr.com
+s-candycollection.com
 s-ceptelefonu-elektronik-paramguvende-pro-sahibinden.com
 s-check.info
 s-dolap-param-guvende-hizmet-shop.com
@@ -355630,6 +355652,7 @@ sat-teslimat.com
 sat-ticaret.com
 sat.zapto.org
 sat1244.ddns.net
+satanaldndabakherseyburdagelsendekan50.click
 satanicjithu.ddns.net
 satanileizmrm.net
 satanshop.net
@@ -370918,6 +370941,7 @@ snde-kznmakistiyorsanhmnkatil.com
 sndebndangyrotegdmez.shop
 sndebnlarahmngt.com
 sndebrdabnuymlsn.mooo.com
+sndebrdanalsvyp.org
 sndebrdanbnlaral.shop
 sndebsvur.site
 sndebuguneozelkatilhemen.tech
@@ -376478,6 +376502,8 @@ sponsorlu-bntr.store
 sponsorlu-bntr.tech
 sponsorlu-bntr.xyz
 sponsorlu-cekilisler-paribu.live
+sponsorlu-cekilisler.live
+sponsorlu-cekilisparibu.live
 sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
 sponsorlu-giris933410.com
@@ -439629,6 +439655,7 @@ www-tcmbbgovtr.com
 www-teams.com
 www-teamviewer.top
 www-teamvlewer.top
+www-teb-com-tr-basvuru-aidat-iade.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr.ga

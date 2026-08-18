@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100533
-# Last change: 2026-08-18 07:56:13 UTC (sync mode: full)
+# Records: 100552
+# Last change: 2026-08-18 08:55:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4611,6 +4611,7 @@ admin-property-robot.top
 admin-rsm-rply-managements.xyz
 admin-shoopiffy.com
 admin-shopffy.cc
+admin-support-nz.com
 admin-supportextranet.com
 admin-treyripple-com-s-account.workers.dev
 admin.177954coinbase.com
@@ -15479,6 +15480,7 @@ bsvrmkggn.site
 bsvrmkggr.site
 bsvrrlrrm.digital
 bsvrrprsmynngrntt.sa.com
+bsvrrrkmmmnpyyaaasnfrlstrprmsynn.info
 bsvrrrkmmmnpyyaaasnfrlstrprmsynn.pro
 bsvrrrkmnpyyasnfrlstrprmsynn.info
 bsvrrrkmnpyyasnfrlstrprmsynn.pro
@@ -25652,6 +25654,7 @@ diijiital-vakifbank-platform-com-tr.tk
 diitalkampanyakatilimlarim.sbs
 diiveindulge.top
 dij-ital.store
+diji-fiyat.sbs
 diji-internetsiparis.sbs
 diji-mobile.shop
 diji-siparis.sbs
@@ -34752,6 +34755,7 @@ frstlar-heran-burada.com
 frstlaricnsongunlr1o1.xyz
 frstlarmkampanyam.shop
 frstlllrrkmnnpyybsvrrprmsynn.info
+frstlllrrkmnnpyybsvrrprmsynn.pro
 frstllrrrkmpnyaabsvrrr.info
 frstllrrrkmpnyaabsvrrr.pro
 frstlndrmleribrdaa.mooo.com
@@ -39668,6 +39672,7 @@ hakveiadeogrenmesisteminizygv292.tk
 hakveiadeogrenmesisteminizygvr302.tk
 hakveiadeogrenmesisteminizz250.tk
 hakveiadeogrenmesistemleri102.tk
+halaaranmyorsunartkyuhkankagelsendeburda.click
 halainvest.com
 halalinden.net
 halalmapz.com
@@ -41202,6 +41207,7 @@ herseyyanimda.net
 herseyyeneartkboyleoldusendegel.info
 hersfling.top
 hersysennleguzeleyll.online
+hertkestyer.duckdns.org
 hertrmrxd.net
 herus.app
 herustramr34.org
@@ -41353,6 +41359,7 @@ hftz-pzrm-frstm.com
 hfuteducn.wordpress.com
 hg-gsborcmdvrg.net
 hg-jsodeme-vakt.org
+hg.xxxxxxxxx111111.click
 hg4fx6b456dfwg4v6gv5dfg.podzone.org
 hg61sxjf.storage.googleapis.com
 hg73983943.click
@@ -49738,6 +49745,7 @@ karacaonline.org.tr
 karacaonline.store
 karacaonlinetr.shop
 karacasell.shop
+karacashop.homes
 karacasofrac.homes
 karacasofras.homes
 karacastore.club
@@ -51220,10 +51228,13 @@ kmpnyalartukenyrr1o1.xyz
 kmpnyaparmsynnbsvr.art
 kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
+kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.info
+kmpnylrrbsvrrsnfrstlrrr.pro
 kmpnyprmssyncklssssss.live
 kmpnyyaaaaceeeekilissstoogggg.cloud
 kmpnyyssbsvrrrsnfrstlarrr.info
+kmpnyyssbsvrrrsnfrstlarrr.pro
 kmpratiksorgu.com
 kmpratiksorgu.web.app
 kmpusulasi.web.app
@@ -51790,6 +51801,7 @@ krd-afisha.ru
 krd-croparena.ru
 krd-stadium.ru
 krdi-basvru-hmn-annda-hesap-yatsn.online
+krdiibsvrrfrsltrrrspnnnnn.art
 krdkmerd.net
 krdm12343.duckdns.org
 krdmburada.net
@@ -64842,6 +64854,7 @@ ozllkmpynyaasbsbrrrfrstlar.art
 ozllkmpynyaasbsbrrrfrstlar.live
 ozllkmpynyaasbsbrrrfrstlar.pro
 ozlllfrsltrrbsvrrkmpnyalari.art
+ozlllfrsltrrbsvrrkmpnyalari.info
 ozm.flylineaeru.com
 ozon58.ru
 ozrgldermfg.net
@@ -68650,8 +68663,10 @@ prmsnynnkmponyaaaafrslarrr.pro
 prmsooosynnngrntt.sa.com
 prmsyngrntbrd.com.tr
 prmsynllrllrfrst.click
+prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynnkmpnyaabsv2569858477.online
+prmsynnnkmpnyrrsonffrstlar.info
 prmsynnnkmpnyrrsonffrstlar.pro
 pro-btcturk.co
 pro-concert.com
@@ -73649,6 +73664,7 @@ ruxvendro.com
 ruzgarlagez.net
 ruzgaryardimdernegi.tech
 rv-bar.com
+rvdal182brdn.org
 rvdnvslzcmadf.net
 rvndvumerk.com
 rvsnhotele2025.world
@@ -73678,6 +73694,7 @@ rznylp.top
 s-ahibinden-paramguvende-hizmetleri.xyz
 s-banaozel-ilanlarim-com.ml
 s-banaozel.com
+s-candycollection.com
 s-check.info
 s-elimbokorsakire.site
 s-get-alisveris.online
@@ -79223,6 +79240,7 @@ snde-basvurtakipkampanyasina.com
 snde-hemenbasvurbizekatilkmpanyasi.com
 snde-hmnbasvrkmpnyasinagl.com
 sndebndangyrotegdmez.shop
+sndebrdanalsvyp.org
 sndebrdanbnlaral.shop
 sndebuguneozelkatilhemen.tech
 sndebunlaraglmban.com
@@ -80599,6 +80617,7 @@ sponsorlu-95.online
 sponsorlu-96.online
 sponsorlu-98.online
 sponsorlu-cekilisler-paribu.live
+sponsorlu-cekilisler.live
 sponsorlu-icerik.name.tr
 sponsorlu-market.xyz
 sponsorlu-paribu.live
