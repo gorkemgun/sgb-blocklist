@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100726
-# Last change: 2026-08-19 09:51:30 UTC (sync mode: delta)
+# Records: 100728
+# Last change: 2026-08-19 10:48:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7441,6 +7441,7 @@ applicantdissent.top
 applicatehuis.info
 application-2020-merkez-sorgulama-yardim-taleb-olustur.com
 application-document.com
+application.colibriathenas.com.br
 applicationaffixation.top
 applicationsanitation.top
 applied-8a3f62-a8bc2a055f-2fdbc4f742b7b.webflow.io
@@ -57329,6 +57330,7 @@ metabusiness-109309081074.web.app
 metabusiness-10930909301.web.app
 metabusiness-109309686880.web.app
 metabusiness-case189719825.web.app
+metabusinesscenter-appealform-copyright.vercel.app
 metabusinesscontact.net
 metabusinesslives.tk
 metabussinesportal.online
