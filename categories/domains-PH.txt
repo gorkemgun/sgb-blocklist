@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100779
-# Last change: 2026-08-19 16:49:47 UTC (sync mode: delta)
+# Records: 100788
+# Last change: 2026-08-19 17:43:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -44600,6 +44600,7 @@ ilanservis-odemehizmetler.online
 ilanurunlerim.com.tr
 ilanvar-tr.com
 ilave-promosyn-kampanyamiz.net
+ilaynaturizm.com
 ildenizayhan.cfd
 ile-alisveris.com.tr
 ile-alisverisim-ode.com
@@ -46616,6 +46617,7 @@ intrdvntertret.top
 intreaktifverdaire.net
 intrekatifvergindaresi.net
 intrenet-basvur.click
+intrenet-basvurulari4.click
 intricacytraumatic.top
 intricatecluster.top
 intricatecontemplation.top
@@ -57227,6 +57229,7 @@ merkezcicek.com
 merkezcicekci.com
 merkezcicekcilik.site
 merkezdekayit.abrdns.com
+merkezdenguncel.abrdns.com
 merkezdernegi.com
 merkezdernegi.net
 merkezdukkanim.xyz
@@ -77056,6 +77059,7 @@ sepetteindirimlergel.xyz
 sepettenalishizmeti.com
 sepetteonline.click
 sepetteonline.site
+sepetteonline.store
 sepetteurunlertukenmedenalin.com.tr
 sepetteurunlertukenmedenalin.xyz
 sepetteyiz.club
@@ -96920,6 +96924,7 @@ www-braun-tr.com
 www-brauntr.com
 www-cepte-a-101.xyz
 www-ceptekapida-marketin.com
+www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cimer-iadeleriorg.com
 www-cimerdigitalsonuc.com
 www-cimeriadeleri-gov-tr.qnbfinansiadeler2021basvurusu.xyz
@@ -97019,8 +97024,11 @@ www-sekerbank68yil.com
 www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
 www-t0gg.net
+www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
+www-teb-com-tr-basvuru-iade.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
+www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
 www-telegram.org
@@ -98700,6 +98708,7 @@ yatilira.com
 yatirim-defteri.online
 yatirim-firsatsss.melone.fun
 yatirim-garanti.net
+yatirim-hesabi-tr-10.online
 yatirim-nokta.com
 yatirim.finansmaninfo.biz
 yatirim.oykportfolio.com

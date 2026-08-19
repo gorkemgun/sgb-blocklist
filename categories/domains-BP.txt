@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257345
-# Last change: 2026-08-19 16:49:47 UTC (sync mode: delta)
+# Records: 257347
+# Last change: 2026-08-19 17:43:42 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -127949,6 +127949,7 @@ ilan-odemesi-778669.com
 ilan-onay-bilgi.online
 ilan-onay.com.tr
 ilan-onay.online
+ilan-onayla.online
 ilan-online.net
 ilan-ozel.com
 ilan-ozelsepetim.com
@@ -186195,6 +186196,7 @@ pttavm.gvnlii-odmehzmetii.com
 pttavm.gvnnli-odmehzmetii.com
 pttavm.hazirsepette.info.tr
 pttavm.hemensepet.com.tr
+pttavm.hizli-siparisislem.com
 pttavm.hizli-tedarik.online
 pttavm.hizlialisverisver.com.tr
 pttavm.hizlisepet.info.tr
