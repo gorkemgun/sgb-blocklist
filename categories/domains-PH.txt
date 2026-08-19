@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100755
-# Last change: 2026-08-19 14:54:44 UTC (sync mode: delta)
+# Records: 100758
+# Last change: 2026-08-19 15:48:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7758,6 +7758,7 @@ aracimmikiralik.com.tr
 aracimmmuayeyem.com
 aracimmuane.net
 aracimmuayane.net
+aracimmuayyenedeyaa.com
 aracimonlinesorgu.lol
 aracimsaglam.com
 aracimsigortala.net
@@ -26388,6 +26389,7 @@ djvxqp04.eu1.hubspotlinksfree.com
 djwjheued89ewo.com
 dk-octoberkassa.com
 dkan33garooremain.top
+dkatilim.com
 dkd8lve.cn
 dkdd.1trbakar.com
 dkgorbunova.com
@@ -44609,6 +44611,7 @@ ile-ode.fun
 ile-odeme-yonetim.com
 ile-odeyin.fun
 ile-onay-ilan.com
+ile-onay-sepete.com
 ile-onayli-ilan.com
 ile-onayli-ilanlar.com
 ile-onlinealisveris.com.tr
