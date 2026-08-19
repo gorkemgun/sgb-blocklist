@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100732
-# Last change: 2026-08-19 11:43:29 UTC (sync mode: delta)
+# Records: 100736
+# Last change: 2026-08-19 13:12:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -277,6 +277,7 @@
 101klimakampanyalari.com
 101kralsfe.duckdns.org
 101magazacty.com
+101marketleravantaji.com
 101marketonlineshop.vercel.app
 101marketyilbasifirsatlarinda.hostingoncloud.in
 101maviaindirimleri.com
@@ -3888,6 +3889,7 @@ acentasigortaci.org.tr
 acentateklifi.site
 acentateklifim.site
 acentateklifin.site
+acentecozumleri.cfd
 acenteflypgs.com
 acentemmburda.com.tr
 acentemmburda.xyz
@@ -5902,6 +5904,7 @@ alcoholnutrient.top
 alcup.sbs
 aldatbasvuruekrani2024.rf.gd
 aldattsorguuuekranii.com
+alderdasdewas.duckdns.org
 aldergrove.site
 aldfercrest.com
 aldgkadgila.net
@@ -89345,6 +89348,7 @@ turkcellx.paketleriyukle.com
 turkcelpasaj.com
 turkcelslglobal.com
 turkcelsuperonline-fiberbasvurumerkezim.site
+turkcurrent.blog
 turkerler.xyz
 turkeximtrust.com
 turkey-dyson.com.tr
