@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100791
-# Last change: 2026-08-19 18:56:06 UTC (sync mode: delta)
+# Records: 100794
+# Last change: 2026-08-19 19:42:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -35290,6 +35290,7 @@ garanti-sube-onlinem.my-homeip.com
 garanti-yesil-kredili-garanti.xyz
 garanti.3w17.com
 garanti.giris-anlik-internetimm.online
+garanti.giris.yansitek.cam
 garanti.kmpynyenliil-mobligr.com
 garanti.kredi-bbva.com.tr
 garanti.pinar-vakfl.com.tr
@@ -39453,6 +39454,7 @@ haberler344232.shop
 haberler3465672.sbs
 haberler346623.sbs
 haberler3552323.shop
+haberler421352.shop
 haberler4422424.shop
 haberler4561.sbs
 haberler562346.sbs
@@ -82896,6 +82898,7 @@ svip-62.top
 svip-65.top
 svip-66.top
 svipderimod.com
+svkvktrcaydan.lat
 svnkil9k.beget.tech
 svorbimcell1420.com
 svorcanbimcell.net
