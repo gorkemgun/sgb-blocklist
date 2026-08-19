@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100723
-# Last change: 2026-08-19 08:56:47 UTC (sync mode: full)
+# Records: 100726
+# Last change: 2026-08-19 09:51:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -27755,6 +27755,7 @@ e-devlet-iadebasvurusu-giris.com
 e-devlet-iadeleri.com
 e-devlet-iademerkezi2022.net
 e-devlet-iadesistemi.luinator.dev
+e-devlet-kap-s.vercel.app
 e-devlet-kapisi.online
 e-devlet-online-aidat-iade-govttr139.ga
 e-devlet-online-aidat-iade-sistemi-govtrvt707.tk
@@ -30806,6 +30807,7 @@ etbccmuygulamasi.com
 etbccuygulamasi.com
 etbcmuygulamasi.com
 etbisgovtr.services
+etc-a67i.vercel.app
 etc-tollad.xin
 etcady.xin
 etccbmgovurtr11.b-cdn.net
@@ -84007,6 +84009,7 @@ taramagob.weebly.com
 taranchik.store
 tarbal.digital
 tarbil-antikortitre.info
+tarbil-gov.net
 tarbilsistemkullanici.ml
 tarbilsistemyetki.ml
 tarek.casa

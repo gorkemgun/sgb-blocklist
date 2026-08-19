@@ -111430,6 +111430,7 @@ csfkrafeajio.duckdns.org
 csfmbnvhdg.site
 csfwfoxoffteam.zapto.org
 csgb-gob.tr
+csgb-gov-ct.com
 csgb-gov-tr.app
 csgb-gov-tr.com
 csgbgovtr.me
@@ -135060,6 +135061,7 @@ e-devlet-islemlerii.org
 e-devlet-islemlerim-uygulamalargovtr.com
 e-devlet-islemtr.com
 e-devlet-islemyap.com
+e-devlet-kap-s.vercel.app
 e-devlet-kapanma-sonrasi-pandemi-destek.testo.gq
 e-devlet-kapimiz-gov-tr.com
 e-devlet-kapisi-iadebasvuru.com
@@ -154825,6 +154827,7 @@ etbcmuygulamasi.com
 etbis.org.tr
 etbisgovtr.services
 etbmmaidatbasvurugovtr.tk
+etc-a67i.vercel.app
 etc-meisal.duckdns.org
 etc-pmtajing.hopto.org
 etc-tollad.xin
@@ -386942,6 +386945,7 @@ tarasmacerxcew.net
 taraulembigode.ddns.net
 tarbal.digital
 tarbil-antikortitre.info
+tarbil-gov.net
 tarbil.golf
 tarbilsistemkullanici.ml
 tarbilsistemyetki.ml
