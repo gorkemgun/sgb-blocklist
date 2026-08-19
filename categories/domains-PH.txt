@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100758
-# Last change: 2026-08-19 15:48:21 UTC (sync mode: delta)
+# Records: 100779
+# Last change: 2026-08-19 16:49:47 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3889,6 +3889,7 @@ acentamuygun.name.tr
 acentaonline365.com.tr
 acentasicilsorgu.org
 acentasigortaci.org.tr
+acentasorgulama.com
 acentateklifi.site
 acentateklifim.site
 acentateklifin.site
@@ -11495,6 +11496,7 @@ bayrakligez.net
 bayraktar.top
 bayraktarinvest.click
 bayraktech.store
+bayraktepebungalov.com
 bayram-ikramiyesini-tikla-hemen-al.online
 bayram-nesesi-geldi-bu-hafta-sizlere.com
 bayram2023iscep.net
@@ -22750,6 +22752,7 @@ crediwarrantibb.com.tr
 crediwarranty.org.tr
 crediwarrantybb.net.tr
 crediwarrantybb.org.tr
+credoturizm.com
 creechlogistic.com
 creekrobust.top
 creeltactor.com
@@ -25727,6 +25730,7 @@ dijital-kampanya-dijital-kampanya.ml
 dijital-kampanya-dijitalkampanya-com.cf
 dijital-kampanyaindirimler.sbs
 dijital-kampanyalarindirim.sbs
+dijital-kapinda.sbs
 dijital-katilim.net
 dijital-mobiluyelikks.ml
 dijital-online.website
@@ -28335,6 +28339,7 @@ ebelgemerkezi.org
 eberal.pics
 ebesx.click
 ebiletasimacilik.com
+ebilgi.org
 ebimcell.net
 ebireybasvur-formozel-kampanyasi-online.kampanya-basvuru-sayfa.xyz
 ebireybasvur-formu-ozel-kampanyasi-online.kampanya-basvuru-sayfa.xyz
@@ -28853,6 +28858,7 @@ efhtkuvrevrbfv.blogspot.com
 efij.top
 efirsat-aidatsndakika-8547.com
 efirsatkapida-101.site
+efix-odeme.com
 eflow-payment.shop
 eformlardaiadlergeld.xyz
 eforumkampanyalipuanlarbireyselbasvurum.line.pm
@@ -31027,6 +31033,7 @@ eurunlerhizmetiniz.com
 eusuchian.com
 eutantimnt.top
 euunqc.top
+euyapbildirim.org
 euyapbilgi.org
 euyaptakip.org
 euyapuzlasma.org
@@ -38636,6 +38643,7 @@ guolsadhashd09sdahhads.click
 gur.econeurqa.com
 guraleyz.com
 gurasclephoteram.com
+guremturizm.com
 guresredwaser.com
 gurestremasert.com
 gursut.biz
@@ -39800,6 +39808,7 @@ halklimitim.online
 halklimitim.xyz
 halklimitin.online
 halklimitin.xyz
+halklimits.xyz
 halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
@@ -42010,6 +42019,7 @@ hizli-siparis-ver-klima.xyz
 hizli-siparis.com.tr
 hizli-siparisim.com.tr
 hizli-siparisim.online
+hizli-siparisislem.com
 hizli-sorgu-aktarim-sistemi.online
 hizli-toklbsvur.com
 hizli-yilsonusiparis.shop
@@ -48885,6 +48895,7 @@ jrztxofmh.xdk8ax.cn
 js.staticounter.net
 jsadetersaeter.help
 jsbank.co
+jsfeterst.duckdns.org
 jsgrcpa.cn
 jshsajk.top
 jsitmj.help
@@ -49089,6 +49100,7 @@ k748368.click
 k7asdhahsdhashdahsdhahsd.click
 k7qgstpns.storage.googleapis.com
 k8v2m9q4x1z7.cfd
+k8y1b.my
 k9d9c.my
 ka8x2an.xdk8ax.cn
 kaanayberklo.net
@@ -52704,6 +52716,7 @@ laptophand.top
 laptopmalnutrition.top
 laptopportrayal.top
 laptoptangle.top
+laracitytravel.today
 laraegitimkurumu.net
 larcausk.site
 lardanasdwesafasdasd.autos
@@ -53524,6 +53537,7 @@ limogesshgxer.life
 limonira.store
 limpiiot.top
 limuzindamat.lol
+linatatravel.com
 linavixor.com
 linavo.store
 lindacarmical.com
@@ -60182,6 +60196,7 @@ naturehitherto.top
 naturemeadow.top
 natureportfo.top
 natureprofile.top
+naturturizmvilla.com
 naudgfgakcha.net
 naughty-carson.62-171-160-123.plesk.page
 naughtyfeast.top
@@ -63859,6 +63874,7 @@ onlineprbubasvurusu.com
 onlineprohostz.cf
 onlinerandevu-kadastr-tapu.online
 onlinerandevuportalekranlarimizdir.duckdns.org
+onlinereferansfba.com
 onlinereklam.xyz
 onlineresmibnncs.com
 onlineresmibnncstr.com
@@ -86312,6 +86328,7 @@ tlltllfglyn.shop
 tlndrmkmpanyalarimm.com
 tlnktlanmana.net
 tlogforryou.online
+tlr-finans.com
 tlsademelerinizsleyim.net
 tlsdowwkeler.net
 tltfllffglyn.shop
@@ -89802,10 +89819,12 @@ tursab-tr.com
 tursab.acentasorgu.com
 tursab.co.uk
 tursab.siteonay.org
+tursabacentasorgu.com
 tursabb.org
 tursabdogrulama.org
 tursabonlinesorgu.com
 tursabsitedogrulama.org
+tursabsorgulama.net
 tursabwebonay.org
 tursap.org
 tursil-cepte.web.tr
@@ -92941,6 +92960,7 @@ vesanana.net
 vesansa.net
 vesasasan.net
 vespatch-lybr.ink
+vesperavillas.com
 vesselbusiness.top
 vesselcore.top
 vesselreassurance.top
@@ -98579,6 +98599,7 @@ yardimelim.com
 yardimelimiz.com
 yardimeliuzat.org
 yardimemek.com
+yardimevim.com
 yardimgemisi.com
 yardimhanem.com
 yardimhmnyapsbsvuruu.online
