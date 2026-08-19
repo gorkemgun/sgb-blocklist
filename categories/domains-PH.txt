@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100736
-# Last change: 2026-08-19 13:12:19 UTC (sync mode: delta)
+# Records: 100746
+# Last change: 2026-08-19 13:59:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -190,6 +190,7 @@
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-eozel.xyz
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
+101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulurunleri.shop
@@ -2227,6 +2228,7 @@
 6d4m05i.xdk8ax.cn
 6dd5fd945b34-endpoint.com
 6dedb6bd-3.b-cdn.net
+6dg1gdg16dd15.fun
 6dr.us
 6dy.shop
 6e29002b.ieybfs7j447b.org.cn
@@ -4995,6 +4997,7 @@ agustossorgulama.net
 agustosta-seyahat.com.tr
 agustosta-son-mutfak.net
 agustostakampanyanintadifarkli.xyz
+agustostakimsesandalyesizkalmayacak.sbs
 agustostawsynxsicaklari.com
 agustosunlndirimlicadiriwsynx.com
 agustosunsonundawsynx.com
@@ -8543,6 +8546,7 @@ asdhjhjdasfhj.net
 asdkamzjcsj.net
 asdkatilimlarniz2023.com
 asdklkjasjfa.com
+asdklmklwqmklm34637.duckdns.org
 asdlfdsamfksdafmkl.net
 asdnqbwdvabsnd1.blogspot.com
 asdqasasfasfafa.com
@@ -11770,6 +11774,7 @@ bedavva15gb.epizy.com
 beddemrgo.top
 beddingdepise.top
 bedellimsbhizmetyeri.org
+bedersslesxswa.duckdns.org
 bedg7q.cn
 bedirhanbertugkayavergi.net
 bedpotsofacloseup.com
@@ -47542,6 +47547,7 @@ istkrdabadss.duckdns.org
 istkrdcx1444.net
 istkrtbasvurla.com
 istkrtbsvrsnkzbrdanyp.mooo.com
+istkrtlabradahzlandm.com
 istkrtll.net
 istkrttttttbsrvv.online
 istkrwt.com
@@ -47819,6 +47825,7 @@ ivdlym-lyml.net
 ivdlym-lymll.net
 ivdmmy-ylmym.net
 ivdoxdmde.net
+ivdportalmobil.com
 ivdpoxrnyklemdnizle.gq
 ivdsorgu.online
 ivdtahsilat.com
@@ -56442,6 +56449,7 @@ mavolino.vu
 mavqelo.gifts
 mavvrik.tr
 mavvviiindriimmsepe-timmm.com
+mawarid.top
 mawyboo.com
 maxadreseteslimkiralama.online
 maxadreseteslimotokirala.online
@@ -66613,6 +66621,7 @@ pbilet.ru
 pbilet.tech
 pcdlvrt-cdrt.com
 pcdriverbox.gifts
+pcfridkc33.com
 pciselymprison.top
 pciwwl.top
 pconverse.top
@@ -84154,6 +84163,7 @@ tayipakbilistibb.net
 taylankayagez.net
 tayloq.com
 tayoto.top
+tays.sayatatata.xyz
 tayyipbabaaidxt.net
 tazecicek.net.tr
 tazeurunlerguvenlialisverisadresin.cfd
