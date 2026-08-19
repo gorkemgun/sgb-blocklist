@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100674
-# Last change: 2026-08-18 22:44:08 UTC (sync mode: delta)
+# Records: 100687
+# Last change: 2026-08-19 01:54:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8431,6 +8431,7 @@ artmbounded.lat
 artonisbueucrtic.top
 artpaketleme.com
 artsaber.workers.dev
+artsketch.pl
 arttile.top
 arttsadmucayene.net
 artworkexcuse.top
@@ -27134,6 +27135,7 @@ drawbouquet.top
 drawcenter.co
 drawerpanorama.top
 drawingsubsidy.top
+drawmi.icu
 drawngaze.top
 drawnhello.top
 drawtribune.top
@@ -28228,6 +28230,7 @@ earnestdiamond.top
 earnesthill.top
 earningseuphoria.site
 earningspanoramic.top
+earnvia.top
 earsivdosya.org
 eartharc.top
 earthgear.shop
@@ -28362,6 +28365,7 @@ ecentlyaddictiv.top
 ecessarilyvogu.top
 eceyeasigim.cyou
 ecezabayiode.com
+ecezabildirim.org
 ecezamaliye.org
 ecezamgov.org
 echelonyieldai.app
@@ -37268,6 +37272,7 @@ gofilom.com.tr
 gofilom.xyz
 gofuture-games.com
 gofuture-games.ru
+gogainiq.click
 gogazy.com
 goglespactr.click
 gogol-centr.com
@@ -53119,6 +53124,7 @@ lemonsnap.top
 lemurianburst.com
 lencom-ticket.ru
 lencom-tickets.ru
+lendovia.top
 leneeslsp.com
 lenfrodgront.top
 leng.monster
@@ -59448,6 +59454,9 @@ muscularcommend.top
 muscularevoke.top
 muscularhiernation.top
 muscularvideo.top
+musefocus.pl
+musepiece.pl
+musescene.pl
 museum-pass.shop
 museum.spb.ru
 museumaddictive.top
@@ -89384,6 +89393,7 @@ turkinv.site
 turkipayfeesgov.hosted.phplist.com
 turkish-airline.business
 turkish-anniversary-tickets.com
+turkish-petroleum.sbs
 turkish2023petrolbravelap.com
 turkishair.com
 turkishair.ink
@@ -89446,6 +89456,7 @@ turkiye-gov.fun
 turkiye-kapisi-giris.com
 turkiye-magazin-ifsalari.com
 turkiye-magazinifsalari.com
+turkiye-petrolleri-hisseleri.com
 turkiye-petrolleri-platform.com
 turkiye-petrolleri.pages.dev
 turkiye-petrolleri.pro
@@ -89564,6 +89575,8 @@ turkiyepanoru.com
 turkiyeperspektif.com
 turkiyepetrolleri-system.com
 turkiyepetrolleri-yatirim.com
+turkiyepetrolleri.pro
+turkiyepetrolleri.shop
 turkiyeprojeleri2025.online
 turkiyerendevu.net
 turkiyerotasi.com
