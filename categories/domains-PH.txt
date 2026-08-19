@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100746
-# Last change: 2026-08-19 13:59:52 UTC (sync mode: delta)
+# Records: 100755
+# Last change: 2026-08-19 14:54:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -190,6 +190,7 @@
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-eozel.xyz
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
+101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
@@ -4464,6 +4465,7 @@ adaletgeldi.online
 adalethukuku.org
 adaletkurum.org
 adaletmahkeme.org
+adaletmali.net
 adaletnoktasi.com
 adaletportali.org
 adalettbakanligi.com
@@ -4979,6 +4981,7 @@ agustosayi-ddnzfrsatlarindanyar.tk
 agustosayi-krdimevdusthesapladeniz.tk
 agustosayikacirilmayacakmalzemeler.sbs
 agustosc.dnsup.net
+agustoscepte.sbs
 agustosdandevindirimlerdevamediyor.com
 agustosdenizi.ml
 agustosdenizim.cf
@@ -28466,6 +28469,7 @@ ed-sosyalbasvuru.tech
 ed-sosyaldestegim.tech
 ed4f-178-233-93-165.ngrok-free.app
 ed5ce47d835f-endpoint.com
+edavabildirim.org
 edavahukuk.org
 edavaportal.org
 edavasorgu.net
@@ -39209,6 +39213,7 @@ h5bnqv.xdk8ax.cn
 h6s.app
 h6yerho.cn
 h72vn3jtpt5.icu
+h7778.site
 h8235.cn
 ha233lki45nelivesesi.duckdns.org
 haaafftftaanninndrirmllerriiiiiiii.com
@@ -56246,6 +56251,7 @@ masaksorgutr.org
 masaktakibi.org
 masaktc.net
 masaktrmobilbinance1.duckdns.org
+masakvezne.com
 masakveznedar.com
 masalarinkampanyasi.xyz
 masalceptenykle.net
@@ -57665,6 +57671,7 @@ mhrsvatandaslarimduyuru.duckdns.org
 mhrsvatandasportalekranlarimiz.duckdns.org
 mhrsvatandasportall.duckdns.org
 mhrsvatandasportalyonlendirme.duckdns.org
+mhrsxrandevuxhxzmetleriniz3940.com
 mhrsxzowskda.blogspot.com
 mhrszrndwoo.net
 mhrzsrndwoo.net
@@ -74497,6 +74504,7 @@ sahibinden-param-guvende.a2hosted.com
 sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
+sahibinden-param-guvende.ilan-onayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
 sahibinden-param-guvende.siparisonayi.online
@@ -99474,6 +99482,7 @@ yklemeyapbmclll.net
 yklemeyapbnce.net
 yklesmddeme.cfd
 yklmayiz.net
+yklmebslasmdi.cfd
 yklmehgszmnpra.cfd
 yklmhrsbrdaorg.cfd
 yklmypss.net

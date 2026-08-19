@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65776
-# Last change: 2026-08-15 07:00:15 UTC (sync mode: full)
+# Records: 65790
+# Last change: 2026-08-19 14:54:44 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13512,6 +13512,7 @@ blushing.findgutterhelmet.com
 blv23728.ddns.net
 blwvf.duckdns.org
 blxyz1.shop
+blzaeagent.com
 bm1990.ddns.net
 bm410b4.duckdns.org
 bm4rvhfjc.duckdns.org
@@ -26379,6 +26380,7 @@ glostrap.com
 glotin.zapto.org
 glotorrents.pw
 gloubergs.biz
+glowmedaesthetics.com
 glox.ddns.net
 glqhkegvuh.duckdns.org
 glrfprronrkcgl.info
@@ -27890,6 +27892,7 @@ harvey-ross.info
 harveyautos110.ddns.net
 harveyautos111.hopto.org
 harveyautos112.ddns.net
+harveylewisinsuranceagency.com
 has76q3yufe.hopto.org
 has7q3gujd.ddns.net
 hasakim.ddns.net
@@ -28295,6 +28298,7 @@ helpwells-fargo.ddns.net
 helpwhatsapp.xyz
 heltaskeltahenterprise.com
 helvforalls2.digital
+helxiagent.com
 hema125.ddns.net
 hemenall-kurumsalgirisim.com
 hemendestekal.neocities.org
@@ -29122,6 +29126,7 @@ house-contribute.com
 housecafe-essen.de
 houselight.com.br
 houssainov.zapto.org
+houstongaragedoorinstallers.com
 housworkmood.hopto.org
 hovin.ddns.net
 hovotumuutwx.me.uk
@@ -31925,6 +31930,7 @@ jacklucky81.hopto.org
 jacks-ns.biz
 jackscommunications.com
 jacksonpro.zapto.org
+jacksonvillemma.com
 jackyjian1965.hopto.org
 jackyson.dyndns.info
 jacquelinepatrickson.net
@@ -34876,6 +34882,7 @@ lakox.duckdns.org
 lala123321.ddns.net
 lalafack.zapto.org
 lalala114.com
+lalandscapelighting.com
 lalegions.ddns.net
 lalp1x9t.duckdns.org
 lamborghini-s.shop
@@ -36235,6 +36242,7 @@ lulasmoke.top
 lulzpanel.ddns.net
 lum08u0.duckdns.org
 lumalabsai.in
+lumenagnet.com
 luminasoft.ddns.net
 luminousdentaltampinesplaza.ddns.net
 luna69.net
@@ -37024,6 +37032,7 @@ maniek-server.ddns.net
 maninderbutt.com
 maniyakat.cn
 manojotat.ddns.net
+mansfieldpediatrics.com
 mansionhousebuild.co.za
 mansoftwarecoz.com
 mansor.ddns.net
@@ -40258,6 +40267,7 @@ naijabids.co.uk
 nail3-nate3.ddns.net
 nailaddresssatisfaction.com
 nailheat.net
+nailscanai.com
 naimselmonaj.com
 nainene.ddns.net
 naiothchurchtz.org
@@ -41903,6 +41913,7 @@ nulledfree.pw
 nulledzip.download
 nullqppndlnlmo.info
 number2.duckdns.org
+numericagent.com
 numiclanesa.zapto.org
 numkisad.com
 numm.ddns.me
@@ -45645,6 +45656,7 @@ pressing-security-issue.xyz
 pressing-wfbsecurity-confirmation.agency
 pressing-wfbsecurity-confirmation.services
 pressing-wfbsecurity-confirmation.xyz
+pressureulcerlawyer.com
 prestabancolo.ddns.net
 prestam0.duckdns.org
 preston7.ddns.net
@@ -55712,6 +55724,7 @@ tinjecofsand.com
 tinmoivietnam.com
 tinpick.online
 tinteperen.com
+tintingsd.com
 tiny.gr.com
 tiny27.duckdns.org
 tinylinks.live
@@ -60687,6 +60700,7 @@ webxyz.net
 wecajustypeantin.hopto.org
 wechaatt.gdn
 wechaatt.xyz
+wechatstablecoin.com
 wecythcxeq.duckdns.org
 wedding-ready.com
 weddingsonthefrenchriviera.com
