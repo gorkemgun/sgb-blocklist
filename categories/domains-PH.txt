@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100719
-# Last change: 2026-08-19 07:56:12 UTC (sync mode: delta)
+# Records: 100723
+# Last change: 2026-08-19 08:56:47 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -51771,6 +51771,7 @@ kotartires.club
 kotb.top
 kotiri.store
 koton-tr.flyssaas.com
+koton.live
 koton777.click
 kotononline.shop
 kotononline.top
@@ -52088,6 +52089,7 @@ krlgmasn-buralardayiz.com
 krlllrbursaqw.net
 krlssnamt.com
 krlxresidance.com
+krmafzlynmzcnrvd.store
 krmsalprtalgrs.com
 krmsalprtalgrsknal.com
 krmytk.xyz
@@ -76610,6 +76612,7 @@ selgehotels.com
 selgeotelside.com
 selgeresortbeach.com
 selgeresortside.com
+selgeside.com
 selindudaksd.wixsite.com
 selingroup.pw
 selinyardimlari.com
@@ -99347,6 +99350,7 @@ yildirim-firsati.quest
 yildirim-firsati.xyz
 yildirimfirsati.live
 yildirimkurumsalfilo.com
+yildiz-lndirim-haftasl-basladl.com
 yildizdernegi.com
 yildizegitim.org
 yildizindirimler.com.tr
