@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100788
-# Last change: 2026-08-19 17:43:42 UTC (sync mode: delta)
+# Records: 100791
+# Last change: 2026-08-19 18:56:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -13284,6 +13284,7 @@ birikimyolu.net
 birimadli.org
 birimandaolusturulankampanya.beauty
 birimiz-kursun-birimiz-tabanca.mooo.com
+birimkurum.org
 birimuzlasma.org
 birinebakicam.duckdns.org
 birislemin.com
@@ -66115,6 +66116,7 @@ paribusponsorlu.online
 paribusponsorlucekilisim.online
 paribusponsorlucekilisleri.online
 paribusponsorlucekils.online
+paribusponsorlugudacekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
@@ -99890,6 +99892,7 @@ yunuso.com
 yunuspanel.xyz
 yunuspro.online
 yunuspro.xyz
+yunussendeburdaolcabuk12.casa
 yunyahqapncoiuytqba.world
 yunyahqapnlsinbavqva.world
 yuordelsoedl.net
