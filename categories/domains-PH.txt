@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100687
-# Last change: 2026-08-19 01:54:46 UTC (sync mode: delta)
+# Records: 100709
+# Last change: 2026-08-19 07:07:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -41497,6 +41497,7 @@ hgs-rho.vercel.app
 hgs-sabahyukleme.com
 hgs-sistem-sorgu.com
 hgs-tr.tattoo
+hgs-v575.vercel.app
 hgs-yu.com
 hgs-yukle.tk
 hgs-yukleme-hizli.net
@@ -65785,7 +65786,15 @@ paribu-sistem.com
 paribu-sogukdepo.com
 paribu-sponsorlu-cekilis.live
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
+paribu-sponsorlucekilisleri.online
+paribu-sponsorlugunda-cekilisi.online
+paribu-sponsorlugunda-cekils.online
+paribu-sponsorlugunda.online
+paribu-sponsorlugundacekilisi.online
+paribu-sponsorlugundacekilisleri.online
+paribu-sponsorlugundacekils.online
 paribu-technology.com
 paribu-tr.online
 paribu-tr.org
@@ -66047,7 +66056,15 @@ paribusdtrek-kazan.ml
 paribusistemi.com
 paribusizinle.com
 paribusizlerle.com
+paribusponsorlu.online
+paribusponsorlucekilisim.online
+paribusponsorlucekilisleri.online
+paribusponsorlucekils.online
+paribusponsorlugunda-cekilisi.online
+paribusponsorlugunda-cekils.online
 paribusponsorlugundacekilis.online
+paribusponsorlugundacekilisi.online
+paribusponsorlugundacekils.online
 paribustock.org
 paribustransfergunleri.co.vu
 paribusupertokengirisleri.co.vu
@@ -74999,6 +75016,7 @@ sahibinden.siparis-sorgu.com.tr
 sahibinden.siparis-tamamla.com.tr
 sahibinden.siparisalim.net
 sahibinden.siparishizli-ver.com
+sahibinden.siparishizliver.com
 sahibinden.siparisim-guvende.online
 sahibinden.siparislerim.net
 sahibinden.siparisver-hemen.com
@@ -76980,6 +76998,7 @@ sepetteguvenlihizmet.com
 sepettehizlifirsatlar.xyz
 sepetteindirimlergel.xyz
 sepettenalishizmeti.com
+sepetteonline.click
 sepetteonline.site
 sepetteurunlertukenmedenalin.com.tr
 sepetteurunlertukenmedenalin.xyz
@@ -78639,6 +78658,7 @@ siparisaktif.online
 siparishazir.click
 siparishizli-ver.com
 siparishizliolsut.cloud
+siparishizliver.com
 siparisim-sepette.com
 siparisincepte.click
 siparisinhadide.click
@@ -79591,6 +79611,7 @@ sokfirsatigeldi.xyz
 sokfirsatlar-temmuzda.com.tr
 sokfirsatlarburada.com
 sokfirsatlarin.online
+sokflrsatlarharikala.shop
 sokgecefirsati.online
 sokindirimcepte.online
 sokislemnfs.com
@@ -86106,6 +86127,7 @@ tinrvf.top
 tinscrub.top
 tintastop.site
 tinxselz.net
+tiny-cloud.ink
 tinytrail.click
 tinyurl2.ru
 tioagliea.net
