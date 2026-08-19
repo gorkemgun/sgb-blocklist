@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100728
-# Last change: 2026-08-19 10:48:27 UTC (sync mode: delta)
+# Records: 100732
+# Last change: 2026-08-19 11:43:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18933,6 +18933,7 @@ clutchppc.com
 clutchscramble.top
 cluyu.store
 clwgly.top
+clxzmqte.xyz
 clymmbberlink.com
 clyscslccss-cswqs.com
 cm342nsdvc.cyou
@@ -34808,6 +34809,7 @@ frstmbssgfgs.blogspot.com
 frsttlari-kacrmaaa-klmaci.com
 frsttlsnbsvrrkmponyaa128549.online
 frsttlsnbsvrrkmponyaa128549.pro
+frsttrndvulrdaim.com
 frstvktinikcirmavkt.com.tr
 frstyni-snstklarkpnda.online
 frsubesi.blogspot.com
@@ -86192,6 +86194,7 @@ tjekdfeggeh.com
 tjlpkcia.com
 tjqqpcmdbycian.156953coinbase.com
 tjxoin.top
+tk-tapursevrandvun.info
 tk-tapursevrandvun.net
 tk9u.com
 tkaklatalka.online
@@ -90258,6 +90261,7 @@ u62010142.ct.sendgrid.net
 u648984.softaculous.dev
 u649198.softaculous.dev
 u649786.softaculous.dev
+u649962.softaculous.dev
 u8404944.click
 u8b2mkoad.lomondviewcottage.co.uk
 u8n.us
