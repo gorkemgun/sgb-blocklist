@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100796
-# Last change: 2026-08-19 20:47:56 UTC (sync mode: delta)
+# Records: 100797
+# Last change: 2026-08-19 23:40:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -39497,6 +39497,7 @@ haberleriniz21.site
 haberleriniz21.website
 haberlersizdengelenler.biz
 haberlersonline.site
+haberlerturk146519.sbs
 haberleryeni.site
 haberlistesi.online
 haberliyiz.xyz
