@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100794
-# Last change: 2026-08-19 19:42:35 UTC (sync mode: delta)
+# Records: 100796
+# Last change: 2026-08-19 20:47:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -51206,6 +51206,7 @@ klsmamaa-amsma-amdmsa.cfd
 klsorgalk.com
 klsraimk.com
 kludarevop.gifts
+klv1kl3k1c31x231x123x12.xyz
 klxkdsmdjxjx.net
 klyndex.website
 klynrifz.com
@@ -53703,6 +53704,7 @@ litesint.mom
 litewo.xyz
 litexpo-portal.lt
 litreannex.top
+little-wave.ink
 littlebeetle.top
 littlecorrelation.top
 littlededuct.top

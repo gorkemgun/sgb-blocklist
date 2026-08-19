@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466147
-# Last change: 2026-08-19 19:42:35 UTC (sync mode: delta)
+# Records: 466149
+# Last change: 2026-08-19 20:47:56 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -255025,6 +255025,7 @@ kludarevop.gifts
 kludgequib.info
 kluh1xufyjml7js4apo.ddns.net
 klushchko.icu
+klv1kl3k1c31x231x123x12.xyz
 klvfbgays.com
 klvmytbnbbs.duckdns.org
 klwooqwpkisheekwe.net
@@ -265785,6 +265786,7 @@ litrtdei.in
 litsen.2kool4u.net
 litterbolo.com
 litterhqsz.space
+little-wave.ink
 littleads.in
 littlebeetle.top
 littlecorrelation.top
