@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100709
-# Last change: 2026-08-19 07:07:57 UTC (sync mode: delta)
+# Records: 100719
+# Last change: 2026-08-19 07:56:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3449,6 +3449,7 @@ a1capital.info
 a1f9961f.lopdl7d.cn
 a1hr.top
 a1i011.cloud
+a1newtemuzfirstlari.xyz
 a1o1-aralik-kampnyamhizli.shop
 a1o1-inanilmaz.indirimlerr.com
 a1o1-kampanyalarimiz.the-zehirsorqu.com
@@ -32205,6 +32206,7 @@ facebook.hk-login.com
 facebook.ilanli.com.tr
 facebooke.info
 facebookhabergirisi.ml
+facebookloginadmin.blogspot.com
 facebookmoney.world
 facebookrecreation.webflow.io
 facebooks.66ghz.com
@@ -43017,6 +43019,7 @@ hozutya.com
 hpercelikcaven.cfd
 hpersnalmrketslymanca.cfd
 hpgseg.org
+hpmzbrdnrvdaldk.store
 hpsdrmnktsi.net
 hpshopping.vip
 hpsyc.sbs
@@ -44511,6 +44514,7 @@ ilanda-sepetim-1092.com
 ilanda-sepetim-1093.com
 ilanda-sepetim-1094.com
 ilanda-sepetim-1095.com
+ilanda-sepetim-1096.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -46155,6 +46159,7 @@ instagramhelp.info
 instagramhelpcenterturkey.com
 instagramhelpsupporrt.unaux.com
 instagramkazan.com
+instagramlogin74.blogspot.com
 instagramm-tr-girisi.tk
 instagrammatik.gearhostpreview.com
 instagrammetaservices.tk
@@ -55819,6 +55824,7 @@ manlydilute.top
 manlyepidemic.top
 manlyinflict.top
 manlyloom.top
+mannaras.click
 mannercontrive.top
 mannercosmopolitan.top
 mannerdestined.top
@@ -62792,6 +62798,7 @@ odinwikdkska.wiki
 odkydl4.cn
 odmephs.xyz
 odmlrnz-burada.tsorg3.xyz
+odmyeyklezmni.cfd
 odndbimcell.com
 odnetihlizmlerimizkin.com
 odorousretrospect.top
@@ -66062,6 +66069,7 @@ paribusponsorlucekilisleri.online
 paribusponsorlucekils.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
+paribusponsorlugunda.online
 paribusponsorlugundacekilis.online
 paribusponsorlugundacekilisi.online
 paribusponsorlugundacekils.online
@@ -83988,6 +83996,7 @@ tapureko.store
 tapusorgu.tkgmturkiye.org
 tapuuhizlirndvulaninhmennnn.lat
 tapuzafo.com
+tapvetrsm.space
 tapviolet.com
 tapvsranis.net
 tapweeb-2f35a.web.app
@@ -90171,6 +90180,7 @@ txoxkkibrdamsllahzixlicca.site
 txrk-rxndevu-hizmxtlxri.net
 txrkripmngg.net
 txrxmxor-mxhxsxl.net
+txt.sayatatata.xyz
 txtag.vipnd.top
 txtag.vipnu.top
 txtag.vipsf.top
