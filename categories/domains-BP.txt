@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257351
-# Last change: 2026-08-20 05:48:29 UTC (sync mode: delta)
+# Records: 257355
+# Last change: 2026-08-20 07:08:55 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -17705,6 +17705,7 @@ agustosfirsatlariburda101.xyz
 agustosfirsatlaridayshemenbasvur.net
 agustosfirsatlarindakigunler.cfd
 agustosfirsatlarindakigunler.sbs
+agustosfirsatlarisadecea101.com
 agustosfirsatlariylasizlerleyiz.shop
 agustosflrsatlar.com
 agustosfrstlrinikcrma.online
@@ -95823,6 +95824,7 @@ frstlarbrmsadnf.giize.com
 frstlarextratukenyr1o1.xyz
 frstlarfkmasieyll.duckdns.org
 frstlarhemnkapnda1o1.com
+frstlarhemnkapnda1o1.online
 frstlaricinsonguntukenyr1o1.shop
 frstlarkapindaburda1o1.shop
 frstlarkplrnizdasznle.com
@@ -195988,6 +195990,7 @@ sahibinden-sepet.guvendeticaretlerim.shop
 sahibinden-sepet.guvenliticaretlerim.shop
 sahibinden-sepet.sepetimdeonay.shop
 sahibinden-sepet.sepetimdeonline.click
+sahibinden-sepet.sepetimdeonline.store
 sahibinden-sepet.sepetteonline.online
 sahibinden-sepette-odeme.com
 sahibinden-servisleriniz-guvenli.com.tr
@@ -253439,6 +253442,7 @@ yuk1emehgs1sleminiz.com
 yuka2023bimcelltlhizmeti.ga
 yukaridan-bakinca-herseye-keyifli-olacak.com
 yukelmegecis.co
+yukifabrika.com
 yukimator1.space
 yukkllegez.net
 yukklme.blogspot.com
