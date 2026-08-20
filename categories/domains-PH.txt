@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100847
-# Last change: 2026-08-20 11:45:35 UTC (sync mode: delta)
+# Records: 100850
+# Last change: 2026-08-20 13:13:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12449,6 +12449,7 @@ bilgiplatformu.biz
 bilgiplatformu.com
 bilgiportal.com.tr
 bilgipusulasi.co
+bilgiradar.co
 bilgiret.org
 bilgis-tr.online
 bilgisayfam.link
@@ -27017,6 +27018,7 @@ dosyatakibi.org
 dosyatakibiyap.com
 dosyatakip.info
 dosyatakipmerkezi.org
+dosyauyapsorgu.org
 dosyauzlasmaportal.com
 dosyauzlasmaportali.com
 dosyauzlasmasi.com
@@ -51116,6 +51118,7 @@ kizlarburada.click
 kizlarburada.sbs
 kizlarsoruyo.store
 kizlarvi.com
+kizlarvixlex.click
 kizllay.com
 kizmirim.net
 kj.vhjvoqrvub.com

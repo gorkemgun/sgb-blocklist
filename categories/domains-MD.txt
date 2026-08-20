@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65833
-# Last change: 2026-08-20 11:45:35 UTC (sync mode: delta)
+# Records: 65856
+# Last change: 2026-08-20 13:13:49 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8197,6 +8197,7 @@ acqaint.zapto.org
 acqpmdbtxt.duckdns.org
 acreditu.hopto.org
 acrefec09.duckdns.org
+acrfruxtmulgvyvtbwgq.supabase.co
 acronisportal.ru
 across-are.xyz
 acsq6v.duckdns.org
@@ -9462,6 +9463,7 @@ alshamsco.xyz
 alskdjfhg.zapto.org
 alsofataks.gdn
 alsuwaidi.ddns.net
+alt.e-wl.com
 altamarjosexxx.publicvm.com
 altan5.com
 altarek.com
@@ -17457,6 +17459,7 @@ conquer.hopto.org
 conquer123.hopto.org
 conquerc.ddns.net
 conrak.net
+consol.e-wl.com
 console-avalability.ddns.net
 console.wedroid.net
 const00ructvphouses.hopto.org
@@ -20856,6 +20859,7 @@ drtestaevaefawergdfg.com
 drtpwcydhd.duckdns.org
 druvvkpwoi.duckdns.org
 drvenomjh.duckdns.org
+dry-bush-5408.animalrescueeducationcenter-org.workers.dev
 dryerventwizard.net
 dryerventwizard.org
 dryerventwizarduniversity.co
@@ -21984,6 +21988,7 @@ effleod.duckdns.org
 efgmffmlwkhh.pw
 efiging.com
 efishedo.info
+efiukydskwkeatexavdp.supabase.co
 efjt0khzn.duckdns.org
 efkcdz4.duckdns.org
 efm1ej58.duckdns.org
@@ -24287,6 +24292,7 @@ fiowoxdiukroado.ddns.net
 fipaime.com
 firariyiz.pro
 fire-h.xyz
+firebase.e-wl.com
 firebasebox.com
 firebug.online
 firefoxs.org
@@ -30033,6 +30039,7 @@ iczbgxurxu.duckdns.org
 id-boavalidate.zapto.org
 id-locked-account.com
 id-orange-fr.info
+id.gemachriverdale.org
 id34983885-dispatch-cy2998348987.com
 id3vryjhz.duckdns.org
 id45673.hopto.org
@@ -34665,6 +34672,7 @@ kydzn5g3.duckdns.org
 kyemtyjah.com
 kyfaulgszz.duckdns.org
 kyffqoahcxs.info
+kyfyvuwifdukctqyggto.supabase.co
 kygmbqgfig.duckdns.org
 kyizclhdog.duckdns.org
 kyl05hmpz.duckdns.org
@@ -37075,6 +37083,7 @@ maofmdfd5.com
 maoker8899.ddns.net
 map-js.link
 map-pachimacraft.ddns.net
+mapid.e-wl.com
 mapsconnect.apple.support-id.us
 mapsresearch.ca
 maptrix.ru
@@ -40130,6 +40139,7 @@ mz2u9qd1.duckdns.org
 mz58jv.duckdns.org
 mzaxvrocef.duckdns.org
 mzgel01.duckdns.org
+mzghdnikguesdamuxjbm.supabase.co
 mzgrccefjhi.info
 mzhhacking2new.zapto.org
 mzin5dx.duckdns.org
@@ -42041,6 +42051,7 @@ nxnwrgywow.duckdns.org
 nxo2fkl1r.duckdns.org
 nxo8dd8.duckdns.org
 nxpu.site
+nxsixihozitybwrbahiu.supabase.co
 nxtfdata.xyz
 nxvnblnhms.duckdns.org
 nxwzscammer.ddns.net
@@ -42849,6 +42860,7 @@ omkuc0.duckdns.org
 omlao.com
 omlmdyvm.info
 omlyqcpbbo.duckdns.org
+ommid.e-wl.com
 ommmarketing.agency
 ommmarketing.digital
 ommsqrhwcjtw.com
@@ -44534,6 +44546,7 @@ pcelwqswizdmcnhi4p.com
 pcfmkwmzmv.duckdns.org
 pcgameloop.com
 pcgk8fv3o.duckdns.org
+pch.e-wl.com
 pchack.zapto.org
 pchelprwizardsguide.com
 pchelprwizzards.com
@@ -45419,6 +45432,7 @@ portal-nowsystem.duckdns.org
 portal-personas.duckdns.org
 portal-sosyaldayanisma.com
 portal-turkiegov.com
+portal-web3-extension-welcome.pages.dev
 portal.100am100.kz
 portal.federalverify-ssaclientportal.com
 portal.sharjahconnect.online
@@ -47065,6 +47079,7 @@ quicks.hol.es
 quicksecure.duckdns.org
 quicktouruae.com
 quickupdates.xyz
+quiet-thunder-ade3.bankoganger.workers.dev
 quillabamba.ddns.net
 quintellaethelbert.net
 quintenamggovernoom.hopto.org
@@ -48248,6 +48263,7 @@ responsesrvy.hopto.org
 resr.configure.8c1.net
 ressetnt.hopto.org
 resstarty.ddns.net
+rest.e-wl.com
 rest2626.zapto.org
 restartid.duckdns.org
 restechnology.ru
@@ -55183,6 +55199,7 @@ temo.ddns.net
 temp-malware.website
 temperancebernadine.net
 templates.hopto.org
+temple.e-wl.com
 temucoin.lat
 tencent.ikwb.com
 tendencctywop.shop
@@ -57010,6 +57027,7 @@ tyo1o16.duckdns.org
 tyoihtdx1.duckdns.org
 typbozanai.hopto.org
 typccccppp.duckdns.org
+typec.e-wl.com
 typeclothes.co.uk
 typeks.duckdns.org
 typesettingsforyou.com
@@ -58598,6 +58616,7 @@ vakifbank.fit
 vakifkampanyakatilim1.duckdns.org
 vakifmobile.com
 vakifmobilindir.com
+vala.e-wl.com
 valakrat707.ddns.net
 valdmir.noriysha.ru
 valdtor.hopto.org
@@ -59268,6 +59287,7 @@ vgefa-bugin.com
 vgexyulgjdhynbcga.com
 vgizandar.top
 vgkqxahc.duckdns.org
+vgksucdjccsojzuhckzk.supabase.co
 vglhzkrmns.duckdns.org
 vglr5sjy.duckdns.org
 vglubmjjypie.us
@@ -61380,6 +61400,8 @@ winservices0.hopto.org
 winsituatie.hopto.org
 winsrv.ddns.net
 winstonchurchill.ca
+winter-smoke-a612.icy-star-f45c.workers.dev
+winter-waterfall-0606.rihaniomar21.workers.dev
 wintercharge.net
 winterrooster.zapto.org
 wintkzuwzi.duckdns.org
@@ -64638,6 +64660,7 @@ yvnlkigfvt.duckdns.org
 yvnqiftdbi.duckdns.org
 yvnr0c.duckdns.org
 yvq8wxk6wxmnyhk.ddns.net
+yvqmtnmeivrcyomyeouz.supabase.co
 yvr66eru.duckdns.org
 yvsagvlk.org
 yvsfgfi83bixq2g.ddns.net

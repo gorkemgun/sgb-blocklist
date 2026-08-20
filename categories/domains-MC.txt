@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41133
-# Last change: 2026-08-18 14:54:39 UTC (sync mode: delta)
+# Records: 41138
+# Last change: 2026-08-20 13:13:49 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -7292,6 +7292,7 @@ ccsecurity-mail-inc.services
 ccss.cxzve.icu
 ccthi.enconfhz.com
 cctitty.info
+cctvv2.com
 ccvds334axzxm.com
 ccwaterfall.com
 ccxqipcpdlyakts.cn
@@ -14416,6 +14417,7 @@ g4cpq4xcz.ml
 g5nrg.uqauv.cn
 g66nzt8q.mygamesonline.org
 g83u.pages.dev
+g8688808.com
 g8jr8p9dsyq2uvdu.xyz
 g987k.rvideco.com
 g9ve5b6t4.cn
@@ -15419,6 +15421,7 @@ googlel.gleeze.com
 googlemap.hopto.org
 googlemap.serveblog.net
 googlephoto.vip
+googleplaydown.com
 googlerat.ddns.net
 googles.accesscam.org
 googles.ddnsfree.com
@@ -36786,6 +36789,7 @@ v0rzpbu.com
 v0tingsystem.github.io
 v1.fym5gserobhh.pw
 v13cracker.ddns.net
+v17001.com
 v1nd13s3l444.xyz
 v1rg0.ddns.net
 v2-api.mooo.com
@@ -37788,6 +37792,7 @@ w.ye4sv.com
 w1.discoverconicalcrouton.shop
 w1.plenimusic.com
 w111.online.swtest.ru
+w17907.com
 w187.ddns.net
 w19-seasalt.com
 w1il9tfyqug006bb6saoe1abgmu0kjymq7dp6iumjgs9duap.com
