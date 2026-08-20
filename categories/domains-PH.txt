@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100797
-# Last change: 2026-08-19 23:40:33 UTC (sync mode: delta)
+# Records: 100803
+# Last change: 2026-08-20 04:01:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -34800,6 +34800,7 @@ frozeinc.site
 frozzenpath.top
 frpieocoa.xyz
 frracb.top
+frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.info
 frrstlrrkmnyaabsvrrr25479123.info
 frrstlrrkmnyaabsvrrr25479123.pro
 frsat-katalog.com
@@ -39791,6 +39792,7 @@ halkbnkmobil.duckdns.org
 halkbnkmobilaktif.duckdns.org
 halkbnkmobilduyuru.duckdns.org
 halkdijital.help
+halkdijital.wiki
 halkfirsati0faizoranlasizlerle.icu
 halki.click
 halkicanocan.co
@@ -41089,6 +41091,7 @@ hencepastry.top
 hencerepressive.top
 heneseyinzaghi.net
 henex.online
+henostlert.duckdns.org
 hensoothe.top
 henstoun.com
 hentagyuklemleri.net
@@ -57574,6 +57577,7 @@ mhgfshsfdhds.art
 mhgtheatre.ru
 mhherkesrs.com
 mhhmmhrs.app
+mhhrdw.com
 mhhres.dns.navy
 mhhrrss.com
 mhhrsvatandasgiris.duckdns.org
@@ -61164,6 +61168,7 @@ nimetbalikci1-193f7d85c066.herokuapp.com
 nimetistanbul.net
 nimifer.com
 nimmirrsolva.com
+nimohipolse-tadore.lol
 nine-west.co.za
 nine-west.com.tr
 ninecupdtat.top
@@ -62914,6 +62919,7 @@ office21.mdbgo.io
 office365-d8d30f.webflow.io
 office365cloudhub.com
 office365emailverification9.godaddysites.com
+office365onedrivedoc.com
 office365pdfcloud.com
 office365projectmemo.myportfolio.com
 office80f8a649b49eef411c04a82b3e39b85b80f8a649b49eef411c04aa8fd.onedriveoffice.workers.dev
