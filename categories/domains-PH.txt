@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100885
-# Last change: 2026-08-20 15:50:57 UTC (sync mode: delta)
+# Records: 100913
+# Last change: 2026-08-20 21:46:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2118,6 +2118,7 @@
 6060606000001.cloud
 60g.api18.shop
 61250-coinbase.com
+61322122214545578899897.duckdns.org
 61355xf6771d2.duckdns.org
 6161616161.duckdns.org
 61662542.cloud
@@ -3712,6 +3713,7 @@ abwehrphas.sa.com
 abxess.com
 abyss-world-asset.net
 abzb3v0.cn
+ac-count.my-homeip.de
 ac.perf.coinbase-com.info
 ac123xlkdsdaxjk12kj3123c12.cfd
 ac2d6f60.jdhuwoskz.cloud
@@ -4520,6 +4522,7 @@ addyourpasskey.com
 aded.click
 adenbaba.online
 adencheck.online
+adenyabeachs.com
 adeptcraft.net
 adequacyjudicial.top
 adequacypresumably.top
@@ -10355,6 +10358,7 @@ baghelsingh.com
 bagis-yap.net
 bagisahbap.org
 baglanailegenc.org
+baglanti-tamamlama.com
 baglantiailegenc.com
 baglantiniz.com
 bags21hare.top
@@ -12406,6 +12410,7 @@ bilgiekranin.net
 bilgiekraniniz.net
 bilgietabi.com
 bilgiguncelleme.com.tr
+bilgihub.info
 bilgiigirisim.com
 bilgiigirisin.com
 bilgiiguncelle.com
@@ -17886,6 +17891,7 @@ ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
 cepteteb-tr-3yil-ozel.com
 ceptetebfirsati.xyz
+ceptetebliye-ozel.my-homeip.de
 ceptev1interxaktiftr.site
 ceptexgibv1.fun
 ceptlyukluyoruz.net
@@ -18971,6 +18977,7 @@ clyscslccss-cswqs.com
 cm342nsdvc.cyou
 cmahzmtsnryk.net
 cmdbycian.156953coinbase.com
+cmhrdanbrayagldm.click
 cmhuzlasma.org
 cmk3v4u.cn
 cmljpl.top
@@ -25886,6 +25893,7 @@ dijitalreklarnencleritr.space
 dijitals.space
 dijitalsifresiz.net
 dijitalsiparis-kampanyalar.sbs
+dijitalsiparis-kapinda.sbs
 dijitalsitemizs.site
 dijitalsorgu.org
 dijitalsube-acikdeniz-com.tk
@@ -38522,6 +38530,7 @@ guncelhabercilik.net
 guncelhaberfikir.com
 guncelhaberlerim.com
 guncelhaberzone.com
+guncelhemen.abrdns.com
 guncelhizmet.online
 guncelindirimler.com
 guncelislemlerx.net
@@ -41435,6 +41444,7 @@ heytakipin.fun
 heytakiple.fun
 heytakipliyoz.fun
 heytrack.site
+hf7x.com
 hfbrd1ckmaz0glsnd1brda.com
 hfc1brdsakgl0ckmz1sg.com
 hfc1brs0zka1cmz.com
@@ -42762,6 +42772,7 @@ hondaturkiyee.com
 honedestler.duckdns.org
 honehester.duckdns.org
 honejestrer.duckdns.org
+honejsatery.duckdns.org
 honejsterheyr.duckdns.org
 honejsterkestler.click
 honeshadrteker.duckdns.org
@@ -44634,6 +44645,7 @@ ilanli.com.tr
 ilanlink-dolap.com
 ilanodeme.com
 ilanonay.com.tr
+ilanonayla.online
 ilanpaylas.net
 ilansahibinden.xn--com-0da
 ilansatinal.com.tr
@@ -48987,6 +48999,7 @@ juicyhumanism.top
 juicyindignation.top
 juicyretrieval.top
 juj1.xyz
+juk2a.site
 jukkery.com
 juksiqortam.com.tr
 juksiqortam.xyz
@@ -51139,6 +51152,7 @@ kizlarburada.click
 kizlarburada.sbs
 kizlarsoruyo.store
 kizlarvi.com
+kizlarvixlex.cfd
 kizlarvixlex.click
 kizllay.com
 kizmirim.net
@@ -53299,6 +53313,7 @@ letgoilan.com
 letgosiparis.com.tr
 lethasonuc.xyz
 lethasorgu.com
+letok82650.site
 letpredator.top
 letpropeller.top
 letrectification.top
@@ -55024,6 +55039,7 @@ m0halrnd2a.fun
 m0uhdyf.cn
 m1-arena.com
 m1112929211.cloud
+m1b10ir4zle.sbs
 m1h46r5s458sdf.duckdns.org
 m1p8z.com
 m1uyhni1r56q.icu
@@ -56425,6 +56441,7 @@ matamasklloghjn.webflow.io
 matamasloginex.webflow.io
 mataraniinfrastructure.com
 matbald.top
+matbet1001giris.site
 matbetmagdurlari.qnbfinansiadeler2021basvurusu.xyz
 matchhavoc.top
 matchoraworldcup.world
@@ -57741,6 +57758,7 @@ mhrsrandvlrmzbrasi.sbs
 mhrsrarandvlrmbrda.sbs
 mhrsrarandvzhmzrsbrda.sbs
 mhrsrarandvzlrmmhrsbrda.sbs
+mhrsrndsjlvsv.com
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
 mhrsrx2ndevuh3zmetleriniz45012.com
@@ -57773,6 +57791,7 @@ mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mht-tickets.ru
 mhtmcntmbk.online
+mhurbiraznle.sbs
 mhxrsbzlehizlica.org
 mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
 mhxrsrndvvlarbizle.org
@@ -62592,6 +62611,7 @@ oauth2.live
 oauth2.online
 oavienet.store
 obamakarnar.com
+obaresort.net
 obariayachameriogu.do.am
 obatbyt.com
 obediencecult.top
@@ -74604,6 +74624,7 @@ sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.ilan-onayla.online
+sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
 sahibinden-param-guvende.siparisonayi.online
@@ -75769,6 +75790,7 @@ sarp.site
 sarpinomointainresorts.com
 sarrafcolan.cfd
 sarrramargooooa.shop
+sarsarsarsarmakarayyyy.com
 sartahaber.com
 sartaizm.com
 sartsiz.com
@@ -79749,6 +79771,7 @@ sokfirsatigeldi.xyz
 sokfirsatlar-temmuzda.com.tr
 sokfirsatlarburada.com
 sokfirsatlarin.online
+sokflrsatlarbrda.com
 sokflrsatlarharikala.shop
 sokgecefirsati.online
 sokindirimcepte.online
@@ -79776,6 +79799,7 @@ sokmarketcarsamba.site
 sokmarketcuma.site
 sokmarketfirsatlaribitmezyilbasi.mooo.com
 sokmarkethemencecikgelsin.cfd
+sokmarkethepsi.shop
 sokmarkethizlisiparis.com
 sokmarketi.online
 sokmarketiphone.net.tr
@@ -88191,6 +88215,7 @@ trendvvharf.com
 trendy-ol.com.ng
 trendy-ol.net
 trendy0l.com
+trendy0l.lol
 trendy3.online
 trendygiris.com
 trendyl-yilsonusepeti.com
@@ -91555,6 +91580,7 @@ uypsorgum.online
 uypsorgum.xyz
 uysalsigorta.net
 uyumluteknolojikidnrimler.com.tr
+uzaktankayit.abrdns.com
 uzaktantelefontakip.com
 uzananelvakfi.com
 uzatma.casa
@@ -92378,6 +92404,7 @@ velgy.blogspot.com
 velgyl.blogspot.com
 velialimdomain12.xyz
 velinoleyva.org
+velirapolse-pudore.lol
 velisimalkernkis.info
 velkor.surf
 vell-mari-hotel.com
@@ -98647,6 +98674,7 @@ yapi-kredi-digitalislemlerim2024.com
 yapi-kredi-katilimworld.ga
 yapi-ozel-xc90.com
 yapi.kisalink.cc
+yapi.ve.kredi.dliso.com
 yapi77yilozel.fit
 yapicajsdkjjk123x123.sbs
 yapidan2021.kisalink.cc
