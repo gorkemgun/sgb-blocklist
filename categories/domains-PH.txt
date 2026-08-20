@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100831
-# Last change: 2026-08-20 09:52:18 UTC (sync mode: delta)
+# Records: 100834
+# Last change: 2026-08-20 10:49:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8331,6 +8331,7 @@ arorasatisnoktasi.com
 aroraturkiyesatis.com
 aroraurunleri.com
 arorayedekparcasatis.com
+arorayedekparcasi.com
 arosperity.com
 arotdanismanlik.com
 aroundlime.top
@@ -62104,6 +62105,7 @@ nviordnsmxn.net
 nvipssportalsnaykxcc.net
 nvirand.click
 nvirandevuals.com
+nvirandevucunuz.online
 nvirandevumal.net
 nvirandevumklklsdas.net
 nvirandevuservisii.com
@@ -87250,6 +87252,7 @@ tpplatformtr.com
 tpplx.com
 tpprojeturk.com
 tppsl-032042.com
+tprlarrsc.space
 tprndvssdty.com
 tprsondakika.com
 tpshop.xyz
