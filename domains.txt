@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466195
-# Last change: 2026-08-20 10:49:43 UTC (sync mode: delta)
+# Records: 466265
+# Last change: 2026-08-20 11:45:35 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14761,6 +14761,7 @@
 4kqd3hmqgptupi3p.7w9p1n.bid
 4ksbv8f.duckdns.org
 4kt0l2g10.duckdns.org
+4kvideodownloader.ru
 4kyazilim.com
 4kyzgj.duckdns.org
 4l0v6vyfp.duckdns.org
@@ -16966,6 +16967,9 @@
 61271268127.webredirect.org
 6127217777.site
 612bb.sheetsbrandnewday.com
+61322122214545578899892.duckdns.org
+61322122214545578899893.duckdns.org
+61322122214545578899894.duckdns.org
 613236203.dfgqdsd.ru
 6134728541296136547110.duckdns.org
 6134728541296136547120.duckdns.org
@@ -31523,6 +31527,7 @@ acro.ns1.name
 acrobystitis.com
 acrochordinae.com
 acronispandora.ddns.net
+acronisportal.ru
 across-are.xyz
 across-earning.gl.at.ply.gg
 across-ourbest.xyz
@@ -49179,6 +49184,7 @@ aracc-muaynerezervesibro.blogspot.com
 aracc-muayturk.com
 aracc-muayturk.online
 aracc-muayturk.xyz
+araccanmuayeyene.com
 araccassmuaynee.net
 aracccimmuayyenee.com
 aracccpmuaayeneee.net
@@ -53755,6 +53761,7 @@ au.101xmarketuygun.com
 au.charlineopkesston.com
 au2cl46.cn
 au2th0nline-ct.hopto.org
+au44444.site
 au69w0.duckdns.org
 au8090au.ddns.net
 au9z9x.duckdns.org
@@ -88150,6 +88157,7 @@ bsvrrrkmpnyaaprmsynnn.pro
 bsvrrrkmpnyaaqnb.click
 bsvrrrkmpnyacklssss.click
 bsvrrrkmpnyacklssss.info
+bsvrrrkmpnyacklssss.pro
 bsvrrrkmpnyyaaprmsyonnn.click
 bsvrrrkmpnyyykrediiifrstlrr.pro
 bsvrrrkmponyaaprmsyn.click
@@ -97217,6 +97225,7 @@ cebteteb.my-homeip.de
 cebteteb.my-homeip.net
 cebteteb.myonlineportal.de
 cebtetebi.myonlineportal.ch
+cebteteblim.myonlineportal.ch
 cebtetebonline.com
 cebtetebonusu.com
 cebtetebsube.online
@@ -110840,6 +110849,7 @@ crispear.top
 crisplash.top
 crispsurge.top
 crissnda5.ddns.net
+cristalixmine.ru
 cristiano-collection.etfmerlin.com
 cristinahurtado.duckdns.org
 criterbeytepe.com
@@ -111300,6 +111310,7 @@ crystal-pathshift.sbs
 crystalbally44210.duckdns.org
 crystalboycott.top
 crystalbyte.store
+crystaldisk24.ru
 crystalheron.site
 crystalhr.top
 crystalincantation.com
@@ -111470,6 +111481,7 @@ csgcpsmkzh.com
 csgo-play-de.com
 csgo7777.hopto.org
 csgocheat.hopto.org
+csgodownload.ru
 csgofail.000webhostapp.com
 csgohex.ddns.net
 cshiletsim.xyz
@@ -112641,6 +112653,7 @@ cupdesdi.site
 cupdsft.site
 cupersip.com
 cupfaser.site
+cupheadplay.ru
 cupiditate-dignissimos.com
 cupidon.zapto.org
 cupofhockey.com
@@ -126535,6 +126548,7 @@ dijitalhesapbasvuru.online
 dijitalhgsportal.sbs
 dijitalhgsyuklemes.net
 dijitalhizli-denizacik.com
+dijitalhizli-kapinda.sbs
 dijitalhizli-ziraatmobil.com
 dijitalhizli-ziraatwebkampanya.sbs
 dijitalhizligiris-denizacik.com
@@ -160232,6 +160246,7 @@ fallinoffers.xyz
 fallmetaphorical.top
 fallnotorious.top
 fallodick87-78.sbs
+fallout24.ru
 fallowesyt.life
 fallrectification.top
 fallreply.net
@@ -160457,6 +160472,7 @@ farahcarfourindirimleri.duckdns.org
 faraj.zapto.org
 faramizdakalsinlersif.click
 faraway-lodge.co.za
+farcryplay.ru
 fardasvara.com
 fardi2076.hopto.org
 fareades-gusloaders.com
@@ -160769,6 +160785,7 @@ fastsensation.top
 fastshare.click
 fastsigortacim.com.tr
 faststaynow.duckdns.org
+faststoneportal.ru
 faststoragefiles.org
 fastsubeacikdenizv2denizbank.co.vu
 fastteklif.gen.tr
@@ -164867,6 +164884,7 @@ firsatasendebasvurbance.tech
 firsataszdle.zkel.workers.dev
 firsatauisara.duckdns.org
 firsatavansbonus2022.buzz
+firsatavcisi.sbs
 firsatavmp-tt.com
 firsatavmsimdi.com
 firsatayagimizageldi.com
@@ -168731,6 +168749,7 @@ formasnirovanienahacb.com
 format-bridge4324.info
 formatdisplacement.top
 formatenlist.top
+formatf.ru
 formation.zapto.org
 formationcensorship.top
 formationmaster.com
@@ -169208,6 +169227,7 @@ foxetinnpcs.ddns.net
 foxgarcitj.duckdns.org
 foxglimmers.site
 foxhaberajans.com
+foxitpdf.ru
 foxlimited.top
 foxlive.ddns.net
 foxlnklnk.xyz
@@ -178817,7 +178837,10 @@ get2xcrypt.com
 get3ds-safe.info
 get3dsecure.net
 get565465654465465654onaysms.cloud
+get7zip.ru
 getabesvirussuz.ml
+getaf.ru
+getaimp.ru
 getalisveris.com
 getalsat.com
 getandroidplaystore.co.vu
@@ -178830,16 +178853,19 @@ getarvion.site
 getarvion.store
 getarvox.store
 getasahbinden-parmguvendeetr.nl
+getavast.ru
 getavatar.top
 getaxion.shop
 getaxion.store
 getbadge-case2343531.online
+getbandicam.ru
 getbarny.store
 getbasvauuruyap.cfd
 getbeanlabs.com
 getbikesahibinden.ml
 getbildirimlerim.com.tr
 getbildirimlerim.xyz
+getbluestacks.ru
 getboldique.com
 getbrenlo.site
 getbrexta.shop
@@ -179098,6 +179124,7 @@ getmoney247.ddns.net
 getmoney3004.duckdns.org
 getmonit.site
 getmoriva.site
+getmovavi.ru
 getmycreditsyourlife.com
 getmyfile.click
 getmyfile.link
@@ -179205,6 +179232,7 @@ getravionis.store
 getrayton.online
 getrdigitalgirislemenutr100yil.com
 getrecord.shop
+getrecuva.ru
 getreltix.shop
 getreltix.site
 getrlmhemnszilerle.com
@@ -179398,6 +179426,7 @@ gettsveriff.com
 gettylorix.shop
 gettylorix.site
 gettylorix.store
+getultraiso.ru
 getupdatesnow.xyz
 getuptateserv.eu
 getuqterio.site
@@ -179415,6 +179444,8 @@ getveylora.store
 getviorana.shop
 getviorana.site
 getviorana.store
+getvmware.ru
+getvuescan.ru
 getvyntra.shop
 getwally.site
 getykipolo.xyz
@@ -179756,6 +179787,7 @@ ggtiwpqqet.duckdns.org
 ggtrack.org
 ggtrbbva.duckdns.org
 ggu2tcqt0v.ru
+ggugosahdahsdhashd0988ws.click
 ggv9qcejsw.storage.googleapis.com
 ggvbg-grlm.com.tr
 ggvruxovlbrm.com
@@ -183116,6 +183148,7 @@ gofuture-games.ru
 gogainiq.click
 gogazy.com
 gogcojdremer.biz
+gogetter24.ru
 gogetterly.com
 gogetxto.life
 gogg0zfk.duckdns.org
@@ -184516,6 +184549,7 @@ gozleri-kamastiran-guzellik-simdilik-burada.com
 gozleri-kamastiran-harikalar-yeniden-geldi.com
 gozleri-kamastiran-sekilde-karisinizda-suanda.com
 gozleri-kamastiran-sekilde-yeniden-devam.com
+gozlerikahverengisunudasorayim.sbs
 gozlerindekiay.net
 gozlerine-inanamayanlar-yuzlere-yansiyan-gulumsemeler.com
 gozlerinmisyalanci.sbs
@@ -186624,6 +186658,7 @@ gt9h91rlf.duckdns.org
 gta3three.com
 gta5fivemoyna213.xyz
 gta5spot.altervista.org
+gta6-play.ru
 gtafivemoynam.xyz
 gtaivfour.com
 gtakip.xyz
@@ -192190,6 +192225,7 @@ hadezvendas.ddns.net
 hadgelsondakka44.click
 hadglgzlmuzklragdlm.shop
 hadhadhkhgfdd.sbs
+hadhsynsynr.uk
 hadi-40000-basvr.cfd
 hadi-40000-basvr.cyou
 hadi-40000-basvr.icu
@@ -193832,6 +193868,7 @@ halfhorserevolution.com
 halfhunt.digital
 halfine.pw
 halfislem.22web.org
+halflife-play.ru
 halfmatterblind.com
 halfmilestone.top
 halfmingle.top
@@ -197808,6 +197845,7 @@ hasnmrlhs.online
 hasnseriissbbbvakrd.online
 hasntahizfafamar.cfd
 hasntahizmar.cfd
+hasntanrernere.uk
 hasodemem.net
 hasolanalsa.co
 hason000999.zapto.org
@@ -208029,6 +208067,7 @@ hizlgecisbakieyukleme.web.app
 hizlgecisbakiyedoldurma.web.app
 hizlgecisbakiyeyukleme.web.app
 hizlgecisonlnebakye.lat
+hizlgecsdolumu.org
 hizlgirism9.sninix.space
 hizlgrs-aks.mofe-ns.click
 hizli--basvur.site
@@ -228564,6 +228603,7 @@ inwardhurdle.top
 inwardpartition.top
 inwardsymphony.top
 inweb-tollroadtrust.com
+inwebcentral.com
 inwebupdate.wixsite.com
 inwest-platform2023.info
 inwesternunion.com
@@ -264391,6 +264431,7 @@ letitbe.icu
 letmaker.top
 leto.hopto.org
 leto2nazi-glee.com
+letok82650.space
 letok82650.store
 letopasik.ddns.net
 letopistt.com
@@ -274700,6 +274741,7 @@ masakdosyasorgu.com
 masakdosyatakip.org
 masakdosyatr.com
 masakdosyatr.org
+masakedevlet.org
 masakegm.net
 masakegm.org
 masakgov.com
@@ -277446,6 +277488,7 @@ memrular.net
 memsendenhak.site
 memtamaseklogin.webflow.io
 memttmemtv.net
+memuemulator.ru
 memuerlar.net
 memunlock.ddns.net
 memur-sensikayetvar.com
@@ -281226,6 +281269,7 @@ mmhkmazlh.duckdns.org
 mmhp.link
 mmhrrksl.com
 mmhrsnrndvs.net
+mmhrsrrandevuum.com
 mmhrxsranndevv.org
 mmi-elr.xyz
 mmifkxjwugxeepu.su
@@ -283582,6 +283626,7 @@ mobilgiris-6aa27e57.vercel.app
 mobilgiris-7a3c4466.vercel.app
 mobilgiris-96325904.vercel.app
 mobilgiris-9ff46ddf.vercel.app
+mobilgiris-adresiniz.top
 mobilgiris-b247ba48.vercel.app
 mobilgiris-d8dc46f9.vercel.app
 mobilgiris-e66b2be5.vercel.app
@@ -286287,6 +286332,7 @@ mrhs-aps.online
 mrhsbsvronline.com
 mrhsrmrmsmrn.com
 mrhsrrere.cfd
+mrhssrandevuum.com
 mri39y.duckdns.org
 mrigel.zapto.org
 mrjako.zapto.org
@@ -300285,6 +300331,7 @@ nwapp.yoomob.cn
 nwatjuhc.com
 nwaums.com
 nwckv.com
+nwcspraseves.duckdns.org
 nwcsprasevess.duckdns.org
 nwcw-dedrffdosprmsdgrt.net
 nwcxxlepsprenalmasrv.net
@@ -313887,6 +313934,7 @@ painfulsimultaneous.top
 painmediation.top
 paintal.click
 paintastew.ddns.net
+paintdotnet.ru
 paintdreamworks.com
 paintercommonwealth.top
 painterilliteracy.top
@@ -321225,6 +321273,7 @@ pdftraining.com
 pdfts.site
 pdfviewer.app
 pdfworker.com
+pdfxchange.ru
 pdgagehohfwpike.ru
 pdgdmj.top
 pdgpvg.duckdns.org
@@ -325100,6 +325149,7 @@ poppingj.com
 poppingma.com
 popppeasy.com
 poppstyle.com
+poppyplaytimeplay.ru
 popsik1337.hopto.org
 popskentown.com
 popskill.net
@@ -334054,6 +334104,7 @@ pubgmfree.ddns.net
 pubgmobilexmclaren.com
 pubgnews.ddns.net
 pubgonline.live
+pubgplay.ru
 pubgredeem.fun
 pubgsmile.com
 pubgspins1.duckdns.org
@@ -338675,6 +338726,7 @@ r-onayllnservishizmeti.com
 r-pttgov.top
 r-sok.com.tr
 r-sponsor-crs.web.tr
+r.byteengineering.net
 r.crazy-pare.34-125-197-109.plesk.page
 r.garantibbvakredibasvuru.com
 r.lolbrogg123424.com
@@ -341151,6 +341203,7 @@ rdrfi.com
 rdrfy8e7x.duckdns.org
 rdrgo4.cyou
 rdrhgss.com
+rdrplay.ru
 rdrwjkxjwj.duckdns.org
 rdsecuremt.ddns.net
 rdsjwu.com
@@ -342487,6 +342540,7 @@ regkjw.xyz
 reglasti.com
 regnantcorpora.top
 regonalone.com
+regorganize.ru
 regosk.com
 regpodcasts.com
 regreg.xyz
@@ -346098,6 +346152,7 @@ robint.us
 robintvsttream567.top
 robisongiri.pw
 roblexmeet.com
+roblox-play.ru
 robloxakkaynt.hopto.org
 robloxapk.org.tr
 robloxdefault.ddns.net
@@ -347307,6 +347362,7 @@ ruhsuzpanel1.site
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
+ruhsuzpanel8.site
 ruhumsokakgibiolduguyerde.blogspot.com
 ruicwkzt.com
 ruinousatrocious.top
@@ -347461,6 +347517,7 @@ russigortam.xyz
 russk22.icu
 russkayapesnya.ru
 rust-mac-build.com
+rust-play.ru
 rustcomb.ddns.net
 rustfoundation.dev
 rusthost.hopto.org
@@ -374632,6 +374689,7 @@ sorgulamarilniz.net
 sorgulamaservisiniz.com
 sorgulamaservisinizl.com
 sorgulamasistemi.com
+sorgulamasisteminde.xyz
 sorgulamastr.com
 sorgulamatransverservisi.cyou
 sorgulamatrmr.net
@@ -388973,6 +389031,7 @@ tcnsosyalsayfasi.com
 tcodemesistemi.net
 tcog.thruhere.net
 tcogpn.com
+tcommander.ru
 tcompassion.top
 tconlinebasvurular.com
 tconlinebasvurular20.com
@@ -391656,6 +391715,7 @@ temizlikhizmetleri.net
 temizlikseren1.ga
 temizlikyapiyoruz.click
 temizlikyapiyoruz.cyou
+temizlikyapiyoruz.xyz
 temmensat.com
 temmlxzdsa.duckdns.org
 temmmuz-firsatlariill-buradaakacirmaaa-hrmen-al.com
@@ -392962,6 +393022,7 @@ tezhelandimkro.top
 tezobi.info
 teztakmysle.ddns.net
 tezysyu.cyou
+tf2play.ru
 tf4khj2g1.duckdns.org
 tf5bumw.duckdns.org
 tf6hb6lgxp.com
@@ -393792,6 +393853,7 @@ thewebanswers.com
 thewhiteorchidspa.com
 thewindsoft.com
 thewire.internetdocss.com
+thewitcherplay.ru
 thewomenagainsttrump.us
 thewoodcologne.com
 theworkofnature.co.uk
@@ -394975,6 +395037,7 @@ tjzdulctog.duckdns.org
 tk-i-knt-bvsru.online
 tk-tapursevrandvun.info
 tk-tapursevrandvun.net
+tk-tapursevrandvun.org
 tk033.vip
 tk1gr2.duckdns.org
 tk1jg4o3.duckdns.org
@@ -410815,6 +410878,7 @@ tvqrzf.com
 tvqsexh.in
 tvreezeersa.net
 tvrkksgmmhfll.net
+tvrkrsnzhdsmsvc.store
 tvrktshdabzursd.store
 tvrp.pw
 tvrtdk-muyanealma.com
@@ -411819,6 +411883,7 @@ u648984.softaculous.dev
 u649198.softaculous.dev
 u649786.softaculous.dev
 u649962.softaculous.dev
+u650022.softaculous.dev
 u65q96jp2.duckdns.org
 u6budf18dc4lotvampo1sym1sm.com
 u6e8a2e0cf3rqx1.ddns.net
@@ -413654,6 +413719,7 @@ unimgir.pw
 unin.icu
 uninalloy.top
 uninol.ru.com
+uninstalltooll.ru
 uninterruptedperformance.de
 union122.xyz
 union3.xyz
@@ -425739,6 +425805,7 @@ vlbaqg.cc
 vlbrjomf.com
 vlburasibskakcmahd.com.tr
 vlc-updates.ddns.net
+vlcmp.ru
 vlcpeque.com
 vlddqnhkoxei.com
 vle.cam.ac.uk.canm.me
@@ -433582,6 +433649,7 @@ windowsmanagerhost.ddns.net
 windowsmcvs.ddns.net
 windowsmicrosoft.zapto.org
 windowsmicrosofte.online
+windowsmp.ru
 windowsmsncn.org
 windowsnewzzexplorerszzo.duckdns.org
 windowsoperation.ddns.net
@@ -450025,6 +450093,7 @@ yancesakencakan.cfd
 yancommato.com
 yancy.ddns.net
 yanda-yukle.22web.org
+yandereplay.ru
 yandesks.net
 yandesktop.com
 yandex-disk.net
@@ -461692,6 +461761,7 @@ zellserfdb.blogspot.com
 zelmador.media
 zelmallo.tr
 zelmarn.click
+zelmarvo.com
 zelmoraq.bond
 zelmoruq.live
 zeloravik.shop

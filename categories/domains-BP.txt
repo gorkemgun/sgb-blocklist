@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257358
-# Last change: 2026-08-20 10:49:43 UTC (sync mode: delta)
+# Records: 257372
+# Last change: 2026-08-20 11:45:35 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -8678,6 +8678,9 @@
 612682377.cloud
 61271268127.webredirect.org
 6127217777.site
+61322122214545578899892.duckdns.org
+61322122214545578899893.duckdns.org
+61322122214545578899894.duckdns.org
 6134728541296136547110.duckdns.org
 6134728541296136547120.duckdns.org
 6134728541296136547140.duckdns.org
@@ -51581,6 +51584,7 @@ bsvrrrkmpnyaaprmsynnn.pro
 bsvrrrkmpnyaaqnb.click
 bsvrrrkmpnyacklssss.click
 bsvrrrkmpnyacklssss.info
+bsvrrrkmpnyacklssss.pro
 bsvrrrkmpnyyaaprmsyonnn.click
 bsvrrrkmpnyyykrediiifrstlrr.pro
 bsvrrrkmponyaaprmsyn.click
@@ -56424,6 +56428,7 @@ cebteteb.com
 cebteteb.my-homeip.net
 cebteteb.myonlineportal.de
 cebtetebi.myonlineportal.ch
+cebteteblim.myonlineportal.ch
 cebtetebonline.com
 cebtetebonusu.com
 cebtetebsube.online
@@ -93140,6 +93145,7 @@ firsataratalrlat.duckdns.org
 firsatasendebasvurbance.tech
 firsataszdle.zkel.workers.dev
 firsatavansbonus2022.buzz
+firsatavcisi.sbs
 firsatavmp-tt.com
 firsatavmsimdi.com
 firsatayagimizageldi.com
@@ -101762,6 +101768,7 @@ ggsksaakbnkdfssa.shop
 ggssf8sfdsassda.shop
 ggszjasdkszzz03.space
 ggtrbbva.duckdns.org
+ggugosahdahsdhashd0988ws.click
 ggv9qcejsw.storage.googleapis.com
 ggvbg-grlm.com.tr
 ggyukleme.22web.org
@@ -104106,6 +104113,7 @@ gozleri-kamastiran-guzellik-dolusu-geldi.com
 gozleri-kamastiran-guzellik-simdilik-burada.com
 gozleri-kamastiran-sekilde-karisinizda-suanda.com
 gozleri-kamastiran-sekilde-yeniden-devam.com
+gozlerikahverengisunudasorayim.sbs
 gozlerine-inanamayanlar-yuzlere-yansiyan-gulumsemeler.com
 gozlerinmisyalanci.sbs
 gozlukcu.vercel.app
@@ -113182,6 +113190,7 @@ hasnmnmasnmasasmhashmashmanmnmasshsshs28.xyz
 hasnmrlhs.online
 hasnseriissbbbvakrd.online
 hasntahizmar.cfd
+hasntanrernere.uk
 hasodemem.net
 hasolanalsa.co
 hasrasdnerti.net
@@ -131964,6 +131973,7 @@ invtroil.com
 invturkall.com
 invwestiro.com
 inwallfin.info
+inwebcentral.com
 inwest-platform2023.info
 inwesternunion.com
 inxdiriim-firsatlarix.com
@@ -154418,6 +154428,7 @@ letgocuzdanim-guvende.online
 letgoguvenliodeme.com
 letgoguvenliodeme.com.tr
 letgoguvenliodeme.xyz
+letok82650.space
 letok82650.store
 letopistt.com
 letsbebeyond.com
@@ -158070,6 +158081,7 @@ masakdosyasorgu.com
 masakdosyatakip.org
 masakdosyatr.com
 masakdosyatr.org
+masakedevlet.org
 masakgov.com
 masakgovtr.org
 masakguvenlik.com
@@ -162177,6 +162189,7 @@ mobilgiris-6aa27e57.vercel.app
 mobilgiris-7a3c4466.vercel.app
 mobilgiris-96325904.vercel.app
 mobilgiris-9ff46ddf.vercel.app
+mobilgiris-adresiniz.top
 mobilgiris-b247ba48.vercel.app
 mobilgiris-d8dc46f9.vercel.app
 mobilgiris-e66b2be5.vercel.app
@@ -254542,6 +254555,7 @@ zeli-home.ink
 zeliha3d.xyz
 zellserfdb.blogspot.com
 zelmador.media
+zelmarvo.com
 zelmoruq.live
 zeloria.info
 zelqi.qpon

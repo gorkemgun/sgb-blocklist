@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65790
-# Last change: 2026-08-19 14:54:44 UTC (sync mode: delta)
+# Records: 65833
+# Last change: 2026-08-20 11:45:35 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4006,6 +4006,7 @@
 4kqd3hmqgptupi3p.7w9p1n.bid
 4ksbv8f.duckdns.org
 4kt0l2g10.duckdns.org
+4kvideodownloader.ru
 4kyzgj.duckdns.org
 4l0v6vyfp.duckdns.org
 4l4fthqm.duckdns.org
@@ -8196,6 +8197,7 @@ acqaint.zapto.org
 acqpmdbtxt.duckdns.org
 acreditu.hopto.org
 acrefec09.duckdns.org
+acronisportal.ru
 across-are.xyz
 acsq6v.duckdns.org
 acsupdatekey6462342.hopto.org
@@ -17839,6 +17841,7 @@ crimos.hopto.org
 crimunalbot001.ga
 cringelord6969.ddns.net
 crissnda5.ddns.net
+cristalixmine.ru
 cristinahurtado.duckdns.org
 critichotshot.com
 crixerticfy.hopto.org
@@ -17910,6 +17913,7 @@ cryptyk.hopto.org
 cryrootsbe.tk
 crysis4.net
 crystalbally44210.duckdns.org
+crystaldisk24.ru
 crystalmind.ru
 cs-supportamzsignprime.duckdns.org
 cs.chromeinform.net
@@ -17994,6 +17998,7 @@ csfwfoxoffteam.zapto.org
 csgcpsmkzh.com
 csgo7777.hopto.org
 csgocheat.hopto.org
+csgodownload.ru
 csgohex.ddns.net
 csi.efatura-turkcell.net
 csiheavrji.duckdns.org
@@ -18284,6 +18289,7 @@ cuofco.duckdns.org
 cuongninh123.ddns.net
 cuooxvkve.org
 cupbty.ddns.net
+cupheadplay.ru
 cupidon.zapto.org
 cupomkinghost.com.br
 cuppecupe.xyz
@@ -23597,6 +23603,7 @@ falime.ddns.net
 falimore001.hopto.org
 fallback-hostname.ddns.net
 fallenvrsdo7ne.ddns.net
+fallout24.ru
 fallreply.net
 falone123.ddns.net
 falq2v09.duckdns.org
@@ -23630,6 +23637,7 @@ far3on.zapto.org
 farah99.zapto.org
 faraj.zapto.org
 faraway-lodge.co.za
+farcryplay.ru
 fardi2076.hopto.org
 fareapp.com.br
 fargo-85connect.ddns.net
@@ -23669,6 +23677,7 @@ fastrepair-schijndel.nl
 fastretail.be
 fastsafety.ddns.net
 faststaynow.duckdns.org
+faststoneportal.ru
 faststoragefiles.org
 fastupdatemanager.top
 fastuploads.xyz
@@ -24685,6 +24694,7 @@ form2page.duckdns.org
 formapple-account.ddns.net
 formareal.com
 formasnirovanienahacb.com
+formatf.ru
 formation.zapto.org
 formbook.hopto.org
 forme1.hopto.org
@@ -24750,6 +24760,7 @@ fox85.net
 foxabdellah.zapto.org
 foxetinnpcs.ddns.net
 foxgarcitj.duckdns.org
+foxitpdf.ru
 foxlimited.top
 foxlive.ddns.net
 foxmanwer.pw
@@ -25944,6 +25955,12 @@ get-proton-vpn.com
 get.activate.win
 get.bestoffer21.info
 get.confhz.space
+get7zip.ru
+getaf.ru
+getaimp.ru
+getavast.ru
+getbandicam.ru
+getbluestacks.ru
 getcookies.ddns.net
 getegroup.com
 getepri.com
@@ -25967,6 +25984,7 @@ getlitigeservices.ddns.net
 getmedown.ddns.net
 getmeontop.sytes.net
 getmoney247.ddns.net
+getmovavi.ru
 getmyfile.click
 getmyfile.link
 getmytoken-claim.ddns.net
@@ -25974,6 +25992,7 @@ getns54tope.top
 getonthebose23.online
 getquery.org
 getraenke-weichmann.de
+getrecuva.ru
 getrunkhomuto.info
 getsignalapps.com
 getsignalapps.live
@@ -25982,8 +26001,11 @@ getstatsp.ru
 getthefilenow.com
 gettmicr2134.ddns.net
 gettraf.ru
+getultraiso.ru
 getupdatesnow.xyz
 getuptateserv.eu
+getvmware.ru
+getvuescan.ru
 getykipolo.xyz
 geupdate-service.bond
 geutrpnkbz.duckdns.org
@@ -26514,6 +26536,7 @@ godsword.hopto.org
 godwin231.zapto.org
 goforssl.top
 gogcojdremer.biz
+gogetter24.ru
 gogg0zfk.duckdns.org
 goggbbnveoru.xyz
 gogglechetz.ddns.net
@@ -27140,6 +27163,7 @@ gt3f0pu7j.duckdns.org
 gt3k7td.duckdns.org
 gt9h91rlf.duckdns.org
 gta5spot.altervista.org
+gta6-play.ru
 gtcafcpwii.duckdns.org
 gtdban.net
 gtech7575sols.hopto.org
@@ -27757,6 +27781,7 @@ halasturizm.com
 haletone.com
 halewuuvankono.ddns.net
 halfhorserevolution.com
+halflife-play.ru
 halfmatterblind.com
 halfwayfilm.com
 halifax.secure-unregister.com
@@ -37649,6 +37674,7 @@ memon.hopto.org
 memory-scanner.cc
 memos.ddns.net
 memphhapar.in
+memuemulator.ru
 memxbersgarena.ddns.net
 memytel.xyz
 men.quincefriends.accountant
@@ -43907,6 +43933,7 @@ paidsupportsvcs.ddns.net
 paiment-netflix.ddns.net
 painel-netturbo.ddns.net
 paintastew.ddns.net
+paintdotnet.ru
 paintersinchristchurch.com
 paintituppottery.com
 painyard.ddns.net
@@ -44541,6 +44568,7 @@ pdfillers.com
 pdfinvoice.hopto.org
 pdfmicrosoft.ddns.net
 pdfviewer.app
+pdfxchange.ru
 pdgpvg.duckdns.org
 pdi5dnw2.duckdns.org
 pdirhxdtsnvv.bid
@@ -45352,6 +45380,7 @@ poppin22.com
 popping678.org
 poppingj.com
 poppingma.com
+poppyplaytimeplay.ru
 popsik1337.hopto.org
 popskentown.com
 popsonglist.com
@@ -46086,6 +46115,7 @@ pubglite.ddns.net
 pubgmbug72.duckdns.org
 pubgmfree.ddns.net
 pubgnews.ddns.net
+pubgplay.ru
 pubgspins1.duckdns.org
 pubiftdssarenittit.ddns.net
 public2api.com
@@ -47204,6 +47234,7 @@ qznm.pw
 qzse05.duckdns.org
 qztadmin.duckdns.org
 qzvvlkv.top
+r.byteengineering.net
 r00t.info
 r00t.zapto.org
 r01cnfirmacntbsnszkl1.duckdns.org
@@ -47788,6 +47819,7 @@ rdrct-eddcard366.ddns.net
 rdrct-eddcard367.ddns.net
 rdrfi.com
 rdrfy8e7x.duckdns.org
+rdrplay.ru
 rdrwjkxjwj.duckdns.org
 rdsecuremt.ddns.net
 rdtrggtwcm.duckdns.org
@@ -48022,6 +48054,7 @@ registrationsucess.ddns.net
 registro.hopto.org
 regjoubertattorneys.co.za
 reglasti.com
+regorganize.ru
 regpodcasts.com
 regreg.xyz
 regsvchst.com
@@ -48722,6 +48755,7 @@ robinsfcu8.duckdns.org
 robinsfcusupport.ddns.net
 robinsonfun.pl
 robint.us
+roblox-play.ru
 robloxakkaynt.hopto.org
 robloxrat.zapto.org
 robo-claim.site
@@ -49066,6 +49100,7 @@ rugar.duckdns.org
 rugiomyh2vmr.com
 rugju.duckdns.org
 ruhi8pj.duckdns.org
+ruhsuzpanel8.site
 ruisi.fr
 rulepipe-breakfast.com
 rumahsia.com
@@ -49101,6 +49136,7 @@ rusoil.ddns.net
 russia-zakon.hopto.org
 russia.zapto.org
 russianqirl.tk
+rust-play.ru
 rusthost.hopto.org
 rustoff.ddns.net
 rut352.duckdns.org
@@ -54911,6 +54947,7 @@ tchk-1.com
 tchoin.zapto.org
 tcjtguzifo.duckdns.org
 tclhcbjag.duckdns.org
+tcommander.ru
 tcovhfixx.info
 tcp.zapto.org
 tcp2dnq3.duckdns.org
@@ -55357,6 +55394,7 @@ text-yousogen.duckdns.org
 text.bobbyj.tk
 textersf.hopto.org
 tey6qayz.duckdns.org
+tf2play.ru
 tf4khj2g1.duckdns.org
 tf5bumw.duckdns.org
 tf6hb6lgxp.com
@@ -55576,6 +55614,7 @@ thewatersmoney.hopto.org
 theweaknes.hopto.org
 thewebanswers.com
 thewire.internetdocss.com
+thewitcherplay.ru
 thewomenagainsttrump.us
 theworldofgodispowerinc.duckdns.org
 thewowpownow3.com
@@ -57591,6 +57630,7 @@ unikeyupdate.com
 unikeyupdating.com
 unikop.ru
 unilateralcospilino.duckdns.org
+uninstalltooll.ru
 union83939k.wordpress.com
 unionbankonline.hopto.org
 unip791.ddns.net
@@ -59537,6 +59577,7 @@ vlad-cdn.com
 vladvlad.zapto.org
 vlb5ddgv.duckdns.org
 vlc-updates.ddns.net
+vlcmp.ru
 vlcpeque.com
 vle.cam.ac.uk.canm.me
 vle.snh.org.my
@@ -61274,6 +61315,7 @@ windowslvlssfebupdate.duckdns.org
 windowsmanagerhost.ddns.net
 windowsmicrosoft.zapto.org
 windowsmicrosofte.online
+windowsmp.ru
 windowsnewzzexplorerszzo.duckdns.org
 windowspatch.com
 windowsportabledevicesprivacy.duckdns.org
@@ -63745,6 +63787,7 @@ yamenswash.com
 yamleg.fu8.com
 yanagi.co.kr
 yanas.zapto.org
+yandereplay.ru
 yandesks.net
 yandesktop.com
 yandex-disk.net

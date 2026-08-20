@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100834
-# Last change: 2026-08-20 10:49:43 UTC (sync mode: delta)
+# Records: 100847
+# Last change: 2026-08-20 11:45:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7702,6 +7702,7 @@ aracbuodheas.net
 aracburadankiralanir.xyz
 aracbuzdolabisepetteindir.xyz
 aracc-muayturk.online
+araccanmuayeyene.com
 araccassmuaynee.net
 aracccimmuayyenee.com
 aracccpmuaayeneee.net
@@ -9058,6 +9059,7 @@ atvhabertv.site
 atwcrfdgv-gafdxwcf-adwfg.cyou
 atysigorta.site
 au2cl46.cn
+au44444.site
 auais59.cn
 auburnexcellbrady.com
 aucharmantpetitlac-ecohotelparcspa-verification.com
@@ -25820,6 +25822,7 @@ dijitalgirisweb-denizacik.com
 dijitalgiseler.xyz
 dijitalhemen-ziraatweb.sbs
 dijitalhesap-denizacik.com
+dijitalhizli-kapinda.sbs
 dijitalhizligiris-denizacik.com
 dijitalhizliislemler-denizacik.com
 dijitalhizmet-denizacik.com
@@ -39600,6 +39603,7 @@ haddisenizeumr.com.tr
 hadeszcheck.online
 hadglgzlmuzklragdlm.shop
 hadhadhkhgfdd.sbs
+hadhsynsynr.uk
 hadi-40000-basvr.cyou
 hadi-40bin-basvur.cfd
 hadialalhadial.xyz
@@ -41990,6 +41994,7 @@ hizlbnngiristr.com
 hizlbudgetarackiralasana.space
 hizlgecisbakieyukleme.web.app
 hizlgecisonlnebakye.lat
+hizlgecsdolumu.org
 hizlgirism9.sninix.space
 hizli-acikdenizbireyselkredibasvurugiris.site
 hizli-acikdenizbireyselkredibasvurugiris.space
@@ -58252,6 +58257,7 @@ mmhhrhhrhrrs52.sbs
 mmhhrhhrhrrs54.sbs
 mmhhrhhrhrrs6.sbs
 mmhhrhhrhrrs9.sbs
+mmhrsrrandevuum.com
 mmlgrosonl1ne.shop
 mmm3.oss-cn-hongkong.aliyuncs.com
 mmmmmmewwwww.top
@@ -59166,6 +59172,7 @@ mrgncrk.org.tr
 mrhs-aps.online
 mrhsbsvronline.com
 mrhsrrere.cfd
+mrhssrandevuum.com
 mrjeay.top
 mrketplacessuprt.com
 mrkez-bsvrlargrs.com
@@ -62415,6 +62422,7 @@ nwa-oma.ml
 nwa-oma2.ml
 nwabzapato.top
 nwafsfhws.blogspot.com
+nwcspraseves.duckdns.org
 nwcsprasevess.duckdns.org
 nweasdgharx.net
 nweywey.duckdns.org
@@ -80186,6 +80194,7 @@ sorgulamamaliyeceza.com
 sorgulamapaneli.xyz
 sorgulamaportal.pages.dev
 sorgulamarilniz.net
+sorgulamasisteminde.xyz
 sorgulamayapma.com
 sorgulamayer-8.web.app
 sorgulamrnizz.org
@@ -85272,6 +85281,7 @@ temizistanbul.vercel.app
 temizkampanyakendifirsatiniolustur.tech
 temizlesuvirusu.site
 temizlikyapiyoruz.cyou
+temizlikyapiyoruz.xyz
 temmmuz-firsatlariill-buradaakacirmaaa-hrmen-al.com
 temmmuzzza-girerkken.com
 temmmxz-ayii-geldi-bitmedengell.com
@@ -86279,6 +86289,7 @@ tjqqpcmdbycian.156953coinbase.com
 tjxoin.top
 tk-tapursevrandvun.info
 tk-tapursevrandvun.net
+tk-tapursevrandvun.org
 tk9u.com
 tkaklatalka.online
 tkaltlasldasrarasdsa.online
@@ -90055,6 +90066,7 @@ tvmasmasmak.net
 tvmatvtrk.b-cdn.net
 tvmmtrk-muayxne.net
 tvmnews.com
+tvrkrsnzhdsmsvc.store
 tvrktshdabzursd.store
 tvrtruk.b-cdn.net
 tvrturkrandvu.com
@@ -90352,6 +90364,7 @@ u648984.softaculous.dev
 u649198.softaculous.dev
 u649786.softaculous.dev
 u649962.softaculous.dev
+u650022.softaculous.dev
 u8404944.click
 u8b2mkoad.lomondviewcottage.co.uk
 u8n.us
