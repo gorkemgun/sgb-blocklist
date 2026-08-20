@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100825
-# Last change: 2026-08-20 07:59:04 UTC (sync mode: delta)
+# Records: 100830
+# Last change: 2026-08-20 08:58:10 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29327,6 +29327,7 @@ elegantwelcome.xyz
 eleksetamhizmet.com
 elektrikdogalgaziadesi.com
 elektrikzamminadurde.com
+elektro-tr.online
 elektrohaber.club
 elektrohaber.online
 elektrohaber.site
@@ -60897,6 +60898,7 @@ newslandia.com
 newsletters-reflected-coat-ent.trycloudflare.com
 newsline24.live
 newslogix.ch
+newsmingle.top
 newsmonitor.icu
 newsnjgfsd.net
 newsodo.com
@@ -66153,6 +66155,7 @@ paribusponsorlugunda.online
 paribusponsorlugundacekilis.online
 paribusponsorlugundacekilisi.online
 paribusponsorlugundacekils.online
+paribusponsporlucekilisi.live
 paribustock.org
 paribustransfergunleri.co.vu
 paribusupertokengirisleri.co.vu
@@ -89242,6 +89245,7 @@ tumsucbana.online
 tumtrk.b-cdn.net
 tumupap.pro
 tunafonyonetimi.com
+tunaportfoykurumsal.pro
 tunaportfoyonetim.com
 tunastra.cc
 tunedia.com
@@ -92096,6 +92100,7 @@ varionexdigital.com
 variousdistil.top
 variousmistake.top
 varkalahomestay.com
+varlikatlas.info
 varlikbradadsi.com
 varlikburdamas.com
 varmi.ru.com
