@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100811
-# Last change: 2026-08-20 07:08:55 UTC (sync mode: delta)
+# Records: 100825
+# Last change: 2026-08-20 07:59:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -183,11 +183,13 @@
 101-aralikozel.com.tr
 101-aralikozel.online
 101-bugun.shop-mobil-tr.com
+101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-com-trs1.com
 101-de-bugune-ozel-indirimler-tr.mooo.com
 101-de-hemen.com
 101-de-indirimli-firsat-urunler.mooo.com
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
+101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-eozel.xyz
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
@@ -395,6 +397,7 @@
 123.tradecourse.net
 1230001.site
 12312321455.net
+1231516frrrssrstlarrkmpnyaasbsvrr.online
 1231x1x1.great-site.net
 12321323333.cloud
 12332111215.duckdns.org
@@ -5439,6 +5442,7 @@ akasigorta.com.tr
 akaycicekcilik.com
 akaylar.com
 akbabasoylu.net
+akbadonerd.click
 akbak-kampanya-online.preview-domain.com
 akbakplc.com
 akbanfins.com
@@ -31644,6 +31648,7 @@ excellentfury.top
 excellentmourn.top
 excellentone.one
 excellentpatriotic.top
+excellyx.com
 excelshabby.top
 excelsior-id28918.world
 excepthysteria.top
@@ -32234,6 +32239,7 @@ facebook.hk-login.com
 facebook.ilanli.com.tr
 facebooke.info
 facebookhabergirisi.ml
+facebookhelpdesklogin.blogspot.com
 facebookloginadmin.blogspot.com
 facebookmoney.world
 facebookrecreation.webflow.io
@@ -34461,6 +34467,7 @@ forward-yonlendir.ink
 forwardday.top
 forwardgasp.top
 forwardhorizon.net
+forwardjourney.online
 forwardlime.top
 forwardnow.online
 forwardokay.top
@@ -34803,6 +34810,7 @@ frozzenpath.top
 frpieocoa.xyz
 frracb.top
 frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.info
+frrrssrsarstlarrkmpnshhyaasbsvrrr14559587.online
 frrstlrrkmnyaabsvrrr25479123.info
 frrstlrrkmnyaabsvrrr25479123.pro
 frsat-katalog.com
@@ -39423,6 +39431,7 @@ haberler-tr.live
 haberler-turk.today
 haberler-turkei-today.online
 haberler.dyndns.tv
+haberler.sizde.com.akbadonerd.click
 haberler.today
 haberler112233.shop
 haberler11278945.shop
@@ -41650,6 +41659,7 @@ hgsodemelerim343434.net
 hgsodemelerimiz.blogspot.com
 hgsodemeleriyapma-gncl.net
 hgsodemeliribblsptt.com
+hgsodeyklenktsi.cfd
 hgsodnne.net
 hgsodykle.com
 hgsonlegeciskgmm.duckdns.org
@@ -50234,6 +50244,7 @@ kazamcimnet.online
 kazan-arena.com
 kazan-buraya-gelin-yukle-tamam.blogspot.com
 kazan.mycoinba.se
+kazanamaksendehakknsedegelkatl13.info
 kazananherkesemujde.top
 kazanarena-tickets.ru
 kazanasiloldu.net
@@ -51327,6 +51338,8 @@ kmnbhnvghf.shop
 kmnbvvbnvbn.shop
 kmnl.cpfcenters.de
 kmnnpyybsvrrprmsynnfrstlllrr.info
+kmnpyaabsvrrfrsttsonnn36528.info
+kmnpyaabsvrrfrsttsonnn36528.pro
 kmogren-durumbilgi.firebaseapp.com
 kmogren-durumbilgi.web.app
 kmogren-kmbilgilendirici.web.app
@@ -97048,6 +97061,7 @@ www-subesi2019yenilendik.cf
 www-t0gg.net
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-iade.my-homeip.de
+www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
