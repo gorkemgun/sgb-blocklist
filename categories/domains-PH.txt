@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100803
-# Last change: 2026-08-20 04:01:45 UTC (sync mode: delta)
+# Records: 100809
+# Last change: 2026-08-20 05:48:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7080,6 +7080,7 @@ anlayamazsnfirstlr.duckdns.org
 anlik-ilan-odemesi.com
 anlik-islem-size-ozel-kvytrk.online
 anlikarackiralama.com
+anlikbakis.net
 anlikgundem.click
 anlikgundem24.com
 anlikhaber.club
@@ -38466,6 +38467,7 @@ gunceladresimtrendyol.org
 guncelads-b3bd92215958.herokuapp.com
 guncelads1-891b8036ee6c.herokuapp.com
 guncelads122-d52baa55eed9.herokuapp.com
+guncelajans.world
 guncelaktuelindirim.life
 guncelaktuelindirim.online
 guncelaktullersepette.com.tr
@@ -38512,6 +38514,7 @@ guncelnotlar.company
 guncelrota.gifts
 guncelrota.world
 guncelsayfatrnbngiris.online
+guncelses.net
 guncelsiikayetler.sa.com
 guncelsikaayetleer.sa.com
 guncelsikaayetler.sa.com
@@ -65856,6 +65859,7 @@ paribu-sponsorlu-cekilisler.live
 paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
 paribu-sponsorlucekilisleri.online
+paribu-sponsorlugunda-cekilis.online
 paribu-sponsorlugunda-cekilisi.online
 paribu-sponsorlugunda-cekils.online
 paribu-sponsorlugunda.online
@@ -67495,6 +67499,7 @@ piyasalar.xyz
 piyasam.online
 piyasam.site
 piyasam.website
+piyasaodagi.site
 piyasaonline.online
 piyasapusula.online
 piyasarapor.top
@@ -89478,6 +89483,7 @@ turkflash.site
 turkgarantiorg.sbs
 turkgrayhold.fun
 turkgsmbayiden.online
+turkgundem.online
 turkhaberaktiflink.com
 turkhaberaktuel.com
 turkhaberonlineportal.com
