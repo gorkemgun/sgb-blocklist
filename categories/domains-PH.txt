@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100859
-# Last change: 2026-08-20 14:02:59 UTC (sync mode: delta)
+# Records: 100885
+# Last change: 2026-08-20 15:50:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2342,6 +2342,7 @@
 750j66cp.ytyukai.cn
 752bd3de-b.b-cdn.net
 7534432243.duckdns.org
+7542875425852585385.xyz
 75454764345323754.org
 75464-567323256.cloud
 754668948-coinbase.com
@@ -4915,6 +4916,7 @@ agaclabs.com
 agactr.com
 agadmnun.vercel.app
 agagagaragnti.com.tr
+agahtaras.click
 againislem.22web.org
 agalarbaba.duckdns.org
 agalaricraatkanzi.net
@@ -7709,6 +7711,7 @@ araccassmuaynee.net
 aracccimmuayyenee.com
 aracccpmuaayeneee.net
 aracccsorgucumahayirli.net
+aracciiimmuayyyenedede.com
 araccim.blogspot.com
 araccimmuayeyen.com
 araccmuxxynemrkz.net
@@ -10508,6 +10511,7 @@ banaozel.s-paranguvende.net
 banaozel.xn--sahbinden-xpb.com.tr
 banarray.top
 banaslatoraslanbalatarsabalamsoylsanama.net
+banataras.click
 banca-online-convalida.com
 bancaunicredit.cloud
 bancetrbsvruaktif.com
@@ -28404,6 +28408,7 @@ ecessarilyvogu.top
 eceyeasigim.cyou
 ecezabayiode.com
 ecezabildirim.org
+ecezacbs.org
 ecezamaliye.org
 ecezamgov.org
 echelonyieldai.app
@@ -29845,6 +29850,7 @@ emptinessbesiege.top
 emptinesseligibility.top
 emptinessgreedy.top
 emptinessporcelain.top
+empty-room.world
 emptydistill.top
 emptypersecute.top
 emptypremature.top
@@ -37339,6 +37345,7 @@ gojosensei.kesug.com
 gokaca.store
 gokalptaskinn.online
 gokaraca.shop
+gokaracas.shop
 gokcencicek.com.tr
 gokkalesosyalvakfi.site
 gokkalevakfi.site
@@ -41767,6 +41774,7 @@ hgszxsorgulama.online
 hgszyuklemzi.co.vu
 hgtkgsihllode.com
 hgtosotoylgecitav.site
+hgtysaaa-5ec37fb6ff29.herokuapp.com
 hgundogaradiyamanedu.weebly.com
 hgvayyuklem.net
 hgvuxyuklem.net
@@ -44546,6 +44554,7 @@ ilan-odeme-812737.com
 ilan-odeme-812739.com
 ilan-odeme-812740.com
 ilan-odeme-812743.com
+ilan-onayi.online
 ilan-paramguvende-tr.com
 ilan-paramguvende.com
 ilan-pay.com
@@ -49863,6 +49872,7 @@ karaca-dunyasi-com-tr.sbs
 karaca-duyam-com-tr.cfd
 karaca-firsat-dunyasi.shop
 karaca-home.shop
+karaca-homes.shop
 karaca-indirimde.vercel.app
 karaca-mutfak.com
 karaca-online.net.tr
@@ -49870,14 +49880,18 @@ karaca-store.shop
 karaca-sultan.sbs
 karaca-sultann.club
 karaca-temmuz.shop
+karacababy.shop
 karacabutik.com.tr
 karacaclub.shop
 karacadagdernegi.com
+karacadoms.club
+karacadoms.co
 karacaevs.store
 karacafirsatlari.online
 karacagood.shop
 karacagranit.nicepage.io
 karacahome-firsatlar.site
+karacahome.club
 karacahome.vercel.app
 karacahomes.shop
 karacahometr.shop
@@ -49887,12 +49901,15 @@ karacakaracamhpme.com.tr
 karacakaramacakovalaca.xyz
 karacakorkmaz.com
 karacalar-sepetimden.vercel.app
+karacalife.homes
 karacan-cepte.com.tr
 karacan-cepte.info.tr
 karacaocakta.com
+karacaonline.homes
 karacaonline.org.tr
 karacaonline.store
 karacaonlinetr.shop
+karacas.top
 karacasale.homes
 karacasell.shop
 karacashop.homes
@@ -57190,6 +57207,7 @@ menawdass.shop
 menbersuportcenter.ml
 mencycheck.online
 mendaskybrent.info
+mendaslwasw.duckdns.org
 meneksevakfi.org
 menenoftigir.com
 menfaatiolanbulur.sbs
@@ -69822,6 +69840,7 @@ pttavm.hizli-islem.online
 pttavm.ilan-getsecure.com
 pttavm.ilan-hizmet.com.tr
 pttavm.ilan-satisi-hizli.com.tr
+pttavm.ilanda-sepetim-1097.com
 pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
 pttavm.ile-alisverislerini-tamamlama.com
@@ -70474,6 +70493,7 @@ pubgmobilexmclaren.com
 pubgsmile.com
 pubgyama.arabamuayenesi.xyz
 pubiclistort.top
+public.nyxar.lol
 publicassorted.top
 publicationanonymity.top
 publicationfranchise.top
@@ -84760,6 +84780,7 @@ teemmuzfirsatlarikapindapttile.online
 teenagermanuscript.top
 teendisposition.top
 teent.store
+tefasplatfrom.com
 tefasportfoyyonetimi.com
 tefasyatirimgiris.com
 tefasyatirimpaneli.com
@@ -88525,6 +88546,7 @@ trk20mb.herokuapp.com
 trkaflsdkckode.net
 trkara.nicepage.io
 trkaraca.cfd
+trkaraca.club
 trkaraca.homes
 trkaraca.shop
 trkaracas.shop
@@ -93863,6 +93885,7 @@ vudvt0l.cn
 vugca.cn
 vuhukul-daeredesede.lol
 vulgaparrot.top
+vulidaronme-cedere.lol
 vulihipolse-sedere.lol
 vulimuralra-venere.lol
 vulipilongo-katore.lol
@@ -97368,6 +97391,7 @@ x4n6v1m8z9p3.cfd
 x64tmx923xcx.net
 x7c2c55.tokyo
 x7m2q9v4n8k1.cfd
+x7m6ha235fds3df2.click
 x7m6ha35f253fsd.cfd
 x7m6ha54n1g1.cfd
 x7x52we.whatsmapp.download
@@ -98818,6 +98842,7 @@ yatirimuzmani.info
 yatirimvizyon.space
 yatirol.com
 yatsigortan.net
+yattaras.click
 yauamaauqgzaq.click
 yauapp-006949517387.herokuapp.com
 yauapp-a2dc65a797a0.herokuapp.com
@@ -99743,6 +99768,7 @@ yolcurezervasyon.com
 yolcuu360.com.tr
 yoldenetim.blogspot.com
 yolfilokirala.com.tr
+yolgecisbakiyuklme.web.app
 yolgecisceza.info
 yolgecislerimotoyolhgt.duckdns.org
 yolgezgin.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65857
-# Last change: 2026-08-20 14:02:59 UTC (sync mode: delta)
+# Records: 65867
+# Last change: 2026-08-20 15:50:57 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2095,6 +2095,7 @@
 22nhvpcpfz.com
 22p2pnbx.duckdns.org
 22p5tcsq.duckdns.org
+22qq-client.com
 22r0hv.duckdns.org
 22rat.ddns.net
 22s2rb.duckdns.org
@@ -15960,6 +15961,7 @@ cheapsignal.work
 cheat.ddns.net
 cheatengine.ddns.net
 cheatjeka.hopto.org
+cheatlib.xyz
 cheatmodernwarfare.com
 cheats-r.ddns.net
 check-app-con.duckdns.org
@@ -22420,6 +22422,7 @@ endddsqnpk.duckdns.org
 endercrash.ddns.net
 endetztera.com
 endeveren.com
+endmods.com
 endoracraft.hopto.org
 enehjuiol.ddns.net
 enelonlinerecoverbillingivnvoice.duckdns.org
@@ -26361,6 +26364,7 @@ gladiyator.tk
 glassyradua.xyz
 glasterius.tk
 glavpojdfde.com
+glazed-client.com
 glcloudservice.com
 glcpq6u238u0ml1judu.ddns.net
 glechel775verfy.zapto.org
@@ -34439,6 +34443,7 @@ kruhnhgnllll.space
 kruktech.shop
 krusty-crabs.sbs
 kruvg2uvaje2s6m.ddns.net
+kryptonclientcrack.lovable.app
 krypzo-41088.portmap.io
 krystellekatherine.net
 krystellepatterson.net
@@ -37834,6 +37839,7 @@ metaverse-centrum.hopto.org
 metavrse-ntifications.duckdns.org
 metaxxs.ddns.net
 metclix.com
+meteorclients.com
 method8888.ddns.net
 method890.ddns.net
 metin.zapto.org
@@ -41726,6 +41732,7 @@ nouvelle-carte.ddns.net
 nouvellefacture.duckdns.org
 nouvelleversion236.ddns.net
 nouviro14.ddns.net
+nova-client.com
 nova.smshero.ai
 novakcy.ddns.net
 novakovic.hopto.org
@@ -47405,6 +47412,7 @@ radiologiquement.zapto.org
 radiosouf.free.fr
 radiotoparesaneta.top
 radissonclurement.zapto.org
+radium-client.com
 radmintool.zapto.org
 radobedoc.hopto.org
 radonramus.net
@@ -62783,7 +62791,9 @@ xekwmwsvhsebqlkab.com
 xeltykzmpr.duckdns.org
 xempt.ddns.net
 xenden231.zapto.org
+xenoclient.lol
 xenogdwxva.duckdns.org
+xenonclient.com
 xenoncss.zapto.org
 xeo99ty.duckdns.org
 xepjpiuvdw.duckdns.org
