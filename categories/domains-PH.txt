@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100975
-# Last change: 2026-08-21 14:01:13 UTC (sync mode: delta)
+# Records: 100982
+# Last change: 2026-08-21 14:56:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -212,6 +212,7 @@
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
+101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
@@ -7634,6 +7635,7 @@ araba-paribu.com
 arabacekilis.com
 arabacekilisfirsatisizlerlehemenkatil.space
 arabacekilisi.ml
+arabacekilisi.online
 arabacekilisisizlereozel.website
 arabacikiralamamerkezirent.com.tr
 arabacimkiralamamerkezirent.com.tr
@@ -27326,6 +27328,7 @@ drkernsskincare.com
 drkmnedvvlttbsvuru.pro
 drkmnndvlette.com
 drmxdrm.aguxstosxinxdmlerx.online
+dro4432.site
 dromax.digital
 dromax.vu
 dromeko.store
@@ -38462,6 +38465,7 @@ gulgul.click
 gulizarcicek.com
 gulkigieresedere.xyz
 gulkrgoroot.net
+gulluoglubaklavalari.com
 gulluoglubaklavalari.shop
 gulluoglushop.abacusai.app
 gulotoyedekparca.com
@@ -74703,6 +74707,7 @@ sahibinden-paramguvende-ile-al.online-sec.com
 sahibinden-paramguvende-kurumsal.tk
 sahibinden-paramguvende-odemesi-get-sistem.com
 sahibinden-paramguvende-qet-com.ga
+sahibinden-paramguvende-tr.ct.ws
 sahibinden-paramguvende.alisverisintr.com.tr
 sahibinden-paramguvende.bireysel-hizmetler.com
 sahibinden-paramguvende.com
@@ -86445,6 +86450,7 @@ tkkg-edvtapkonv.online
 tkkkiibasvrr.net
 tkksgabasvuru.work
 tkktkktkklnsslnkknn.com
+tkktktklaspsrlurklm.com
 tklsktsltkstalcvlvknm.net
 tklsvsckssxsx.net
 tklyrdmmmns.net
@@ -86683,6 +86689,7 @@ toggbasvurular.com
 toggbasvurum.com
 toggcekilisi2023.one
 toggefsanesi.com.tr
+toggfinans.com
 togghaziran5000.com
 togghizlibasvuru.sbs
 togghizlikayit.com

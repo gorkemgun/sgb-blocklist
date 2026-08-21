@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65868
-# Last change: 2026-08-21 09:53:58 UTC (sync mode: delta)
+# Records: 65869
+# Last change: 2026-08-21 14:56:00 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -49736,6 +49736,7 @@ san-syo.co.jp
 san120.zapto.org
 sanababes.duckdns.org
 sanaborievir.ddns.net
+sanalcilarsystems2.pro
 sanalsystems.zapto.org
 sanayakisaniyap.eu
 sanbleutjrsd.ddns.net
