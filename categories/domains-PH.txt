@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101008
-# Last change: 2026-08-21 19:40:14 UTC (sync mode: delta)
+# Records: 101009
+# Last change: 2026-08-21 20:42:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -50278,6 +50278,7 @@ katkatfirsatlar.com
 katkidabulunuyoruz.site
 katlanabilirmasasandalye.com
 katlanabilirmasasandalyetakimi.com
+katlburdaherkesmerkez4.click
 katmanli.org
 kaudng.cn
 kavanovat.com
