@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466414
-# Last change: 2026-08-21 07:59:51 UTC (sync mode: delta)
+# Records: 466423
+# Last change: 2026-08-21 09:00:49 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13705,6 +13705,7 @@
 41i9a.edata01.com
 41iade-hizmetleri.com
 41j8eb.duckdns.org
+41m4at124bsbs.com
 41mmp.xyz
 41nhy857h.duckdns.org
 41qguryz.duckdns.org
@@ -28236,6 +28237,7 @@ acik-deniz.com
 acik-deniz.denizbankagiris.com
 acik-deniz.denizramazaningunleri.com.tr
 acik-deniz.lequiva.com
+acik-deniz.my-homeip.de
 acik-denizbank-bireysel.com
 acik-denizbank-cepsubez.com
 acik-denizbank-giris-yap.kampanaya-aktif-hizmetler-s.com
@@ -51231,6 +51233,7 @@ ars-basvuru-iadeformu-edevlet.com
 arsabasvurutalep.net
 arsakonutbasvurusartlarimiz.net
 arsatakpleri.com
+arsbeyzfstt.com
 arscmmuaynm.net
 arscmuaynm.net
 arscmuaynnm.net
@@ -221061,6 +221064,8 @@ ilanda-sepetim-1093.com
 ilanda-sepetim-1094.com
 ilanda-sepetim-1095.com
 ilanda-sepetim-1096.com
+ilanda-sepetim-1097.com
+ilanda-sepetim-1098.com
 ilanda-siparislerim.com
 ilanda-ticaretim.com
 ilandan-al.com.tr
@@ -268068,6 +268073,7 @@ lovemael.ddns.net
 loveme.ddns.net
 lovemeb.com
 lovemebygift.ddns.net
+lovememore.click
 lovemydress.pl
 lovenoip.zapto.org
 lovepeacetravel.com
@@ -302388,6 +302394,7 @@ odeyelimaidati.xyz
 odeyetkisizde.com
 odeyinizz.online
 odeyip-al.com.tr
+odeyklehgs.cfd
 odffbruhpitugfc.cn
 odfp8yn.duckdns.org
 odgvv.duckdns.org
@@ -387079,6 +387086,7 @@ tapgncweb.web.app
 taphzmet.store
 taphzmet.web.app
 taphzmett.shop
+taphzmrl.shop
 taphzmts.shop
 tapirananivum.online
 tapirananivumx.online
@@ -442748,6 +442756,7 @@ x7m4k9q2f6b8n3hvat.cfd
 x7m4k9q2f6b8n3vzat.sbs
 x7m4k9q2f6b8n3zha.cfd
 x7m6ha235fds3df2.click
+x7m6ha235fds3df2.duckdns.org
 x7m6ha35f253fsd.cfd
 x7m6ha35fds3df2.cfd
 x7m6ha54n1g1.cfd

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100933
-# Last change: 2026-08-21 07:59:51 UTC (sync mode: delta)
+# Records: 100939
+# Last change: 2026-08-21 09:00:49 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1763,6 +1763,7 @@
 4144413221.cloud
 415545618516165665.cloud
 417478124781287421.cloud
+41m4at124bsbs.com
 420bud420.za.com
 420community.tech
 420shop.autos
@@ -8391,6 +8392,7 @@ arrrkctrmhemn.net
 arrruactramhmn.net
 arrzzumnndrrs.com
 arsakonutbasvurusartlarimiz.net
+arsbeyzfstt.com
 arscmmuaynm.net
 arscmuaynm.net
 arscmuaynnm.net
@@ -44604,6 +44606,8 @@ ilanda-sepetim-1093.com
 ilanda-sepetim-1094.com
 ilanda-sepetim-1095.com
 ilanda-sepetim-1096.com
+ilanda-sepetim-1097.com
+ilanda-sepetim-1098.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -54348,6 +54352,7 @@ lovely-monstera-52ae36.netlify.app
 lovelycredibility.top
 lovelyfabrication.top
 lovelyiuguration.top
+lovememore.click
 lovercompassionate.top
 loveremncipate.top
 lovers-id1289.world
@@ -84113,6 +84118,7 @@ tapfkohbs.online
 tapgncweb.web.app
 taphzmet.web.app
 taphzmett.shop
+taphzmrl.shop
 taphzmts.shop
 tapirananivumx.online
 tapkopulu.online
