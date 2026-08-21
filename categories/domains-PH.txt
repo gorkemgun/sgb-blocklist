@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100990
-# Last change: 2026-08-21 16:54:04 UTC (sync mode: delta)
+# Records: 101002
+# Last change: 2026-08-21 17:48:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7630,8 +7630,10 @@ araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
 araba-cekilisi.live
 araba-cekilisi.online
+araba-cekilisim.online
 araba-cekilisin.online
 araba-cekilisisizinicinkampanya.com
+araba-kazanma-sansi.online
 araba-paribu.com
 arabacekilis.com
 arabacekilisfirsatisizlerlehemenkatil.space
@@ -12879,6 +12881,7 @@ binaces.8dnserver.com
 binacetrc.com
 binaceturkey.com
 binanc.e-xrcs.com
+binanc.loadportal.site
 binanc5yeniyil.com
 binanc5yilinda.com
 binanc5yilozel.com
@@ -14463,6 +14466,7 @@ bnteknolojihizmetlerimusterihizmetleri.com
 bnteknolojisuprizuygulamasi500usdt.com
 bntmactivitestrkycampways.cloud
 bntr-3949324412412.com
+bntr-cekilisim.online
 bntr-sponsorlugiris1.cfd
 bntrabibn.click
 bntrcaduyuru.com
@@ -49236,6 +49240,7 @@ kackmsorgula1948.work
 kaclaa.help
 kaclira.club
 kaclira.xyz
+kaclmasendehemenbasvuryap81.info
 kacmadan-gelmeden-sevmek-gibisi-bitmez.com
 kacmaz-urun-size-internet.shop
 kacmazfirsatlar.shop
@@ -54055,6 +54060,7 @@ localactivate.top
 localaid.co
 localcheck.online
 localcheck.xyz
+localcito.com
 localdepiction.top
 localinterrogate.top
 localitymilitant.top
@@ -57908,6 +57914,7 @@ middle-classdogma.top
 middle-classmartyrdom.top
 middlenotice.top
 middleyacht.top
+midiroseagustos.sbs
 miditenyo2.net
 midnightassorted.top
 midnightbike.top
@@ -58662,6 +58669,7 @@ mobilonlinebasvurugiris.ml
 mobilonlinedogrulavarlikservice.online
 mobilsafariozel.cloud
 mobilsepetlerimservis.online
+mobilsepetlerimtrservis.online
 mobilservis-43.sbs
 mobilservis-44.sbs
 mobilservis-87.sbs
@@ -59542,6 +59550,7 @@ muhasebemizitutacakyokmu3.cfd
 muheydibturizm.com
 muhteremgez.com
 muhtesem-kasim-firsatlari-sahane.com.tr
+muhtesem-lndrm-kaplna-geldl.com
 muhtesem101lefsanekasim.com
 muhtesemaykampanyasi.cfd
 muhtesemaykampanyasi.icu
@@ -74153,6 +74162,7 @@ s0k.sxngun-indirxmleri.top
 s0kagustosyakal.com
 s0kfrsatbziimlehizlaa.com
 s0kkap1n4gel5infir5s4tl4ri.cyou
+s0kkap1n4gel5infir5s4tl4ri.duckdns.org
 s0kmalrlet.shop
 s0kmarhet.lat
 s0kmarhketler.com
@@ -75757,6 +75767,7 @@ sanctuarresortbwrvse.com
 sanctuaryerupt.top
 sanctuarystoop.top
 sanctuaryturtle.top
+sandegelbasvrkazan81.click
 sandgatez.com
 sandiasussartiksus.com
 sandiklisubelerindekampanya.online
@@ -92466,6 +92477,7 @@ vekario.store
 vekendeferse.online
 vekendeme.net
 vekjous.com
+vekor.my-homeip.de
 veksout.com
 vekumora.store
 vekuna.store

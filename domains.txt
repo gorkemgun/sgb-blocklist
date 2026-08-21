@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466503
-# Last change: 2026-08-21 16:54:04 UTC (sync mode: delta)
+# Records: 466517
+# Last change: 2026-08-21 17:48:15 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -48886,10 +48886,12 @@ araba-cekilisi.online
 araba-cekilisii.com
 araba-cekilisim.com
 araba-cekilisim.info
+araba-cekilisim.online
 araba-cekilisin.online
 araba-cekilisinesendekatilmakistermisin.com
 araba-cekilisisizinicinkampanya.com
 araba-fiyatlari.com
+araba-kazanma-sansi.online
 araba-kiralama.cfd
 araba-kiralama.click
 araba-kiralama.guru
@@ -74348,6 +74350,7 @@ binanc.ertrcdgrs.com
 binanc.essclogn.com
 binanc.etr-kmpnya.icu
 binanc.etrcomgrs.com
+binanc.loadportal.site
 binanc5yeniyil.com
 binanc5yilaozel.xyz
 binanc5yilinda.com
@@ -84162,6 +84165,7 @@ bntonlinedestektr.com
 bntr-3949324412412.com
 bntr-5435439513245123421.com
 bntr-5435439513245123421.xyz
+bntr-cekilisim.online
 bntr-sponsorlugiris1.cfd
 bntr-sponsorlugiris2.cfd
 bntr-xrpbasvuru.com
@@ -173689,6 +173693,7 @@ garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cepmobilsubekazandiriyor.tk
 garantibbva-cepmobilsubekazandiriyor.vg
+garantibbva-cgd.ph
 garantibbva-com-tr-tr.tk
 garantibbva-com-tr.online
 garantibbva-com-tr.replit.app
@@ -243286,6 +243291,7 @@ kackurusla.xyz
 kaclaa.help
 kaclira.club
 kaclira.xyz
+kaclmasendehemenbasvuryap81.info
 kacmadan-gelmeden-devamli-sizlerle-beraber.com
 kacmadan-gelmeden-sevmek-gibisi-bitmez.com
 kacmadanbas-vvur.online
@@ -267026,6 +267032,7 @@ localactivate.top
 localaid.co
 localcheck.online
 localcheck.xyz
+localcito.com
 localdepiction.top
 localdevitimas21.ddns.net
 localegem.net
@@ -279860,6 +279867,7 @@ midilan.zapto.org
 midin.ru
 midirose-firsat.biz.tr
 midirose-firsat.net.tr
+midiroseagustos.sbs
 midirosecaydanlik-kampanya.com.tr
 midirosecaydanlikkampanya.com.tr
 miditenyo2.net
@@ -284218,6 +284226,7 @@ mobilsayfamislem.duckdns.org
 mobilsepet.online
 mobilsepetim-tr.online
 mobilsepetlerimservis.online
+mobilsepetlerimtrservis.online
 mobilservis-1.sbs
 mobilservis-15.com
 mobilservis-4.com
@@ -288801,6 +288810,7 @@ muhtesem-kasim-firsatlari-kacirma.com.tr
 muhtesem-kasim-firsatlari-kacirmayin.com.tr
 muhtesem-kasim-firsatlari-sahane.com.tr
 muhtesem-kasim-firsatlari.com.tr
+muhtesem-lndrm-kaplna-geldl.com
 muhtesem.name.tr
 muhtesem101lefsanekasim.com
 muhtesemagustosflrsatlrl.com
@@ -316523,6 +316533,7 @@ paramguvende-anindasiparis.com
 paramguvende-banaozel.com
 paramguvende-banaozel.ml
 paramguvende-banaozel.my
+paramguvende-banaozel.sbs
 paramguvende-com.tk
 paramguvende-dolap.com
 paramguvende-get-sahibiden.cf
@@ -348754,6 +348765,7 @@ s0kfrsatbtmezbizde.com
 s0kfrsatbziimlehizlaa.com
 s0kfrstlkmcmmcmzkflrmsmc.store
 s0kkap1n4gel5infir5s4tl4ri.cyou
+s0kkap1n4gel5infir5s4tl4ri.duckdns.org
 s0kkta-firstlrm.net
 s0kmalketler.shop
 s0kmalrketller.shop
@@ -355776,6 +355788,7 @@ sandasdasasdawn.net
 sandbox.silver-map-generator.shop
 sandboxie-plus.top
 sandboxieplus.top
+sandegelbasvrkazan81.click
 sandelias.com
 sandepad.zapto.org
 sandersonscott43.xyz
@@ -422129,6 +422142,7 @@ vekifberbombev.com
 vekistrane.com
 vekjous.com
 vekmirt.com
+vekor.my-homeip.de
 vekso-lym.myonlineportal.ch
 veksout.com
 vekumora.store
