@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100929
-# Last change: 2026-08-21 07:10:01 UTC (sync mode: delta)
+# Records: 100933
+# Last change: 2026-08-21 07:59:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17847,6 +17847,7 @@ cepnumaratasima.com
 cepsube.misecure.com
 cepsubelerim.com
 cepsubem.com.tr
+cepte-islemleriminz-garanti.duckdns.org
 cepte-klima.xyz
 cepte-shop.online
 cepte-sok-market.name.tr
@@ -27860,6 +27861,7 @@ e-devlethizmet-geliridaresi-portal.tk
 e-devletiadeleri-2020.com
 e-devletim-giris-portal-turkiye.com
 e-devletim-iadesi-aidat.com
+e-devletinvest-digital.pages.dev
 e-devletinvest.digital
 e-devletinvest.live
 e-devletkarthizmetleri-aidatiadelerigirisgovtr.com
@@ -42076,6 +42078,7 @@ hizli-siparisim.online
 hizli-siparisislem.com
 hizli-sorgu-aktarim-sistemi.online
 hizli-toklbsvur.com
+hizli-tuvttr.site
 hizli-yilsonusiparis.shop
 hizli-yukle.netgiris.site
 hizli.arabakampanyalikiralama.com.tr
@@ -79794,6 +79797,7 @@ sokkaldnaldnfrstlarragel.tech
 sokkampanyafirsat.com.tr
 sokkampanyaindirimleri.duckdns.org
 sokkapindanimm.com
+sokkaracaileindir.shop
 sokkkkmarket.online
 sokkkta-bayyramfirstlrri.com
 sokmagazalari.com.tr
