@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101009
-# Last change: 2026-08-21 20:42:53 UTC (sync mode: delta)
+# Records: 101010
+# Last change: 2026-08-21 21:42:31 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -32198,6 +32198,7 @@ ezdrivema.cc
 ezdrivema.com-kpy.win
 ezdrivemais.com
 ezdrivemaur.com
+ezgateway.net
 ezhosthsg.xyz
 eziciyabovetennim.com
 ezik-0025912.top
