@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100982
-# Last change: 2026-08-21 14:56:00 UTC (sync mode: delta)
+# Records: 100983
+# Last change: 2026-08-21 15:50:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6544,6 +6544,7 @@ altinrehberi.org
 altinrehberi.site
 altinyildizclasics-tr.top
 altinyillar.com
+altinyunushotelcesme.com
 altitudearea.top
 altitudeflattery.top
 altnativehumm.top
