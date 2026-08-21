@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466465
-# Last change: 2026-08-21 13:13:34 UTC (sync mode: delta)
+# Records: 466486
+# Last change: 2026-08-21 14:01:13 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2188,6 +2188,7 @@
 101-sabah-kacirmacuma.com
 101-sabahmayisca.com
 101-sabahmayislar.com
+101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
@@ -33996,6 +33997,7 @@ agstoscrfsnzdngl.com
 agstoscrfsnzdngl.info
 agstoscrfsnzdngl.online
 agstosfrsatttwa.com
+agstosindiirmbnm.duckdns.org
 agstosozlfrstt.com
 agsts-sonnn-ind-rimlerini-yakala-kacc-irmacom.net
 agstsaozelindirmlerinkyfni.com
@@ -34357,6 +34359,7 @@ agustosyenikampanyalarim.net
 agustosyldizurunler.shop
 agustotsa7a1o1firsa.cloud
 agusts-katllog.com
+agustsceptesok.lat
 agustsod-idnrim-tekflis-burada.com
 agustsod-idnrim-tekflis-burada.store
 aguststaiadeislemleri-tr.com
@@ -48881,6 +48884,7 @@ araba-cekilisi.online
 araba-cekilisii.com
 araba-cekilisim.com
 araba-cekilisim.info
+araba-cekilisin.online
 araba-cekilisinesendekatilmakistermisin.com
 araba-cekilisisizinicinkampanya.com
 araba-fiyatlari.com
@@ -52733,6 +52737,7 @@ asname.world
 asnansndsnfhshfn.space
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.49843544322684.sbs
+asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
 asndjkasdlaf2156ads.digital
@@ -67178,6 +67183,7 @@ benalmasambaskasialacalan.shop
 benanlamadimamaniye.uk
 benbabadas.top
 benbabamadoyamadim.net
+benbenks.duckdns.org
 benbensenenensadasd.duckdns.org
 benbilekendimibitiremiyorum.click
 benbilmem.xyz
@@ -93414,6 +93420,7 @@ c72asbu.duckdns.org
 c73249882394.com
 c74c905dc454.net
 c75asdhashdhashdahsk2k3sad.click
+c77478.site
 c77f8741.hygth76y.com.cn
 c7837d06b87f11c6bec3e3.d2db5c23.ru
 c78wqupix.duckdns.org
@@ -99102,6 +99109,7 @@ ceptetebkur.com
 ceptetebkurulum.com
 ceptetebl.com
 cepteteble.com
+ceptetebli-basvurum.my-homeip.de
 ceptetebli.com
 cepteteblim.com
 ceptetebliye-ozel.my-homeip.de
@@ -104449,6 +104457,7 @@ coilrough.top
 coilwood.info
 coin-infinitegains.site
 coin-secimi.com
+coin-tr.net
 coin.vet
 coinaesmggling.top
 coinagesanctuary.top
@@ -133354,6 +133363,7 @@ dyfi76jc9.duckdns.org
 dyg9imw3.duckdns.org
 dygciqmqbgmqbuv.su
 dygital.ddns.net
+dygr-forest.my-homeip.de
 dyhosting.ddns.net
 dyhrvl.net
 dyiud.com
@@ -139012,6 +139022,7 @@ e-sube-yapikredii.com
 e-sube-yapikredii.net
 e-sube-ziraat.online
 e-sube.adil-yatirim.org
+e-sube.coin-tr.net
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefmenkulyatirim.online
@@ -155773,6 +155784,7 @@ euzlasma.org
 euzlasmaavukat.org
 euzlasmabildirim.org
 euzlasmabilgi.org
+euzlasmacbs.org
 euzlasmagib.org
 euzlasmasorgu.org
 euzlasmatalimat.org
@@ -200132,6 +200144,7 @@ hectoraguilar234.xyz
 hectordata.com
 hectorx.online
 hecwhqvsw-cwyvwbqva-ywfwbsv.shop
+heddalesedc.duckdns.org
 heddezze.com
 hedef1000yardimvakfi.com
 hedef1000yardimvakfi.xyz
@@ -221885,6 +221898,7 @@ ilkadiminiparibuileat.vakiflahediye.click
 ilkadiminiparibuilet.com
 ilkangroup.pw
 ilkarabambasvur.click
+ilkarabambasvur.com
 ilkarabambasvuru.com
 ilkarabambasvuruu.online
 ilkargolarimerkez.com
@@ -233266,6 +233280,7 @@ istanbullbakiyesillik.net
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
+istanbullbelgimkart.xyz
 istanbullbiizmlaa.xyz
 istanbullblog2025.myshopify.com
 istanbullbrsibb.net
@@ -235981,6 +235996,7 @@ iwantsomething.zapto.org
 iwanttodie.vip
 iwapl.jk6l1r.com
 iwarsut775laudrye3.duckdns.org
+iwasdevastated.biz
 iwaxtorn.com
 iwbkxevcuj.duckdns.org
 iwbswdhwhsju-uadqhdjqjdq.icu
@@ -279134,6 +279150,8 @@ mh7vviauh.duckdns.org
 mhalkbank.com
 mhat-art-theatre.ru
 mhazinemaliyeiadee1.com
+mhbdbuealldnndeu.fun
+mhbdbuealldnndeu.website
 mhbn59g.duckdns.org
 mhbsvurum2.net
 mhbwrlftxs.duckdns.org
@@ -298119,6 +298137,7 @@ ns-wwwhaber7com.descarga-mg.co
 ns-wwwhaber7com.feints.cfd
 ns-wwwhaber7com.hungnot.cfd
 ns-wwwhaber7com.kerbed.cfd
+ns-wwwhaber7com.punjumskeet.cfd
 ns-wwwhaber7com.revise.sbs
 ns-wwwhaber7com.rojadirecta-com.co
 ns-wwwhaber7com.siegerlapses.cfd
@@ -339248,6 +339267,7 @@ radnevu.net
 radnevunoktasi.net
 radobedoc.hopto.org
 radonramus.net
+radsagency.com
 radyoakvatan.com
 radyodaneset.org
 radyodavakko.org
@@ -371601,6 +371621,7 @@ snkzbrdangeldasdqwe.bond
 snkzbrdangldkbasdg.bond
 snkzbrdangldksz.bond
 snkzbrdansatnalrkennrd.cfd
+snkzbrdansatnalrkennrd.lol
 snkzbrdansnkzlerden.shop
 snkzbrdansnrablasdqw.cyou
 snkzbrdapzrtsndfrst.shop

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100959
-# Last change: 2026-08-21 13:13:34 UTC (sync mode: delta)
+# Records: 100975
+# Last change: 2026-08-21 14:01:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -212,6 +212,7 @@
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
+101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
@@ -4974,6 +4975,7 @@ agstaltayertsjfasldaslkdhfnsdjfnjsd.online
 agstoscrfsnzdngl.com
 agstoscrfsnzdngl.info
 agstosfrsatttwa.com
+agstosindiirmbnm.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agusots-tkelfibru-brasdsa.store
@@ -5021,6 +5023,7 @@ agustosunlndirimlicadiriwsynx.com
 agustosunsonundawsynx.com
 agustosyenikampanyalar.net
 agusts-katllog.com
+agustsceptesok.lat
 agusxtossxindrxm.com.tr
 agusztosxinxdrmlr.xyz
 agutin-tour.ru
@@ -7625,6 +7628,7 @@ araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
 araba-cekilisi.live
 araba-cekilisi.online
+araba-cekilisin.online
 araba-cekilisisizinicinkampanya.com
 araba-paribu.com
 arabacekilis.com
@@ -16589,6 +16593,7 @@ c6hd7z.csb.app
 c6lm.top
 c70b78f5.dj-hd5kfu.shop
 c7273c77x3388.online
+c77478.site
 c77f8741.hygth76y.com.cn
 c83249834.online
 c8c0e7ab.sibforms.com
@@ -19166,6 +19171,7 @@ coiinbeexxtension.webflow.io
 coilradioactive.top
 coilrough.top
 coin-infinitegains.site
+coin-tr.net
 coinaesmggling.top
 coinagesanctuary.top
 coinagestern.top
@@ -28132,6 +28138,7 @@ e-sorguportal.org
 e-sosyal.org
 e-sosyaldestekpandemiuygulamasigvtr.com
 e-sozlesme.kurumsal-online-islem.com
+e-sube.coin-tr.net
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefonportfoyum.com
@@ -31089,6 +31096,7 @@ euygulama2.com
 euygulama6.com
 euygulama7.com
 euzlasma.org
+euzlasmacbs.org
 euzlasmasorgu.org
 euzlasmatalimat.org
 euzlasmateblig.com
@@ -40683,6 +40691,7 @@ heclisnfa.shop
 heclrcv-vopl-ypfau.icu
 hectaremonth.top
 hecticpatronage.top
+heddalesedc.duckdns.org
 heddezze.com
 hedef2023turkiyem.dev
 hedefcepte.dev
@@ -44782,6 +44791,7 @@ ilk-evini-aldin.sbs
 ilk0.xyz
 ilkadimfirsatlariyaninda.online
 ilkangroup.pw
+ilkarabambasvur.com
 ilkayvakfi.com
 ilkayvakfi.net
 ilkayvakfi.org
@@ -47450,6 +47460,7 @@ istanbullarkolaysistem.com
 istanbullbakiyesi.blogspot.com
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
+istanbullbelgimkart.xyz
 istanbullbiizmlaa.xyz
 istanbullcumbakim.pro
 istanbullhizlibakiyem.com
@@ -47977,6 +47988,7 @@ ivxrgxiodmelrr.net
 ivxrrggxiodmelrr.net
 ivxrrgxiodmelrr.net
 iwanttodie.vip
+iwasdevastated.biz
 iwaxtorn.com
 iwoelwskwhxhs.com.tr
 iwvhsw.help
@@ -57667,6 +57679,8 @@ mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
 mhat-art-theatre.ru
 mhazinemaliyeiadee1.com
+mhbdbuealldnndeu.fun
+mhbdbuealldnndeu.website
 mhcese.netlify.app
 mhdresrndevvsu.com
 mhfabthgsbska.shop
@@ -71275,6 +71289,7 @@ radioplayer-ppc.com
 radkvara.top
 radkvarabi.top
 radnavuhizmetler.net
+radsagency.com
 radyodaneset.org
 radyodavakko.org
 raesflow.store
@@ -79584,6 +79599,7 @@ snitationdrepcy.top
 snksnctysnysnns.com
 snkzbrdangldksz.bond
 snkzbrdansatnalrkennrd.cfd
+snkzbrdansatnalrkennrd.lol
 snkzlerdasndsa.shop
 snkzlplrdansnnns.com
 snkzordanlrdasns.bond
