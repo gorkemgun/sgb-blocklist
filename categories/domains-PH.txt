@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100939
-# Last change: 2026-08-21 09:00:49 UTC (sync mode: full)
+# Records: 100941
+# Last change: 2026-08-21 09:53:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -192,6 +192,7 @@
 101-de-mobil-bugune-ozel-online-firsatlar-siparis-tr.com
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-eozel.xyz
+101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
@@ -17890,6 +17891,7 @@ ceptesokcaydanlikiindirimdee.com
 ceptesokfirsat.xyz
 ceptesokfirsatlar.site
 ceptesokindirimlifirsatlar.com
+ceptesokindirmleri.online
 ceptesokmarketfirsat.online
 ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
