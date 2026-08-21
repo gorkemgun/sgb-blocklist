@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466449
-# Last change: 2026-08-21 11:45:08 UTC (sync mode: delta)
+# Records: 466465
+# Last change: 2026-08-21 13:13:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2188,6 +2188,7 @@
 101-sabah-kacirmacuma.com
 101-sabahmayisca.com
 101-sabahmayislar.com
+101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
@@ -14422,6 +14423,7 @@
 49651566151417.net
 4977721.cloud
 497dcse.duckdns.org
+49843432322684.sbs
 49843544322684.sbs
 498464945984.cloud
 498483-23sendebasvur.duckdns.org
@@ -37117,6 +37119,7 @@ aisksdjsijdsknshak.icu
 aisleadvisor.gifts
 aisleosymn.com
 aisoraplus.com
+aisosym.com.tr
 aisozsymbsvur.net
 aisretinizukak.shop
 aistokimarket.store
@@ -51300,6 +51303,7 @@ art12sec.ga
 art23546.xyz
 art67.xyz
 artab.click
+artafana.click
 artafba.com
 artandamber.com
 artascoin.ddns.net
@@ -99014,6 +99018,7 @@ cepteteb-com.tk
 cepteteb-dijitalim.com
 cepteteb-e-subem-giris.com
 cepteteb-e-subem.com
+cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-esube.com
 cepteteb-giris.com
 cepteteb-global.com
@@ -122712,6 +122717,7 @@ dermanbutik.fun
 dermandernegi.site
 dermanitetsistem.com
 dermanvakfi.com
+dermatologia.cfd
 dermatoptera.com
 dermocamd.top
 dermocuidado.com
@@ -125898,6 +125904,7 @@ diivwmunlsbv.me.uk
 dij-ital.store
 dijdij33.ddns.net
 diji-bilgikampanya.sbs
+diji-bonus.shop
 diji-fiyat.sbs
 diji-internetsiparis.sbs
 diji-is.blogspot.com
@@ -144873,6 +144880,7 @@ edvltvaktindeaidatlarr.com
 edvntltz.mooo.com
 edvntltzz.strangled.net
 edvs-basvuru-iadeformu-edevlet.com
+edvs-tapursvnnusz.net
 edvtaidtiaade.com
 edvtapkonlv.com
 edvtapkonlv.org
@@ -160622,6 +160630,7 @@ farsigorta.site
 farsigortam.site
 farsson.com
 farsubordinate.top
+fartanasa.click
 fartar.ddns.net
 farteck.com
 farteresina.com
@@ -195365,6 +195374,7 @@ halkfirsat-online-giris.com
 halkfirsat.com
 halkfirsat.online
 halkfirsat.weebly.com
+halkfirsat.wiki
 halkfirsat34.com
 halkfirsatformu.com
 halkfirsatformu80yil.ml
@@ -235968,6 +235978,7 @@ ivzmirimiz-vlog.blogspot.com
 iw2q6bm.duckdns.org
 iw9xjex.duckdns.org
 iwantsomething.zapto.org
+iwanttodie.vip
 iwapl.jk6l1r.com
 iwarsut775laudrye3.duckdns.org
 iwaxtorn.com
@@ -254411,6 +254422,7 @@ kizlarvi.com
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
+kizlarvixlex.xyz
 kizlay.org
 kizlikmsorg.web.app
 kizllay.com
@@ -279341,6 +279353,7 @@ mhrshemencan.com
 mhrshizligiris.duckdns.org
 mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
+mhrsislemlerin.com
 mhrsklsafslaalal.cyou
 mhrsklsafslaalal.one
 mhrsklsafslaalal.site
@@ -279385,6 +279398,7 @@ mhrsrandevunburadan.com
 mhrsrandevunburadan.duckdns.org
 mhrsrandevunburadann.duckdns.org
 mhrsrandevunuz.net
+mhrsrandevunx.blogspot.com
 mhrsrandevuportalimizz.duckdns.org
 mhrsrandevuportalimizzx.duckdns.org
 mhrsrandevusisteminiza.duckdns.org
@@ -371586,6 +371600,7 @@ snkzbrdanbryaya.mooo.com
 snkzbrdangeldasdqwe.bond
 snkzbrdangldkbasdg.bond
 snkzbrdangldksz.bond
+snkzbrdansatnalrkennrd.cfd
 snkzbrdansnkzlerden.shop
 snkzbrdansnrablasdqw.cyou
 snkzbrdapzrtsndfrst.shop
@@ -440278,6 +440293,7 @@ www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-iade.my-homeip.de
 www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-basvuru-yap.my-homeip.de
+www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de

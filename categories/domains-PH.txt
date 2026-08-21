@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100948
-# Last change: 2026-08-21 11:45:08 UTC (sync mode: delta)
+# Records: 100959
+# Last change: 2026-08-21 13:13:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -212,6 +212,7 @@
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
+101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
@@ -5398,6 +5399,7 @@ aiside.shop
 aisimple.top
 aisjsodmskdmwk.cfd
 aisleadvisor.gifts
+aisosym.com.tr
 aisturkiye-gov.tk
 aisturkiye.tk
 aisturkiyemhementikalal.tk
@@ -8419,6 +8421,7 @@ arstvt.qpon
 arsuotokiralama.com
 art-gallery-128.webflow.io
 art-rhyme.click
+artafana.click
 artandamber.com
 artbook.sbs
 artcharge.top
@@ -17898,6 +17901,7 @@ ceptesokindirmleri.online
 ceptesokmarketfirsat.online
 ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
+cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-tr-3yil-ozel.com
 ceptetebfirsati.xyz
 ceptetebliye-ozel.my-homeip.de
@@ -28844,6 +28848,7 @@ edvltkardaidattlariniziailin.online
 edvltkmpnyam.com
 edvltlrdsn.xyz
 edvltmobilonlineformbasvuruolustur.ml
+edvs-tapursvnnusz.net
 edvtaidtiaade.com
 edvvletyrdmlarbaslyr.online
 edvvv-dvttt.com.tr
@@ -32484,6 +32489,7 @@ farnouxo.com
 farroshgxer.life
 farsigorta.site
 farsubordinate.top
+fartanasa.click
 fartherflatter.top
 fartherideology.top
 fartug.top
@@ -47970,6 +47976,7 @@ ivxrgggirodmelrrr.net
 ivxrgxiodmelrr.net
 ivxrrggxiodmelrr.net
 ivxrrgxiodmelrr.net
+iwanttodie.vip
 iwaxtorn.com
 iwoelwskwhxhs.com.tr
 iwvhsw.help
@@ -51170,6 +51177,7 @@ kizlarvi.com
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
+kizlarvixlex.xyz
 kizllay.com
 kizmirim.net
 kj.vhjvoqrvub.com
@@ -57756,6 +57764,7 @@ mhrsgiris-edvltlogin2026.com
 mhrsgirisportaliburada.digital
 mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
+mhrsislemlerin.com
 mhrslkislem.com
 mhrsmsmhsxzwshshn.net
 mhrsonlinebasvuru.duckdns.org
@@ -57769,6 +57778,7 @@ mhrsrandevuekranwork.duckdns.org
 mhrsrandevular.com
 mhrsrandevumerkezi.myshopify.com
 mhrsrandevun.com
+mhrsrandevunx.blogspot.com
 mhrsrandevuportalimizz.duckdns.org
 mhrsrandevuportalimizzx.duckdns.org
 mhrsrandevusisteminiza.duckdns.org
@@ -79573,6 +79583,7 @@ sninix.space
 snitationdrepcy.top
 snksnctysnysnns.com
 snkzbrdangldksz.bond
+snkzbrdansatnalrkennrd.cfd
 snkzlerdasndsa.shop
 snkzlplrdansnnns.com
 snkzordanlrdasns.bond
