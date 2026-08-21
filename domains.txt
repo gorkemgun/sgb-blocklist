@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466517
-# Last change: 2026-08-21 17:48:15 UTC (sync mode: delta)
+# Records: 466523
+# Last change: 2026-08-21 18:59:17 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -191791,6 +191791,7 @@ haberler131231123.site
 haberler141153.shop
 haberler1436542.sbs
 haberler145.shop
+haberler14534925.shop
 haberler145365349.sbs
 haberler145425462.shop
 haberler1542334.shop
@@ -221456,6 +221457,7 @@ ile-guvenlice-odeme-yap.com
 ile-guvenlice-odemeni-yap.com
 ile-guvenlice-odemeniyap.com
 ile-guvenlice-odemeyap.com
+ile-guvenlice-tamamlama.com
 ile-guvenlicealisveris-yap.com
 ile-guvenliceodeme-yap.com
 ile-guvenliceodemeni-yap.com
@@ -320187,6 +320189,7 @@ passerbymaternity.top
 passerellessecurite.ddns.net
 passger.click
 passhobby.top
+passiligbasvurun.com
 passionactual.top
 passionatelypurpose.com
 passionatestaple.top
@@ -329206,6 +329209,7 @@ promsyon-als-hmn-kazn-snde.site
 promsyon-isbank.bounceme.net
 promsyonbasvru.click
 promsyondenizi.com
+promsyongunleriagstos.giize.com
 promsyonlar.com.tr
 promsyonlar.cyou
 promsyonlarbasvr.click
@@ -372677,6 +372681,7 @@ sokmarket.giris-mobilaktif.vip
 sokmarket.gunceladres.cfd
 sokmarket.indirimligunler.cfd
 sokmarket.indirimliurun.cfd
+sokmarket.lat
 sokmarket.magazacep.cfd
 sokmarket.mobilcep.cfd
 sokmarket.mywire.org
@@ -398131,6 +398136,7 @@ toplukonut129215215.vercel.app
 toplukonut152825121.vercel.app
 toplukonut18221921.vercel.app
 toplukonut1klb9ahn.com
+toplukonut2026-toki2026.vercel.app
 toplukonut2777059834.vercel.app
 toplukonut2d1214cc.com
 toplukonut2d1214dd.com

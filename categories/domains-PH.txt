@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101002
-# Last change: 2026-08-21 17:48:15 UTC (sync mode: delta)
+# Records: 101007
+# Last change: 2026-08-21 18:59:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -39501,6 +39501,7 @@ haberler12348.shop
 haberler1283432.shop
 haberler131231123.site
 haberler1436542.sbs
+haberler14534925.shop
 haberler1542334.shop
 haberler16.online
 haberler16.website
@@ -44712,6 +44713,7 @@ ile-guvenilirodeme.com
 ile-guvenli-odemem.com
 ile-guvenli-odemeyap.com
 ile-guvenlial.com
+ile-guvenlice-tamamlama.com
 ile-kolay-islemler.com
 ile-kolay-odeme-kismi.com
 ile-netalisverisimiz.com.tr
@@ -66525,6 +66527,7 @@ passengersoothe.top
 passerbyloot.top
 passerbymaternity.top
 passhobby.top
+passiligbasvurun.com
 passionactual.top
 passionatestaple.top
 passionatevegetation.top
@@ -69376,6 +69379,7 @@ promptin.webflow.io
 promptyeye.host
 promsn-hmn-hemn-tkla-kazn-snde-ktl.site
 promsyon-alma-platforumu-hemns-al.site
+promsyongunleriagstos.giize.com
 promzeus.com
 pronehavoc.top
 pronelot.top
@@ -79866,6 +79870,7 @@ sokmarkertler.com
 sokmarket-kampanya.com
 sokmarket.com-e-eurun.com.tr
 sokmarket.gunceladres.cfd
+sokmarket.lat
 sokmarket.mobilcep.cfd
 sokmarket.shop
 sokmarket.store
