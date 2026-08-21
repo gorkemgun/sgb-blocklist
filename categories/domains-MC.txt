@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41143
-# Last change: 2026-08-20 15:50:57 UTC (sync mode: delta)
+# Records: 41153
+# Last change: 2026-08-21 11:45:08 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -18379,6 +18379,7 @@ iscrowdstrikedown.com
 isegirmekistiyorumusom.com
 isepome.com
 iservicec.com
+ishano456.sbs
 ishwasher-jobs-678341.today
 isiamibankbd.com
 isiefinama.duckdns.org
@@ -20253,6 +20254,7 @@ konukie.ddns.net
 konyahasereyesonilaclamacilari.site
 konyatuzlahaliyikamaci.site
 konyork.com
+kookjar.com
 kooky387.xyz
 kopatych112.ddns.net
 kopekno1.xyz
@@ -20396,6 +20398,7 @@ ksaicynm.com
 ksarpo.parody
 ksdollhouse.com
 ksgdybcpt.com
+kshahnd.sbs
 kskxoscieontrolanel.gleeze.com
 ksnytbp.com
 ksomkm.ddns.net
@@ -22779,6 +22782,7 @@ mdoux.com
 mdown.showprice.xyz
 mdpebr.com
 mdscache.ru
+mdsjhd.sbs
 mdtp.rhknt.ru
 mdundobeats.com
 mduqaxzxjjeo9b.com
@@ -25271,6 +25275,7 @@ nmcyclingexperience.com
 nmn.nhndesk.com
 nmnchpfqnuyv.info
 nmnmnmfsamsfan.xyz
+nmnsny.sbs
 nmop.olnumplard.ru
 nmopq.outereaftm.ru
 nmoqp.barendwe.ru
@@ -35846,6 +35851,8 @@ txtc.cloud
 txtcatch.com
 txtkey.online
 ty.klipxytozyi.shop
+ty4523.space
+ty54fgd435.my
 tycoongroup.ws
 tydime.io
 tyedyeeye.top
@@ -36000,6 +36007,7 @@ udum.work.gd
 udvwoe.com
 udvyiwvfs.xn--cyou-yea
 udytkzm.com
+ue886578433.online
 ueammeemmc.com
 ueathlorturetr.xyz
 uedam.xyz
@@ -39624,6 +39632,7 @@ xmr-eu1.nanopool.org
 xmri.network
 xmrminer.f3322.net
 xmryiov.com
+xmsae.sbs
 xn--12c5eglc5bd7i.site
 xn--20gb-hediyefrsati-nvc.com
 xn--79q565dzfex9hg81b.com
@@ -39754,6 +39763,7 @@ xsbuqy.tk
 xsdcxd32345azin.net
 xsduovygq.com
 xseeee1983.ddns.net
+xshaon123.sbs
 xshapo.com
 xsielbvdpbcikrn.cn
 xsivpgwt.icu

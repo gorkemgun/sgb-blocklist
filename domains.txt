@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466429
-# Last change: 2026-08-21 10:50:16 UTC (sync mode: delta)
+# Records: 466449
+# Last change: 2026-08-21 11:45:08 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2156,6 +2156,7 @@
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
 101-mobil-online-ozel-tr.mooo.com
+101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-firsatlar-tr.online
 101-mobil-tr.com
 101-mobil.com.tr
@@ -52081,6 +52082,7 @@ asdkksdfs.click
 asdklkjasjfa.com
 asdklmklwqmklm34637.duckdns.org
 asdkmasdkvsadsz.com
+asdkmwlqkmkl36347.duckdns.org
 asdkoasdasfaqwrqwr.click
 asdkogkjfdmksdks.cfd
 asdkrldmznx.net
@@ -52726,6 +52728,7 @@ asname.click
 asname.world
 asnansndsnfhshfn.space
 asnasnahyaaslananala.49843544322684.sbs
+asncxbyaaasdanala.49843544322684.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
 asndjkasdlaf2156ads.digital
@@ -69740,6 +69743,7 @@ bilgionayislem.site
 bilgionayla.com
 bilgiorta.info
 bilgiotag.org
+bilgipanel.net
 bilgipath.com
 bilgipaylasim.xyz
 bilgipaylasimizni.com
@@ -191748,6 +191752,7 @@ haberler122746.sbs
 haberler123.shop
 haberler1230149.shop
 haberler12348.shop
+haberler123531234.shop
 haberler1283432.shop
 haberler131231123.site
 haberler141153.shop
@@ -231165,6 +231170,7 @@ isgrntm.site
 isgunbasvurumuz.com
 ishahashagarantigarantia-sadasjgsa.xyz
 ishakcelal.cfd
+ishano456.sbs
 ishanvakiflari.org
 ishanvis.com
 ishare-nl.hopto.org
@@ -254404,6 +254410,7 @@ kizlarsoruyo.store
 kizlarvi.com
 kizlarvixlex.cfd
 kizlarvixlex.click
+kizlarvixlex.monster
 kizlay.org
 kizlikmsorg.web.app
 kizllay.com
@@ -257808,6 +257815,7 @@ konydyi.com
 konyork.com
 konyyaakartdoldurr.net
 kook16.ddns.net
+kookjar.com
 kooky387.xyz
 koolakolasq.info
 koolpandaz.com
@@ -260167,6 +260175,7 @@ ksgerceksifirihtiyacsizdenizile.online
 ksgerceksifirihtiyacsizdenizile.xyz
 ksghgsbrcodmelislermz.duckdns.org
 ksh3c3n.cn
+kshahnd.sbs
 kshdhd-kdjlkja0.duckdns.org
 kshv.site
 kshwo50k.duckdns.org
@@ -276440,6 +276449,7 @@ mdsavvv2re.wiki
 mdscache.ru
 mdsfhfgsr.com
 mdsh.zapto.org
+mdsjhd.sbs
 mdskdaddiddax.blogspot.com
 mdsmdfskdfskdfks.net
 mdsrmm.top
@@ -296734,6 +296744,7 @@ nmnmmgkdfs.net
 nmnmnmfsamsfan.xyz
 nmnmslqsfsb.net
 nmnndsmnfsmn.net
+nmnsny.sbs
 nmnstoocypxy.space
 nmop.olnumplard.ru
 nmopq.outereaftm.ru
@@ -298096,6 +298107,7 @@ ns-wwwhaber7com.hungnot.cfd
 ns-wwwhaber7com.kerbed.cfd
 ns-wwwhaber7com.revise.sbs
 ns-wwwhaber7com.rojadirecta-com.co
+ns-wwwhaber7com.siegerlapses.cfd
 ns-wwwhaberlercom.cyberpath.cfd
 ns-wwwntvcomtr.sludgy.cfd
 ns-wwwpostacomtr.fakingguango.cfd
@@ -342452,6 +342464,7 @@ referansfba.com
 referansgirisi.com
 referanskod-a101volta-yetkilisatis-com.online
 referansmenkuldeger.com
+referansonlinefba.com
 refereedegradation.top
 refereehumiliate.top
 refereeimperative.top
@@ -373605,6 +373618,7 @@ sonfaz.org
 sonfazbas-vuru.com
 sonfazbasvurusu.fit
 sonfazdestekci.com
+sonfffrstlrbstsbvrrrkmpnyaaaa986532.pro
 sonfirsaattkmpnyaabsvrr.live
 sonfirsat-kampanyalari.xyz
 sonfirsat-kapida.xyz
@@ -411016,6 +411030,7 @@ tvqryimx.com
 tvqrzf.com
 tvqsexh.in
 tvreezeersa.net
+tvrkdrtsandvbhs.store
 tvrkksgmmhfll.net
 tvrkrsnzhdsmsvc.store
 tvrktshdabzursd.store
@@ -411659,7 +411674,9 @@ ty.klipxytozyi.shop
 ty.toyotacamryy.com
 ty2.app
 ty23232.duckdns.org
+ty4523.space
 ty4dbdkl.duckdns.org
+ty54fgd435.my
 ty8lcu.duckdns.org
 ty94cloflra.com
 tyaadas.com
@@ -412772,6 +412789,7 @@ udz830b.cn
 ue2.eu
 ue62crt63noiphost.ddns.net
 ue6dpubz9.duckdns.org
+ue886578433.online
 ueammeemmc.com
 ueathlorturetr.xyz
 uebd7brm.duckdns.org
@@ -444074,6 +444092,7 @@ xmrmrdot.net
 xmrow.duckdns.org
 xmryiov.com
 xmryklme.net
+xmsae.sbs
 xmsjheawgo.duckdns.org
 xmtfoq5.duckdns.org
 xmtvaksmmgcex.com
@@ -448783,6 +448802,7 @@ xsezmj5j6.duckdns.org
 xsfkcmt.cn
 xsfroze.com
 xsghsodmemd.net
+xshaon123.sbs
 xshapo.com
 xshdzvrnfc.duckdns.org
 xshhqabyss2.vip.ssk.ynwp.coinbase-com.info

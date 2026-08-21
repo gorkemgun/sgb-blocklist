@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100943
-# Last change: 2026-08-21 10:50:16 UTC (sync mode: delta)
+# Records: 100948
+# Last change: 2026-08-21 11:45:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -208,6 +208,7 @@
 101-klimaozel.com.tr
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
+101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
@@ -8571,6 +8572,7 @@ asdkamzjcsj.net
 asdkatilimlarniz2023.com
 asdklkjasjfa.com
 asdklmklwqmklm34637.duckdns.org
+asdkmwlqkmkl36347.duckdns.org
 asdlfdsamfksdafmkl.net
 asdnqbwdvabsnd1.blogspot.com
 asdqasasfasfafa.com
@@ -12459,6 +12461,7 @@ bilginigirin.com
 bilginigiris.com
 bilginigirisi.com
 bilginizigir.com
+bilgipanel.net
 bilgipath.com
 bilgiplatformu.biz
 bilgiplatformu.com
@@ -51166,6 +51169,7 @@ kizlarsoruyo.store
 kizlarvi.com
 kizlarvixlex.cfd
 kizlarvixlex.click
+kizlarvixlex.monster
 kizllay.com
 kizmirim.net
 kj.vhjvoqrvub.com
@@ -90153,6 +90157,7 @@ tvmasmasmak.net
 tvmatvtrk.b-cdn.net
 tvmmtrk-muayxne.net
 tvmnews.com
+tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
 tvrktshdabzursd.store
 tvrtruk.b-cdn.net
