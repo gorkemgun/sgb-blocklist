@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101007
-# Last change: 2026-08-21 18:59:17 UTC (sync mode: delta)
+# Records: 101008
+# Last change: 2026-08-21 19:40:14 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -24330,6 +24330,7 @@ demlafka.org
 demlenedemlene.sbs
 demlervedemlikbizimisimiz.sbs
 demmonzamani.xyz
+demo.axxel1.com
 demo.diogoflix.com
 demo.techcloudltd.com
 democart.trixieservices.com
