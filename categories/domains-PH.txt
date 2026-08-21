@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100983
-# Last change: 2026-08-21 15:50:17 UTC (sync mode: delta)
+# Records: 100990
+# Last change: 2026-08-21 16:54:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12090,6 +12090,7 @@ bergenvemercimek.net
 bergotrom.com
 berilcicek.com.tr
 berileasigim.net
+bernagulcicekcilik.com.tr
 berofc.org.tr
 berrakanlar.com
 berrtur.site
@@ -41429,6 +41430,7 @@ hesaptasendealhemen.site
 hesapteknik-lutgr-ekon.myonlineportal.ch
 hesapvarmi.shop
 hesapye.com
+hesaserfskert.duckdns.org
 hesisaminiaser.net
 hesitantpotery.top
 hesitanttestimony.top
@@ -41778,6 +41780,7 @@ hgsyklebrcsrgu.xyz
 hgsyklehgssrgla.cfd
 hgsyklentr.net
 hgsykleprahgsykle.cfd
+hgsyklodesmdi.cfd
 hgsytlyukleme.net
 hgsyukkleonline.com
 hgsyukle-com.xyz
@@ -50054,6 +50057,7 @@ kargolarimnerdeonline.com
 kargolarinizibizdenc.info
 kargomgelsn.com
 kargomgelsn.com.tr
+kargomhizli.com
 kargomng.sa.com
 kargonline.net
 kargonumara.com.tr
@@ -62210,6 +62214,7 @@ nvipssportalsnaykxcc.net
 nvirand.click
 nvirandevuals.com
 nvirandevucunuz.online
+nvirandevulariniz.online
 nvirandevumal.net
 nvirandevumklklsdas.net
 nvirandevuservisii.com
@@ -82015,6 +82020,7 @@ storban.surf
 storbon.surf
 store-adidas.buzz
 store-adidas.xyz
+store-plus.online
 store.freestorageupgrade.top
 store2app-idwebapps.com
 storeaeqer.my
@@ -98914,6 +98920,7 @@ yatirimcilogin.com
 yatirimcitop.top
 yatirimdanisman.com
 yatirimdenizgiris.co.vu
+yatirimfinans.com
 yatirimfinansmanmenkuldegerler.net
 yatirimforum.online
 yatirimgazetesi.top
