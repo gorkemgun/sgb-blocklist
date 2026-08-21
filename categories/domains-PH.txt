@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 100923
-# Last change: 2026-08-21 05:50:06 UTC (sync mode: delta)
+# Records: 100929
+# Last change: 2026-08-21 07:10:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8720,6 +8720,7 @@ aslpls.io
 aslssmgkw.cfd
 aslurtykndfnmanklar.cfd
 asmtal.online
+asnasnahyaaslananala.49843544322684.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
 asockco.com
@@ -52733,6 +52734,7 @@ lampevidencea.top
 lampfabricate.top
 lamyconsulting.com
 lanasiewrdf.net
+lanceagstosayi.duckdns.org
 landaloneproperty.live
 landaristocrat.top
 landerlerdesnes.duckdns.org
@@ -53314,6 +53316,7 @@ letgoilan.com
 letgosiparis.com.tr
 lethasonuc.xyz
 lethasorgu.com
+letok82650.online
 letok82650.site
 letpredator.top
 letpropeller.top
@@ -61386,6 +61389,7 @@ nktvnsfirsat-2023.shop
 nl-baykar.com
 nl.hgsyuklemeyerii.net
 nlalktr3.com.tr
+nlamatkanahem.net
 nlatlantlanlta.net
 nlatlnatkamama.online
 nlaylnalanlalnal.net
@@ -74098,6 +74102,7 @@ s0k.com.tr
 s0k.sxngun-indirxmleri.top
 s0kagustosyakal.com
 s0kfrsatbziimlehizlaa.com
+s0kkap1n4gel5infir5s4tl4ri.cyou
 s0kmalrlet.shop
 s0kmarhet.lat
 s0kmarhketler.com
@@ -78943,6 +78948,7 @@ site.nato-otan.net
 site.ocakfirsatlari.org
 site.sahzadeads.cfd
 site.vestprovip.cfd
+siteadresi.sbs
 siteanalyzer.world
 sitebeneffit.top
 siteciklerolmez.web.tr
