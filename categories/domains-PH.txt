@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19890
-# Last change: 2026-08-22 21:39:19 UTC (sync mode: delta)
+# Records: 19891
+# Last change: 2026-08-22 22:41:22 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -7864,6 +7864,7 @@ haber-konut-basvuru.com
 haber-kusu.com
 haber-stanbul1453.sbs
 haber-turk.sbs
+haber-turkey12721.shop
 haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye1923.sbs

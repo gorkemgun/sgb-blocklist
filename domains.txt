@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50082
-# Last change: 2026-08-22 21:39:19 UTC (sync mode: delta)
+# Records: 50083
+# Last change: 2026-08-22 22:41:22 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -19284,6 +19284,7 @@ haber-merityen18556.sbs
 haber-seszka-lam-send-engel-265696.life
 haber-stanbul1453.sbs
 haber-turk.sbs
+haber-turkey12721.shop
 haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye.sbs
