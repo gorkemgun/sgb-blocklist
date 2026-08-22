@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 49999
-# Last change: 2026-08-22 10:43:00 UTC (sync mode: delta)
+# Records: 50007
+# Last change: 2026-08-22 11:38:26 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -529,6 +529,7 @@
 182iletisim.xyz
 182internette.com
 182internettee.com
+182lrdnbrdarvdbk.store
 182randvm.com
 182webicinrndsv.com
 186randevuburadan.duckdns.org
@@ -6049,6 +6050,7 @@ bdcy7.sbs
 bddkdesktek.com
 bddkguvenlikmerkezi.us.cc
 bddktr.com
+bdeledadwan.duckdns.org
 bdhekjs9.blogspot.com
 bdhkpnyrsasnkzfdfs.sbs
 bdhsf.edu.bd
@@ -7054,6 +7056,7 @@ bnsksndnsndnsadasa.com
 bnsnbrbr2026.xyz
 bnsnscnlngrsler.com
 bnss1t5vg.icu
+bntr-cekilis.online
 bntr-cekilisim.online
 bntrdestekkripto.com
 bntrdynadot.biz
@@ -9276,6 +9279,7 @@ cekilis-paribu.com
 cekilis-paribu.online
 cekilisbinance.com
 cekilisci.store
+cekilise-katil.online
 cekilise1haftadandahazkaldibasvurunuyap.urlhedge.online
 cekilise1haftadandahzazkaldibasvurunuyap.urlhedge.online
 cekilisi--paribu.com
@@ -16215,6 +16219,7 @@ firsatlarbizden.myonlineportal.ch
 firsatlarbufirsat101.mooo.com
 firsatlarburda101.com
 firsatlarburdans.duckdns.org
+firsatlarcepte.xyz
 firsatlardanfaydalanmalar.duckdns.org
 firsatlardunyasi.casa
 firsatlardunyasi.cloud
@@ -31275,6 +31280,7 @@ newsfolio.info
 newsforgehub.com
 newsfusioner.com
 newsgardensnde.duckdns.org
+newsglaedneds.duckdns.org
 newsgradelerdsew.duckdns.org
 newshbrclk.cfd
 newsigen.com
@@ -33038,6 +33044,7 @@ os-update-server.live
 os-update-server.org
 os-update-server.top
 os.fbi.cab
+os4444.site
 osamozsad.cfd
 osamozsad.sbs
 osavpn.su
@@ -39666,6 +39673,7 @@ sizin-kontrol-adresiniz.sbs
 sizinekipkadarbendekitssk.org
 sizineviniz.com
 sizinicin-webby-gir-a.my-homeip.com
+sizinicinburadayiz1.sbs
 sizinicinburadayiz2.sbs
 sizinicinburadayiz3.sbs
 sizinicinburadayiz5.sbs

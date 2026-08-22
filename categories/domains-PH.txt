@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19826
-# Last change: 2026-08-22 10:43:00 UTC (sync mode: delta)
+# Records: 19834
+# Last change: 2026-08-22 11:38:26 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -164,6 +164,7 @@
 182iletisim.cfd
 182iletisim.cyou
 182iletisim.xyz
+182lrdnbrdarvdbk.store
 186randevuburadan.duckdns.org
 19083232.click
 198-189-120-225.space
@@ -1920,6 +1921,7 @@ bcryahmnhmngdcksn.mooo.com
 bcynko.homes
 bddkdesktek.com
 bddktr.com
+bdeledadwan.duckdns.org
 bdhkpnyrsasnkzfdfs.sbs
 be-baykar.com
 be-baykar.net
@@ -2309,6 +2311,7 @@ bnsgrn.ink
 bnsksndnsndnsadasa.com
 bnsnbrbr2026.xyz
 bnss1t5vg.icu
+bntr-cekilis.online
 bntr-cekilisim.online
 bnudptlmzsndmdglsn.mooo.com
 bnv4545454.click
@@ -3364,6 +3367,7 @@ cekilis-binance.com
 cekilis-paribu.com
 cekilisbinance.com
 cekilisci.store
+cekilise-katil.online
 cekilise1haftadandahazkaldibasvurunuyap.urlhedge.online
 cekilise1haftadandahzazkaldibasvurunuyap.urlhedge.online
 cekilisi--paribu.com
@@ -6690,6 +6694,7 @@ firsatlar.myonlineportal.ch
 firsatlar.obilet-tr.uk
 firsatlaragit.online
 firsatlarbizden.myonlineportal.ch
+firsatlarcepte.xyz
 firsatlardunyasi.ddnsfree.com
 firsatlarfiro.duckdns.org
 firsatlargunundeyiz.com
@@ -12123,6 +12128,7 @@ newseasonteam.com
 newsforgehub.com
 newsfusioner.com
 newsgardensnde.duckdns.org
+newsglaedneds.duckdns.org
 newsgradelerdsew.duckdns.org
 newslandia.com
 newsletters-reflected-coat-ent.trycloudflare.com
@@ -12789,6 +12795,7 @@ ortilix.store
 orynda.shop
 orynda.site
 orynda.store
+os4444.site
 osb-l-g-r-n-l-osb.myonlineportal.ch
 oselyaonline.com
 oseucsddi.cfd
@@ -15545,6 +15552,7 @@ sixseven-krdili-taruzyuz.xyz
 size-ozel.ink
 sizhepinizbiztek.com
 sizhesapalmayadevamedinhahaha-f9dc42b4ea1b.herokuapp.com
+sizinicinburadayiz1.sbs
 sizlericin.lol
 sizlericinburda.blogspot.com
 sizlerininicburadayiz.click
