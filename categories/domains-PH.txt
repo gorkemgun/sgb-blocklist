@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101029
-# Last change: 2026-08-22 07:47:49 UTC (sync mode: delta)
+# Records: 101034
+# Last change: 2026-08-22 08:50:16 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7641,6 +7641,7 @@ arabacekilisfirsatisizlerlehemenkatil.space
 arabacekilisi.ml
 arabacekilisi.online
 arabacekilisim.online
+arabacekilisin.online
 arabacekilisisizlereozel.website
 arabacikiralamamerkezirent.com.tr
 arabacimkiralamamerkezirent.com.tr
@@ -8475,6 +8476,7 @@ artisticmaritime.top
 artistsavage.top
 artlimp.top
 artmbounded.lat
+artoaslfasfoela.biz
 artonisbueucrtic.top
 artpaketleme.com
 artsaber.workers.dev
@@ -14384,6 +14386,7 @@ bnkgrantiprmrsyn.duckdns.org
 bnkisalttr.com
 bnklolasrsa.vercel.app
 bnkmrsylda.xyz
+bnlarnhpssndevr.click
 bnlast3dayscloudexpression.net
 bnlcl.net
 bnlcll.net
@@ -49984,6 +49987,7 @@ karacaonline.homes
 karacaonline.org.tr
 karacaonline.store
 karacaonlinetr.shop
+karacar.shop
 karacas.top
 karacasale.homes
 karacasell.shop
@@ -52023,6 +52027,7 @@ krakonnloggins.webflow.io
 krakowskiklimat.lat
 kraldabizizkuralda.duckdns.org
 kralefendi.com
+kralgellerdens.duckdns.org
 kralgeridonduwsynxrandevuburadanalinir.com
 kralhaber.club
 kralhaber.xyz
