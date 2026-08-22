@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50081
-# Last change: 2026-08-22 20:42:17 UTC (sync mode: delta)
+# Records: 50082
+# Last change: 2026-08-22 21:39:19 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1523,6 +1523,7 @@
 67663verifycard-booking.com
 6767676767.sbs
 6773345531.xyz
+6773345577.xyz
 6773345589.xyz
 678432243.net
 678543423423423.online

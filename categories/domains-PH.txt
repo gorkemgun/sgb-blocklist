@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19889
-# Last change: 2026-08-22 20:42:17 UTC (sync mode: delta)
+# Records: 19890
+# Last change: 2026-08-22 21:39:19 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -426,6 +426,7 @@
 675534534345.online
 67663verifycard-booking.com
 6773345531.xyz
+6773345577.xyz
 6773345589.xyz
 678432243.net
 678567453354.online
