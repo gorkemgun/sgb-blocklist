@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50073
-# Last change: 2026-08-22 17:39:24 UTC (sync mode: delta)
+# Records: 50078
+# Last change: 2026-08-22 18:50:59 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -3264,6 +3264,7 @@ aldirmagonuledipyapinislem.com
 aldn-aldn-flsatlari.cfd
 aldnaldn-cay.xyz
 aldnaldnkampanylrmz.sa.com
+aldnaldnucuzfirsatlr.com
 aldnbradancayn.net
 aldnbrdayazfrsatlari.com
 aldnhizlifirstlaryakindaherzamansizlerleyiz.com.tr
@@ -22159,6 +22160,7 @@ ilanlarim-ozelsepetim.com
 ilanlarim-sepetin.pro
 ilanlarimode.online
 ilanlarimode.shop
+ilanonayi.online
 ilanonayla.online
 ilanozel-islemler.com
 ilanservis-detay1.com
@@ -29367,6 +29369,7 @@ melqo.xyz
 melqor.sbs
 melrtaviona.com
 melstons.com
+meltemdnsmnzlikz.com
 melto2.unaux.com
 meltoxa.site
 meltoxaapp.site
@@ -33734,6 +33737,7 @@ paribu-sponsorlu-cekilis.online
 paribu-sponsorlu-cekilisi.live
 paribu-sponsorlu-cekilisi.online
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlu-cekils.online
 paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
 paribu-sponsorlucekilis.online
@@ -38386,6 +38390,7 @@ sarakan.click
 saramoftah.com
 sararhema.cfd
 sarax.sbs
+sarcmqyerehqberiniqz.blogspot.com
 sarcmqyerehqberiniz.blogspot.com
 sardmbrdangeldasd.shop
 sari-gun-1f24d7788c4a.herokuapp.com

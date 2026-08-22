@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19882
-# Last change: 2026-08-22 17:39:24 UTC (sync mode: delta)
+# Records: 19886
+# Last change: 2026-08-22 18:50:59 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -9042,6 +9042,7 @@ ilanim-fast.com
 ilanim-onay-762213.com
 ilanlarimode.online
 ilanlarimode.shop
+ilanonayi.online
 ilanonayla.online
 ilanservis-odemehizmetler.online
 ilaynaturizm.com
@@ -11412,6 +11413,7 @@ melorinu.top
 meloviraworld.com
 melqo.xyz
 melstons.com
+meltemdnsmnzlikz.com
 meltoxa.site
 meltoxaapp.site
 meltoxahq.site
@@ -13213,6 +13215,7 @@ paribu-pepehediyesi.info
 paribu-pepehediyesi.link
 paribu-sponsorlu-cekilis.live
 paribu-sponsorlu-cekilisler.live
+paribu-sponsorlu-cekils.online
 paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
 paribu-sponsorlucekilisleri.online
@@ -15021,6 +15024,7 @@ sar101.com
 sar102.com
 sar104.com
 sar105.com
+sarcmqyerehqberiniqz.blogspot.com
 sarcmqyerehqberiniz.blogspot.com
 sarilarabiteriz.click
 sariyerharb-471b76746d0e.herokuapp.com
