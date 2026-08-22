@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50068
-# Last change: 2026-08-22 16:43:20 UTC (sync mode: delta)
+# Records: 50073
+# Last change: 2026-08-22 17:39:24 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -19499,6 +19499,7 @@ haberler4561.sbs
 haberler4567844.shop
 haberler4722.shop
 haberler47823.shop
+haberler47852.shop
 haberler48751.sbs
 haberler54232.shop
 haberler554.shop
@@ -21546,6 +21547,7 @@ hristomasitomasdf.com
 hrlivetoday.today
 hrryagustosgunlerindepr.duckdns.org
 hrrynewgnler.duckdns.org
+hryagstsprmsyn.duckdns.org
 hsadhasfjnafs.sbs
 hsakaslgpwlaskwqpslaf.life
 hsakxzmnvnwlwqifqw.live
@@ -23198,6 +23200,7 @@ istanbulbeelgim.xyz
 istanbulbeelgimcan.xyz
 istanbulbegimcan.xyz
 istanbulbegimkart.xyz
+istanbulbegimlcan.com
 istanbulbegimsel.xyz
 istanbulbelggim.xyz
 istanbulbelgiim.xyz
@@ -43280,6 +43283,7 @@ tmsec-blog.live
 tmsec-blog.online
 tmsec-blog.pub
 tmsec-blog.software
+tmsgrup.online
 tncrekrcbln.com
 tnews.tr
 tnlalmnlnata.net
@@ -45437,6 +45441,7 @@ tv.evsahibibasvuru.com
 tvrkdrtsandvbhs.shop
 tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
+tvrkrtsandsavsc.com
 tvrktshdabzursd.store
 tvrtksv.com
 tvtrkaramuayene.net

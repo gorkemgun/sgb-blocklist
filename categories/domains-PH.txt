@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19877
-# Last change: 2026-08-22 16:43:20 UTC (sync mode: delta)
+# Records: 19882
+# Last change: 2026-08-22 17:39:24 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -7937,6 +7937,7 @@ haberler3552323.shop
 haberler421352.shop
 haberler4422424.shop
 haberler4561.sbs
+haberler47852.shop
 haberler562346.sbs
 haberler5632494.sbs
 haberler56755712366.com
@@ -8712,6 +8713,7 @@ hrdfsetsdf.sbs
 hrgebaeudereinigung.com
 hrryagustosgunlerindepr.duckdns.org
 hrrynewgnler.duckdns.org
+hryagstsprmsyn.duckdns.org
 hsbcrewards-homesa.info
 hsbcrewards-homesb.info
 hseterf.web.app
@@ -9330,6 +9332,7 @@ istanbulbabsoktyu.com
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
 istanbulbeelgim.xyz
+istanbulbegimlcan.com
 istanbulbelggim.xyz
 istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
@@ -17294,6 +17297,7 @@ tmsec-blog.live
 tmsec-blog.online
 tmsec-blog.pub
 tmsec-blog.software
+tmsgrup.online
 tnews.tr
 tnlalmnlnata.net
 tnqhcx.click
@@ -18024,6 +18028,7 @@ tuyoahsadhahsd909adsdhas.click
 tvrkdrtsandvbhs.shop
 tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
+tvrkrtsandsavsc.com
 tvrktshdabzursd.store
 tvtrkaramuayene.net
 tvtrkhdizmbeyrs.online
