@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19874
-# Last change: 2026-08-22 15:38:11 UTC (sync mode: delta)
+# Records: 19877
+# Last change: 2026-08-22 16:43:20 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -6412,6 +6412,7 @@ evimprojesi.com
 evimt0kibasvur.xyz
 evimyuvanolsun.org
 evindenbasvuru.abrdns.com
+evindenbasvuruyap.abrdns.com
 evindeotur.click
 evindeyiz.click
 evinizicinenuygunmarketalisverisi.cfd
@@ -9422,6 +9423,7 @@ isthemenbasvur.uk
 isthizlibasv.online
 isthmnkcxzc.com
 isthmnkxv.com
+istkadarbkasadn.com
 istkarartara.xyz
 istkaratata.cfd
 istkartlabuanlama.duckdns.org
@@ -16158,6 +16160,7 @@ suyaxqxa.click
 svalbardhotelveritication.com
 svdklerdenlardansadas.shop
 svdlaryrklerdens.xyz
+svkkvalcay.lat
 svkvktrcaydan.lat
 svscrsondanismanlik.blogspot.com
 svtergh-shtpl-mntek-rtees.rest

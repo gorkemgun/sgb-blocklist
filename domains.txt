@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50062
-# Last change: 2026-08-22 15:38:11 UTC (sync mode: delta)
+# Records: 50068
+# Last change: 2026-08-22 16:43:20 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -7065,6 +7065,7 @@ bnsnscnlngrsler.com
 bnss1t5vg.icu
 bntr-cekilis.online
 bntr-cekilisim.online
+bntr-logintr.click
 bntrdestekkripto.com
 bntrdynadot.biz
 bntrpbol.xyz
@@ -15329,6 +15330,7 @@ evimtokibasvurkmpnya.pro
 evimyuvanolsun.org
 evinde-bns-lging.info
 evindenbasvuru.abrdns.com
+evindenbasvuruyap.abrdns.com
 evindeotur.click
 evindesin.click
 evindeyiz.click
@@ -20492,6 +20494,7 @@ herkeseilkteniyigelir.com
 herkesgiderbabakalir-84425b43704d.herokuapp.com
 herkeshakettigi.click
 herkesinsevdigiyaninageldi.com
+herkessahipolsundiyesinirlisayida.sbs
 herksbrudasannerdeesanden84.click
 herksvarddenzdesenderdegel365.click
 hermisron.com
@@ -23599,6 +23602,7 @@ isthmnkcxzc.com
 isthmnkvx.com
 isthmnkxv.com
 isthmnvcxvxcb.com
+istkadarbkasadn.com
 istkaraca.cfd
 istkarartara.xyz
 istkaratata.cfd
@@ -24591,6 +24595,7 @@ kampanyagel101.duckdns.org
 kampanyagnu.dnsup.net
 kampanyahemen-burada.online
 kampanyahemen.org.tr
+kampanyahemenburada.online
 kampanyakacirmaal.duckdns.org
 kampanyakapimizdayakalamaburada.xyz
 kampanyakapinda.trade
@@ -41500,6 +41505,7 @@ svdlyrklerdbyzsrgnler.shop
 svdnlerdenkzlerden.mooo.com
 sverchtun.store
 sverchvpn.space
+svkkvalcay.lat
 svkvktrcaydan.lat
 svrsondanismanlik.blogspot.com
 svs-verificationdate.beer
