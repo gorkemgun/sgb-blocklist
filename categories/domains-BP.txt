@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26551
-# Last change: 2026-08-22 13:03:09 UTC (sync mode: delta)
+# Records: 26553
+# Last change: 2026-08-22 14:41:35 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -18614,6 +18614,7 @@ pory-logrenade-ky.myonlineportal.ch
 poryvalo.com
 positive-amber-bpwtfu3p.edgeone.dev
 post.garantibbvakredibasvuru.com
+postaneguvenlialisveris.online
 postaturk24.com
 postnotcy.pics
 postt-gov.icu
@@ -25170,6 +25171,7 @@ wwwgovtrl55polis155.online
 wwwguzelgun.techsolve.cfd
 wwwl55-polisi.online
 wwwl55polisi.online
+wwwmartfirsatlarimizqnbfinansbankcom.ph
 wwwsahibinden-get.com
 wwwsahibinden-mobil.com
 wwwsampanski.life

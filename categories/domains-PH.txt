@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19867
-# Last change: 2026-08-22 13:46:15 UTC (sync mode: delta)
+# Records: 19868
+# Last change: 2026-08-22 14:41:35 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -775,6 +775,7 @@ agstosindiirmbnm.duckdns.org
 agstsgunlerndepromosyon.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
+agustos-burada.info.tr
 agustosayikacirilmayacakmalzemeler.sbs
 agustosc.dnsup.net
 agustoscepte.sbs
