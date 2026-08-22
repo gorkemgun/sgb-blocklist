@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101021
-# Last change: 2026-08-22 07:02:07 UTC (sync mode: delta)
+# Records: 101029
+# Last change: 2026-08-22 07:47:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2151,6 +2151,7 @@
 63d90bb.cn
 63dcu0x.cn
 64324214126331241263123.xyz
+643264361.sbs
 643643sdf2253ssdf.click
 6438778.xyz
 64512412412817355731.biz
@@ -7639,6 +7640,7 @@ arabacekilis.com
 arabacekilisfirsatisizlerlehemenkatil.space
 arabacekilisi.ml
 arabacekilisi.online
+arabacekilisim.online
 arabacekilisisizlereozel.website
 arabacikiralamamerkezirent.com.tr
 arabacimkiralamamerkezirent.com.tr
@@ -17919,6 +17921,7 @@ ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-tr-3yil-ozel.com
+ceptetebden.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebfirsati.xyz
 ceptetebliye-ozel.my-homeip.de
@@ -43190,6 +43193,7 @@ hrpmmr.cn
 hrqlxzpmntvk.sa.com
 hrretz.top
 hrrmmn.pages.dev
+hrrynewgnler.duckdns.org
 hrsy-frsllk-als-vrs-kmona.xyz
 hrsy-tam-sptgel.duckdns.org
 hrsy-ygn-rda-gll.site
@@ -49987,6 +49991,7 @@ karacashop.homes
 karacasofrac.homes
 karacasofras.homes
 karacastore.club
+karacastr.homes
 karacatc.com
 karacatcb.cfd
 karacatr.homes
@@ -60553,6 +60558,7 @@ necoylanodell.net
 nedenbruadabakiyorsunaliserisedevam.cfd
 nedenkayipgittirotan.org
 nedenrp.xyz
+nedensendegelemdincabukgel.click
 nedimbaba.com
 nediyedomainalsambilemedim.net
 nedobaba.com
@@ -69365,6 +69371,7 @@ promosyon.website
 promosyon101bgn.duckdns.org
 promosyonadrs.sbs
 promosyonalin.com
+promosyonbasvuru.com
 promosyonbilgisistemi.click
 promosyondanoktam.cloud
 promosyonemekli.com
@@ -99825,6 +99832,7 @@ yogunistekuzerineistekampanya.site
 yogunsiqortam.com.tr
 yohkipres.site
 yokarac.net
+yokboyleolaysendegelcabukbasvr.click
 yoksulperver.com
 yolaciktiktmaxmax.net
 yolarabakirala.com.tr
