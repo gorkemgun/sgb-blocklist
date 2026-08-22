@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50007
-# Last change: 2026-08-22 11:38:26 UTC (sync mode: delta)
+# Records: 50036
+# Last change: 2026-08-22 13:03:09 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -4316,6 +4316,7 @@ asldmvarbans.cfd
 asleoaslaeodsla.online
 asleovet.net
 asliceza.org
+aslicezasorgu.org
 asliyeceza.org
 asliyecezagov.org
 asliyedava.org
@@ -9273,15 +9274,19 @@ cekilis--araba.live
 cekilis--binance.com
 cekilis--paribu.com
 cekilis-binance.com
+cekilis-burada.online
+cekilis-hemenburada.online
 cekilis-kampanya.store
 cekilis-kampanya.xyz
 cekilis-paribu.com
 cekilis-paribu.online
 cekilisbinance.com
+cekilisburada.online
 cekilisci.store
 cekilise-katil.online
 cekilise1haftadandahazkaldibasvurunuyap.urlhedge.online
 cekilise1haftadandahzazkaldibasvurunuyap.urlhedge.online
+cekilishemen-burada.online
 cekilisi--paribu.com
 cekilisi-paribu.co
 cekilisi-paribu.com
@@ -12834,6 +12839,7 @@ devlet-mhrs-randevu.com
 devlet-yardimlari.com
 devlet.dijitalbasvuru.com
 devletbasvurukapisigovtr.sbs
+devletdestek.vercel.app
 devletkonutlari.cfd
 devletkredidestekleri.click
 devletresmituvturk.online
@@ -15316,6 +15322,7 @@ evimtokibasvurkmpnya.live
 evimtokibasvurkmpnya.pro
 evimyuvanolsun.org
 evinde-bns-lging.info
+evindenbasvuru.abrdns.com
 evindeotur.click
 evindesin.click
 evindeyiz.click
@@ -15845,6 +15852,7 @@ ferser.click
 fertilitysaving.com
 fesjake74562.wordpress.com
 fesk.my
+feslink.net
 fetch-tumpy-side.myonlineportal.ch
 fetuconaruk.top
 feturkstore.xyz
@@ -16034,6 +16042,7 @@ finansalhaber.shop
 finansalyorum.com
 finansatlas.info
 finansbakis.online
+finansbankkredikarti.ph
 finansbankkredikartiborcsorgulama.blogspot.com
 finansbankkrediparacepte.ph
 finansendeksi.info
@@ -19574,6 +19583,7 @@ habervakti.org
 haberyasam.life
 haberzona.online
 haberzone24.com
+hacbasvuru.org
 hacelu.com
 hacklinkpaketleri.com
 hacklinkpanel.app
@@ -20246,6 +20256,7 @@ hemenalsepetteindirim.me
 hemenalsnlsa.net
 hemenaracbakim.blogspot.com
 hemenaracrandevu.web.app
+hemenas-sonvlsak.net
 hemenbaklnsaina.duckdns.org
 hemenbasvur-evim.xyz
 hemenbasvur-ilkevim.online
@@ -20495,6 +20506,7 @@ herseyherkessesylsin.sbs
 herseyherkezgusecelyenguncel65.info
 herseyinsebebivrr.cfd
 herseymaziden.sbs
+herseynbsndsvgvsygvar.click
 herseysznlegzzel.sbs
 herseyyeneartkboyleoldusendegel.info
 herseyyenibasladi.sbs
@@ -20989,6 +21001,7 @@ hizlinspulsarsatinal400cc.duckdns.org
 hizliock.cfd
 hizlionaygerekenislerde.com
 hizlionaygerekenislerde.net
+hizlionaygerekenislerdebirlikteyiz.ph
 hizlionaygerekenislerdebirlikteyizs.com
 hizlionaylar.duckdns.org
 hizlionaylarimseninlebirlikteherzaman.store
@@ -21518,6 +21531,7 @@ hrgebaeudereinigung.com
 hrguxhellito281.onrender.com
 hristomasitomasdf.com
 hrlivetoday.today
+hrryagustosgunlerindepr.duckdns.org
 hrrynewgnler.duckdns.org
 hsadhasfjnafs.sbs
 hsakaslgpwlaskwqpslaf.life
@@ -23228,6 +23242,7 @@ istanbulcamsi.shop
 istanbulcan.xyz
 istanbulcanbelggim.xyz
 istanbulcanbelggimla.xyz
+istanbulcanbelgimcan.xyz
 istanbulcancabab.xyz
 istanbulcancan.com
 istanbulcancan.xyz
@@ -23335,6 +23350,7 @@ istanbulkqartmsd.store
 istanbulkqhilzsartmsd.store
 istanbulkristalhalis.shop
 istanbulkrrrtt.mooo.com
+istanbulkrtdasnsrz.online
 istanbulksohhs.com
 istanbulksoth.com
 istanbulkuryeler.shop
@@ -24519,10 +24535,12 @@ kampanali.click
 kampanhshshshs.com
 kampanya-basvuru-onaylari.duckdns.org
 kampanya-bilgi-sistemim.cfd
+kampanya-burada.online
 kampanya-cebte.click
 kampanya-cepte-sok-2026.cfd
 kampanya-cepte-sok.duckdns.org
 kampanya-garanti.click
+kampanya-hemenburada.online
 kampanya-karacamobile.vercel.app
 kampanya-online.click
 kampanya-paribu.com
@@ -24560,6 +24578,7 @@ kampanyafirsatlariniz.duckdns.org
 kampanyafirsatlarinn.duckdns.org
 kampanyagel101.duckdns.org
 kampanyagnu.dnsup.net
+kampanyahemen-burada.online
 kampanyahemen.org.tr
 kampanyakacirmaal.duckdns.org
 kampanyakapimizdayakalamaburada.xyz
@@ -27020,6 +27039,7 @@ kredi-basvuru-portali.sbs
 kredi-basvuru-sistemi.cfd
 kredi-basvuru-sistemi.cyou
 kredi-basvuru-sistemi.mom
+kredi-basvuru-sistemi.net
 kredi-basvuru-sistemi.sbs
 kredi-basvuru.short.gy
 kredi-basvurum-online.cloud
@@ -28386,6 +28406,7 @@ luforadeniq.com
 luguvafel.store
 lulerse6596123xx.duckdns.org
 lulink.click
+lumagilorlo-paxere.lol
 lumarapolli-sedere.lol
 lumavo.info
 lumavora.xyz
@@ -29683,6 +29704,7 @@ mhrshekimrandevulari.duckdns.org
 mhrshekimsistem.duckdns.org
 mhrshekimzlrandevusu.vercel.app
 mhrshemencan.com
+mhrshemenler.com
 mhrshizligiris.duckdns.org
 mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
@@ -33573,6 +33595,7 @@ paramguvendekrgo.space
 paramguvendesiparis.site
 paramsgetguvende.com
 paran-guvende.site
+paranguvende-get.sbs
 paranguvendeste.xyz
 paranindunyasi.online
 paranizguvende.cfd
@@ -33694,6 +33717,7 @@ paribu-sponsorlugunda-cekilis.online
 paribu-sponsorlugunda-cekilisi.online
 paribu-sponsorlugunda-cekils.online
 paribu-sponsorlugunda.online
+paribu-sponsorlugundacekilis.online
 paribu-sponsorlugundacekilisi.online
 paribu-sponsorlugundacekilisleri.online
 paribu-sponsorlugundacekils.online
@@ -33858,6 +33882,7 @@ paribusponsorlucekilisim.online
 paribusponsorlucekilisleri.online
 paribusponsorlucekils.online
 paribusponsorlugudacekilis.online
+paribusponsorlugunda-cekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
@@ -38303,6 +38328,7 @@ sanjingtoy.com
 sankotextile-tr.com
 sanlbrdaclsyrzd.mooo.com
 sanolin.com
+sanshemen-burada.online
 sansisayrox.shop
 sanslibasvuru.sbs
 sanslicrfgunlerin.cfd
@@ -44704,6 +44730,7 @@ trovant.click
 trovantojob.top
 trovianox.info
 trpetrolprofit.top
+trplgnlerdervdalsn.click
 trpolis155.online
 trpplshol.cfd
 trptt-go.top
@@ -46210,6 +46237,7 @@ vdsafsaf.it.com
 vebdenal.shop
 vebosta-a101alisverissiparis.shorted.sbs
 vectariia.com
+vector.my-homeip.de
 vectordawn.icu
 vectorhaubens.pro
 vectorplatform.cc
@@ -47692,6 +47720,7 @@ www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
+www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-telegram.org

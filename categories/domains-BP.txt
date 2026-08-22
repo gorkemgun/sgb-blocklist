@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26540
-# Last change: 2026-08-22 10:43:00 UTC (sync mode: delta)
+# Records: 26551
+# Last change: 2026-08-22 13:03:09 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -5339,9 +5339,11 @@ cebteteb.myonlineportal.de
 cebtetebi.myonlineportal.ch
 cebteteblim.myonlineportal.ch
 cedarbloom.store
+cekilis-burada.online
 cekilis-kampanya.store
 cekilis-kampanya.xyz
 cekilis-paribu.online
+cekilishemen-burada.online
 cekilisleriparibu.com
 cekilissonucqnbfinans.com.ph
 cekilissonucuqnbfinans.com.ph
@@ -6397,6 +6399,7 @@ devlet-krediyardimi.com
 devlet-yardimlari.com
 devlet.dijitalbasvuru.com
 devletbasvurukapisigovtr.sbs
+devletdestek.vercel.app
 devletkonutlari.cfd
 devletkredidestekleri.click
 devletresmituvturk.online
@@ -8233,6 +8236,7 @@ finansal-hizmetler.info
 finansal-planlama.pro
 finansal-yolculuk.info
 finansalhaber.shop
+finansbankkredikarti.ph
 finansbankkredikartiborcsorgulama.blogspot.com
 finansbankkrediparacepte.ph
 finansgundem.site
@@ -10255,6 +10259,7 @@ haberturkey.shop
 haberturkey1453.sbs
 haberturkiye.shop
 haberyasam.life
+hacbasvuru.org
 hacklinkpaketleri.com
 hacklinkpanel.app
 hacklinkpanel.xyz
@@ -11171,6 +11176,7 @@ hizlinspulsarsatinal400cc.duckdns.org
 hizliock.cfd
 hizlionaygerekenislerde.com
 hizlionaygerekenislerde.net
+hizlionaygerekenislerdebirlikteyiz.ph
 hizlionaygerekenislerdebirlikteyizs.com
 hizlionaylar.duckdns.org
 hizlionbasvuru.bond
@@ -13224,8 +13230,10 @@ kamotslofz.com
 kampanali.click
 kampanya-basvuru-onaylari.duckdns.org
 kampanya-bilgi-sistemim.cfd
+kampanya-burada.online
 kampanya-cepte-sok.duckdns.org
 kampanya-garanti.click
+kampanya-hemenburada.online
 kampanya-karacamobile.vercel.app
 kampanya-online.click
 kampanya-paribu.com
@@ -13260,6 +13268,7 @@ kampanyadanbasvur.sbs
 kampanyadijitalvakifmobil.com.ph
 kampanyafirsatlariniz.duckdns.org
 kampanyagel101.duckdns.org
+kampanyahemen-burada.online
 kampanyahemen.org.tr
 kampanyakacirmaal.duckdns.org
 kampanyakapimizdayakalamaburada.xyz
@@ -18183,6 +18192,7 @@ paramguvendekrgo.space
 paramguvendesiparis.site
 paramsgetguvende.com
 paran-guvende.site
+paranguvende-get.sbs
 paranguvendeste.xyz
 paranindunyasi.online
 paranizguvende.cfd
@@ -20599,6 +20609,7 @@ sandybrown-grasshopper-462675.hostingersite.com
 sanits.click
 sankotextile-tr.com
 sanlbrdaclsyrzd.mooo.com
+sanshemen-burada.online
 sansisayrox.shop
 sanslibasvuru.sbs
 sanslicrfgunlerin.cfd
