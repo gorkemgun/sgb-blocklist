@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19886
-# Last change: 2026-08-22 18:50:59 UTC (sync mode: delta)
+# Records: 19889
+# Last change: 2026-08-22 20:42:17 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -5390,6 +5390,7 @@ dao-asoiiv.icu
 daranadhigh.pro
 darbeturks.org
 darenfowes.pro
+daresude-roledepo.lol
 darktr.top
 dartengton.pro
 dasasdfdswerwrttxcz87.click
@@ -7982,6 +7983,7 @@ haftalikmarketafisi.com
 haftalikmarketalisverisiniduzenle.cfd
 haftanin-noktasi.com.tr
 haftanin-noktasi.net.tr
+haftanin1o1flrsatlari.com
 haftaninseciliurun.sbs
 haftaninyildizfirsatlari.com
 haftaninyildizitornavidab.sbs
@@ -9813,6 +9815,7 @@ karacatcb.cfd
 karacatr.homes
 karacatr.shop
 karacatronline.shop
+karacatrs.homes
 karacatrs.shop
 karacaveg.homes
 karagozototamir.com

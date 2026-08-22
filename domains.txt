@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50078
-# Last change: 2026-08-22 18:50:59 UTC (sync mode: delta)
+# Records: 50081
+# Last change: 2026-08-22 20:42:17 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -12335,6 +12335,7 @@ darenzohubs.store
 darenzolabs.shop
 darenzolabs.site
 darenzolabs.store
+daresude-roledepo.lol
 darinfoul.cfd
 dark.net.tr
 darkarsanca.cfd
@@ -19661,6 +19662,7 @@ haftanin-noktasi.com.tr
 haftanin-noktasi.name.tr
 haftanin-noktasi.net.tr
 haftanin-noktasi.web.tr
+haftanin1o1flrsatlari.com
 haftaninenyenigirisleriburdan.xyz
 haftaninfirsati.net
 haftaninfirsatlari.cfd
@@ -24951,6 +24953,7 @@ karacatr.com
 karacatr.homes
 karacatr.shop
 karacatronline.shop
+karacatrs.homes
 karacatrs.shop
 karacaveg.homes
 karacawz.shop
