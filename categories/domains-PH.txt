@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19820
-# Last change: 2026-08-22 09:45:09 UTC (sync mode: full)
+# Records: 19826
+# Last change: 2026-08-22 10:43:00 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -2613,6 +2613,7 @@ brdlssrabklemdn.com
 brdnbrangtmtsneeee.com
 brdnbrlrgcblrs.com
 brdngdrsnorya.mooo.com
+brdnmhsrvdl182.click
 brdnsalsmndnmnsmdn.com
 brdnsnkzclsyrzz.com
 breathe.sbs
@@ -3398,6 +3399,7 @@ ceptesoklarile.online
 cepteteb-emekli-basvur.myonlineportal.ch
 ceptetebden.my-homeip.de
 ceptetebeva.my-homeip.de
+ceptetebli-kampanya.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceredefe-dereteyeuere.lol
 ceretese-derersede.lol
@@ -6269,6 +6271,7 @@ esasmenkuldegerler.com
 esasportfoy.net
 esasportfoy.org
 esatbumyazabi.click
+esbaskanolarak.click
 esbetgiris-hizli.com
 esbmonline.com
 esinin-anli.shop
@@ -9765,6 +9768,7 @@ karacaonline.homes
 karacaonline.store
 karacaonlinetr.shop
 karacar.shop
+karacas.homes
 karacas.top
 karacasale.homes
 karacasell.shop
@@ -11549,6 +11553,7 @@ mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
 mhrsbilgi.duckdns.org
 mhrsc347niz234wfh.com
+mhrscinizhakan49786.duckdns.org
 mhrsclsdc.com
 mhrsgiris-edvltlogin2026.com
 mhrsgirisportaliburada.digital
@@ -17030,6 +17035,7 @@ tennisoutgoing.com
 tennistactician.com
 tenniszoneplay.com
 tennypresents.com
+tentens.duckdns.org
 teorkeance.loseyourip.com
 tepelecir.store
 tepki-stil.myonlineportal.ch

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26529
-# Last change: 2026-08-22 09:45:09 UTC (sync mode: full)
+# Records: 26540
+# Last change: 2026-08-22 10:43:00 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -11618,6 +11618,7 @@ ilbasvurev.com
 ile-alisverislerim.com.tr
 ile-e-islem.com.tr
 ile-e-islemler.com.tr
+ile-guvenle-islem-tr.com
 ile-guvenle-web-islem.com
 ile-islemler.com.tr
 ile-islemlerim.com.tr
@@ -12557,6 +12558,7 @@ istatistik-web.myonlineportal.ch
 istbabacan.xyz
 istbarobelgim.com
 istbassvuruogren.cfd
+istbassvuruogren.xyz
 istbasvlradimz.gleeze.com
 istbasvrdklarimizdayizhemn.com
 istbasvrklmrza.com
@@ -15685,6 +15687,7 @@ lyrtkcv33232.duckdns.org
 lyvazune.media
 lzetosdeme.dns.navy
 m-o-b-i-l.my-homeip.com
+m-obilet.info
 m-obilet.org
 m-rhs1-82rvdnbrdn.org
 m-sikayetvar.com
@@ -15820,6 +15823,7 @@ maliyebordro.org
 maliyecezaportal.net
 maliyedava.com
 maliyedava.net
+maliyedavam.org
 maliyedosyabilgi.org
 maliyedosyasorgula.org
 maliyedosyatakip.org
@@ -17380,6 +17384,7 @@ nzxjhczghhgasyfdhasax.cfd
 nzxjhczghhgasyfdhasax.xyz
 o-155polis.online
 o-bbwamenugirislemonlinemiz.com
+o-bilet.info
 o-bilet.online
 o-bilet.site
 o-bilet.store
@@ -17404,6 +17409,9 @@ obilet-indirimli.com
 obilet-kampanya.com
 obilet-kampanya.org
 obilet-kampanya.uk
+obilet-mobil.com.tr
+obilet-mobil.online
+obilet-mobil.tr
 obilet-online.com
 obilet-www.nl
 obilet-www.online
@@ -17834,6 +17842,7 @@ onliveislernmenubonuslarim.online
 onllineislemgarantiguncel.duckdns.org
 onllinemis1emenutrapp.online
 onlndi-sileye-gt.cfd
+onlne-182.cfd
 onlne-intrnet-basvrm.com
 onlne-islem-yap.com
 onlnecrfmarket.click
@@ -20472,6 +20481,7 @@ sahibinden.urun-sepetim3.com
 sahibindenbireysel.com
 sahibindengardas.duckdns.org
 sahibindenget.site
+sahibindenguvenli.click
 sahibindenguvenlialisveris.ilan-onay-tr.online
 sahibindenguvenlikargo.com
 sahibindenguvenliodeme.vercel.app
@@ -21496,6 +21506,7 @@ sokmarketindirimleri.cfd
 sokmarketistegelsin.online
 sokmarketkapinagelsin.cfd
 sokmarketler.cfd
+sokmarketler.shop
 sokmarketleri2025.ddns.net
 sokmarketocakkatalog.cfd
 sokmarketocaksonuindirimleri.cfd

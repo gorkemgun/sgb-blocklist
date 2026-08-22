@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 49982
-# Last change: 2026-08-22 09:45:09 UTC (sync mode: full)
+# Records: 49999
+# Last change: 2026-08-22 10:43:00 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -7511,6 +7511,7 @@ brdnbrlrgcblrs.com
 brdngdrsnorya.mooo.com
 brdnglsnyklnyrhmn.mooo.com
 brdnhzlcyklmypn-m.mooo.com
+brdnmhsrvdl182.click
 brdnsalsmndnmnsmdn.com
 brdnsnkzclsyrzz.com
 brdnsnkzlerdnasds.shop
@@ -9415,6 +9416,7 @@ cepteteb.pzbsin.com
 ceptetebden.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebli-basvurum.my-homeip.de
+ceptetebli-kampanya.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceptetrmrkt.com.tr
 ceptetrmrkt.net.tr
@@ -15015,6 +15017,7 @@ esasmenkuldegerler.com
 esasportfoy.net
 esasportfoy.org
 esatbumyazabi.click
+esbaskanolarak.click
 esbetgiris-hizli.com
 esbmonline.com
 escofiringbijou.com
@@ -22139,6 +22142,7 @@ ile-e-islemler.com.tr
 ile-e-sepetler.com.tr
 ile-guvende-islemini-yap.com
 ile-guvende-tamamla.com
+ile-guvenle-islem-tr.com
 ile-guvenle-web-islem.com
 ile-guvenlice-tamamlama.com
 ile-islemler.com.tr
@@ -23507,6 +23511,7 @@ istbabacan.xyz
 istbabaco.xyz
 istbarobelgim.com
 istbassvuruogren.cfd
+istbassvuruogren.xyz
 istbasvlradimz.gleeze.com
 istbasvrdklarimizdayizhemn.com
 istbasvrklmrza.com
@@ -24880,6 +24885,7 @@ karacapersembe.com
 karacar.shop
 karacaramazan.cfd
 karacaramazan.com
+karacas.homes
 karacas.top
 karacasale.homes
 karacasali.com
@@ -28500,6 +28506,7 @@ m-hr-s.wqdx12x1.rest
 m-hr-s.wqdx12x1.xyz
 m-mgarg.com
 m-o-b-i-l.my-homeip.com
+m-obilet.info
 m-obilet.org
 m-obilet.uk
 m-rhs1-82rvdnbrdn.org
@@ -28770,6 +28777,7 @@ maliyecezatakip.org
 maliyecezauzlasmasi.com
 maliyedava.com
 maliyedava.net
+maliyedavam.org
 maliyedosyabilgi.org
 maliyedosyasorgula.org
 maliyedosyatakip.org
@@ -29655,6 +29663,7 @@ mhrsbasvuruportali.duckdns.org
 mhrsbeta.duckdns.org
 mhrsbilgi.duckdns.org
 mhrsc347niz234wfh.com
+mhrscinizhakan49786.duckdns.org
 mhrsclsdc.com
 mhrsekonomik.duckdns.org
 mhrsekrangirisyonlendirme.duckdns.org
@@ -31926,6 +31935,7 @@ nzxsxn.98kk89.com
 o-155polis.online
 o-1fast.click
 o-bbwamenugirislemonlinemiz.com
+o-bilet.info
 o-bilet.online
 o-bilet.site
 o-bilet.store
@@ -31960,6 +31970,9 @@ obilet-indirimli.com
 obilet-kampanya.com
 obilet-kampanya.org
 obilet-kampanya.uk
+obilet-mobil.com.tr
+obilet-mobil.online
+obilet-mobil.tr
 obilet-mobil.uk
 obilet-online.com
 obilet-tr.uk
@@ -32685,6 +32698,7 @@ onllineislemgarantiguncel.duckdns.org
 onllinekonomimobilleapptr.xyz
 onllinemis1emenutrapp.online
 onlndi-sileye-gt.cfd
+onlne-182.cfd
 onlne-182.xyz
 onlne-intrnet-basvrm.com
 onlne-islem-yap.com
@@ -38094,6 +38108,7 @@ sahibinden63.com
 sahibindenbireysel.com
 sahibindengardas.duckdns.org
 sahibindenget.site
+sahibindenguvenli.click
 sahibindenguvenliadres.com
 sahibindenguvenlialisveris.ilan-onay-tr.online
 sahibindenguvenlikargo.com
@@ -40041,6 +40056,7 @@ sokmarketindirimleri.cfd
 sokmarketistegelsin.online
 sokmarketkapinagelsin.cfd
 sokmarketler.cfd
+sokmarketler.shop
 sokmarketlerfirsatlarim.com
 sokmarketleri2025.ddns.net
 sokmarketocakkatalog.cfd
@@ -42801,6 +42817,7 @@ tensorforgegrid6.lol
 tensorforgegrid7.lol
 tensorforgegrid8.lol
 tensorforgegrid9.lol
+tentens.duckdns.org
 tenttiger.xyz
 teoglionrandevu.org
 teorkeance.loseyourip.com
