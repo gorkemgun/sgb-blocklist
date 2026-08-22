@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19852
-# Last change: 2026-08-22 13:03:09 UTC (sync mode: delta)
+# Records: 19867
+# Last change: 2026-08-22 13:46:15 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -772,6 +772,7 @@ agl11.com
 agoda-live.live
 agstosfrsatttwa.com
 agstosindiirmbnm.duckdns.org
+agstsgunlerndepromosyon.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agustosayikacirilmayacakmalzemeler.sbs
@@ -2180,6 +2181,7 @@ birikimkutusu.site
 birimadli.org
 birimiz-kursun-birimiz-tabanca.mooo.com
 birimkurum.org
+birimtr.org
 birimuzlasma.org
 birlinks-tr.online
 birolalimisterdim.sbs
@@ -8099,6 +8101,7 @@ hazineleri.com
 hazinemaliyetc.net
 hazinemaliyetc.org
 hazinesicil.org
+hazinetr.org
 haziranayi5000stok.cfd
 haziranindiirimler.duckdns.org
 haziraninfirsatiburda.com
@@ -9375,6 +9378,7 @@ istanbulkrtdasnsrz.online
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelgimkart.xyz
+istanbullbelgimtek.xyz
 istanbullbiizmlaa.xyz
 istanbulllbelgimmkart.com
 istanbulllcannkarrtt.xyz
@@ -10105,6 +10109,7 @@ kizibittik.click
 kizilaymenkul.com
 kizlarburada.click
 kizlarburada.sbs
+kizlarvixlex.baby
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
@@ -11533,6 +11538,7 @@ mhr23k6m236njsdf.duckdns.org
 mhr2srandv5larnzi.duckdns.org
 mhrasd432734jnsdf.duckdns.org
 mhrefshemenrndv.ice.lol
+mhriberazonle.icu
 mhrk23km6747.duckdns.org
 mhrldsrandevl.com
 mhrlrandvlhc.com
@@ -11639,6 +11645,7 @@ migrosextra-ramazanozel.vercel.app
 miki.jspara-col.cfd
 mikolop.com
 milan-booking.space
+milk44322.site
 millenniuminc.my
 milletyatirim.com
 millingknistand.com
@@ -12070,6 +12077,7 @@ ncsbqy.cc
 ncyfpm.help
 ndshkn.homes
 nearly-interfaces-switched-disks.trycloudflare.com
+nebulachecker.icu
 nebulachecker.online
 nedenkayipgittirotan.org
 nedensendegelemdincabukgel.click
@@ -12670,6 +12678,7 @@ onlinesubeinfx.com
 onlinetalepbasvuru.sbs
 onlinetokiduyuru.myonlineportal.ch
 onlineucuzlukfirsati.com
+onlinnehzmtlerim.com
 onliseriesxozel.click
 onlline-hizmetekrani.sbs
 onlline-sbm.org
@@ -14800,6 +14809,7 @@ sadescsonlirfisrtalarttrvtrtcctrt.blogspot.com
 sadesocnscfcfirsatlartr.blogdns.com
 sadesocsnfsirsatlartrvc.blogdns.com
 sadfsafsda230203mk.net
+sadibofilme-katore.lol
 sadimuralme-venere.lol
 sadmsakfdmskqfdfflflfl.net
 sadsaconsfrsdfirsatlar.blogspot.com
@@ -14999,6 +15009,7 @@ sar101.com
 sar102.com
 sar104.com
 sar105.com
+sarcmqyerehqberiniz.blogspot.com
 sarilarabiteriz.click
 sariyerharb-471b76746d0e.herokuapp.com
 sarnelix.digital
@@ -15568,6 +15579,7 @@ size-ozel.ink
 sizhepinizbiztek.com
 sizhesapalmayadevamedinhahaha-f9dc42b4ea1b.herokuapp.com
 sizinicinburadayiz1.sbs
+sizinleyizzz.sbs
 sizlericin.lol
 sizlericinburda.blogspot.com
 sizlerininicburadayiz.click
@@ -15698,6 +15710,7 @@ sokmarket.lat
 sokmarket.mobilcep.cfd
 sokmarketfirsatlaribitmezyilbasi.mooo.com
 sokmarkethepsi.shop
+sokmarketlerdeindirim.shop
 sokmarketlerfirsatlarim.com
 sokmarketramazanmenusu.cfd
 sokramazan.cfd
@@ -16795,6 +16808,7 @@ teachpro.icu
 teampulsynk.team
 teapot-sale.xyz
 teaspiritnet.com
+teb-com-tr-web.my-homeip.de
 tebbasvurusayfa.my-homeip.de
 tebbmb.cfd
 tebcepte-sube-parola.myonlineportal.de
@@ -17997,6 +18011,7 @@ tuvturkyys.com
 tuvv-turkhizlislemler.com
 tuvvturks.digital
 tuyoahsadhahsd909adsdhas.click
+tvrkdrtsandvbhs.shop
 tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
 tvrktshdabzursd.store
