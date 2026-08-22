@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50054
-# Last change: 2026-08-22 14:41:35 UTC (sync mode: delta)
+# Records: 50062
+# Last change: 2026-08-22 15:38:11 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -2755,6 +2755,7 @@ agtora.site
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agustos-burada.info.tr
+agustos-burada.tv.tr
 agustosayikacirilmayacakmalzemeler.sbs
 agustosc.dnsup.net
 agustoscepte.sbs
@@ -3889,6 +3890,7 @@ aracimmmuayeyem.com
 aracimmuayenen.com
 aracimmuayyenedeyaa.com
 aracingelsin.net
+aracinhizmetlerin.com
 aracinizhakkinda.com
 aracinizhakkinda.xyz
 aracinizmuayene.xyz
@@ -6734,6 +6736,7 @@ birimhost.com
 birimiz-kursun-birimiz-tabanca.mooo.com
 birimiz-tabanca-birimiz-kursun.mooo.com
 birimkurum.org
+birimmali.org
 birimmaliye.org
 birimtr.org
 birimuzlasma.org
@@ -19263,6 +19266,7 @@ h72vn3jtpt5.icu
 h7778.site
 h9hf9dsgf-f1sghsdgfssa.net.tr
 haadstesserae.cfd
+habagas.sbs
 habeler-gnlcelcom.reimreflow.cfd
 haber-akisi-finans.site
 haber-den.my-homeip.com
@@ -19510,6 +19514,7 @@ haberler852334.com
 haberler8834232.shop
 haberler911.sbs
 haberler93748.shop
+haberler99534945.shop
 haberlercihazlar.com
 haberlerdiyarirtrv.sludgy.cfd
 haberlerim724.com
@@ -19592,6 +19597,7 @@ hacklinkpaketleri.com
 hacklinkpanel.app
 hacklinkpanel.xyz
 hackmoltrepeat.com
+hadartkssendekatbuguzelortama21.click
 hadeseclipse.click
 hadgelsondakka44.click
 hadglgzlmuzklragdlm.shop
@@ -29780,6 +29786,7 @@ mhrsvatandasportall.duckdns.org
 mhrsvatandasportalyonlendirme.duckdns.org
 mhrsvatandasrandevu.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
+mhrsyenihemen.blogspot.com
 mhrtg1gdg16dd15.fun
 mhrxsrandvkacirmadanal.org
 mhs420dq.com
@@ -30352,6 +30359,7 @@ mobilsubeniz.my-homeip.de
 mobilsubesi.my-homeip.de
 mobiltalepfirsati.duckdns.org
 mobiltebce.my-homeip.net
+mobiltrsepetleriniz-alim.online
 mobiluygulamabasvurularim.sbs
 mobilweb-hat-grn.casa
 mobilx-giris-basvuru.sbs

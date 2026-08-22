@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19868
-# Last change: 2026-08-22 14:41:35 UTC (sync mode: delta)
+# Records: 19874
+# Last change: 2026-08-22 15:38:11 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -776,6 +776,7 @@ agstsgunlerndepromosyon.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agustos-burada.info.tr
+agustos-burada.tv.tr
 agustosayikacirilmayacakmalzemeler.sbs
 agustosc.dnsup.net
 agustoscepte.sbs
@@ -1143,6 +1144,7 @@ aracimizmuayenede.com
 aracimmmuayeyem.com
 aracimmuayyenedeyaa.com
 aracingelsin.net
+aracinhizmetlerin.com
 aracinizhakkinda.com
 aracinizhakkinda.xyz
 aracinizmuayene.xyz
@@ -7853,6 +7855,7 @@ h47474cc.click
 h6s.app
 h72vn3jtpt5.icu
 h7778.site
+habagas.sbs
 habeler-gnlcelcom.reimreflow.cfd
 haber-konut-basvuru.com
 haber-kusu.com
@@ -7943,6 +7946,7 @@ haberler73421.shop
 haberler78912.sbs
 haberler911.sbs
 haberler93748.shop
+haberler99534945.shop
 haberlercihazlar.com
 haberlerim724.com
 haberlersizdengelenler.biz
@@ -7960,6 +7964,7 @@ haberturkiye1453.sbs
 habervakti.org
 haberzona.online
 haberzone24.com
+hadartkssendekatbuguzelortama21.click
 hadglgzlmuzklragdlm.shop
 hadhadhkhgfdd.sbs
 hadhsynsynr.uk
@@ -11618,6 +11623,7 @@ mhrsvatandasportalekranlarimiz.duckdns.org
 mhrsvatandasportall.duckdns.org
 mhrsvatandasportalyonlendirme.duckdns.org
 mhrsxrandevuxhxzmetleriniz3940.com
+mhrsyenihemen.blogspot.com
 mhrtg1gdg16dd15.fun
 mhsaraktiv.uk
 mhsdfbavbsd.art
