@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101012
-# Last change: 2026-08-21 22:44:28 UTC (sync mode: delta)
+# Records: 101014
+# Last change: 2026-08-22 01:52:37 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17918,6 +17918,7 @@ ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-tr-3yil-ozel.com
+ceptetebeva.my-homeip.de
 ceptetebfirsati.xyz
 ceptetebliye-ozel.my-homeip.de
 ceptev1interxaktiftr.site
@@ -52475,6 +52476,7 @@ kurumsalyumx.cfd
 kurumsicil.org
 kurumsorgu.org
 kurumsorgulama.org
+kurumtr.org
 kurutmazamanigeldi.com
 kuruumsalsigorta.site
 kuryenet.sorgularim.online
