@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101196
-# Last change: 2026-08-23 21:38:33 UTC (sync mode: delta)
+# Records: 101201
+# Last change: 2026-08-23 22:41:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -13588,6 +13588,7 @@ bizimlegulumse.xyz
 bizimlemisinsen.com.tr
 bizimlesingvendesin.click
 bizimlevardingeel.app
+bizimleyardimlar.shop
 bizimleykle1999.click
 bizimmenkuldegerler.com
 bizimrnlerimizszdir.shop
@@ -26130,6 +26131,7 @@ diplomaticfort.top
 diplomaticfutile.top
 diplomaticuranium.top
 diramodi-ralamoli.lol
+dirapala-ralasude.lol
 dirathostonline.ga
 dirayetdernegi.org
 direct-account-help-services.ml
@@ -27384,6 +27386,7 @@ drkdvletedvl.online
 drkernsskincare.com
 drkmnedvvlttbsvuru.pro
 drkmnndvlette.com
+drmadanrvdalmyaclsn.click
 drmxdrm.aguxstosxinxdmlerx.online
 dro4432.site
 dromax.digital
@@ -80257,6 +80260,7 @@ sondakikamegaport.com
 sondakikanet.world
 sondakikanin.com
 sondakikaodasi.com
+sondaksonbasvursonhareket34.click
 sondemlemebitiyor.sbs
 sonetkinlik-bnbbasvurozel.net
 soneventlerburadantakip.net
@@ -100403,6 +100407,7 @@ yvzj6.shop
 ywdtwss.icu
 yxcpanel.online
 yxcpanel.xyz
+yxcvds.xyz
 yxdxva.top
 yxhzsj.help
 yxlbxasindxrim.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466765
-# Last change: 2026-08-23 21:38:33 UTC (sync mode: delta)
+# Records: 466770
+# Last change: 2026-08-23 22:41:06 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -78699,6 +78699,7 @@ bizimlesinsende.app
 bizimlevardingeel.app
 bizimlevardingel.app
 bizimlevergigelsenesende.blogspot.com
+bizimleyardimlar.shop
 bizimleyarisamazlar.sbs
 bizimleyeniyilozel2019.com
 bizimleykle1999.click
@@ -127632,6 +127633,7 @@ diqnptcfog.duckdns.org
 dir101.zapto.org
 diramodi-ralamoli.lol
 dirangotthen.com
+dirapala-ralasude.lol
 dirathostonline.ga
 diray26.com
 dirayetdernegi.org
@@ -131926,6 +131928,7 @@ drktrkbsvruruau.com
 drktrkwtbsvruruau.mooo.com
 drm-server-booking.com
 drm.dirm-frrsat.xyz
+drmadanrvdalmyaclsn.click
 drmartensturkiye.com.tr
 drmazkisetsiset.site
 drmazkisetsiset.tech
@@ -373864,6 +373867,7 @@ sondakikasonnet.com
 sondakiraturk.com
 sondakiraveri.com
 sondakkahaberleri724.com
+sondaksonbasvursonhareket34.click
 sondan-once-bir-adimi-kesinlikle-al.com
 sondaxvzwt.duckdns.org
 sonddkaknpanya360.click
@@ -460963,6 +460967,7 @@ yxc56v.duckdns.org
 yxcpanel.online
 yxcpanel.xyz
 yxcrl.com
+yxcvds.xyz
 yxdxva.top
 yxerwysyhagdlbq.ru
 yxeswfapnf.duckdns.org
