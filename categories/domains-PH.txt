@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101165
-# Last change: 2026-08-23 15:40:14 UTC (sync mode: delta)
+# Records: 101170
+# Last change: 2026-08-23 16:45:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -22883,6 +22883,7 @@ crfzzr.click
 crgjhhsodmxc.net
 crgkonline.cfd
 crh.coinbase-com.info
+crhpmrk.flashhub.net
 cricketmasculine.top
 crifiiaence.top
 crimba.com
@@ -26119,6 +26120,7 @@ diplomaticbrood.top
 diplomaticfort.top
 diplomaticfutile.top
 diplomaticuranium.top
+diramodi-ralamoli.lol
 dirathostonline.ga
 dirayetdernegi.org
 direct-account-help-services.ml
@@ -33719,6 +33721,7 @@ firsatlarguncellendi.gen.tr
 firsatlargunundeyiz.com
 firsatlarharikasizlerilebirlikte.cyou
 firsatlarharikasizlerilebirlikte.xyz
+firsatlarhomest.duckdns.org
 firsatlarikacirmaanindasatinal.xyz
 firsatlarikovaladeniz.info
 firsatlarim-deniz23.net
@@ -77678,6 +77681,7 @@ sevmensdwesd.net
 sevndr-bizi-siz-harka-gorduk.xyz
 sevvalbutik.fun
 sevwebsecure.glitch.me
+sewap426322me.shop
 sewzlh.top
 seyahatsagliksigortasi.net
 seyimacidi.duckdns.org
@@ -83313,6 +83317,7 @@ switchnutrition.top
 switchpoint.top
 switmobnzaswetrak.net
 swordglamor.top
+swqlink.net
 swsfsadfas.net
 swypero.com
 swzbhd.homes
