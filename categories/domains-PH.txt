@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101143
-# Last change: 2026-08-23 13:04:24 UTC (sync mode: delta)
+# Records: 101155
+# Last change: 2026-08-23 13:47:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1685,6 +1685,7 @@
 365onlinesigorta.com
 365onlinesigortakasko.com
 369201v-coinbase.com
+3698547onlinnbsvrrkmpnyaaprmsynn.pro
 369bbea7.dsfiurb-u.shop
 36h.smartofferconnection.com
 37-148-209-114.plesk.page
@@ -4982,6 +4983,7 @@ agstosfrsatttwa.com
 agstosindiirmbnm.duckdns.org
 agstsgnlerindeyiz.duckdns.org
 agstsgunlerndepromosyon.duckdns.org
+agstsprmsyngunleri.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agusots-tkelfibru-brasdsa.store
@@ -12279,6 +12281,7 @@ bgmwell.me
 bgn-ngm.shop
 bgnbzdebuvrszd.shop
 bgnfrsataylarimiz.cfd
+bgnlerdenfrsat.duckdns.org
 bgnlr-ng-smd.shop
 bgnsnkzbrdayzszdnr.shop
 bgnsongnfrstlrkcmz.online
@@ -31395,6 +31398,7 @@ evimt0kibasvur.xyz
 evimyuvanolsun.org
 evindenbasvuru.abrdns.com
 evindenbasvuruyap.abrdns.com
+evindenhizlibasvur.misecure.com
 evindeotur.click
 evindeyiz.click
 evineyoloas.net
@@ -40406,6 +40410,7 @@ hayatglnceckglzbabaririri.click
 hayatgroup.tech
 hayatguzelseninle.store
 hayatguzl.org
+hayatifinans.com
 hayatimtakls.wtf
 hayatin-ellerine-sizlerle-ailesine-bilinen-onanir.com.tr
 hayatin-icinden-sizler-icin-geliyor.com
@@ -41393,6 +41398,7 @@ herkesinyanindayiz.com
 herkeskiralar.com
 herkeslerisever.net
 herkesokusun.online
+herkessetsahibiolsundiye.sbs
 herkestenonceal.com
 herkimerdiamondquartz.com
 herksvarddenzdesenderdegel365.click
@@ -52072,6 +52078,7 @@ kqndjrncjencrkndkejfe.com.tr
 kqtwhy.top
 kracadanda.duckdns.org
 kradefas.duckdns.org
+kraderleasnderaw.duckdns.org
 kraeakenloginrrkslofgin.webflow.io
 kragwklerdes.duckdns.org
 kraiala.blogspot.com
@@ -75698,6 +75705,7 @@ sajebut12421.wordpress.com
 sakarya54x-odexmeservis.net
 sakasuttuk.click
 sakenil.top
+sakininanma.click
 sakinlimavi.com
 sakliknt.com
 sakuracheck.net
@@ -76947,6 +76955,7 @@ selgeotelside.com
 selgeresortbeach.com
 selgeresortside.com
 selgeside.com
+selinbutikorgududulu.duckdns.org
 selindudaksd.wixsite.com
 selingroup.pw
 selinyardimlari.com
@@ -79741,6 +79750,7 @@ snitationdrepcy.top
 snksnctysnysnns.com
 snkzbrdangldksz.bond
 snkzbrdansatnalrkennrd.cfd
+snkzbrdansatnalrkennrd.homes
 snkzbrdansatnalrkennrd.lol
 snkzlerdasndsa.shop
 snkzlplrdansnnns.com
@@ -84874,6 +84884,7 @@ teb-2019basvurutr.com
 teb-basvurtr.com
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
+teb-com-tr.my-homeip.de
 teb-com.my-homeip.de
 teb-guncel-cekilis2022.net
 teb-ilekazananlar.com
@@ -90883,6 +90894,7 @@ uluyardim.com
 ulvenor.digital
 um8j3x.xdk8ax.cn
 um95mcj.cn
+umarotoklimatamir.duckdns.org
 umarotosanayisitesiklima.duckdns.org
 umbrellacriterion.top
 umbrellaonce.top
