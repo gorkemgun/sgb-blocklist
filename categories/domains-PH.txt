@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19902
-# Last change: 2026-08-23 07:49:34 UTC (sync mode: delta)
+# Records: 19905
+# Last change: 2026-08-23 08:51:03 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -1310,6 +1310,7 @@ aslssmgkw.cfd
 aslurtykndfnmanklar.cfd
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.65735677234232.sbs
+asncxbyaaasdanala.89465489421.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
 asockco.com
@@ -5706,6 +5707,7 @@ divispower.chelseasosa.com
 djflslfjflslfikrorie.blogspot.com
 djwjheued89ewo.com
 dkatilim.com
+dkis.com.tr
 dkllbi.click
 dkyatirimmenkul.com
 dlimc.click
@@ -8166,6 +8168,7 @@ hedefonmusteripaneli.com
 hedefonportfoyum.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
+hediyen--burada.online
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 heilbronner-fruehlingssymposium.de
