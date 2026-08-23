@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101170
-# Last change: 2026-08-23 16:45:29 UTC (sync mode: delta)
+# Records: 101172
+# Last change: 2026-08-23 17:37:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25959,6 +25959,7 @@ dijitalpendik.com
 dijitalreklarnencleritr.space
 dijitals.space
 dijitalsifresiz.net
+dijitalsimdi-kapinda.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.sbs
@@ -99392,6 +99393,7 @@ yeniden-sekillendirme.myonlineportal.ch
 yeniden.kemanci322.cfd
 yenidenal.info
 yenidenasdwe.co
+yenidengor.abrdns.com
 yenidengoruntule.abrdns.com
 yenidenhabercilik.blogspot.com
 yenidenistanbulx.com
