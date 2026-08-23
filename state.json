@@ -1,34 +1,34 @@
 {
   "layout": 3,
-  "last_run": "2026-08-23 08:51:03",
-  "last_full": "2026-08-22 09:45:09",
-  "last_mode": "delta",
-  "date_gte": "2026-08-23 01:49:34",
+  "last_run": "2026-08-23 09:45:32",
+  "last_full": "2026-08-23 09:45:32",
+  "last_mode": "full",
+  "date_gte": null,
   "newest_record_date": "2026-08-23 08:26:02.018435",
   "fetched": {
-    "domain": 13,
-    "url": 0,
-    "ip": 0,
-    "ip6": 0,
+    "domain": 466719,
+    "url": 6927,
+    "ip": 15275,
+    "ip6": 6,
     "ip6net": 0
   },
   "counts": {
-    "domains.txt": 50097,
+    "domains.txt": 466671,
     "urls.txt": 6927,
     "ipv4.txt": 15275,
     "ipv6.txt": 6,
     "ipv6net.txt": 0,
-    "url-list.txt": 72305,
+    "url-list.txt": 488879,
     "domains-from-urls.txt": 3305
   },
   "category_counts": {
-    "categories/domains-BP.txt": 26559,
-    "categories/domains-CA.txt": 111,
-    "categories/domains-MC.txt": 2266,
-    "categories/domains-MD.txt": 1151,
-    "categories/domains-MI.txt": 95,
-    "categories/domains-MU.txt": 11,
-    "categories/domains-PH.txt": 19905,
+    "categories/domains-BP.txt": 257450,
+    "categories/domains-CA.txt": 166,
+    "categories/domains-MC.txt": 41153,
+    "categories/domains-MD.txt": 65869,
+    "categories/domains-MI.txt": 171,
+    "categories/domains-MU.txt": 759,
+    "categories/domains-PH.txt": 101119,
     "categories/ipv4-BP.txt": 105,
     "categories/ipv4-CA.txt": 853,
     "categories/ipv4-MC.txt": 9352,
@@ -45,15 +45,23 @@
     "categories/urls-PH.txt": 272
   },
   "delta_vs_previous": {
-    "domains_added": 3,
+    "domains_added": 416574,
     "domains_removed": 0
   },
   "changed_files": [
+    "categories/domains-BP.txt",
+    "categories/domains-CA.txt",
+    "categories/domains-MC.txt",
+    "categories/domains-MD.txt",
+    "categories/domains-MI.txt",
+    "categories/domains-MU.txt",
     "categories/domains-PH.txt",
     "domains.txt",
     "url-list.txt"
   ],
-  "skipped": {},
+  "skipped": {
+    "domain": 4
+  },
   "api": "https://siberguvenlik.gov.tr/api/address/index",
   "generator": "scripts/sgb_sync.py"
 }
