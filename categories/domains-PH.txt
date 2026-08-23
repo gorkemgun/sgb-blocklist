@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101190
-# Last change: 2026-08-23 18:50:20 UTC (sync mode: delta)
+# Records: 101191
+# Last change: 2026-08-23 19:38:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -23702,6 +23702,7 @@ daranadhigh.pro
 darasgah.com
 darbeturks.online
 darbeturks.org
+darebazi-rolepara.lol
 darenfowes.pro
 daresude-roledepo.lol
 daringfollow.top
