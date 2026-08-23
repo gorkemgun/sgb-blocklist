@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257450
-# Last change: 2026-08-23 09:45:32 UTC (sync mode: full)
+# Records: 257458
+# Last change: 2026-08-23 14:42:59 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -6969,6 +6969,7 @@
 36917658237.cloud
 3696832.cloud
 369852147.cloud
+3698547onlinnbsvrrkmpnyaaprmsynn.info
 36deniz-bank-online.com
 36oarabakiralama.com
 36vergi-iade.com
@@ -106597,6 +106598,7 @@ guvenilir-otokiralama.rest
 guvenilir-otokiralama.shop
 guvenilir-sepet.com.tr
 guvenilir-sepet.online
+guvenilir-site.info
 guvenilir.shop
 guvenilir3d.xyz
 guveniliradresler.net
@@ -149509,6 +149511,8 @@ kmpnyaaabasvrrrprmsynn.info
 kmpnyaaabasvrrrprmsynn.pro
 kmpnyaaabasvuruprmsnynn.info
 kmpnyaaabasvuruprmsnynn.pro
+kmpnyaaabsvrrprmsynn134029.info
+kmpnyaaabsvrrprmsynn134029.pro
 kmpnyaaabsvrrrprmoo.click
 kmpnyaaabsvrrrprmsynnn.info
 kmpnyaaabsvrrrprmsynnn.live
@@ -151605,6 +151609,7 @@ kredi-onaylansinhemenbireysel.com.tr
 kredi-onaylansinhemenbireysel.online
 kredi-online-basvuru-platform.sbs
 kredi-online-basvurular.net
+kredi-online-hizmetleri.buzz
 kredi-online-islem.lat
 kredi-online-islem.sbs
 kredi-online-islemleri.lat
@@ -194772,6 +194777,7 @@ saglikligunler.gq
 saglikligunler.life
 saglikligunlerr.com
 saglikligunlerr.net
+sagliklikalalim.cfd
 saglikliyasam.cfd
 saglikliyasamhemen.com
 saglikliyasamicin.cfd
@@ -207640,6 +207646,7 @@ sonnnnfrstkkkmpnyabsvrr.art
 sonnnnfrstkkkmpnyabsvrr.info
 sonnnnfrstkkkmpnyabsvrr.pro
 sonnnnkmpnyaalrrremekliirpsmynnn.art
+sonnnnkmpnyaalrrremekliirpsmynnn.live
 sonnoktakta.com
 sonodak.pro
 sonofatvturk.net
@@ -227601,6 +227608,7 @@ u2yrrzlz3e.storage.googleapis.com
 u3876218327674m213864.store
 u56kps0.cn
 u5889544.xyz
+u650226.softaculous.dev
 u7qcjqc.storage.googleapis.com
 u8q3n6k4x9f2mhb7av.cfd
 u9p2x6m1z8q4.cfd

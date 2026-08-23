@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101155
-# Last change: 2026-08-23 13:47:27 UTC (sync mode: delta)
+# Records: 101160
+# Last change: 2026-08-23 14:42:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -50233,6 +50233,7 @@ kasalarsaglamtnn.net
 kasanka.net
 kasap-zamani.shop
 kasarlarbizde.xyz
+kasdefstert.duckdns.org
 kasdlaslleode.net
 kaserino.net
 kashmir-weather-info.com
@@ -58776,6 +58777,7 @@ mobilonlinebasvurugiris.ml
 mobilonlinedogrulavarlikservice.online
 mobilsafariozel.cloud
 mobilsepetlerimservis.online
+mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
 mobilservis-43.sbs
 mobilservis-44.sbs
@@ -61331,6 +61333,7 @@ nfustabugun.website
 nfusubilgi.net
 nfuusdaire.net
 nfviismmrenvdevsu.net
+nfxfxfslemleriniz.web.app
 ngagementtre.top
 ngbaileys.com
 ngbvtru.shop
@@ -62335,6 +62338,7 @@ nvirand.click
 nvirandevuals.com
 nvirandevucunuz.online
 nvirandevulariniz.online
+nvirandevularinizz.online
 nvirandevumal.net
 nvirandevumklklsdas.net
 nvirandevuservisii.com
@@ -83297,6 +83301,7 @@ swirjss.top
 swiscode.com
 swishleaguein.com
 swissbsorg-wallet.webflow.io
+switch.my-homeip.de
 switchjargon.top
 switchmetaphorial.top
 switchnutrition.top
