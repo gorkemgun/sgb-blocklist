@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19892
-# Last change: 2026-08-23 02:01:36 UTC (sync mode: delta)
+# Records: 19902
+# Last change: 2026-08-23 07:49:34 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -773,6 +773,7 @@ agl11.com
 agoda-live.live
 agstosfrsatttwa.com
 agstosindiirmbnm.duckdns.org
+agstsgnlerindeyiz.duckdns.org
 agstsgunlerndepromosyon.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
@@ -2142,6 +2143,7 @@ bilopiddsade-cere.xyz
 bilsesavasiyorumdahanelerle.sbs
 bilyoneri.com
 binanc.loadportal.site
+binance-sign-in.vercel.app
 binancecekilisi.com
 binancemasakdogrulamaactivasyon.duckdns.org
 binancetrgiris002.duckdns.org
@@ -2716,6 +2718,7 @@ brybrdantklynsknzs.mooo.com
 bryntaris.net
 bryqelun.cyou
 bsbvrrrsonfffrstlrkmpnyaa147859.info
+bsbvrrrsonfffrstlrkmpnyaa147859.pro
 bseabee.com
 bseazen.com
 bsgfij.cc
@@ -3379,6 +3382,7 @@ cekilisci.store
 cekilise-katil.online
 cekilise1haftadandahazkaldibasvurunuyap.urlhedge.online
 cekilise1haftadandahzazkaldibasvurunuyap.urlhedge.online
+cekilishemenburada.online
 cekilisi--paribu.com
 cekilisi-paribu.co
 cekilisi-paribu.com
@@ -7104,6 +7108,7 @@ gelisimbasligi.com
 gelisimhedefi.com
 gelisimyolculuk.com
 gelistirilmisarayuz.abrdns.com
+geliyorevet.click
 gelseydmdunyayasendegelcan45.info
 gelsfkwfgww.click
 gelsinkapina.co
@@ -8008,6 +8013,7 @@ halkbnkmobilaktif.duckdns.org
 halkbnkmobilduyuru.duckdns.org
 halkdijital.help
 halkdijital.wiki
+halkfirsat.shop
 halkicanocan.co
 halkimizlabasbas.sbs
 halkinsigortasi.com
@@ -10387,6 +10393,7 @@ kralgellerdens.duckdns.org
 kralgeridonduwsynxrandevuburadanalinir.com
 kralibiziz.net
 kraterart.com.victororbis.com
+kratoslep.duckdns.org
 krayllrihgsyle.cfd
 krcailearlkayi.cfd
 krcaockzmnibrda.cfd
@@ -15018,6 +15025,7 @@ sandtoneindhovencentre.world
 sandvoyage.com
 sanjingtoy.com
 sanolin.com
+sans-hemenburada.online
 santaskagsaen.online
 santysnewy.buzz
 sanuzu.cn
@@ -16598,6 +16606,7 @@ t9b5r2x8m6q1n0y7p4v3w2z5.com.tr
 t9x1q6m4z8w3.sbs
 taatas.com
 tabble.site
+tabksendeartkkatlherkesburdagel25.click
 tablemint.biz
 tablo-edilgen-deger.myonlineportal.ch
 tacdsardatopsznolsun58.click
@@ -16831,6 +16840,7 @@ teachpro.icu
 teampulsynk.team
 teapot-sale.xyz
 teaspiritnet.com
+teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 tebbasvurusayfa.my-homeip.de
 tebbmb.cfd
