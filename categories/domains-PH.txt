@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101191
-# Last change: 2026-08-23 19:38:44 UTC (sync mode: delta)
+# Records: 101194
+# Last change: 2026-08-23 20:42:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25520,6 +25520,7 @@ dfsrtd.help
 dfssfk.net
 dfuklwsxdymvruwxgplvdyqazxnyibfrplqxc7g82sfbukjxwry.glitch.me
 dgdfgksjdfas.net
+dgellolardaws.duckdns.org
 dgen33tleaccuse.top
 dgfasdfascqw.click
 dgicomunication.com
@@ -33794,6 +33795,7 @@ firsatmarkettemmuz.com.tr
 firsatmarkt.net
 firsatmayiskatilimbasvurusuicintikla.beauty
 firsatmerkezi.cfd
+firsatmerkezi.sbs
 firsatmerkezimindirimonline.com
 firsatmerkeziqx.sbs
 firsatnokta.xyz
@@ -39566,6 +39568,7 @@ haberler12348.shop
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
+haberler1425123.shop
 haberler1436542.sbs
 haberler14534925.shop
 haberler1542334.shop
