@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101160
-# Last change: 2026-08-23 14:42:59 UTC (sync mode: delta)
+# Records: 101165
+# Last change: 2026-08-23 15:40:14 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17078,6 +17078,7 @@ car-dbasvurukampanyafirsati.tech
 car.kocfilo.com.tr
 car1isleft.com
 carairport.cloud
+caramodi-jalapara.lol
 carbohydrateeaster.top
 carbohydrateintervention.top
 carbonellsrl.com.ar
@@ -33598,6 +33599,7 @@ firsatburadaonlinemarket.com.tr
 firsatcampanyhediyebasvur.net
 firsatcekilisinekatilhemenkazan.net
 firsatci.akillisigortaci.com.tr
+firsatcilarcepte.online
 firsatcplatformu98547.net
 firsatcssarss.com
 firsatdagitimhediyeleriparibucom-tr.tk
@@ -33669,6 +33671,7 @@ firsatkataloglari.net
 firsatkatkat.pro
 firsatklima-kampanya.site
 firsatkmpanyasiszlereozelburada.tech
+firsatkutusu.sbs
 firsatkuyrugular.com
 firsatlakampanyam.net
 firsatlar-1-0-1.com.tr
@@ -34169,6 +34172,7 @@ flrsat-buradageldi.shop
 flrsat-klimakampanya.site
 flrsat-online-kapida.name.tr
 flrsatagustos.com
+flrsatdiyari.com
 flrsathabersizhelesenkimsindebanauat.world
 flrsathadiolmazolsundaolmadandad.store
 flrsathadisenbeniettinyasenkazanma.world
@@ -45828,6 +45832,7 @@ indirimlitemuzayii.xyz
 indirimmediamarkt.com
 indirimpaketi.com.tr
 indirimrush.xyz
+indirimsepeti.sbs
 indirimsepetii.com
 indirimsepetinde.com
 indirimsizcikmayin.xyz
