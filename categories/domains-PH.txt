@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101172
-# Last change: 2026-08-23 17:37:52 UTC (sync mode: delta)
+# Records: 101190
+# Last change: 2026-08-23 18:50:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6075,6 +6075,7 @@ aldnaldn101frsatlar.hopto.org
 aldnaldnhftaninyildizlri.online
 aldnaldnhftaninyildizlri.shop
 aldnaldnkcirma.com
+aldnaldnucuzfirsaatlr.com
 aldnfrlsatlariyaa1o1.duckdns.org
 aldnkazanhepkazan.duckdns.org
 aldnnindrmll-firsttlrszllerle.net
@@ -11525,6 +11526,7 @@ baykartecj.com
 baykartecjh.com
 baykartecxh.com
 baykarteech.com
+baykarteknoloji.info
 baykarter.space
 baykarterch.com
 baykartewch.com
@@ -14551,6 +14553,7 @@ bodyprogram.top
 bodysvkmxczs.net
 boendaloop.store
 bofaturkiye.co
+bofigo-sinirlisayidasatista.sbs
 bohmuvar.sbs
 bohq.site
 boilabruptmendation.top
@@ -22219,6 +22222,7 @@ corenavento.pro
 corenext.site
 coreos.rest
 coreoven.top
+corepala-jalesude.lol
 corephylli.pro
 coreunit.site
 corevanter.info
@@ -26935,6 +26939,7 @@ domenight.top
 domepoised.top
 domesticplausible.top
 domestictranscend.top
+domestlerkest.duckdns.org
 dominancecarving.top
 dominancedough.top
 dominantpremium.top
@@ -35738,6 +35743,7 @@ gasplunar.top
 gasprein.top
 gaspsport.top
 gasroom.top
+gassabahtokmebole.duckdns.org
 gasswap.top
 gassynergy.com
 gasteheimauwitschcloudz.com
@@ -40269,6 +40275,7 @@ hasletvakfi.store
 haslire.net
 hasmnsamhshansanmasmhsan73.space
 hasnataherherh.uk
+hasnatamehe.uk
 hasntahizfafamar.cfd
 hasoraselinizas.net
 hasrartaraasn.com
@@ -41017,6 +41024,7 @@ helytra.com
 hemeleterfesa.duckdns.org
 hememislemnkta.net
 hememnssnltamsa.net
+hemen--hediyeburada.online
 hemen-al-simdi.com
 hemen-alabilirsin.gtxsa-pril.pw
 hemen-aninda.cards
@@ -41024,6 +41032,7 @@ hemen-biradan.b-cdns.ru.com
 hemen-birkacdakika.guru
 hemen-firsati-yakala-tr.online
 hemen-girisbasvuruacikdenizony.click
+hemen-hediye-burada.online
 hemen-ilan.com
 hemen-ilanim.com
 hemen-indirimi-kacirma-tr.online
@@ -41122,6 +41131,9 @@ hemenhaber.club
 hemenhallediyoruz.click
 hemenhallet.net
 hemenhalletimhizli.online
+hemenhediye--burada.online
+hemenhediye-burada.online
+hemenhediye.online
 hemenhediyeburada.online
 hemenhizliislemn.net
 hemeniadenial.online
@@ -55031,6 +55043,7 @@ lyricdegrade.top
 lyricinspire.com
 lyricpath.com
 lyricwarrant.top
+lysr-tp-gr.my-homeip.de
 lywax.online
 lywipya1.click
 lyxgonu.website
@@ -60256,6 +60269,7 @@ nadirhaber.online
 nadirhaber.site
 nadirhaber.website
 nae1o1.store
+naeznaemloda.duckdns.org
 nafnaklerqeawas.net
 nafselaerasa.net
 naftolinne.com
@@ -71686,6 +71700,7 @@ randevunvu.xyz
 randevuonay.com
 randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
+randevusaatiniolustur.duckdns.org
 randevusalisler.com
 randevusistem.com
 randevusorgulamamhrsonline.duckdns.org
@@ -77096,6 +77111,7 @@ sendegelal.uk
 sendegelbasvurkazanpromosyon75.click
 sendegelbenimlegrntyee.net
 sendegelbizimle.com
+sendegelcabukbasvursondak34.click
 sendegeldikampleri.com
 sendegeldunyadan.com
 sendegelgel.net
@@ -79393,6 +79409,7 @@ skmarket-alisverisi.com
 skmarket-alisverisim.com
 skmarket-alisverisin.com
 skmarkleter.com
+skmarkltler.com
 skmarlktlr.com
 skmarltkler.com
 skmlrketler.com
@@ -82080,6 +82097,7 @@ stivaleno.pro
 stiwellberlingose-idente.com
 stiye-aktacrici--gvuenli-hzli.sbs
 stiye-hizli--yonlndirme.sbs
+stiye-yolnlendirme.com
 stiye-yonlendiirci.com
 stk-sn-kpdaylbasi.online
 stk-snsntkfrst.online
