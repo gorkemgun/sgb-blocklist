@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101119
-# Last change: 2026-08-23 09:45:32 UTC (sync mode: full)
+# Records: 101125
+# Last change: 2026-08-23 10:43:50 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25955,6 +25955,7 @@ dijitals.space
 dijitalsifresiz.net
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kapinda.sbs
+dijitalsiparisler-kapinda.sbs
 dijitalsitemizs.site
 dijitalsorgu.org
 dijitalsube-acikdeniz-com.tk
@@ -36121,6 +36122,7 @@ gelecekdernegi.com
 gelecekegitimvakfi.org
 gelecekgunlugu.com
 gelecekodakli.online
+gelecekongorusu.misecure.com
 geleceksanati.online
 geleceksengelartik.net
 geleceksizinleiyi.site
@@ -41368,6 +41370,7 @@ herddspnl.com
 herdestekbirfidan.com
 herdestekbirfidann.com
 heregelerdes.duckdns.org
+hergetens.duckdns.org
 hergetxdeedxx.duckdns.org
 hergirisbirdestek.com
 hergunfirsatihemenglobalbance.tech
@@ -51379,6 +51382,7 @@ klmtresrgulamasuat.firebaseapp.com
 klmtresrgulamasuat.web.app
 klntkltnkltnklt.net
 klofrox.net
+klometresrgulamacomptt.duckdns.org
 klopastasv.vercel.app
 klordiktincsglour.net
 klorepatvergsistm.net
@@ -79231,6 +79235,7 @@ sizinle-biz-burada-mutluyuz-son.com
 sizinlevakifguzel2021subesi.com
 sizinlevakifguzel2021subesinde.com
 sizinleyizzz.sbs
+sizinleyizzz2.sbs
 sizinumreniz.com
 sizkimsinizyaaa.app
 sizlebasladik.net
@@ -91779,6 +91784,7 @@ uypsorgum.online
 uypsorgum.xyz
 uysalsigorta.net
 uyumluteknolojikidnrimler.com.tr
+uzaktanhemen.abrdns.com
 uzaktankayit.abrdns.com
 uzaktantelefontakip.com
 uzananelvakfi.com
