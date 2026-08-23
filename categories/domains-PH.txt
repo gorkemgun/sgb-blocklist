@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101125
-# Last change: 2026-08-23 10:43:50 UTC (sync mode: delta)
+# Records: 101143
+# Last change: 2026-08-23 13:04:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -15339,6 +15339,7 @@ brit-hotel-fr.com
 britay.store
 britstep.digital
 brivanahubs.store
+brivaxo7nqel2t9k.cfd
 brizolance.com
 brkosalislmlwrqx.com
 brl-akt.shop
@@ -41108,6 +41109,7 @@ hemenhaber.club
 hemenhallediyoruz.click
 hemenhallet.net
 hemenhalletimhizli.online
+hemenhediyeburada.online
 hemenhizliislemn.net
 hemeniadenial.online
 hemeniadeniz-geldi.com
@@ -41162,6 +41164,7 @@ hemenozelbasvurubinnce.tech
 hemenpay.com
 hemenpayment.com
 hemenrandvu.com
+hemens-naosnuc.net
 hemensatinalgunlukfirsatlar.xyz
 hemensepet.com.tr
 hemensepetekle.click
@@ -42332,6 +42335,7 @@ hizliizmirimkart.net
 hizlikampanyabasvurusu.online
 hizlikantemsi-8f6890bc61a1.herokuapp.com
 hizlikapida.com
+hizlikapimda.com
 hizlikargolar.com
 hizlikaydetseniz.com
 hizlikaydol.online
@@ -42587,6 +42591,7 @@ hmansahsmnashamnsahmnsahmashns99.space
 hmbgovtr.info
 hmbmaliye.org
 hmdnmfdd.com
+hmeensin-snouc.net
 hmeetstlrerasl.top
 hmendstekodemesbsvrruuyps.online
 hmendstekodemesbsvruyap.online
@@ -50052,6 +50057,7 @@ karacatc.com
 karacatcb.cfd
 karacatr.homes
 karacatr.shop
+karacatrhome.shop
 karacatronline.shop
 karacatrs.homes
 karacatrs.shop
@@ -50556,6 +50562,7 @@ kefilsizbasvurudepartmani.com
 kefilsizbasvuruplatformu.com
 kefmsegkw.sbs
 kefrayornix.com
+kefzun6qor2vax8m.cfd
 kehnntttkrtdlm.net
 kehribar.site
 keint.net
@@ -50638,6 +50645,7 @@ kensotnahsot.net
 kentabnkart.net
 kentburun.net
 kentcimkart.net
+kentermen.duckdns.org
 kentiminodmesi.net
 kentimkartiniyuklemeler.com
 kentimkartyukledim.net
@@ -52148,6 +52156,7 @@ kredi-basvuru-online.click
 kredi-basvuru-online.club
 kredi-basvuru-online.rest
 kredi-basvuru-portali.sbs
+kredi-basvuru-sistemi.click
 kredi-basvuru-sistemi.net
 kredi-basvurusu-online.sbs
 kredi-bbva.com.tr
@@ -52708,6 +52717,7 @@ kwtyourssheadsgrnt.net
 kx3nf6.cn
 kxapximdaxinsdrmsxlm.click
 kxatql.top
+kxfqznpvtrmlydch.sbs
 kxirola.com
 kxjhp.icu
 kxlkentkrtbiz.net
@@ -56108,6 +56118,7 @@ mansionmok.top
 mansiontrue.top
 manstrailskicm.wixsite.com
 mantangle.top
+mantardunyasiczxx.duckdns.org
 mantarlezzet.pro
 mantikli.club
 mantrality.com
@@ -70708,6 +70719,7 @@ pujakumari.duckdns.org
 pullcoup.pics
 pullsurround.top
 pulpsenior.top
+pulse-g.my-homeip.de
 pulseadnetwork.com
 pulsebasap.pro
 pulsecelebrity.top
@@ -81276,6 +81288,7 @@ sqortacmenet.com.tr
 sqortacmenet.xyz
 sqortaladimsir.xyz
 sqortaladimsirr.com.tr
+sqslink.net
 sqti510.cn
 squadcontemplative.top
 squadcounteract.top
@@ -84239,6 +84252,7 @@ tamizgunlersizinle.site
 tamodemem.net
 tamoislem.app
 tampilanwebfuckboys.com
+tamponculokmandeneme.duckdns.org
 tamponuyerebastirdim.click
 tamprndv.pages.dev
 tamsdasdsada.com
@@ -84860,6 +84874,7 @@ teb-2019basvurutr.com
 teb-basvurtr.com
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
+teb-com.my-homeip.de
 teb-guncel-cekilis2022.net
 teb-ilekazananlar.com
 teb-son-basvurutr.com
@@ -98593,6 +98608,7 @@ xn--zmskrrxt-skb.net
 xn--zubkylemk-upb.net
 xn--zxzmrykxle-wub.net
 xn-xx-aidat-iade-xx.wuaze.com
+xnmqzrtvpkjldwfh.sbs
 xnvirandevuall.net
 xnvirandxvuall.net
 xnvxiqwnpass.net
@@ -100374,6 +100390,7 @@ z1q7x4v9k2n8.cfd
 z1ttrhf.cfd
 z2ratll.cfd
 z3ratvv.cfd
+z4m8p2x7k1n9v5q3r6t0.sbs
 z4q7k1m8v3p9.lol
 z4uk0d.cn
 z4w7q2m9k6p1.cfd
@@ -100985,6 +101002,7 @@ zpjjrt.buzz
 zpvs9xn.xdk8ax.cn
 zqkirkkatharine.cn
 zqkobb.cn
+zqnjxkvlmprtdwhc.sbs
 zr-tr.my-homeip.com
 zraatbnktr.online
 zraatbreysekred.online
