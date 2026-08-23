@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101194
-# Last change: 2026-08-23 20:42:23 UTC (sync mode: delta)
+# Records: 101196
+# Last change: 2026-08-23 21:38:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -22209,6 +22209,7 @@ cordisubsidize.top
 cordmetaphor.top
 coreanalysis.bond
 coreaspro.com
+corebazi-jalenapo.lol
 corebitlab.com
 corects.shop
 corecuttingmasters.com
@@ -25029,6 +25030,7 @@ derailoar.top
 derariowag.com
 deravento.top
 derdahakknd.click
+derdaloeasdwa.duckdns.org
 derdeadesgaf.duckdns.org
 derdimedermansindaglar-p-t-t-a-v-m.shop
 derdoosman.online
