@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50083
-# Last change: 2026-08-22 22:41:22 UTC (sync mode: delta)
+# Records: 50084
+# Last change: 2026-08-23 02:01:36 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -19447,6 +19447,7 @@ haberler123.shop
 haberler1230149.shop
 haberler12348.shop
 haberler123531234.shop
+haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
 haberler141153.shop
