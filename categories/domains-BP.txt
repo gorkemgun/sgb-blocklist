@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257471
-# Last change: 2026-08-24 07:31:07 UTC (sync mode: delta)
+# Records: 257481
+# Last change: 2026-08-24 09:07:11 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -17158,6 +17158,7 @@ adshostube.click
 adsjaccksjadcksajda.shop
 adskillz.com.au
 adskiwnsia.shop
+adslcasldasklx123x12.shop
 adslkampanya.com
 adsnudsaasd.net
 adspherehub.online
@@ -28209,6 +28210,7 @@ asdcsdvcsdv.cc.dvrlists.com
 asdcsldcksajxk123kjxsadas.shop
 asdcvbnm.sbs
 asdcvewdayuzbir.hopto.org
+asddackl1x31312x1231.shop
 asddafwgafadafasaas.online
 asdddlvrt-dvrt.com
 asddfs333.nicepage.io
@@ -38465,6 +38467,7 @@ bilimvedusunce.online
 bilimvesanatincokyuzlulugu.xyz
 bilimveteknolojigerceginipaylasanplatform.xyz
 bilinance.site
+bilinclituketim.abrdns.com
 bilindigi-gibi-gorup-hep-kazanicaksiniz-emin-ol.com
 bilindigi-sevgiden-uzre-hep-yasandigi.com
 bilindigi-uzere-artik-durmadan-gorun-gidin.com
@@ -56445,6 +56448,7 @@ cebteteb.com
 cebteteb.my-homeip.net
 cebteteb.myonlineportal.de
 cebtetebi.myonlineportal.ch
+cebtetebli.my-homeip.de
 cebteteblim.myonlineportal.ch
 cebtetebonline.com
 cebtetebonusu.com
@@ -57579,6 +57583,7 @@ ceptemobilsubeniz.site
 ceptemobiluygulama.com
 cepten-basvurum.site
 cepten-girisvakifmobilbireysel.ml
+cepten-mobile-basvur.myonlineportal.de
 cepten-mobilsubemvakifbank.ml
 cepten-tebinfirsatlari.com
 cepten-ziraat-bankasi-tr.co
@@ -96514,6 +96519,7 @@ garanislem.click
 garanislemler.click
 garanit.com
 garanitbbvasononaybasvuruplayform.duckdns.org
+garanitide-firsatlar.myonlineportal.de
 garanitili.com
 garanitti.com
 garanittmcebimdeaktif-basvuru.vercel.app
@@ -107074,6 +107080,7 @@ guvenlialisverisonline.com
 guvenlialisverisparamguvende.com
 guvenlialisverisparamguvende.xyz
 guvenlialisverispttavm.site
+guvenlialisverispttmarket.online
 guvenlialisverissahibinden.cf
 guvenlialisverissahibinden.com.tr
 guvenlialisverissiteleri.online
@@ -161382,6 +161389,7 @@ mobilbasvurumartgunlerim.co.vu
 mobilbasvurumartgunlerimden.co.vu
 mobilbasvurumm.site
 mobilbasvurun.site
+mobilbasvurunuz.myonlineportal.de
 mobilbasvuruonay.best
 mobilbasvuruonay.click
 mobilbasvuruonayformuintsube.click
@@ -162834,6 +162842,7 @@ mobilsubecepde.com
 mobilsubecepteteb.com
 mobilsubecepteteb.tk
 mobilsubecetelemteb.co.vu
+mobilsubede.my-homeip.de
 mobilsubedeiadebireysel.com
 mobilsubeden.sbs
 mobilsubedeniz.shop
@@ -195138,6 +195147,7 @@ sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenli-odemelerim.pro
 sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.guvenlisepetler-hizmet.online
+sahibinden-get.hizlikapimda.com
 sahibinden-get.hizmetl1.com
 sahibinden-get.ilandetay-jet.com
 sahibinden-get.ilanlarimiz.com.pl

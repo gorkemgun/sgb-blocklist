@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101214
-# Last change: 2026-08-24 07:31:07 UTC (sync mode: delta)
+# Records: 101242
+# Last change: 2026-08-24 09:07:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9674,6 +9674,7 @@ avisaninda.com.tr
 avisaracfilosu.site
 avisaracimibul.com
 avisarackilaramatr.com.tr
+avisarackiralaama.com
 avisaraclar.site
 avisaraclar724.online
 avisaraclari724.online
@@ -10834,6 +10835,8 @@ basvur-bnturkey.space
 basvur-hemenhizliaidatiade.com
 basvur-kredinizkuvytbasvursupriz.com
 basvur-saglikgovtr.tk
+basvur-teb-cep.myonlineportal.de
+basvur-tebcep.myonlineportal.de
 basvur-toki.com
 basvur.3-77-235-143.plesk.page
 basvur.acikdeniz.denizbank.4-231-237-0.plesk.page
@@ -11077,6 +11080,7 @@ basvurunuyap.sbs
 basvurunuyaphemen.site
 basvurunuyaphemen2024.cloud
 basvurunuyapodulukazanmafirsatiseasypointwild.net
+basvurunuz-cebte.myonlineportal.de
 basvurunuz-turkiyegovtr.com
 basvurunuzevllik.com
 basvuruoblineozelonatrbinance.strangled.net
@@ -17746,6 +17750,7 @@ cebinize-uygun-indirimleeer-burada.com.tr
 cebinizerenkkatacakfsatlar.xyz
 cebinizi-dusunen-hayat-dolu-anlar-burada.com.tr
 cebteteb.my-homeip.de
+cebtetebli.myonlineportal.at
 cecenhamit.shop
 ceciudetain.top
 cedarcreeklabradoodles.com
@@ -25839,6 +25844,7 @@ dijital-mobiluyelikks.ml
 dijital-online.website
 dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
+dijital-simdikapinda.sbs
 dijital-sube.dev
 dijital-subesizgiris.net
 dijital-vkf.com
@@ -30910,6 +30916,7 @@ esube-panel-girismusteri2022.xyz
 esube-ptt-govtr.com
 esube-referans.com
 esube-t-e-b-ceptebireysel.com
+esube-teb-cepteteb.myonlineportal.de
 esube-teraportfoy.com
 esube-vaktdgtal-subemiz.xyz
 esube.bmd-grup.com
@@ -36512,6 +36519,7 @@ get.urunsahibinden.com
 get2xcrypt.com
 get3ds-safe.info
 getalisveris.com
+getalisveris.online
 getalsat.com
 getarvex.store
 getarvion.site
@@ -39055,6 +39063,7 @@ guvenlisigortala.com.tr
 guvenlisigortan.com.tr
 guvenlisiparis-tr.com
 guvenlisiparis.click
+guvenlisiparisim.com
 guvenlisiparislerin.com
 guvenlisiparisleriniz.com
 guvenliticaret-prmguvende.shop
@@ -40844,6 +40853,7 @@ hediyelerledoluprb.com
 hediyelersizde.com
 hediyeliksepetim.org
 hediyen--burada.online
+hediyen-burada.online
 hediyenet.tk
 hediyenikapcheckbasvurum.net
 hediyenikaptodaykampanya.net
@@ -41036,6 +41046,7 @@ helytra.com
 hemeleterfesa.duckdns.org
 hememislemnkta.net
 hememnssnltamsa.net
+hemen--hediye-burada.online
 hemen--hediyeburada.online
 hemen-al-simdi.com
 hemen-alabilirsin.gtxsa-pril.pw
@@ -41044,6 +41055,7 @@ hemen-biradan.b-cdns.ru.com
 hemen-birkacdakika.guru
 hemen-firsati-yakala-tr.online
 hemen-girisbasvuruacikdenizony.click
+hemen-hediye--burada.online
 hemen-hediye-burada.online
 hemen-ilan.com
 hemen-ilanim.com
@@ -41425,6 +41437,7 @@ herkese-mutluluk-getiren-haberler-surekli-burada.com
 herkesedestekolalim.com
 herkesepandemi.club
 herkeseyardimvar.com
+herkesfirsatibulsun.sbs
 herkesinfirsaturunleri.xyz
 herkesinyanindayiz.com
 herkeskiralar.com
@@ -44809,6 +44822,7 @@ ile-alisveris.com.tr
 ile-alisverisim-ode.com
 ile-alisverislerini-tamamlama.com
 ile-devam.com.tr
+ile-e-sepet.com.tr
 ile-e-sepetler.com.tr
 ile-firsatli-ilan.com
 ile-guvende-islemini-yap.com
@@ -46711,6 +46725,7 @@ internet-ozel.online
 internet-paketleri.org
 internet-satis.club
 internet-sinirsizkampanya.com
+internet-teb-entry.my-homeip.de
 internet-telekom.com
 internet-vodafonered.com
 internet-web-akduyuru-islemler.cloud
@@ -46761,6 +46776,7 @@ internetsube-vkf-kampanyalarn.us
 internetsube-yapikredicomtr.rf.gd
 internetsubesi-akmobil.jumpingcrab.com
 internetsubesi-ingbank-tr.ph
+internetsubesi-qnb-com-tr.my-homeip.de
 internetsubesi.11kasimdakfirsatim.online
 internetsubesi.online
 internetsubesigiris1.com
@@ -54396,6 +54412,7 @@ logon-ledgar.webflow.io
 logon-trzor-auth.webflow.io
 logremngerb.info
 logrenisie.xyz
+logsuzlarsystem.store
 logticalcondence.top
 logunledgar-live.webflow.io
 logunz-ledgarlive.webflow.io
@@ -58587,6 +58604,7 @@ mobil-bireysel-kredi.life
 mobil-carrefouresa.vercel.app
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
+mobil-cepte.myonlineportal.de
 mobil-deniz-com-esube.duckdns.org
 mobil-deniz-com-promossyon-giris.duckdns.org
 mobil-deniz-com-promosyonum-cepte.loseyourip.com
@@ -58624,6 +58642,7 @@ mobil-paribu.net
 mobil-sahibinden.elektronik-alisveris.com.tr
 mobil-sgkk.tk
 mobil-subelerim.com
+mobil-tepden-basvur.myonlineportal.de
 mobil-tr-ilanlarim.com
 mobil-tradresi.live
 mobil.acikdeniz.denizbank.4-231-237-0.plesk.page
@@ -58654,6 +58673,7 @@ mobilcepte.com.tr
 mobilde-denizbankacikhediye.com
 mobilde-sube.com
 mobildemuhtesemiadeler.app
+mobilden-basvur.myonlineportal.de
 mobilden.myonlineportal.de
 mobildenixzbasvurummxv2.com
 mobildeniz-acikdeniz.life
@@ -66158,6 +66178,7 @@ paribu-sponsorlu-cekils.online
 paribu-sponsorlu.online
 paribu-sponsorlucekilis.live
 paribu-sponsorlucekilisleri.online
+paribu-sponsorlucekils.online
 paribu-sponsorlugunda-cekilis.online
 paribu-sponsorlugunda-cekilisi.online
 paribu-sponsorlugunda-cekils.online
@@ -66920,13 +66941,17 @@ pazarama.bireyselsatisin.com.tr
 pazarama.guvenceonay.com.tr
 pazarama.guvenliodemeonay.com
 pazarama.guvenlionayodeme.com
+pazarama.guvenlisiparisim.com
 pazarama.hemenislemler.com
+pazarama.hizlikapimda.com
 pazarama.ilan-havale.com
+pazarama.ilanda-sepetim-1099.com
 pazarama.islemcepte.com
 pazarama.magazada-online.com
 pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
 pazarama.satiskontrol.com
+pazarama.siparispanelim.com
 pazaramabireyselsatis.online
 pazaramakapinda.com
 pazaramatg.duckdns.org
@@ -84938,6 +84963,7 @@ teatrsats.ru
 teaxte.pw
 teb-2019basvurutr.com
 teb-basvurtr.com
+teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
@@ -85069,6 +85095,7 @@ tecnorix.com
 tedarigin-guvenlisi.com
 tedarik.works
 tedarikci-onayli.com
+tedbanibuni.duckdns.org
 tedbundy1312.online
 tediousfuse.top
 tediousprogram.top
@@ -87799,6 +87826,7 @@ tr-sokraca.shop
 tr-sorgu.site
 tr-sorguportal-basvurupaributeknolojisi-com.tk
 tr-subesi.site
+tr-teb-com.my-homeip.de
 tr-tekoaos.cc
 tr-toki-basvuru-formu.com
 tr-tpao.com.tr
