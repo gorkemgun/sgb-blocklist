@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101319
-# Last change: 2026-08-24 21:46:32 UTC (sync mode: delta)
+# Records: 101321
+# Last change: 2026-08-24 22:46:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1316,6 +1316,7 @@
 24512512.work
 24515-2525.xyz
 24523512.xyz
+245891251.sbs
 24612-20114.xyz
 24612-yara.click
 24612-yara.xyz
@@ -58936,6 +58937,7 @@ mobilweb-teknolojidagitimsorgulama-com.tk
 mobilxv2girsxv1gibcgovtr.fun
 mobilxv2girsxvlgibcgovtr.site
 mobilxxiademgovv1v1tr.live
+mobilyamerkezi.shop
 mobilyamerkezitr.shop
 mobilyapikredigirisi.com
 mobjldenizim.net
