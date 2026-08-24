@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101297
-# Last change: 2026-08-24 17:49:22 UTC (sync mode: delta)
+# Records: 101304
+# Last change: 2026-08-24 19:02:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12108,6 +12108,7 @@ bepest.top
 bepostby.top
 bepviews.com
 berabergelin.net
+beraresortalanya.com
 berat-vakfi.com
 beratcimarket.online
 beratification.top
@@ -39601,6 +39602,7 @@ haberler.sizde.com.akbadonerd.click
 haberler.today
 haberler112233.shop
 haberler11278945.shop
+haberler12342.shop
 haberler12348.shop
 haberler1278945.shop
 haberler1283432.shop
@@ -58887,6 +58889,7 @@ mobilservisler-49.sbs
 mobilservisler-51.sbs
 mobilservisler-53.sbs
 mobilservisler-54.sbs
+mobilservisler-55.sbs
 mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
@@ -70928,6 +70931,7 @@ purto-port-id8245.world
 push21sing.top
 pushehotel.world
 pushlabs.site
+pusulafondanismanlik.com
 pusulaportfoymenkulas.com
 pusulaportfoyyonetimias.com
 putamendment.top
@@ -71983,6 +71987,7 @@ rcitecta.com
 rclzcib.cn
 rctprklariburalamuayne.net
 rctqty.top
+rd1kdekdkde.com
 rddvlvt-rvt.com
 rdecfinb.com
 rdgikh.shop
@@ -77204,6 +77209,7 @@ sendefirsatalmadangitme.com.tr
 sendegelal.uk
 sendegelbasvurkazanpromosyon75.click
 sendegelbenimlegrntyee.net
+sendegelbesendegelartkyap52.click
 sendegelbizimle.com
 sendegelcabukbasvursondak34.click
 sendegeldikampleri.com
@@ -86992,6 +86998,7 @@ togghizlibasvuru.sbs
 togghizlikayit.com
 togghizlisatis.cfd
 toggkazan.com
+toggkredim.net
 toggodeme.online
 toggonkayit.com.tr
 toggonsatis.com.tr
