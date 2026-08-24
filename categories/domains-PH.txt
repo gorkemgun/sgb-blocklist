@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101292
-# Last change: 2026-08-24 16:57:13 UTC (sync mode: delta)
+# Records: 101297
+# Last change: 2026-08-24 17:49:22 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9831,6 +9831,7 @@ avscarrent.genel-merkez.com.tr
 avscarrental.net
 avsfilo.online
 avsfilocar.org
+avsfilokurumsal.com
 avsfilorental.com
 avsglobalkiralama.xyz
 avskampanya.acente1.com.tr
@@ -17917,6 +17918,7 @@ cepiad-epari-bu.com
 cepismtannd.top
 cepkotnroykleme.net
 cepnumaratasima.com
+ceppptesokklarli.online
 cepsube.misecure.com
 cepsubelerim.com
 cepsubem.com.tr
@@ -40888,6 +40890,7 @@ heelclamp.top
 heelcomplimentary.top
 heeldetergent.top
 heelsolicitor.top
+heemenisn-sonuc.net
 hefeelfeguystr.duckdns.org
 hefelfeguystr.duckdns.org
 hegesecim.com
@@ -41237,6 +41240,7 @@ hemens-naosnuc.net
 hemensatinalgunlukfirsatlar.xyz
 hemensepet.com.tr
 hemensepetekle.click
+hemensielm-sonuc.net
 hemensielmkntasi.net
 hemensielmnokta-islnakt.net
 hemensigorta.net.tr
@@ -56373,6 +56377,7 @@ marketaktuelsip.com
 marketalisveris21.xyz
 marketalisverisi.online
 marketalisverisikapinizagelsinn.online
+marketalisverislerimizucuzlugua101.duckdns.org
 marketapron.top
 marketbasketcenter.shop
 marketcanvas.shop
