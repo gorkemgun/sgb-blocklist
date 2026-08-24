@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101206
-# Last change: 2026-08-24 05:55:50 UTC (sync mode: delta)
+# Records: 101214
+# Last change: 2026-08-24 07:31:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11825,6 +11825,7 @@ bedavaoyun.online
 bedavapanel.com
 bedavapanel.net
 bedavapanel.org
+bedavapanel2.site
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.org
 bedavasorgu.site
@@ -44744,6 +44745,7 @@ ilanda-sepetim-1095.com
 ilanda-sepetim-1096.com
 ilanda-sepetim-1097.com
 ilanda-sepetim-1098.com
+ilanda-sepetim-1099.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -48699,6 +48701,7 @@ jagros.shop
 jagros.site
 jagros.store
 jagros.web.tr
+jagrosorgu.site
 jaguarcheck-001-site1.ktempurl.com
 jaguareef.com
 jaguarpanel.xyz
@@ -63091,6 +63094,7 @@ odememburda.net
 odememerkezihg.com
 odememerkezim.com.tr
 odememgunx.net
+odememguvende.online
 odememhersey.net
 odememionayla-guvenliodemem-sahibinden-paramguvende.co
 odemempaket.net
@@ -63150,6 +63154,7 @@ odkydl4.cn
 odmephs.xyz
 odmlrnz-burada.tsorg3.xyz
 odmyeyklezmni.cfd
+odmykleprdahgs.cfd
 odndbimcell.com
 odnetihlizmlerimizkin.com
 odorousretrospect.top
@@ -80543,6 +80548,7 @@ sorgupanel.store
 sorgupaneli.cc
 sorgupaneli.com
 sorgupaneli.com.tr
+sorgupaneli.ink
 sorgupaneli.link
 sorgupaneli.live
 sorgupaneli.me
@@ -84539,6 +84545,7 @@ tavrenvoltaren.pro
 tavsancik.net
 tavsancik.org
 tavsancik.xyz
+tavsanciksorgupaneli.site
 tavsiyeediyorum.club
 tavsiyeediyorum.xyz
 tavzilo.gifts
@@ -100901,6 +100908,7 @@ ziraattarimsa.cfd
 ziraattenbasvuru.sbs
 ziraattenodemeyialin.com
 ziraatttt.com
+ziraatyatirimborsahesabi.pro
 ziraatyazkacirilmazfirsat.tk
 zirailillf.cfd
 ziraitarimfs.cfd
