@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65869
-# Last change: 2026-08-23 09:45:32 UTC (sync mode: full)
+# Records: 65876
+# Last change: 2026-08-24 14:07:56 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15258,6 +15258,7 @@ castrologs.xyz
 castropoolx.info
 castrorat.zapto.org
 casyl18k.duckdns.org
+catalyst-pro.lat
 catalystexperience.com
 catapeebisk.ddns.net
 catapultlearning.zapto.org
@@ -41038,6 +41039,7 @@ newyearddnsaddressupdatelink.duckdns.org
 newyearstellcompany.com
 newzeto.xyz
 newzgroup.xyz
+nexahub.lat
 nexaustin.ddns.net
 nexflixonlinehelp.duckdns.org
 nexflixpay-update.ddns.net
@@ -44961,6 +44963,7 @@ pinkmandos.ddns.net
 pinkmanstore.ddns.net
 pinkpillar.ru
 pinkyardflamingos.com
+pinnacle-labs.lat
 pinta.zapto.org
 pinwei.ddns.net
 piog8gp4de.com
@@ -48071,6 +48074,7 @@ regiobk.ddns.net
 regional3dauthenti.ddns.net
 regioncheck.xyz
 regionews.net
+register.mediumser.com
 register01.hopto.org
 registerdrivegoogle.sytes.net
 registration-moi.ddns.net
@@ -53615,6 +53619,7 @@ steezzrr.ddns.net
 steffi.zapto.org
 steffy.ddns.net
 stelar.icu
+stellar-minds.cfd
 stellarnodegrid1.lol
 stellarnodegrid10.lol
 stellarnodegrid2.lol
@@ -56952,6 +56957,7 @@ twg5hlu4x.duckdns.org
 twgebhdz.duckdns.org
 twhxeagpgciarl.me
 twib9lk.duckdns.org
+twigoamwu.cfd
 twillsbeyond.zapto.org
 twin7.shop
 twinkfinder.nl
@@ -58858,6 +58864,7 @@ vekistrane.com
 velarfdzs.top
 velarteds.top
 velethuil.xyz
+velodium.latrpcsecnoweb.pro
 vendjksld.duckdns.org
 venezuelashorty.sytes.net
 venmo-app.ddns.net

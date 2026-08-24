@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101268
-# Last change: 2026-08-24 13:16:12 UTC (sync mode: delta)
+# Records: 101273
+# Last change: 2026-08-24 14:07:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -197,6 +197,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
@@ -2001,6 +2002,7 @@
 52quawd.cn
 53182591342.com
 531da1e6.dsfiurb-u.shop
+5325394324325.xyz
 53322258356312.online
 534534543.net
 535767867834.cloud
@@ -24327,6 +24329,7 @@ deliciosstun.top
 deliciouscavity.top
 deliciousendow.top
 deliciousincorporate.top
+deliciousmeal.vip
 delidaivaneolmusumfirsarlari.sbs
 delidivaneindiirmlerfaanfistan.com.tr
 delidivanekampanyalar.sbs
@@ -25851,6 +25854,7 @@ dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
 dijital-simdikapinda.sbs
 dijital-sipariskapinda.sbs
+dijital-siparislerkapinda.sbs
 dijital-sube.dev
 dijital-subesizgiris.net
 dijital-vkf.com
@@ -64298,6 +64302,7 @@ onlizindo1.com
 onlline-bireysell-vakif-com.gq
 onlline-hizmetekrani.sbs
 onlline-sbm.org
+onlline.csgb.govct.tr
 onllineeformbasvurumobilform.net
 onllinehasarsorglama.net
 onllinekonomimobilleapptr.xyz
