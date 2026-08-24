@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101314
-# Last change: 2026-08-24 20:50:45 UTC (sync mode: delta)
+# Records: 101319
+# Last change: 2026-08-24 21:46:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38543,6 +38543,7 @@ guestzone478.com
 guestzone731.com
 guestzone916.com
 guf-tickets.ru
+gugagoasdhashdhas923ww.click
 gugoahahsadwasdas923sad.click
 gugoashdahshdashd999wdsa.click
 gugogahasdagss823sadasdw.click
@@ -39638,6 +39639,7 @@ haberler34063.sbs
 haberler3412366.com
 haberler34341.sbs
 haberler344232.shop
+haberler34652.shop
 haberler3465672.sbs
 haberler346623.sbs
 haberler3552323.shop
@@ -41331,6 +41333,7 @@ hepberaberiz4.sbs
 hepbirliktecokgucluyuz.vip
 hepbirlikteguzelgunler.net
 hepbirlikteguzelgunler.org
+hepbirlikteyizz7.xyz
 hepbirlitkeyyizz.com
 hepfirsatinguzel.xyz
 hepgorur.com
@@ -76112,6 +76115,7 @@ sarivezne.blogspot.com
 sariyerharb-471b76746d0e.herokuapp.com
 sarkilarsokaklaraait.net
 sarkoypansiyon.org
+sarmissa.click
 sarnelix.digital
 sarp.site
 sarpinomointainresorts.com
@@ -79229,6 +79233,7 @@ sireneluxuryhotelspa.com
 sirenorphan.top
 sirinivas.com
 siriqui.xyz
+siritmax.xyz
 sirlarinizi-bizden-saklamayin-kimseler-duymasin.com
 sirypya.com
 sisarar.top
