@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101255
-# Last change: 2026-08-24 11:46:13 UTC (sync mode: delta)
+# Records: 101268
+# Last change: 2026-08-24 13:16:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -195,6 +195,7 @@
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
+101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
@@ -12584,6 +12585,7 @@ bilimvekulturv.net
 bilimvekulturvak.net
 bilimveteknolojionerileridunyasi.xyz
 bilinckapisi.com
+bilinclikullanim.abrdns.com
 bilindiginden-yargisina-varilmadan-elinde-bulun.top
 bilindiklerine-bunungibi-bizimde-hatirlayacaksaniz.top
 bilinenyuksek.homes
@@ -37780,6 +37782,7 @@ gov.y4nsmsars.sbs
 govbr.icu
 govbrk.shop
 govbrs.com
+govct.tr
 govcza.homes
 goverbarrier.top
 govermentsecintro.com
@@ -44111,6 +44114,7 @@ icesignify.top
 icesulhur.top
 icevundr.com
 ichbinrek.net
+ichikananakon.click
 ichthyoesis.top
 iciconstructionincs.com
 icimiciziyorkskrinn.online
@@ -44767,6 +44771,7 @@ ilanda-sepetim-1096.com
 ilanda-sepetim-1097.com
 ilanda-sepetim-1098.com
 ilanda-sepetim-1099.com
+ilanda-sepetim-1101.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -48780,6 +48785,7 @@ jargos.site
 jarlsbergys.live
 jaroffset.top
 jasane.com
+jasdmonester.duckdns.org
 jasduekadlasd.net
 jasimnineotokaportaboyadetaylinkxx.duckdns.org
 jasimsell.blogspot.com
@@ -59448,6 +59454,7 @@ mrceypro.online
 mrcwithwork.icu
 mrdigitalduniya.com
 mrelerdenlsewsa.duckdns.org
+mreodelafenta.duckdns.org
 mrfvdu.top
 mrgatescoins.info
 mrgatesgive.com
@@ -63907,6 +63914,7 @@ online-yatirim.com.tr
 online-yilsonukampanya-katilim-bireysel.kampanya-basvuru-sayfa.xyz
 online-yukleme-hgs.com
 online.ayuzbirmarketapp.com
+online.csgb.govct.tr
 online.filokurumsal.com
 online.giriskapisi.click
 online.hizlimarket-sanal-101online.online
@@ -66951,11 +66959,13 @@ pazarama.guvenceonay.com.tr
 pazarama.guvenliodemeonay.com
 pazarama.guvenlionayodeme.com
 pazarama.guvenlisiparisim.com
+pazarama.guvenliteslimat.com
 pazarama.hemenislemler.com
 pazarama.hizlikapimda.com
 pazarama.ilan-havale.com
 pazarama.ilanda-sepetim-1099.com
 pazarama.islemcepte.com
+pazarama.kargomhizli.com
 pazarama.magazada-online.com
 pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
@@ -74771,6 +74781,7 @@ sahibinden-get.islem-guvende.online
 sahibinden-get.le-odeme.com
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilsepetlerimservis.online
+sahibinden-get.mobilsepetlerimtrservisin.online
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisler-50.sbs
@@ -75744,6 +75755,7 @@ sahiplenici-edinim-gr.ink
 sahirbinden.com
 sahivinden.com
 sahlbinden.com.tr
+sahlbindeni.com
 sahlbindeni.com.tr
 sahlibinden.com
 sahlibinden.com.tr
@@ -84545,6 +84557,7 @@ taslirf.click
 taspbuislmler.pro
 tastedoctrine.top
 taststasdaadss.com
+tastypepper.info
 tastyreassure.top
 tat4164zjct0.icu
 tatarena.com
