@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101311
-# Last change: 2026-08-24 19:47:29 UTC (sync mode: delta)
+# Records: 101314
+# Last change: 2026-08-24 20:50:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -36412,6 +36412,7 @@ gercekten-super-rrnler-varmis.com
 gercektencokozurdileriz.duckdns.org
 gerdasreea.duckdns.org
 gerdelerdesess.duckdns.org
+gerdenleawkelr.duckdns.org
 gerdesglouds.com
 gerdmoller.com
 gereatas.nicepage.io
@@ -51380,6 +51381,7 @@ kizlarvixlex.baby
 kizlarvixlex.cfd
 kizlarvixlex.click
 kizlarvixlex.monster
+kizlarvixlex.sbs
 kizlarvixlex.xyz
 kizllay.com
 kizmirim.net
@@ -65286,6 +65288,7 @@ oyakcmento.shop
 oyakglobal.com
 oyakglobal.com.tr
 oyaktrade.com
+oyaktradeplus.com
 oyaxon.com
 oyazkamparac.xyz
 oyczop.top
