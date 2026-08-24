@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257481
-# Last change: 2026-08-24 09:07:11 UTC (sync mode: delta)
+# Records: 257484
+# Last change: 2026-08-24 10:06:34 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -69322,6 +69322,7 @@ digital-isube.site
 digital-kampanyalar.website
 digital-kampnyamiz.org
 digital-kmpnya.click
+digital-login.shop
 digital-mobildenizbasvuru.com
 digital-mobildenizhediyeonline.com
 digital-name.website
@@ -97749,6 +97750,7 @@ garantibbva-duyuru.com
 garantibbva-emeklilik.com
 garantibbva-form.alwaysdata.net
 garantibbva-giris.wuaze.com
+garantibbva-hepsiburada.com.ph
 garantibbva-hesabim.com
 garantibbva-iadelerim.com
 garantibbva-iadesi.com
@@ -146976,6 +146978,7 @@ kentdebizegel.net
 kentdesizlerle.net
 kentdestek.com.tr
 kenteminyuklemeleri.net
+kentermens.duckdns.org
 kentfast.net
 kenthizmetleri.tk
 kentijdkart.com
@@ -197786,6 +197789,7 @@ sahibindensahibine.online
 sahibindensatilik.net.tr
 sahibindensatis.click
 sahibindensatis.online
+sahibindensatis.xyz
 sahibindensatisget.com
 sahibindensatisilan.com
 sahibindensatiss.click
@@ -201547,7 +201551,6 @@ sevgiler-kalpte-iyilesir-bununla-kirilir.com
 sevgiler-uzaktan-gelir-bizde-biliriz-bunlari.com
 sevgilere-aktardik-butun-bilinenleri-gorduk.com
 sevgilere-sahane-sekilde-gorunur-yetisip-gorun.com
-sevgilerimizle.com
 sevgilerledrkante-80c75eaede7a.herokuapp.com
 sevgileryasami.online
 sevgili-halkalara-dahasi-burda-bilinmez.top

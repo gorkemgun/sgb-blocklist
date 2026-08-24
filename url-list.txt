@@ -125672,6 +125672,7 @@ digital-kampanyalar.website
 digital-kampnyamiz.org
 digital-kmpnya.click
 digital-link-site.online
+digital-login.shop
 digital-mobildenizbasvuru.com
 digital-mobildenizdehediyedunyasi.com
 digital-mobildenizfirsatbasvuru.com
@@ -173796,6 +173797,7 @@ garantibbva-emeklilik.com
 garantibbva-form.alwaysdata.net
 garantibbva-giris.life
 garantibbva-giris.wuaze.com
+garantibbva-hepsiburada.com.ph
 garantibbva-hesabim.com
 garantibbva-iadelerim.com
 garantibbva-iadesi.com
@@ -251676,6 +251678,7 @@ kentdestek.com.tr
 kentelimia.xyz
 kenteminyuklemeleri.net
 kentermen.duckdns.org
+kentermens.duckdns.org
 kentes.hopto.org
 kentfast.net
 kentfiresafe.com
@@ -354694,6 +354697,7 @@ sahibindensatis.click
 sahibindensatis.online
 sahibindensatis.org
 sahibindensatis.shop
+sahibindensatis.xyz
 sahibindensatisget.com
 sahibindensatisilan.com
 sahibindensatisonay.com
@@ -363520,7 +363524,6 @@ sevgiler-kalpte-iyilesir-bununla-kirilir.com
 sevgiler-uzaktan-gelir-bizde-biliriz-bunlari.com
 sevgilere-aktardik-butun-bilinenleri-gorduk.com
 sevgilere-sahane-sekilde-gorunur-yetisip-gorun.com
-sevgilerimizle.com
 sevgilerledrkante-80c75eaede7a.herokuapp.com
 sevgileryasami.online
 sevgili-halkalara-dahasi-burda-bilinmez.top
@@ -373095,6 +373098,7 @@ sokmarketlerdeindirim.shop
 sokmarketlerden.com
 sokmarketlerden.online
 sokmarketlerfirsatlarim.com
+sokmarketlerhepsi.shop
 sokmarketleri.cfd
 sokmarketleri.net.tr
 sokmarketleri2025.ddns.net
