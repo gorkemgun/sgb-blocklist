@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101244
-# Last change: 2026-08-24 10:55:56 UTC (sync mode: delta)
+# Records: 101255
+# Last change: 2026-08-24 11:46:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -193,6 +193,7 @@
 101-de-sadece-online-ozel-extra-mobil-indirimleri-shop-tr.plus
 101-eozel.xyz
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
+101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
@@ -8266,6 +8267,7 @@ arenathorn.top
 arenawars.org
 arenawars.vip
 arenaworldcupfootball.xyz
+arendelakral.duckdns.org
 areons.zya.me
 ares-mooday.com
 arftar.net
@@ -17827,6 +17829,7 @@ celestialpulse.site
 celestialvista.space
 celestiapod.com
 celestiaresorts.com
+celikzirhli.click
 cell-phoneaffixation.top
 cellarea.top
 cellarpropagation.top
@@ -25845,6 +25848,7 @@ dijital-online.website
 dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
 dijital-simdikapinda.sbs
+dijital-sipariskapinda.sbs
 dijital-sube.dev
 dijital-subesizgiris.net
 dijital-vkf.com
@@ -27609,6 +27613,7 @@ dutydeductible.top
 dutylimp.top
 duums.xyz
 duvalitatli.com
+duvarfln.click
 duvetkr.live
 duvvneyvppbcmone.mypasskey.info
 duyan-bisey-yok-der-alip-yasayip-hisset.com
@@ -32164,6 +32169,7 @@ eylulayinafirsatkampnyasi.tech
 eylulayipersembegunleri.xyz
 eylulayisalifirsati.online
 eylulaylaribitmesinn.online
+eylulbasiguzeldr.duckdns.org
 eylulbasvurubancekampanyasi.space
 eylulbasvurufirsatibance.space
 eylulbasvurufirsatikampanyabance.space
@@ -40854,6 +40860,7 @@ hediyelersizde.com
 hediyeliksepetim.org
 hediyen--burada.online
 hediyen-burada.online
+hediyenburada.online
 hediyenet.tk
 hediyenikapcheckbasvurum.net
 hediyenikaptodaykampanya.net
@@ -42648,6 +42655,7 @@ hmendstekodemesbsvrruuyps.online
 hmendstekodemesbsvruyap.online
 hmenlnkarsan.net
 hmhwoc.top
+hminislmeonkt.com
 hmksym.homes
 hmmhyls.site
 hmmuon.cc
@@ -63290,6 +63298,7 @@ offspringscrap.top
 offtug.top
 offury.top
 offwhite20kwork.online
+ofirsatbufirsatkacirmayinsakin.com
 ofisacenta.net.tr
 ofisacenta.org.tr
 ofkarayolugecsonle.com
@@ -74655,6 +74664,7 @@ saglikli.xyz
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
+sagliklikalalim.xyz
 saglikliol.giize.com
 saglikliolnnn.mywire.org
 saglikliozelgnlerex.webredirect.org
@@ -89459,6 +89469,7 @@ tsolkt.top
 tsorg724.com.tr
 tsorg724.xyz
 tsrrcvyqmu.xdk8ax.cn
+tsrsasdsesrs.com
 tstalkla.xyz
 tstwfwad.click
 tsweeqksa.net

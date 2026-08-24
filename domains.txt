@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466830
-# Last change: 2026-08-24 10:55:56 UTC (sync mode: delta)
+# Records: 466848
+# Last change: 2026-08-24 11:46:13 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2064,6 +2064,7 @@
 101-eozel.xyz
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
+101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
@@ -50860,6 +50861,7 @@ arenathorn.top
 arenawars.org
 arenawars.vip
 arenaworldcupfootball.xyz
+arendelakral.duckdns.org
 arendementcous.zapto.org
 arendroukysdqq.com
 arenlfiaicpofk.pw
@@ -97757,6 +97759,7 @@ celiktassubesindekampanya.xyz
 celiktencerekampanyasi.com
 celiktenceremobtas.tk
 celiktepsilergeliyor.tk
+celikzirhli.click
 celimot.xyz
 celinaba.boats
 celineyeasigim.net
@@ -126309,12 +126312,14 @@ dijital-mobilvakif.ml
 dijital-mobilvakif.tk
 dijital-online.website
 dijital-onlinehizlisiparis.sbs
+dijital-onlinesiparis.sbs
 dijital-paribu.cf
 dijital-paribu.ga
 dijital-passwordentrypersonal.click
 dijital-passwordentrypersonal.za.com
 dijital-servisler.sbs
 dijital-simdikapinda.sbs
+dijital-sipariskapinda.sbs
 dijital-sitem.online
 dijital-sube-girisiniz.xyz
 dijital-sube.dev
@@ -126327,6 +126332,7 @@ dijital-subesizgiris.net
 dijital-subesizkatilm.net
 dijital-superkampanya.tk
 dijital-tpao.com
+dijital-urunkapinda.sbs
 dijital-vakif-islemlerii.xyz
 dijital-vakif-islemlerim.online
 dijital-vakif-islemlerim.tech
@@ -132934,6 +132940,7 @@ duums.xyz
 duv-cen.xyz
 duv28wps.duckdns.org
 duvalitatli.com
+duvarfln.click
 duvarprojem.com.tr.ht
 duveliy.com
 duverta.pro
@@ -159035,6 +159042,7 @@ eylulayisuperindirim.xyz
 eylulayiyagmur.online
 eylulayiyagmur.xyz
 eylulaylaribitmesinn.online
+eylulbasiguzeldr.duckdns.org
 eylulbasvru.org
 eylulbasvurubancekampanyasi.space
 eylulbasvurufirsatibance.space
@@ -200687,6 +200695,7 @@ hediyen-senlevar.com
 hediyen20gb-evdekaltr.com
 hediyenbizde.tk
 hediyenburada.cfd
+hediyenburada.online
 hediyendenizlegeldi.com
 hediyenet.tk
 hediyenhalktan.com
@@ -211490,6 +211499,7 @@ hmhqrenmpa.net
 hmhwoc.top
 hmi6uzm.duckdns.org
 hmiblgoja.ru
+hminislmeonkt.com
 hmkpinizdavrkdsmnz.com
 hmkrjxbd3.duckdns.org
 hmksym.homes
@@ -291900,6 +291910,7 @@ naklenmacizle.ml
 naklenmacizle.tk
 nakliyatblze.net
 nakliyatcikazimanadolu.site
+nakliyathizmetlerieniyisiburada.sbs
 naksalersas.net
 naksarhpkd34.top
 nakselarsas.net
@@ -303153,6 +303164,7 @@ oficialargentina.online
 oficinabogotanor.duckdns.org
 ofil5xwpk8kncvoladcrsxy.ddns.net
 ofioxapkvitgcy.me
+ofirsatbufirsatkacirmayinsakin.com
 ofisacenta.net.tr
 ofisacenta.org.tr
 ofisbank.xyz
@@ -350681,6 +350693,7 @@ saglikligunlerr.net
 sagliklihizmetleregunleresizlere.webredirect.org
 sagliklikalalim.cfd
 sagliklikalalim.sbs
+sagliklikalalim.xyz
 sagliklinternetevdekal.com
 saglikliol.giize.com
 saglikliolnnn.mywire.org
@@ -375243,6 +375256,7 @@ sorgultr.com
 sorgum.xyz
 sorgumahkeme.org
 sorgumali.org
+sorgumalitr.org
 sorgumaliye.com
 sorgumaliye.org
 sorgumaliyehukuku.com
@@ -390217,6 +390231,7 @@ tebcepsubem.com
 tebcepsubem.online
 tebcepsubesi.com
 tebceptanimlibasvuru.duckdns.org
+tebcepte-com.my-homeip.de
 tebcepte-giris-basvuru.tk
 tebcepte-sube-parola.myonlineportal.de
 tebcepte.com
@@ -406707,6 +406722,7 @@ tsrfgnlerm.site
 tsrqo.moleakyl.ru
 tsrrcvyqmu.xdk8ax.cn
 tsrs.pw
+tsrsasdsesrs.com
 tsrt.xyz
 tsrunkai.com
 tsrv01.duckdns.org
@@ -413687,6 +413703,7 @@ ulkerodeme.tk
 ulkesesleri.com
 ulketakip.com
 ulkeyansimasi.com
+ulkjxmnzxopr32rx.cfd
 ulkouxevalap.ddns.net
 ulku8d5.duckdns.org
 ulllongitudina.top
@@ -414024,6 +414041,7 @@ unallarparca.online
 unampanel.ddns.net
 unanimousplaintiff.top
 unapprehension.com
+unarsitilsmantar3zx.duckdns.org
 unarvo.space
 unasdvigbns.lat
 unassassinatedacher.life
