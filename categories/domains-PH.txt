@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101288
-# Last change: 2026-08-24 15:58:10 UTC (sync mode: delta)
+# Records: 101292
+# Last change: 2026-08-24 16:57:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29224,6 +29224,7 @@ eidmood.com
 eidnfilecloud.com
 eidpro.xyz
 eidpulse.com
+eifffeeeeel.opik.net
 eightcorrelate.top
 eightdedication.top
 eighteenvenue.top
@@ -50103,6 +50104,7 @@ karacaclub.shop
 karacadagdernegi.com
 karacadoms.club
 karacadoms.co
+karacaev.shop
 karacaevs.store
 karacafirsatlari.online
 karacagood.shop
@@ -50776,6 +50778,7 @@ keralamist.com
 kerametran.ezgateway.net
 kerberdedasd.xyz
 kereca.space
+kereraasz4n.blogspot.com
 kereste.moe
 keriyer.net
 kermalixsey.xyz
@@ -51415,6 +51418,7 @@ kkxxcsswxxx.duckdns.org
 kl12lps.click
 kl4d.blogspot.com
 klaimentglobe.top
+klardenslenews.duckdns.org
 klarissavintatrendyol.com
 klas-haber.club
 klasbasvuruhizmetleriicintikla.life
