@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101273
-# Last change: 2026-08-24 14:07:56 UTC (sync mode: delta)
+# Records: 101279
+# Last change: 2026-08-24 15:03:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -34213,6 +34213,7 @@ flrsat-online-kapida.name.tr
 flrsatagustos.com
 flrsatdiyari.com
 flrsathabersizhelesenkimsindebanauat.world
+flrsathadigewldsen.shop
 flrsathadiolmazolsundaolmadandad.store
 flrsathadisenbeniettinyasenkazanma.world
 flrsathadisengelsenolsahadiben.shop
@@ -38019,6 +38020,7 @@ gratis.globalscholarpress.com
 gratis.homelinux.net
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
+gratis.kasihinfo.com
 gratis.lakeboundtech.com
 gratis.likescandy.com
 gratis.obliqueprism.com
@@ -41452,6 +41454,7 @@ herkesedestekolalim.com
 herkesepandemi.club
 herkeseyardimvar.com
 herkesfirsatibulsun.sbs
+herkesindirimibulsun.sbs
 herkesinfirsaturunleri.xyz
 herkesinyanindayiz.com
 herkeskiralar.com
@@ -73777,6 +73780,7 @@ rnd199.online
 rnd7ru3fbn.storage.googleapis.com
 rndbsurizmebrurds.store
 rndbsvhzimebrurds.store
+rnddvhszsjfsf.store
 rndevnuhzlal.blogspot.com
 rndevu.blogspot.com
 rndevualmamrkrtk.net
@@ -74909,10 +74913,12 @@ sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.ilan-onayla.online
+sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
 sahibinden-param-guvende.siparisonayi.online
+sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-param-guvendesiparis.teknosaturuncugunler.com.tr

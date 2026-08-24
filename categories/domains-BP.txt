@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257520
-# Last change: 2026-08-24 14:07:56 UTC (sync mode: delta)
+# Records: 257527
+# Last change: 2026-08-24 15:03:12 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -87995,6 +87995,7 @@ esosyalyardmlarmgov.site
 esosyalyardmllarm.online
 esosyalyardmlrmgov.site
 esosyldestk.site
+espaceclient.alliance3i.com
 espassword.click
 espay-checkout.ga
 espay-checkout.ml
@@ -128256,6 +128257,7 @@ ilanmobilden.com
 ilanmobildens.com
 ilanmobile.com
 ilanodemeleri.com.tr
+ilanonayin.online
 ilanozel-islemler.com
 ilanparamguvende.com
 ilanparamguvende.com.tr
@@ -143042,8 +143044,10 @@ kampanyallinsigorta.xyz
 kampanyalllarekimayifirsatlariii.com
 kampanyalrla.click
 kampanyalrm.cubicerous.cfd
+kampanyam--burada.online
 kampanyam-basvuru.com
 kampanyam-binance-event.net
+kampanyam-burada.online
 kampanyam-digital.website
 kampanyam-eventlerimiz.net
 kampanyam-garanti.click
@@ -159988,6 +159992,7 @@ mhsaogreen.uk
 mhslaatkfff.uk
 mhsn-randevu.blogspot.com
 mhsrasras.duckdns.org
+mhsrrandvu.com
 mhsscfsrsa.sbs
 mhsscfsrsa1.sbs
 mhsscfsrsa10.sbs
@@ -204420,6 +204425,7 @@ siparisnzhazir.click
 siparisolusturkapiinda.online
 siparisonayi.online
 siparisonayim.online
+siparisonayin.online
 siparisonaylacom.online
 siparisonaylama.store
 siparisozetodeme.online
@@ -222334,6 +222340,7 @@ trendyol.it.com
 trendyol.lat
 trendyol.manuel-alim.net
 trendyol.mobil-servis.store
+trendyol.mobilsepetlerimtrservisin.online
 trendyol.odemeler-ilanlarim.com.tr
 trendyol.online-alisverisler.com.tr
 trendyol.online-satis.com.tr
