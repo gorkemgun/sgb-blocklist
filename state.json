@@ -1,12 +1,12 @@
 {
   "layout": 3,
-  "last_run": "2026-08-23 23:38:08",
+  "last_run": "2026-08-24 01:59:36",
   "last_full": "2026-08-23 09:45:32",
   "last_mode": "delta",
-  "date_gte": "2026-08-23 16:41:06",
+  "date_gte": "2026-08-23 17:38:08",
   "newest_record_date": "2026-08-23 22:11:36.916497",
   "fetched": {
-    "domain": 37,
+    "domain": 29,
     "url": 0,
     "ip": 0,
     "ip6": 0,
