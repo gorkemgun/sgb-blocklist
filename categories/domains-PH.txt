@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101279
-# Last change: 2026-08-24 15:03:12 UTC (sync mode: delta)
+# Records: 101288
+# Last change: 2026-08-24 15:58:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -212,6 +212,7 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-mobil.com.tr
 101-ocak-indirimleri.net
 101-pazar-zamani.com
@@ -5487,6 +5488,7 @@ akbank.form-bildirim.com
 akbank.mitay.com.tr
 akbank.mobil-subelerim.com
 akbank.mobilsubelerimden.com
+akbank.online
 akbank.online-hesap.com
 akbank.online-para.com
 akbank.termtech.com.tr
@@ -41059,6 +41061,7 @@ helsinkim.com
 helsoki.com
 helwmgsl.sbs
 helytra.com
+hemeins-nsonuc.net
 hemeleterfesa.duckdns.org
 hememislemnkta.net
 hememnssnltamsa.net
@@ -41449,6 +41452,7 @@ heritagepreside.top
 heritox.com
 herkes-kullanabilsindiye.sbs
 herkes-mutlu-olmayi-hak-eder.com
+herkesbizmleonlne.sbs
 herkese-mutluluk-getiren-haberler-surekli-burada.com
 herkesedestekolalim.com
 herkesepandemi.club
@@ -52735,6 +52739,7 @@ kuweytiluslamhaklari.ignorelist.com
 kuweytturkislemtrgo.fun
 kuxcoinlogiinb.webflow.io
 kuzeyhaberx.site
+kuzeymenkulas.com
 kuzeyvakfi.com
 kuzulabs.org
 kv67ym2ka0h72ja.online
@@ -58024,6 +58029,7 @@ mhsdfbcxvbsd.art
 mhsdhfxbvcb.art
 mhshemen.uk
 mhskastogreen.uk
+mhsksrsnrndsv.com
 mhsr-randvu.net
 mhsrarandvlrmzbrda.sbs
 mhsscfsrsa11.sbs
@@ -65873,6 +65879,7 @@ papara724t.com
 paparaa.org
 paparaappssite.com
 paparacoin.com.tr
+paparaemenkuldegerler.com
 paparahelp.co.vu
 paparahizmet.com
 paparakiralama.net
@@ -79651,6 +79658,7 @@ slpostgovls.xyz
 slrndevuje.net
 slsmfihmlsfhs.com
 slsvrzhzmasnt.net
+sltelye-ylnendirivmici.com
 slubbering.com
 slumberpoint.com
 slumdivine.top
@@ -80207,6 +80215,7 @@ solitudeindulge.top
 solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
+solkmlrkatler.com
 sollsticeai.com
 sologerg.com
 solorn.bond
