@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 466958
-# Last change: 2026-08-24 19:02:40 UTC (sync mode: delta)
+# Records: 466967
+# Last change: 2026-08-24 19:47:29 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -111515,6 +111515,7 @@ csawww.osalfastrasakamsletapraslasmetoplras.net
 csaxasdsafa-ee.cfd
 csaxasx.nichesite.org
 csb-gnlmudgov.com
+csb-govtr.site
 csb.app
 csbasvrmakltahomless.xyz
 csbdgozibq.duckdns.org
@@ -160694,6 +160695,7 @@ farhgss.com
 farih.click
 farindor.com
 fark-hazirdikkat.casa
+fark-islemler-garanti.duckdns.org
 farkcar.com.tr
 farkedermi.lol
 farketmeden-biraz-iyi-hissedecekseniz-hemen-yakinlasin.com
@@ -182405,6 +182407,7 @@ glennmgir.pw
 glennsreel.duckdns.org
 glennuniat.com
 glercomandre.com
+glerdanesakare.duckdns.org
 glerdenlerdews.duckdns.org
 gletavo.store
 gleudjlmhqry.space
@@ -283102,6 +283105,7 @@ mobilcepyukle.com
 mobilcimerdestek.com
 mobildagitimteknolji-bnbtr.tk
 mobilde-ak-islem.app
+mobilde-baglanti.com
 mobilde-denizbankacikhediye.com
 mobilde-gecerli-20gbhediye.epizy.com
 mobilde-siparis-tr.blog
@@ -354764,6 +354768,7 @@ sahibindenpay.net
 sahibindenpay.ru.com
 sahibindenpay.sa.com
 sahibindenpay.shop
+sahibindenpay.store
 sahibindenpayget.com
 sahibindenpaygett.com
 sahibindenpayguvende.com.pl
@@ -371151,6 +371156,7 @@ slivenkosda.xyz
 sliverunaf.com
 slivoratikam.pw
 slivzvezd.ru
+sliyteye-aktrlar.com
 slizyoke2.zapto.org
 sljhmtbegi.duckdns.org
 sljvrmislotktoxq.com
@@ -373724,6 +373730,7 @@ somiedcqmi.duckdns.org
 somindirmhomenesfkesji.cloud
 somipt.ymsqs.ru
 somjgetqpp.duckdns.org
+somkerler.com
 somliyvvrp.duckdns.org
 sommlmbyvt.duckdns.org
 somniosus.xyz
@@ -420223,6 +420230,7 @@ vakifkredibasvurusumobil.site
 vakifkredicimhaziiir.co.vu
 vakifkredidestekonline.xyz
 vakifkredidestekpaketi.xyz
+vakifkredigirisbasvurasamasiweb.click
 vakifkredigirisyapbasvuru.click
 vakifkredikontrolsistemi.tk
 vakifkredim.com
@@ -420368,6 +420376,7 @@ vakiflarbankasi.duckdns.org
 vakiflarbankasi.rf.gd
 vakiflarbankasiweb.tk
 vakiflarbenkasi.com
+vakiflarbenkasi.org
 vakiflarbireyseler-tr.com
 vakiflarbnkizmir.com.tc
 vakiflardannbursalma.com.tr

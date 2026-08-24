@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101304
-# Last change: 2026-08-24 19:02:40 UTC (sync mode: delta)
+# Records: 101311
+# Last change: 2026-08-24 19:47:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37192,6 +37192,7 @@ gleders-contrew.com
 gleemmuse.com
 glendermoide.xyz
 glercomandre.com
+glerdanesakare.duckdns.org
 glerdenlerdews.duckdns.org
 gletavo.store
 gleversfarmguste.com
@@ -58708,6 +58709,7 @@ mobilbireyselkatilimm.online
 mobilcarkbinance.com.tr
 mobilcep-erisim.my-homeip.de
 mobilcepte.com.tr
+mobilde-baglanti.com
 mobilde-denizbankacikhediye.com
 mobilde-sube.com
 mobildemuhtesemiadeler.app
@@ -75708,6 +75710,7 @@ sahibindenpay.com.tr
 sahibindenpay.net
 sahibindenpay.sa.com
 sahibindenpay.shop
+sahibindenpay.store
 sahibindenpayget.com
 sahibindenpayguvenle.com.ru
 sahibindenpayguvenli.com.ru
@@ -79637,6 +79640,7 @@ slipperymanifestation.top
 slipperymarble.top
 slipperyunilateral.top
 slivenkosda.xyz
+sliyteye-aktrlar.com
 slkayetvar.rf.gd
 slkmalkretler.shop
 slkmalrkelr.shop
@@ -80293,6 +80297,7 @@ somewhereconcession.top
 somewherefaction.top
 somewherefolklore.top
 somewheretenant.top
+somkerler.com
 somniumresort.com
 somnorama.com
 sompocusqortam.com.tr
@@ -92375,6 +92380,7 @@ vakifkatilim.goldenlig.com
 vakifkatilim.islamicmarkets.com
 vakifkatilim.yan-haklar.com
 vakifkatilimdstk-pndm-hmnal.tk
+vakifkredigirisbasvurasamasiweb.click
 vakifkredim.eu.loclx.io
 vakifkredimobilbanka.co.vu
 vakifkurumsalcom.cfd
@@ -92384,6 +92390,7 @@ vakiflabiz0511.tk
 vakiflabiz0933.tk
 vakiflar.swanndvr.net
 vakiflarbankasi.blogspot.com
+vakiflarbenkasi.org
 vakiflasen.tk
 vakiflimit.net
 vakifline.org
