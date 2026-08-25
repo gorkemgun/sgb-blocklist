@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257599
-# Last change: 2026-08-25 15:08:12 UTC (sync mode: delta)
+# Records: 257638
+# Last change: 2026-08-25 16:02:54 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2514,7 +2514,9 @@
 136896547.top
 137905808.online
 137985854.online
+1379889898999899091.duckdns.org
 1379889898999899092.duckdns.org
+1379889898999899093.duckdns.org
 139-bosvurularim.dvrlists.com
 13agustos-carsambam.com
 13agustossatadsiparis.net
@@ -19752,6 +19754,7 @@ ailesi-ile-beraber-olanlar-onanir-ellerinde-takilir.com
 ailesine-devirir-hislerinde-bulunur-arttikca.com
 ailesosyal-yardimlasma.com
 ailesosyalbasvuru.com
+ailesosyaldestegi.org
 ailesosyaldestek-onlinebasvuru.com
 ailesosyalhizmetler.com
 ailesosyalhizmetler.online
@@ -19859,6 +19862,7 @@ aisirif-sfriaiis-sifieidi.lol
 aisksdjsijdsknshak.icu
 aisleosymn.com
 aisozsymbsvur.net
+aiss-trendyol.com.ph
 aistokimarket.store
 aisturkiye-gov.cf
 aisyodeme.shop
@@ -24274,6 +24278,7 @@ algrtrrrd.com
 algsjsaj-aldiansab-aksna.cyou
 algsjsaj-aldiansab-aksna.icu
 algsjsaj-aldiansab-aksna.sbs
+alhadisaglikliyasa.sbs
 alhamd-stone.com
 alhaydibunlari.xyz
 alhemen.cf
@@ -35749,6 +35754,7 @@ bazruum.com
 bazteriyle.site
 bazzhalkyapargrssube.xyz
 bb-cc-vv.shop
+bb-garantibbva.ph
 bb-login.buzz
 bb-login.click
 bb-olustr.mom
@@ -35860,6 +35866,7 @@ bbelx-01-1.com
 bbelxxaelmn84.com
 bbemcllim.com
 bbfinancemobilgirisler.com
+bbgarantibbva.ph
 bbgaravadiburdagala81.info
 bbgbonln.com
 bbhhwdx.click
@@ -62028,6 +62035,7 @@ daansyarismaizle.gq
 daansyarismasi.xyz
 daansyarismasiizle.ga
 daasqvwhasd.com
+daazgarantibbva.ph
 dabmwfirsati.com
 dabuludabulualisverisnoktacom.com.tr
 dabuludabulualisverisnoktacom.xyz
@@ -69281,6 +69289,7 @@ dhjkfghjwer.com
 dhkgsqdhgasd.net
 dhkgsqdhqgasd.net
 dhl-at.xyz
+dhl-trendyol.ph
 dhlgovxps.top
 dhloiz.top
 dhomesteltess.com.tr
@@ -72220,6 +72229,7 @@ dreamotoline.online
 dreampayglad.live
 dreamqueenloans.com
 dreamrent.online
+dreamspace-garantibbva.ph
 dreamweaverhollow.org
 dreamy-murdock.20-83-167-226.plesk.page
 dreamy-ramanujan.207-246-101-106.plesk.page
@@ -87203,6 +87213,7 @@ eposta9111.twomini.com
 epostasistemi.xyz
 epostatavsiyesi24x.com
 epostaturk24.com
+epostgarantibbva.ph
 epowoe.com
 epox1.xyz
 epoxyckgmhizligecis.net
@@ -87650,6 +87661,7 @@ ershgsv.com
 ersigortam.net
 ersimnizguvndehzlligrsler.shop
 ersser.click
+erstebankgarantibbva.ph
 ersukorkut.cfd
 ert-basvuru-iadeformu-edevlet.com
 erte-cimere-iade.com
@@ -90124,6 +90136,7 @@ exowerpasha.web.app
 expapara.com
 expazarxixnxaxmxixfirsatxixm.xyz
 expectancypeople.top
+expediaenel-garantibbva.com.ph
 expelliarmus.sambal.web.id
 experitecion-press.com
 expertkargocular.com
@@ -97762,6 +97775,7 @@ garantibbva-basvuru-kredionline.duckdns.org
 garantibbva-basvuru-online-kredi.duckdns.org
 garantibbva-basvuru-online-krediler.duckdns.org
 garantibbva-basvuru-onlinekredi.duckdns.org
+garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-bireyselhizmetim.com
 garantibbva-bonus250tl-com-tr.tk
@@ -97781,6 +97795,7 @@ garantibbva-creditsuisse.ph
 garantibbva-dijital-kredihizli.online
 garantibbva-duyuru.com
 garantibbva-emeklilik.com
+garantibbva-erstebank.ph
 garantibbva-form.alwaysdata.net
 garantibbva-giris.wuaze.com
 garantibbva-hepsiburada.com.ph
@@ -97809,6 +97824,7 @@ garantibbva-kartaidat-iade-sistemi.xyz
 garantibbva-kartaidat-islemleri.mooo.com
 garantibbva-kazancligunler.tk
 garantibbva-kazandirangunler.tk
+garantibbva-kraken.ph
 garantibbva-kredi-basvur.duckdns.org
 garantibbva-kredi-basvuronline.duckdns.org
 garantibbva-kredi-basvuru-sistemleri.freetcp.com
@@ -97849,7 +97865,9 @@ garantibbva-krediye-online-basvur.duckdns.org
 garantibbva-krediye-online-basvuru.duckdns.org
 garantibbva-krediye-onlinebasvur.duckdns.org
 garantibbva-mobil.life
+garantibbva-movistar.com.ph
 garantibbva-netflix.ph
+garantibbva-okta.com.ph
 garantibbva-online-kredi-basvu.duckdns.org
 garantibbva-online-kredi-basvur.duckdns.org
 garantibbva-online-kredi-basvuru.duckdns.org
@@ -97970,6 +97988,7 @@ garantibbvabasvuru.com.tr
 garantibbvabasvurular.b-cdn.net
 garantibbvabayramkredincepte.online
 garantibbvabayramozelfirsatcepte.online
+garantibbvabol.com.ph
 garantibbvabonuskampanyalari.ml
 garantibbvacekilis.net
 garantibbvacep.com
@@ -98109,6 +98128,7 @@ garantibbvapromosyonc.net
 garantibbvapromosyonsilemniz.duckdns.org
 garantibbvapromosyonuz.click
 garantibbvaresmi.mefound.com
+garantibbvaria.com.ph
 garantibbvas.com
 garantibbvas.ga
 garantibbvasakla.net
@@ -104025,6 +104045,7 @@ gov-e-devlettr-kredikartiiade.com
 gov-giris-tr.ml
 gov-hl.win
 gov-ihlas-haber-tr.com
+gov-kbstar-garantibbva.ph
 gov-kgm.cc
 gov-kgm.cyou
 gov-meb-belge-onay.online
@@ -104054,6 +104075,7 @@ gov-tr.top
 gov-tr.xyz
 gov-trbi.top
 gov-trcl.top
+gov-trendyol.ph
 gov-turkey.com
 gov-turkeyonline.traccedirespiro.it
 gov-turkeyonline.woernerhaustechnik.com
@@ -111592,6 +111614,7 @@ halklbanlk.com
 halklikazaniyor.com
 halklikazaniyor.org
 halklilarkazaniyor.com
+halklimit.click
 halklimizinbankasiyizhalkbankasi.com
 halkliyilbasinda.org
 halklonline.com
@@ -116322,6 +116345,7 @@ hepsiburada-vip.com
 hepsiburada-wish.com
 hepsiburada-yenileme-kep.com
 hepsiburada-yenilemekep.com
+hepsiburada-you.com.ph
 hepsiburada.agency
 hepsiburada.bar
 hepsiburada.beauty
@@ -122908,6 +122932,7 @@ hmnislemnktans.net
 hmnislemnktbas.net
 hmnislemnktsans.net
 hmnislemntkas.net
+hmnisllmnktnas.net
 hmnislmbkntans.net
 hmnislmnktasni.net
 hmnislmnktbas.net
@@ -127390,6 +127415,7 @@ ifirsatvolta1o1.lat
 ifirsatvolta1o1.sbs
 ifksk.online
 ifmelbqun2mxa3lchticargadi-jj2cvlaia66be-www-isbank-com-tr.translate.goog
+ifoodgarantibbva.com.ph
 iform-basvuru-halkbank-900tl-online-com.cf
 iform-basvuru-halkbank-900tl-online-com.ga
 iform-basvuru-halkbank-900tl-online-com.gq
@@ -127600,6 +127626,7 @@ ihbaryemez.xyz
 ihbr-tc.online
 ihdistamkredikampanyalari.xyz
 ihfssafqwhsdsaf.store
+ihggarantibbva.com.ph
 ihhramazan.org
 ihlal-destekmerkezi.ml
 ihlal-sorgulama.net
@@ -134325,6 +134352,7 @@ islemlerim-djitalyapilan.app
 islemlerim-djitalyapilandir.life
 islemlerim-garanti.bounceme.net
 islemlerim-garanti.freemyip.com
+islemlerim-hemen-garanti.duckdns.org
 islemlerim-herzman-guvende-denizlle.net
 islemlerim-onaylahemen.life
 islemlerim-online.com.tr
@@ -143643,6 +143671,7 @@ kampynyagunleri.xyz
 kampypnlraindrmlr.duckdns.org
 kampzoryn.click
 kamrogslzf.com
+kamsok.duckdns.org
 kamsorglmuz.com
 kamu-hizmeti-aidat-iadeleri-cimer.com
 kamu-hizmetleri-cimer.com
@@ -149003,6 +149032,7 @@ klac-mortgage-kurum.my-homeip.de
 klalim2x.com.tr
 klarkar.net
 klarkek.net
+klarna-garantibbva.com.ph
 klasbilisimiledevrim.com
 klasbilisimmdedevrimvar.com
 klasdolum.xyz
@@ -151246,11 +151276,13 @@ kppturslarbasvur.net
 kppzdbm6251649.ua
 kpqkyky39412865.ua
 kprhgsz.com
+kps-garantibbva.ph
 kpsbasvcutode.net
 kpsbasvrusuu.net
 kpsbasvurcanor.net
 kpsdene.net
 kpsdoyi5989608.ua
+kpsgarantibbva.ph
 kpsguvenlikgiris.co.vu
 kpshayirlicmlar.net
 kpsosyms.net
@@ -151317,6 +151349,7 @@ kraiaaktredede.shop
 kraiatkarede.shop
 kraizriitmoooo.net
 krajdhajsmrsa.net
+kraken-garantibbva.ph
 krakerdenlerdens.com
 krakinverglords.net
 kralbabastrcsa.com
@@ -168869,6 +168902,7 @@ nvidandevu.net
 nvidasdsadasrandevu.com
 nvidelelelel.net
 nvideonlne.b-cdn.net
+nvidiapapara.com.ph
 nvidigipnouskop.net
 nvidkfjdkfjdlldkkkd.net
 nvidmmee.blogspot.com
@@ -175316,6 +175350,7 @@ open-garanti.info
 open-newinvest.info
 open-newinvest.site
 open-ridge.com
+openaigarantibbva.com.ph
 openbaykar.info
 opencategory.site
 opencode.site
@@ -193111,6 +193146,7 @@ rofilime-kimler-bakmis-com.tk
 rofortrade.com
 rofusadhasdhashdh0093sadsad.click
 rog-verifications.com
+rogers-garantibbva.com.ph
 rogooglesgruo.work
 roguefitshoes.com
 roibtech.com
@@ -202003,6 +202039,7 @@ sfinibucorpsecure.org
 sfjalsflasfaksflkasflkasfljafkasfjasl.cfd
 sfjalsflasfaksflkasflkasfljafkasfjasl.click
 sfjalsflasfaksflkasflkasfljafkasfjasl.lol
+sfjalsflasfaksflkasflkasfljafkasfjasl.xyz
 sfkadlfdvt-sdvt.com
 sfkalsmealfmsbb.com
 sfkarmksfz.com
@@ -209714,6 +209751,7 @@ ss0kkfrsatttlaranlik.org
 ss3332323223.duckdns.org
 ss44--4444-1.cloud
 ss5828282323ss.cloud
+ssa-ziraatbank.com.ph
 ssadfree.click
 ssadroad.click
 ssahibinde.com
@@ -222352,6 +222390,7 @@ trendylexpress.com
 trendylindirimsaatleri.com
 trendyo1.com
 trendyol-adres.com
+trendyol-alibaba.ph
 trendyol-alim.com
 trendyol-alim.net
 trendyol-altin.com

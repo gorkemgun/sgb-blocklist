@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65876
-# Last change: 2026-08-24 14:07:56 UTC (sync mode: delta)
+# Records: 65884
+# Last change: 2026-08-25 16:02:54 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10979,6 +10979,7 @@ aspectdesigns.com.au
 aspecto.top
 aspeimoveis342235.online
 aspektnn.ru
+aspencore18.com
 aspin.ddns.net
 asppveriffyydommsx.duckdns.org
 aspxupdateaccount.hopto.org
@@ -11101,6 +11102,7 @@ ativeacesso10182.hopto.org
 atjakataindospa.hopto.org
 atl1xuj.duckdns.org
 atlantarecyclingcenters.com
+atlas-compass.com
 atlas-upd.com
 atlas11.ddns.net
 atlasdecarqo.com
@@ -14121,6 +14123,7 @@ bridleridgehorses.com
 briefingmarks.com
 brient.ml
 briesiojob.duckdns.org
+bright-links.com
 bright.su
 bright2020.hopto.org
 brightalizer.info
@@ -27072,6 +27075,8 @@ groupsserversforupdatesnew.bid
 groupsserversforupdatingnew.bid
 groupsserversforupdatingnew.win
 groupviralanaksma24.duckdns.org
+grove-12.com
+grove-satin.com
 growhth.com
 grp08gw.duckdns.org
 grpoq.duckdns.org
@@ -44313,6 +44318,7 @@ parcel-mysplonline.ddns.net
 parcel-shippinginfo.ddns.net
 parcel873-dhl.ddns.net
 pardonguidellc.com
+parentpreneurx.com
 parfiumpromo.com
 parfumerus.zapto.org
 parfumnext.zapto.org
@@ -56398,6 +56404,7 @@ treintaysieteremc.duckdns.org
 treintaytresrem.duckdns.org
 treintayunorem.duckdns.org
 treki.duckdns.org
+trekmesh15.com
 trelve47.hopto.org
 trembala.zapto.org
 trembolone.duckdns.org
@@ -59435,6 +59442,7 @@ viltech.ml
 vimilhxgz.duckdns.org
 vincent-farben.de
 vinchycode.zapto.org
+vine-96.com
 vine-whatsapps2.ddns.net
 vinebunker.com
 vinglosine.ml
