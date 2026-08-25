@@ -8,7 +8,7 @@
 | [domains-MD.txt](domains-MD.txt) | Domain | Malware Distribution Domain (MD) | 65884 |
 | [domains-MI.txt](domains-MI.txt) | Domain | Malware Distribution IP (MI) | 171 |
 | [domains-MU.txt](domains-MU.txt) | Domain | Malware Distribution URL (MU) | 759 |
-| [domains-PH.txt](domains-PH.txt) | Domain | Phishing (PH) | 101393 |
+| [domains-PH.txt](domains-PH.txt) | Domain | Phishing (PH) | 101394 |
 | [ipv4-BP.txt](ipv4-BP.txt) | IPv4 address | Financial Phishing (BP) | 105 |
 | [ipv4-CA.txt](ipv4-CA.txt) | IPv4 address | Cyber Attack (Port Scan, Brute Force etc.) (CA) | 854 |
 | [ipv4-MC.txt](ipv4-MC.txt) | IPv4 address | Malware Command Center (MC) | 9353 |
