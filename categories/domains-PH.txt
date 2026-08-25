@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101384
-# Last change: 2026-08-25 16:58:11 UTC (sync mode: delta)
+# Records: 101390
+# Last change: 2026-08-25 17:47:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6755,6 +6755,7 @@ amidautobiography.top
 amidcynicism.top
 amidpredecessor.top
 amidstendeavour.top
+aminecicekcilik.com
 aminlsdkwesd.me
 amioushectic.top
 amirikar.com
@@ -33821,6 +33822,7 @@ firsatlarr20233.xyz
 firsatlarra.website
 firsatlarramazandabirbaska.online
 firsatlarrronline.me
+firsatlarryny2026.ct.ws
 firsatlarsanagelsinsokmarket1.click
 firsatlarsanagelsinsokmarket4.click
 firsatlarsizeozelhemenbulunbeni.tech
@@ -38048,6 +38050,7 @@ gratis.likescandy.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
 gratis.servehumour.com
+gratis.simplysweetcakesoc.com
 gratis.teknodeno.com.tr
 gratis.v6.army
 gratiscagrimerkezii.com.tr
@@ -58097,6 +58100,7 @@ mhxrsbzlehizlica.org
 mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
 mhxrsrndvvlarbizle.org
 mhyrfg.buzz
+mhysyhisawag.icu
 mi3g.com
 mi6govukbfxe5pzxqw3otzd2t4nhi7v6x4dljwba3jmsczozcolx2vqd.top
 mianosa.duckdns.org
@@ -97498,6 +97502,7 @@ www-bimcell.xyz
 www-blutv-com.tk
 www-blutv.com
 www-braun-tr.com
+www-braun.net
 www-brauntr.com
 www-cepte-a-101.xyz
 www-ceptekapida-marketin.com
@@ -101260,6 +101265,7 @@ zrnxcnd34xak.cfd
 zrrrtazt.nicepage.io
 zrrvpnl.com
 zrrvpnl2.com
+zrt.quest
 zrtasxhgs.xyz
 zrtkalim.com
 zrtmorbilek.cfd
