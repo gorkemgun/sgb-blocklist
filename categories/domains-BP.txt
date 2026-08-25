@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257549
-# Last change: 2026-08-24 21:46:32 UTC (sync mode: delta)
+# Records: 257551
+# Last change: 2026-08-25 01:54:35 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -12526,6 +12526,7 @@ a101kapiinda.com
 a101kapimda.com
 a101kapimda.com.tr
 a101kapimda.online
+a101kapimda.shop
 a101kapimdamarket.com
 a101kapinagelsin.com
 a101kapinda.b-cdn.net
@@ -118579,6 +118580,7 @@ hgskarayoll.click
 hgskart.org
 hgskartptt.com
 hgskgkfkklerinizsi.net
+hgskgmyolgecisbrcodyn.com
 hgskgmyukleme.co.vu
 hgskgsodemesorgu.blogspot.com
 hgskgspttavmsystems.xyz
