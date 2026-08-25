@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101342
-# Last change: 2026-08-25 09:02:09 UTC (sync mode: delta)
+# Records: 101347
+# Last change: 2026-08-25 11:46:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -51419,6 +51419,7 @@ kkevrenlrkislem.click
 kkgktkm.net
 kkhydy.cyou
 kkiadetakip.com
+kkk44443.site
 kkkkkkkkjjjjjj.top
 kkkrtiade.com
 kkkvkvkvks.net
@@ -54219,6 +54220,7 @@ lndrm-kmpnyalarim-bradan-satinal.com
 lnftkriptoyenilenencepsube.com
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
+lnnnnl.club
 lnovchalk.info
 lnskkemee.net
 lnsta-telifhakkimerkezi.ml
@@ -58698,6 +58700,7 @@ mobil-ozel.site
 mobil-paribu.net
 mobil-sahibinden.elektronik-alisveris.com.tr
 mobil-sgkk.tk
+mobil-simdi.com
 mobil-subelerim.com
 mobil-tepden-basvur.myonlineportal.de
 mobil-tr-ilanlarim.com
@@ -58927,6 +58930,7 @@ mobilservisleriniz-5.sbs
 mobilseyehatisleml.duckdns.org
 mobilsiadeplatformalgiris-oneminute.cloud
 mobilsite-tr-shbndn.com
+mobilsokkamp.site
 mobilsondbasvurugiris.ml
 mobilsube-acikdenizdehediyelerkampanya.com
 mobilsubelerimden.com
@@ -74730,6 +74734,7 @@ saglikli.xyz
 sagliklibilgi.duckdns.org
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
+sagliklikalalim.click
 sagliklikalalim.xyz
 saglikliol.giize.com
 saglikliolnnn.mywire.org
