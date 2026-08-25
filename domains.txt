@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 467004
-# Last change: 2026-08-25 08:00:52 UTC (sync mode: delta)
+# Records: 467018
+# Last change: 2026-08-25 09:02:09 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7080,6 +7080,7 @@
 1o1frstlrrkpndaaa.click
 1o1frstttlrbrd.sbs
 1o1gnlernizburda.com
+1o1haftaninyldizlari.com
 1o1harcaharcabitmez.space
 1o1harcaharcabitmezz.space
 1o1harcawx.click
@@ -54030,6 +54031,7 @@ aureon.vc
 aureoncapital.com
 aureonnews.com
 aurera.ddns.net
+aureviontraxeluma.cfd
 auricbay.com
 aurionstar.top
 aurlytnhgd.duckdns.org
@@ -76178,6 +76180,7 @@ bireysel-limitim.xyz
 bireysel-link.cloud
 bireysel-link.de
 bireysel-link.website
+bireysel-magaza.com
 bireysel-mobil-giris.ml
 bireysel-mobil-shop.sbs
 bireysel-mobil-tr.sbs
@@ -83524,6 +83527,7 @@ bnktrjet.app
 bnkver1f1y.hopto.org
 bnkvocu.duckdns.org
 bnlapothecary.biz
+bnlarabrdangrceksn.click
 bnlardanhpssnnyarr.shop
 bnlardnbzeisklmz.shop
 bnlardzmnndasizekydrmadimi.sbs
@@ -209826,6 +209830,7 @@ hizlikapidamarket.com
 hizlikapimda.com
 hizlikapinda.com
 hizlikargo.sbs
+hizlikargolama.com
 hizlikargolar.com
 hizlikatilisacikdenizv2denizbank.co.vu
 hizlikaybol.sbs
@@ -221342,6 +221347,7 @@ ilanda-sepetim-1097.com
 ilanda-sepetim-1098.com
 ilanda-sepetim-1099.com
 ilanda-sepetim-1101.com
+ilanda-sepetim-1102.com
 ilanda-siparislerim.com
 ilanda-ticaretim.com
 ilandan-al.com.tr
@@ -256527,6 +256533,7 @@ kmsorgulamalarinizenhlznsndan.duckdns.org
 kmsorgulamalarinizhemenppttm.com
 kmsorgulamalarinzenhizlisindan.web.app
 kmsorgulamamerkezim.com
+kmsorgulamamizz.web.app
 kmsorgulamapt.blogspot.com
 kmsorgulamaptt.shop
 kmsorgulamapttavmgvlsk.web.app
@@ -298253,6 +298260,7 @@ nowupdates.online
 nowurisch.fit
 nowv21alid.top
 noxbot.ddns.net
+noxelavitumporazek.cfd
 noxeria.ooguy.com
 noxiuos-utopi.bond
 noya.carentotokiralama.store
@@ -302854,6 +302862,7 @@ odndbimcell.com
 odnetiadeesi.xyz
 odnetialmaiade.com
 odnetihlizmlerimizkin.com
+odnmezmnihgsde.cfd
 odnnfasaga.com
 odnoklass-profile.com
 odnpaeefkv.torytol.ru
@@ -303748,6 +303757,7 @@ okey.haoldd.com
 okeylesohbet.ga
 okeyokeysd34.net
 okeyshoot.com
+okf4laz97zdb.server.swissnetwork.io
 okft38.duckdns.org
 okftemrfkq.duckdns.org
 okgdqnjhda.duckdns.org
@@ -321309,6 +321319,7 @@ pazarama.anindaodeme.com
 pazarama.anindaonlinesiparis.com.tr
 pazarama.anlik-ilan-odemesi.com
 pazarama.bireysel-ilan.com
+pazarama.bireysel-magaza.com
 pazarama.bireyselalim.com.tr
 pazarama.bireyselcim.com.tr
 pazarama.bireyselhizmetleriniz.com.tr
@@ -321336,6 +321347,7 @@ pazarama.hizli-havale.com
 pazarama.hizli-ilan-fast.com
 pazarama.hizli-odemem.com
 pazarama.hizlikapimda.com
+pazarama.hizlikargolama.com
 pazarama.hizlikargolar.com
 pazarama.hizlionline.com
 pazarama.ilan-havale-odemem.com
@@ -321343,6 +321355,7 @@ pazarama.ilan-havale.com
 pazarama.ilan-magaza.com
 pazarama.ilanda-sepetim-1092.com
 pazarama.ilanda-sepetim-1099.com
+pazarama.ilanda-sepetim-1102.com
 pazarama.ilandan-fast.com
 pazarama.ile-e-sepetler.com.tr
 pazarama.ile-onay-sepete.com
@@ -409302,6 +409315,7 @@ turkiye-gov-tr.tech
 turkiye-gov-tr.xyz
 turkiye-gov-trmobil.net
 turkiye-gov-trr.com
+turkiye-gov.biz
 turkiye-gov.cam
 turkiye-gov.club
 turkiye-gov.com

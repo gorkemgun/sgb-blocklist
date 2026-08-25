@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101333
-# Last change: 2026-08-25 08:00:52 UTC (sync mode: delta)
+# Records: 101342
+# Last change: 2026-08-25 09:02:09 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1005,6 +1005,7 @@
 1o1frsatlarkapnda.com
 1o1frsatlarnzhizlica.com
 1o1frstlrrkpndaaa.click
+1o1haftaninyldizlari.com
 1o1harcaharcabitmez.space
 1o1hzlicafodemelernz.com
 1o1indirimvargas.space
@@ -13283,6 +13284,7 @@ bireysel-kiralama.com.tr
 bireysel-kredikarti-aidatiadesi.com
 bireysel-link.de
 bireysel-link.website
+bireysel-magaza.com
 bireysel-mobil-shop.sbs
 bireysel-mtvodeme.com
 bireysel-odemehizmeti.com
@@ -14423,6 +14425,7 @@ bnkgrantiprmrsyn.duckdns.org
 bnkisalttr.com
 bnklolasrsa.vercel.app
 bnkmrsylda.xyz
+bnlarabrdangrceksn.click
 bnlarnhpssndevr.click
 bnlast3dayscloudexpression.net
 bnlcl.net
@@ -42427,6 +42430,7 @@ hizlikampanyabasvurusu.online
 hizlikantemsi-8f6890bc61a1.herokuapp.com
 hizlikapida.com
 hizlikapimda.com
+hizlikargolama.com
 hizlikargolar.com
 hizlikaydetseniz.com
 hizlikaydol.online
@@ -44802,6 +44806,7 @@ ilanda-sepetim-1097.com
 ilanda-sepetim-1098.com
 ilanda-sepetim-1099.com
 ilanda-sepetim-1101.com
+ilanda-sepetim-1102.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -51721,6 +51726,7 @@ kmsorgulama79.blogspot.com
 kmsorgulamagovptt-avm.com
 kmsorgulamalarhemenpttgov.vercel.app
 kmsorgulamalarinizhemenppttm.com
+kmsorgulamamizz.web.app
 kmsorgulamaptt.shop
 kmsorgulamapttavmgvlsk.web.app
 kmsorgulamayappburdanptt.duckdns.org
@@ -63232,6 +63238,7 @@ odmyeyklezmni.cfd
 odmykleprdahgs.cfd
 odndbimcell.com
 odnetihlizmlerimizkin.com
+odnmezmnihgsde.cfd
 odorousretrospect.top
 odourconfederation.top
 odourparachute.top
@@ -63424,6 +63431,7 @@ okaydeductible.top
 okayerupt.top
 okbsok7788.coinbase-com.info
 okeyokeysd34.net
+okf4laz97zdb.server.swissnetwork.io
 okhezj4smzur.storage.googleapis.com
 okjnfg.cc
 okkifamily.com
@@ -90051,6 +90059,7 @@ turkiye-egovtr.com
 turkiye-gov-t-rr.org
 turkiye-gov-tr-e-iade-gov-tr-com.rf.gd
 turkiye-gov-tr-evlilik-kredi-basvuru.randevu-islem-tkgm.online
+turkiye-gov.biz
 turkiye-gov.fun
 turkiye-kapisi-giris.com
 turkiye-magazin-ifsalari.com
