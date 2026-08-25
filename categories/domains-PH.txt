@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101372
-# Last change: 2026-08-25 14:08:00 UTC (sync mode: delta)
+# Records: 101378
+# Last change: 2026-08-25 15:08:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -31278,6 +31278,7 @@ evdekal-iadecimergovonlinetr.reklamhesab.tk
 evdekalkartislemlerinizturkiyegovtrweb.com
 evdekalturkiyemtr-cimergovnlinetr.reklamhesab.tk
 evden-is.online
+evdenbasvuruadresi.abrdns.com
 evdeninternetpaketleri.com
 evdeniskurun.com
 evdenislerin.godaddysites.com
@@ -42122,6 +42123,7 @@ hillhypocritical.top
 hillsidebeachhotels.com
 hillsidee.com
 hillsideelegance.world
+hillsidesbeachclub.net
 hillsidesbeachfethiye.com
 hillsidesbeachsclubsfethiyes.com
 hillsubmerge.top
@@ -44818,6 +44820,7 @@ ilanda-sepetim-1098.com
 ilanda-sepetim-1099.com
 ilanda-sepetim-1101.com
 ilanda-sepetim-1102.com
+ilanda-sepetim-1103.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -50145,6 +50148,7 @@ karacagood.shop
 karacagranit.nicepage.io
 karacahome-firsatlar.site
 karacahome.club
+karacahome.online
 karacahome.vercel.app
 karacahomes.shop
 karacahometr.shop
@@ -59797,6 +59801,7 @@ muhasebemizitutacakyokmu3.cfd
 muheydibturizm.com
 muhteremgez.com
 muhtesem-kasim-firsatlari-sahane.com.tr
+muhtesem-lndirim-havasl-kaplna-geldl.com
 muhtesem-lndrm-kaplna-geldl.com
 muhtesem-yuzyilin-indirimi-sende.com
 muhtesem101lefsanekasim.com
@@ -100689,6 +100694,7 @@ zamanvakfi.org
 zamanvakfim.net
 zamanvakfim.org
 zamanznafhal3s32r.blogspot.com
+zamazamazingozo.dnsup.net
 zambakbursum.com
 zambakkyardim.fun
 zambakkyardim.space
