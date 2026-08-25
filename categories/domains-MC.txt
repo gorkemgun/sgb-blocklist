@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41153
-# Last change: 2026-08-23 09:45:32 UTC (sync mode: full)
+# Records: 41157
+# Last change: 2026-08-25 09:53:32 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -2143,6 +2143,7 @@ acjsd.com
 ack.duckdns.org
 ackln5674.com
 acknowledge35.xyz
+aclaraciones-digital.online
 acledit.com
 aclikcokkotubirsey-usom.net
 acnessempo.com
@@ -5033,6 +5034,7 @@ balmoralaustrala.com
 baloglaninki.xyz
 baloncucocuk.com
 balonvaribalota4j.com
+balonx.online
 baltalanmabaltalanmak8.com
 baltrapbalyalama22.com
 bameman.click
@@ -26960,6 +26962,7 @@ panel.sancakcheck.com
 panel.x00x.online
 panel33.beget.tech
 panelareaprivacy.great-site.net
+panelbalonxfs.xyz
 panelmaideus.click
 panelrat.com
 panelss.xyz
@@ -32785,6 +32788,7 @@ sopho.kozow.com
 sopito.website
 soplelec.pics
 sopoal.ddns.net
+soporte-aclaracion.xyz
 sorathlions.com
 sorgu.loclx.io
 sorgularim.site
