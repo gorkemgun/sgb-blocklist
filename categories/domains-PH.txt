@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101349
-# Last change: 2026-08-25 13:13:48 UTC (sync mode: delta)
+# Records: 101372
+# Last change: 2026-08-25 14:08:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -217,6 +217,7 @@
 101-ocak-indirimleri.net
 101-pazar-zamani.com
 101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
+101-sadece-bugune-ozel-extra-sepet-alisveris-indirimi-tr.market-extra.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
@@ -6239,6 +6240,7 @@ alisveris-yap.club
 alisveris-yapsana.club
 alisveris-zamani-com-tr.cfd
 alisveris.frii.site
+alisveris.lol
 alisverisa1o1.net
 alisverisadresin.com.tr
 alisverisbulutu2024.com
@@ -23788,6 +23790,7 @@ daspino.vu
 daspol.surf
 dass33istwidth.top
 dassdaasd12.blogspot.com
+dassdaasd16.blogspot.com
 dasterton.com
 data-covery.com
 data-sound-click.com
@@ -29014,6 +29017,7 @@ efsane-guzel-hatiralar-hep-bizimle-yasayin-bulun.com
 efsane-indirim-sadece-online-ozel.com.tr
 efsane-kampanya-saatigeldi.shop
 efsane-lndirim-havasi-kapinda.com
+efsane-lndirim-havasl-kaplna-geldl.com
 efsane1-indirimler-sadece-online-ozel.com.tr
 efsane1o1kmpanyalaritukeniyr.shop
 efsane1o1kmpanytukenyr.shop
@@ -38039,6 +38043,7 @@ gratis.kasihinfo.com
 gratis.lakeboundtech.com
 gratis.likescandy.com
 gratis.obliqueprism.com
+gratis.paperbacksins.com
 gratis.servehumour.com
 gratis.teknodeno.com.tr
 gratis.v6.army
@@ -40445,6 +40450,7 @@ hawkpresumption.top
 hawktoss.top
 hawwlerbara.com
 haxiraxixdxirimleri.com
+hayajad.sbs
 hayal-ettiginden-cok-daha-fazlasi.top
 hayal-gibi-geldi-tekrardan-simdi.com
 hayalindekiyaninageldi.com
@@ -40658,6 +40664,7 @@ hbgsyuklme.net
 hbiysh.top
 hblpnt.top
 hbncaduyurutr.com
+hbnmhlrsarndlv.com
 hbpnnz.cyou
 hbr67.com
 hbs-tarbiil.com
@@ -41881,6 +41888,7 @@ hgsodemelerimiz.blogspot.com
 hgsodemeleriyapma-gncl.net
 hgsodemeliribblsptt.com
 hgsodeyklenktsi.cfd
+hgsodndismdi.cfd
 hgsodnne.net
 hgsodykle.com
 hgsonlegeciskgmm.duckdns.org
@@ -42358,6 +42366,7 @@ hizlicocuklariz.com
 hizlidabizimle.blogspot.com
 hizlidagitim.com.tr
 hizlidakik.com
+hizlidanismanlikllar.com
 hizlidanogren.xyz
 hizlidiploma.com
 hizlidnzislemleri.com
@@ -42913,6 +42922,7 @@ homenejstt.duckdns.org
 homenestlerdenzehirdark.com
 homenestlerkartallflex2.cloud
 homenews-tr.pro
+homensterkljsf.duckdns.org
 homeoffice365login.myportfolio.com
 homeotypical.com
 homepage----suite---trozor.webflow.io
@@ -44148,6 +44158,7 @@ icesignify.top
 icesulhur.top
 icevundr.com
 ichbinrek.net
+ichikanakanon.com
 ichikananakon.click
 ichthyoesis.top
 iciconstructionincs.com
@@ -53487,6 +53498,7 @@ lekzenntrale.com
 lelelevis.app
 lelelevis.com
 lelfoles.wordpress.com
+lemandelasdera.duckdns.org
 lemarquisbyinwoodhotels.world
 lemetdslogin.com
 lemlermerkezi.formstack.com
@@ -57936,6 +57948,7 @@ mhlrdanrndcgds.shop
 mhlrsafhcsflg.sbs
 mhlrsanrnda.click
 mhlrskasf.com
+mhlsdw.com
 mhlshemen.uk
 mhlshemenc.men
 mhltkfardn.com
@@ -58194,6 +58207,7 @@ mikolop.com
 mikroalan.xyz
 mikrogolds.xyz
 miktarrand.net
+mikunakanon.com
 miladivakfi.site
 milan-booking.space
 milddesignation.top
@@ -59510,6 +59524,7 @@ mrgatescoins.info
 mrgatesgive.com
 mrgncrk.org.tr
 mrhs-aps.online
+mrhs182rvd.click
 mrhsbsvronline.com
 mrhsrrere.cfd
 mrhssrandevuum.com
@@ -59783,6 +59798,7 @@ muheydibturizm.com
 muhteremgez.com
 muhtesem-kasim-firsatlari-sahane.com.tr
 muhtesem-lndrm-kaplna-geldl.com
+muhtesem-yuzyilin-indirimi-sende.com
 muhtesem101lefsanekasim.com
 muhtesemaykampanyasi.cfd
 muhtesemaykampanyasi.icu
@@ -64229,6 +64245,7 @@ onlinemarketdesafranda.com
 onlinemarketimde.com.tr
 onlinemarketindirimlerinde.net.tr
 onlinemarketlerim.com
+onlinemarketlerinavantajia101de.duckdns.org
 onlinemarketmagzasi.com
 onlinemarketsatisi.com.tr
 onlinemarketteindirimler.com
@@ -70173,6 +70190,7 @@ pttavm.alisverishazir.com.tr
 pttavm.alisverisiimguvenliisatis.com.tr
 pttavm.alisveriskeyfim.com.tr
 pttavm.alisverissistemi.com.tr
+pttavm.baglanti-mobilde.com
 pttavm.bireyselalsat.com.tr
 pttavm.bireyselodeme.com.tr
 pttavm.canlisiparis.com.tr
@@ -74430,6 +74448,7 @@ s019fae.cn
 s0k.com.tr
 s0k.sxngun-indirxmleri.top
 s0kagustosyakal.com
+s0kfirsatlarim.duckdns.org
 s0kfrsatbziimlehizlaa.com
 s0kkap1n4gel5infir5s4tl4ri.cyou
 s0kkap1n4gel5infir5s4tl4ri.duckdns.org
@@ -77742,6 +77761,7 @@ set--up---suite--trzor.webflow.io
 set--up--suite----trzor.webflow.io
 setbackcoexist.top
 setcarsfilo.com
+setinizialinrahatinizabakin.sbs
 setourset.webflow.io
 setoven.store
 setpasskey.com
@@ -80943,6 +80963,7 @@ sozcua.com
 sozcucomtr.com
 sozcuturkey.com
 sozireo.com
+sozkmlarketler.com
 sozlesme-imzala.com
 sozlesme-islemleri-online.com
 sozlesme-police.com
@@ -81730,6 +81751,7 @@ ssso---coinbasepro--cd--auth.webflow.io
 ssso-itrustcapital-com-autths.webflow.io
 sssokbzcmmle.com
 sssookaldinaldinfrsatibizle.org
+sstmrvdbrdanbk.click
 sstrak-bsrvat.cfd
 ssusfoeollu.com
 sswebhgsgecisleriilgcs.duckdns.org
@@ -92261,6 +92283,7 @@ v4rgix3wxdfgifixode.net
 v5rxg1c1pdex.net
 v8z.us
 v97uilu.cn
+v999995.site
 va-ez.com
 va-kifnetlimi-t.xyz
 va-lane.com

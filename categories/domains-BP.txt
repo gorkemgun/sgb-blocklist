@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257580
-# Last change: 2026-08-25 13:13:48 UTC (sync mode: delta)
+# Records: 257594
+# Last change: 2026-08-25 14:08:00 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2514,6 +2514,7 @@
 136896547.top
 137905808.online
 137985854.online
+1379889898999899092.duckdns.org
 139-bosvurularim.dvrlists.com
 13agustos-carsambam.com
 13agustossatadsiparis.net
@@ -7726,6 +7727,7 @@
 496465419874.cloud
 49651566151417.net
 4977721.cloud
+4984168431555.sbs
 49843432322684.sbs
 49843544322684.sbs
 498464945984.cloud
@@ -33173,6 +33175,7 @@ basvursrn.xyz
 basvursrs.com.tr
 basvursrs.sbs
 basvursrs.xyz
+basvursrv.sbs
 basvursrx.com.tr
 basvursrx.cyou
 basvursrz.com.tr
@@ -56131,6 +56134,7 @@ cautran.id.vn
 cavaxa.click
 cavbelavirre.site
 caveinmove.com
+cavonirexulampetoz.cfd
 cawi.piratesbean.cfd
 cawra3645.com
 cawrll.is-best.net
@@ -62291,6 +62295,7 @@ darbcard.cfd
 darbelimatkap.xyz
 darcgvydbhnj-yatwfcdvg-agfcxd.shop
 dardagecenzamandeniz.com
+dareboko-rolemoli.lol
 darembo.info
 darenzo.shop
 darenzo.site
@@ -89275,6 +89280,7 @@ evdekpaketleme-org.ml
 evdemkevdemlevdem.net
 evden-ekgelir-hizmet.blogspot.com
 evden-ekgelir2023.blogspot.com
+evdenbasvuruyap.abrdns.com
 evdencallcenter.online
 evdenekisimsitegovtr.blogspot.com
 evdenevecevdet.cfd
@@ -99261,6 +99267,7 @@ garantiteyitmerkezleri.duckdns.org
 garantitili.com
 garantitoggcekilisi.site
 garantitoggonbasvuru.site
+garantitr.com
 garantitrk.online
 garantitronline.com
 garantitrr.com
@@ -168292,6 +168299,7 @@ ns-wwwbloomberghtcom.belgasuplock.cfd
 ns-wwwbloomberghtcom.ithandinogen.cfd
 ns-wwwbloomberghtcom.sithen.sbs
 ns-wwwhaber61net.amidolstarny.cfd
+ns-wwwhaber61net.cobblex.sbs
 ns-wwwhaber61net.fakingguango.cfd
 ns-wwwhaber61net.feints.cfd
 ns-wwwhaber61net.galibigirly.cfd
@@ -178264,6 +178272,7 @@ paparallah.tk
 paparalogi.com
 paparalogin.ga
 paparam.ml
+paparamenkuldeger.com
 paparamkart.com
 paparamz.com
 paparanapk.com
@@ -193383,6 +193392,7 @@ rwndevunvigovtr.blogspot.com
 rwp6k.tw
 rwrite-go.com
 rwrwrqwdghe.click
+rwslink.net
 rwwwbakatlimolduller.com.tr
 rxgiqbxgbqne.storage.googleapis.com
 rxixmzxrlkrtyxklee.net
@@ -198134,6 +198144,7 @@ sahlblndenguvende.com
 sahlblndln-guvende.com
 sahlbndenparamguvendee-ode.com
 sahlibinden-paramguvende.cf
+sahnazceylans.duckdns.org
 sahndasgda.click
 sahnedeyizbaba.net
 sahravakif.website
@@ -209097,6 +209108,7 @@ sponsorkampanya.com
 sponsorkampanyasi.com
 sponsorllu-rekalamlar.com
 sponsorllukampanya.com
+sponsorlu--tanitim.online
 sponsorlu-01.pw
 sponsorlu-01.sbs
 sponsorlu-01.site
@@ -227030,6 +227042,7 @@ tuvtrk-rezervasyonmuayene.com
 tuvtrkaracmuaynb.web.app
 tuvtrkaracmuayneg.web.app
 tuvtrkarxcmuayneservxqlf.net
+tuvtrkk-aracmuayne.web.app
 tuvtrkkmyene.com
 tuvtrkl-k.digital
 tuvtrkl-l.digital
@@ -246920,6 +246933,7 @@ yanb3b34.xyz
 yanblbsvnrn.it.com
 yancesakencakan.cfd
 yanda-yukle.22web.org
+yandanhektors.duckdns.org
 yandigonlum.net
 yandikbey-e-p-t-t-a-v-m.shop
 yandmandmayrni.online
