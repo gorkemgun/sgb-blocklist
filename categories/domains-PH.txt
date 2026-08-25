@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101321
-# Last change: 2026-08-24 22:46:42 UTC (sync mode: delta)
+# Records: 101331
+# Last change: 2026-08-25 07:10:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1775,6 +1775,7 @@
 4144413221.cloud
 415545618516165665.cloud
 417478124781287421.cloud
+41865485646468.sbs
 41m4at124bsbs.com
 420bud420.za.com
 420community.tech
@@ -8667,6 +8668,7 @@ asfinag-pay.shop
 asfsadfrwqarf.sbs
 asfsadfvkmmnkfvkln.net
 asfsdqwffsadlsafm.net
+asfwetsfzsv.blogspot.com
 asfwqffwqwfqwfdsa.com
 asg12q1gasgasdg.net
 asgaarasa.click
@@ -35572,6 +35574,7 @@ garbageirritation.top
 garbagescrape.top
 garbageviable.top
 garbantradar.com
+garbinafakini.click
 garcanocan.co
 gardassmsver.online
 gardemeubles-europeen.fr
@@ -38817,6 +38820,7 @@ gununbakisi.cyou
 gunundosyasi.com
 gununfirsatiburada.com
 gununfirsatlari.com
+gununfirsatlarindan.online
 gununfirsatlarindeyiz.com
 gununvizyonu.com
 gunvetarih.app
@@ -40849,6 +40853,7 @@ hedgemoraforthermostion.com
 hedgepastry.top
 hedgescenario.top
 hediye-bayramcekilisonaysube.com
+hediye-burada.online
 hediye.acikdeniz.denizbank.18-133-220-72.plesk.page
 hediye.acikdeniz.denizbank.l8-237-7l-2l7.plesk.page
 hediye.mobildeniz.giris.52-27-117-178.plesk.page
@@ -41833,6 +41838,7 @@ hgsgvnlrodekls.com
 hgsgvnlrrkls.com
 hgsgvnlrykle.com
 hgshaciz.in
+hgshahgfakf-sada.shop
 hgshizliportal.net
 hgshop.ml
 hgshukukbirim.com
@@ -65393,6 +65399,7 @@ ozllkmpynyaasbsbrrrfrstlar.pro
 ozlllfrsltrrbsvrrkmpnyalari.art
 ozlllfrsltrrbsvrrkmpnyalari.info
 ozm.flylineaeru.com
+oznelfirsatlar.abrdns.com
 ozon58.ru
 ozrgldermfg.net
 oztane.com
@@ -79235,6 +79242,7 @@ sireneluxuryhotelspa.com
 sirenorphan.top
 sirinivas.com
 siriqui.xyz
+siritmax.sbs
 siritmax.xyz
 sirlarinizi-bizden-saklamayin-kimseler-duymasin.com
 sirypya.com
@@ -84579,6 +84587,7 @@ tarnelcress.top
 tarotfali.ml
 tarrrimrndv.net
 tarweej.top
+tarzgymsporfitnness.duckdns.org
 tarzxgiyimistxx.xyz
 tasangrc.com
 tasanzvz.net
@@ -85872,6 +85881,7 @@ tentativetentative.top
 tentativetrilln.top
 tentcook.top
 tentens.duckdns.org
+tenteronsa.duckdns.org
 tentinborn.top
 tentnumb.top
 tenttug.top
