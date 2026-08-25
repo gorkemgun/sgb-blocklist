@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101380
-# Last change: 2026-08-25 16:02:54 UTC (sync mode: delta)
+# Records: 101384
+# Last change: 2026-08-25 16:58:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -24369,6 +24369,7 @@ deliveryversatile.top
 delkrano.com
 dellliiindiirmler.com.tr
 delmarlc.net
+deloriagoods.shop
 delpharo.xyz
 delta-careers.com
 deltavip.online
@@ -47251,6 +47252,7 @@ isbnkasiwebsubayrntilr6.shop
 isbryselbasvrular.online
 isbsvrlfmd.com
 isbtlbkdbasv.com
+isbturkey.org
 isbxnkqrsitr.xyz
 iscamvbul.net
 iscemxirb4ky3m.net
@@ -56457,6 +56459,7 @@ marketinkapida.net.tr
 marketinkapida.org.tr
 marketinsightpro.online
 marketinternetsatis.com.tr
+marketinucuzlugusadecea101online.duckdns.org
 marketinvolve.sbs
 marketix.capital
 marketkapinda.online
@@ -73829,6 +73832,7 @@ rk6brit.cn
 rkfbvg.cfd
 rkqzki.click
 rksbisikletim.com
+rktnosa21.loseyourip.com
 rlasdlvt-vdvt.com
 rleghlt-smrlite-cfmng.com
 rlovcia.top
