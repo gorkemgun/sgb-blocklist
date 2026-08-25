@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101347
-# Last change: 2026-08-25 11:46:43 UTC (sync mode: delta)
+# Records: 101349
+# Last change: 2026-08-25 13:13:48 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -74953,6 +74953,7 @@ sahibinden-online-tr.online
 sahibinden-online-tr.xyz
 sahibinden-online.com
 sahibinden-online.urun-s.net
+sahibinden-order.com
 sahibinden-org.ga
 sahibinden-p.aram-guvende.com
 sahibinden-p.online
@@ -90425,6 +90426,7 @@ tuvssssmuayneneeessrrr.net
 tuvsxstrksw.net
 tuvtr-veri-system.net
 tuvtrkaracmuayene.govt.hu
+tuvtrkaracmuayene.ldtp.com
 tuvtrkarcmuayneet.net
 tuvtrknmynae-aracmuayneetf25.net
 tuvtrkodemelesi.net
