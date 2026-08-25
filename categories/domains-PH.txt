@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101394
-# Last change: 2026-08-25 19:47:53 UTC (sync mode: delta)
+# Records: 101397
+# Last change: 2026-08-25 20:48:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12275,6 +12275,7 @@ beyazitli.click
 beyazsigorta.site
 beyaztakip.com
 beyaztakip.net
+beygirogluumm.dnsup.net
 beyinlazim.sbs
 beymenplay.com
 beyogluoil.com
@@ -50444,6 +50445,7 @@ katalogfirsat.b-cdn.net
 katalogfirsatlari.net
 katalogfirsatlarimwx.online
 katalogurunler.icu
+katamoli-toromide.lol
 katanacheck.fun
 katanacheck.online
 katanacheck.store
@@ -63716,6 +63718,7 @@ one-usdt.net
 one-view-truist.cc
 one.postegrolili.live
 one1click1cfd.cfd
+onedayjustwillbe.top
 onedio-news.icu
 onedrive-23n.sbutler-stateservice-us-s-account.workers.dev
 onedrive-ac4.ryker-samik-dropmeon-com-s-account.workers.dev
