@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101520
-# Last change: 2026-08-26 20:05:31 UTC (sync mode: delta)
+# Records: 101529
+# Last change: 2026-08-26 23:40:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30997,6 +30997,7 @@ esube.my-homeip.com
 esubeceptetebkrediv2.co
 esubeinfonline.com
 esubeinfoyatirim.com
+esubem.my-homeip.de
 esubemfibavarlikmobil.online
 esubenizz.net
 esubeturkishkayit.com
@@ -32258,6 +32259,7 @@ eylullayiisalifirsati.online
 eylulozelflrsat.com
 eylulozelflrsat.me
 eylulsonfirsatlar.shop
+eylulsonundayizbizler.duckdns.org
 eylulyildizionllnee.com
 eymengazel.com
 eymhgsm.com
@@ -65867,6 +65869,7 @@ palasanan.net
 palasanen.net
 palasasan.net
 palasnasen.net
+palasude-salabazi.lol
 palausuitesapartments.world
 palazzocahde.com
 palazzocahiderez.durable.co
@@ -67397,6 +67400,7 @@ perakendemagazazincirleri.com
 perakendeonlineozel.com.tr
 peramancapg.com
 perapogipu.com
+perasude-serenapo.lol
 perceiveexcerpt.top
 percentageerosive.top
 percentagegreasy.top
@@ -71753,6 +71757,8 @@ rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
 rafalardakiindiirmhavasiburadaesiyor.com.tr
 rafata3131acsldjcklk1j3x12.cfd
+rafatafakitap123x545x.shop
+rafatafatufatifa41x12313.shop
 rafatafax123213z123.sbs
 rafatebx1j23jx123z123.cfd
 rafflebnnancegiris.site
@@ -74679,6 +74685,7 @@ saburovnurlan.ru
 sacbakim-dyson-airwrap.com.tr
 sacbakim-dyson.com.tr
 saceceonlaynfrsstlr.blogdns.org
+sackdalskx13x1312.shop
 sackhysterical.top
 sacmalamwesd.net
 sacmasapan.click
@@ -85380,6 +85387,7 @@ tekdokunus.website.gidatas.com
 tekdokunus.xyz
 tekdokunus.xyz.gidatas.com
 tekdokunustalndirim.com
+tekdokunustalndirimevinde.com
 tekevafibav.info
 tekfirsatsponsorlurklam.com
 tekflux.cfd
@@ -98264,6 +98272,7 @@ xn--akariyerrkaps-fbcb.com
 xn--aktuelfirsatlareylul-wbd.online
 xn--alaidaialtdepe-zzc.app
 xn--aldnaldnkampanya-cqce.com.tr
+xn--alhadisalikliyasa-9lc.xyz
 xn--alis-veris-bayram-zel-bonus-6yc.site
 xn--alsveis-sok-indirimli-gunlerii-3qe.info.tr
 xn--alterelder-1s6e.top
