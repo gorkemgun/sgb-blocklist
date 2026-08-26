@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 467205
-# Last change: 2026-08-26 08:02:24 UTC (sync mode: delta)
+# Records: 467222
+# Last change: 2026-08-26 09:05:24 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5847,6 +5847,7 @@
 182randvm.com
 182webicinrndsv.com
 182webstt.click
+182webstt.lat
 1833.site
 1835304-coinbase.com
 18378219294848819119384.xyz
@@ -74849,6 +74850,7 @@ binancekullanicilarinayuzdeyirmibesgeriveriyorsimdibasvur.net
 binancekurtarma.vercel.app
 binancelink.com
 binancelldehediyeler2022.ml
+binancelogin-tr.com
 binancelogin2023dogrula.line.pm
 binanceloginacaounttr.line.pm
 binancelogins-com.ml
@@ -76339,6 +76341,7 @@ bireysel-sahibindenget-com.tk
 bireysel-sahibindenget-tr-com.ml
 bireysel-sanalsube.com
 bireysel-sanalsubemiz.com
+bireysel-satis.com
 bireysel-secure-ilan.com
 bireysel-servis-aktarim-cep-tr.com
 bireysel-shop-tr.click
@@ -79948,6 +79951,7 @@ bk2an13scnfirmz01.duckdns.org
 bk3t34ez.duckdns.org
 bk4jsv.duckdns.org
 bk677.ejlsc0.com
+bk774.site
 bk8f0qvu.duckdns.org
 bk8qzv1mxt4nry7wpl2hf.click
 bk9u6mngw.duckdns.org
@@ -123947,6 +123951,7 @@ deust.net
 deutsche-chartered-bank.cloudswt.com
 deutsche-info.ddns.net
 deutsche-post.duckdns.org
+deutschebank-ident.com
 deutschland-safer-amazon-info.info
 deutschland-zahlung.eu
 deutschland-zahlung.net
@@ -145062,6 +145067,7 @@ edvltvaktindeaidatlarr.com
 edvntltz.mooo.com
 edvntltzz.strangled.net
 edvs-basvuru-iadeformu-edevlet.com
+edvs-tapursvnnusz.info
 edvs-tapursvnnusz.net
 edvtaidtiaade.com
 edvtapkonlv.com
@@ -201552,6 +201558,7 @@ hemeaktuellersepete.xyz
 hemeenn-kapiniizaa-tesliimm.xyz
 hemefersflesk.com
 hemeins-nsonuc.net
+hemeisnan-sonu.net
 hemeleterfesa.duckdns.org
 hemelnnotnkasi.online
 hememislemnkta.net
@@ -203611,6 +203618,7 @@ herkesmostlerkes.click
 herkesmutluolsun.com.tr
 herkesokusun.online
 herkesokusun.org
+herkessahibiiolsun.sbs
 herkessahipolsundiyesinirlisayida.sbs
 herkessendekalancapake.cfd
 herkessendekalancapake.sbs
@@ -208968,6 +208976,7 @@ hizlialisverislersizlerle.com.tr
 hizlialisverislersizlerle.online
 hizlialisverislersizlerle.xyz
 hizlialisverislersizlerleanindakapinizda.online
+hizlialisverismerkezisadecea101de.duckdns.org
 hizlialisverissende.com.tr
 hizlialisverissende.online
 hizlialisverissende.xyz
@@ -220112,6 +220121,7 @@ ifl8vu.ddns.net
 ifldng.net
 ifmelbqun2mxa3lchticargadi-jj2cvlaia66be-www-isbank-com-tr.translate.goog
 ifn1h8ag1g.com
+ifonedaybetellmee.top
 ifoodgarantibbva.com.ph
 ifoodplayground.com
 iforgot-appleid.com
@@ -228395,6 +228405,7 @@ internetten-qnbfinans.com
 internetten-sosyaldestekbasvuru.com
 internetten-trafik-cezasi-odeme.blogspot.com
 internetten-ziraat.com
+internetten.site
 internettenaidetodeme.tk
 internettenaracmuayene.net
 internettenbasvuru-qnbfinans.com
@@ -248323,6 +248334,7 @@ karacahome.online
 karacahome.site
 karacahome.vercel.app
 karacahomes.shop
+karacahomestore.shop
 karacahometr.shop
 karacaiindirrim.click
 karacaiindirrim.com
@@ -281720,6 +281732,7 @@ mlsbest.blogspot.com
 mlsfasr616.weebly.com
 mlsksls-aldlmsl-smsnsa.sbs
 mlsn1.xyz
+mlsriantvi.icu
 mlsrlerlereadal.com
 mlsvq0a4qvadab58s4ibgxw.ddns.net
 mltbaz.click
@@ -339945,6 +339958,7 @@ rahataerdikbakarsangor.cfd
 rahatalisverisimiz.biz.tr
 rahatalisverisimiz.info.tr
 rahatarama-bildirimplatformirtwebtr.com
+rahatinaduskunolanlara.sbs
 rahatiniza-birazda-yakinlasip-gercekten-bildiren.com
 rahatiniza-kaldigi-gibi-birden-senden-iyiyiz.com
 rahatinizi-burdan-uzaga-getirmeden-bitirmeyiz.com
@@ -349975,6 +349989,7 @@ sadcnonlinkmo.duckdns.org
 sadconlfsdridst.blogspot.com
 sadconlna1o1kamp.duckdns.org
 sadconlndekmp.duckdns.org
+sadcsajkjkx123x132.shop
 sadcsfoirtlaronline101detrccvtr.blogspot.com
 sadcsfoirtlaronline101detrtr.blogspot.com
 sadcsfoirtlaronline101trefdctrcvtr.blogspot.com
@@ -398320,6 +398335,7 @@ tokylebasvrngnder.com
 tokyo-new.icu
 tokyoghoulysseynn.ddns.net
 tokyogrub.duckdns.org
+tokyolokko.co
 tol-liber-oreal.myonlineportal.ch
 tol5evwm.duckdns.org
 tolago.click
@@ -432568,6 +432584,7 @@ webstersguitaracademy.com
 webstp.com
 webstrbilsis.duckdns.org
 webstt182.com
+webstt182.sbs
 websubayrntilrk3.xyz
 websubayrntilrmimm02.xyz
 websubayrntilrmimm2.xyz

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101420
-# Last change: 2026-08-26 08:02:24 UTC (sync mode: delta)
+# Records: 101437
+# Last change: 2026-08-26 09:05:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -808,6 +808,7 @@
 182iletisim.cyou
 182iletisim.xyz
 182lrdnbrdarvdbk.store
+182webstt.lat
 1835304-coinbase.com
 185-167-99-250.plesk.page
 185-216-70-93.plesk.page
@@ -13063,6 +13064,7 @@ binancekampanyasorgulamavekayityapmagirissayfasi.net
 binancekullanicilarinayuzdeyirmibesgeriveriyorkatil.net
 binancekullanicilarinayuzdeyirmibesgeriveriyorsimdibasvur.net
 binancelldehediyeler2022.ml
+binancelogin-tr.com
 binancelogin2023dogrula.line.pm
 binanceloginacaounttr.line.pm
 binancelogins-com.ml
@@ -13302,6 +13304,7 @@ bireysel-payfix.vercel.app
 bireysel-ptt.com
 bireysel-sahibinden.com.tr
 bireysel-sahibindenget-com.tk
+bireysel-satis.com
 bireysel-subedenizv2denizbank.online
 bireysel-superonline.net
 bireysel-v250insesgbnk-com-tr.tk
@@ -13797,6 +13800,7 @@ bjysfe.buzz
 bjzxjmcl.net
 bk-for-glres.click
 bk-vvkf-grsm.com
+bk774.site
 bkdsldsmxclmdsldm.com
 bkdwhx.ru.com
 bkhrzp.top
@@ -25383,6 +25387,7 @@ detroithizmetleri.icu
 detroitservis.icu
 deukargotakip.com
 deuslrachecker.xyz
+deutschebank-ident.com
 deutschland-safer-amazon-info.info
 dev-dev-devletsiletisim-get.com
 dev-gelismeler-takibi-hakeden-sizlere.org
@@ -28959,6 +28964,7 @@ edvltkardaidattlariniziailin.online
 edvltkmpnyam.com
 edvltlrdsn.xyz
 edvltmobilonlineformbasvuruolustur.ml
+edvs-tapursvnnusz.info
 edvs-tapursvnnusz.net
 edvtaidtiaade.com
 edvvletyrdmlarbaslyr.online
@@ -41106,6 +41112,7 @@ helwmgsl.sbs
 helytra.com
 heme-sn-sonuc.net
 hemeins-nsonuc.net
+hemeisnan-sonu.net
 hemeleterfesa.duckdns.org
 hememislemnkta.net
 hememnssnltamsa.net
@@ -41510,6 +41517,7 @@ herkesinyanindayiz.com
 herkeskiralar.com
 herkeslerisever.net
 herkesokusun.online
+herkessahibiiolsun.sbs
 herkessetsahibiolsundiye.sbs
 herkestenonceal.com
 herkimerdiamondquartz.com
@@ -42337,6 +42345,7 @@ hizlialimlar.com.tr
 hizlialimlarin.com.tr
 hizlialimservisi.com.tr
 hizlialisverimizde.space
+hizlialisverismerkezisadecea101de.duckdns.org
 hizliaracadreseteslimat.online
 hizliaracbzdolabi.xyz
 hizliaracinikirala.com
@@ -44555,6 +44564,7 @@ ifadeceliskilisfsa.duckdns.org
 ifheyh.top
 ifjqzzu.cn
 ifldng.net
+ifonedaybetellmee.top
 ifpathetic.top
 ifudetours.com
 ig-copyrightappealsform.ml
@@ -46865,6 +46875,7 @@ internetsubesigiris1.com
 internetsubtlety.top
 internett-ozel.com.tr
 internettan.top
+internetten.site
 internetvergidaire.net
 internetvergidairesi.app
 internetwatchtower.com
@@ -50174,6 +50185,7 @@ karacahome.club
 karacahome.online
 karacahome.vercel.app
 karacahomes.shop
+karacahomestore.shop
 karacahometr.shop
 karacaileramazan.cfd
 karacaistnye.cfd
@@ -58612,6 +58624,7 @@ mlksmmskbsb.net
 mloe2.top
 mlrssizlerel.cfd
 mlrsyntkpm.xyz
+mlsriantvi.icu
 mlsrlerlereadal.com
 mltlvtemmuzweb.com
 mltvcx.net
@@ -71692,6 +71705,7 @@ ragnaroa.com
 rahat-edin-bitisi-takip-ederiz.com
 rahat-yasam-icin-mutlu-keyif.com
 rahatalisverisimiz.biz.tr
+rahatinaduskunolanlara.sbs
 rahatsizedenleribildir.click
 rahimba.com
 rahmankazak.cfd
@@ -74624,6 +74638,7 @@ sadceozlonlnxfirsarxlar.xyz
 sadceyonlyeozalfrrstlar.blogdns.org
 sadcfrstlndrm.xyz
 sadchaira.top
+sadcsajkjkx123x132.shop
 sadcsfoirtlaronline101trefdctrcvtrfs.blogspot.com
 sadcsolfrisatrl1o1onl.blogdns.com
 sadcuisine.top
@@ -87391,6 +87406,7 @@ tokybasfguwtuqwr24.online
 tokyibasvurusu.work
 tokylebasvrngnder.com
 tokyo-new.icu
+tokyolokko.co
 tolago.click
 told709providepopulate.live
 tolerantlongitudinal.top
@@ -95627,6 +95643,7 @@ websorgula-icra.online
 webstaking-wallets.com
 webstaticdata.com
 webstt182.com
+webstt182.sbs
 websube-vakifgiris.online
 websubeckbogazici.com
 websvltonlineislemxxc.club
