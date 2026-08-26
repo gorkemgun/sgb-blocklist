@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 467166
-# Last change: 2026-08-26 04:57:57 UTC (sync mode: delta)
+# Records: 467186
+# Last change: 2026-08-26 05:52:02 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -37818,6 +37818,7 @@ akbank-direkt-esube-kampanyafirsati.club
 akbank-direkt-esubekampanyasi.club
 akbank-direkt-firsatkampanyasi-esube.club
 akbank-direkt-firsatkampanyasi-esubetr.club
+akbank-direkt-firsatkampanyasi-esubetr.ph
 akbank-direkt-firsatkampanyasi.club
 akbank-direkt-guncel-puan-kampanyasi.club
 akbank-direkt-online.tk
@@ -38302,6 +38303,7 @@ akbanknv.de
 akbankodeme.ml
 akbankofficial.com
 akbankonline-giris.com
+akbankonline-giris.ph
 akbankonline-sube.com
 akbankonline-tr.com
 akbankonline-tr.eu
@@ -59880,6 +59882,7 @@ bankadenetlemekurumu.ml
 bankadosyamasrafiiadesi.blogspot.com
 bankafolder.com
 bankagiris.com
+bankaguncelle.22web.org
 bankaguvenlik.com
 bankahalk.epizy.com
 bankahesabi.tk
@@ -87550,6 +87553,7 @@ brosurhediyesi.live
 brot.noneedtowaitbrowser.com
 brother-keep.com
 brothercanoe.top
+brotherislem.22web.org
 brothermint.top
 brotherpending.top
 brothersjoy.nl
@@ -124100,6 +124104,7 @@ developer-app.xyz
 developer-facebook.com
 developer-package.dev
 developer.cdn.com.kz
+developer.evsahibibasvuru.com
 developerbeta.dev
 developerchrome.com
 developerhysterical.top
@@ -173895,6 +173900,7 @@ garantibbva-erstebank.ph
 garantibbva-form.alwaysdata.net
 garantibbva-giris.life
 garantibbva-giris.wuaze.com
+garantibbva-gov.ph
 garantibbva-hepsiburada.com.ph
 garantibbva-hesabim.com
 garantibbva-iadelerim.com
@@ -181841,6 +181847,7 @@ giristurkiyegovpandemionlinebasvuru.com
 giristurkiyegovtr-gov-tr-kart-iade.com
 giristurkiyegovtr-gov-tr-kart-iadetr.com
 giristurkiyegovtr.com
+giristurkiyegovtr.vercel.app
 giristurkiyegovtrgirisgir.co.vu
 giristurkiyeiadekapisigovtr.com
 giristurkiyekapilarigovtr.com
@@ -184555,6 +184562,7 @@ gov-tr.xyz
 gov-tr1.tk
 gov-trbi.top
 gov-trcl.top
+gov-trendyol.com.ph
 gov-trendyol.ph
 gov-turkey.com
 gov-turkeyonline.traccedirespiro.it
@@ -203713,6 +203721,7 @@ herseyeburadayenilenerek.com
 herseyeindirmlergeldi.online
 herseyfirsatlarinlaguzeldeniz.xyz
 herseyfirsatlarinlaguzeldenizbonus.xyz
+herseyguzelolacaksendegelyao15.click
 herseyhalkimiziicin.sbs
 herseyhasd.com
 herseyhasd.net
@@ -213209,6 +213218,7 @@ hoqsunlkfe.duckdns.org
 hor-odemeler.online
 horecanlesmes.com
 horecasprendimai.lt
+horferruhs.duckdns.org
 horgs.org
 horhgss.com
 horidancai.xyz
@@ -227409,6 +227419,7 @@ internationalservices.cards
 internationalservlces.xyz
 internationalstrategy.org
 internationaltickle.top
+internatsube-akbank.ph
 interneetsube-yapikredi.com
 internet---qnbfinansbankasi.com
 internet--edevletdestek.com
@@ -305009,6 +305020,7 @@ onbjl.com
 onbkmpnyaprmsynnn.info
 onbkmpnyaprmsynnn.live
 onbkmpnyaprmsynnn.pro
+onboarding.evsahibibasvuru.com
 onbonline.mefound.com
 onbwvvughjqdrwn.cn
 oncameraworkout.com
@@ -310818,6 +310830,7 @@ orblemperg.xyz
 orbugicfib.duckdns.org
 orbyscabz.com
 orc-talep-basvuru-formu.org
+orcamento.evsahibibasvuru.com
 orcapraiahotel.world
 orcateheck.com
 orccgsmryw.duckdns.org
@@ -331542,6 +331555,7 @@ ptt-trafiksigorta.com
 ptt-trameriniz-aktif.blogspot.com
 ptt-trar.top
 ptt-trc.top
+ptt-trendyol.com.ph
 ptt-trgov-tr.top
 ptt-trgov.top
 ptt-trgov.xyz
@@ -332009,6 +332023,7 @@ pttavm.alisveriyap-online.xyz
 pttavm.aninda-odeme.com
 pttavm.ayinfirsati.com.tr
 pttavm.baglanti-mobilde.com
+pttavm.baglanti-tamamlama.com
 pttavm.baglantilarin.com
 pttavm.baglantilariniz.com
 pttavm.baglantilarla.com
@@ -332079,6 +332094,7 @@ pttavm.gvnnli-odmehzmetii.com
 pttavm.hazirsepet.info.tr
 pttavm.hazirsepette.info.tr
 pttavm.hemensepet.com.tr
+pttavm.hizli-guvenli-alim.com
 pttavm.hizli-islem.online
 pttavm.hizli-siparisislem.com
 pttavm.hizli-tedarik.online
@@ -347878,6 +347894,7 @@ rtetogg.net
 rtetrtrtccbmtrhazinegov2.b-cdn.net
 rtettenyesin.net
 rtey73838.click
+rtf-yukleme.22web.org
 rtflxpdj.com
 rtfsxz.html-5.me
 rtgddpedtts.pw
@@ -381291,6 +381308,7 @@ studio-candybox.com
 studio-obs.com
 studio-obs.net
 studio-obs.org
+studio.evsahibibasvuru.com
 studio11bwy.com
 studio78.xyz
 studiobyjudithterhaar.com
@@ -409455,6 +409473,7 @@ turkiye-gov-trmobil.net
 turkiye-gov-trr.com
 turkiye-gov.biz
 turkiye-gov.cam
+turkiye-gov.click
 turkiye-gov.club
 turkiye-gov.com
 turkiye-gov.fun
@@ -412854,6 +412873,7 @@ uasduc.duckdns.org
 uasere.ddns.net
 uasfjgsam.click
 uasmsjd.cn
+uat.evsahibibasvuru.com
 uath--sso-itrustcapital.webflow.io
 uatimin.com
 uavnodes.com
