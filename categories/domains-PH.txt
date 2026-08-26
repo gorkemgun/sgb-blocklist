@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101496
-# Last change: 2026-08-26 15:54:23 UTC (sync mode: delta)
+# Records: 101507
+# Last change: 2026-08-26 18:05:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -13278,6 +13278,7 @@ birdenmgec.is-best.net
 birdhurdle.top
 birdie-battle.com
 birelonavu.gifts
+biremoli-folebazi.lol
 birey-garanti-formu-basvur-online.ml
 birey-kampanyali-yilsonu-ozel-online.kampanya-basvuru-sayfa.xyz
 birey-mert-kale-mert-iade.ml
@@ -33058,6 +33059,7 @@ festivalpigeon.top
 festivalsolenimbasladi.com
 fetchimpetus.top
 fetfasenmi.net
+fethiyeturizmseyahat.com
 fetisov-arena.com
 feturkstore.xyz
 feverishdine.top
@@ -37571,6 +37573,7 @@ goldfrture.top
 goldlinguistic.top
 goldzonexa.world
 golebewski.pl
+goleboko-virepala.lol
 golf-kings-rgtaer0xym1spb2r.builder-preview.com
 golfgfd.info
 golfinsrousin.com
@@ -42554,6 +42557,7 @@ hizlisiggortacim.gen.tr
 hizlisiggortacim.org.tr
 hizlisigortahizmeti.com.tr
 hizlisigortalamamerkezi.com.tr
+hizlisigortam.click
 hizlisigortamyeni.com.tr
 hizlisigortanyeni.com.tr
 hizlisiparis-101ozel.online
@@ -47902,6 +47906,7 @@ istjweaknseasw.com
 istkadarbkasadn.com
 istkarartara.xyz
 istkaratata.cfd
+istkarlanlasanadas.com
 istkarllt.blogspot.com
 istkarstl.com
 istkart.net
@@ -54298,6 +54303,7 @@ ln4awm7.cn
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
 lnddrmm-klmmaaa.com
+lndirimkapinqgeldi.sbs
 lndlirmli1-o-1ler.com
 lndlrlm-haftasl-odeme-online.com.tr
 lndlrlm-kasim-ayi-ozel.com
@@ -58007,6 +58013,7 @@ mhbdbuealldnndeu.fun
 mhbdbuealldnndeu.website
 mhcese.netlify.app
 mhdresrndevvsu.com
+mherese.com
 mhfabthgsbska.shop
 mhgfshsfdhds.art
 mhgtheatre.ru
@@ -58994,6 +59001,7 @@ mobilonlinebasvuruedvlt-2022.ml
 mobilonlinebasvurugiris.ml
 mobilonlinedogrulavarlikservice.online
 mobilsafariozel.cloud
+mobilsepetalim-10.online
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
@@ -81857,6 +81865,7 @@ sssasswsdsddbimmmcceeekmpnya444.org
 sssklrkmflrskmcsztmrss.com
 ssslcdsklflskdflksckflds.cfd
 ssslkfkmckzmtmrkmfmklcmzmktmsms.store
+ssslllllpppppsssbrrr.sbs
 ssso---coinbasepro--cd--auth.webflow.io
 ssso-itrustcapital-com-autths.webflow.io
 sssokbzcmmle.com
@@ -85357,6 +85366,7 @@ tekdokunus.website
 tekdokunus.website.gidatas.com
 tekdokunus.xyz
 tekdokunus.xyz.gidatas.com
+tekdokunustalndirim.com
 tekevafibav.info
 tekfirsatsponsorlurklam.com
 tekflux.cfd
@@ -97716,6 +97726,7 @@ www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
+www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
