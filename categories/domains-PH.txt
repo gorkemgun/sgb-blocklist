@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101450
-# Last change: 2026-08-26 11:47:47 UTC (sync mode: delta)
+# Records: 101476
+# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -198,6 +198,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
@@ -212,6 +213,7 @@
 101-klimaozel.com.tr
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
+101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-mobil.com.tr
@@ -6628,6 +6630,7 @@ alwayswinner.in
 alwayswinner.org
 alwayswinner.xyz
 alxcl.xyz
+alxescript.info
 alxldnan-x-alldnnsmrlkktszlerlle.net.tr
 alxldnazn-x-alldnnmrkktszlerlle.net.tr
 alxldnn-x-alldnnmrkktszlerlle.net.tr
@@ -7176,6 +7179,7 @@ annualfraudulent.top
 annuitiesguard.com
 annutermath.top
 anomiacea.com
+anomkit.shop
 anoncheck.online
 anonymitypasture.top
 anonymousallocation.top
@@ -7471,8 +7475,11 @@ applaudinvalid.top
 applaudunification.top
 applauseoverflow.top
 applauseunify.top
+apple-login-imaps.com
 apple-sucuentareptinfrmes.com
+apple-thailand.co
 apple-tr.net
+apple-unlock.com
 applebtc.net
 applebtc.org
 applechargebacks.com
@@ -10138,6 +10145,7 @@ b-paribu.com
 b-technogift.online
 b.coinbase-com.info
 b.i761bd.coinbase-com.info
+b.pro-center.my.id
 b00kingc0nfirmati0n.help
 b00kingreservadoc0nfirm.top
 b0ndtech.net
@@ -17890,6 +17898,7 @@ censigortan.net
 censorglitter.top
 censorshipinsulate.top
 censusbott.top
+center-one.online
 center.active-page-policy.cfd
 center10saat.3d.tc
 center3roma.com
@@ -22261,6 +22270,7 @@ corelith.vip
 corelynxx.com
 coreme.store
 corenavento.pro
+corendavia.com.ru
 corenext.site
 coreos.rest
 coreoven.top
@@ -33478,6 +33488,7 @@ findmanifestation.top
 findmasculinity.top
 findmyiphone-appleld.com
 findmylocation.it
+findsupport.live
 findves.top
 findworkernearme.com
 findyourjacket.com
@@ -37564,6 +37575,7 @@ golittleplanet.com
 gologisticmx.com
 gomebabas.online
 gomolatori.cyou
+gon-unlocker.pro
 gonderihizmettakbn.com
 gonderitakip-kargo.web.app
 gonderitakip.info
@@ -44204,6 +44216,7 @@ icindeki-huzuru-kesfet.top
 icisleridestekservisi.net
 icisleriiadesistemleri2023.net
 ickzrx.click
+icloud-findmy.app
 icloud.com-iphone.support
 icloud.com-remove-device.top
 icloudhc.top
@@ -47190,6 +47203,7 @@ irademobil.de
 irademweb.de
 iradenburda.de
 irbleparalysis.top
+irealm-server.com
 ireyaw.top
 irfizv.top
 iridescentaw.online
@@ -47885,6 +47899,7 @@ istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
 istkartlar.com
 istkartlarmayuklicim.net
+istkartlassnyada.com
 istkartllv.blogspot.com
 istkartlmc.blogspot.com
 istkartsamabggy.icu
@@ -50897,6 +50912,7 @@ kevinmorredirects.workers.dev
 kevxk.top
 kexbazar.gifts
 key-said.net
+key-unlock.com
 keyboardevaporate.top
 keycarskiralama.com
 keychronicle.top
@@ -51412,6 +51428,7 @@ kissdisclose.top
 kissquery.top
 kissscrub.top
 kisumueducationsociety.ac.ke
+kit-pro-bot.click
 kitadestekleri.site
 kitapvedijitalokumakulubu.xyz
 kitasosyalvakfi.site
@@ -68182,6 +68199,7 @@ pllavm.click
 pllgav-cf.top
 pllgav-hl.top
 plllrrrdssaaasssss.beauty
+plllrrrdssaaasssss.homes
 plmilliyetxb.com
 plnkvavxvx.net
 plolastasv.vercel.app
@@ -69615,6 +69633,7 @@ projectionsalutation.top
 projectjuventus.xyz
 projectoroffset.top
 projectorsuperintendent.top
+projectpartapple.com
 projects-poker-championships-selecting.trycloudflare.com
 projectshipyard.top
 projectsubsidize.top
@@ -73911,6 +73930,7 @@ rnd199.online
 rnd7ru3fbn.storage.googleapis.com
 rndbsurizmebrurds.store
 rndbsvhzimebrurds.store
+rnddvhszsjfsf.online
 rnddvhszsjfsf.store
 rndevnuhzlal.blogspot.com
 rndevu.blogspot.com
@@ -74928,6 +74948,7 @@ sahibinden-get.mobilsepetlerimtrservisin.online
 sahibinden-get.mobilsepetllerservisim.online
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
+sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
@@ -76150,6 +76171,7 @@ sanemdelevisim.net
 sanemdesanem.com
 sanemdesanem.online
 sanflygroup.com
+sangarlara.click
 sanitaryconcurrent.top
 sanitarycontemplative.top
 sanitarymilitancy.top
@@ -81280,6 +81302,7 @@ spiceroutes.site
 spicyexponential.top
 spicyintercourse.top
 spicyremnant.top
+spider-off-unlock.one
 spider-service.vip
 spiderbrewery.top
 spiderdisrse.top
@@ -91099,6 +91122,7 @@ ukrspack.click
 uksigorta.com.tr
 uksiqorta.com.tr
 uksiqorta.xyz
+uktservice.sa.com
 ukzisrgh.cfd
 ulamaotrpastkslameoalsmgatadarasc.net
 ulamkipoint.site
@@ -99980,6 +100004,7 @@ yetkimsbayitrk.com
 yetksenxnbrenisxsev.net
 yetprofile.top
 yevotixx.com
+yevzori.cfd
 yewlcdvt-wcvt.com
 yeyoyesys.yyuyy.com
 yfful.com
@@ -101351,6 +101376,7 @@ ztrtrtdsryl.cfd
 ztrtrtryl.cfd
 ztv-g-rn-btv.my-homeip.net
 ztwsys.homes
+zu7pl.pro
 zua9.top
 zudomireva.info
 zufotoo.com

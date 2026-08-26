@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 467240
-# Last change: 2026-08-26 11:47:47 UTC (sync mode: delta)
+# Records: 467284
+# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2072,6 +2072,7 @@
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-online-sepette-indirim-tr.web-buy.online
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
@@ -2158,6 +2159,7 @@
 101-mayissongun.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-bugune-ozel-indirimler-tr-cep.duckdns.org
+101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
 101-mobil-online-ozel-tr.mooo.com
@@ -21205,6 +21207,7 @@
 8xgmqu.duckdns.org
 8xjyll.duckdns.org
 8xktf2l.duckdns.org
+8xmw2325sm6ha235fds3.duckdns.org
 8xnpk7.duckdns.org
 8xog2hyyi.duckdns.org
 8xoproma.duckdns.org
@@ -44711,6 +44714,7 @@ alwjmvqayd.duckdns.org
 alwq2wz.duckdns.org
 alwsoqu.com
 alxcl.xyz
+alxescript.info
 alxldnadn-x-alldnnsmrlkktszlerlle.net.tr
 alxldnadn-x-alldnnsmrlkktszlerlle.xyz
 alxldnan-x-alld-snnsmrlkktszlerlle.gb.net
@@ -46998,6 +47002,7 @@ anoirsoft.com
 anojb.com
 anomcheckr.com
 anomiacea.com
+anomkit.shop
 anon345.ddns.net
 anon75519.ddns.net
 anonauth.ddns.net
@@ -48234,6 +48239,7 @@ apple-idrecom46993.ddns.net
 apple-idsup.ddns.net
 apple-iplace.com
 apple-lj-icloud.com
+apple-login-imaps.com
 apple-manages.hopto.org
 apple-net.com
 apple-online.shop
@@ -48249,8 +48255,10 @@ apple-serviceaccess.com
 apple-signonline.com
 apple-sucuentareptinfrmes.com
 apple-support-account.info
+apple-thailand.co
 apple-tr.net
 apple-trusted.com
+apple-unlock.com
 apple-updates.online
 apple-verifiy-account.com
 apple-verifiy.net
@@ -57209,6 +57217,7 @@ b.i761bd.coinbase-com.info
 b.manage-api.pw
 b.misecure.com
 b.niupilao.vip
+b.pro-center.my.id
 b.rjh8.cn
 b.suvru.avlle.gnvc.l.k.bilgiislemim.net
 b.teamworx.ph
@@ -97977,6 +97986,7 @@ centaurustermas.com
 centelendecetene.ddns.net
 centent-management.net
 center-mail.ru
+center-one.online
 center-postdeuthse.hopto.org
 center-upgrade-wait-load-your-account.com
 center.active-page-policy.cfd
@@ -109009,6 +109019,7 @@ coremailxt5mainjsp.com
 coreme.store
 coremethodgroup.com
 corenavento.pro
+corendavia.com.ru
 corendonkemer.com
 corenext.site
 coreos.rest
@@ -123903,6 +123914,10 @@ detectivenominal.top
 detectivicit.top
 detector-excluded-knowledgestorm-two.trycloudflare.com
 detectordiscusser.shop
+detectsysscanner.at
+detectsysscanner.com
+detectsysscanner.de
+detectsysscanner.xn--q9jyb4c
 detectyacht.top
 deteledussers020201030.yyuyy.com
 detemptationsrevue.com
@@ -123939,6 +123954,8 @@ detroitservis.icu
 detru.xyz
 detrukipolore.us
 detse.net
+detsysscanner.com
+detsysscanner.xn--q9jyb4c
 dettermile.top
 detuned.ddns.net
 detuposaqe.xyz
@@ -164490,6 +164507,7 @@ findmyiphoneonline.cloud
 findmylocation.it
 findomest-visitearea-activati.duckdns.org
 findresults.site
+findsupport.live
 findterminate.top
 findthebuyerformylisting.com
 findthem-naidoe-tormaf.monster
@@ -177648,6 +177666,7 @@ geleceginisareti.online
 geleceginliderleri.org
 geleceginteknolojidunyasi.shop
 gelecegintohumlari.online
+geleceginvizyonadresi.sbs
 geleceginyolu24.online
 geleceginyorumcusu.online
 gelecegiyenile.space
@@ -183782,6 +183801,7 @@ gomolatori.cyou
 gomrosdemines3044.site
 gomsa1.zapto.org
 gomyfiles.info
+gon-unlocker.pro
 gon1inemis1emiapptr.online
 gon1inemislemtrap.online
 gon1inemisllemtrapp.online
@@ -204171,6 +204191,7 @@ heylerdengldkbrda.cfd
 heylink.website
 heylinkbio.app
 heylitimysun.top
+heymens.duckdns.org
 heynesg.org
 heyofasfwesd.net
 heysirs23xlolas.site
@@ -219102,6 +219123,7 @@ icloud-finde-device.com
 icloud-finderdevice.live
 icloud-findmy-ar.com
 icloud-findmy-phone.com
+icloud-findmy.app
 icloud-findmydevice.app
 icloud-findmydevice.com
 icloud-findmydevice.info
@@ -229639,6 +229661,7 @@ irchemistry.net
 ircx.us.to
 ircxx.us.to
 irdahoodcityfaulty.ihesexar.workers.dev
+irealm-server.com
 iregentos.info
 ireiureoi0dwoi.com
 iremcicek.com.tr
@@ -234567,6 +234590,7 @@ istkartlar.com
 istkartlarim.blogspot.com
 istkartlarim.com
 istkartlarmayuklicim.net
+istkartlassnyada.com
 istkartll.blogspot.com
 istkartllv.blogspot.com
 istkartlmc.blogspot.com
@@ -252409,6 +252433,7 @@ kexntkrt.net
 kexntkrtuykleme.net
 key-office.ddns.net
 key-said.net
+key-unlock.com
 key2025.oss-cn-hongkong.aliyuncs.com
 key88secu7.wordpress.com
 keya1o1.net
@@ -254727,6 +254752,7 @@ kistmebabyg7.com
 kistmebabyg8.com
 kisumueducationsociety.ac.ke
 kisynaakrotom.ddns.net
+kit-pro-bot.click
 kita2011.zapto.org
 kitabarbarlagichase.ddns.net
 kitabsiz351.cf
@@ -298637,6 +298663,7 @@ ns-wwwhaber7com-haber.mercalloiter.sbs
 ns-wwwhaber7com-haber.revise.sbs
 ns-wwwhaber7com-haber.rojadirecta-com.co
 ns-wwwhaber7com.almach.shop
+ns-wwwhaber7com.coliculpas.cfd
 ns-wwwhaber7com.descarga-mg.co
 ns-wwwhaber7com.erucafitted.cfd
 ns-wwwhaber7com.feints.cfd
@@ -306136,6 +306163,7 @@ online-garantibbva-ro.com
 online-garantibbva-tr.com
 online-garantibbva-tr.org
 online-garantibbva.com
+online-garantibbva.vibtee.com
 online-garanticep.com
 online-garantigirisi.com
 online-garantigirisitr.com
@@ -306721,6 +306749,7 @@ online-siparis-ver.com.tr
 online-siparis-zamani.app
 online-siparis.app
 online-siparis.click
+online-siparis.com
 online-siparis.com.tr
 online-siparis.satisim-30.site
 online-siparisleri.com.tr
@@ -312222,6 +312251,7 @@ otokonumunda.online
 otoktkcsg.org
 otolaraviskiralama724.site
 otolyohgskgmwbgcsos.duckdns.org
+otomaktifgaleryys.duckdns.org
 otomarket.info
 otomathizlliyol.herokuapp.com
 otomatik-verg.com
@@ -324941,6 +324971,7 @@ pllgav-tu.top
 plljhwywtp.duckdns.org
 pllllls.ddns.net
 plllrrrdssaaasssss.beauty
+plllrrrdssaaasssss.homes
 pllqwxhujs.duckdns.org
 pllua2.duckdns.org
 plmaskeras.vercel.app
@@ -329320,6 +329351,7 @@ projectmob.sbs
 projector123.zapto.org
 projectoroffset.top
 projectorsuperintendent.top
+projectpartapple.com
 projectrecordsfile.ddns.net
 projectreviewfile.ddns.net
 projects-poker-championships-selecting.trycloudflare.com
@@ -346647,6 +346679,7 @@ rndbsvhzimebrurds.store
 rndbsvsadhzimebrurds.store
 rndbzxuspe.duckdns.org
 rndcuhizlf.pw
+rnddvhszsjfsf.online
 rnddvhszsjfsf.store
 rnddvlarinizlyn.net
 rnddvlarinizlyz.net
@@ -351503,6 +351536,7 @@ sahibinden-get.mobilservisin-10.sbs
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-33.sbs
 sahibinden-get.mobilservisin-37.sbs
+sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisin.com
 sahibinden-get.mobilservisiniz-15.sbs
 sahibinden-get.mobilservisler-27.sbs
@@ -356433,6 +356467,7 @@ sanevogue.com
 saneywsa.blogspot.com
 sanflygroup.com
 sanga1l.blogspot.com
+sangarlara.click
 sangorits.hopto.org
 sangos121.hopto.org
 sangredecristo.con-ip.com
@@ -377295,6 +377330,7 @@ spicymaturelovers.site
 spicyremnant.top
 spicystiru.store
 spider-man.club
+spider-off-unlock.one
 spider-service.vip
 spiderahmedhac2356.zapto.org
 spiderbrewery.top
@@ -390993,6 +391029,8 @@ techspherxe.top
 techspire.site
 techsprouts.com
 techsupport123.zapto.org
+techsysscanner.com
+techsysscanner.lol
 techsystemsdoc.net
 techtattva.in
 techtinker.fyi
@@ -396259,6 +396297,7 @@ tlc-enguncelkampanya.net
 tlcenneti.sg-host.com
 tlcep.net
 tlceptelefonpaket.com
+tlcscanner.com
 tldestegi1000-webbasvuru.com
 tldestegi1000tl-destekweb.com
 tldestegi3000-webbasvuru.com
@@ -410876,6 +410915,7 @@ turnoufortig.top
 turnovermonopoly.top
 turnoveroppressive.top
 turnoveroptimal.top
+turnstiie-cioudfiare.com
 turnsunchair.top
 turnujgnrjby.info
 turnvolatility.top
@@ -413994,6 +414034,7 @@ uksiqorta.com.tr
 uksiqorta.xyz
 uksrkjhelj.duckdns.org
 uktrkhege-bakyetl.com
+uktservice.sa.com
 uktzthtfwdafixvosj.com
 ukudwd.click
 ukuhost.net
@@ -420659,6 +420700,7 @@ vakiflarnerede.ga
 vakiflarnerede.gq
 vakiflarnerede.ml
 vakiflarnerede.tk
+vakiflarradasfkalafjasflf.com
 vakiflarrimiz.co.vu
 vakiflas.cf
 vakiflas.ga
@@ -457209,6 +457251,7 @@ yeupxy2gq.duckdns.org
 yeuwnj.com
 yevettex.com
 yevotixx.com
+yevzori.cfd
 yewax.net
 yewio.com
 yewlc8.duckdns.org
@@ -466643,6 +466686,7 @@ zu17tr5c.duckdns.org
 zu46gnqj.duckdns.org
 zu4wg1.duckdns.org
 zu7kt.cc
+zu7pl.pro
 zua32ani.duckdns.org
 zua9.top
 zuabc.duckdns.org

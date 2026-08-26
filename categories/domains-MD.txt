@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65884
-# Last change: 2026-08-25 16:02:54 UTC (sync mode: delta)
+# Records: 65893
+# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -19684,10 +19684,16 @@ detay-pandemicbasvur.com
 detaylar-pandemidestekpaketi.com
 detectedcarryingout.duckdns.org
 detectfraudagent.ddns.net
+detectsysscanner.at
+detectsysscanner.com
+detectsysscanner.de
+detectsysscanner.xn--q9jyb4c
 detivoiniiii.hopto.org
 detme.ddns.net
 detrukipolore.us
 detse.net
+detsysscanner.com
+detsysscanner.xn--q9jyb4c
 detuposaqe.xyz
 deuhbhotrj.duckdns.org
 deunce68rtaint.rr.nu
@@ -55113,6 +55119,8 @@ technocongress.com
 technologyvacation.com
 techplaginapp.com
 techsupport123.zapto.org
+techsysscanner.com
+techsysscanner.lol
 techtattva.in
 techwach.com
 techyclub.in
@@ -55878,6 +55886,7 @@ tkwesl8y.duckdns.org
 tkz2.toukuizhe.com
 tlbcvbszlb.duckdns.org
 tlbfk1.duckdns.org
+tlcscanner.com
 tldestegi1000tl-destekweb.com
 tldrbox.top
 tle2oc.duckdns.org
