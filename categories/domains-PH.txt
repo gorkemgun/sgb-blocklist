@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101401
-# Last change: 2026-08-26 02:00:36 UTC (sync mode: delta)
+# Records: 101404
+# Last change: 2026-08-26 04:57:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9998,6 +9998,7 @@ ayagimdakiair.com
 ayakkaydiran.xyz
 ayaklariniza-gelen-mutluluklar-hep-bizde.com
 ayanlo.com
+ayasdasagsdgasgdw990w.click
 ayasofyayardimvakfi.com
 ayasofyaydv.com
 ayaxum.click
@@ -29497,6 +29498,7 @@ elektronik-hizmet-tr.com.tr
 elektronik-hizmetim-tr.com.tr
 elektronik-ilan.com
 elektronik-magaza-sepetim.com
+elektronik-merkezi-ilanlarim.com
 elektronik-online-tr.com.tr
 elektronik-onlinealisveris.com.tr
 elektronik-onlinem.com.tr
@@ -63238,6 +63240,7 @@ odemeverglendrttzsl.net
 odemeyap-alim.com
 odemeyap-satinal.com.tr
 odemeypiyhizlann.net
+odemsmihgssmid.cfd
 odenti-iade-al-resmi-placee.com
 odentiadealedsanacom.liveblog365.com
 odentiadealsanamcom.ml
