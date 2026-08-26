@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101406
-# Last change: 2026-08-26 05:52:02 UTC (sync mode: delta)
+# Records: 101420
+# Last change: 2026-08-26 08:02:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -184,6 +184,7 @@
 101-aralikozel.com.tr
 101-aralikozel.online
 101-bugun.shop-mobil-tr.com
+101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-com-trs1.com
 101-de-bugune-ozel-indirimler-tr.mooo.com
@@ -4873,6 +4874,7 @@ afilokiralama.com
 afilom.com.tr
 afilom.xyz
 afilorental.com
+afinny8-a31.site
 afisha-afmclub.ru
 afisha-alextheatre.com
 afisha-alisa.com
@@ -6826,6 +6828,7 @@ anaatasoy.online
 anabayiavis.com.tr
 anabsuzizsg.com
 anacrogynae.com
+anadexa.live
 anadolu-haber-ajansi.com
 anadolu-sigota.b-cdn.net
 anadoluaksasigorta.com.tr
@@ -44837,6 +44840,7 @@ ilanda-sepetim-1099.com
 ilanda-sepetim-1101.com
 ilanda-sepetim-1102.com
 ilanda-sepetim-1103.com
+ilanda-sepetim-1104.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -48311,6 +48315,7 @@ izelfixs.dns.navy
 izelgececic.dns.navy
 izelgnnnn.blogspot.com
 izelgqsg.dns.navy
+izelkqrwq.blogspot.com
 izeltasalmak.xyz
 izeltascampnysal.sbs
 izeltasefsaneflrsatlar.com
@@ -48395,6 +48400,7 @@ izmieliyim.net
 izmiifgvkskarti.com
 izmiiirniiizim.net
 izmionlinehs.net
+izmiora.live
 izmir-3dlesennde.com
 izmir-3dsecure.net
 izmir-im.com
@@ -50781,6 +50787,7 @@ kenfvtikartt.net
 kenlktkart.com
 kennedy-hotel.icu
 kenns6eesx.blogspot.com
+kennszaltas.blogspot.com
 kenntkkaartt.net
 kennys6566esx.blogspot.com
 kensotnahsot.net
@@ -59534,6 +59541,7 @@ mqninvestments.com
 mqrinfbsz.acessoeditoracao.com.br
 mqsiqorta.com.tr
 mqzfsu.top
+mr5str2ws2d.com
 mrarackirala.online
 mraszj.cyou
 mrawalibidkalsngtimur.com
@@ -63522,6 +63530,7 @@ olaganbarana.com
 olamazdurbinmcell.com
 olangrassbor.top
 olanlar.site
+olaraganba.click
 olardansbasrdacansd.cfd
 olareservasdehtels.world
 olasiliklardenizi.online
@@ -79225,6 +79234,7 @@ siparis1erinizbizlerlesepette.com.tr
 siparis1erinizbizlerlesepette.online
 siparis1erinizbizlerlesepette.xyz
 siparisaktif.online
+siparisguvende.com
 siparishazir.click
 siparishizli-ver.com
 siparishizliolsut.cloud
@@ -90303,6 +90313,7 @@ turksondakikalar.com
 turksworkgraphics.com
 turktakipcihilesi.com
 turktarihv.net
+turktelekom-basvuru.vip
 turktelekom-evdeinternet.com
 turktelekom-evinterneti-basvurusu.site
 turktelekom-evinternetine-basvur.com
@@ -90337,6 +90348,7 @@ turktelekominternetbasvuru.com
 turktelekominternetbasvuru.net
 turktelekominternetbasvuru.site
 turktelekomtarifeleri.com
+turktelekomtariflari.vip
 turktelekomtlykleme.gq
 turktelekomttnetkablonetinternet.com
 turktelekomwebim.com
@@ -90469,6 +90481,7 @@ tuvkturkt.digital
 tuvl-turk.digital
 tuvmhr-ss.com
 tuvmuyne.com
+tuvramuayne.site
 tuvrkekakdsad.net
 tuvrkonlineodemnden.com.tr
 tuvrtdrkxgl.net
@@ -93001,6 +93014,7 @@ verdim.site
 verdorix.com
 verefication.icu
 verek754xx04312.duckdns.org
+verenacicek.com
 verenitasty.com
 verfgdfgigir.net
 verficaton-resevaion251134.com

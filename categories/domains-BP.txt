@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257660
-# Last change: 2026-08-26 07:11:12 UTC (sync mode: delta)
+# Records: 257664
+# Last change: 2026-08-26 08:02:24 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -28642,6 +28642,7 @@ asmscim.shop
 asname.click
 asname.world
 asnansndsnfhshfn.space
+asncxbyaaasdanala.4849846518494221.sbs
 asncxbyaaasdanala.489415686332522.sbs
 asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.784191565489651.sbs
@@ -71173,6 +71174,7 @@ dnzbn-kmpkcmzzkrwdi.click
 dnzbnk-bayram-ikramysi-alma-hemen-al.site
 dnzbnk-bireysel-bayram-ikramiyesi.site
 dnzbnk.club
+dnzbnk.duckdns.org
 dnzbnk.xyz
 dnzbnkbasvuru.co.vu
 dnzbnkcrditkfdhksdenizbkdsfbnksi.xyz
@@ -170981,6 +170983,7 @@ oksijenhesaponline.com
 oksiqortacim.com.tr
 oksiqortacim.xyz
 oksyazilim.online
+oktagarantibbva.com.ph
 okubil.net
 okulacildibasladidersler.net
 okuladonusheyecanitekosada.com
@@ -251009,6 +251012,7 @@ yenilenen-teklifler-surekli-olarak-burada.com
 yenilenen-yapikredi.com
 yenilenen.com
 yenilenenak.online
+yenilenenarayuzumuz.abrdns.com
 yenilenenbankacilik-denizbank.ga
 yenilenenbankacilik-denizbank.ml
 yenilenenbankacilik-qnbfinansbank.ga
