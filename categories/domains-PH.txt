@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101399
-# Last change: 2026-08-25 21:46:11 UTC (sync mode: delta)
+# Records: 101401
+# Last change: 2026-08-26 02:00:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -40015,6 +40015,7 @@ halkfirsati0faizoranlasizlerle.icu
 halki.click
 halkicanocan.co
 halkimizlabasbas.sbs
+halkinfirsati.cam
 halkinmagazasiburada.online
 halkinsesi.icu
 halkinsigortacisi.xyz
@@ -41098,6 +41099,7 @@ helsinkim.com
 helsoki.com
 helwmgsl.sbs
 helytra.com
+heme-sn-sonuc.net
 hemeins-nsonuc.net
 hemeleterfesa.duckdns.org
 hememislemnkta.net
