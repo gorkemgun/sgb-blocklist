@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101437
-# Last change: 2026-08-26 09:05:24 UTC (sync mode: delta)
+# Records: 101441
+# Last change: 2026-08-26 09:59:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -41309,6 +41309,7 @@ hemensimdiode.net
 hemensiparisiniver.cfd
 hemensiparisolustur.click
 hemensiparsnver.click
+hemensisn-sonu.net
 hemensizlerdenoncerndval.cyou
 hemenskq.com
 hemensonlanienslnlea.net
@@ -47391,6 +47392,7 @@ islemlerburasbs.art
 islemleregiriss.app
 islemleregirisyap.de
 islemlerikontrolonay.app
+islemlerim-ceptee-garanti.duckdns.org
 islemlerim-mobilde-hemenbasvur.com
 islemlerimportallifee.duckdns.org
 islemlerineozelaidatiade.net
@@ -74915,6 +74917,7 @@ sahibinden-get.le-odeme.com
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
+sahibinden-get.mobilsepetllerservisim.online
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisler-50.sbs
@@ -75254,6 +75257,7 @@ sahibinden.elektronik-alisverisim.com.tr
 sahibinden.elektronik-alisverisin.com
 sahibinden.elektronik-hizmetleriniz.com.tr
 sahibinden.elektronik-magaza-sepetim.com
+sahibinden.elektronik-merkezi-ilanlarim.com
 sahibinden.elektronik-odeme.com.tr
 sahibinden.elektronik-sepet.com.tr
 sahibinden.elektronik-servisin.com.tr
