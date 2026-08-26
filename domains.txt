@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 467345
-# Last change: 2026-08-26 18:05:32 UTC (sync mode: delta)
+# Records: 467362
+# Last change: 2026-08-26 20:05:31 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -44053,6 +44053,7 @@ almayankalmasin.com.tr
 almayankalmasin.online
 almayankalmasin.xyz
 almayankalmasindiyeyeniden.net
+almayankalmasinhereve.sbs
 almayanshoppingkalmasinxyz.com
 almazh.ddns.net
 almbasvurularimizgunc.space
@@ -51197,6 +51198,7 @@ arop.loveslife.biz
 aroraaracmodelleri.com
 arorabayii.com
 arorabayisi.com
+arorafabrika.online
 arorafabrikaonline.com
 arorafabrikasatis.com
 aroramodelleri.com
@@ -52795,6 +52797,7 @@ asmasasaa.click
 asmbguf1.duckdns.org
 asmbon.com
 asmby.duckdns.org
+asmdkasmk43k712.duckdns.org
 asmepzz.duckdns.org
 asmhasrmkmlkam.net
 asmho361.duckdns.org
@@ -66473,6 +66476,7 @@ be09c7dd1ad0.ddns.net
 be09dd19.ddns.net
 be121740bf988b2225a313fa1f107ca1.online
 be231ro963.com
+be2dfxorunilakemvytosa.sbs
 be2ophe0.duckdns.org
 be7a823f1111h.net
 be7bs3.com
@@ -117210,6 +117214,7 @@ dendemyryulusyhsjjg.com
 dendendenburdakan47632830100.click
 dendendenizbankingpromoonayekranlari.duckdns.org
 dendenizmobilbasvuruekranonay.duckdns.org
+dendenwsaw.duckdns.org
 denderslyama.click
 dendizde-vbasvury.tk
 dendnekgden.com
@@ -153874,6 +153879,7 @@ ert67-o9.pages.dev
 ertasafs.nicepage.io
 ertcap.com
 ertdfgj.com
+ertdwe332dd.com
 erte-cimere-iade.com
 ertelefirsacapm21bur.shop
 ertelemeli-basvurun.online
@@ -185576,6 +185582,7 @@ gratis.craftyhour.com
 gratis.cwbots.com
 gratis.ddnsguru.com
 gratis.dnsdojo.com
+gratis.dumfi.com
 gratis.dyndns-at-work.com
 gratis.dyndns-blog.com
 gratis.empordafibra.com
@@ -185600,6 +185607,7 @@ gratis.is-an-artist.com
 gratis.is-into-cartoons.com
 gratis.issmarterthanyou.com
 gratis.kasihinfo.com
+gratis.kywestfest.com
 gratis.lakeboundtech.com
 gratis.laviewddns.com
 gratis.likescandy.com
@@ -202740,6 +202748,7 @@ hemenyukleme.xyz
 hemenyuklemeci.2kool4u.net
 hemenyuklemeci.loveslife.biz
 hemenyuklenir.tk
+hemenyukleniyoruz.blogspot.com
 hemenyzbrsteklfislerb.shop
 hemenyzbrsteklfislerb.store
 hemerobaptist.com
@@ -208978,6 +208987,7 @@ hizliaiddatislmlerinizzz.xyz
 hizliaktarimislemleri.site
 hizliaktarmaekranionlinehizmet.site
 hizliaktarmalarekrani.site
+hizlial-siparis.com
 hizlial.ml
 hizlial.site
 hizlial.xyz
@@ -246242,6 +246252,7 @@ kampanyalarikacirmasonsans.com.tr
 kampanyalarikacirmasonsans.online
 kampanyalarikacirmasonsans.xyz
 kampanyalarikacirmateoglion.com.tr
+kampanyalarikacirmateoglion.online
 kampanyalarim-2023.info
 kampanyalarim-2023.xyz
 kampanyalarim-finansbank.com
@@ -263051,6 +263062,7 @@ l1xzmwxr35yukle.net
 l22h9x88.duckdns.org
 l26n75fg9.duckdns.org
 l2ae0a.duckdns.org
+l2dsacswcxxxe.lol
 l2eo09kgz.duckdns.org
 l2erxui.duckdns.org
 l2f030xh.duckdns.org
@@ -297410,6 +297422,7 @@ nn11.pages.dev
 nn11110201111.gleeze.com
 nn22wjfdz.duckdns.org
 nn44400202444.gleeze.com
+nn5474555.site
 nn6ofd3k.duckdns.org
 nn6yncc.duckdns.org
 nn7878ao.duckdns.org
@@ -322519,6 +322532,7 @@ peqwxzvogr.duckdns.org
 per2sonbro.com
 perabet2017.com
 perabetl28.com
+peraboko-seremoli.lol
 peracarkiralama.com
 peracheck.com.tr
 peradjoka.t35.com
@@ -379321,6 +379335,7 @@ sssklrmsflrstmrsskmczz.xyz
 ssslcdsklflskdflksckflds.cfd
 ssslfeitopravc.ddns.net
 ssslkfkmckzmtmrkmfmklcmzmktmsms.store
+ssslllllpppppsssbrrr.lol
 ssslllllpppppsssbrrr.sbs
 ssslrmstmrsklmrczflrss.store
 sssntab6.duckdns.org
@@ -407521,6 +407536,7 @@ tturkiyeaidatiademerkezigovtr.com
 tturkiyehatislemleri.net
 ttuvtturk-rezervasyon.com
 ttuvtturkrezervasyon-resmi.com
+ttuvturk-aracmuaynne.web.app
 ttuvturkmuayene-rezervasyon.com
 ttuvturkrandevu-muayene.com
 ttuvturkrezervasyon-muayene.com
@@ -411227,6 +411243,7 @@ tututut-masallah-tum-islerim-valla-viral.cfd
 tutvturk.digital
 tutya.name.tr
 tuurkiyeonline.online
+tuuvturk-aracmuyne.web.app
 tuuvturk.live
 tuv-arac-muane.net
 tuv-iis.digital

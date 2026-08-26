@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101507
-# Last change: 2026-08-26 18:05:32 UTC (sync mode: delta)
+# Records: 101520
+# Last change: 2026-08-26 20:05:31 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8782,6 +8782,7 @@ aslnkrtreklmsdknmkl.cfd
 aslpls.io
 aslssmgkw.cfd
 aslurtykndfnmanklar.cfd
+asmdkasmk43k712.duckdns.org
 asmtal.online
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.48465498456.sbs
@@ -11788,6 +11789,7 @@ be-baykar.com
 be-baykar.net
 be-swedet.com
 be-tibetim-satma.com.tr
+be2dfxorunilakemvytosa.sbs
 beaa493d.ns-u629df.shop
 beachbing.com
 beachhouse-hotelregistry2945.com
@@ -24466,6 +24468,7 @@ demrporlzkxm.net
 demur3.com
 den-izbank.cf
 denbz-szdenz.online
+dendenwsaw.duckdns.org
 deneme-is.replit.app
 denemeajasdhasd.ml
 denemebendes.duckdns.org
@@ -30785,6 +30788,7 @@ ersijorta.xyz
 ersnkly.com
 ertasafs.nicepage.io
 ertdfgj.com
+ertdwe332dd.com
 ertnefgbertbwe.sbs
 ertnwer2341.blogspot.com
 ertrafikvezne.dev
@@ -38080,6 +38084,7 @@ gratis-tr.obliqueprism.com
 gratis.anointedacres.com
 gratis.craftyhour.com
 gratis.dnsdojo.com
+gratis.dumfi.com
 gratis.from-ca.com
 gratis.from-in.com
 gratis.globalscholarpress.com
@@ -38087,6 +38092,7 @@ gratis.homelinux.net
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
 gratis.kasihinfo.com
+gratis.kywestfest.com
 gratis.lakeboundtech.com
 gratis.likescandy.com
 gratis.obliqueprism.com
@@ -41360,6 +41366,7 @@ hemenyetissende.tech
 hemenyonlendiriliyorsunuz.com
 hemenyonlendirme.com
 hemenyukle.live
+hemenyukleniyoruz.blogspot.com
 hemesilskem-sonuc.net
 hemislemnokta-sonuc.net
 hemispherebluff.top
@@ -42375,6 +42382,7 @@ hizliadresler-4d5a51a6b5e4.herokuapp.com
 hizliadresler-88b0b1b32583.herokuapp.com
 hizliadresler-e734dbb5760f.herokuapp.com
 hizliahmetkayagecisle.store
+hizlial-siparis.com
 hizlialimlar.com.tr
 hizlialimlarin.com.tr
 hizlialimservisi.com.tr
@@ -49919,6 +49927,7 @@ kampanyalarikacirma.com
 kampanyalarikacirmaefsaneurunlersizlerle.xyz
 kampanyalarikacirmasonsans.xyz
 kampanyalarikacirmateoglion.com.tr
+kampanyalarikacirmateoglion.online
 kampanyalarim.com.tr
 kampanyalarimiz-qnbfinansbank.com
 kampanyalarimiz-yaz.myonlineportal.ch
@@ -52990,6 +52999,7 @@ l0ttys4.cn
 l10-vip.xyz
 l1sl.top
 l1v8k2q5r9w6.sbs
+l2dsacswcxxxe.lol
 l3-69-l02-l59.plesk.page
 l8-l33-220-72.plesk.page
 l899cf.csb.app
@@ -61845,6 +61855,7 @@ nmxquantify.com
 nmymzmsn-glsnde.net
 nmzlkc.cyou
 nn-basket.com
+nn5474555.site
 nnb4-sldes.com
 nncvngnceel1.site
 nncvngnceel2.site
@@ -67371,6 +67382,7 @@ pepperaffiiation.top
 pepperyear.top
 pepsico-jobs.com
 pepsivip-usdt.com
+peraboko-seremoli.lol
 peracarkiralama.com
 peracheck.com.tr
 perakandedukkanim.com
@@ -81865,6 +81877,7 @@ sssasswsdsddbimmmcceeekmpnya444.org
 sssklrkmflrskmcsztmrss.com
 ssslcdsklflskdflksckflds.cfd
 ssslkfkmckzmtmrkmfmklcmzmktmsms.store
+ssslllllpppppsssbrrr.lol
 ssslllllpppppsssbrrr.sbs
 ssso---coinbasepro--cd--auth.webflow.io
 ssso-itrustcapital-com-autths.webflow.io

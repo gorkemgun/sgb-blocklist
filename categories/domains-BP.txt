@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257685
-# Last change: 2026-08-26 15:54:23 UTC (sync mode: delta)
+# Records: 257689
+# Last change: 2026-08-26 20:05:31 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -24967,6 +24967,7 @@ almayan-kalmamsin.icu
 almayankalmasin.com.tr
 almayankalmasin.online
 almayankalmasin.xyz
+almayankalmasinhereve.sbs
 almayanshoppingkalmasinxyz.com
 almbasvurularimizgunc.space
 almdkckcldld.sbs
@@ -27871,6 +27872,7 @@ arolasifirsatgirisim.com
 aronyk.xyz
 aroootselxckcksldff.com
 arop.loveslife.biz
+arorafabrika.online
 arorafabrikaonline.com
 aroramotorluaraclar.com
 aroraonline.com
@@ -224411,6 +224413,7 @@ tturkiyeaidatiademerkezigovtr.com
 tturkiyehatislemleri.net
 ttuvtturk-rezervasyon.com
 ttuvtturkrezervasyon-resmi.com
+ttuvturk-aracmuaynne.web.app
 ttuvturkmuayene-rezervasyon.com
 ttuvturkrandevu-muayene.com
 ttuvturkrezervasyon-muayene.com
@@ -227052,6 +227055,7 @@ tututut-masallah-tum-islerim-valla-viral.cfd
 tutvturk.digital
 tutya.name.tr
 tuurkiyeonline.online
+tuuvturk-aracmuyne.web.app
 tuuvturk.live
 tuv-muayenerandevusu.com
 tuv-trk.digital
