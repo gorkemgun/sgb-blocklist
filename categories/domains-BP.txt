@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257677
-# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
+# Records: 257685
+# Last change: 2026-08-26 15:54:23 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2517,6 +2517,8 @@
 1379889898999899091.duckdns.org
 1379889898999899092.duckdns.org
 1379889898999899093.duckdns.org
+1379889898999899096.duckdns.org
+1379889898999899097.duckdns.org
 139-bosvurularim.dvrlists.com
 13agustos-carsambam.com
 13agustossatadsiparis.net
@@ -3390,6 +3392,7 @@
 182randvm.com
 182webicinrndsv.com
 182webstt.click
+182weps.com
 18378219294848819119384.xyz
 1838472928474462.com
 1847.cloud
@@ -88265,6 +88268,7 @@ esube.hbyatirim.com
 esube.hdfonmusteripaneli.com
 esube.hedefonmusteripanel.com
 esube.iknmusteri.online
+esube.my-homeip.de
 esube.online
 esube.prbmenkulyatirim.com
 esube.sumergrup.org
@@ -149053,6 +149057,7 @@ klalim2x.com.tr
 klarkar.net
 klarkek.net
 klarna-garantibbva.com.ph
+klarnagarantibbva.com.ph
 klasbilisimiledevrim.com
 klasbilisimmdedevrimvar.com
 klasdolum.xyz
@@ -192003,6 +192008,7 @@ reklam-flrsatlari-markette.me
 reklam-frsatlari-isilmeliscyln.me
 reklam-frsatlari-kapinlzda.me
 reklam-frsatlarindayasirteke.me
+reklam-kurasi.online
 reklam-markets-1xx001x1s.com
 reklam-yonlendirme-haftanin-firsatlari-com.site
 reklam-yurt-emlak.blogspot.com.tr
@@ -201561,6 +201567,7 @@ setstich.buzz
 setuliform.com
 setup-phpbb-du-ethical.trycloudflare.com
 setuptriumph.top
+sevcactamh-r.sbs
 sevdali-hisler-bazen-uzanir-bizlerle.com
 sevdali-olup-bizde-katiliriz-sizlere-cok.xyz
 sevdamizbirgarantide.com
@@ -255696,6 +255703,7 @@ ziraatbank-ozel.com
 ziraatbank-pratikbasvuri.vercel.app
 ziraatbank-pratikbasvurum.github.io
 ziraatbank-puan-tr.com
+ziraatbank-ssa.com.ph
 ziraatbank-tr.biz
 ziraatbank-tr.cf
 ziraatbank-tr.click

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65893
-# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
+# Records: 65915
+# Last change: 2026-08-26 15:54:23 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -12888,6 +12888,7 @@ bi5ats.duckdns.org
 bi5mft.duckdns.org
 bi5yxl3ez.duckdns.org
 biadabrohkuh.duckdns.org
+bib.1001gacor.org
 bibibeosthedfsdfsdf.com
 bibibibius1.host
 bibitupian.com
@@ -13689,6 +13690,7 @@ boaverification-910.ddns.net
 boaverify.ddns.net
 boavisasecured.ddns.net
 boaze.de
+bob.1001gacor.org
 bob1.ddns.net
 bobaartem.ddns.net
 bobbitopedia.com
@@ -19796,6 +19798,7 @@ dexterwasanicemoviesz4.com
 dexterwasanicemoviesz5.com
 deyaf3.s3.eu-north-1.amazonaws.com
 deytrycooldown.duckdns.org
+dez.11gokil.org
 dezefruuwh.duckdns.org
 dezel2016.ddns.net
 dezisenkor.club
@@ -25952,6 +25955,7 @@ gerqviutgt.duckdns.org
 gerssy.zapto.org
 gerti.zapto.org
 gerumonet35-subokelel24.duckdns.org
+ges.1001gacor.org
 gesamaehler.de
 gesektunai.hopto.org
 gesp4e4.duckdns.org
@@ -27186,6 +27190,9 @@ gt3k7td.duckdns.org
 gt9h91rlf.duckdns.org
 gta5spot.altervista.org
 gta6-play.ru
+gta6demo.asia
+gta6demo.eu
+gta6demo.us
 gtcafcpwii.duckdns.org
 gtdban.net
 gtech7575sols.hopto.org
@@ -33716,6 +33723,8 @@ kesikelyaf.com
 kesler-secure0.ddns.net
 kestanebiber.tk
 kestelse.com
+ket.1001gacor.org
+ket.sm188daftar.mom
 ketceetar.com
 keterritsup.com
 kethadxxkg.duckdns.org
@@ -34392,6 +34401,7 @@ kr4.xyz
 kr66kv.duckdns.org
 kr9743sq.duckdns.org
 kr9spvc5.duckdns.org
+kra.1001gacor.org
 krahmofficial.com
 kraken.zapto.org
 krakenoperar.duckdns.org
@@ -35643,6 +35653,7 @@ ljkvkribvkzdmnbeydxtqsnvgeus.com
 ljlgy6b.duckdns.org
 ljmmehwhiyee.org
 ljoker.ddns.net
+ljr.1001gacor.org
 ljrnb6.duckdns.org
 ljsjr5hb.duckdns.org
 ljuiic.com
@@ -41171,6 +41182,7 @@ nhecawhcaw.duckdns.org
 nheztrmywb.duckdns.org
 nhfr5pmxp.duckdns.org
 nhfzhcywvl.duckdns.org
+nhg.1001gacor.org
 nhg24.zapto.org
 nhgctpkgfe.duckdns.org
 nhil70.duckdns.org
@@ -48399,6 +48411,7 @@ rewitakinama.top
 rewlighdownhim.com
 rewningiden.com
 rewt6.duckdns.org
+rex.1001gacor.org
 rex.hopto.org
 rex123.hopto.org
 rex2016.hopto.org
@@ -48817,6 +48830,7 @@ rockjonadd.top
 rockloamya.top
 rockmezo.zapto.org
 rockrak.com
+rockstar-gta-6.com
 rocksv.com
 rocosacloud.ddns.net
 rocqcff.duckdns.org
@@ -51656,6 +51670,7 @@ servupsng923asiobng.zapto.org
 servxxx.hopto.org
 serwer2494677.home.pl
 serysaglik.tk
+ses.1001gacor.org
 sesok.ru
 session-confirmation.site
 session-customer-activity.site
@@ -52241,6 +52256,8 @@ sigortambiz.com
 siguma.com
 sihamee.zapto.org
 sihlcl4j.duckdns.org
+sii.11gokil.org
+sii.sm188dnsx.top
 siiigfhwut.duckdns.org
 sij4z2zky.duckdns.org
 sijid489x.duckdns.org
@@ -53681,6 +53698,7 @@ stndrds-bsns-1029388472.duckdns.org
 stngpetty.ga
 stnniel.duckdns.org
 stntvps.duckdns.org
+sto.1001gacor.org
 stoaccinfoniqaveeambkp.blob.core.windows.net
 stockholm-blog.hopto.org
 stockltd.ddns.net
@@ -54736,6 +54754,8 @@ tax-assistant.info
 tax-filecenter-irs.matthewtarwater.com
 tax-helper.ltd
 tax-reviewwebapps.ddns.net
+tax.11gokil.org
+tax.sm188dnsx.top
 tax7dgtwr7jydalq8m6c2k.ddns.net
 taxconsultantsdubai.ae
 taxdocumentacc.duckdns.org
@@ -64972,6 +64992,8 @@ zadmj.cp-addltives.com
 zadrotiklol.ddns.net
 zae7z04.duckdns.org
 zaemridfim.duckdns.org
+zaf.11gokil.org
+zaf.sm188dnsx.top
 zafa02.hopto.org
 zafar12.duckdns.org
 zafarstocks.com

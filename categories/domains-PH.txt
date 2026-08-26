@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101476
-# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
+# Records: 101496
+# Last change: 2026-08-26 15:54:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -522,6 +522,7 @@
 134-255-233-127.plesk.page
 13564561321ll1.duckdns.org
 136-244-84-116.plesk.page
+1379889898999899098.duckdns.org
 1396391651913.xyz
 13b0cc7f.jdhuwoskz.cloud
 13c85e8a.jdhuwoskz.cloud
@@ -5056,6 +5057,7 @@ agutin-tour.ru
 aguvende.com
 aguvende.online
 agwrlwr.xyz
+agzimdakesersapigibipaparos.blogspot.com
 ahab-uae.com
 ahaber-com-tr-galeri-ekonomi-saglik-bakanligindan.tk
 ahabp.org
@@ -5719,6 +5721,7 @@ aktiftrader.online
 aktifyasam.life
 aktivasyonkodunukullaniniz29.urlhedge.website
 aktivasyonkodunukullaniniz29.urlnames.xyz
+aktivasyonlinkibasvurusu.duckdns.org
 aktivesystem100.online
 aktl-fln.shop
 aktle-de-mvi-frsst.site
@@ -6258,6 +6261,7 @@ alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
 alisverishaftasi.online
 alisverishizmeti.com.tr
+alisverishizmeti.online
 alisverishizmetleri.com
 alisverisilan.com.tr
 alisverisim-online.com
@@ -23154,6 +23158,7 @@ cska-ticketsstore.com
 cskacskakxxz.net
 csklvsklvkskcskx.net
 csnisf.cc
+cspragstsayn.duckdns.org
 cspryenignce.duckdns.org
 csqbzr.homes
 css-1ay.pages.dev
@@ -26027,6 +26032,8 @@ dijitalreklarnencleritr.space
 dijitals.space
 dijitalsifresiz.net
 dijitalsimdi-kapinda.sbs
+dijitalsimdisiparisver.sbs
+dijitalsiparis-hizlial.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kapinda.sbs
 dijitalsiparisler-kapinda.sbs
@@ -29215,6 +29222,7 @@ ehazinetcbmtrgovtr1221.tk
 ehazinetrtriade21.tk
 ehdybsvrakmi.com
 ehegese.arabamuayenesi.xyz
+ehehehheheheehheeheheheheehe.online
 ehemngirsebasvradrsi.com
 eheyehasvafk.com
 ehgsptt.arabamuayenesi.xyz
@@ -32222,6 +32230,7 @@ eylulayinafirsatkampnyasi.tech
 eylulayipersembegunleri.xyz
 eylulayisalifirsati.online
 eylulaylaribitmesinn.online
+eylulbasiaazkaldi.duckdns.org
 eylulbasiguzeldr.duckdns.org
 eylulbasvurubancekampanyasi.space
 eylulbasvurufirsatibance.space
@@ -38617,6 +38626,7 @@ gujs.org
 gukaracs.store
 gulaqkogames.com
 gulegulegidiyorum.herokuapp.com
+gulercicek.com
 guleregitimvakfi.org
 guleryuzler.fun
 gulfthrone.top
@@ -41351,6 +41361,7 @@ hemesilskem-sonuc.net
 hemislemnokta-sonuc.net
 hemispherebluff.top
 hemisphererelic.top
+hemnaisnltaas.net
 hemnebasvuruyap.co.vu
 hemnebinmeyebasla.xyz
 hemnehemehsmsxmsm.cyou
@@ -41626,6 +41637,7 @@ hesaphareket.com
 hesaplargirisileryaptiniz.app
 hesapli.buradasigortacimerkez.com.tr
 hesapli.kiralamamerkeziarabacin.com.tr
+hesapli.online
 hesapli.sigoortamnetf.com.tr
 hesapli.sigortaamnett.com.tr
 hesapli.sigortaamnnetg.site
@@ -42765,6 +42777,7 @@ hmnilsmkntans.net
 hmnislemnoktnasn.net
 hmnislemonlniesonuc.net
 hmnislmeonkt.net
+hmnislmeonktar.net
 hmnislmknat.net
 hmnislmkntlasi.net
 hmnislmnkatnas.net
@@ -44871,6 +44884,7 @@ ilanda-sepetim-1101.com
 ilanda-sepetim-1102.com
 ilanda-sepetim-1103.com
 ilanda-sepetim-1104.com
+ilanda-sepetim-1105.com
 ilandan-al.com.tr
 ilandan-al.online
 ilandan-fast.com
@@ -48982,6 +48996,7 @@ jeanschancelor.top
 jeansdivine.top
 jeaxyweb.network
 jebrila.pro
+jedalreasdws.duckdns.org
 jeepcensorship.top
 jehoehfgjh.xyz
 jekep3410.store
@@ -60752,6 +60767,7 @@ nchobro-2k43.4everland.app
 nclermkelsomedin.net
 ncm-invest.com
 ncminvest-global.com
+ncminvestmenkuldegerler.com
 ncminvestmentmenkuldegerler.com
 ncnxinvsfrndnevu.net
 ncoalitmnmcs.shop
@@ -63538,6 +63554,7 @@ oklineretsy.com
 okohholdingsltd.com
 okontorleral.net
 oksaocanesa.cfd
+oksdtm.com
 oksitepl.site
 okta-louisvuitton.com
 oktaenroll.com
@@ -74586,6 +74603,7 @@ saatlereburadanerisin.yyuyy.com
 sabah-aksamx.cloudgate.cfd
 sabah-gazetesi.bytefusion.sbs
 sabah-haber.club
+sabah-izeltas.dnsup.net
 sabaha.app
 sabahaksamturkey.net
 sabahattinalivakfi.com
@@ -77226,6 +77244,7 @@ selinbutikorgududulu.duckdns.org
 selindudaksd.wixsite.com
 selingroup.pw
 selinyardimlari.com
+sellectum.com
 sellembed.top
 sellernewverif.com
 sellfusion.top
@@ -90541,6 +90560,7 @@ tuvs-turkoodeme.net
 tuvsaraccmuyenee.net
 tuvssssmuayneneeessrrr.net
 tuvsxstrksw.net
+tuvtkur-aracmuuyne.web.app
 tuvtr-veri-system.net
 tuvtrkaracmuayene.govt.hu
 tuvtrkaracmuayene.ldtp.com
