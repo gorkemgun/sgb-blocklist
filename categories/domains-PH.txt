@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101441
-# Last change: 2026-08-26 09:59:54 UTC (sync mode: delta)
+# Records: 101450
+# Last change: 2026-08-26 11:47:47 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -809,6 +809,7 @@
 182iletisim.xyz
 182lrdnbrdarvdbk.store
 182webstt.lat
+182webstt.lol
 1835304-coinbase.com
 185-167-99-250.plesk.page
 185-216-70-93.plesk.page
@@ -2625,6 +2626,7 @@
 901562-coinbase.com
 902at3s.cn
 903182s-coinbase.com
+90514sus.site
 90559999009999.duckdns.org
 90909002323.cloud
 90e4e118.dj-hd5kfu.shop
@@ -25879,6 +25881,7 @@ dijital-mobiluyelikks.ml
 dijital-online.website
 dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
+dijital-simdial.sbs
 dijital-simdikapinda.sbs
 dijital-sipariskapinda.sbs
 dijital-siparislerkapinda.sbs
@@ -26900,6 +26903,7 @@ dolap.live
 dolap.market
 dolap.nard.ca
 dolap.odeme-satis.com
+dolap.odemeni-gerceklestir.com
 dolap.odemepay.com
 dolap.onayli-pay.com.tr
 dolap.pay-sepetim.com.tr
@@ -39900,6 +39904,7 @@ haftaninyildizlari.com.tr
 haftaninyildizlari.gleeze.com
 haftaninyildizlarigeldigidiyorbakhemenbence.sbs
 haftaniyildizurunleri.com.tr
+haftanlnsokflrsatlarl.duckdns.org
 haftanlnyildizialdlnaldln.com
 haftann-aldin-aldin.com
 haftaortasindakrcabra.com
@@ -41330,6 +41335,7 @@ hemenyetissende.tech
 hemenyonlendiriliyorsunuz.com
 hemenyonlendirme.com
 hemenyukle.live
+hemesilskem-sonuc.net
 hemislemnokta-sonuc.net
 hemispherebluff.top
 hemisphererelic.top
@@ -63192,6 +63198,7 @@ odegecveral.net
 odegeeecc.net
 odehgssode.cfd
 odeklyvery-gyy.net
+odelnhgssmd.cfd
 odem3h1zmetleri-101d.duckdns.org
 odem3h1zmetleri101d.duckdns.org
 odeme-get-param-guvende.tk
@@ -68174,6 +68181,7 @@ plksmyservisisonlibrda.site
 pllavm.click
 pllgav-cf.top
 pllgav-hl.top
+plllrrrdssaaasssss.beauty
 plmilliyetxb.com
 plnkvavxvx.net
 plolastasv.vercel.app
@@ -77840,6 +77848,7 @@ setupssopasskey.com
 seturydutyfree.site
 setvipsec.club
 sevbasvurtrk.net
+sevcactamh-r.xyz
 sevdagonulluleri.com
 sevdagonulluleri.net
 sevdaliyizingrntiyeburada.com

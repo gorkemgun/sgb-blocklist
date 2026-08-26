@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 467226
-# Last change: 2026-08-26 09:59:54 UTC (sync mode: delta)
+# Records: 467240
+# Last change: 2026-08-26 11:47:47 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5848,6 +5848,7 @@
 182webicinrndsv.com
 182webstt.click
 182webstt.lat
+182webstt.lol
 1833.site
 1835304-coinbase.com
 18378219294848819119384.xyz
@@ -21348,6 +21349,7 @@
 903182s-coinbase.com
 903333com.com
 903jxp.duckdns.org
+90514sus.site
 905342.cloud
 905342.online
 90546.cloud
@@ -75634,6 +75636,7 @@ bire.basvurm-desdek-kampanyasi-bireysel.xyz
 birebir.info
 birebiraslanayapiyorum.net
 birebirbayiniz.com
+bireboko-folasude.lol
 birefu-kulodarese.xyz
 bireiselgiris.com
 birekampyakatilimsayfasiforumozel.online
@@ -126395,6 +126398,7 @@ dijital-paribu.ga
 dijital-passwordentrypersonal.click
 dijital-passwordentrypersonal.za.com
 dijital-servisler.sbs
+dijital-simdial.sbs
 dijital-simdikapinda.sbs
 dijital-sipariskapinda.sbs
 dijital-siparislerkapinda.sbs
@@ -130121,6 +130125,7 @@ dolap.nard.ca
 dolap.odeme-ilan.com
 dolap.odeme-satis.com
 dolap.odemem.online
+dolap.odemeni-gerceklestir.com
 dolap.odemepay.com
 dolap.onayli-ilan-sepetim.com.tr
 dolap.onayli-pay.com.tr
@@ -193181,6 +193186,7 @@ haftaniyildizurunleri.com.tr
 haftanizinbasini.com
 haftanizinbasiozel.com
 haftanizinsizfirsati.com
+haftanlnsokflrsatlarl.duckdns.org
 haftanlnyildizialdlnaldln.com
 haftann-aldin-aldin.com
 haftannniiinn-indirmleerrririiiii.com
@@ -202695,6 +202701,7 @@ hemenyzbrsteklfislerb.store
 hemerobaptist.com
 hemerossonflesk.com
 hemerscanflsk.com
+hemesilskem-sonuc.net
 hemestreks.com
 hemgectmhemaldm.net
 hemi.mamasbakery.net
@@ -213250,6 +213257,7 @@ horizongb.com
 horizonglimmer.org
 horizonguard.space
 horizonmagazine.com
+horizonmindventure.sbs
 horizonservicesinc.ddns.net
 horizonservicesnc.ddns.net
 horizontalcoup.top
@@ -251901,6 +251909,7 @@ kentdalumuyerita.net
 kentdebizegel.net
 kentdesizlerle.net
 kentdestek.com.tr
+kentducks.duckdns.org
 kentelimia.xyz
 kenteminyuklemeleri.net
 kentermen.duckdns.org
@@ -302427,6 +302436,7 @@ odeindirm.cf
 odeindirm.ml
 odeindirm.tk
 odeklyvery-gyy.net
+odelnhgssmd.cfd
 odem-eleronline2024.online
 odem3h1zmetleri-101d.duckdns.org
 odem3h1zmetleri-101d1.duckdns.org
@@ -320324,6 +320334,7 @@ parsmambalzdysehrde2.xyz
 parsnetol.online
 parsonschain.com.au
 parsonsmobileauth.ddns.net
+parsotokaportatamirciisf.duckdns.org
 parsponsor.club
 parsrulman.com
 parss.2kool4u.net
@@ -324929,6 +324940,7 @@ pllgav-hl.top
 pllgav-tu.top
 plljhwywtp.duckdns.org
 pllllls.ddns.net
+plllrrrdssaaasssss.beauty
 pllqwxhujs.duckdns.org
 pllua2.duckdns.org
 plmaskeras.vercel.app
@@ -363642,6 +363654,7 @@ sevarators.info
 sevbasvurtrk.net
 sevbenicanimcanparam1523232.xyz
 sevbeniseveyimseni.xyz
+sevcactamh-r.xyz
 sevcan67.com
 sevcan74.com
 sevcikconcikdomilezdolerez.com
@@ -387983,6 +387996,7 @@ tarek10.hopto.org
 tarek90.zapto.org
 taremsrweraa.app
 tarentrycommunity.com
+taresototamirrci34.duckdns.org
 tarezoerwallet.webflow.io
 target2cloud.com
 targetlaneim.com

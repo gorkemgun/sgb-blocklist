@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257664
-# Last change: 2026-08-26 08:02:24 UTC (sync mode: delta)
+# Records: 257669
+# Last change: 2026-08-26 11:47:47 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -43339,6 +43339,7 @@ bire.basvurm-desdek-kampanyasi-bireysel.xyz
 birebir.info
 birebiraslanayapiyorum.net
 birebirbayiniz.com
+bireboko-folasude.lol
 birefu-kulodarese.xyz
 bireiselgiris.com
 birekampyakatilimsayfasiforumozel.online
@@ -123782,6 +123783,7 @@ horgs.org
 horhgss.com
 horizonera.cfd
 horizonglimmer.org
+horizonmindventure.sbs
 horizontechsdf.com
 horizonzest.space
 horkessatis.gen.tr
@@ -147087,6 +147089,7 @@ kentdalumuyerita.net
 kentdebizegel.net
 kentdesizlerle.net
 kentdestek.com.tr
+kentducks.duckdns.org
 kenteminyuklemeleri.net
 kentermens.duckdns.org
 kentfast.net
@@ -181476,6 +181479,7 @@ parslsrghzmtgncqr.com
 parsmambalzdysehrde.xyz
 parsmambalzdysehrde2.xyz
 parsnetol.online
+parsotokaportatamirciisf.duckdns.org
 parsponsor.club
 parss.2kool4u.net
 parsteknoloji.biz
@@ -213617,6 +213621,7 @@ tarasmacerxcew.net
 tarbil.golf
 taredovimukx.com
 taremsrweraa.app
+taresototamirrci34.duckdns.org
 targetlaneim.com
 targetnest.site
 targobank-de.site
