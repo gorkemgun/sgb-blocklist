@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41158
-# Last change: 2026-08-26 13:19:40 UTC (sync mode: delta)
+# Records: 41168
+# Last change: 2026-08-27 20:33:53 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -8644,6 +8644,7 @@ consumerspanelsrv.eu3.org
 consuminero.com.co
 consvcprivacy.com
 cont45.com
+contabilidad.icu
 contact-efsllc.com
 contact-timocom.com
 contact.rgssm.in
@@ -10721,6 +10722,7 @@ document-view.live
 document.support-recoverycustomers.services
 documentapproved.click
 documentation.ddns.net
+documentodigital.cloud
 documentofficupdate.info
 documents-cloud.com
 documents-cloud.online
@@ -14802,6 +14804,7 @@ gesdfflpfg.xyz
 gesibaglarindadolaniyorumm.top
 gestao.simtelecomrs.com.br
 gestaodenegocios.monster
+gestionadocs.me
 gestisciweb.com
 get-app-data1.xyz
 get-carrot-zoom.com
@@ -14837,6 +14840,8 @@ getobject49.marginisbi.ru
 getonthebose.online
 getontheboss.one
 getpass.ddns.net
+getpdf.digital
+getpdfdigital.cloud
 getpwnedlmfao.ddns.net
 getsdervicessupoortss.azurewebsites.net
 getservicessuports.azurewebsites.net
@@ -15480,6 +15485,7 @@ gouvn.me
 gov-lk.org-liv.net
 gov-pok.net
 gov.cn.uqauv.cn
+gov12366.com
 gov24.me
 gov24.top
 gova.manhajnews.com
@@ -25621,6 +25627,7 @@ nuevamenteeste.duckdns.org
 nuevoprueba1.duckdns.org
 nufliy.com
 nuhcld.com
+nuihuw.top
 nujtec.shop
 nulekz.com
 nuljjjnuli.org
@@ -32789,6 +32796,7 @@ sopito.website
 soplelec.pics
 sopoal.ddns.net
 soporte-aclaracion.xyz
+soportedigital.cloud
 sorathlions.com
 sorgu.loclx.io
 sorgularim.site
@@ -33852,6 +33860,7 @@ swrzxcn.com
 swvljct.com
 swyhg.com
 sx-facemask.com
+sx.nuihuw.com
 sx.ssgxvx.icu
 sxaplutn.com
 sxatqwee.tk
@@ -37394,6 +37403,7 @@ vistcreative.com
 viste67.com
 visual-translator.xyz
 visual568.xyz
+visualizarpdf.online
 visualstudio-microsoft.com
 visualstudiomacupdate.com
 vitalicious.tk

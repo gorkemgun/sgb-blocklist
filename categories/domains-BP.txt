@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257713
-# Last change: 2026-08-27 09:55:29 UTC (sync mode: delta)
+# Records: 257739
+# Last change: 2026-08-27 20:33:53 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -28654,6 +28654,8 @@ asncxbyaaasdanala.489415686332522.sbs
 asncxbyaaasdanala.4894564986451.sbs
 asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.784191565489651.sbs
+asncxbyaaasdanala.874184655641556.sbs
+asncxbyaaasdanala.8746519864165.sbs
 asncxbyaaasdanala.89415648951651.sbs
 asncxbyaaasdanala.8941568418975.sbs
 asncxbyaaasdanala.894216546865.sbs
@@ -36280,6 +36282,7 @@ bcnrtrgirsi.com
 bcnstrfrst-grs.com
 bcnvdklt-vcdvt.com
 bconlineduyuru-tr.com
+bcr-trendyol.ph
 bcrttrscanlkshbppe.com
 bcry0nfrenkl.cfd
 bcsdt25-20rky.com
@@ -37538,6 +37541,7 @@ bevrly.live
 bewklsmbs.net
 bexcsmked.com
 bexenh.fyi
+bexorunilakemvytosa.sbs
 beyanla.hizlibeyan.com
 beyapikredi.com
 beyas4.s3.eu-north-1.amazonaws.com
@@ -50803,6 +50807,7 @@ botverification.cf
 boundbrooknj.xyz
 boundflktp.com
 bourgclick.com
+boursoramagarantibbva.com.ph
 boutique-purchased-wondering-compiler.trycloudflare.com
 bovadda.click
 bowakashobimi.com
@@ -53585,7 +53590,6 @@ burspinari.org
 burspinarivakfi.com
 burspinarivakfi.org
 burssbasvurunoktasi.com
-burssepeti.com
 burstlandmark.com
 burstmgir.pw
 bursvakti.org
@@ -62572,6 +62576,7 @@ dbireyselkampanyabasvurusuyeniyilozel.linkpc.net
 dbl55polisi155polis.online
 dbnra.com
 dboxes.myvnc.com
+dbs-ptt-garantibbva.com.ph
 dbsbosdom.xyz
 dbshakaa-sbsaks-amdm.cfd
 dbshakaa-sbsaks-amdm.cyou
@@ -69498,6 +69503,7 @@ digitaltokiyleyasam.digital
 digitaltrdnzgiris.ga
 digitalvakiff-bayramda.sbs
 digitalvakiflakolay.com
+digitalvisioncompany.sbs
 digitalwalletpairbu.com
 digitalwalletparbu.com
 digitalwalletparbuu.com
@@ -77797,6 +77803,7 @@ e-sube.hedefmenkulyatirim.online
 e-sube.hedefonmusteripanel.com
 e-sube.infobireysel.online
 e-sube.istanbul-portfoydanismanlik.com
+e-sube.my-homeip.de
 e-sube.one-portfoy.com
 e-sube.turktb.com
 e-sube.yapikrediturkiyenindijitalbankasi.com
@@ -88594,6 +88601,7 @@ etil-yeniyil.ga
 etil-yilbasi.ga
 etil-yilbasi.ml
 etil-yilbasinda.ml
+etisalat-bankofamericac-isbank.com.ph
 etk22bimcelllstl.com
 etkhgsn.com
 etkietmez.xyz
@@ -97788,6 +97796,7 @@ garantibbva-aidatiadeleri.ddns.mobi
 garantibbva-aidatiadeleri.mooo.com
 garantibbva-aidatiadesi.mooo.com
 garantibbva-aidatlar-iade.mooo.com
+garantibbva-alipay.ph
 garantibbva-bank.com
 garantibbva-bankceptemobile.com
 garantibbva-bankmobil.com
@@ -97803,6 +97812,7 @@ garantibbva-bell.com.ph
 garantibbva-bireyselhizmetim.com
 garantibbva-bonus250tl-com-tr.tk
 garantibbva-bonusiadesistemi.com
+garantibbva-bot.com.ph
 garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cepmobilsubekazandiriyor.tk
@@ -97892,6 +97902,7 @@ garantibbva-mobil.life
 garantibbva-movistar.com.ph
 garantibbva-netflix.ph
 garantibbva-okta.com.ph
+garantibbva-olacabs.ph
 garantibbva-online-kredi-basvu.duckdns.org
 garantibbva-online-kredi-basvur.duckdns.org
 garantibbva-online-kredi-basvuru.duckdns.org
@@ -103975,6 +103986,7 @@ gooyandacc.xyz
 gopakbank.com
 gopanel101.online
 goper.lat
+gopiraventuxelazim.sbs
 goporland.shop
 gor-ogren-sorgula-veaktar.sbs
 gor-ve-haberin-olsun-2025.sbs
@@ -108418,6 +108430,7 @@ haberler122746.sbs
 haberler123.shop
 haberler1230149.shop
 haberler123531234.shop
+haberler1245343.shop
 haberler141153.shop
 haberler14253231.shop
 haberler145.shop
@@ -108429,6 +108442,7 @@ haberler2022.tk
 haberler2026.co
 haberler2026.xyz
 haberler2026xl.com
+haberler2345343.shop
 haberler24.site
 haberler3123512.shop
 haberler31345653.shop
@@ -115236,6 +115250,7 @@ hemalnsltaksmatmas.net
 hemanal.click
 hembasvrkyt.hicam.net
 hembismilesmel.com
+hemcnsa.duckdns.org
 hemcumesfles.com
 heme-nbasvur.duckdns.org
 heme-nbasvur1.duckdns.org
@@ -150444,6 +150459,7 @@ koininn.co
 koinmim.com
 kojiksoap.club
 kokaina.org
+kokfiloarackiralama.com
 kokisalt.com
 kokolazimharmanim.net
 kolada.xyz
@@ -154233,6 +154249,7 @@ lale-zamani-olsun.dnsuser.de
 lalebutik.tech
 laledevrindeyiz.sbs
 laleli.site
+lalelicicekcisime.duckdns.org
 lalelisubeekimayiindirim.com.tr
 lalelisubeekimayiindirim.online
 lalelisubeekimayiindirimleri.com.tr
@@ -176341,6 +176358,7 @@ otokocturkiye.org
 otokocturkiyefilo.com
 otokonumunda.online
 otolyohgskgmwbgcsos.duckdns.org
+otomakdenemelerimzer.duckdns.org
 otomaktifgaleryys.duckdns.org
 otomathizlliyol.herokuapp.com
 otomatikdebizle.net
@@ -188694,6 +188712,7 @@ qatrairwysbuyticket.net
 qavdeli.tr
 qaviloxen.com
 qavimexo.shop
+qavix7meron3zulaterok.cfd
 qavomirex.com
 qavstorlo.gifts
 qavticlo.gifts
@@ -191673,6 +191692,7 @@ ravonella.com
 ravoqenlitu.shop
 ravtonic.com
 ravumo.com
+ravun8qelix3zonaterima.sbs
 ravunixel.com
 rawamapaket.online
 rawbussines.com
@@ -210297,6 +210317,7 @@ starcommandrr.app
 starflickz7qpmy.click
 stargazeo.com
 starkampanya.com
+starlightcreativeflow.sbs
 starlightfb.top
 starlightforge.online
 starlightforge.shop
@@ -230354,6 +230375,7 @@ vakif.b-cdn.net
 vakif.huzureli.co
 vakif.kisalink.cc
 vakif.kredibasvurum.com.tr
+vakif.pzbsin.com
 vakif.subesizbasvuru.com
 vakif.tk
 vakif1-bmwx3.com
@@ -235457,6 +235479,7 @@ w2sebs2sc-treasmde2.com
 w3-4ewesswqwqes.shop
 w3453445.nicepage.io
 w3kxlwppv5t.storage.googleapis.com
+w4xen7qor2zuma9kirev3ta.sbs
 w5dwxw5xw.online
 w5t2r9x7n0q3b1m6y4p8z2v9.com.tr
 w7tpqlpeoter9jk03cspm6k4.newsthrifty.com
@@ -237401,6 +237424,7 @@ wikklu.cn
 wilboktr.com
 wildcanvas.store
 wildernessappraisal.top
+wildflowerdigitalhub.sbs
 wildspark.sbs
 will-coma.com
 will-neta.net
@@ -241179,6 +241203,8 @@ www-teb-com-tr-basvuru-aidat-iade.my-homeip.de
 www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
+www-teb-com-tr-islem-merkezi.my-homeip.de
+www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr.ga
 www-teb-com-tr.gq
 www-teb-com-tr.ml
