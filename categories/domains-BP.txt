@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257690
-# Last change: 2026-08-26 23:40:32 UTC (sync mode: delta)
+# Records: 257713
+# Last change: 2026-08-27 09:55:29 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -5818,6 +5818,7 @@
 2568544854.site
 2569858477prmsynnkmpnyaabsvr.online
 2569858477prmsynnkmpnyaabsvr.pro
+256sdx43m6hacx32.sbs
 2574345284563534.com
 25770235.cloud
 257845.cloud
@@ -28650,9 +28651,11 @@ asname.world
 asnansndsnfhshfn.space
 asncxbyaaasdanala.4849846518494221.sbs
 asncxbyaaasdanala.489415686332522.sbs
+asncxbyaaasdanala.4894564986451.sbs
 asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.784191565489651.sbs
 asncxbyaaasdanala.89415648951651.sbs
+asncxbyaaasdanala.8941568418975.sbs
 asncxbyaaasdanala.894216546865.sbs
 asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asndsantamsmmamsd.blogspot.com
@@ -72445,6 +72448,7 @@ dshgsd-asjvfj-asfsaf.cyou
 dshgsd-asjvfj-asfsaf.icu
 dshgsd-asjvfj-asfsaf.sbs
 dshnjsejse.site
+dsjcajdadkxl1k2x3123.shop
 dsjfhkdfjgsfjkhsdkjghsg22.click
 dsjfsdj3rejfd.com
 dskaaracmusnw.online
@@ -93932,6 +93936,7 @@ firsatlar-yeniyil.com
 firsatlar-yilbasiozel.com
 firsatlar.github.io
 firsatlar.name.tr
+firsatlar.s.gy
 firsatlar.sg-host.com
 firsatlar.shop
 firsatlar.site
@@ -96841,6 +96846,7 @@ garanti-basvuru-kredi.e-ile.com.tr
 garanti-basvuru.com
 garanti-basvuruekrani.com
 garanti-basvuruformu.site
+garanti-bb-va.my-homeip.de
 garanti-bb-vaa.xyz
 garanti-bbdv-web-giris-de.com
 garanti-bbva-2021-cekilis.com
@@ -116911,6 +116917,7 @@ heryerkaranlik.site
 heryerlerdealisverislermlf.duckdns.org
 heryerneon.online
 heryerneon.site
+herykenan.duckdns.org
 heryolbz.xyz
 heryollz.xyz
 heryone50kzan.co
@@ -128747,6 +128754,7 @@ ilhamperileriindirimlerlegeldi.shop
 ilhamuzayi.space
 ilhamveren.online
 ilhamverengenclikvakfi.org
+ilhamverenprojelerim.sbs
 ilhasinio.net
 iliigranitsmenuley.com
 ilikayvakfi.com
@@ -137655,6 +137663,7 @@ iyilerguzeldir.com
 iyiliikk.org
 iyilik-dolu-bir-dunya.it.com
 iyilik-zamani-simdi-sizlere-buraya-geldi.com
+iyilikcogaltikcaiyidirrr.shop
 iyilikdolukalpler.com
 iyilikgunesleri.online
 iyilikgunleri.online
@@ -139989,6 +139998,7 @@ jetzt-verifizieren.com
 jeweltrove.shop
 jewnjksbs.net
 jexaltra.store
+jexomiravultenkazop.cfd
 jexvural.site
 jfarasf421asdas.click
 jfesladzeslfmx.wordpress.com
@@ -141585,7 +141595,9 @@ kaigenc.sbs
 kainatgetevi.net
 kairismaindirmlisezonluk.shop
 kaisxa12z312sadcasx123.cfd
+kait1laylayloommmm.shop
 kait1xxax123z21sacx23z123.cfd
+kait3laylaylommmxkj1x232.shop
 kaita1xsadljkackkj13x132.cfd
 kaita99asdjkjkqxeqkwe.cfd
 kaitacsdkjck123xk123.sbs
@@ -155582,6 +155594,7 @@ lokal-internet-bvtr.digital
 lokal.hazirsite.pro
 lokelokwdx.click
 lokjferteuye.click
+lokkotokyo.co
 lokumera.com
 lokumgameskral.duckdns.org
 lokumlusaray2.click
@@ -155962,6 +155975,7 @@ lumenarix.pro
 lument.bond
 lumetria.online
 lumewave.online
+lumex2qorin9zavetukar.sbs
 lumfennzonmir.com
 luminarkovzo.com
 luminousdrift.online
@@ -155973,6 +155987,7 @@ lumixin.xyz
 lumixors.com
 lumlummlekko.com
 lummeenvara.com
+lumoravexantira.sbs
 lumospriverra.duckdns.org
 lumrebasvurularainizl.duckdns.org
 lumthira.net
@@ -163322,6 +163337,7 @@ monarchkeen.xyz
 monay-acikdenizv2denizbank.com
 mondekrause.pro
 monebank.xyz
+monestlerkest.duckdns.org
 monetrzx11.app
 monevo.gifts
 money-matters24.com
@@ -175880,6 +175896,7 @@ osmanlifearleskksss.com
 osmanlifearleskmcnsad.com
 osmanlikallica.cfd
 osmanlikkcba.com
+osmanlisorgupaneli.site
 osmanlisosyalyardimvakfi.com
 osmanlivakf.com
 osmanlix.com
@@ -177641,6 +177658,7 @@ paktnd.blogspot.com
 paktyktl.xyz
 paktyl.blogspot.com
 palaeophytologist.com
+palagire-saladiro.lol
 palakiy4.click
 palamasan.app
 palamasan.xyz
@@ -190742,6 +190760,7 @@ rafahsgfafda1.sbs
 rafalardakisonurunler.online
 rafasdkasdxj1kj3x123x12.shop
 rafasgxasxsafa.cfd
+rafattifaaaj12k3x12312.shop
 raffa1.site
 rafflestyle.markets
 rafkasdkjxqkekq3131.cfd
@@ -194107,6 +194126,7 @@ s4hibindenguvenliodeme.org
 s4zartuk4.top
 s6.hizli-kredici.com
 s6q4h8m3k2a7x9bvnf.cfd
+s6vax2qez9muri4nok7la3.sbs
 s6ver.online
 s7cdn1.online
 s8z6bkd6aqt.storage.googleapis.com
@@ -205891,6 +205911,7 @@ smart-courses.online
 smart-investments.info
 smart-kendim-icin.info
 smart-value.surge.sh
+smartbusinessclass.sbs
 smartdigitalweb.site
 smartedvler-de.com
 smartenterprisegrid.com
@@ -213037,6 +213058,7 @@ t8r3v6n1x5b9.sbs
 t9b5r2x8m6qp4v3w2z5.click
 t9kidvl3et.store
 t9t9tt9t923t2sfsg.sbs
+t9xuv2mqi7zora4kel8nav5.sbs
 ta1o1.com
 ta1o1.net
 taaaaaaaakbet90.click
@@ -215930,6 +215952,7 @@ telfhakkimerkezitr.ml
 telfhakkimerkezitrig.tk
 telfhaklarimerkeziihl.ml
 telfonuburdanalcaksin.blogspot.com
+telia-garantibbva.ph
 telif-bildirge-com.tk
 telif-bildirge.com
 telif-bildirimi.com

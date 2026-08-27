@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101529
-# Last change: 2026-08-26 23:40:32 UTC (sync mode: delta)
+# Records: 101561
+# Last change: 2026-08-27 09:55:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -224,6 +224,7 @@
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-bugune-ozel-online-mobil-indirim-sepeti-alisveris-tr.sepet-net.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
 101-salieylulmarketi.com
@@ -811,6 +812,7 @@
 182iletisim.cyou
 182iletisim.xyz
 182lrdnbrdarvdbk.store
+182websp.com
 182webstt.lat
 182webstt.lol
 1835304-coinbase.com
@@ -1999,6 +2001,7 @@
 52-33-187-179.plesk.page
 52-39-96-97.plesk.page
 52235236fsd523.click
+5234183747924819.duckdns.org
 523454.cc
 5234cfdsoj235.click
 523748659230583902865092354378598342.com
@@ -4994,6 +4997,7 @@ agrupamentoeb23gondomar.com
 agsgshagvhshq.net
 agsikortam.xyz
 agstaltayertsjfasldaslkdhfnsdjfnjsd.online
+agstosbasindae.duckdns.org
 agstoscrfsnzdngl.com
 agstoscrfsnzdngl.info
 agstosfrsatttwa.com
@@ -5589,6 +5593,7 @@ akkmpfrst2024krbn.online
 akkredimm1.wixsite.com
 aklafirsatakacirma.com
 aklbnakbasvkampnya.com
+aklindakalacakbirsey.sbs
 aklistrsaveras.online
 aklksfaoizlea.blogspot.com
 akmobil-ceptebasvuru-ekrani-com.webredirect.org
@@ -6140,6 +6145,7 @@ algelonikolistanlar.shop
 algitfirrsatlardakal.cfd
 algor-form.site
 alha1337.com.tr
+alhadisaglikliyasa.xyz
 alharbi.com.tr
 alhaydibunlari.com.tr
 alhaydibunlari.online
@@ -6575,6 +6581,7 @@ altinpuan2360.com
 altinrehberi.org
 altinrehberi.site
 altinyildizclasics-tr.top
+altinyildizclassics.live
 altinyillar.com
 altinyunushotelcesme.com
 altitudearea.top
@@ -16410,6 +16417,7 @@ buyandsave.co.business
 buyazapp1-43a83c3c83a4.herokuapp.com
 buychain.store
 buyclothes.vip
+buydealexpress.com
 buydevelopquiet.buzz
 buydiplomashop.com
 buydocuments247.com
@@ -18155,6 +18163,7 @@ ch-secure.cfd
 ch-secure.de
 ch.illegalist.store
 ch7jyz5hqgdy.storage.googleapis.com
+chacalang.com
 chai21rburden.top
 chaikovskogo-kassa.com
 chaikovskogo-ticket.ru
@@ -30987,6 +30996,7 @@ esube-ptt-govtr.com
 esube-referans.com
 esube-t-e-b-ceptebireysel.com
 esube-teb-cepteteb.myonlineportal.de
+esube-teb.my-homeip.de
 esube-teraportfoy.com
 esube-vaktdgtal-subemiz.xyz
 esube.bmd-grup.com
@@ -34494,6 +34504,7 @@ forcommemorate.top
 forct.is-great.org
 fordbtc.org
 fordestined.top
+fordmotbvmorcompany.vu
 fordtrucks.expert
 foreheadprestige.top
 foreignallocate.top
@@ -39164,6 +39175,7 @@ guvenliticaret-prmguvende.shop
 guvenlitr.com.tr
 guvenliyolculuklar.net
 guvenllidollumbakiyehgs.epizy.com
+guvenllisiparis.com
 guvenlodemeyontemi.com
 guvenlrnvcn.net
 guvennliodeme.online
@@ -41517,6 +41529,7 @@ her-zamaninikcrma.com
 heraldinsulate.top
 heraldrelish.top
 heranbirfirsatbuyaz.net
+herangelmek.duckdns.org
 heranimated.top
 heravakfi.org.tr
 herbaldegeneration.top
@@ -43382,6 +43395,7 @@ howtodoooo.com
 howupbusiness.com
 hoxbama.xyz
 hoxcbo.top
+hoystlerskye.duckdns.org
 hozutia.com
 hozutya.com
 hpercelikcaven.cfd
@@ -46821,6 +46835,7 @@ intermittentseduce.top
 internalforum.tk
 internalfragile.top
 internationalavenge.top
+internationalbusinessmaclsihinesibm.vu
 internationaldespatch.top
 internationalguestservices.com
 internationalnominee.top
@@ -48802,6 +48817,7 @@ iztodgds.blogspot.com
 iztosfr.dns.navy
 iztospapfs.blogspot.com
 iztoxl.top
+iztqopos.blogspot.com
 iztrek.com
 iztrkrmekm.net
 iztsdwws.blogspot.com
@@ -51561,6 +51577,7 @@ klashaber.club
 klashabernow.club
 klashaberpro.club
 klashabertech.club
+klaspatikatki1974.duckdns.org
 klasykllezmmn.net
 klavli.site
 klavuzchecker.com.tr
@@ -56286,6 +56303,7 @@ maneuversuppress.top
 maneuvertempo.top
 mangaarthoteltokyo.com
 mangalium.com
+mangettinationalpark.com
 mango-cleopatrapg.com
 mangodemo.shop
 mangonothing.top
@@ -57023,6 +57041,7 @@ maybankicr.top
 maybeenvelop.top
 maybelyric.top
 maybereconciliation.top
+maybeshewillcome.top
 maybuddhist.top
 maycarfilo.com
 maycontemplate.top
@@ -59421,6 +59440,7 @@ moreoverinventory.top
 moreportrayal.top
 morewill.top
 morgan-versus-chronic-concentrate.trycloudflare.com
+morganstbftanley.vu
 morikvine.com
 morivahq.shop
 morivahubs.shop
@@ -59969,6 +59989,7 @@ mumii-troll.ru
 munauinvest.site
 mundoejecutivoperu.com
 mungercapital.com
+munichreinsurdjqanceamericainc.vu
 municipalhike.top
 municipalityhygiene.top
 municipalityilluminate.top
@@ -62588,6 +62609,7 @@ nvirandevuals.com
 nvirandevucunuz.online
 nvirandevulariniz.online
 nvirandevularinizz.online
+nvirandevularinizz.site
 nvirandevumal.net
 nvirandevumklklsdas.net
 nvirandevuservisii.com
@@ -63375,6 +63397,7 @@ odourconfederation.top
 odourparachute.top
 odourtread.top
 odrypyhpgs.storage.googleapis.com
+odsmdicmfdhgsode.store
 odsmgecme.net
 odsymodme.net
 odtvkr.top
@@ -71761,6 +71784,7 @@ rafatafakitap123x545x.shop
 rafatafatufatifa41x12313.shop
 rafatafax123213z123.sbs
 rafatebx1j23jx123z123.cfd
+rafatfitkx213123v5c.shop
 rafflebnnancegiris.site
 raflardaindirimlerdencokonlinedevar.my
 raflardaindirimlerdencokonlinedevar.sbs
@@ -74348,6 +74372,7 @@ ruhsuzpanel1.site
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
+ruhsuzpanel9.site
 ruinousatrocious.top
 ruinouseminent.top
 ruinousfriction.top
@@ -74704,6 +74729,7 @@ sadaffiliate.top
 sadakatvakfi.com
 sadascofnfslristlartr.duckdns.org
 sadasdasd.great-site.net
+sadashdha923sadhadw.click
 sadavd.top
 sadawdawda.pro
 sadbrilliant.top
@@ -75006,6 +75032,7 @@ sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.sipariis.com.tr
+sahibinden-get.siparisguvende.com
 sahibinden-get.tr
 sahibinden-get.urunal.fun
 sahibinden-get.urunuguvenli-al.com
@@ -76739,6 +76766,7 @@ sdsuxk-work.shop
 sdwqdqw.com.tr
 sdykmb.top
 se1uysb.cn
+se4432.site
 sea28hkv.tokyo
 seabeckskwp.com
 seafazleaza.webredirect.org
@@ -76802,6 +76830,7 @@ secondbui.jarredperlas.com
 secondcompany.cat
 secondnickname.cn
 secondrust.lat
+secondsightsystilqemsllc.vu
 secondsing.top
 secondturkiye.shop
 secondvocal.top
@@ -79335,6 +79364,7 @@ siparishazir.click
 siparishizli-ver.com
 siparishizliolsut.cloud
 siparishizliver.com
+siparisim-onay-1921.com
 siparisim-sepette.com
 siparisincepte.click
 siparisinhadide.click
@@ -81884,6 +81914,7 @@ sssasswsdsddbimmmcceeekmpnya444.org
 sssklrkmflrskmcsztmrss.com
 ssslcdsklflskdflksckflds.cfd
 ssslkfkmckzmtmrkmfmklcmzmktmsms.store
+ssslllllpppppsssbrrr.lat
 ssslllllpppppsssbrrr.lol
 ssslllllpppppsssbrrr.sbs
 ssso---coinbasepro--cd--auth.webflow.io
@@ -94287,6 +94318,7 @@ voltagesentimental.top
 voltakampanyasiaktuel.shop
 voltamotorluaraclar.com
 voltamotoronline.com
+voltamotorsonline.com
 voltaonlinesatis.com
 voltarnus.digital
 voltasatis.com

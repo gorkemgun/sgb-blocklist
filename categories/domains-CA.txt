@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Cyber Attack (Port Scan, Brute Force etc.) (CA)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=CA
-# Records: 166
-# Last change: 2026-08-23 09:45:32 UTC (sync mode: full)
+# Records: 173
+# Last change: 2026-08-27 09:55:29 UTC (sync mode: delta)
 1-free-reward.netlify.app
 6465522534.cloud
 a101markt.kampanyalialisveris.com
@@ -117,6 +117,10 @@ lifetime-blue-tick.netlify.app
 logicnode.digital
 mc-tr.site
 milosh-solibella-0dcio.sgttommy.workers.dev
+mq-result.qt-proxy.org
+mq-result.qt-team.com
+mq-task.qt-proxy.org
+mq-task.qt-team.com
 musicboxcr.com
 nc.667af91ca5068.digital
 now-appeal-bad-post-center-here.vercel.app
@@ -133,6 +137,8 @@ owa.apmmacleans.ca
 permanent-bluetick.netlify.app
 permanent-reward-03.netlify.app
 permanent-reward-04.netlify.app
+qt-proxy.org
+qtproxy.xyz
 qtxjsverzn.dgrh3.cn
 quarex.us
 re-hi-review-issue-check.surge.sh
@@ -149,6 +155,7 @@ saatenspedition.de
 salaryadjustment-2afb52.pmb6fefc52b3f9aa5c2dbf.workers.dev
 sdtr-site.cfd
 secure-systems-validations-courts.vercel.app
+securelink.qtproxy.xyz
 smkds.online
 srgislemler.cfd
 stvse.com
