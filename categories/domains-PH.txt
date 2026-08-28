@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101603
-# Last change: 2026-08-27 20:33:53 UTC (sync mode: full)
+# Records: 101610
+# Last change: 2026-08-28 05:27:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2027,6 +2027,7 @@
 53c15d1f.jdhuwoskz.cloud
 541221125565556559992.duckdns.org
 541221125565556559993.duckdns.org
+5426554265521.duckdns.org
 5435345435.cloud
 543543534.duckdns.org
 54354982138943214000.net
@@ -39754,6 +39755,7 @@ haberler64348.shop
 haberler6555343.shop
 haberler6723236.sbs
 haberler73421.shop
+haberler7452523.shop
 haberler78912.sbs
 haberler8.club
 haberler8.online
@@ -42921,6 +42923,7 @@ hojeasdert.duckdns.org
 hojemetstrer.duckdns.org
 hojesfejterdafs.duckdns.org
 hojeterler.duckdns.org
+hojsdfewer.duckdns.org
 hokkabazflexteb666.duckdns.org
 hokustiverglodit.net
 hold-booking.com
@@ -51841,6 +51844,7 @@ kmsoara.com
 kmsoralgaka.com
 kmsorcuqq.net
 kmsordulama.shop
+kmsorglamahizmeti.web.app
 kmsorglamassiz.duckdns.org
 kmsorglamayapstsmsz.web.app
 kmsorglayn.site
@@ -58110,6 +58114,7 @@ mhmrmsnzser.mooo.com
 mhmrsmnzlemrsndsn.com
 mhmrsnedsgelsnz.com
 mhmrsnzxmsn.mooo.com
+mhmsl.com
 mhnrs.net
 mhotel2025.world
 mhpubrsle.digital
@@ -63428,6 +63433,7 @@ odourconfederation.top
 odourparachute.top
 odourtread.top
 odrypyhpgs.storage.googleapis.com
+odsmdicmfdhgsode.net
 odsmdicmfdhgsode.store
 odsmgecme.net
 odsymodme.net
@@ -101055,6 +101061,7 @@ zeldyoyunekibi.online
 zeldysystem.cloud
 zeldysystem.online
 zeldyturnuva.cloud
+zelenapo-maledepo.lol
 zelenoo.org
 zelichink.com
 zelikavron.in
