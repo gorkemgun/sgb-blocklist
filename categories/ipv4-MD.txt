@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip&desc=MD
-# Records: 475
-# Last change: 2026-08-24 14:07:56 UTC (sync mode: delta)
+# Records: 477
+# Last change: 2026-08-28 18:46:54 UTC (sync mode: delta)
 2.21.7.180
 2.56.59.123
 2.57.122.15
@@ -192,6 +192,7 @@
 94.131.101.15
 94.131.117.45
 94.142.138.244
+94.154.43.60
 94.176.240.17
 95.85.38.103
 95.101.133.173
@@ -253,6 +254,7 @@
 115.28.32.12
 116.193.154.107
 117.217.114.123
+118.145.196.225
 118.184.48.95
 120.24.152.239
 120.78.159.72

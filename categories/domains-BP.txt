@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257739
-# Last change: 2026-08-27 20:33:53 UTC (sync mode: full)
+# Records: 257771
+# Last change: 2026-08-28 18:46:54 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -12594,6 +12594,7 @@ a101market.onlinealisverisnoktasi.com
 a101market.site
 a101market10eylul.duckdns.org
 a101marketaktuel.com
+a101marketalisverisleri.com
 a101marketcebimde.com
 a101marketcebinde.online
 a101marketcep.com
@@ -21048,6 +21049,7 @@ akbnknzmcxmzfs.com
 akbnkonlineiadeleriniz2023tr.com
 akbnkonlineislemler.com
 akbnkonlnefirsat.com
+akbnkpk.cfd
 akbnkprmsynfrsatlari.site
 akbnkpromosynbasvuru.site
 akbnkpromosyonbasvurulari.shop
@@ -24736,6 +24738,7 @@ alkamp25.com
 alkampany2.site
 alkampanyada.cfd
 alkampanyada.sbs
+alkampanyadan.cfd
 alkampanyadan.sbs
 alkampanyalari.online
 alkampanyatg.com
@@ -28659,6 +28662,7 @@ asncxbyaaasdanala.8746519864165.sbs
 asncxbyaaasdanala.89415648951651.sbs
 asncxbyaaasdanala.8941568418975.sbs
 asncxbyaaasdanala.894216546865.sbs
+asncxbyaaasdanala.995444566222.sbs
 asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asndsantamsmmamsd.blogspot.com
 asnfmmna-xsfasfawqf-bmvbmv.fun
@@ -33402,6 +33406,7 @@ basvuru-finansbankasi.com
 basvuru-finansparapuan.com
 basvuru-firsat.online
 basvuru-firsathediyekamyanyalarimiz.com
+basvuru-firsathediyekamyanyalarimiz.com.ph
 basvuru-firsatlari.online
 basvuru-form-adresi.xyz
 basvuru-form-edevletgovtr.com
@@ -56574,6 +56579,7 @@ cekilis-paribu.online
 cekilis-sonbahardenizbankbasvuru.com
 cekilis-subesiz-giris.com
 cekilis-subesiz-giris.org
+cekilis-tanitim.online
 cekilis-trendyol.cf
 cekilis-vakif.cf
 cekilis-yapikredi.com
@@ -56674,10 +56680,13 @@ cekilisi.online
 cekilisi.org
 cekilisi.site
 cekilisim.4-246-164-34.plesk.page
+cekilisimburada.online
 cekilisimdenizden.tk
 cekilisimekatil2013ekim.com
 cekilisimekatil2023ekim.com
+cekilisimhemenburada.online
 cekilisin-acikdenizv2denizbank.com
+cekilisin-burada.online
 cekilisinde-acikdenizv2denizbank.com
 cekilisiniz-acikdenizv2denizbank.com
 cekilisiphone-teb.net
@@ -56695,6 +56704,7 @@ cekiliskayit-akdirekt.com
 cekiliskazandiriyor.website
 cekiliskuveytgunlerim.com
 cekilisler-acikdenizv2denizbank.com
+cekilisler-burada.online
 cekilisler.xyz
 cekilislerburada.cf
 cekilislerdenizbankgovtr.com
@@ -56702,6 +56712,7 @@ cekilislerdenizbankgovtr.tc
 cekilislerdenizden.tk
 cekilislerekatilhemenn.click
 cekilislerekatilhemenn.com
+cekilislerim-burada.online
 cekilislerimburda.tk
 cekilislerindenizden.tk
 cekilisleriparibu.com
@@ -70610,6 +70621,7 @@ dijitalvkfihtiyackredisibasvuru.ml
 dijitalvkfkredibasvuru.co.vu
 dijitalvkfonlinee.site
 dijitalweb-kampanyalarimiz.com
+dijitalweb-sipariskapida.sbs
 dijitalweb-ziraatbireysel.com
 dijitalweb-ziraatbireyselgiris.com
 dijitalweb-ziraatbireyselinternet.sbs
@@ -88924,6 +88936,7 @@ euzlasmaavukat.org
 euzlasmabildirim.org
 euzlasmabilgi.org
 euzlasmagib.org
+euzlasmatakip.com
 ev-araba-acikdenizv2mobilonay-com.tk
 ev-basvurunuyap.com
 ev-basvurusu.duckdns.org
@@ -90549,6 +90562,7 @@ eylulayisuperindirim.online
 eylulayisuperindirim.xyz
 eylulayiyagmur.online
 eylulayiyagmur.xyz
+eylulbasindaonlineyiz.duckdns.org
 eylulbasvru.org
 eylulbasvurukampanyafirsatibance.space
 eylulbasvurukampanyasi.tech
@@ -90615,6 +90629,7 @@ eylulflrsatlaryildizi.com
 eylulflrsattlar.me
 eylulflrsattlarr.com
 eylulformonay.org
+eylulgirismobil.top
 eylulhediyekampanyasi.com
 eylulhediyen.cfd
 eyluliadeler-sekmesi.xyz
@@ -91568,6 +91583,7 @@ fb415897464564.com
 fb755442-4.b-cdn.net
 fbaesubem.com
 fbainizhzligiris.xyz
+fbareferans.com
 fbasbdasbjfma.net
 fbasvuru.com
 fbavarlik.com
@@ -110131,6 +110147,8 @@ halk-internetbankaciligi.com
 halk-islemler.com
 halk-ister-halk-yapar.com
 halk-ister.com
+halk-kampanya-ozel.online
+halk-kampanya-ozel.site
 halk-kampanya.com
 halk-kampanyalari.com
 halk-kartiade.com
@@ -121593,6 +121611,7 @@ hizliiadenoktasiedevletgovtr.com
 hizliiatmmtv.tk
 hizliicaagecerim.sg-host.com
 hizliicinbilgiler.com
+hizliidanismannliklar.com
 hizliiiodemeportalim.net
 hizliiletbasvur.xyz
 hizliimgecis.is-best.net
@@ -122980,6 +122999,7 @@ hmnislemnktsans.net
 hmnislemntkas.net
 hmnisllmnktnas.net
 hmnislmbkntans.net
+hmnislmeonktasr.net
 hmnislmnktasni.net
 hmnislmnktbas.net
 hmnislmnktsan.net
@@ -135563,6 +135583,7 @@ istanbullkarttyukle.net
 istanbullkrtdolum.com
 istanbullks.ml
 istanbulllbelgimcan.xyz
+istanbulllbelgimkart.xyz
 istanbulllbelgimm.xyz
 istanbulllkarrt.net
 istanbulllkartbasvur.org
@@ -151696,6 +151717,8 @@ kredi-basvuru-online.cfd
 kredi-basvuru-online.lat
 kredi-basvuru-online.lol
 kredi-basvuru-online.sbs
+kredi-basvuru-platform.net
+kredi-basvuru-platformu.net
 kredi-basvuru-portal.sbs
 kredi-basvuru-sistemi.cfd
 kredi-basvuru-sistemi.cyou
@@ -155551,6 +155574,7 @@ loginbasvuruekrann03.duckdns.org
 loginbasvuruekrann04.duckdns.org
 loginbasvuruekrann14.duckdns.org
 loginbinace.com.tr
+loginbinance-tr.online
 loginbireysel-yapikradi.com
 loginbireysel-yapikredii.com
 loginbireysel.com
@@ -170761,6 +170785,7 @@ odeworld3d.xyz
 odexvergi62.net
 odeyelimaidati.xyz
 odeyinizz.online
+odeykelhgsykleode.cfd
 odeyklehgs.cfd
 odha1o1.net
 odinbaber.click
@@ -172276,6 +172301,7 @@ online-formgirishizmetlerim-portal.tk
 online-garant-sube.lat
 online-garant-sube.site
 online-garanti-giris-platform.ml
+online-garanti-kredi-basvuru.net
 online-garanti-web-tr.cf
 online-garanti-zw2cqzpnkucbmqfzuuh5fkj7nnwvbz7hgdhkqnea.mpg.ge
 online-garanti.cf
@@ -175591,6 +175617,7 @@ oracleonyx.com
 orada-seninle.top
 oradailkinigorenehepgel.com
 oradangecis.is-best.net
+oralarburalars.duckdns.org
 oralarda-bukadara-bulundugu-hisleri-var.top
 oralardangecmeyipbanadogru.com
 oralardaseninicingeldik.com
@@ -196186,6 +196213,7 @@ sahibinden-paramguvendepay.com
 sahibinden-paramguvendeqet-com.ga
 sahibinden-paramguvendes.com
 sahibinden-paramguvendes.tk
+sahibinden-paramguvendesartlar.duckdns.org
 sahibinden-paramguvendesecure.com
 sahibinden-paramguvendesi.com
 sahibinden-paramguvendesi.tk
@@ -204731,6 +204759,7 @@ sirfsenevdekaldiyeinternet.com
 sirinbutik.tech
 siritacaginiz-pamuklu-dunyalar-burada.com
 siritmax.cfd
+siritmax.click
 sirkanteri.site
 sirketiminhediyesi.com
 sirketiminternetsubesi-qnbfinansbank-enpara-com.ga
@@ -227214,6 +227243,7 @@ tuvtu-rk.digital
 tuvtuaracmuaynehizmetleri.com
 tuvtukaracmuyanesixhmzt.net
 tuvtuklehepberaber.net
+tuvtukrmuayne.govt.hu
 tuvtur-krandevu-islem.net
 tuvturaracmuaynehizmeti.com
 tuvturk-a.digital
@@ -228163,6 +228193,7 @@ ucuzunda-ucuzu-kalan-sure-bir-gun.com
 ucuzundaeniyisi.online
 ucuzundanyazindrmllri.com
 ucuzundaucuzua101.cfd
+ucuzundaucuzua101.click
 ucuzundaucuzua101.icu
 ucuzundaucuzua101.sbs
 ucuzundaucuzufirsati.com.tr
@@ -246903,6 +246934,7 @@ y8sx.net
 ya-sde.xyz
 yaaazzpromationgfghdfgjdfg.com
 yaallahbismillah.duckdns.org
+yaanmvxayl81p75xb09ql7v30.cfd
 yaapikredi.net
 yaapikredi.org
 yaapikrediiworld.com
