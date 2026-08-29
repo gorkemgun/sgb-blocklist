@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26078
-# Last change: 2026-08-29 09:09:16 UTC (sync mode: delta)
+# Records: 26085
+# Last change: 2026-08-29 14:31:32 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -1679,6 +1679,7 @@ adceonlaylardaa1o1.duckdns.org
 adcompasslab.com
 adelincloacker2.com
 adhsahdsahdhasd8as8sa8as9as.click
+adidasgarantibbva.com.ph
 adil-katilim.com
 adil-yatirim.com
 adil-yatirim.info
@@ -1821,6 +1822,7 @@ aisbasvuru.site
 aishiterunoya.com
 aishterrunoya.com
 aiss-trendyol.com.ph
+aisshepsiburada.ph
 aitix.click
 ajanshaber.sbs
 ajcsdskjacjdkscjkx213x312.cfd
@@ -2715,6 +2717,7 @@ aticidan-ynlendirme.cfd
 atladimtumsekten.click
 atlantisrift.click
 atlasripple.com
+ato-blik-ziraatbank.com.ph
 atokonutu.cyou
 atomicflowbase.xyz
 atrendy.top
@@ -8593,6 +8596,7 @@ garantibank.org
 garantibank30140720usomdur.yonlendirfacebook.lat
 garantibbna.com
 garantibbva-acres.com.ph
+garantibbva-alahli.ph
 garantibbva-alipay.ph
 garantibbva-bb.ph
 garantibbva-bell.com.ph
@@ -8614,6 +8618,7 @@ garantibbva-okta.com.ph
 garantibbva-olacabs.ph
 garantibbva-vero.ph
 garantibbva-web.my-homeip.net
+garantibbva-ziraatbank.com.ph
 garantibbva.guvenlislem.com
 garantibbva.oii.mobi
 garantibbva.otzo.com
@@ -16712,6 +16717,7 @@ nentacht.com
 neo901x4lsdkkx123.lol
 neonhatch.click
 neorothhos.dns.navy
+ner-hepsiburada.ph
 neravella.com
 neraviona.xyz
 nerdebudommarka34.info
@@ -23134,6 +23140,7 @@ tr-param-guvende-alisveris.online
 tr-param-guvende-islemler.online
 tr-param-guvende-siparis.online
 tr-polisi.online
+tr-ptt-gov.casa
 tr-sahibinden.guvenli-alisverislerim.sa.com
 tr-sahibinden.info
 tr-sahibinden.online
