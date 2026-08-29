@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26105
-# Last change: 2026-08-29 18:34:36 UTC (sync mode: delta)
+# Records: 26115
+# Last change: 2026-08-29 21:46:52 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -2166,6 +2166,7 @@ alisverislerim.shop
 alisverislerinde.click
 alisverisozelfour-sa.xyz
 alisverisptt-avm.com.ph
+alisverisptt-avm.ph
 alisverissatin-al.com
 alisveristurkcell.com
 alivelikrdokuselli4950.online
@@ -7085,6 +7086,7 @@ efsxsbkqw.sbs
 eftal.club
 eftal101harcaharcabitmez.sbs
 egersendeyoksancikmamhickaralara.org
+egibtalimat.com
 egiiris-on.cfd
 egiiris-onn.cfd
 egitimkapisi.com
@@ -8610,6 +8612,7 @@ garantibbva-alahli.ph
 garantibbva-alibaba.ph
 garantibbva-alipay.ph
 garantibbva-au.com.ph
+garantibbva-bankofamerican.ph
 garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-bot.com.ph
@@ -13186,6 +13189,7 @@ kamuadalet.net
 kamuarsiv.org
 kamuborcsorgusu.org
 kamuceza.net
+kamuceza.org
 kamucezabilgi.org
 kamucezagov.org
 kamucezasorgula.org
@@ -19994,6 +19998,7 @@ sahibindem-guvenli-odeme-tr.cfd
 sahibinden-alisveris.tr-get-odeme.com
 sahibinden-firsat-indirim.mooo.com
 sahibinden-get-ilanservisiniz-jet.com
+sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.bireyselalimlarim.com
 sahibinden-get.detayservisn.com
@@ -20027,8 +20032,10 @@ sahibinden-get.jetservishizmetleriniz.online
 sahibinden-get.jetservisleriniz.com
 sahibinden-get.mhizmetalimlar.com
 sahibinden-get.mobil-jet-hizmet.online
+sahibinden-get.mobiliservis.com
 sahibinden-get.mobillservishizmetii.com
 sahibinden-get.mobillservisleriniz.com
+sahibinden-get.mobilsepetalim-15.online
 sahibinden-get.mobilservis-1.sbs
 sahibinden-get.mobilservis-15.com
 sahibinden-get.mobilservis-84.sbs
@@ -20043,7 +20050,9 @@ sahibinden-get.mobilservisler-30.sbs
 sahibinden-get.mobilservisler-44.sbs
 sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-84.sbs
+sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-2.sbs
+sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.mobilservisleriniz.com
 sahibinden-get.payqislemmerkezi.com
 sahibinden-get.r-bireyselservis.com
@@ -23639,6 +23648,7 @@ tursabacentesorgula.org
 tursabdogrulama.com
 tursabsorgu.online
 tursabsorgu.org
+tursabsorgula.com
 tursabsorgulama.online
 tursabsorgulama.org
 tursabsorgullama.com

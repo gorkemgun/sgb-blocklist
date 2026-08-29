@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50095
-# Last change: 2026-08-29 18:34:36 UTC (sync mode: delta)
+# Records: 50116
+# Last change: 2026-08-29 21:46:52 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -2596,6 +2596,7 @@ adscdaksa32xcs.shop
 adschecks.ru
 adsclick.me
 adsd33fdsf.nicepage.io
+adsedse-dereceve.lol
 adserviceupdate.com
 adsfasd2dcdsfyg.sbs
 adslcasldasklx123x12.shop
@@ -3304,6 +3305,7 @@ alisverislerim.shop
 alisverislerinde.click
 alisverisozelfour-sa.xyz
 alisverisptt-avm.com.ph
+alisverisptt-avm.ph
 alisverissatin-al.com
 alisverissistemi.site
 alisverissokgunleri.info.tr
@@ -7734,6 +7736,7 @@ bsvrrkmonyaaprmsnyn.art
 bsvrrkmonyaaprmsnyn.info
 bsvrrkmonyaaprmsnyn.pro
 bsvrrkmpnsnnfrstlarr150432.online
+bsvrrkmpnsnnfrstlarr150432.pro
 bsvrrkmpnyaaaa.info
 bsvrrkmpnyaaaa.live
 bsvrrkmpnyaaaa.pro
@@ -12544,6 +12547,7 @@ delzdigi.com
 demetpet-hizliliyol.com
 demira.site
 demira.store
+demirkolturizm.com
 demirparmakliklar.sbs
 demirtani.online
 demkoru-fanuzeki.lol
@@ -14030,6 +14034,7 @@ ecezamaliye.com
 ecezamgov.org
 ecezamkontrol.org
 ecezasorgu.org
+ecezatalimat.com
 echoburstmedia.com
 echoesoftherion.com
 echohearth.com
@@ -14220,6 +14225,7 @@ egebek.com.tr
 egersendeyoksancikmamhickaralara.org
 egewaw.sbs
 eggscoach.info
+egibtalimat.com
 egiiris-on.cfd
 egiiris-onn.cfd
 egirisceza.org
@@ -16698,6 +16704,7 @@ frstlrrkmpnylarribsvrr.live
 frstlrrrprmsynnnbsvrrkmpnya.art
 frstlrrrsnnnkmpnyaabsvrrkred.info
 frstlrrrsnnnkmpnyaabsvrrkred.pro
+frstlrrsonnbsvrrkmpnyaa965849.online
 frsttlrrrkmpnyaabsvrrrrsonnnn.art
 frsttlrrrkmpnyaabsvrrrrsonnnn.click
 frsttlrrrkmpnyaabsvrrrrsonnnn.info
@@ -16969,6 +16976,7 @@ garantibbva-alahli.ph
 garantibbva-alibaba.ph
 garantibbva-alipay.ph
 garantibbva-au.com.ph
+garantibbva-bankofamerican.ph
 garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-bot.com.ph
@@ -18133,6 +18141,7 @@ goturkishmart.shop
 goudbl.click
 gouvn.me
 gov-atr.top
+gov-ct.com
 gov-direct.shop
 gov-irs216.net
 gov-kbstar-garantibbva.ph
@@ -24772,6 +24781,7 @@ kamubilgi.org
 kamubirim.org
 kamuborcsorgusu.org
 kamuceza.net
+kamuceza.org
 kamucezabilgi.org
 kamucezagov.org
 kamucezamerkezi.org
@@ -27326,6 +27336,7 @@ kudarevon.com
 kudoravime.com
 kufar.org
 kufsen.netlify.app
+kuhugug-redesede.lol
 kullanpromosyonceplekuveyt.life
 kulturday.com
 kulturway.com
@@ -28001,6 +28012,7 @@ lnbrdnbenmensnmin.shop
 lndiriimeglidici.shop
 lndirim-marketbilgi.com
 lndirimgunlr.xyz
+lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
@@ -29948,6 +29960,7 @@ millenniuminc.my
 milletyatirim.com
 milli-ekonomi-blog.site
 milliegitimbakanligi.xyz
+millielektrikli.com
 millingknistand.com
 millisavunmabakaligi.xyz
 millisavunmabakanligi.com
@@ -37982,6 +37995,7 @@ sahibindem-guvenli-odeme-tr.cfd
 sahibinden-alisveris.tr-get-odeme.com
 sahibinden-firsat-indirim.mooo.com
 sahibinden-get-ilanservisiniz-jet.com
+sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.bireyselalimlarim.com
 sahibinden-get.detayservisn.com
@@ -38023,8 +38037,10 @@ sahibinden-get.jetservisleriniz.com
 sahibinden-get.mhizmetalimlar.com
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobil-jet-hizmet.online
+sahibinden-get.mobiliservis.com
 sahibinden-get.mobillservishizmetii.com
 sahibinden-get.mobillservisleriniz.com
+sahibinden-get.mobilsepetalim-15.online
 sahibinden-get.mobilsepetalim-25.online
 sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
@@ -38051,9 +38067,11 @@ sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
 sahibinden-get.mobilservisler-84.sbs
 sahibinden-get.mobilservisler-89.sbs
+sahibinden-get.mobilservisleriniz-11.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
 sahibinden-get.mobilservisleriniz-2.sbs
+sahibinden-get.mobilservisleriniz-3.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.mobilservisleriniz.com
 sahibinden-get.payqislemmerkezi.com
@@ -40170,6 +40188,7 @@ soft.rippleserveruns.workers.dev
 softcararackiralama.com
 softex.cyou
 softflow.vu
+softhangar.com
 softhearth.store
 softivo.digital
 softlyx.sbs
@@ -42518,6 +42537,7 @@ tbasvuruyap.com
 tbbmiletisimekrani.sbs
 tbc-uz-som.cfd
 tbdefirsat.xyz
+tbk.ist
 tboojacsjskcdjkasdcsa.cfd
 tboojacsjskcdjkasdcsa.sbs
 tbsaxashfdsasf.sbs
@@ -45253,6 +45273,7 @@ tursabdogrulama.com
 tursabonlinesorgu.com
 tursabsorgu.online
 tursabsorgu.org
+tursabsorgula.com
 tursabsorgulama.net
 tursabsorgulama.online
 tursabsorgulama.org

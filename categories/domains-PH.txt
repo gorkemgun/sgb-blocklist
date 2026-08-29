@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 20326
-# Last change: 2026-08-29 18:34:36 UTC (sync mode: delta)
+# Records: 20337
+# Last change: 2026-08-29 21:46:52 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -748,6 +748,7 @@ adsadburadanhemenalve.digital
 adsadburadanhemenalvesa.digital
 adsclick.me
 adsd33fdsf.nicepage.io
+adsedse-dereceve.lol
 adsmanager.click
 advanceda.digital
 adventline.com
@@ -2775,6 +2776,7 @@ bsvlraimsatokim.org
 bsvlristmnv.com
 bsvr.rnvdmhsrsrndnvgncsl.com
 bsvrdklarinizdayizbrdlasz.net
+bsvrrkmpnsnnfrstlarr150432.pro
 bsvrrrkmmmnpyyaaasnfrlstrprmsynn.info
 bsvrrrkmmmnpyyaaasnfrlstrprmsynn.pro
 bsvrrrkmnpyyasnfrlstrprmsynn.info
@@ -5562,6 +5564,7 @@ delyrahubs.store
 delyvora.pics
 demira.site
 demira.store
+demirkolturizm.com
 demirparmakliklar.sbs
 demirtani.online
 demlenedemlene.sbs
@@ -6070,6 +6073,7 @@ eceyeasigim.cyou
 ecezabildirim.org
 ecezacbs.org
 ecezamgov.org
+ecezatalimat.com
 echoburstmedia.com
 echoesoftherion.com
 echojournal.today
@@ -7048,6 +7052,7 @@ frstlndrmleribrdaa.mooo.com
 frstlrbuhaftab1mde.xyz
 frstlrrrsnnnkmpnyaabsvrrkred.info
 frstlrrrsnnnkmpnyaabsvrrkred.pro
+frstlrrsonnbsvrrkmpnyaa965849.online
 frsttlsnbsvrrkmponyaa128549.online
 frsttlsnbsvrrkmponyaa128549.pro
 frsttrndvulrdaim.com
@@ -7505,6 +7510,7 @@ gotomind.net
 gotransit-pay.shop
 goturkey.blog
 goudbl.click
+gov-ct.com
 gov-irs216.net
 gov.onemotorlng.cc
 gov.onemotoryng.cc
@@ -10715,6 +10721,7 @@ kubamotorluaraclar.com
 kubamotoronline.com
 kubaonlinesatis.com
 kudoravime.com
+kuhugug-redesede.lol
 kuluhugude-redesede.lol
 kumuhuguduere-sederete.lol
 kunaz.xyz
@@ -10972,6 +10979,7 @@ lmrsrandevu-3a5060ee327b.herokuapp.com
 lmt52frul2qt.storage.googleapis.com
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
+lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
@@ -11957,6 +11965,7 @@ milan-booking.space
 milk44322.site
 millenniuminc.my
 milletyatirim.com
+millielektrikli.com
 millingknistand.com
 millisavunmabakaligi.xyz
 millisavunmabakanligi.com
@@ -16124,6 +16133,7 @@ sofaside.biz
 sofftventrix.com
 soft-moon.ink
 softex.cyou
+softhangar.com
 softivo.digital
 softpilotx.digital
 softs-downloads.oss-ap-southeast-1.aliyuncs.com
@@ -17189,6 +17199,7 @@ tayloq.com
 tays.sayatatata.xyz
 tbasvuruyap.com
 tbdefirsat.xyz
+tbk.ist
 tcadli.org
 tcadliye.net
 tcavukatportal.net
