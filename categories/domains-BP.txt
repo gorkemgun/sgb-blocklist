@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26085
-# Last change: 2026-08-29 14:31:32 UTC (sync mode: delta)
+# Records: 26105
+# Last change: 2026-08-29 18:34:36 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -1680,6 +1680,7 @@ adcompasslab.com
 adelincloacker2.com
 adhsahdsahdhasd8as8sa8as9as.click
 adidasgarantibbva.com.ph
+adidasgarantibbva.ph
 adil-katilim.com
 adil-yatirim.com
 adil-yatirim.info
@@ -2138,6 +2139,7 @@ alimlarinizhizmetler.online
 alinim-sure.ink
 alinmuyneburdan.lat
 alipay-guvenli.ph
+alipay-hepsiburada.ph
 alirlxdokdxj.space
 alisveris-101-mobil-tr.duckdns.org
 alisveris-detay.online
@@ -2194,6 +2196,8 @@ alolgirishizmetim.site
 alphallinktech.com
 alphavista360.com
 alpmnt.com
+alppeak-garantibbva.ph
+alppeakgarantibbva.ph
 alsiametisthermal.com
 alsicane.net
 alsversfrsatma101.cfd
@@ -2723,6 +2727,7 @@ atomicflowbase.xyz
 atrendy.top
 atte377.blogspot.com
 attura.sbs
+au-garantibbva.com.ph
 aukjxp.help
 aura3.bond
 auraliscreate.com
@@ -3070,6 +3075,7 @@ bankasi-yatirim.pro
 bankkplatform.com
 bankksector.com
 banklinea.com
+bankpro-ziraatbank.com.ph
 banksaa.duckdns.org
 bannnss.dns.navy
 barankli.sbs
@@ -4247,6 +4253,7 @@ boyner.fashionoscope.com
 bozkiran-furezopa.lol
 bozmayinayari.dns.navy
 bozzl.top
+bpi-garantibbva.com.ph
 bpkgsm.cc
 bq7x2m9k4zz.click
 bq8x4nzm7cvlp5ka.cfd
@@ -5454,6 +5461,8 @@ cksllprmsynnnkmpnya.live
 cksllprmsynnnkmpnya.pro
 ckuxamcu.storage.googleapis.com
 claracurrent.com
+claro-garantibbva.com.ph
+claro-trendyol-trendyol.com.ph
 clasare.com.tr
 clearframeapps.com
 clearhaven.sbs
@@ -7429,6 +7438,7 @@ enpara---qnbfinansbank.ph
 enpara-mobilsubem.ph
 enpara-onlinesube-com-tr.ph
 enpara-qnbfinansnankan.ph
+enpara-yilbasianketi.ph
 enparabasvur.xyz
 enparaborsa.com
 enparakampanyabasvuru.ph
@@ -8597,13 +8607,16 @@ garantibank30140720usomdur.yonlendirfacebook.lat
 garantibbna.com
 garantibbva-acres.com.ph
 garantibbva-alahli.ph
+garantibbva-alibaba.ph
 garantibbva-alipay.ph
+garantibbva-au.com.ph
 garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-bot.com.ph
 garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cgd.ph
+garantibbva-claro.com.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
 garantibbva-erstebank.ph
@@ -8626,6 +8639,7 @@ garantibbvaais.ph
 garantibbvabankas.ph
 garantibbvabol.com.ph
 garantibbvacepmobil.duckdns.org
+garantibbvaclaro.com.ph
 garantibbvacreditsuisse.ph
 garantibbvadekont.app
 garantibbvafirsatlri.duckdns.org
@@ -8634,6 +8648,7 @@ garantibbvahesaphareketleri.ph
 garantibbvaiade.ph
 garantibbvaintl.com
 garantibbvakasikornbank.ph
+garantibbvakoreanair.com.ph
 garantibbvakredi.otzo.com
 garantibbvakredibasvurusu.info
 garantibbvamobil.netlify.app
@@ -11404,6 +11419,7 @@ idarkamusorgu.org
 idataonline.org.tr
 iddanamesorgu.org
 ideafoil.com
+idealista-aais-garantibbva.com.ph
 idealweek.online
 ideeaquestt.com
 identify-patient-journalists-viewers.trycloudflare.com
@@ -13960,6 +13976,7 @@ klmsgkrlgksmdl.sbs
 klmsorglymaayapalimpttgsgv.com
 klmtlrslgkrmasikly.sbs
 klmtogrgnbnlldkl.sbs
+klomtresrgulamaislemlerinizbrdanyazi.duckdns.org
 klouverdima.info
 kltrel.org
 kltv-g-rn-rbtv.my-homeip.net
@@ -17673,6 +17690,7 @@ openrecord.shop
 openrecord.store
 openresponse.shop
 openresponse.store
+opensea-garantibbva.com.ph
 opensituation.shop
 openstatement.shop
 openstatement.site
@@ -19997,6 +20015,7 @@ sahibinden-get.guvenli-odemelerim.pro
 sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.guvenlisepetler-hizmet.online
 sahibinden-get.hizlikapimda.com
+sahibinden-get.hizlikargolama.com
 sahibinden-get.hizmetl1.com
 sahibinden-get.ilandetay-jet.com
 sahibinden-get.ilanservis-odemehizmetin.online
@@ -25876,6 +25895,7 @@ ziraat-y.cfd
 ziraat.bkasionline.com
 ziraat.mobilgirislerimonline.sbs
 ziraatapp.cfd
+ziraatbank-bankofamerican.com.ph
 ziraatbank-kolaybasvurlar.vercel.app
 ziraatbank-onlinesbi.ph
 ziraatbank-ssa.com.ph

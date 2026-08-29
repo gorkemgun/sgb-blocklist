@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 20315
-# Last change: 2026-08-29 14:31:32 UTC (sync mode: delta)
+# Records: 20326
+# Last change: 2026-08-29 18:34:36 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -958,6 +958,7 @@ alisveris-kapinizda.tv.tr
 alisveris-sepetimiz.com
 alisveris.lol
 alisverishizmeti.online
+alisverisjet.online
 alisveriskolay.click
 alisverissistemi.site
 alisverissokgunleri.info.tr
@@ -2627,6 +2628,7 @@ boxiesd-masenager.com
 boxiies-recuesrtshotle.com
 boxuer-chatskwebox.com
 boyner.demrebicer.com
+boz0031.site
 bozdere-novepaki.lol
 boztekin-qirevopa.lol
 bra-inns-drops-strategic.trycloudflare.com
@@ -7284,6 +7286,7 @@ getelythra.store
 getfenthis.store
 getgylora.site
 getgylora.store
+getirodeme.com
 getkevano.site
 getkronex.store
 getkryon.store
@@ -8073,6 +8076,7 @@ haberler421352.shop
 haberler4422424.shop
 haberler4561.sbs
 haberler47852.shop
+haberler543343.shop
 haberler562346.sbs
 haberler5632494.sbs
 haberler56755712366.com
@@ -8766,6 +8770,7 @@ honejsterheyr.duckdns.org
 honejsterkestler.click
 honeshadrteker.duckdns.org
 honesjterlarser.duckdns.org
+honeskdefeter.duckdns.org
 honestlerkesjer.duckdns.org
 honestx.duckdns.org
 hoobrasil.com
@@ -11930,6 +11935,7 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssrajhsyyh.icu
+mhtsrsagdsg.site
 mhurbiraznle.sbs
 mhxrsbzlehizlica.org
 mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
@@ -12746,6 +12752,7 @@ nwcsprasevess.duckdns.org
 nweywey.duckdns.org
 nwntwasd.blogspot.com
 nwqenasdnsa.blogspot.com
+nwsccrf.duckdns.org
 nxiokl-alzert-anfert.com
 nxlog.tech
 nykqtufy.storage.googleapis.com
@@ -15379,6 +15386,7 @@ sallan.click
 salt-okunur.click
 saltometeryst.com
 samel.casa
+sameylulkaldi.duckdns.org
 sana-ozeel-zrrat.cfd
 sanakarsigorsmzzatenacikti.org
 sanalcilarsystem.pro
@@ -16472,6 +16480,7 @@ storbon.surf
 store-plus.online
 storecraft.org
 storeflare.art
+storego-tr.online
 storestack.org
 storvam.pics
 storvax.com
@@ -18258,6 +18267,7 @@ ttsmp3.com
 tttektikklasponsorlurrklam.com
 ttttektikklasponsorlurrklam.com
 tttzzdttaasrqw.nicepage.io
+ttuuvturk.web.app
 ttv-lg-n-b.my-homeip.net
 ttyz.top
 tubitak-67gov-90tr.weebly.com
@@ -19229,6 +19239,7 @@ vtunk-port-kalsyz.com
 vtururk.com
 vtv-l-g-rn-l.my-homeip.de
 vugca.cn
+vugufere-filospdere.lol
 vuhukul-daeredesede.lol
 vulidaronme-cedere.lol
 vulihipolse-sedere.lol

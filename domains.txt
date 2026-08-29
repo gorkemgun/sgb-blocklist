@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50064
-# Last change: 2026-08-29 14:31:32 UTC (sync mode: delta)
+# Records: 50095
+# Last change: 2026-08-29 18:34:36 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -2518,6 +2518,7 @@ adflowza.sbs
 adhsahdsahdhasd8as8sa8as9as.click
 adidas-hiring.com
 adidasgarantibbva.com.ph
+adidasgarantibbva.ph
 adil-katilim.com
 adil-yatirim.com
 adil-yatirim.info
@@ -3269,6 +3270,7 @@ alimlarinizhizmetler.online
 alinim-sure.ink
 alinmuyneburdan.lat
 alipay-guvenli.ph
+alipay-hepsiburada.ph
 alirlxdokdxj.space
 alisveris-101-mobil-tr.duckdns.org
 alisveris-detay.online
@@ -3294,6 +3296,7 @@ alisverisguvende.online
 alisverishizmeti.online
 alisverisinizguvende.com
 alisverisinkapisi.sbs
+alisverisjet.online
 alisveriskapisi.com.tr
 alisveriskolay.click
 alisverislerikacirma1o1.ph
@@ -3383,6 +3386,8 @@ alphavista360.com
 alphazero1-endscape.cc
 alpinelab.shop
 alpmnt.com
+alppeak-garantibbva.ph
+alppeakgarantibbva.ph
 alrndv1-82brdan.com
 alrzumcaymaknesi.shop
 alsiametisthermal.com
@@ -4441,6 +4446,7 @@ atto-seal.com
 attractive-viewpicture-press-confidence.trycloudflare.com
 attura.sbs
 au-club.top
+au-garantibbva.com.ph
 au44444.site
 aucharmantpetitlac-ecohotelparcspa-verification.com
 audiolab.sbs
@@ -5036,6 +5042,7 @@ bankkplatform.com
 bankksector.com
 banklinea.com
 bankorel.xyz
+bankpro-ziraatbank.com.ph
 banksaa.duckdns.org
 bannnss.dns.navy
 baoaseluxuryresort.world
@@ -7334,12 +7341,14 @@ boxuer-chatskwebox.com
 boyfoot.xyz
 boyner.demrebicer.com
 boyner.fashionoscope.com
+boz0031.site
 bozdere-novepaki.lol
 bozkiran-furezopa.lol
 bozmayinayari.dns.navy
 boztekin-qirevopa.lol
 bozzl.top
 bpfi.digital
+bpi-garantibbva.com.ph
 bpkgsm.cc
 bq7x2m9k4zz.click
 bq8x4nzm7cvlp5ka.cfd
@@ -9709,6 +9718,8 @@ claimbrowglot.pro
 claimyourbluesign2025.netlify.app
 claracurrent.com
 clarionis.top
+claro-garantibbva.com.ph
+claro-trendyol-trendyol.com.ph
 clasare.com.tr
 clascicek.com
 classforge.study
@@ -14753,6 +14764,7 @@ enpara---qnbfinansbank.ph
 enpara-mobilsubem.ph
 enpara-onlinesube-com-tr.ph
 enpara-qnbfinansnankan.ph
+enpara-yilbasianketi.ph
 enparabasvur.xyz
 enparaborsa.com
 enparakampanyabasvuru.ph
@@ -16954,13 +16966,16 @@ garantibank30140720usomdur.yonlendirfacebook.lat
 garantibbna.com
 garantibbva-acres.com.ph
 garantibbva-alahli.ph
+garantibbva-alibaba.ph
 garantibbva-alipay.ph
+garantibbva-au.com.ph
 garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-bot.com.ph
 garantibbva-cainiao.ph
 garantibbva-cepmobilsubekazandiriyor.ph
 garantibbva-cgd.ph
+garantibbva-claro.com.ph
 garantibbva-com-tr.replit.app
 garantibbva-creditsuisse.ph
 garantibbva-erstebank.ph
@@ -16983,6 +16998,7 @@ garantibbvaais.ph
 garantibbvabankas.ph
 garantibbvabol.com.ph
 garantibbvacepmobil.duckdns.org
+garantibbvaclaro.com.ph
 garantibbvacreditsuisse.ph
 garantibbvadekont.app
 garantibbvafirsatlri.duckdns.org
@@ -16991,6 +17007,7 @@ garantibbvahesaphareketleri.ph
 garantibbvaiade.ph
 garantibbvaintl.com
 garantibbvakasikornbank.ph
+garantibbvakoreanair.com.ph
 garantibbvakredi.otzo.com
 garantibbvakredibasvurusu.info
 garantibbvamobil.netlify.app
@@ -17479,6 +17496,7 @@ getirgelir.com
 getirgelir.org
 getirkariyer.cc
 getirkariyer.org
+getirodeme.com
 getjail.site
 getjarnex.shop
 getjolven.site
@@ -19487,6 +19505,7 @@ haberler47823.shop
 haberler47852.shop
 haberler48751.sbs
 haberler54232.shop
+haberler543343.shop
 haberler554.shop
 haberler562346.sbs
 haberler5632494.sbs
@@ -21398,6 +21417,7 @@ honejsterkestler.click
 honeshadrteker.duckdns.org
 honesjerkteryers.duckdns.org
 honesjterlarser.duckdns.org
+honeskdefeter.duckdns.org
 honestjerter.click
 honestkartes.duckdns.org
 honestlerkesjer.duckdns.org
@@ -22099,6 +22119,7 @@ iddanamesorgu.org
 ide.hashbank8.com
 ideafoil.com
 ideal-yonlendirme-security.ink
+idealista-aais-garantibbva.com.ph
 idealweek.online
 ideeaquestt.com
 identification423.world
@@ -26035,6 +26056,7 @@ klnptruu.space
 klntkltnkltnklt.net
 klometresrgulamacomptt.duckdns.org
 klomtresorgulamayapburdagovptt.duckdns.org
+klomtresrgulamaislemlerinizbrdanyazi.duckdns.org
 klotosa.com
 kloupfenst.pro
 klouverdima.info
@@ -29851,6 +29873,7 @@ mhsscfsrsa7.sbs
 mhsscfsrsa8.sbs
 mhsscfsrsa9.sbs
 mhssrajhsyyh.icu
+mhtsrsagdsg.site
 mhttsr.click
 mhurbiraznle.sbs
 mhvjhvjhvjhgvjhgcg.sbs
@@ -32025,6 +32048,7 @@ nweywey.duckdns.org
 nwntwasd.blogspot.com
 nwqenasdnsa.blogspot.com
 nwqnqwt.duckdns.org
+nwsccrf.duckdns.org
 nwyynz.click
 nxiokl-alzert-anfert.com
 nxlog.tech
@@ -32974,6 +32998,7 @@ openresponse.shop
 openresponse.site
 openresponse.store
 openrovexa.store
+opensea-garantibbva.com.ph
 opensituation.shop
 openspy.co
 openstatement.shop
@@ -37983,6 +38008,7 @@ sahibinden-get.guvenliodemehizmet.online
 sahibinden-get.guvenliodemelerim.online
 sahibinden-get.guvenlisepetler-hizmet.online
 sahibinden-get.hizlikapimda.com
+sahibinden-get.hizlikargolama.com
 sahibinden-get.hizmetl1.com
 sahibinden-get.ilandetay-jet.com
 sahibinden-get.ilanjet-hizmetler.com
@@ -38417,6 +38443,7 @@ salunovex.com
 salvia.yasuapanitanaik.cfd
 samandatarotista.com
 samel.casa
+sameylulkaldi.duckdns.org
 samiads-946c93444c3e.herokuapp.com
 samsungtulet65inc165ekrantelevizyonpttavm.com
 samurestivon.com
@@ -41287,6 +41314,7 @@ store.totpro.app
 storebrigade.tech
 storecraft.org
 storeflare.art
+storego-tr.online
 storelinker.art
 storeplay.com.tr
 storeshomeestusfluworkss.online
@@ -44912,6 +44940,7 @@ tttekfirsatsponsorlurklam.com
 tttektikklasponsorlurrklam.com
 ttttektikklasponsorlurrklam.com
 tttzzdttaasrqw.nicepage.io
+ttuuvturk.web.app
 ttuvturk-aracmuaynne.web.app
 ttuvturks.me
 ttv-g-r-n-tb.my-homeip.net
@@ -47004,6 +47033,7 @@ vtykvjbmhkpah.hbmc.net
 vueriok.live
 vufyqa.asia
 vugca.cn
+vugufere-filospdere.lol
 vuhgude-redesedere.lol
 vuhklideretese.lat
 vuhugesadesde.lat
@@ -49707,6 +49737,7 @@ ziraat-y.cfd
 ziraat.bkasionline.com
 ziraat.mobilgirislerimonline.sbs
 ziraatapp.cfd
+ziraatbank-bankofamerican.com.ph
 ziraatbank-kolaybasvurlar.vercel.app
 ziraatbank-onlinesbi.ph
 ziraatbank-ssa.com.ph
