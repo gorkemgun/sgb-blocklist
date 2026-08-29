@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 49990
-# Last change: 2026-08-29 02:14:48 UTC (sync mode: full)
+# Records: 50016
+# Last change: 2026-08-29 09:09:16 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -2709,6 +2709,7 @@ agstsprmsyngunleri.duckdns.org
 agtora.site
 agtrackflights.com
 agugoawsdasdhga923asdas.click
+agugogaasdsahd982sadw.click
 agustos-burada.info.tr
 agustos-burada.tv.tr
 agustosayikacirilmayacakmalzemeler.sbs
@@ -3201,6 +3202,7 @@ aldinnlaaldinnyetisdeal.blogspot.com
 aldinnnbekankaas5432.blogspot.com
 aldinozelsel.blogspot.com
 aldinpaketcayini.net
+aldinpaketindecayin.online
 aldinpaketindecaylar.com
 aldinpaketlecayini.net
 aldinpaketlicayi.com
@@ -4312,6 +4314,7 @@ asncxbyaaasdanala.4894564986451.sbs
 asncxbyaaasdanala.49843544322684.sbs
 asncxbyaaasdanala.65735677234232.sbs
 asncxbyaaasdanala.784191565489651.sbs
+asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.84965148651.sbs
 asncxbyaaasdanala.874184655641556.sbs
 asncxbyaaasdanala.8746519864165.sbs
@@ -4996,6 +4999,7 @@ banaozel-paramguvende.my
 banasora.xyz
 banataras.click
 bancaporinternetbbmx.online
+bandfcenaef.duckdns.org
 bandshipstool.com
 bandspongewatch.com
 banesore.xyz
@@ -15548,6 +15552,7 @@ fashioncore.digital
 fashiondeal.qpon
 fashionhive.cfd
 faslanfoslan11.nicepage.io
+faslizabita.click
 fasos.nicepage.io
 fassbind.help
 fast-eda.my
@@ -17941,6 +17946,7 @@ gnlaoprs.click
 gnlukkampanyalarinizn.com
 gnmcsy.homes
 go-para-odeme.online
+go.0010v.lol
 go.garantibbvakredibasvuru.com
 go.ofo.ac
 go.piyasaoku.info
@@ -19762,6 +19768,7 @@ halksigortaonline.com
 halktanweb.blogspot.com
 hallarr.digital
 halmcrfgunay.cfd
+halmoramarket.shop
 halnibo.cfd
 halnibo.cyou
 halnibo.sbs
@@ -19905,6 +19912,7 @@ hastesserae.cfd
 hastnedkekse.com
 hastneisleriogrn.cfd
 hastnhrandvm.online
+hastnname.digital
 hastvdrandvm.online
 hasxsttnnrdndv.org
 hataylivezir.duckdns.org
@@ -20738,6 +20746,7 @@ hgsyukleodemeyap.cfd
 hgsyuklesmdi.cfd
 hgsyukletamzamni.cfd
 hgsyukleyinyeri.xyz
+hgszmnidmflofe.cfd
 hgszmniykleme.net
 hgszmniykleme.online
 hgszmniykleme.store
@@ -21761,6 +21770,7 @@ hzld-brnd-yap.mooo.com
 hzlgrnt.sbs
 hzli-alsvrzler.com
 hzli-gvuneli-stiyeii-git.click
+hzligecsxrgulamalarrii.com
 hzlimblkrd.cfd
 hzlirandevlarr.com
 hzlirehbervkmbl.site
@@ -24039,6 +24049,7 @@ izltsfot.dns.navy
 izltsfrstim.dnsup.net
 izltsknqkqsf.dns.navy
 izltskrbss.dns.navy
+izltskznew.blogspot.com
 izltsoapqfs.duckdns.org
 izltsoppass.dns.navy
 izltsrd.dns.navy
@@ -24909,6 +24920,7 @@ karacahaziran.com
 karacahome.club
 karacahome.online
 karacahome.vercel.app
+karacahomeliving.shop
 karacahomes.shop
 karacahomestore.shop
 karacahometr.shop
@@ -25050,6 +25062,7 @@ karolix.ooguy.com
 karonipux.com
 karostmufz.com
 karovexim.com
+karparenda.click
 karpuz.site
 karpuzlar.com
 karsepti.gifts
@@ -25804,6 +25817,7 @@ kilometresorgula.com
 kilometresorgulaa14.web.app
 kilometresorgulama.com
 kilometresorgulamapttavm.com
+kilometresorgulamayapburadagovpet.duckdns.org
 kilometresorgularim.com
 kilometresorgupttavm.com
 kilometreuzmani.click
@@ -28792,6 +28806,7 @@ maliyedava.com
 maliyedava.net
 maliyedavam.org
 maliyedosyabilgi.org
+maliyedosyasorgula.com
 maliyedosyasorgula.org
 maliyedosyasorgulama.com
 maliyedosyatakip.org
@@ -29031,6 +29046,7 @@ masak2026trlogin.duckdns.org
 masakadliye.org
 masakaktivasyon.duckdns.org
 masakarsiv.org
+masakbinancemobildogrulama.duckdns.org
 masakbinanceturkiye.duckdns.org
 masakbirim.org
 masakblokekaldirma.duckdns.org
@@ -29551,6 +29567,9 @@ mhddyy.click
 mhelmnlarnkalas.net
 mherese.com
 mhgfshsfdhds.art
+mhgsrjasttga.icu
+mhgsrlasttga.icu
+mhgsrtasttga.icu
 mhherkesrs.com
 mhhhrrrrrrrrrrs.sbs
 mhhhrsranddevu.mooo.com
@@ -31959,6 +31978,7 @@ nvirandevulariniz.online
 nvirandevularinizz.online
 nvirandevularinizz.site
 nvirandvu.org
+nvlmllmlymxm.com
 nvshab.homes
 nvsrlndvu.online
 nvz7o8f9i1zyf48437f.click
@@ -33641,6 +33661,7 @@ paramguvendekargo.space
 paramguvendekrgo.space
 paramguvendesiparis.site
 paran-guvende.site
+paranamarka.click
 paranguvende-get.sbs
 paranguvende-getodeme.my
 paranguvendeste.xyz
@@ -42551,6 +42572,7 @@ teb-hizmet.my-homeip.de
 teb-info.info
 teb-nisan-kampanyalari.my-homeip.net
 teb-promosyon.my-homeip.net
+teb-sube.my-homeip.de
 teb-surprizler-burda.my-homeip.net
 teb-trade.site
 teb-yaz-firsatlari.my-homeip.net
@@ -44251,6 +44273,7 @@ tr-param-guvende-siparis.online
 tr-polisi.online
 tr-porland.cfd
 tr-porland.shop
+tr-ptt-gov1.us.cc
 tr-redirect.com
 tr-sahibinden.guvenli-alisverislerim.sa.com
 tr-sahibinden.info
@@ -44741,6 +44764,7 @@ trtgonllirneisllernmenurnbonusum.space
 trthaber256.shop
 trthabers256.shop
 trtrahanie.cyou
+trtrptt-gov.sbs
 trtrtrtr-siberpolis.online
 trturk24ku.com
 trturk24nex.com
@@ -47681,6 +47705,7 @@ www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
+www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
@@ -49154,6 +49179,7 @@ yukeshapi.neocities.org
 yukifabrika.com
 yukifabrikasatis.com
 yuklehemenhgs.cfd
+yuklemeneniziyapin.duckdns.org
 yuklenirkenbekleyin.blogspot.com
 yuklistanbul.net
 yuklmezamni.cfd

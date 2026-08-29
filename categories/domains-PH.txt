@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 20250
-# Last change: 2026-08-29 02:14:48 UTC (sync mode: full)
+# Records: 20274
+# Last change: 2026-08-29 09:09:16 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000110720265.sbs
@@ -790,6 +790,7 @@ agstsgunlerndepromosyon.duckdns.org
 agstsprmsyngunleri.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
+agugogaasdsahd982sadw.click
 agustos-burada.info.tr
 agustos-burada.tv.tr
 agustosayikacirilmayacakmalzemeler.sbs
@@ -1346,6 +1347,7 @@ asmdkasmk43k712.duckdns.org
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.48465498456.sbs
 asncxbyaaasdanala.65735677234232.sbs
+asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.84965148651.sbs
 asncxbyaaasdanala.89465489421.sbs
 asndansdnas.blogspot.com
@@ -1585,6 +1587,7 @@ bamvurulas.hegikeiroz.workers.dev
 banabakarifdabi.sbs
 banaozel-paramguvende.my
 banataras.click
+bandfcenaef.duckdns.org
 bandshipstool.com
 bangoburdanedenyoksun.info
 bankamizsizinle.com
@@ -6598,6 +6601,7 @@ fashionableword.click
 fashioncore.digital
 fashionhive.cfd
 faslanfoslan11.nicepage.io
+faslizabita.click
 fassbind.help
 fast-guvenli-hizmet.com
 fast-havale.com
@@ -7417,6 +7421,7 @@ gnclalsvrscrfsa.cfd
 gndelikcfsmrkettt.cfd
 gnlaoprs.click
 gnmcsy.homes
+go.0010v.lol
 goalcreasekings.com
 goalofthetennis.com
 goals-hockey.com
@@ -8147,6 +8152,7 @@ halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
 halknburassendegel81.click
 halktanweb.blogspot.com
+halmoramarket.shop
 halnibo.cyou
 haltrnlersknmkd.cfd
 hamahanamahanssmanad2323.click
@@ -8203,6 +8209,7 @@ hastatnatente.uk
 hastnedkekse.com
 hastneisleriogrn.cfd
 hastnhrandvm.online
+hastnname.digital
 hastvdrandvm.online
 hattasimamobil.com
 hattricknationn.com
@@ -8484,6 +8491,7 @@ hgsyklodesmdi.cfd
 hgsyuklemeailesi.firebaseapp.com
 hgsyuklemeailesi.web.app
 hgsyuklemeyerniz.web.app
+hgszmnidmflofe.cfd
 hgszmniykleme.net
 hgszmniykleme.online
 hgszmniykleme.store
@@ -8966,6 +8974,7 @@ hzhlstcac.storage.googleapis.com
 hzhssowopx.blogspot.com
 hzl-gvnl-ynlndrz.cc.dvrlists.com
 hzld-brnd-yap.mooo.com
+hzligecsxrgulamalarrii.com
 hzlirandevlarr.com
 hzlmskernff.space
 hzlnhmnislmlr.com
@@ -9720,6 +9729,7 @@ izlekudurrrrrrrr-ac15389fdcc4.herokuapp.com
 izlemeyedevametlavuk.click
 izlfcbvc.blogspot.com
 izlfirstmkuzi.duckdns.org
+izltskznew.blogspot.com
 izltsoppass.dns.navy
 izlttqww.blogspot.com
 izmiora.live
@@ -9991,6 +10001,7 @@ karacagranit.nicepage.io
 karacahome.club
 karacahome.online
 karacahome.vercel.app
+karacahomeliving.shop
 karacahomes.shop
 karacahomestore.shop
 karacahometr.shop
@@ -10057,6 +10068,7 @@ karnelix.bond
 karonipux.com
 karostmufz.com
 karovexim.com
+karparenda.click
 karsepti.gifts
 karsimacikma.cyou
 karsindakiaslandaolabilir.org
@@ -11396,6 +11408,7 @@ maliyeborc.org
 maliyecezahukuk.org
 maliyecezatakip.org
 maliyecezauzlasmasi.com
+maliyedosyasorgula.com
 maliyeeavukat.org
 maliyeegm.com
 maliyegib.org
@@ -11507,6 +11520,7 @@ marvelionstreet.pro
 masa-id8922.world
 masak.ai
 masakadliye.org
+masakbinancemobildogrulama.duckdns.org
 masakblokekaldirma.duckdns.org
 masakdenetim.org
 masakdevlet.org
@@ -11743,6 +11757,9 @@ mhbdbuealldnndeu.website
 mhcese.netlify.app
 mherese.com
 mhgfshsfdhds.art
+mhgsrjasttga.icu
+mhgsrlasttga.icu
+mhgsrtasttga.icu
 mhherkesrs.com
 mhhmmhrs.app
 mhhrdw.com
@@ -12691,6 +12708,7 @@ nvirandevulariniz.online
 nvirandevularinizz.online
 nvirandevularinizz.site
 nvirandvu.org
+nvlmllmlymxm.com
 nvshab.homes
 nwabzapato.top
 nwcspraseves.duckdns.org
@@ -13427,6 +13445,7 @@ parabir.site
 parabulutu.site
 paramguvende-getilan.my
 paramguvende.tr-siparisonay.online
+paranamarka.click
 paranmiparan.click
 parapulsu.site
 paravon.capital
@@ -17200,6 +17219,7 @@ teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
 teb-com.my-homeip.de
+teb-sube.my-homeip.de
 tebbasvurusayfa.my-homeip.de
 tebbmb.cfd
 tebcepte-sube-parola.myonlineportal.de
@@ -17957,6 +17977,7 @@ tr-magaza-firsat.net.tr
 tr-odeme-servislerim.com
 tr-porland.cfd
 tr-porland.shop
+tr-ptt-gov1.us.cc
 tr-redirect.com
 tr-siparisonay.online
 tr-sokraca.shop
@@ -18152,6 +18173,7 @@ trsorgu.net
 trsorgumaliye.com
 trsorguportal.org
 trtrahanie.cyou
+trtrptt-gov.sbs
 trturk24ku.com
 trturk24nex.com
 trturk24qor.com
@@ -19446,6 +19468,7 @@ www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
+www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-telegram.org
@@ -19939,6 +19962,7 @@ yudumyumdu6.dns.navy
 yugosadgsagdgasd92sadh23s.click
 yukeshapi.neocities.org
 yukifabrikasatis.com
+yuklemeneniziyapin.duckdns.org
 yuklmezamni.cfd
 yuksekdagindumani.co
 yunuskorkmaaz.workers.dev
