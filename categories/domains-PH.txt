@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 33991
-# Last change: 2026-08-30 12:56:51 UTC (sync mode: delta)
+# Records: 34013
+# Last change: 2026-08-30 17:33:09 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -290,6 +290,7 @@
 182websp.com
 182webstt.lat
 182webstt.lol
+182wepst.cfd
 1835304-coinbase.com
 186randevuburadan.duckdns.org
 187253-uphold.com
@@ -499,6 +500,7 @@
 2ihasoe.com
 2itakya.com
 2q7xrmvp.sbs
+2reklammetaonline.cfd
 2subattatelefon.cfd
 2t24.my
 2tapsiparis21subat.cloud
@@ -562,6 +564,7 @@
 360roomview.com
 369201v-coinbase.com
 3698547onlinnbsvrrkmpnyaaprmsynn.pro
+369854snffrstlrrrkmpnyabasvrrkrdi.pro
 38-000-1ll1-0.duckdns.org
 389912834.sbs
 39nat.com
@@ -2393,6 +2396,7 @@ asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.84965148651.sbs
 asncxbyaaasdanala.8796451654165333.sbs
 asncxbyaaasdanala.89465489421.sbs
+asncxbyaaasdanala.9479845619688.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
 asockco.com
@@ -4610,6 +4614,7 @@ brdan182rvdals.store
 brdanlardankzdenlrden.com
 brdanlardanszlardans.shop
 brdanrvdal182.org
+brdansdcaneacdve.duckdns.org
 brdlssrabklemdn.com
 brdnbrangtmtsneeee.com
 brdnbrlrgcblrs.com
@@ -5968,6 +5973,7 @@ cicekhizmetleri.parts
 cicekkapinda.info
 cicekkapinda.net
 ciceklerinizsepette.sbs
+ciceklerinizsepette.xyz
 cicekline.store
 cicekmarket.life
 cicekmarket.site
@@ -8397,6 +8403,7 @@ cubixdatagp.com
 cubixdosllc.com
 cugarmachine.com
 cugeredesede-sederese.lol
+cuhugu-gufiderese.lol
 cuinbbsewltxtsn.webflow.io
 cukulopi-dazedese.xyz
 culthotelsup.com
@@ -9021,6 +9028,7 @@ dijitalbilgilendirme.sbs
 dijitalbilgilendirmeler.xyz
 dijitaldunyayenifikirlervegirisim.xyz
 dijitalekonomikdestekmobil.xyz
+dijitalfast-kampanya.sbs
 dijitalform.sbs
 dijitalformgiris.sbs
 dijitalgib-tr.com
@@ -9658,6 +9666,7 @@ ecd31356-d.b-cdn.net
 eceyeasigim.cyou
 ecezabildirim.org
 ecezacbs.org
+ecezadavam.com
 ecezamgov.org
 ecezatalimat.com
 echelonyieldai.app
@@ -13802,6 +13811,7 @@ hizlicasatinalhemensendebirlikteyiz.store
 hizlicasatinalhemensendebirlikteyiz.xyz
 hizlicasrtvs-b4a0fd6049fe.herokuapp.com
 hizlidagitim.com.tr
+hizlidanismanlikllaar.com
 hizlidanismanlikllar.com
 hizlidanogren.xyz
 hizlidiploma.com
@@ -14425,6 +14435,7 @@ iadenialh.elevatesolutions.cfd
 iadesistemi.site
 iaopqoopapaa.blogspot.com
 ib-bikarcahome.shop
+ibafl.buzz
 ibb.webredirect.org
 ibbetwtw.click
 ibbmatik.xn--tt-8ja.net
@@ -14746,6 +14757,7 @@ ile-e-sepet.com.tr
 ile-e-sepetler.com.tr
 ile-guvende-islemini-yap.com
 ile-guvende-tamamla.com
+ile-guvenli-ilan-web.com
 ile-guvenlice-tamamlama.com
 ile-kolay-islemler.com
 ile-kolay-odeme-kismi.com
@@ -15567,6 +15579,7 @@ it-garda.com
 it-room24.com
 it-rooms24.com
 italypayments.site
+itgreatwilltheynow.top
 ithmorak.com
 itibardestek.com
 itmixneth.xyz
@@ -19163,6 +19176,8 @@ mhhmmhrs.app
 mhhrdw.com
 mhhres.dns.navy
 mhhrsvatandasgiris.duckdns.org
+mhhssrafegsdg.site
+mhhssrbfegsdg.site
 mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
@@ -19546,6 +19561,7 @@ mobilsepetalim-10.online
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
+mobilsepetlerin-alimlar-1.sbs
 mobilservis-43.sbs
 mobilservis-44.sbs
 mobilservis-87.sbs
@@ -21111,6 +21127,7 @@ online1-yapiceponline.vercel.app
 online182.com
 online2-yapicepaktifbasvuru.vercel.app
 onlineaktarimyapgeriednk.cyou
+onlineal.cam
 onlinealisveris.click
 onlineapp.ooraikaoo.info
 onlinebelge.com.tr
@@ -23556,6 +23573,7 @@ qnbfirsat.vercel.app
 qnbfymd.com
 qnbhediye.cv
 qnbislammemis.com
+qnbsigorta-com.drp-dev.com
 qndxsr.homes
 qnmkas.help
 qnpromrek.click
@@ -25115,6 +25133,7 @@ saraspakistanicuisine.com
 sarcmqyerehqbeqrsiniqz.blogspot.com
 sarcmqyerehqberiniqz.blogspot.com
 sarcmqyerehqberiniz.blogspot.com
+sarcmqyerehqbseqrsiniqz.blogspot.com
 sarilarabiteriz.click
 sarilermese.duckdns.org
 sariyerharb-471b76746d0e.herokuapp.com
@@ -25124,6 +25143,7 @@ sarnelix.digital
 sarrafcolan.cfd
 sarrramargooooa.shop
 sarsarsarsarmakarayyyy.com
+sartamanta.click
 sas-cas-0072.sasg.coinbase-com.info
 sasadg.b-cdn.net
 sasg.coinbase-com.info
@@ -30651,6 +30671,7 @@ vakfonlinebasvuruaktifonaylicep.vercel.app
 vakifiletisim.pro
 vakifkredigirisbasvurasamasiweb.click
 vakiflar.swanndvr.net
+vakiflarasadasfas.com
 vakiflarbenkasi.org
 vakiflarkamasdswfs.com
 vakiflarkampwrefasdfas.com
@@ -33593,6 +33614,7 @@ zaanhotel.world
 zabprtwice.pro
 zabyna.com
 zachemescho.com
+zadese-deresederepi.lol
 zafemuc.com
 zafersystem.pro
 zafffasssa.dns.navy

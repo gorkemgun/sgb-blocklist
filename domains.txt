@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 130017
-# Last change: 2026-08-30 12:56:51 UTC (sync mode: delta)
+# Records: 130050
+# Last change: 2026-08-30 17:33:09 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0-0.coinbase-com.info
 0-000-0.pages.dev
@@ -2457,6 +2457,7 @@
 182webstt.lat
 182webstt.lol
 182weps.com
+182wepst.cfd
 1835304-coinbase.com
 1847.cloud
 185reduce0000way185.com
@@ -4211,6 +4212,7 @@
 2qlu8lh6ei3u8nhyjhncjalvxbh.2qlu8ob1emkeg4rxybs9jgitvxe.canary.assetnotessrf.com
 2qm7xk9v.click
 2qn889ueeos.storage.googleapis.com
+2reklammetaonline.cfd
 2rohtnb.storage.googleapis.com
 2sadxjasdklkjcladjkc123x12.cfd
 2sindetemmuzsiparisl.cloud
@@ -4625,6 +4627,7 @@
 369852147.cloud
 3698547onlinnbsvrrkmpnyaaprmsynn.info
 3698547onlinnbsvrrkmpnyaaprmsynn.pro
+369854snffrstlrrrkmpnyabasvrrkrdi.pro
 36a6d381920d14f0.live
 36f2bc3bfe88f43d78074a76c81388b3.net
 3717880725ccda389df79b6c2743491f.ir
@@ -15420,6 +15423,7 @@ asncxbyaaasdanala.89415648951651.sbs
 asncxbyaaasdanala.8941568418975.sbs
 asncxbyaaasdanala.894216546865.sbs
 asncxbyaaasdanala.89465489421.sbs
+asncxbyaaasdanala.9479845619688.sbs
 asncxbyaaasdanala.995444566222.sbs
 asncxbyaaasdanala.benimlekalbirazdahadur.sbs
 asndansdnas.blogspot.com
@@ -23576,6 +23580,7 @@ brdanlardansandaseasn.bond
 brdanlardanszlardans.shop
 brdanlardsnasdsasa.mooo.com
 brdanrvdal182.org
+brdansdcaneacdve.duckdns.org
 brdansglkcnrdvnyalnyrz.shop
 brdansknzbnrynlasdew.bond
 brdanskzbasvrdnzmsdonline.com
@@ -28661,6 +28666,7 @@ cicekkeyfi.online
 cicekksepeti.com.tr
 cicekkutusu.vip
 ciceklerinizsepette.sbs
+ciceklerinizsepette.xyz
 cicekline.store
 cicekmarket.life
 cicekmarket.online
@@ -32668,6 +32674,7 @@ cuenta-renueva.com
 cugarmachine.com
 cugeredesede-sederese.lol
 cugufirede-sedete.lol
+cuhugu-gufiderese.lol
 cuhukuludefersedesede.xyz
 cuinbbsewltxtsn.webflow.io
 cuklodikhidlse.click
@@ -35285,6 +35292,7 @@ dijitalekonomiveteknolojikdevrim.xyz
 dijitalekranlari.sbs
 dijitalekranziraat.sbs
 dijitalesubegiris.com
+dijitalfast-kampanya.sbs
 dijitalfinans-ziraatwebbireysel.sbs
 dijitalfirsat-ziraatbireysel.com
 dijitalfirsatduyurularims.sbs
@@ -37947,6 +37955,7 @@ eceza-sorgu.site
 eceza.org
 ecezabildirim.org
 ecezacbs.org
+ecezadavam.com
 ecezaegm.org
 ecezahukuk.org
 ecezakontrol.org
@@ -56912,6 +56921,7 @@ hizlicicek.ltd
 hizlicicek.space
 hizlicozumanlikalim.pro
 hizlidagitim.com.tr
+hizlidanismanlikllaar.com
 hizlidanismanlikllar.com
 hizlidanogren.xyz
 hizlidanyonlendirburadan.top
@@ -59472,6 +59482,7 @@ iatoapspdds.blogspot.com
 iauamaasuda.net
 ib-aikarcahome.shop
 ib-bikarcahome.shop
+ibafl.buzz
 ibancial.com
 ibankinghsbc.com
 ibasvuruadresiniz.site
@@ -60059,6 +60070,7 @@ ilan-paramguvende.online
 ilan-satinalim.com
 ilan-sayfasi.com
 ilan-sepetalim.com.tr
+ilan-sepetlerimiz-alisveris.com
 ilan-siparis.com
 ilan-tedarik.com
 ilan-tr.com
@@ -60227,6 +60239,7 @@ ile-guvenleislemyap.com
 ile-guvenleodeme-yap.com
 ile-guvenli-al.com
 ile-guvenli-hizmetler.com
+ile-guvenli-ilan-web.com
 ile-guvenli-islemini-yap.com
 ile-guvenli-isleminiyap.com
 ile-guvenli-islemlerim.com
@@ -64181,6 +64194,7 @@ iteslawow.com
 itespusac.net
 itfayeadam.sbs
 itgibizleyin.cfd
+itgreatwilltheynow.top
 ithmorak.com
 itibardestek.com
 itiilareklamacilir-16d535435118.herokuapp.com
@@ -78917,6 +78931,8 @@ mhhmmhrs.app
 mhhrdw.com
 mhhres.dns.navy
 mhhrsvatandasgiris.duckdns.org
+mhhssrafegsdg.site
+mhhssrbfegsdg.site
 mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
@@ -80328,6 +80344,7 @@ mobilsepetim-tr.online
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
+mobilsepetlerin-alimlar-1.sbs
 mobilservis-1.sbs
 mobilservis-15.com
 mobilservis-4.com
@@ -85585,6 +85602,7 @@ online-ilanlar.com
 online-internet-sistem1.site
 online-islem-basvuru-degerlendirme.life
 online-islemler-basladi.site
+online-islemler-garanti.ph
 online-islemler-portali.site
 online-islemler-portali.store
 online-islemler-sorgulama-ekrani.site
@@ -85807,6 +85825,7 @@ onlineaktrweb.com
 onlineaktuel.cfd
 onlineaktuel.info.tr
 onlineaktuel.org.tr
+onlineal.cam
 onlineal.sbs
 onlinealdin.sbs
 onlinealim.sbs
@@ -94655,6 +94674,7 @@ qnbreskqnb.vercel.app
 qnbrkampany.vercel.app
 qnbsfinansbank-basvuru.ph
 qnbsfinansliramazan.xyz
+qnbsigorta-com.drp-dev.com
 qnbsizineseriniz.duckdns.org
 qnbsizlerebasvurum.xyz
 qnbsizlerebasvvuruhatti.xyz
@@ -99936,8 +99956,13 @@ sanshemenburaya.online
 sanshiwandaxuelongqi.top
 sansin-acildi-gelecegin-burada-basliyor.com
 sansisayrox.shop
+sansli--hediye-burada.online
+sansli--hediyeburada.online
 sansli--sponsorluk.online
 sansli--sponsorlukburada.online
+sansli-hediye--burada.online
+sansli-hediye-burada.online
+sansli-hediyeburada.online
 sansli-sponsorluk-burada.online
 sansli-sponsorlukburada.online
 sansli-sponsporluk.online
@@ -99946,6 +99971,9 @@ sanslibonus.digital
 sanslicrfgunlerin.cfd
 sansligunlerdeyiz.shop
 sanslihaber.online
+sanslihediye--burada.online
+sanslihediye-burada.online
+sanslihediyeburada.online
 sanslilar.sbs
 sanslimusteriler.com
 sanslisponsorlu.online
@@ -100005,6 +100033,7 @@ sarax.sbs
 sarcmqyerehqbeqrsiniqz.blogspot.com
 sarcmqyerehqberiniqz.blogspot.com
 sarcmqyerehqberiniz.blogspot.com
+sarcmqyerehqbseqrsiniqz.blogspot.com
 sardmbrdangeldasd.shop
 sarhn.top
 sari-gun-1f24d7788c4a.herokuapp.com
@@ -100053,6 +100082,7 @@ sarrentola.com
 sarrramargacungel.com
 sarrramargooooa.shop
 sarsarsarsarmakarayyyy.com
+sartamanta.click
 sartbeka.click
 sartt.click
 sas-cas-0072.sasg.coinbase-com.info
@@ -116848,6 +116878,7 @@ turkiye.gov.myriambras.fr
 turkiye.gov.tr-resmigazete.77-83-201-134.plesk.page
 turkiye.govtr.hrgebaeudereinigung.com
 turkiyeaidat.duckdns.org
+turkiyeaidatiade.duckdns.org
 turkiyeaktifhaber.com
 turkiyebankasi.ffox.site
 turkiyebankasionline.com
@@ -119432,6 +119463,7 @@ vakiflar.click
 vakiflar.laviewddns.com
 vakiflar.nogridco.com
 vakiflar.swanndvr.net
+vakiflarasadasfas.com
 vakiflarbenkasi.org
 vakiflari.click
 vakiflarimiz.iceiy.com
@@ -128468,6 +128500,7 @@ zachebt.chachasli.de
 zachebt.groksearch.net
 zachemescho.com
 zadasasdsad.sbs
+zadese-deresederepi.lol
 zadeserede-sedepiloki.lol
 zads34gkra.duckdns.org
 zaf.11gokil.org
