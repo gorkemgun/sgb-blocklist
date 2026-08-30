@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34013
-# Last change: 2026-08-30 17:33:09 UTC (sync mode: delta)
+# Records: 34020
+# Last change: 2026-08-30 21:11:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1390,6 +1390,7 @@ agstosindiirmbnm.duckdns.org
 agstossongunlerinds.duckdns.org
 agstsgnlerindeyiz.duckdns.org
 agstsgunlerndepromosyon.duckdns.org
+agstskmpny.duckdns.org
 agstsprmsyngunleri.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
@@ -4178,6 +4179,7 @@ bn-globalnet.sbs
 bn1151220s2d.duckdns.org
 bn14-vnblassawkspacket.online
 bnaceretr.com.tr
+bnafd246.duckdns.org
 bnancesolutions.sbs
 bnasbsntr.vercel.app
 bnbnbnbnbnbnbnbnbnbnbnbnbnb.sbs
@@ -16963,6 +16965,7 @@ kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
 kmpnyalartukenyrr1o1.xyz
 kmpnyaparmsynnbsvr.art
+kmpnyasnbfrfskataa64885.pro
 kmpnybrd-com-tr-525749.hostingersite.com
 kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.info
@@ -20499,6 +20502,7 @@ nizira.org
 njcqnd.buzz
 njfi.1trbakar.com
 njjngx.cc
+njreanbva.duckdns.org
 nknightstudio.com
 nkolay.click
 nl-baykar.com
@@ -25101,6 +25105,7 @@ sans-cekilis.online
 sans-hemenburada.online
 sans-kura.online
 sans-tppd.com
+sansburada--hediye.online
 sansfinn.com
 sanshiwandaxuelongqi.top
 sansli--sponsorluk.online
@@ -26449,6 +26454,7 @@ son26adetkalanize32tas.blogspot.com
 sonbhri-yakala.com
 sonbsrvtoki.sbs
 soncarrefoursafirst.shop
+sondakika.cam
 sondakikafirsatlaribitmez.xyz
 sondakikakaynak.com
 sondakikakulup.club
@@ -28227,6 +28233,7 @@ tejjdjsks.nicepage.io
 tejjdjskss.nicepage.io
 tejjdjskssf.nicepage.io
 tekdokunusaevegelecek.com
+tekdokunusqevegelecek.com
 tekdokunustalndirim.com
 tekdokunustalndirimevinde.com
 tekdokunusundalndirimgeldi.com

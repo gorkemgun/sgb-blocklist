@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 85320
-# Last change: 2026-08-30 17:33:09 UTC (sync mode: delta)
+# Records: 85339
+# Last change: 2026-08-30 21:11:25 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0-77-54-8-2-2-22-35-5-6-7.com
 0-77-54-8-2-2-22-35-5-6-7.pro
@@ -3909,6 +3909,7 @@
 3696832.cloud
 369852147.cloud
 3698547onlinnbsvrrkmpnyaaprmsynn.info
+369854snffrstlrrrkmpnyabasvrrkrdi.info
 37270187.cloud
 37333564874.cloud
 37373723232.cloud
@@ -15180,6 +15181,8 @@ bgnbansyilkampnyaewak.shop
 bgnbgnglkcrma.shop
 bgnbgnglkcrmaa.shop
 bgnbgngllkcrmaa.shop
+bgnbrdansnkzlerden.lol
+bgnbrdansnkzlerden.shop
 bgnclsyrzbxvrmynb.click
 bgnclsyrzbxvrmynb.sbs
 bgncokfrstlarbrdabnce.shop
@@ -17904,6 +17907,8 @@ bsvrrrkmpnyaaqnb.click
 bsvrrrkmpnyacklssss.click
 bsvrrrkmpnyacklssss.info
 bsvrrrkmpnyacklssss.pro
+bsvrrrkmpnyasnfrslatrrr25147.info
+bsvrrrkmpnyasnfrslatrrr25147.pro
 bsvrrrkmpnyyaaprmsyonnn.click
 bsvrrrkmpnyyykrediiifrstlrr.pro
 bsvrrrkmponyaaprmsyn.click
@@ -20192,6 +20197,7 @@ cekilisbitmez5.sbs
 cekilisbitmez6.sbs
 cekilisbitmez9.sbs
 cekilishemen-burada.online
+cekilisim-burada.online
 cekilisimburada.online
 cekilisimhemenburada.online
 cekilisin-burada.online
@@ -30351,6 +30357,7 @@ frstlrrbsvvrrrprsmynnn.xyz
 frstlrrkmpnylarribsvrr.click
 frstlrrkmpnylarribsvrr.live
 frstlrrrprmsynnnbsvrrkmpnya.art
+frstlrrsonnbsvrrkmpnyaa965849.info
 frstlrsakapinda.click
 frstmdm25ylbs.shop
 frsttlrrrkmpnyaabsvrrrrsonnnn.art
@@ -41920,6 +41927,7 @@ instabulaahhhizliajha.space
 instagram-meta.top
 instagram-secured-assistance.ph
 instagram-secured-login.ph
+instagramlogin910.blogspot.com
 instagramtelif-destek.com
 instagramtoshibayetkilisatis.vercel.app
 install-1.info
@@ -49519,6 +49527,7 @@ kmpnyaprmsynnnncklss.live
 kmpnyaprmsynnnncklss.pro
 kmpnyaprsmynnktsii.info
 kmpnyasdias1c.cfd
+kmpnyasnbfrfskataa64885.online
 kmpnyatbe.com
 kmpnybrd.com
 kmpnyhmn1o1den.org
@@ -49688,6 +49697,7 @@ kmsorgulamagovv-tr.duckdns.org
 kmsorgulamagovvpttnit.duckdns.org
 kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
+kmsorgulamahizmetlerinizz.shop
 kmsorgulamakubravursz.duckdns.org
 kmsorgulamalalrnzhizlica.web.app
 kmsorgulamalarihizlicageliyor.duckdns.org
@@ -59863,6 +59873,7 @@ pazarama.onlinesaticimerkezi.com
 pazarama.onlinesaticimiz.com.tr
 pazarama.onlinesiparislerim.com
 pazarama.satiskapida.com
+pazarama.siparisguvende.com
 pazarama.siparislerimguvende.com
 pazarama.sorunsuzodeme.com
 pazaramahizlionay.com
@@ -66770,9 +66781,16 @@ sanits.click
 saniyelericindealin.cfd
 sankotextile-tr.com
 sanlbrdaclsyrzd.mooo.com
+sans--buradahediye.online
+sans-burada-hediye.online
+sans-buradahediye.online
+sans-hediye.online
 sans-kurasi.online
 sansareklamxtg.com
 sansarsalvo.sbs
+sansburada-hediye.online
+sansburadahediye.online
+sanshediye.online
 sanshemen-burada.online
 sanshemenburada.online
 sanshemenburaya.online
@@ -80898,6 +80916,7 @@ www-stanley-yeniyl-c.com
 www-teb-com-tr-basvuru-aidat-iade.my-homeip.de
 www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-emekli-basvuru.my-homeip.de
+www-teb-com-tr-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
