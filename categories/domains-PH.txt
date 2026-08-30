@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34020
-# Last change: 2026-08-30 21:11:25 UTC (sync mode: delta)
+# Records: 34028
+# Last change: 2026-08-30 23:33:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -4184,6 +4184,7 @@ bnancesolutions.sbs
 bnasbsntr.vercel.app
 bnbnbnbnbnbnbnbnbnbnbnbnbnb.sbs
 bnbonlnebsvurutr.com
+bnbrdanrvdaldm.click
 bnbrdaykensnnereygs.com
 bnbsvrtr.tech
 bnbsvrtr.xyz
@@ -9405,6 +9406,7 @@ drsxsz.cn
 druvrty.top
 drycheck.xyz
 drygalskiseed.com
+dsafasdadag4.xyz
 dsajsklcadjx123x123x12.cfd
 dsakdlosaklfsqlf.net
 dsdsdsdssd.sbs
@@ -12975,6 +12977,7 @@ haberler6723236.sbs
 haberler73421.shop
 haberler7452523.shop
 haberler78912.sbs
+haberler8676.shop
 haberler911.sbs
 haberler93748.shop
 haberler99534945.shop
@@ -13795,6 +13798,7 @@ hizlialisverimizde.space
 hizlialisverismerkezisadecea101de.duckdns.org
 hizliaracbzdolabi.xyz
 hizliavantaj.click
+hizlibaslangic.abrdns.com
 hizlibasvur.online
 hizlibasvuralarim7temmuz.cloud
 hizlibasvuralartoplan.sbs
@@ -19561,6 +19565,7 @@ mobilitekatilimlarim.sbs
 mobilm.misecure.com
 mobilodemegecisodem.duckdns.org
 mobilsepetalim-10.online
+mobilsepetalim-20.online
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
@@ -22408,6 +22413,7 @@ pijngids.com
 pikepass.com-chargedae.world
 pikesyy.com
 pilifuere-sederilise.lol
+piloko-hulukuerede.lol
 pilotgear.top
 pineist.com
 pinepathway.com
@@ -28154,6 +28160,7 @@ teapot-sale.xyz
 teas211sm-sefvewievecejtion.cloud
 teaspiritnet.com
 teb-com-tr-emekli.myonlineportal.at
+teb-com-tr-emekliyeozel.my-homeip.de
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
@@ -28847,6 +28854,7 @@ tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
 tkktktklaspsrlurklm.com
 tkmlerimizilkevimler.org
+tkno-sa.info
 tkokshop.com
 tkrmsrd.click
 tksiccerde.net
