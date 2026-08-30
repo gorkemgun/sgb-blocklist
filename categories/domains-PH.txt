@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 33959
-# Last change: 2026-08-30 06:44:29 UTC (sync mode: full)
+# Records: 33991
+# Last change: 2026-08-30 12:56:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -214,6 +214,7 @@
 13564561321ll1.duckdns.org
 1379889898999899098.duckdns.org
 1379889898999899099.duckdns.org
+13798898989998990997.duckdns.org
 1396391651913.xyz
 13eyl0kmp3.net
 13mart101.store
@@ -711,6 +712,7 @@
 578468.online
 57bv6554421312.duckdns.org
 582751v-coinbase.com
+58475226235125.duckdns.org
 5891191.com
 5a7p.top
 5askdcjkaslx1kl23klx1312.cfd
@@ -1693,6 +1695,7 @@ algel.click
 algelonikolistanlar.shop
 algitfirrsatlardakal.cfd
 algor-form.site
+alguvendekal.click
 alhadisaglikliyasa.click
 alhadisaglikliyasa.xyz
 alhyels.shop
@@ -2013,6 +2016,7 @@ apiservice.click
 apiservisim.site
 apiservisim.store
 apl-gc.pages.dev
+aplrdnbrdanrvdla.click
 apm-player.com
 apm-space.com
 aportunex-app.wiki
@@ -2382,10 +2386,12 @@ asmdkasmk43k712.duckdns.org
 asmtal.online
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.48465498456.sbs
+asncxbyaaasdanala.48965165841844.sbs
 asncxbyaaasdanala.65735677234232.sbs
 asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.84965148651.sbs
+asncxbyaaasdanala.8796451654165333.sbs
 asncxbyaaasdanala.89465489421.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
@@ -4012,6 +4018,7 @@ bizlerle-burdan-bakin-biraz-daha-karli-olun.com
 bizmora.digital
 bizora.gifts
 bizsiziyonlendirecez.com
+bizsiznleyizz6.sbs
 bizsiznleyizz7.sbs
 bizturk.us
 bizyonlendirecez.com
@@ -5769,6 +5776,7 @@ ceptetebliye-ozel.my-homeip.de
 ceptsokunfirsatlarii.online
 cereblad.com
 ceredefe-dereteyeuere.lol
+cerencans.duckdns.org
 ceretese-derersede.lol
 cerinor.com
 cermoldeef.com
@@ -5959,6 +5967,7 @@ cicekhizmetleri.istanbul
 cicekhizmetleri.parts
 cicekkapinda.info
 cicekkapinda.net
+ciceklerinizsepette.sbs
 cicekline.store
 cicekmarket.life
 cicekmarket.site
@@ -9045,6 +9054,9 @@ dijitalvip001.top
 dijitalweb-basvurlarim.sbs
 dijitalweb-kampanya.com
 dijitalweb-simdibasvur.sbs
+dijitalweb-siparisver.sbs
+dijitalweb-talepler.sbs
+dijitalwebhizli-kampanya.sbs
 dikeysuprge.vip
 dikmt.qpon
 dilbilimselanaliz.pro
@@ -10341,6 +10353,7 @@ evbasvurulariyap.xyz
 evburasi.click
 evdeis-cagrimerkezi.online
 evdenbasvuruadresi.abrdns.com
+evdenbasvuruadresim.abrdns.com
 evdenislerkur.online
 evdeyeni.click
 evdisaridandahzrlu.sbs
@@ -10531,6 +10544,7 @@ eylulehazirlikayi.sbs
 eylulflrsatlariii.com
 eylulflrsatlarri.com
 eylulflrsatlarrs.com
+eylulgnlerindeyizbizlere.duckdns.org
 eylulgunlerinb.gleeze.com
 eylulgunlerineazkaldi.ezgateway.net
 eylulgunsonlari.duckdns.org
@@ -13703,6 +13717,7 @@ highmarkhvac.com
 hiizgadc.cyou
 hiizggecd.cfd
 hiizsfe.cyou
+hikopere-repilosade.lol
 hilalcheck.store
 hilifetimes.xyz
 hillsidebeachhotels.com
@@ -13934,6 +13949,7 @@ hmnnknltasn.net
 hmnntkans.net
 hmnntlnasa.net
 hmnrndvalzc.com
+hmnrvdal182.org
 hmnsadngfdb.mooo.com
 hmnsatinalmaninsirasi.xyz
 hmnsdhhs.com
@@ -15409,6 +15425,8 @@ istanbulcuhaso.xyz
 istanbuldasinbizimle.mooo.com
 istanbuldurbizim.xyz
 istanbulekonomix.com
+istanbulelmbelgim.xyz
+istanbulelmbelgimkart.xyz
 istanbulemrecan.xyz
 istanbulfestivali2026.com
 istanbulflom.com
@@ -17220,6 +17238,7 @@ kraldabizizkuralda.duckdns.org
 kralgellerdens.duckdns.org
 kralgeridonduwsynxrandevuburadanalinir.com
 kralibiziz.net
+kralnactrmbleyabsrm.click
 kraterart.com.victororbis.com
 kratoslep.duckdns.org
 krayllrihgsyle.cfd
@@ -17260,6 +17279,7 @@ kredi-basvurusu-online.sbs
 kredi-haritasi.online
 kredi-hologrami.online
 kredi-odakli.online
+kredi-online-hizmetleri.space
 kredi.e-sorgula.com
 krediaidetim.com
 kredibasvuru.duckdns.org
@@ -21460,6 +21480,7 @@ otuzkoca.duckdns.org
 otv-g-rtbv.my-homeip.net
 otwave.pics
 otzone.pics
+oulink.net
 oura-id8312.world
 ouresagloia.top
 ourmexicanwall.com
@@ -25064,6 +25085,14 @@ sans-kura.online
 sans-tppd.com
 sansfinn.com
 sanshiwandaxuelongqi.top
+sansli--sponsorluk.online
+sansli--sponsorlukburada.online
+sansli-sponsorluk-burada.online
+sansli-sponsorlukburada.online
+sansli-sponsporluk.online
+sanslisponsorlu.online
+sanslisponsorluk-burada.online
+sanslisponsorlukburada.online
 sansyfin.com
 santajsorgu.com
 santaskagsaen.online
@@ -28103,6 +28132,8 @@ teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
 teb-com.my-homeip.de
+teb-digital-emekliye-ozel.my-homeip.de
+teb-emeklilere.my-homeip.de
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
 tebbasvurusayfa.my-homeip.de
@@ -33782,6 +33813,7 @@ ziraat-cvc.cfd
 ziraat-inislemin.cfd
 ziraat-katilim-kredin-hazir-basvuru.mooo.com
 ziraat-mobil.net
+ziraatbank-com-tr.my-homeip.de
 ziraatbank.asia
 ziraatbank.cfd
 ziraatinternetp.nicepage.io
