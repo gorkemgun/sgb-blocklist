@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 50116
-# Last change: 2026-08-29 21:46:52 UTC (sync mode: delta)
+# Records: 50117
+# Last change: 2026-08-30 00:23:49 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -34569,6 +34569,7 @@ pinupzezodo.com
 pinupziciru.com
 pinupzuzedo.com
 pinyagyeniyil.online
+pinyeniyil.online
 pipicka.xyz
 pipipoopochek6.com
 piralnteach.online
