@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Cyber Attack (Port Scan, Brute Force etc.) (CA)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=CA
-# Records: 118
-# Last change: 2026-08-29 02:14:48 UTC (sync mode: full)
+# Records: 141
+# Last change: 2026-08-30 06:44:29 UTC (sync mode: full)
 1-free-reward.netlify.app
 api.duemineral.uk
 appeal-request-here-plum.vercel.app
@@ -23,10 +23,16 @@ att.hgfxp.cc
 auth.duemineral.uk
 badge-get-blue-verified-tick.vercel.app
 badge-now-free-apply-subscription.vercel.app
+bizgaloreeetrade.info
 blue-tick-opportunity-us.vercel.app
 blue-verification-free.vercel.app
 blue-verified-bluetick-badges.vercel.app
 bluetick-opportunity-for-creators-badge.vercel.app
+c.65a9b4549d87a.digital
+cfn.fejyhy.com
+cfn.fenamu.com
+cfn.jackpotmastersdanske.com
+cfn.notwinningbutpartici.com
 cghdfg.vbchkioi.su
 chatbot.pagehelppro.xyz
 claim-verification-badge.netlify.app
@@ -36,11 +42,16 @@ claimyourbluesign2025.netlify.app
 click-to-apply.netlify.app
 collact-reward.netlify.app
 complete-your-verification.vercel.app
+conmet-trade.ro
+consultedigital.com
 data-migration-dolcegabbana.powerappsportals.com
+deneme2.shop
 easy-blue-tick.surge.sh
 eligible-apply-for-free-badge.vercel.app
+elkendinsc.com
 enjoy-free-blue-badge.vercel.app
 enroll-reward.netlify.app
+fabulous-kangaroo.static.domains
 faceauth-dev.pages.dev
 faceauth.pages.dev
 fb-badge-reward.netlify.app
@@ -72,6 +83,7 @@ get-verification-for-service.netlify.app
 great-news-get-free-verified.wasmer.app
 here-you-can-apply-free-verified.vercel.app
 hrguxhellito281.onrender.com
+https-65a916cbc80e5.org
 index-z059-document-pending-reviewsign-xlss7994824.awalizer.workers.dev
 info-apply-free-blue-badge-here.vercel.app
 info-free-mark.netlify.app
@@ -79,13 +91,18 @@ info-selected-your-verified-badge.vercel.app
 info-setup-badge.netlify.app
 interface-auth-en-useast.global.ssl.fastly.net
 join-now-program.surge.sh
+kjfhu9io4yu3r908790poi34jrhtuipo0934urikld.pages.dev
 ledger.setuptransactioncheck.com
 lifetime-blue-tick.netlify.app
+logicnode.digital
+mc-tr.site
 milosh-solibella-0dcio.sgttommy.workers.dev
 mq-result.qt-proxy.org
 mq-result.qt-team.com
 mq-task.qt-proxy.org
 mq-task.qt-team.com
+musicboxcr.com
+nc.667af91ca5068.digital
 now-appeal-bad-post-center-here.vercel.app
 now-appeal-bad-post.vercel.app
 now-free-apply-subscription-badge.vercel.app
@@ -93,6 +110,7 @@ now-free-request-here.vercel.app
 now-request-badge.netlify.app
 ny.gov-skd.org
 ny.ofkhv.life
+oollyyooouwgggy.appspot.com
 owa.apmmacleans.ca
 permanent-bluetick.netlify.app
 permanent-reward-03.netlify.app
@@ -105,12 +123,16 @@ request-for-badge-two.vercel.app
 request-for-free-verified-badge-amber.vercel.app
 request-for-review-remove-here.wasmer.app
 request-to-verify-page.vercel.app
+restored-faith.org
 review-new-issue.neocities.org
 review-restriction-notice.netlify.app
+roles-collab.com
 salaryadjustment-2afb52.pmb6fefc52b3f9aa5c2dbf.workers.dev
 sdtr-site.cfd
 secure-systems-validations-courts.vercel.app
 securelink.qtproxy.xyz
+smkds.online
+srgislemler.cfd
 submit-appeal-reviews.vercel.app
 submit-form-here.netlify.app
 submit-here.vercel.app
@@ -119,4 +141,5 @@ teams-zpfvwnpxuc.edgeone.dev
 trezor.authentication-check.io
 uswebzoomus.com
 verified-badge-support-fb.vercel.app
+villasmbuva.co.mz
 your-eligible-verified-badge-opportunity.vercel.app
