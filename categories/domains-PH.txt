@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101981
-# Last change: 2026-08-31 20:09:25 UTC (sync mode: delta)
+# Records: 101988
+# Last change: 2026-08-31 23:53:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -36264,6 +36264,7 @@ gebremedhihw.cfd
 gebzeharemhasereilaclamasi.net
 gec-seode.net
 gecacyukleborc.net
+gece-izeltass.dnsup.net
 gecebilisim.com
 gecebilisim.xyz
 gececiglobalkampanyasisizlerle.tech
@@ -39841,6 +39842,7 @@ haberler112233.shop
 haberler11278945.shop
 haberler12342.shop
 haberler12348.shop
+haberler1256236.shop
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
@@ -68809,6 +68811,7 @@ ponamtero.shop
 ponderpredominate.top
 ponderturtle.top
 pondratify.top
+ponedari-sumafelo.lol
 ponerfaun.com
 pontifyfzg.store
 ponygoon.com
@@ -72093,6 +72096,7 @@ rafabuilders.com
 rafac123lx123klx123z1.cfd
 rafadantayfa13x123x1312.sbs
 rafael13jxk12kjxkaskdas.cfd
+rafaelbabax.shop
 rafaelcimxd.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
@@ -80336,6 +80340,7 @@ smartwealth24.info
 smashreconciliation.top
 smbc-card.shop
 smdi-frsatlaridgerlendr.shop
+smdizmnimihgs.cfd
 smdnsb-aldjsa-aljmsna.cfd
 smdnsb-aldjsa-aljmsna.cyou
 smdnsb-aldjsa-aljmsna.icu
@@ -82610,6 +82615,7 @@ stashy.life
 stashy.lol
 stashy.pro
 stashy.vip
+stat-ly-gr.myonlineportal.ch
 stateinfospace.com
 statementreservas.quest
 statementreservations.quest
@@ -87592,6 +87598,7 @@ togg-nato-ozel-cekilis.xyz
 togg-satisi.cfd
 togg.101kapimda.com
 togg.best
+togg.cc
 togg.live
 togg.lol
 togg.onsatisbasvur.com

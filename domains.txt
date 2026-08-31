@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468075
-# Last change: 2026-08-31 20:09:25 UTC (sync mode: delta)
+# Records: 468084
+# Last change: 2026-08-31 23:53:24 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -49808,6 +49808,7 @@ aracmuayeneerezervasyonu.com
 aracmuayeneflxyaqsvc.net
 aracmuayeneflyas.net
 aracmuayenehaber.com
+aracmuayenehizmettlerinn.com
 aracmuayenehizmlettrddndevu.web.app
 aracmuayenehizmxtlxriturk.net
 aracmuayenehmzetmb.web.app
@@ -177366,6 +177367,7 @@ gecchizlsi.click
 geccsmmhgssserv.tk
 gece-frsatlarda-brdayz.shop
 gece-gunduz-demeden-mutluluk.com
+gece-izeltass.dnsup.net
 gece-mavisi.cfd
 gece-panel-hizmetleri.com
 gece.101bayramaksam.com
@@ -192353,6 +192355,7 @@ haberler12342.shop
 haberler12348.shop
 haberler123531234.shop
 haberler1245343.shop
+haberler1256236.shop
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
@@ -326361,6 +326364,7 @@ ponderturtle.top
 pondratify.top
 ponduroviga.top
 pondy.zapto.org
+ponedari-sumafelo.lol
 ponedelnikoff3.ru
 ponedobla.bit
 ponemahi.com
@@ -337973,6 +337977,7 @@ qnbfinansbank-internetsube-com-tr.cf
 qnbfinansbank-internetsube-com-tr.ga
 qnbfinansbank-internetsube-com-tr.gq
 qnbfinansbank-internetsube-com-tr.ml
+qnbfinansbank-internetsube-com-tr.ph
 qnbfinansbank-internetsube.com
 qnbfinansbank-internetsubem.com
 qnbfinansbank-internetsubesi.com
@@ -340524,6 +340529,7 @@ rafadantayfa13x123x1312.sbs
 rafadx2312x232.sbs
 rafaekkcjsakax123.cfd
 rafael13jxk12kjxkaskdas.cfd
+rafaelbabax.shop
 rafaelcimxd.duckdns.org
 rafaeldyidenqz.duckdns.org
 rafaeldyixb.duckdns.org
@@ -372457,6 +372463,7 @@ smdi-tam-vakti-geldi.com
 smdi-temmuz-lndrmlerinden-hmen-yararlan.com
 smdialsfrffzhzrde.shop
 smdirndvnvburda.net
+smdizmnimihgs.cfd
 smdjow.duckdns.org
 smdndskajssklssmahaah.cfd
 smdnsb-aldjsa-aljmsna.cfd
@@ -380820,6 +380827,7 @@ stashy.lol
 stashy.pro
 stashy.vip
 stat-group.com
+stat-ly-gr.myonlineportal.ch
 stat.anquanxia.com
 stat.bluetroniq.vip
 stat.cdnanalytic.com
@@ -397830,6 +397838,7 @@ togg-trumore.com
 togg-yetkili-acente.org
 togg.101kapimda.com
 togg.best
+togg.cc
 togg.live
 togg.lol
 togg.onsatisbasvur.com
