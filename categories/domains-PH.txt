@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34028
-# Last change: 2026-08-30 23:33:40 UTC (sync mode: delta)
+# Records: 34030
+# Last change: 2026-08-31 05:42:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -21105,6 +21105,7 @@ online-aktarimlar-servisi.cyou
 online-aktarimlar-yonlendirme.store
 online-aktarma-ekrani.website
 online-aktarmalar-ekranin.site
+online-alisveris-sepetimiz.com
 online-ceptelefon-elektronik-paramguvende-pro-sahibinden.com
 online-computer.online
 online-edevlet.pages.dev
@@ -32877,6 +32878,7 @@ xenturai.com
 xerobotany.com
 xeroplantix.com
 xesecu.com
+xfd74y2ha226fd.click
 xfuuqj.cyou
 xhad734nm2db.sbs
 xhlch.top
