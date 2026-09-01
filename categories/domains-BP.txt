@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257923
-# Last change: 2026-09-01 05:16:05 UTC (sync mode: delta)
+# Records: 257933
+# Last change: 2026-09-01 10:13:24 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2520,6 +2520,7 @@
 1379889898999899096.duckdns.org
 1379889898999899097.duckdns.org
 13798898989998990995.duckdns.org
+13798898989998990998.duckdns.org
 139-bosvurularim.dvrlists.com
 13agustos-carsambam.com
 13agustossatadsiparis.net
@@ -29146,6 +29147,7 @@ autumnislem.22web.org
 autwydrfatvb-aytwdcv-awytcrd.cfd
 av-arac-kirala.top
 av-mpttonline.online
+av.evsahibibasvuru.com
 avacportal.com
 avaetinet.store
 availablemiddle.biz
@@ -55036,6 +55038,7 @@ cabuktikla.com
 cabuucakhizla-alin.com
 caciksomns.za.com
 cacosda-celebi.net
+cacti.evsahibibasvuru.com
 cactiq.com
 cactusnova.com
 cadarataya.click
@@ -60085,6 +60088,7 @@ consciousmindz.art
 consentsplurge.com
 consequuntur.com
 considerislem.22web.org
+console.evsahibibasvuru.com
 consolidateeloquent.top
 consonantislem.22web.org
 consultantltd.info
@@ -120490,6 +120494,7 @@ hizlabirsipaisleri28bucukda.cloud
 hizladea-vam-95bfc01d760c.herokuapp.com
 hizladea-vam-d68937c51c06.herokuapp.com
 hizladea-vam-dae89636d1b8.herokuapp.com
+hizladirsiparislerinden27agus.cloud
 hizlahgsyukle.com
 hizlaislem.online
 hizlaislemler.net
@@ -132305,6 +132310,7 @@ iphone-bonus.site
 iphone-bonus.website
 iphone-hediyeleri-teb.net
 iphone-skzp.top
+iphone.evsahibibasvuru.com
 iphone11cekilisvar.ml
 iphone13hediyeniz.com
 iphone13hediyeniz2022.com
@@ -160536,6 +160542,7 @@ mistymgir.pw
 mistyrose-butterfly-685715.hostingersite.com
 miswarte.cloud
 misyontrade.com
+misyonyatirimmenkuldegerler.com
 mitas.space
 mitazi.click
 mitermosa1o1.cfd
@@ -195627,6 +195634,7 @@ sahibinden-getilan.t-hizmet.online
 sahibinden-getilan.t-ilanislem.online
 sahibinden-getilan.t-ilanlar.online
 sahibinden-getilan.tr-alisveris-e-islemler.online
+sahibinden-getilan.tr-alisveris-islemlerim.online
 sahibinden-getilan.tr-alisverisler.com.tr
 sahibinden-getilan.tr-islemler-param-guvende.online
 sahibinden-getilan.ty-hizmet.online
@@ -199595,6 +199603,7 @@ scotiabank-trinidad-mobile.com
 scotiabank-trinidadmobile.com
 scotiabank-tt.com
 scotiabankalert.com
+scout-we.myonlineportal.ch
 scptt-gov.top
 scrauchle.com
 screen-shot-maker-replitappbasv.replit.app
@@ -236300,6 +236309,7 @@ web.toggtrbn.com
 web.trax.vip
 web.webpostegro.top
 web0nline.com
+web1.evsahibibasvuru.com
 web101aldinfirsat.online
 web101onlineaktuel.duckdns.org
 web2024tbghmnckbrdankrttlnltgfn.cloud

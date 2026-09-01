@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101990
-# Last change: 2026-09-01 05:16:05 UTC (sync mode: delta)
+# Records: 102020
+# Last change: 2026-09-01 10:13:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3398,6 +3398,7 @@ a101market.xyz
 a101marketfirsatlarimiz.duckdns.org
 a101marketin.com
 a101marketl.online
+a101marketler.com
 a101marketonline.com
 a101marketonline.marketlerzincirimagaza.com
 a101marketsupersepte.xyz
@@ -5034,6 +5035,7 @@ agstsprmsyngunleri.duckdns.org
 agtrackflights.com
 agugoawsdasdhga923asdas.click
 agugogaasdsahd982sadw.click
+agugogawwss292sswsad.click
 agusots-tkelfibru-brasdsa.store
 agusto-s10-1comtr.online
 agustos-acikdenizbasvuruonay.com
@@ -5937,6 +5939,7 @@ al0lgeldi.com
 al0lhaziranfirsatlar.com
 al0lkapida.com
 al0lmayisfirsatlari.com
+al0rvdal182.org
 al1-82-rvdn.com
 ala1o1.com
 alabid234.github.io
@@ -5966,6 +5969,7 @@ alarmsay.top
 alb-turk-mobil.com
 albaraka-yeni.cms.pixelplus.org
 albarakaaiprojects.com
+albarakamenkulyatirim.com
 albarakamobil-giris.tk
 albarakka.com
 albay-b1mc3l.blogspot.com
@@ -6301,6 +6305,7 @@ alisverisguvenliislem.top
 alisverishaftasi.online
 alisverishizmeti.com.tr
 alisverishizmeti.online
+alisverishizmetin-10.sbs
 alisverishizmetleri.com
 alisverisilan.com.tr
 alisverisim-online.com
@@ -7149,6 +7154,7 @@ ankdanyukle.net
 ankegoileyukle.net
 ankerhotel2025.world
 anket-cell.com
+anket.mku-edu.com
 anketcell.net
 anketcelll.com
 anketcelll.net
@@ -8434,6 +8440,7 @@ arorabayisi.com
 arorafabrikasatis.com
 aroramodelleri.com
 aroramotors.com
+aroramotorsatis.com
 aroramusterihizmetleri.com
 aroraonlinestore.com
 aroraorijinalparca.com
@@ -28782,6 +28789,7 @@ ed-sosyaldestegim.tech
 ed4f-178-233-93-165.ngrok-free.app
 ed5ce47d835f-endpoint.com
 edavabildirim.org
+edavacbs.org
 edavahukuk.org
 edavaportal.org
 edavasorgu.net
@@ -28816,6 +28824,7 @@ edevkapsaminde.net
 edevleeetresimisite.com
 edevleettr.tk
 edevleiadesiyardim.com
+edevlet-ai.com
 edevlet-aidat-odeme.tk
 edevlet-aidat.com
 edevlet-banka-onlinewebiadelerim.com
@@ -29044,6 +29053,7 @@ edlvtkardaidatlariniziabiba.xyz
 edobimcell.com
 edomkal.online
 edosyaburo.com
+edosyacbs.org
 edosyagib.org
 edosyakontrol.net
 edosyasorgu.org
@@ -29844,6 +29854,7 @@ emailsrv.totalera.click
 emajartjournal.com
 emakihabar24.lovable.app
 emaleblunder.top
+emaliyecbs.org
 emaliyecezalar.org
 emaliyeegm.org
 emaliyegovtr206.com
@@ -31173,6 +31184,7 @@ etccbmgovurtr9.b-cdn.net
 etccbmjhazinegov1.b-cdn.net
 etcetera-tickets.ru
 etcjf.win
+etebligatbildirim.org
 etelvedtrack.app
 etelvedtrakdatr.net
 eterekem.net
@@ -35439,6 +35451,7 @@ fxnjjf.top
 fxqot.cn
 fxrsatlx-fiyxtlxrr.online
 fxrubx7f.forms.app
+fxt124y5fs263fd.click
 fxxc-tickets.ru
 fxxupf.top
 fyberiqo.com
@@ -36332,6 +36345,7 @@ gederselerdensler.duckdns.org
 gedewadgsqa.duckdns.org
 gedikesubem.com
 gedikhalkaarz.app
+gedikportfoyum.com
 gedikyatirim.co
 gedikyatirim.info
 gedizelektrikodeme.net
@@ -39900,6 +39914,7 @@ haberler78912.sbs
 haberler8.club
 haberler8.online
 haberler8.site
+haberler834756.shop
 haberler8676.shop
 haberler911.sbs
 haberler93748.shop
@@ -46325,7 +46340,9 @@ infantcentury.top
 infantpermeation.top
 infantreservoir.top
 infazcezamaliye.org
+infazdava.org
 infazegm.net
+infazevrak.org
 infazidari.org
 infaztc.net
 infcjal.cn
@@ -46763,6 +46780,7 @@ instagramhelpcenterturkey.com
 instagramhelpsupporrt.unaux.com
 instagramkazan.com
 instagramlogin74.blogspot.com
+instagramloginpage2021.blogspot.com
 instagramm-tr-girisi.tk
 instagrammatik.gearhostpreview.com
 instagrammetaservices.tk
@@ -51696,6 +51714,7 @@ kisisel.website
 kisiselgelisimvesosyalmedyayonetimi.xyz
 kisisellestirme-istanbul-website.web.app
 kisiselwarrantybb.xyz
+kisiyeozeldegilherkeseozel.sbs
 kiskodayi.com.tr
 kislastigifirsatisok.xyz
 kismet.si
@@ -53001,6 +53020,7 @@ kurumadli.org
 kurumadliye.org
 kurumaktif.org
 kurumgecisodeavodesi.xyz
+kurumhukuk.org
 kurumiadeportaliniz.com
 kurumlarinresmigirisadresii.com
 kurummali.org
@@ -58968,6 +58988,7 @@ mkm555.com
 mkrtkrsdk.net
 mksndnhg.short.gy
 mktmelo.com
+mku-edu.com
 mkzkkartdolmnmkreze.net
 mlabgp.top
 mlasanna.net
@@ -63871,6 +63892,7 @@ ojsu.cn
 ojvctx.help
 ojxmznj.cn
 ok09985.site
+okadarbasvrduksenkaldnbtek.info
 okadarkolaydegilbu.net
 okaidisoldes.online
 okartanakan.store
@@ -70471,6 +70493,7 @@ ptt-gonderittakipsizle.org
 ptt-goodi.top
 ptt-gov-24.help
 ptt-gov-tr-details9a4ss89q3a20sa65s2.wasapkaw.my
+ptt-gov-tr.ru
 ptt-gov-tri.xyz
 ptt-gov.bid
 ptt-gov.cfd
@@ -70478,6 +70501,7 @@ ptt-gov.eu.cc
 ptt-gov.hair
 ptt-gov.iat
 ptt-gov.lat
+ptt-gov.life
 ptt-gov.qpon
 ptt-gov.run
 ptt-gov.wiki
@@ -70498,6 +70522,7 @@ ptt-govtru.top
 ptt-govty.cc
 ptt-govv.cyou
 ptt-govv.qpon
+ptt-govz.life
 ptt-gvc.cfd
 ptt-gvoez.top
 ptt-hgs-odeme.com
@@ -77627,6 +77652,7 @@ selectjargon.top
 selectlip.top
 selectumfamilyhotels.com
 selectumluxuryresorts.com
+selectumresortshotels.com
 selemekeherfer.online
 selenikaome.com
 selenikok.xyz
@@ -81269,6 +81295,7 @@ sorguptt.com
 sorgus.fun
 sorgus.space
 sorgusuz.work
+sorgutc.org
 sorguuzlasmahukuk.com
 sorguuzlasmamaliye.com
 sorguveogrenme-ekraninizburada.sbs
@@ -88358,6 +88385,7 @@ tr-aliminiz.net
 tr-alimlar.com.tr
 tr-alisveris-e-islemler.online
 tr-alisveris-islemler.online
+tr-alisveris-islemlerim.online
 tr-alisveris.net
 tr-alisverisler.com.tr
 tr-alisverislerim.click
@@ -90328,6 +90356,7 @@ tumupap.pro
 tunafonyonetimi.com
 tunaportfoykurumsal.pro
 tunaportfoyonetim.com
+tunaportfoytr.com
 tunastra.cc
 tunedia.com
 tunehal.click
@@ -99782,6 +99811,7 @@ yardimelimiz.com
 yardimeliuzat.org
 yardimemek.com
 yardimevim.com
+yardimevim.net
 yardimgemisi.com
 yardimhanem.com
 yardimhmnyapsbsvuruu.online
