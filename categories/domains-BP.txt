@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257922
-# Last change: 2026-08-31 23:53:24 UTC (sync mode: delta)
+# Records: 257923
+# Last change: 2026-09-01 05:16:05 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -219727,6 +219727,7 @@ tr-alim.com
 tr-alimlar.net
 tr-alimonayla.net
 tr-alis.com
+tr-alisveris-e-islemlerim.online
 tr-alisveris-odeme.online
 tr-alisveris-param-guvende.online
 tr-alisveris.com
