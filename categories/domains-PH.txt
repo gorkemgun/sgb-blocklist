@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102061
-# Last change: 2026-09-01 18:35:12 UTC (sync mode: delta)
+# Records: 102082
+# Last change: 2026-09-01 21:49:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -814,6 +814,7 @@
 18276-coinbase.com
 18290185-coinbase.com
 182967-coinbase.com
+182hatti.click
 182hstanerandvm.com
 182iletisim.cfd
 182iletisim.cyou
@@ -3909,6 +3910,7 @@ accsountbasvuru-bnb.tk
 acct-linkedin.com
 acctsreceivable-linkedin.com
 acctune.com
+accuaritaion-loy-g.myonlineportal.ch
 accumulateslaughter.top
 accumulativeoverlap.top
 accuntsbnanceeglbal.net
@@ -6224,6 +6226,7 @@ alignmentsergeant.top
 alikecorrosion.top
 alikeirritate.top
 alikelogistics.top
+alillisilveris-ypa.com
 alim-ode.com
 alim-onay.net
 alim-onayla.com
@@ -17994,6 +17997,7 @@ cemusu.store
 cenabet.online
 cenedenemexxlerxxinvaxxrtevsi.xyz
 cengaverkel.sbs
+cengaverkel.xyz
 cengizholdingvakfi.org
 cengizpro.com.tr
 cennetkapisi.club
@@ -18642,6 +18646,7 @@ cicekhizmetleri.istanbul
 cicekhizmetleri.parts
 cicekkapinda.info
 cicekkapinda.net
+ciceklerinizsepette.click
 ciceklerinizsepette.sbs
 ciceklerinizsepette.xyz
 cicekline.store
@@ -26956,6 +26961,7 @@ dogrudanalinmutlu.shop
 dogrudanbakis.com
 dogrudanmutfaginizda.xyz
 dogrudanveriler.com
+dogruduydunkralbenim.duckdns.org
 dogrulahizlica.com
 dogrulama-btc-turk.com
 dogrulama-burganbank.fm
@@ -37333,6 +37339,7 @@ givesatisfy.top
 givewithhold.top
 gizanova.com
 gizemkurumlari.com
+gizemligunlersdz.sbs
 gizemliyol.top
 gizemlizamanlaryardimvakfi.com
 gizeotek.com
@@ -39871,6 +39878,7 @@ haberler112233.shop
 haberler11278945.shop
 haberler12342.shop
 haberler12348.shop
+haberler1245321.shop
 haberler1256236.shop
 haberler1278945.shop
 haberler1283432.shop
@@ -42980,6 +42988,7 @@ hlkbn2.blogspot.com
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
 hlloo-wallet.webflow.io
+hlmnket.net
 hlnkaemntlanas.net
 hlp4969465.com
 hlqa1l5j7l52.icu
@@ -52201,6 +52210,7 @@ knitttale.com
 knjgtdv.xyz
 knkdomaineellemebnm.net
 knlkmp.help
+knnasi.net
 knobisp.top
 knobmasculinity.top
 knobsalon.top
@@ -52889,6 +52899,7 @@ krxdfhtzmrl.net
 krybra.site
 krylo.sbs
 kryvonix.xyz
+kryxndqvpmzctfwlh7qx.sbs
 ks-drive.com
 ks-lane.com
 ks44zu.cn
@@ -54618,9 +54629,11 @@ lnddrmm-klmmaaa.com
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
+lndirimintakipcisiyiz.com
 lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
 lndirimlerikacirmadansendeal.com
+lndirimtakipcileriyiz.com
 lndlirmli1-o-1ler.com
 lndlrlm-haftasl-odeme-online.com.tr
 lndlrlm-kasim-ayi-ozel.com
@@ -58517,9 +58530,11 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssrajhsyyh.icu
+mhssrrrahas.site
 mht-tickets.ru
 mhtmcntmbk.online
 mhtsrsagdsg.site
+mhtsrscgdsg.site
 mhurbiraznle.sbs
 mhxrsbzlehizlica.org
 mhxrsr3ndevuhizm3tlerinizrxnd3vu.com
@@ -61645,6 +61660,7 @@ newforestjoyzonega.world
 newfreshg.com
 newfuturemodern.online
 newglowhideout.pro
+newgzmligunlerdyzbiz.duckdns.org
 newhalk.net
 newhimera.site
 newhjsjvbsd.net
@@ -63669,6 +63685,7 @@ odememionayla-guvenliodemem-sahibinden-paramguvende.co
 odemempaket.net
 odemen.dev
 odemen.fun
+odemeni-gerceklestir.com
 odemeonline.net
 odemeonlineget-paramguvende.com
 odemeplanprojem.app
@@ -82363,6 +82380,7 @@ sswebhgsgecisleriilgcs.duckdns.org
 sswebhgskarayollgcs.duckdns.org
 ssyldsteklerbsladihmnbsvur.online
 st-ksn-kpda.online
+st-lg-gr-ol.myonlineportal.ch
 st-twp.cloud
 stabhelme.top
 stabil-dolum.xyz
@@ -85250,6 +85268,7 @@ tasitgunum.net
 tasithasar.com
 tasitmodeme.net
 tasittakas.xyz
+taskafatst.xyz
 taskcoincidence.top
 taskjer.com
 taskkkiller.com
@@ -85893,6 +85912,7 @@ teklifinizburada.site
 teklifler-burada.net.tr
 teklifleri.website
 tekliflernoktasi.abrdns.com
+teklifonunde.abrdns.com
 teklifsigorta.net.tr
 tekncanerne.com
 tekno-kredin.cfd
@@ -92172,6 +92192,7 @@ urbanizationturbulence.top
 urbankindle.com
 urbanloria.gifts
 urbanlytic.com
+urbanmeadowcollectivexeq.cfd
 urbanpeak.icu
 urbanpeak.sbs
 urbanpeak.site

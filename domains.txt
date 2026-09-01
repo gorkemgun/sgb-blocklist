@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468187
-# Last change: 2026-09-01 18:35:12 UTC (sync mode: delta)
+# Records: 468214
+# Last change: 2026-09-01 21:49:40 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5852,6 +5852,7 @@
 18290185-coinbase.com
 1829139087.dfgqdsd.ru
 182967-coinbase.com
+182hatti.click
 182hstanerandvm.com
 182iletisim.cfd
 182iletisim.cyou
@@ -28056,6 +28057,7 @@ acctsecu.hopto.org
 acctsreceivable-linkedin.com
 acctssa.duckdns.org
 acctune.com
+accuaritaion-loy-g.myonlineportal.ch
 accueilctemcars.duckdns.org
 accuflowfloors.com
 accumulateslaughter.top
@@ -43039,6 +43041,7 @@ alikelogistics.top
 alikhalil.zapto.org
 alikhalil2.zapto.org
 alikhan.zapto.org
+alillisilveris-ypa.com
 alilolo.zapto.org
 alilona.hopto.org
 alilord.zapto.org
@@ -98111,6 +98114,7 @@ cenedenemexxlerxxinvaxxrtevsi.xyz
 cenemsudcsi.sbs
 cengaoya.com
 cengaverkel.sbs
+cengaverkel.xyz
 cengizerdenez.online
 cengizgiittibugeldi.monster
 cengizholdingvakfi.org
@@ -101558,6 +101562,7 @@ cicekkeyfi.online
 cicekksepeti.com.tr
 cicekkutusu.vip
 ciceklerimizozelveguzeldir.blogspot.com
+ciceklerinizsepette.click
 ciceklerinizsepette.sbs
 ciceklerinizsepette.xyz
 cicekline.store
@@ -130054,6 +130059,7 @@ dogrudanureticiden.xyz
 dogrudanveriler.com
 dogrudanyuklegec.sg-host.com
 dogruden.xyz
+dogruduydunkralbenim.duckdns.org
 dogrugelecek.com
 dogrugundem.com
 dogruhaber.cfd
@@ -182511,6 +182517,7 @@ gizemci.site
 gizemkurulu.com
 gizemkurumlari.com
 gizemligelecegim.online
+gizemligunlersdz.sbs
 gizemlikutun.com
 gizemliyol.top
 gizemlizamanlaryardimvakfi.com
@@ -192395,6 +192402,7 @@ haberler1230149.shop
 haberler12342.shop
 haberler12348.shop
 haberler123531234.shop
+haberler1245321.shop
 haberler1245343.shop
 haberler1256236.shop
 haberler1278945.shop
@@ -211952,6 +211960,7 @@ hlloo-wallet.webflow.io
 hllsaklsmtanbl.com
 hllykkkvvh.duckdns.org
 hlmmzldfv.org
+hlmnket.net
 hlmod.com
 hlmsdistnbsvr.com
 hlnhyaoowk.duckdns.org
@@ -257497,6 +257506,7 @@ knmalvado9.ddns.net
 knmalvado9.duckdns.org
 knmqsz.html-5.me
 knmxujlw.com
+knnasi.net
 knnbgceaxj.duckdns.org
 knnjnmpdkh.duckdns.org
 knnnnigi.ddns.net
@@ -261102,6 +261112,7 @@ krystellepatterson.net
 krystelletimothyson.net
 kryvonix.xyz
 krywki.duckdns.org
+kryxndqvpmzctfwlh7qx.sbs
 krzitttkredede.online
 krzriatatarkede.online
 krzrizrizattta.online
@@ -267698,10 +267709,12 @@ lndirimgunlr.xyz
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
+lndirimintakipcisiyiz.com
 lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
 lndirimleraktuelekim.com
 lndirimlerikacirmadansendeal.com
+lndirimtakipcileriyiz.com
 lndirlmavcisi.com
 lndlirmleri1-o-1ler.com
 lndlirmli1-o-1ler.com
@@ -275264,6 +275277,7 @@ marketi-tr.online
 marketialdin.net
 marketicinizkampanya.com
 marketim-odeme.com
+marketimcebimde.com.ph
 marketimcokucuz.duckdns.org
 marketimden.cfd
 marketimdenal.sbs
@@ -280537,11 +280551,13 @@ mhsscfsrsa7.sbs
 mhsscfsrsa8.sbs
 mhsscfsrsa9.sbs
 mhssrajhsyyh.icu
+mhssrrrahas.site
 mht-tickets.ru
 mhtevents.com
 mhtfbyaswhhw.duckdns.org
 mhtmcntmbk.online
 mhtsrsagdsg.site
+mhtsrscgdsg.site
 mhttsr.click
 mhulaisbhrajsksa-jyjhlhpaitueqwosgasgfds.duckdns.org
 mhurbiraznle.sbs
@@ -295569,6 +295585,7 @@ newguide.tech
 newguncelgarantislemleri.duckdns.org
 newgunlerindyz.cfd
 newguzel.name.tr
+newgzmligunlerdyzbiz.duckdns.org
 newhalk.net
 newhediye8gb.blogspot.com
 newhelptellffihakkidesstek.ga
@@ -303371,6 +303388,7 @@ odemen.fun
 odemen.xyz
 odemenet.tk
 odemenguvende.com
+odemeni-gerceklestir.com
 odemeniguvenliyap.com
 odemeninhizmetleri.net
 odemeniyap.com
@@ -316887,6 +316905,7 @@ papara-hizmetleri-e.cf
 papara-kampanya.com
 papara-mobil.com
 papara-netr.com
+papara-online.com.ph
 papara-org.com
 papara-orgtr.com
 papara-promosyon.com
@@ -322216,6 +322235,7 @@ pazarama.siparisguvende.com
 pazarama.siparisim-onay-1923.com
 pazarama.siparislerimguvende.com
 pazarama.siparislerkapida.com
+pazarama.siparislerkapimda.com
 pazarama.siparispanelim.com
 pazarama.sorunsuzodeme.com
 pazaramaanelergunuozel.com
@@ -332215,6 +332235,7 @@ ptt-posteoiduwq.top
 ptt-postes.top
 ptt-posteyu.top
 ptt-postgov-tr.top
+ptt-postgov.sbs
 ptt-posti.top
 ptt-postsa.top
 ptt-postsn.cfd
@@ -336676,6 +336697,7 @@ qbknprmsynlarlla.com
 qbknprmsynllarlla.com
 qbknrkslrzr.xyz
 qbknrsprmsy.com
+qbknrsprmsynsr.xyz
 qbknrzsrd.org
 qbkrnsr.com
 qbkrsnrszs.xyz
@@ -380125,6 +380147,7 @@ ssyukleme.mywire.org
 sszflsxvof.duckdns.org
 st-gl-rn-kv.my-homeip.net
 st-ksn-kpda.online
+st-lg-gr-ol.myonlineportal.ch
 st-members1stfcui.duckdns.org
 st-twp.cloud
 st-v-l-r-g-n-l.myonlineportal.ch
@@ -389082,6 +389105,7 @@ tasitrandevu.net
 tasitrandevu.site
 tasittakas.xyz
 task-hrec.vercel.app
+taskafatst.xyz
 taskandpurpose.icu
 taskardesler.net
 taskboost.pro
@@ -392137,6 +392161,7 @@ teklifleri.website
 tekliflerinizburada.net
 tekliflernoktasi.abrdns.com
 teklifmglsn.com
+teklifonunde.abrdns.com
 teklifplatformu05.com
 teklifsigorta.net.tr
 tekmillet-irtibatwebdiyalogtr.com
@@ -400743,6 +400768,7 @@ tr-alimonayla.net
 tr-alis.com
 tr-alisveris-e-islemler.online
 tr-alisveris-e-islemlerim.online
+tr-alisveris-getislem.online
 tr-alisveris-islemler.online
 tr-alisveris-islemlerim.online
 tr-alisveris-odeme.online
@@ -416571,6 +416597,7 @@ urbanlenta.com
 urbanlight.top
 urbanloria.gifts
 urbanlytic.com
+urbanmeadowcollectivexeq.cfd
 urbanoo.gifts
 urbanova.gifts
 urbanovaim.com
