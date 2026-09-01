@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257942
-# Last change: 2026-09-01 14:57:23 UTC (sync mode: full)
+# Records: 257952
+# Last change: 2026-09-01 18:35:12 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -12274,6 +12274,7 @@ a101firsattanyararlan.com
 a101firsattlari.xyz
 a101firsatturkiye.online
 a101firsaturunlerkampanyasi.xyz
+a101firsaturunu.duckdns.org
 a101firsatyolculugu.com
 a101firsatzamani.online
 a101firstlarkcmzkampmynasi.mooo.com
@@ -23434,6 +23435,7 @@ albarakakatilimi.tk
 albarakam.com
 albarakamemnuniyetiniz.ml
 albarakamemnuniyetiniz.tk
+albarakamenkulkiymetler.com
 albarakamobil.com
 albarakamobile.com
 albarakamobilsube.com
@@ -71065,6 +71067,7 @@ dksskawy.xyz
 dkulbntr.online
 dkwkkesksiwqoqoaslfpfppgtprprrpr.xyz
 dl-chuguo.com
+dl.evsahibibasvuru.com
 dl55polisi155.online
 dlasfgsadkf.line.pm
 dlasfo.click
@@ -123973,6 +123976,7 @@ hostelio.xyz
 hosterlestt.com.tr
 hostessmgir.pw
 hostgotor.servehumour.com
+hosting.evsahibibasvuru.com
 hostingfiyatlarikuveyt.com
 hostingsubeonline1.ga
 hostlattice.com
@@ -145010,6 +145014,7 @@ karasoftinterior.com
 karatan.click
 karavanimguvende.com
 karaxaendistr-home.com.tr
+karayatirim.net
 karayipkalanda.shop
 karayllgecishgss.duckdns.org
 karayol-islem.space
@@ -149979,6 +149984,7 @@ kmpnyyvbsvrrprmsynnnn.info
 kmpnyyvbsvrrprmsynnnn.pro
 kmpnyyybsvrrrrprmsynn.click
 kmpnyyyfrstlarrrbsvrsss.art
+kmpnyyyfrstlarrrbsvrsss.click
 kmpnyyygrrntw.chickenkiller.com
 kmpnyyyprmsynnbsvrr.info
 kmpnyyyprmsynnbsvrr.live
@@ -160235,6 +160241,7 @@ mhrsrandevunburadan.com
 mhrsrandevunburadan.duckdns.org
 mhrsrandevunburadann.duckdns.org
 mhrsrandevunuz.net
+mhrsrandevuonlinehizmetlerbasvurunoktasi.duckdns.org
 mhrsrsrs.cfd
 mhrss-2026.duckdns.org
 mhrsserandvu.com
@@ -184376,6 +184383,7 @@ prettygirlsprettymy.info
 prevascular.com
 preview-dropbox.com
 preview.codepad.co
+preview.evsahibibasvuru.com
 prewall.shop
 prewall.site
 prewe.66ghz.com
@@ -186717,6 +186725,7 @@ pttavm.net.web.tr
 pttavm.odemedogrula.com
 pttavm.odemeniguvenliyap.com
 pttavm.onay-ilanim-534.com
+pttavm.onayda-sepet-7180.com
 pttavm.onayli-satis.com.tr
 pttavm.onaylihizmet.com.tr
 pttavm.onaylikargom.com.tr
@@ -223723,6 +223732,7 @@ trprbduyurubasvurutr.com
 trprbgirisduyuru.com
 trprote.com
 trptt-gov.click
+trptt-gov.club
 trptt-gov.cyou
 trptt-gov.top
 trptt.top

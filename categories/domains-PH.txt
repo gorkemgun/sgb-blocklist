@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102044
-# Last change: 2026-09-01 14:57:23 UTC (sync mode: full)
+# Records: 102061
+# Last change: 2026-09-01 18:35:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6439,6 +6439,7 @@ allotropically.com
 allowanceescort.top
 allowancespecialty.top
 allowcanoe.top
+allowed-exploin.myonlineportal.ch
 alloyannex.top
 alloyembody.top
 alloyoffspring.top
@@ -7120,6 +7121,7 @@ anindasepettefirsattanyararlan.xyz
 anindasepetteindirimfirsatlari.xyz
 anindasigortacim.com.tr
 anindasonuc.app
+anindateklifler.abrdns.com
 anindatrafik.com.tr
 anindavakifhazirpara.xyz
 anindayukleme.net
@@ -16789,6 +16791,7 @@ caarrfurssa.shop
 cabbagecompany.top
 cabbagesign.top
 cabbotany.top
+cabernafer.duckdns.org
 cabincalcium.top
 cabinderailment.top
 cabinetrefund.top
@@ -23265,6 +23268,7 @@ cska-ticketsstore.com
 cskacskakxxz.net
 csklvsklvkskcskx.net
 csnisf.cc
+cspagtssnkmpnya.duckdns.org
 csperagustosayikmpny.duckdns.org
 cspragstsayn.duckdns.org
 cspryenignce.duckdns.org
@@ -26748,6 +26752,7 @@ dmuhtesemfirsataldaabugunler.icu
 dmxkv.com
 dn-iktlm.online
 dnbslt.help
+dnervarnerv.duckdns.org
 dnex33tderive.top
 dngertic.top
 dnghostweb.ga
@@ -34467,6 +34472,7 @@ flrsatlardankacicakdelikarasflrsat.world
 flrsatlardiyari.com
 flrsatlarikacirmamakicin.duckdns.org
 flrsatlarla1-0-1-lndlrlmleri.online
+flrsatlaronline.com
 flrstlmdslmflf.duckdns.org
 flrstlrkacirmayi30hzrn.xyz
 flrstnburda.shop
@@ -43107,6 +43113,7 @@ hojeasdert.duckdns.org
 hojemetstrer.duckdns.org
 hojesfejterdafs.duckdns.org
 hojesnadfetrese.duckdns.org
+hojesterser.duckdns.org
 hojeterler.duckdns.org
 hojsdfewer.duckdns.org
 hokkabazflexteb666.duckdns.org
@@ -43237,6 +43244,7 @@ homesjersfter.duckdns.org
 homesless.com.tr
 homesless.xyz
 homeslessrt.com
+homesnetlerkest.duckdns.org
 homesteadmart.shop
 homesterlers.com.tr
 homestikest.duckdns.org
@@ -58351,6 +58359,7 @@ mhhrrss.com
 mhhrsvatandasgiris.duckdns.org
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
+mhhssrcfegsdg.site
 mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
@@ -58501,6 +58510,8 @@ mhskastogreen.uk
 mhsksrsnrndsv.com
 mhsr-randvu.net
 mhsrarandvlrmzbrda.sbs
+mhsrrrbhas.site
+mhsrrrchas.site
 mhsscfsrsa11.sbs
 mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
@@ -61786,6 +61797,7 @@ nexmarto.gifts
 nexo-mobility.de
 nexo-tr.com
 nexodream.com
+nexora-indirim-ayagina-geldi.com
 nexoracraft.store
 nexoraid.com
 nexoria.gifts
@@ -80667,6 +80679,7 @@ sodiumevasive.top
 sodiumlongitudinal.top
 sodiumwield.top
 sodsyalxzmetleremeklicn.xyz
+soelmarltlerer.com
 sofaside.biz
 sofatvsales.com
 sofewas24.duckdns.org
@@ -85847,6 +85860,7 @@ tejjdjskssf.nicepage.io
 tek71voa.tw
 teka1o1.com
 tekbirlikfonu.com
+tekdoknstaevneglecek.com
 tekdokunus.club.gidatas.com
 tekdokunus.website
 tekdokunus.website.gidatas.com
@@ -88642,6 +88656,7 @@ traaf.net
 tracechronic.top
 tracestory.top
 trachyline.one
+track-deploy-g.myonlineportal.ch
 track.memerax.com
 track.useplunk.net
 trackarisocratic.top
@@ -92615,6 +92630,7 @@ uygunfiyatlikiralama.site
 uygunfiyatliurun.duckdns.org
 uygunfiyattan.com.tr
 uygunfiyattan.xyz
+uygungunlerdyzblzer.duckdns.org
 uygunhalkacenta.net
 uyguninternet.net
 uygunkategori.duckdns.org
@@ -93327,6 +93343,7 @@ vatandasrandevuportall.duckdns.org
 vatandassorgu.info
 vatandasuyap.com
 vatandsprrtalmrshz.duckdns.org
+vatankonutlari-toki.vercel.app
 vatanonline.icu
 vatanteknoloji.online
 vatapp.app
