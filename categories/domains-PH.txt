@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102020
-# Last change: 2026-09-01 10:13:24 UTC (sync mode: delta)
+# Records: 102044
+# Last change: 2026-09-01 14:57:23 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7185,6 +7185,7 @@ anlik-ilan-odemesi.com
 anlik-islem-size-ozel-kvytrk.online
 anlikarackiralama.com
 anlikbakis.net
+anlikgiris.abrdns.com
 anlikgundem.click
 anlikgundem24.com
 anlikhaber.club
@@ -10026,6 +10027,7 @@ awugvywu3opl.storage.googleapis.com
 awwpqp.help
 ax-pttgov.top
 ax.nousomtr1.bond
+axafilo.com
 axasigortaacentesi.com.tr
 axdatodeme2023gel.net
 axdtdme.net
@@ -17988,6 +17990,7 @@ cemrevakfi.com
 cemusu.store
 cenabet.online
 cenedenemexxlerxxinvaxxrtevsi.xyz
+cengaverkel.sbs
 cengizholdingvakfi.org
 cengizpro.com.tr
 cennetkapisi.club
@@ -26088,6 +26091,7 @@ dijitalgiristr-denizacik.com
 dijitalgiristrweb-denizacik.com
 dijitalgirisweb-denizacik.com
 dijitalgiseler.xyz
+dijitalhemen-onlinesiparislerim.sbs
 dijitalhemen-ziraatweb.sbs
 dijitalhesap-denizacik.com
 dijitalhizli-kapinda.sbs
@@ -26138,6 +26142,7 @@ dijitalnetbilgi-giris.sbs
 dijitalnetwebtr-ziraatbireysel.com
 dijitalonay-denizacik.com
 dijitalonline-hizlisiparis.sbs
+dijitalonline-sepetsiparis.sbs
 dijitalonlinegiris-denizacik.com
 dijitaloyunvegirisimcilikakademisi.xyz
 dijitalpages.shop
@@ -29121,6 +29126,7 @@ edvltlrdsn.xyz
 edvltmobilonlineformbasvuruolustur.ml
 edvs-tapursvnnusz.info
 edvs-tapursvnnusz.net
+edvs-tapursvnnuszs.org
 edvtaidtiaade.com
 edvvletyrdmlarbaslyr.online
 edvvv-dvttt.com.tr
@@ -29680,6 +29686,7 @@ elektronik-takip.com.tr
 elektronik-ticaret-online-tr.com.tr
 elektronik-tr-alimlarimiz.com.tr
 elektronik-urun-sepetim.com
+elektronik-urunler-sepetimiz.com
 elektronik-urunler.online
 elektronikalisveris.net
 elektronikalisverisim.com.tr
@@ -31185,6 +31192,7 @@ etccbmjhazinegov1.b-cdn.net
 etcetera-tickets.ru
 etcjf.win
 etebligatbildirim.org
+etebligdava.com
 etelvedtrack.app
 etelvedtrakdatr.net
 eterekem.net
@@ -40144,6 +40152,7 @@ haftninyildzlarii.online
 haftsnuyaknkrca.com
 hagsgshavsuqhshq.net
 hahaahahah.net
+hahahahahah-zeltas.blogspot.com
 hahedeladawd.duckdns.org
 haherdasdelazwxxx.duckdns.org
 hahkskmbe.net
@@ -46690,7 +46699,6 @@ insertioncuisine.top
 insertionrecur.top
 insertspectacle.top
 insfol.com
-insfollow.com
 insfollow.org
 insfreefollower.com
 insidecloud-aspx.com
@@ -49782,6 +49790,7 @@ kaderbirligi.com
 kaderimdebudamivardi.com
 kaderimizx4.org
 kaderinrotasi.sbs
+kadersiz.shop
 kadiinadestekol.com
 kadiinaollansiddetlleredurr.com
 kadiinaollansiddettedurde.org
@@ -52918,6 +52927,7 @@ kuangyuanchao.cn
 kuankaq.com
 kuapsmenaf2.net
 kubafabrika.com
+kubamotor.net
 kubamotorluaraclar.com
 kubamotoronline.com
 kubaonlinesatis.com
@@ -62313,6 +62323,7 @@ nopanel-440001.top
 nopanel-453465.top
 nopanel-564732.top
 nopanel-723462.top
+nopanel-76255.top
 nopanel-815625.top
 nopanel-85434.top
 nopanel-98453.top
@@ -65463,6 +65474,7 @@ otobuzdolabisepetteinidirimss.xyz
 otobuzdolabisiparisi.xyz
 otocaravisi.shop
 otocariavis.tech
+otocikma-ilan.replit.app
 otoelektronik.fun
 otogalericim.net
 otogaraj.tc
@@ -66593,6 +66605,7 @@ parbukazan-tr.click
 parbukazandiniz.click
 parbuu.top
 parbuynowshop.com
+parcamagazasi.com
 parcatlkontor.ml
 parcelexpressgovptt-tr.life
 parcelexpresspttgov-tr.life
@@ -74322,6 +74335,7 @@ rk6brit.cn
 rkfbvg.cfd
 rkqzki.click
 rksbisikletim.com
+rksmoto.com
 rksmotors.com
 rktnosa21.loseyourip.com
 rlasdlvt-vdvt.com
@@ -74449,6 +74463,7 @@ rodney.lat
 rodrodrodrodmusic.com
 roelpaketleme.site
 roeoyunda.yasinatasoyholding.net
+rogdt-917c.williammgros4.workers.dev
 rogenberg.xyz
 rogerverbch.com
 rohact.top
@@ -75729,6 +75744,7 @@ sahibinden.elektronik-servisin.com.tr
 sahibinden.elektronik-servisler.com
 sahibinden.elektronik-siparisin.com.tr
 sahibinden.elektronik-sozlesme.com.tr
+sahibinden.elektronik-urunler-sepetimiz.com
 sahibinden.elektronik-urunler.online
 sahibinden.elektronikhizmet.com.tr
 sahibinden.elektroniksiparisim.net
@@ -79848,6 +79864,7 @@ sisecamturk.com
 sisfsifsfvvsf.com
 sisgiris.app
 siskolarlaberke.xyz
+sismanmotosiklet.com
 sismeboturunleri.com
 sisoftinglives.com
 sist34.tk
@@ -80484,6 +80501,7 @@ snde-hmnbasvrkmpnyasinagl.com
 sndebndangyrotegdmez.shop
 sndebrdanalsvyp.org
 sndebrdanbnlaral.shop
+sndebrdanrvdal.org
 sndebuguneozelkatilhemen.tech
 sndebunlaraglmban.com
 sndehmngelal.com
@@ -80669,6 +80687,7 @@ softs-downloads.oss-ap-southeast-1.aliyuncs.com
 softthree.top
 softwarecomplacent.top
 softwaretime.top
+sofuoglumoto.com
 sofuzeusay.live
 soganlimenemen.sbs
 sogou-shurufa.com
@@ -81048,6 +81067,7 @@ sonlarda-dahasi-kendine-azda-geride-durmaz.top
 sonlardansonkzler.shop
 sonlaridabilirkibizden.cfd
 sonmezfako.shop
+sonmkarletlr.com
 sonmodelcekilis.club
 sonmtvode.online
 sonniiadegunleri.com
@@ -81455,6 +81475,7 @@ souprig.top
 soupterm.top
 sour21ceinflict.top
 souraggravate.top
+source-management.myonlineportal.ch
 sourcedelusion.top
 sourcedoorway.com
 sourcedoorways.com
@@ -90849,6 +90870,7 @@ turkloydubursvakfi.com
 turklye.fun
 turklye.site
 turkmerkeziodemeniz.tk
+turkmotosiklet.com
 turknw.com
 turkodemenzzmtv.tk
 turkonline24.live
@@ -100228,6 +100250,7 @@ yenidenhabercilik.blogspot.com
 yenidenistanbulx.com
 yenidenizsube.tk
 yenidenn-resmi-duyuru.sbs
+yenidenteklif.abrdns.com
 yenidenturkiye.fun
 yenidev1.info
 yenidev16.info
@@ -100511,6 +100534,7 @@ yesilin-garantisi.xyz
 yesilkalp.org
 yesilormanvakfi.com
 yesilpasaporthaftasi.com
+yesilyuvabungalov.com
 yesslmcnmbnherus.live
 yesterdaydetention.top
 yesterdaythrift.top
