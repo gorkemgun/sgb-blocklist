@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65926
-# Last change: 2026-09-02 11:24:57 UTC (sync mode: delta)
+# Records: 65928
+# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25674,6 +25674,7 @@ gatesofhell.plus.com
 gateway23.websitewelcome.com
 gatewaysistemas-app.ddns.net
 gatewaysse.hopto.org
+gatheredovertime.com
 gatiropimonita.website
 gattri1.com
 gatuvesisak.eu
@@ -43572,6 +43573,7 @@ oursupersk.com
 ourthisdismanlyright.ru
 oussama98.zapto.org
 oussamanj.ddns.net
+out-agent.duckdns.org
 outdoorac.ae
 outdoorcooling.ae
 outletkmpny.online

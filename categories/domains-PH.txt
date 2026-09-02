@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102110
-# Last change: 2026-09-02 11:24:57 UTC (sync mode: delta)
+# Records: 102121
+# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8761,6 +8761,7 @@ asg12q1gasgasdg.net
 asgaarasa.click
 asgadsqew.sbs
 asgafasdad222d.wiki
+asgard-cokie-sg.myonlineportal.ch
 asgard-cup.ru
 asgartarasa.click
 asgasdgqwre.sbs
@@ -26772,6 +26773,7 @@ dnex33tderive.top
 dngertic.top
 dnghostweb.ga
 dnghostweb.ml
+dnmeypyzyenis.duckdns.org
 dnndndndndndndndnn.com.tr
 dnnfrsataylarimiz.cfd
 dnpcbw7.cn
@@ -30685,6 +30687,7 @@ envhger.tech
 envicrsmblar.app
 enviirandevu.org
 enviodpeme.net
+enviranddevu.org
 environmentalcorrode.top
 environmentaldvastatng.top
 environmentalfaction.top
@@ -31214,6 +31217,7 @@ etcetera-tickets.ru
 etcjf.win
 etebligatbildirim.org
 etebligdava.com
+etebliguyap.com
 etelvedtrack.app
 etelvedtrakdatr.net
 eterekem.net
@@ -37800,6 +37804,7 @@ golgemarka.xyz
 golittleplanet.com
 gologisticmx.com
 gomebabas.online
+gomestlerkst.duckdns.org
 gomolatori.cyou
 gon-unlocker.pro
 gonderihizmettakbn.com
@@ -45099,6 +45104,7 @@ ilan-havale-fast.com
 ilan-havale-odemem.com
 ilan-havale-odemesi.com
 ilan-hizmeti.net
+ilan-ikinciel.com
 ilan-ile-satis.com
 ilan-kurumsal.com.tr
 ilan-m.com.co
@@ -55475,6 +55481,7 @@ lumiqo.sbs
 lumosphereb.eu
 lumpbald.top
 lumqiro.cyou
+lunadkebest.com
 lunakove.com
 lunarbirchfold.site
 lunarcrest.spcae
@@ -70772,6 +70779,7 @@ pttavm.lisanslisatis.com.tr
 pttavm.mobil-urunlerim-tr.com.tr
 pttavm.mobiltr-islemlerim.com.tr
 pttavm.net.tr
+pttavm.odeme-tamamla.com
 pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
 pttavm.odemeli-ticaret.com
@@ -78002,6 +78010,7 @@ sensationaltrait.top
 sensationderegulation.top
 sensberecil.top
 sensemaneuver.top
+sensemeks.duckdns.org
 senseprotect.top
 sensibledemographic.cn
 sensiorama.com
@@ -80801,6 +80810,7 @@ sokfirsatigeldi.xyz
 sokfirsatlar-temmuzda.com.tr
 sokfirsatlarburada.com
 sokfirsatlarin.online
+sokflrsatlar.com
 sokflrsatlarbrda.com
 sokflrsatlarharikala.shop
 sokgecefirsati.online
@@ -87702,6 +87712,7 @@ toepasser-by.top
 togetherbetterdependnothing.click
 togetherhire.fun
 togethernet.site
+togfinans.com
 togg-finans-kredim.com
 togg-hizlisiparis.xyz
 togg-kredim.com

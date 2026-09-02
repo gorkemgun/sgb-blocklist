@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468266
-# Last change: 2026-09-02 11:24:57 UTC (sync mode: delta)
+# Records: 468302
+# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4097,6 +4097,7 @@
 125.com
 1251155665599091.xyz
 1251155665599092.xyz
+125125121.click
 1251255455589990.xyz
 1251255455589992.xyz
 1251255455589995.xyz
@@ -19114,6 +19115,7 @@
 777563.site
 777563224.cloud
 777571654821651165651.tech
+77757547.sbs
 7775759421.duckdns.org
 777662766.cloud
 777668005.dfgqdsd.ru
@@ -50794,6 +50796,7 @@ archive-articles.linkpc.net
 archive-downloader.com
 archive-h.org
 archive-ubuntu.top
+archive.evsahibibasvuru.com
 archived-hungary-paxil-tubes.trycloudflare.com
 archived.zapto.org
 archiveexemption.top
@@ -52542,6 +52545,7 @@ asgadsqew.sbs
 asgafasdad222d.wiki
 asgalabas.buzz
 asgalaseras.buzz
+asgard-cokie-sg.myonlineportal.ch
 asgard-cup.ru
 asgardia.cl
 asgariucret2023.com
@@ -113229,6 +113233,7 @@ customer.aaddigitalstrategies.com
 customer.coinbase-com.info
 customer.com-3654623478192.site
 customer.competeorder.com
+customer.evsahibibasvuru.com
 customer.thewayofmoney.us
 customer.verification.com-3654623478192.site
 customer.xrent.store
@@ -124248,6 +124253,7 @@ dev.turkcellpasajsanalmagaza.com
 dev.vegascheck.net.tr
 dev.vegascheck.xyz
 dev.wyoming.coinbase-com.info
+dev2.evsahibibasvuru.com
 dev2022.ml
 dev7129.d2qmcnsgj0y7oj.amplifyapp.com
 deva28.com
@@ -129225,6 +129231,7 @@ dnkayyyd.info
 dnklymbasit.online
 dnlzbnklbs.duckdns.org
 dnm777.xyz
+dnmeypyzyenis.duckdns.org
 dnmhrj.top
 dnmki.duckdns.org
 dnmsduialdevolr.cn
@@ -152648,6 +152655,7 @@ enviopago.mysynology.net
 enviosep04.duckdns.org
 enviousdamaging.site
 envipzrteside.app
+enviranddevu.org
 envirandv.net
 envirodry.ca
 environmentalcorrode.top
@@ -155463,10 +155471,12 @@ etdhgsn.com
 etdintuseoft.com
 etebbankasi.com
 etebkredibasvur.tk
+etebligatasliye.com
 etebligatbildirim.org
 etebligatkontrol.org
 etebligdava.com
 etebligmaliye.org
+etebliguyap.com
 etebmobil.com
 etebsubebasvuru.tk
 etebsubegiris2019yeni.com
@@ -176784,6 +176794,7 @@ gatfagbn.click
 gatherassassin.top
 gatherbewilderment.top
 gathereaster.top
+gatheredovertime.com
 gatheringerrand.top
 gatheringmerchandise.top
 gatheringquery.top
@@ -184143,6 +184154,7 @@ gomebabas.online
 gomersimo.com
 gomesnetgingsm45.ddns.net
 gomespontes.com.br
+gomestlerkst.duckdns.org
 gomezdemr.online
 gomezhasereilaclamasi.site
 gomicrosoft.info
@@ -196062,6 +196074,7 @@ halkesubem.com
 halkfaizsizkredibasvuru.duckdns.org
 halkfinansyatirim.com
 halkfirsat-online-giris.com
+halkfirsat.cam
 halkfirsat.click
 halkfirsat.com
 halkfirsat.online
@@ -204299,6 +204312,7 @@ herzaman.regaltess.xyz
 herzamanaktuell.duckdns.org
 herzamanal.site
 herzamanburadakewle.com
+herzamanburadarandevu.com
 herzamanburadatekle.com
 herzamanburdayiz.cfd
 herzamancekilis.duckdns.org
@@ -221782,6 +221796,7 @@ ilan-hizlialisveris.com.tr
 ilan-hizmet-giris.com.tr
 ilan-hizmeti.net
 ilan-hizmetim.com.tr
+ilan-ikinciel.com
 ilan-ile-satis.com
 ilan-islemler.com
 ilan-kurumsal.com.tr
@@ -241804,6 +241819,7 @@ joblly.com
 jobs-adobe.com
 jobs-delta.com
 jobs-fifa.com
+jobs.evsahibibasvuru.com
 jobs.garantibbvakredibasvuru.com
 jobs.illaewinstralinc.com
 jobsatnetflix.com
@@ -263515,6 +263531,7 @@ l-polisi155tr.online
 l-prv-g-rn-l.my-homeip.de
 l-pttgov.top
 l-r1sssgssa.sbs
+l.evsahibibasvuru.com
 l.facebook1mob.com
 l.k.bilgiislemim.net
 l.linklyhq.com
@@ -270265,6 +270282,7 @@ lumyreon.com
 lumzonffentra.com
 lumzonnlumtr.com
 luna69.net
+lunadkebest.com
 lunaizemlya.ru
 lunakove.com
 lunaproxy.com
@@ -274502,6 +274520,7 @@ manage.appleld.secure-update.en-us.maingaringah10.com
 manage.appleld.secure-update.en-us.memekneon04.com
 manage.appleld.update-secure.en-us.jagoanneon09.com
 manage.biteupdates.site
+manage.evsahibibasvuru.com
 manage.glimmerix.pro
 manage.xn--bnance-cdn-global-ewb.ml
 manageaccount-appleid-service.com
@@ -275906,6 +275925,7 @@ masakadliye.org
 masakaktivasyon.duckdns.org
 masakarsiv.org
 masakbildiri.org
+masakbilgi.org
 masakbinancemobildogrulama.duckdns.org
 masakbinanceturkiye.duckdns.org
 masakbirim.org
@@ -292725,6 +292745,7 @@ nagahox.com
 nagamy123.ddns.net
 nagerproxysinintercavi8464perringuta.duckdns.org
 nagikomes.xyz
+nagios.evsahibibasvuru.com
 nagsrsdfsudinasa.com
 nahbruv.ddns.net
 nahis.online
@@ -311663,6 +311684,7 @@ oregfurits.top
 oregonreversemortgage.com
 oregrntyesco.buzz
 oreheatq.live
+orentacar.org
 orenthialuxira.my
 oreprospect.com
 oreprospect.icu
@@ -313372,6 +313394,7 @@ oussamacr.ddns.net
 oussamanj.ddns.net
 oussema.mywire.org
 ousync.kginfocom.com
+out-agent.duckdns.org
 out-look-mail-bh.com
 outages.sbs
 outarcubleauded.xyz
@@ -322238,6 +322261,7 @@ pazarama.hizlikargolar.com
 pazarama.hizlionline.com
 pazarama.ilan-havale-odemem.com
 pazarama.ilan-havale.com
+pazarama.ilan-ikinciel.com
 pazarama.ilan-magaza.com
 pazarama.ilan-sepetlerimiz-alisveris.com
 pazarama.ilanda-sepetim-1092.com
@@ -324236,6 +324260,7 @@ photo-8632454.cfd
 photo-box.info
 photo-dekor.xyz
 photo-hub-io.info
+photo.evsahibibasvuru.com
 photobook-reserv.pro
 photobookadm.pro
 photobox.life
@@ -324266,6 +324291,7 @@ php-soil.at.ply.gg
 php.tripadvisorsapp.com
 phpbb-zealand-hop-magnetic.trycloudflare.com
 phpencryptssl.com
+phpmyadmin.evsahibibasvuru.com
 phpsourcesphp.com
 phpsymfony.com
 phpview.mygamesonline.org
@@ -332977,6 +333003,7 @@ pttavm.net
 pttavm.net.ph
 pttavm.net.tr
 pttavm.net.web.tr
+pttavm.odeme-tamamla.com
 pttavm.odemedogrula.com
 pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
@@ -350177,6 +350204,7 @@ s1-rarlab.com
 s1-sclotiablank-cams.cc
 s1.aile-kredileri.com
 s1.chunkserving.com
+s1.evsahibibasvuru.com
 s1.eyeonmusica.it
 s1.fikofiko.top
 s1.gridsumcontent.com
@@ -362812,6 +362840,7 @@ sense568.xyz
 senseestimate.com
 sensegrown.net
 sensemaneuver.top
+sensemeks.duckdns.org
 senseprotect.top
 senserrickgrocer.com
 sensesince.net
@@ -366411,6 +366440,7 @@ shop-tr-ozel.online
 shop-tr.online
 shop-yap.com
 shop.168bee.com
+shop.evsahibibasvuru.com
 shop.inteleksys.com
 shop.lightoneday.com
 shop.vfgrl.com
@@ -373999,6 +374029,7 @@ sokfirsatmarket.online
 sokfirstkm-s.sbs
 sokfiyatlar.cfd
 sokflrsatkampanyaramazan.store
+sokflrsatlar.com
 sokflrsatlarbrda.com
 sokflrsatlarburada.com
 sokflrsatlarharikala.shop
@@ -394636,6 +394667,7 @@ testimonylivestock.top
 testimonysuppressive.top
 testing.177954coinbase.com
 testing.diogoflix.com
+testing.evsahibibasvuru.com
 testing.vidharm.com
 testing01.ddns.net
 testing1212.ddns.net
@@ -397978,6 +398010,7 @@ togethernet.site
 togethernow.sbs
 togetverifmtbuser.hopto.org
 togewatcher.com
+togfinans.com
 togg-2026.com
 togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
@@ -411910,6 +411943,7 @@ tursab.org-tr.org
 tursab.siteonay.org
 tursabacentasorgu.com
 tursabacentasorgula.com
+tursabacentasorgulama.com
 tursabacentasorgulama.org
 tursabacentesorgula.org
 tursabb.org
@@ -439534,6 +439568,7 @@ www-ceptekapida-marketin.xyz
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com.ml
 www-cepteteb-com.tk
+www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-ceptetebimm.com
 www-ceptetebliim.com
 www-cepteteblim.com
@@ -466399,6 +466434,7 @@ ziraitarimfs.cfd
 ziraitlbankasi.com
 zirajsndjdnwkdn.xyz
 zirakatilim.com
+ziralmobilislemlerl.duckdns.org
 ziraot.sbs
 ziraqvmtxkplndwbhsca.sbs
 zirasd.fun

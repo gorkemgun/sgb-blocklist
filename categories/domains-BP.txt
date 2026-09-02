@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257971
-# Last change: 2026-09-02 11:24:57 UTC (sync mode: delta)
+# Records: 257994
+# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2311,6 +2311,7 @@
 125-855-65-98.cfd
 1251155665599091.xyz
 1251155665599092.xyz
+125125121.click
 1251255455589990.xyz
 1251255455589992.xyz
 1251255455589995.xyz
@@ -9594,6 +9595,7 @@
 77754000777777.duckdns.org
 7775445874777.duckdns.org
 777563.site
+77757547.sbs
 7775759421.duckdns.org
 777662766.cloud
 7777000010001.cloud
@@ -27749,6 +27751,7 @@ arcellik.xyz
 archasormman.net
 archileuois.com
 archive-h.org
+archive.evsahibibasvuru.com
 archlzbyklemesi.online
 archsrbrchsr.shop
 archsrsorglma.web.app
@@ -61817,6 +61820,7 @@ custom.ai-smart.website
 customer-mortgage-bvatr-in.ru.com
 customer-privhgssistem.ga
 customer-sanalhgsportal.com
+customer.evsahibibasvuru.com
 customs-ptt-gov.com
 cutadmin.icu
 cutfererteserfe.click
@@ -68553,6 +68557,7 @@ dev.bntrkolaybasvuru.com
 dev.evsahibibasvuru.com
 dev.trblnancebasvuru.com
 dev.turkcellpasajsanalmagaza.com
+dev2.evsahibibasvuru.com
 deva28.com
 devaidatiadesi.cyou
 devakremiresmi.ml
@@ -88597,6 +88602,7 @@ etdhgsm.com
 etdhgsn.com
 etebbankasi.com
 etebkredibasvur.tk
+etebligatasliye.com
 etebligatkontrol.org
 etebligmaliye.org
 etebmobil.com
@@ -111483,6 +111489,7 @@ halkesubem.com
 halkfaizsizkredibasvuru.duckdns.org
 halkfinansyatirim.com
 halkfirsat-online-giris.com
+halkfirsat.cam
 halkfirsat.click
 halkfirsat.com
 halkfirsat.online
@@ -117044,6 +117051,7 @@ herzaman-yanimizda-var-ol.cyou
 herzamanaktuell.duckdns.org
 herzamanal.site
 herzamanburadakewle.com
+herzamanburadarandevu.com
 herzamanburadatekle.com
 herzamanburdayiz.cfd
 herzamanchpbababurda.blogspot.com
@@ -140248,6 +140256,7 @@ jobberiq.com
 jobform.online
 jobfrakibau.com
 jobiloapro.site
+jobs.evsahibibasvuru.com
 jobs.garantibbvakredibasvuru.com
 jobsvacanciesnow.com
 jodexob.com
@@ -154285,6 +154294,7 @@ l-plakaliborctakibi.info
 l-polisi155tr.online
 l-pttgov.top
 l-r1sssgssa.sbs
+l.evsahibibasvuru.com
 l.k.bilgiislemim.net
 l.linklyhq.com
 l.misecure.com
@@ -157837,6 +157847,7 @@ manage.apple.secure-update.en-us.jagoanneon01.com
 manage.appleld.secure-update.en-us.maingaringah10.com
 manage.appleld.secure-update.en-us.memekneon04.com
 manage.appleld.update-secure.en-us.jagoanneon09.com
+manage.evsahibibasvuru.com
 manage.xn--bnance-cdn-global-ewb.ml
 managed-accntlimitd-authservsignln.maluajasigitu.info
 managesmgir.pw
@@ -158427,6 +158438,7 @@ masak88.org
 masakaktivasyon.duckdns.org
 masakarsiv.org
 masakbildiri.org
+masakbilgi.org
 masakbinanceturkiye.duckdns.org
 masakbirim.org
 masakblokesi.com
@@ -166348,6 +166360,7 @@ nafhuwoghs.net
 nafisalkaseles.net
 nafizeevdepaketleme.ml
 nagikomes.xyz
+nagios.evsahibibasvuru.com
 nahjslaqa.com
 nahyetisirsin.cfd
 nailspagreenville.com
@@ -175785,6 +175798,7 @@ oreclazabu99.xyz
 orecorelab.com
 oreexport.com
 oregrntyesco.buzz
+orentacar.org
 oreprospect.com
 orestrata.com
 orethoenmsfleasd.com
@@ -182205,6 +182219,7 @@ pazarama.hizlikargolama.com
 pazarama.hizlikargolar.com
 pazarama.hizlionline.com
 pazarama.ilan-havale-odemem.com
+pazarama.ilan-ikinciel.com
 pazarama.ilan-magaza.com
 pazarama.ilan-sepetlerimiz-alisveris.com
 pazarama.ilanda-sepetim-1092.com
@@ -182841,10 +182856,12 @@ phoness.name.tr
 phonettics.click
 phonzininaraciguvende.net
 phonzyningotu.net
+photo.evsahibibasvuru.com
 photojournalistmb.com
 photonstormvrqzmk2.click
 photophobous.com
 photosynthiq.com
+phpmyadmin.evsahibibasvuru.com
 phslipssupurgesindekampaynalar.com.tr
 phtesa1o1.net
 phuhks.click
@@ -194281,6 +194298,7 @@ s0rrasnlpazarlama.shop
 s0u0le.online
 s0wfecuma.ddnsfree.com
 s1.aile-kredileri.com
+s1.evsahibibasvuru.com
 s10100123431.cloud
 s11-11232323.cloud
 s1112topwar.com
@@ -202600,6 +202618,7 @@ shop-sahibinden-guven.ml
 shop-tr-online-mobil.click
 shop-tr-online-mobil.sbs
 shop-tr.online
+shop.evsahibibasvuru.com
 shop1.magic0.xyz
 shop10230.arcpittnc.org
 shop34.cf
@@ -217032,6 +217051,7 @@ testerezamanisaliharikaaldinaldin.xyz
 testgecis.is-best.net
 testhgshhat1472021.com
 testimonysuppressive.top
+testing.evsahibibasvuru.com
 testingen534.click
 testist342.blogspot.com
 testkrrrrrr.online
@@ -227219,6 +227239,7 @@ tursab-onay.org
 tursab-sorgu.com
 tursab.org-tr.org
 tursabacentasorgula.com
+tursabacentasorgulama.com
 tursabacentasorgulama.org
 tursabacentesorgula.org
 tursabbelgedogrulama.com
@@ -239084,6 +239105,7 @@ www-ceptekapida-marketin.online
 www-ceptekapida-marketin.xyz
 www-cepteteb-com.ml
 www-cepteteb-com.tk
+www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-ceptetebimm.com
 www-ceptetebliim.com
 www-cepteteblim.com
@@ -257214,6 +257236,7 @@ zirailimtrak90922-1121.online
 ziraitlbankasi.com
 zirajsndjdnwkdn.xyz
 zirakatilim.com
+ziralmobilislemlerl.duckdns.org
 ziraot.sbs
 ziraqvmtxkplndwbhsca.sbs
 zirasd.fun
