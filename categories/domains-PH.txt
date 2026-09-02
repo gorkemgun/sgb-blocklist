@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102136
-# Last change: 2026-09-02 19:49:44 UTC (sync mode: delta)
+# Records: 102142
+# Last change: 2026-09-02 22:40:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8792,6 +8792,7 @@ asilcarfilo.com
 asilfinansbankasi.com
 asilhaber.club
 asilhaber.online
+asimple-lear-gorl.myonlineportal.ch
 asist-web.casa
 asistance-verfyttinggi.net
 asiste1.world
@@ -12138,6 +12139,7 @@ bembury.com
 bemcel.com
 benbilekendimibitiremiyorum.click
 bencalsyrmhrsrndvlrdan.shop
+bencalsyrmhrsrndvlrdan.xyz
 benchdisarmament.top
 benchflame.top
 benchiqiqzhendefeichangshuaiqi.top
@@ -39926,6 +39928,7 @@ haberler231542423.online
 haberler23232.shop
 haberler233434123.shop
 haberler23432.sbs
+haberler235234321.shop
 haberler235342.com
 haberler2354123.shop
 haberler235423.sbs
@@ -45431,6 +45434,7 @@ ilkvrdkrtsevsc.com
 illegal-check.tk
 illegal-city.com
 illegal-city.net
+illegal-platform.com
 illegal.city
 illegal.ist
 illegal.land
@@ -79962,6 +79966,7 @@ sisuno.top
 sit-down-www.blogspot.com
 sitalternate.top
 sitangcsflortiya.net
+sitch-glory-web.myonlineportal.ch
 sitcorporal.top
 site-1-0-1.com.tr
 site-alisveris.online
@@ -80576,6 +80581,7 @@ snde-hmnbasvrkmpnyasinagl.com
 sndebndangyrotegdmez.shop
 sndebrdanalsvyp.org
 sndebrdanbnlaral.shop
+sndebrdanbrayarvdll.lol
 sndebrdanrvdal.org
 sndebuguneozelkatilhemen.tech
 sndebunlaraglmban.com
