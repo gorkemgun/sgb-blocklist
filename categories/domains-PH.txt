@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102121
-# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
+# Records: 102136
+# Last change: 2026-09-02 19:49:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1542,6 +1542,7 @@
 31maylsfrlsatgelinbi.com
 31mlk.dev
 321189874645115.net
+3212221112445479890.duckdns.org
 32156949851616513.net
 32165146854651651654.cloud
 321adedc.bdshe764d.shop
@@ -2016,6 +2017,7 @@
 52-27-117-178.plesk.page
 52-33-187-179.plesk.page
 52-39-96-97.plesk.page
+52165215.sbs
 52235236fsd523.click
 5234183747924819.duckdns.org
 523454.cc
@@ -3341,6 +3343,7 @@ a101harcaharcabitmezurunlerlistesi.com
 a101harcaharcabitmezz.miko-cdn.space
 a101hemenkapinda.com
 a101hesapligunler.online
+a101hizlimarket.duckdns.org
 a101hizmet.com
 a101hobihadi.com
 a101iiletisim.com
@@ -26083,6 +26086,7 @@ dijitaldunyayenifikirlervegirisim.xyz
 dijitalekonomikdestekmobil.xyz
 dijitaleozel-denizacik.com
 dijitalesube-denizacik.com
+dijitalfast-hizlikampanya.duckdns.org
 dijitalfast-kampanya.sbs
 dijitalfon-denizacik.com
 dijitalform.sbs
@@ -31216,6 +31220,7 @@ etccbmjhazinegov1.b-cdn.net
 etcetera-tickets.ru
 etcjf.win
 etebligatbildirim.org
+etebligatdosya.com
 etebligdava.com
 etebliguyap.com
 etelvedtrack.app
@@ -32597,6 +32602,7 @@ f8ixtzh.cn
 fa11beb7.sieujnx.cloud
 fa8ea903.nhubiubuniunuion.workers.dev
 faab-auction.com
+faaliyetonunde.abrdns.com
 faanstar.com
 fabegallardo.com
 fablefury.top
@@ -34492,6 +34498,7 @@ flrsatlarburaadda.com
 flrsatlardankacicakdelikarasflrsat.world
 flrsatlardiyari.com
 flrsatlarikacirmamakicin.duckdns.org
+flrsatlarkapinakadargeldi-sendeal.com
 flrsatlarla1-0-1-lndlrlmleri.online
 flrsatlaronline.com
 flrstlmdslmflf.duckdns.org
@@ -44269,6 +44276,7 @@ i652d6465766c6574o676f76o7472z.oszar.com
 i656f6b756co6d6562o676f76o7472z.oszar.com
 i761bd.coinbase-com.info
 i7ko6bz.cn
+i82-web.help
 ia-aidtadlerinizbasladi.com
 ia-deportal-da.de
 ia.admin.sportsbook.coinbase-com.info
@@ -53181,6 +53189,7 @@ kuveytturko.com
 kuveytturku.com
 kuveyturkk.site
 kuveyturksebebi.click
+kuvttb.com
 kuvukye.space
 kuvv-tr-julyceheck.online
 kuvvencekilinst.hopto.org
@@ -54642,6 +54651,7 @@ lmadflmafdshmjlsaf.co.uk
 lmckdclbkgnh.com
 lmdsahadsh.net
 lmdshdshgsd.net
+lmktan.net
 lmo.roxylvfuco.com.au
 lmobilldeeennizzl.sbs
 lmqut40b.tw
@@ -59398,6 +59408,7 @@ mobilonlinedogrulavarlikservice.online
 mobilsafariozel.cloud
 mobilsepetalim-10.online
 mobilsepetalim-20.online
+mobilsepetalim-40.sbs
 mobilsepetlerimservis.online
 mobilsepetlerimtralimlar.online
 mobilsepetlerimtrservis.online
@@ -60059,6 +60070,7 @@ msasa-sakaas.net
 msb.gov.tr.derheiligegeist.eu
 msbshak-ababks-amand.cyou
 mscoshoper.info
+mserehele.duckdns.org
 mserrw.top
 msfjcm.top
 msfxjb.top
@@ -86773,6 +86785,7 @@ teylanyem.com
 tezenisturkey.com
 tezobi.info
 tfftcbmhazineislerigovtr6353.com
+tfgistanbul.net
 tfgistanbulmenkuldegerler.com
 tfgmenkuldegerler.com
 tfgmenkuldegerler.net
@@ -99852,6 +99865,7 @@ yapcakbiseyyok.click
 yapi-kampanya-bizde-var-basvur.ml
 yapi-kredi-digitalislemlerim2024.com
 yapi-kredi-katilimworld.ga
+yapi-kredibasvuru.online
 yapi-ozel-xc90.com
 yapi.kisalink.cc
 yapi.ve.kredi.dliso.com
@@ -101817,6 +101831,7 @@ ziraatyatirimborsahesabi.pro
 ziraatyazkacirilmazfirsat.tk
 zirailillf.cfd
 ziraitarimfs.cfd
+ziralmobilonlineislemlerimtr.duckdns.org
 ziratbasvuruihtiyac.com.tr
 ziratoff.online
 ziratpngj.cfd

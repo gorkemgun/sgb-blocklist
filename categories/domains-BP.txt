@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 257994
-# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
+# Records: 257997
+# Last change: 2026-09-02 19:49:44 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -103885,6 +103885,7 @@ gogodemeyap.com
 gogogolinkxss.net
 gohaber.shop
 goiykom.site
+gojestlerkest.duckdns.org
 gojiameng.club
 gokapad.com
 gokarcas.store
@@ -175761,6 +175762,7 @@ oralardaseninicingeldik.com
 oralet.nicepage.io
 oralgamingg.duckdns.org
 oralperla.click
+orange-trendyol.com.ph
 orangered-ferret-109556.hostingersite.com
 oranlara.click
 orantilislemak-islemadresi.shop
@@ -208579,6 +208581,7 @@ sorgupanelciniz.com.tr
 sorgupaneli.best
 sorgupaneli.fun
 sorgupaneli.ph
+sorgupaneli.vip
 sorgupaneli.xyz
 sorgupanelim.com
 sorgupanelllll.tk
