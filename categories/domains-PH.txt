@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102097
-# Last change: 2026-09-02 05:52:49 UTC (sync mode: delta)
+# Records: 102110
+# Last change: 2026-09-02 11:24:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6548,6 +6548,7 @@ alpxm.top
 alqubaa-alsafra.com
 alquilerdespachospsicologiamadrid.com
 alrandsg.net
+alrbvd182.org
 alreadyaeetic.top
 alreadycompile.top
 alriyadhgate.com
@@ -9056,6 +9057,7 @@ ataturksorguvergi.net
 atatv44check.net
 atavilla.com
 atayatirim.online
+atayatirimortakligi.com
 ataytportfoy.com
 atchfulvoca.top
 atcounterfeit.top
@@ -15306,6 +15308,7 @@ brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
 brdamhrsrarandvzhmzr.sbs
 brdan182rvdals.store
+brdanglpbrayarvalcn.com
 brdanlardankzdenlrden.com
 brdanlardanszlardans.shop
 brdanrvdal182.org
@@ -18000,6 +18003,7 @@ cemrevakfi.com
 cemusu.store
 cenabet.online
 cenedenemexxlerxxinvaxxrtevsi.xyz
+cengaverkel.click
 cengaverkel.sbs
 cengaverkel.xyz
 cengizholdingvakfi.org
@@ -37446,6 +37450,7 @@ glbdijital.com
 glbimgum.net
 glblbinnceeiadesi.net
 glbldstekekibi.net
+glbrdrvalsn.com
 gld1aldv0indrim-5.com
 gldn-1-aldn-0-zamni-1.com
 gldnmask.com
@@ -42526,6 +42531,7 @@ hizlbudgetarackiralasana.space
 hizlgecisbakieyukleme.web.app
 hizlgecisonlnebakye.lat
 hizlgecsdolumu.org
+hizlgecsyuklme.art
 hizlgirism9.sninix.space
 hizli-acikdenizbireyselkredibasvurugiris.site
 hizli-acikdenizbireyselkredibasvurugiris.space
@@ -47591,6 +47597,7 @@ isbnkasiwebsubayrnti50.shop
 isbnkasiwebsubayrntil22.shop
 isbnkasiwebsubayrntilr2.shop
 isbnkasiwebsubayrntilr6.shop
+isbrakasi.com
 isbryselbasvrular.online
 isbsvrlfmd.com
 isbtlbkdbasv.com
@@ -53197,6 +53204,7 @@ kuweytturkislemtrgo.fun
 kuxcoinlogiinb.webflow.io
 kuzeyhaberx.site
 kuzeymenkulas.com
+kuzeymenkuldegerleras.com
 kuzeyvakfi.com
 kuzulabs.org
 kv67ym2ka0h72ja.online
@@ -58753,6 +58761,7 @@ millionretaliation.top
 millipiyangom.net
 millisavunmabakaligi.xyz
 millisavunmabakanligi.com
+milliyatirim.com
 milllionario.com
 millstoun.com
 milltsigortaa.com
@@ -61781,6 +61790,7 @@ newstime.tr
 newstopfun.site
 newstransia.com
 newstuoshetys.net
+newsturk.blog
 newsturrkey.com
 newsubtlety.top
 newsvanta.online
@@ -62935,6 +62945,7 @@ nviefodnvm.net
 nvigncelc.b-cdn.net
 nvigorunum.net
 nviirandevun.com
+nviirnndevullarii.net
 nviismm.com
 nviiyyklerndevksdlgkd.net
 nvikdersaerx.net
@@ -84014,6 +84025,7 @@ sustim.online
 susturmasanladel.net
 susunamakomaspornamako.com
 susurlukhaber.is-very-bad.org
+sutgeldsendegelartkherksburdabas34.click
 sutileincir.cfd
 sutveotlak.com
 suvere.iblogger.org
@@ -87639,6 +87651,7 @@ tmxobsvrdhsnawz.net
 tna-afisha.ru
 tnaksomakk.net
 tnapp-arayuz.web.app
+tnb.touchdownvienna.com
 tnews.tr
 tnjugc.top
 tnjxb.com

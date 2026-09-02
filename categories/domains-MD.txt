@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65915
-# Last change: 2026-08-31 13:59:08 UTC (sync mode: full)
+# Records: 65926
+# Last change: 2026-09-02 11:24:57 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15362,6 +15362,7 @@ cc.hotlable.com
 cc.wdnmdnmsl.xyz
 cc171.ddns.net
 cc508irh1.duckdns.org
+cc8ttkv35b.com
 ccaah-ddt.net
 ccagbnp7.duckdns.org
 ccallingbest302011234.tk
@@ -25860,6 +25861,7 @@ gegeagaegaerl.cc
 gegeagaegaerp.su
 gegeagaegaert.ru
 geheppauld.com
+gehie246.com
 gehikirel1.xyz
 geigerfur.ddns.net
 geirgerf.ddns.net
@@ -31627,6 +31629,8 @@ iu4pee5km.duckdns.org
 iu5pkh.duckdns.org
 iu88bpcd.duckdns.org
 iuai9ft.duckdns.org
+iualef.net
+iualef.netczijbh.net
 iubg7mk.duckdns.org
 iuc4mwzu.duckdns.org
 iuefgauiaiduihgs.com
@@ -33466,6 +33470,7 @@ kaspamirror.icu
 kasparsky.net
 kasperky.ddns.net
 kaspersky-corporate.com
+kaspersky-lab.hl.cn
 kaspersky-security.com
 kaspersky-support.com
 kaspersky.host
@@ -37520,6 +37525,7 @@ mebebadestek-tabletdestek.com
 mebramazandestegi.com
 mebtabletdestegi-basvuru.com
 mebtabletdestegi-ebasvuruformu.com
+mebx78e02.com
 mec-caixabank.ddns.net
 mechat.info
 meclisdesteklernakdihibeleri.co.vu
@@ -40278,6 +40284,7 @@ n6x2zw.duckdns.org
 n71u53.duckdns.org
 n76gri3bt.duckdns.org
 n78v9074y.duckdns.org
+n7b8t85zsg.com
 n7ex6t.duckdns.org
 n7lj12d8.duckdns.org
 n7mx02bmq.duckdns.org
@@ -43977,6 +43984,7 @@ paidsupportservice.ddns.net
 paidsupportsvcs.ddns.net
 paiment-netflix.ddns.net
 painel-netturbo.ddns.net
+painelwebradiodigital.awardspace.info
 paintastew.ddns.net
 paintdotnet.ru
 paintersinchristchurch.com
@@ -47201,6 +47209,7 @@ qwhlb5as1.duckdns.org
 qwht6f.duckdns.org
 qwi81g9q.duckdns.org
 qwimdqdnqnweqweqw.net
+qwjre1487.com
 qwlzcbjh.duckdns.org
 qwomljhffe.duckdns.org
 qwpmmspees.info
@@ -55675,6 +55684,7 @@ thething31.zapto.org
 thetriningtan.com
 thetry.ddns.net
 theulti.zapto.org
+theunforgiven.p8.hu
 thevalidinfo.com
 thevalidinfo.info
 thewatersmoney.hopto.org
@@ -64206,6 +64216,7 @@ yildizmt2.com
 yilkoomand.host
 yillik-kart-ucret-iade-basvur.club
 yimjtjmsis.duckdns.org
+yimxg25tiy.com
 yinghuxy.cn
 yinksey.zapto.org
 yiooolf.tk
