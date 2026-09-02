@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102091
-# Last change: 2026-09-02 00:18:06 UTC (sync mode: delta)
+# Records: 102097
+# Last change: 2026-09-02 05:52:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1039,6 +1039,7 @@
 1o1yazindrmlerfrstlarbir.duckdns.org
 1paf1lacebasket.top
 1ptbkx.xdk8ax.cn
+1reklammetaonline.cfd
 1savboa.wixsite.com
 1scdacdx123c123x12312.cfd
 1securecheckpoint.info
@@ -12130,6 +12131,7 @@ belzonnfenmir.com
 bembury.com
 bemcel.com
 benbilekendimibitiremiyorum.click
+bencalsyrmhrsrndvlrdan.shop
 benchdisarmament.top
 benchflame.top
 benchiqiqzhendefeichangshuaiqi.top
@@ -18113,6 +18115,7 @@ ceptesoklarile.online
 ceptesokmarketfirsat.online
 ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
+cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-esube.my-homeip.de
 cepteteb-tr-3yil-ozel.com
@@ -37107,6 +37110,7 @@ giradresim.online
 giramodi-valamoli.lol
 girdimfirsatagisrism.cloud
 giri-sfg.cfd
+girihub.info
 girilenler-de-gr.biz
 girilomn.myvnc.com
 giris-acikdenizhemenkredivonaylat.click
@@ -58538,6 +58542,7 @@ mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssrajhsyyh.icu
 mhssrrrahas.site
+mhssrrrdhas.site
 mht-tickets.ru
 mhtmcntmbk.online
 mhtsrsagdsg.site
@@ -63760,6 +63765,7 @@ odrypyhpgs.storage.googleapis.com
 odsmdicmfdhgsode.net
 odsmdicmfdhgsode.store
 odsmgecme.net
+odsnehgssmdi.cfd
 odsymodme.net
 odtvkr.top
 oduldeneventinichekalsendekacirmabencestart.net
