@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102082
-# Last change: 2026-09-01 21:49:40 UTC (sync mode: delta)
+# Records: 102091
+# Last change: 2026-09-02 00:18:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3601,6 +3601,7 @@ a1vvmalisveris1leri-hizli-siparis.online
 a2-tickets.ru
 a23sks.com
 a352k32452.duckdns.org
+a3xvpexriverglobaef3f.cfd
 a4magan.com
 a54d8425.sieujnx.cloud
 a5p4xs.cn
@@ -8678,6 +8679,7 @@ asdfoafaslroasdl.online
 asdfqff22fasf.blogspot.com
 asdfqwervcxz.net
 asdfsdfgdssdf.duckdns.org
+asdfsdfsdf.duckdns.org
 asdfsdfsdgdf.duckdns.org
 asdfsdfwsdf.duckdns.org
 asdgg3e23g32gg32.com
@@ -18978,6 +18980,7 @@ clearanceail.top
 clearanceextravagance.top
 clearbarometer.top
 clearcapcha.com
+clearhorizonplatform.cfd
 clearingcomplacent.top
 clearingmobilize.top
 clearingsprawl.top
@@ -32411,6 +32414,7 @@ eylulbasvurubancekampanyasi.space
 eylulbasvurufirsatibance.space
 eylulbasvurufirsatikampanyabance.space
 eylulbittibitiyorsla.duckdns.org
+eylulcspkmpny.duckdns.org
 eylulehazirlik.xyz
 eylulehazirlikayi.online
 eylulehazirlikayi.sbs
@@ -42920,6 +42924,7 @@ hizmetnoktasi.net.tr
 hizmetpart.xyz
 hizmetport-alda.de
 hizmetsektoronlie.com
+hizmetservisleriburada.sbs
 hizmett-ailevgenc.pw
 hizmettesiniryokkesintisiz.net
 hizmetutarin.de
@@ -43308,6 +43313,7 @@ honestx.duckdns.org
 honestydegenerate.top
 honestymolecule.top
 honestysnail.top
+honeycombcreativeex3q2zcommercehub.cfd
 honeymentor.top
 honeymooneject.top
 honeymoonhamer.top
@@ -50862,6 +50868,7 @@ kaya-lifonsy-tre-gir.myonlineportal.ch
 kayacarfilo.com
 kayakerpro.coinbase-com.info
 kayakvakfi.online
+kayalaronlinehizmtler.duckdns.org
 kayapromosyonsonu.duckdns.org
 kayavakfi.org
 kaydol.site
@@ -79835,6 +79842,7 @@ siparisverhemen.com
 siparisyolla.site
 siparssepetiniz.click
 sipqortam.xyz
+sipsapsop.click
 sipsicaciktarifler.uk
 sipyzaoo.com
 siqgortaladim.com
@@ -87289,6 +87297,7 @@ timbercage.top
 timberheart.online
 timberio.sbs
 timberlandturkiye.com.tr
+timberwavecommerce.cfd
 time-limited-secure-content.webflow.io
 time-vodafonered.com
 time4servers.org
