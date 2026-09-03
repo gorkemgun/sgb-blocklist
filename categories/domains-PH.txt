@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102168
-# Last change: 2026-09-03 11:21:12 UTC (sync mode: delta)
+# Records: 102212
+# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -622,6 +622,7 @@
 146282-coinbase.com
 146284-coinbase.com
 147260-coinbase.com
+14745155571.duckdns.org
 14765-coinbase.com
 1478c237.lopdl7d.cn
 147d13e5.hwqwwrh.com.cn
@@ -5137,6 +5138,7 @@ ahlatche.vercel.app
 ahlatci-yatirimtr.com
 ahlatcihizli.online
 ahlatcihizli.shop
+ahlatcimenkuldegerler.xyz
 ahlatcimenkulkiymetler.com
 ahmaswe.com
 ahmetafafaan.net
@@ -7955,6 +7957,7 @@ arackiralamaislem.com
 arackiralamala.com
 arackiralamalar.com
 arackiralamalari.org
+arackiralamaonline.com
 arackiralamaserivis.com
 arackiralamasitesi.pw
 arackiralamasozlesmesi.com
@@ -9297,6 +9300,7 @@ aurelionyx.com
 aurelithor.com
 aurionstar.top
 aurnelis.pics
+auronrentacar.com
 aurora-fm.com
 auroralbion.com
 aurorapeak.online
@@ -9700,6 +9704,7 @@ avertdistort.top
 avertreminiscence.top
 averyno.com
 avesfilocar.com.tr
+avesotofilo.com
 aveteton.pro
 avfilo.xyz
 avhizmetler-geciskgm.sbs
@@ -9950,6 +9955,7 @@ avskoc.com
 avskoc.org
 avskocfilo.com
 avskocfilo.net
+avskockiralama.com
 avsonline.com.tr
 avsonlinee.com.tr
 avsonlinefilom.me
@@ -11306,6 +11312,8 @@ baxrowoo.com
 bay-kr.site
 bay.redoveraex.com
 bayanlarlasohbet.live
+bayaravs.com
+bayarotomotiv.com
 bayay0nl3ndiriliy0rs0n.duckdns.org
 baybahcem.com
 bayc.astalyt.top
@@ -24574,6 +24582,7 @@ demlafka.org
 demlenedemlene.sbs
 demlervedemlikbizimisimiz.sbs
 demmonzamani.xyz
+demo-axxel1.com
 demo.axxel1.com
 demo.diogoflix.com
 demo.techcloudltd.com
@@ -26703,6 +26712,7 @@ djalekrnlarivk.net
 djcbasnkdjkas.net
 djflslfjflslfikrorie.blogspot.com
 djh6jn4pj.storage.googleapis.com
+djitalfast-simdikampanya.duckdns.org
 djitalkent.net
 djlover.xyz
 djlphbi.cam
@@ -26954,6 +26964,7 @@ dogalvizyonum.com
 dogamelekleri.org
 doganrandxevu.net
 doganurgazmasa.sbs
+dogarentkurumsalfilo.com
 dogasigorta.net.tr
 dogatarihikonservasyonu.pro
 dogavakfi.com
@@ -27013,6 +27024,7 @@ dogusyolyardim.com
 doguvakfi.com
 dohod.store
 dokkmark-etler.cfd
+dokter-kini.info
 doktoraix.com
 doktorasorun.club
 doktorkantesizigidiklarr-3c0e2bc61ce9.herokuapp.com
@@ -28439,6 +28451,7 @@ e-sube.coin-tr.net
 e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefonportfoyum.com
+e-sube.hedefportfoyfon.com
 e-sube.tefaskurumsal.com
 e-sube.tunafonyonetimi.com
 e-subesiz-vakf-digitale.xyz
@@ -30594,6 +30607,7 @@ enterdismiss.top
 entermonopolise.top
 enterobiliary.com
 enterprisecrisp.top
+enterprisefilo.com
 enterpriseflowcenter.com
 enterprisefrantic.top
 enterpriseinhibition.top
@@ -33508,6 +33522,7 @@ filoarac.com.tr
 filoavcar.com
 filoaviscar.com
 filoaviskiralama.epizy.com
+filocar.net
 filocars.com.tr
 filocars.net
 filocunuzburada.com
@@ -33522,6 +33537,8 @@ filokapida.live
 filokiram.com.tr
 filokoc.net
 filokoc.org
+filokocrental.com
+filokocrental.net
 filokurumsal.com
 filomkira360.com
 filoocars.com
@@ -35161,6 +35178,7 @@ freshsignalhub.com
 freshtech.website
 freshtrail.info
 freshvista.website
+freshy-disk-a786.neerojdaya-finefurniture.workers.dev
 fresora.top
 frespoatr.click
 frictionconceited.top
@@ -35979,6 +35997,7 @@ garentarentacarr.com.tr
 garentarentacarr.shop
 garentarentalcar.com
 garentarentcar.com
+garentarentcar.org
 garentarentecar.com
 garentasuv.com.tr
 garentatr.com
@@ -36396,6 +36415,7 @@ gedewadgsqa.duckdns.org
 gedikesubem.com
 gedikhalkaarz.app
 gedikportfoyum.com
+gediksubem.com
 gedikyatirim.co
 gedikyatirim.info
 gedizelektrikodeme.net
@@ -39910,6 +39930,7 @@ haberler.today
 haberler112233.shop
 haberler11278945.shop
 haberler12342.shop
+haberler1234321.shop
 haberler12348.shop
 haberler1245321.shop
 haberler1256236.shop
@@ -40690,6 +40711,7 @@ hastneisleriogrn.cfd
 hastnene.com
 hastnhrandvm.online
 hastnname.digital
+hastnneneler.com
 hastvdrandvm.online
 hastycommend.top
 hastyepoch.top
@@ -41165,6 +41187,7 @@ hedefon.hedeffon.com
 hedefon.hedefonportfoyum.com
 hedefonmusteripaneli.com
 hedefonportfoyum.com
+hedefportfoyfon.com
 hedefportfoykurumsal.com
 hedefprtfoy.com
 hedeftrader.com
@@ -43045,6 +43068,7 @@ hmenlnkarsan.net
 hmhwoc.top
 hminislmeonkt.com
 hmksym.homes
+hmlknat.net
 hmmhyls.site
 hmmuon.cc
 hmn-basvurbizekatilkmpyanasi.com
@@ -47432,6 +47456,7 @@ investseries.shop
 investsstep.com
 investstepz.click
 investtpaobaykar.com
+investtpapara.com
 investtr.pro
 investturkeyhub.com
 investura.lat
@@ -48672,6 +48697,7 @@ iz4merlili.blogspot.com
 izakdos.dnsup.net
 izakfsss.blogspot.com
 izakkfosa.blogspot.com
+izaorw0f.blogspot.com
 izbunmodemesl.net
 izcmrwodeme.net
 izcvddnykle.net
@@ -48689,6 +48715,7 @@ izelgnnnn.blogspot.com
 izelgqsg.dns.navy
 izelkqrwq.blogspot.com
 izeltas-online.dnsup.net
+izeltas-onlinex.dnsup.net
 izeltasalmak.xyz
 izeltascampnysal.sbs
 izeltasefsaneflrsatlar.com
@@ -50544,6 +50571,7 @@ karacababy.shop
 karacabutik.com.tr
 karacaclub.shop
 karacadagdernegi.com
+karacadiscount.homes
 karacadoms.club
 karacadoms.co
 karacaev.shop
@@ -52115,6 +52143,7 @@ kmpnyaparmsynnbsvr.art
 kmpnyasnbfrfskataa64885.pro
 kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
+kmpnybsvrrrprsmynn15329.pro
 kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.info
 kmpnylrrbsvrrsnfrstlrrr.pro
@@ -57111,6 +57140,7 @@ masaktc.net
 masaktrmobilbinance1.duckdns.org
 masakvezne.com
 masakveznedar.com
+masakveznetalepformu.com
 masalarinkampanyasi.xyz
 masalceptenykle.net
 masaldayanismavakfi.site
@@ -58429,6 +58459,7 @@ mhhrsvatandasgiris.duckdns.org
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
+mhhssrrtaaga.site
 mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
@@ -60885,6 +60916,7 @@ n11order.cc
 n11paketleme.site
 n11shoppingmall.online
 n11sp.net
+n11ssvip.qpon
 n11task.cc
 n11task.com
 n12eas-fasq2363f.com
@@ -65575,6 +65607,7 @@ otoelektronik.fun
 otogalericim.net
 otogaraj.tc
 otogeciscilikservis.net
+otojetplus.com
 otokampanya.co
 otokapindarent.com.tr
 otokiraislemleri.online
@@ -65623,6 +65656,7 @@ otokoctr.rent
 otokoctturkiye.com
 otokocturkey.com
 otokocturkeyfilo.net
+otokofilomkurumsal.net
 otolaraviskiralama724.site
 otomarket.info
 otomatik-verg.com
@@ -75616,6 +75650,7 @@ sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.ilan-onayla.online
+sahibinden-param-guvende.ilan-siparis.online
 sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
@@ -81178,6 +81213,7 @@ sonmtvode.online
 sonniiadegunleri.com
 sonnkazzandiraanfirsatlarrr.com.tr
 sonnktadabrayaynlrsnzs.monster
+sonnnfrstlarrrkmpnyaakredii.pro
 sononayisleminigerceklestiriniz56.urlhedge.website
 sononayisleminigerceklestiriniz56.urlnames.xyz
 sonradabizlersevindiririz.cfd
@@ -87537,6 +87573,7 @@ tkkammk.shop
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
 tkkkiibasvrr.net
+tkkoopjet.com
 tkksgabasvuru.work
 tkktkktkklnsslnkknn.com
 tkktktklaspsrlurklm.com
@@ -89418,7 +89455,9 @@ trendyol.ilanpaylas.net
 trendyol.islem-hizmetlerim-mobil.com.tr
 trendyol.jeabynews.com
 trendyol.korayturk.com
+trendyol.lol
 trendyol.mobilservisin-24.sbs
+trendyol.my
 trendyol.online-store.top
 trendyol.services
 trendyol.space
@@ -89743,6 +89782,7 @@ trkaraca.cfd
 trkaraca.club
 trkaraca.homes
 trkaraca.shop
+trkaracaonline.shop
 trkaracas.shop
 trkatad.nicepage.io
 trkbayramrndevu.b-cdn.net
@@ -94888,6 +94928,7 @@ volta.cfd
 volta1.cfd
 volta2.cfd
 voltaaracsatis.com
+voltabayi.com
 voltafabrika.com
 voltafabrikasi.com
 voltafirsatlarim.cfd
@@ -99752,6 +99793,7 @@ xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
 xzeez.cfd
 xzfsaaszfdsa.net
+xziralmobilonline.duckdns.org
 xzmirimisilemler.net
 xzmrdeglxdn.net
 xzmrderandvvuuodemelerinz.net
@@ -100958,6 +101000,7 @@ yokboyleolaysendegelcabukbasvr.click
 yoksulperver.com
 yolaciktiktmaxmax.net
 yolarabakirala.com.tr
+yolarabakiralama.com
 yolaracfilo.com.tr
 yolarackirala.com.tr
 yolcars.cloud
@@ -101938,6 +101981,7 @@ zohakcoder.com
 zojirushiricecookers.com
 zokemiradu.gifts
 zollok.net
+zolvena.shop
 zolvica.shop
 zolvica.site
 zolvica.store

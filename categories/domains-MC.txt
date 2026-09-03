@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41173
-# Last change: 2026-09-03 11:21:12 UTC (sync mode: delta)
+# Records: 41201
+# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -83,6 +83,7 @@
 0gykuag.xyz
 0j.re
 0knw2300.mypressonline.com
+0liwevrhxdc3s2xk00.com
 0lltfyl.nnabu.ru
 0md22.inm1.com
 0nedrive.agency
@@ -899,6 +900,7 @@
 38shll.ddns.net
 392207622.corolain.ru
 394554879.goloser.ru
+39rwcybep-20pwozhvdrzzy.net
 3a4235ff0ee16fd197855250b0d4b119.com
 3a60dc39.top
 3aaaaaaaasba.ddns.net
@@ -1187,6 +1189,7 @@
 5sad56sa156a.xyz
 5tai.net
 5v66cp.apbbsq.ru
+5wg3w278e3oamlohmcinrkh.live
 5x0ob.uqauv.cn
 5x5web.com
 5xn148.dmxvk.ru
@@ -6766,6 +6769,7 @@ bxahj.icu
 bxaufm.com
 bxcjvnzlbp.net
 bxckdoored.ddns.net
+bxfh.tzcdq.cn
 bxgfqlhs.com
 bxhlsnilqkqtbrv.cn
 bxijvkc.com
@@ -9426,6 +9430,7 @@ cyyf.harverhore.ru
 cyylmvnlbdicpkc.ru
 cyytarssznak.net
 czbrwa.geek
+czijbh.net
 czlsjn.com
 czmsrui.com
 cznburaklalife.site
@@ -10548,6 +10553,7 @@ dlls.ddns.net
 dlnoryuolxttcvp.su
 dlodapps.ru
 dlokis.xyz
+dlosdekr1u18msmov51.net
 dlpossie.ddnsfree.com
 dls-gov.firstcloudit.com
 dltruek.com
@@ -12511,6 +12517,7 @@ euericksx.ddns.net
 eufkmdry.aheouret.ru
 eufxebus.biz
 eugene-examinations-contained-timber.trycloudflare.com
+euioxu.net
 eukshrlmq.com
 eulenformacion.com
 eumk.wak2p.com
@@ -12626,6 +12633,7 @@ ewynslj.com
 ewysvpx.com
 ewzahpx.com
 ex.xnkkg.icu
+ex0x40vmi8qyccxq.net
 ex1uo.rhknt.ru
 ex3mall.com
 ex86r31.u5xq2.ru
@@ -18239,6 +18247,7 @@ inx.ddns.net
 inzerille.com
 inztaqram.ga
 io.blogsite.org
+ioa7xqmhiz26fv5e.info
 ioapp.sbs
 iobit.pro
 iobmasbcd.pw
@@ -18384,6 +18393,7 @@ isarfeuer.com
 isatawatag.com
 isbake.online
 isbigfish.xyz
+isbo31w1o7xk3fztvmgpbv.app
 isbqmjijwnafrsk.su
 isbrs.com
 iscrowdstrikedown.com
@@ -18861,6 +18871,7 @@ jhasgla3ncfer.com
 jhbghlmjhfejbaj.top
 jhdgashgd8978946564.xyz
 jhfbawaiyijlfhw.ru
+jhflt6l0dwminsl494836rb.org
 jhigwncy.com
 jhimbvulw.com
 jhin1.ddns.net
@@ -20326,6 +20337,7 @@ kowersize.fun
 koyokk1.ddns.net
 kozachok777.ru
 kozoheh.com
+kp2-3ur6pe4r8i2hj5.com
 kp519bpa.fireisi.com
 kpdrbgtx.com
 kpelztyb.com
@@ -21244,6 +21256,7 @@ ljkdgcap.com
 ljkmaa.ga
 ljmcaksbq.com
 ljmgkqpoi.com
+ljot1cem6jhzfu53yb9aj3h.app
 ljotikffgt.ikeandsam.ru
 ljpmlpfdbhipvsetb.com
 ljwpyhu.com
@@ -24686,6 +24699,7 @@ nbwvg2egflr8t2da1-wo.com
 nbxqrgyqijcxgri.ru
 nbykjinswdtbrrb.com
 nc-asw.ddns.net
+ncalb1rzb2rq5-3zdx1.app
 ncbdgwe.duckdns.org
 ncdanmark.org
 ncgrassfed.com
@@ -26009,6 +26023,7 @@ oighyktroomqyrf.su
 oihtxqz.com
 oihulpx.com
 oiip.org
+oijfwe.net
 oijkg.com
 oijsd.icu
 oil-unauthorized.at.ply.gg
@@ -26675,6 +26690,7 @@ outuraisam.xyz
 ouvxu2.c1.biz
 ouyrj.com
 ouzp.me
+ov86ayb0fe4ep2b92-645o.com
 ovaduw.com
 over-function-foo-school.trycloudflare.com
 overc.cloudns.asia
@@ -28821,6 +28837,7 @@ qcsnz73dut3tobud2gr.com
 qcxjz.com
 qdfgckvr.com
 qdgbxxnfgnejnpl.su
+qdh71-y6j7vxgw046v4cvgga.live
 qdmagva5.space
 qdmjgumbfuvflbx.su
 qdmxslmjsptu.info
@@ -33867,6 +33884,8 @@ swyhg.com
 sx-facemask.com
 sx.nuihuw.com
 sx.ssgxvx.icu
+sx3cjniwo1bmtqs0vlj-va2f.app
+sx8vuz4smtdol7pg.com
 sxaplutn.com
 sxatqwee.tk
 sxdpoanswmdthkt.su
@@ -34024,6 +34043,7 @@ t816v.adecurvet.ru
 t8610n.mxkg2.ru
 t8kag635zn20.s504w.ru
 t8nptw2h.mywebcommunity.org
+t9ffxu6zhf915fadjv1.app
 t9y84.idraut.ru
 t9z.lol
 taaymhost.ddns.net
@@ -34196,6 +34216,7 @@ tbcbm.com
 tbcmuygulamasipandmeiyardim12.com
 tbcmuygulamasipandmeiyardim14.com
 tbcmuygulamasipandmeiyardim9.com
+tbdqxq.net
 tbefoarcv.com
 tbelement.niccenter.net
 tbjrpv.biz
@@ -35070,6 +35091,7 @@ tmppaparazi.dynu.net
 tmpybh.com
 tmqywleu.com
 tmrdjfkp.com
+tmsq.tzcdq.cn
 tnagofsg.com
 tnevuluw.biz
 tnfbkkbcsgeldui.com
@@ -37750,6 +37772,7 @@ vurularaparkatiamansizz.com
 vuruldukbea.xyz
 vuryza.ga
 vushtech.sbs
+vutjsf0sd9sdqt2rkzvgzv9a.org
 vuwzer.com
 vuzadsty.com
 vv0zz.bzwkt.com
@@ -37840,6 +37863,7 @@ w3ue6.uqauv.cn
 w3xasv14culvnqj.top
 w49l1.xusloc6.com
 w4ak8w9e2.atrishino.ru
+w4iunvbdvjof39q-3.net
 w4yn3st0ne.xyz
 w51w.worldassitencia.com
 w549c.rewhe.ru
@@ -38307,6 +38331,7 @@ wffewiuofegwumzowefmgwezfzew.site
 wffhcrmxhr.riveabr1.com
 wfinance.org
 wfjufi.cfd
+wfmwsj.net
 wfneo.com
 wfpscripts.homeunix.com
 wfrqvxmakmcebbclx.org
@@ -39620,6 +39645,7 @@ xkrlmn.tk
 xkxjaqtxilsvxle.ru
 xkxvyirsyqmrwyt.su
 xl.luodixijin.com
+xl0ph4qz.vip
 xldll.xijingdafa.com
 xlepsnodb.com
 xlfgmsenk.com
@@ -39805,6 +39831,7 @@ xtgfujmknprb.ru
 xtibh.com
 xtnuvhtltlvfyoi.cn
 xtools.lol
+xtpj2bzxip6iq7n3bnz.info
 xtsj.ofdad3.com
 xtsj.sisenji.com
 xtsj.syshebe.com
@@ -40838,6 +40865,7 @@ zfihdel.com
 zfnyvebji.com
 zfoblhgpc.com
 zfrb.info
+zfu4n4kxgmx32hsqg.cc
 zfuatep.com
 zgfrnpoyk.com
 zggvulupczdfrxj29.com

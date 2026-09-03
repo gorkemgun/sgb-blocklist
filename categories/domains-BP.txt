@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258029
-# Last change: 2026-09-03 11:21:12 UTC (sync mode: delta)
+# Records: 258047
+# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -51707,6 +51707,7 @@ bsvrrrkmpnyacklssss.pro
 bsvrrrkmpnyasnfrslatrrr25147.info
 bsvrrrkmpnyasnfrslatrrr25147.pro
 bsvrrrkmpnyyaaprmsyonnn.click
+bsvrrrkmpnyyykrediiifrstlrr.info
 bsvrrrkmpnyyykrediiifrstlrr.pro
 bsvrrrkmponyaaprmsyn.click
 bsvrrrkmpyyynyyykrediiifrstlrr.info
@@ -53970,6 +53971,7 @@ bva-garente.icu
 bva-garente.shop
 bva-global.lat
 bva-lite.shop
+bva-mobile.shop
 bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
@@ -56547,6 +56549,7 @@ cebtekampanyan.com
 cebtekampanyaniz.com
 cebtekimobilplatform.sbs
 cebtemobilim.com
+cebteteb-com.my-homeip.de
 cebteteb-mobil-giris.tk
 cebteteb-tr-bonus.com
 cebteteb-tr-mobil-puan.com
@@ -57460,6 +57463,7 @@ cepte-teb-aidat-basvuru.tk
 cepte-teb-bireysel-banka.com
 cepte-teb-bireyselsubesi.com
 cepte-teb-com-tr.ml
+cepte-teb-com-tr.my-homeip.de
 cepte-teb-com-tr.tk
 cepte-teb-egiris.com
 cepte-teb-emekliye.my-homeip.de
@@ -95543,6 +95547,7 @@ footnotemgir.pw
 foqebube.com
 for-end-wait.cfd
 for-your.site
+forarackiralama.com
 forasanalgidapzrlama.online
 forasanalpazarlama.online
 forbs.life
@@ -104504,6 +104509,7 @@ grandpashabet.cyou
 grandpashabet2l51.com
 grandpashabet4579.com
 grandstudy.space
+grandtemizelotel.com
 grandtkla500bnkrdial.net
 grandvisionforge.com
 grandyarn.com
@@ -108580,6 +108586,7 @@ haberler54232.shop
 haberler554.shop
 haberler568794.sbs
 haberler66242.sbs
+haberler78945.sbs
 haberler852334.com
 haberler8834232.shop
 haberleralir.xyz
@@ -111972,6 +111979,7 @@ halkparafsubeniz.ga
 halkparafsubeniz.ml
 halkparafsubeniz.tk
 halkparafyanimda.tk
+halkrafaelo.space
 halkrson.site
 halks-bank.com
 halks3432423420.xyz
@@ -114774,6 +114782,7 @@ hedefmenkul.net
 hedefmenkuldeger.com
 hedefmenkuldegerler.com
 hedefon.hedefonmusteripanel.com
+hedefon.hedefportfoyfon.com
 hedefonmusteripanel.com
 hedefplanlamasi.online
 hedefportfoy.net
@@ -134461,6 +134470,7 @@ islemler-hizli-basvuru.online
 islemler-hizli-giris-qnb.life
 islemler-hizli.shop
 islemler-kampanyateb.com
+islemler-kredi-garanti.duckdns.org
 islemler-m.com.tr
 islemler-merkezi.site
 islemler-online-parm-guvnde.shop
@@ -162800,6 +162810,7 @@ mobilislemlerzrat.cf
 mobilislemlerzrat.ga
 mobilisube.com
 mobilite-denizden.com
+mobilite-pr-g.myonlineportal.ch
 mobilitebasvurus.sbs
 mobilitecebasvurusulari.sbs
 mobilitecebbasvurusu.sbs
@@ -174874,6 +174885,7 @@ onlinerandevularim.com
 onlinerandevum.online
 onlinerandevunuz.online
 onlinerandvuhizmti.xyz
+onlinereklamlarmeta.cfd
 onlinerendevyunuz.net
 onlineresmibncstr.com
 onlineresmigiris-hizlibasvurma.com
@@ -193882,6 +193894,7 @@ s-guvenliode.net
 s-guvenliodeme-sahibinden.com
 s-guvenliodeme.net
 s-guvenliodeme.online
+s-guvenliodemebiriminiz.duckdns.org
 s-guvenliodemem.com
 s-guvenliodemenoktasi.com
 s-guvenliodemeyap.com
@@ -199194,6 +199207,7 @@ saricicek10.buzz
 saricicek5.buzz
 sarikizlarimmm.sa.com
 sarilarabiteriiiz.shop
+sarimeta3355.shop
 sarimsak-satin-al.dropei.de
 sarinsan21-2b5ce551507d.herokuapp.com
 sarinsan211-c047649c9dc2.herokuapp.com
@@ -200691,6 +200705,7 @@ sende-hemenkaznbasvurkmpyanyasi.com
 sende-henen-faydalan.kapilarda-ptt-kargohizmetleri-kapinizda.shop
 sende-iyiki-bundan-derecesine-alin.cfd
 sende-katil-suprizhediyeler.line.pm
+sende-katil.online
 sende-katilarak-biraz-fazla-iyi-yapmis-oldun.com
 sende-katilbizekazankmpnya.com
 sende-katilkampany-ozelbasvru-online.cf
@@ -222796,6 +222811,7 @@ trendyol.exprestr.net
 trendyol.guvenli-hizmet.online
 trendyol.ilanservis-odemen.online
 trendyol.ile-alimin.com
+trendyol.im
 trendyol.iranshik.com
 trendyol.it.com
 trendyol.lat
@@ -234432,6 +234448,7 @@ viodelavergiode.tk
 vioedarlerevren.duckdns.org
 vioevofearlescanis.com
 vioevrenfearles.com
+viogarxnti.ice.fo
 violationformhelp.com
 violationhelpcentre.com
 viosalkampanya.online
@@ -257460,6 +257477,7 @@ zirtaabnnkss.camdvr.org
 zirtajcsdcadsa1xs12.cfd
 zirtat.cfd
 zirtbastvsu.nicepage.io
+zirtmobilonlineislemlerimtrx.duckdns.org
 zirtolar-ggsd.cfd
 zirtpirt2fa-fitwb.wordpress.com
 zirttarimisletmeleri.com

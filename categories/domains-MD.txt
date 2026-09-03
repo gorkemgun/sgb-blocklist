@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65941
-# Last change: 2026-09-03 11:21:12 UTC (sync mode: delta)
+# Records: 65942
+# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -47953,6 +47953,7 @@ reblychat.com
 rebramarg.xyz
 rebretaci.com
 recaptcha-in.pw
+recapture-robot.today
 recarga-nequi.duckdns.org
 recaswine.ro
 recbzvrpdz.duckdns.org
