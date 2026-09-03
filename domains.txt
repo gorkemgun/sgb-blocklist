@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468532
-# Last change: 2026-09-03 19:53:56 UTC (sync mode: full)
+# Records: 468554
+# Last change: 2026-09-03 22:37:52 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4984,6 +4984,7 @@
 1472589662.xyz
 147260-coinbase.com
 14745155571.duckdns.org
+14745155571455.webredirect.org
 14752563253asd.com
 14755866522sdd.com
 14765-coinbase.com
@@ -55951,6 +55952,7 @@ avscarrent.avsonlinee.xyz
 avscarrent.genel-merkez.com.tr
 avscarrent.onlinebireysel.com.tr
 avscarrental.net
+avscehwvsvanasb.org
 avsecretarial.com
 avsecurityorbit.com
 avsfilo.online
@@ -67409,6 +67411,7 @@ belowcustody.top
 belowtireddutchcopy.com
 belpost-by.lol
 belsis.art
+belsis.buzz
 belsis.click
 belsis.ink
 belsis.online
@@ -96805,6 +96808,7 @@ caydanlik-firsat.net.tr
 caydanlik-firsat.org.tr
 caydanlikburada.vercel.app
 caydanlikburda.vercel.app
+caydanlikkampholding.com
 caydanlikyenikampanya.com.tr
 cayeconstruction.com
 cayenasserver.duckdns.org
@@ -97629,6 +97633,7 @@ cebtetebonline.com
 cebtetebonusu.com
 cebtetebsube.online
 cebtetebyukle.com
+cebtetep-com.my-homeip.de
 cebteyimteb.com
 cebttebmfrsatlar.cloud
 cebucafe.net
@@ -97703,6 +97708,7 @@ cek1l1sz9raat.myaddr.io
 cekbinbesyuzduman.com
 cekdoangsss.duckdns.org
 cekdumanicek.shop
+cekememezlikvar.sbs
 cekiilislerburada.gq
 cekildenizonline.com
 cekilelnsdwe.net
@@ -145158,6 +145164,7 @@ edosyagoruntule.org
 edosyakontrol.net
 edosyam.org
 edosyamaliye.org
+edosyasorgu.com
 edosyasorgu.org
 edosyasorgula.org
 edosyasorgulama.org
@@ -159637,6 +159644,7 @@ eylulkapindaindirimii.online
 eylulkapsamayi.sbs
 eylulkasimfirsatlari.shop
 eylulkataloglariniperakendegoruntuleveyararlan.com
+eylulkmpnybslngc.duckdns.org
 eylullaktuelkampanyalari.com
 eylullaktuellkampanyalari.com
 eylullayifirsatt.online
@@ -182648,6 +182656,7 @@ gizliden-anahatara-bunlarindabilinesi-illaki-gorunurde.top
 gizliden-severiz-bunun-icin-kosturmaca-devam.com
 gizlidijital.digital
 gizlidoga.org
+gizlieyllkmpnysi.mywire.org
 gizlihayranimi-sorgula.com
 gizlihedef.xyz
 gizlilok.org
@@ -186023,6 +186032,7 @@ gratis.from-ks.com
 gratis.from-ky.com
 gratis.from-oh.com
 gratis.from-va.com
+gratis.ghy3.com
 gratis.globalscholarpress.com
 gratis.groogle-analytics.com
 gratis.homelinux.net
@@ -192600,6 +192610,7 @@ haberler4722.shop
 haberler47823.shop
 haberler47852.shop
 haberler48751.sbs
+haberler53454321.shop
 haberler54232.shop
 haberler543343.shop
 haberler554.shop
@@ -252081,6 +252092,7 @@ kedicik.pw
 kedicik.tech
 kedicik.vip
 kedicikno1.xyz
+kediciksorgupaneli.online
 kedilicuzdan.com
 kediralopez.church
 kedkeldoeldeqdsd123dsad23123.net
@@ -280438,6 +280450,7 @@ mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
 mhhssrrtaaga.site
+mhhssrrtabga.site
 mhibhglwemp.org
 mhie8769t.duckdns.org
 mhigcb.com
@@ -295787,6 +295800,7 @@ newgaranti.online
 newgensedd.ddns.net
 newgenseddserver.ddns.net
 newglowhideout.pro
+newgnrylevbiitimi.giize.com
 newguide.tech
 newguncelgarantislemleri.duckdns.org
 newgunlerindyz.cfd
@@ -310515,6 +310529,7 @@ onlineziraatsubesi.com
 onlinezirate.com
 onlineziratsube.com
 onlinezirratislemlere.com
+onlinezlraatmenuglrls.duckdns.org
 onlinezraat.cfd
 onlinhsfsfsegs.tk
 onlinine.com
@@ -316937,6 +316952,7 @@ panel-spectrum.net
 panel.352game.pw
 panel.808panel.shop
 panel.allthe.site
+panel.alwaysdata.net
 panel.alwayspower.me
 panel.alwayspower.pl
 panel.alwayspower.site
@@ -317009,6 +317025,7 @@ panelrat.com
 panelreshuffle.top
 panels.fun
 panelsec.ddns.net
+panelsorgu.buzz
 panelsorgu.space
 panelsorgu.xyz
 panelss.xyz
@@ -326022,6 +326039,7 @@ plush-toys.co.il
 plushaber.club
 plushizmetlerim.xyz
 pluskampanya.com
+pluskurumsal.net
 plusmark.tech
 plusmarketim.click
 plusmarketin.com
@@ -349085,6 +349103,7 @@ ruhsuzpanel.lol
 ruhsuzpanel.online
 ruhsuzpanel.site
 ruhsuzpanel1.site
+ruhsuzpanel2.site
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
@@ -371725,6 +371744,7 @@ sizsevmeyindiyevarim.net
 sizsizolmaz.net
 siztakip.icu
 siztekbenhep.xyz
+sizvarsakbizvarizbizsetisaglariz.sbs
 sizvarsaniz-bizlerede-sadecesize-getirerek.top
 sizveodeme.website
 sj.lazadala.com
@@ -376757,6 +376777,7 @@ sorgupaneli.shop
 sorgupaneli.site
 sorgupaneli.store
 sorgupaneli.vip
+sorgupaneli.world
 sorgupaneli.xyz
 sorgupanelim.com
 sorgupanelim.com.tr
@@ -408349,6 +408370,7 @@ tt8xrqaq.duckdns.org
 tt9wezu34.duckdns.org
 tta3p0px47q0.icu
 ttaecxu.duckdns.org
+ttagnlerndyzbizz.giize.com
 ttakcanbamanca.xyz
 ttakip.com
 ttakip.net

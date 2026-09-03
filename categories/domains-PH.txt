@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102239
-# Last change: 2026-09-03 19:53:56 UTC (sync mode: full)
+# Records: 102258
+# Last change: 2026-09-03 22:37:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -623,6 +623,7 @@
 146284-coinbase.com
 147260-coinbase.com
 14745155571.duckdns.org
+14745155571455.webredirect.org
 14765-coinbase.com
 1478c237.lopdl7d.cn
 147d13e5.hwqwwrh.com.cn
@@ -9944,6 +9945,7 @@ avscarfilo.net
 avscarfilom.com
 avscarrent.genel-merkez.com.tr
 avscarrental.net
+avscehwvsvanasb.org
 avsfilo.online
 avsfilocar.org
 avsfilokurumsal.com
@@ -12136,6 +12138,7 @@ belowcustody.top
 belowtireddutchcopy.com
 belpost-by.lol
 belsis.art
+belsis.buzz
 belsis.click
 belsis.ink
 belsis.online
@@ -17801,6 +17804,7 @@ cayaypaketsin.lat
 caycial.online
 caydanlikburada.vercel.app
 caydanlikburda.vercel.app
+caydanlikkampholding.com
 cayeconstruction.com
 cayfirsatialtili.com
 caykurturkiyeyudum.me
@@ -17937,6 +17941,7 @@ cehennem.online
 ceilingexcerpt.top
 cejx3ah.ytyukai.cn
 cekbinbesyuzduman.com
+cekememezlikvar.sbs
 cekiliiss.com
 cekilis--araba.live
 cekilis--binance.com
@@ -32476,6 +32481,7 @@ eylulgunlerinb.gleeze.com
 eylulgunlerineazkaldi.ezgateway.net
 eylulgunsonlari.duckdns.org
 eylulkapsamayi.sbs
+eylulkmpnybslngc.duckdns.org
 eylullayifirsatt.online
 eylullayihaftasonu.xyz
 eylullayiipersembe.xyz
@@ -37405,6 +37411,7 @@ gizemlizamanlaryardimvakfi.com
 gizeotek.com
 gizlenebilir-mobilya-ile-konforlu-ve-duzenli-yasam.top
 gizlialanadi.net
+gizlieyllkmpnysi.mywire.org
 gizlihedef.xyz
 gizliyollar.pro
 gizmizbizcizgizghel.net
@@ -38348,6 +38355,7 @@ gratis.dnsdojo.com
 gratis.dumfi.com
 gratis.from-ca.com
 gratis.from-in.com
+gratis.ghy3.com
 gratis.globalscholarpress.com
 gratis.homelinux.net
 gratis.is-a-caterer.com
@@ -39987,6 +39995,7 @@ haberler421352.shop
 haberler4422424.shop
 haberler4561.sbs
 haberler47852.shop
+haberler53454321.shop
 haberler543343.shop
 haberler562346.sbs
 haberler5632494.sbs
@@ -51111,6 +51120,7 @@ kedicik.pro
 kedicik.pw
 kedicik.tech
 kedicik.vip
+kediciksorgupaneli.online
 keebass.com
 keegass.com
 keeging.com
@@ -58481,6 +58491,7 @@ mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
 mhhssrrtaaga.site
+mhhssrrtabga.site
 mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
@@ -61775,6 +61786,7 @@ newforestjoyzonega.world
 newfreshg.com
 newfuturemodern.online
 newglowhideout.pro
+newgnrylevbiitimi.giize.com
 newgzmligunlerdyzbiz.duckdns.org
 newhalk.net
 newhimera.site
@@ -64974,6 +64986,7 @@ onlineyolcu360.co
 onlineyolcu360.com
 onlineyonlendirmeaktarim.site
 onlineyuklemebayisi.tk
+onlinezlraatmenuglrls.duckdns.org
 onlinhsfsfsegs.tk
 onlinnee-pazar-101-de.com
 onlinnehzmtlerim.com
@@ -66487,6 +66500,7 @@ panel-g.online
 panel-merkez.net
 panel.352game.pw
 panel.808panel.shop
+panel.alwaysdata.net
 panel.alwayspower.me
 panel.alwayspower.pl
 panel.alwayspower.site
@@ -66526,6 +66540,7 @@ panellgedihmen.net
 panelquark.online
 panelreshuffle.top
 panels.fun
+panelsorgu.buzz
 panelsorgu.space
 panelsorgu.xyz
 panelugutd.online
@@ -68815,6 +68830,7 @@ plusfabricate.top
 plusfilokiralama.com
 plusghost.site
 plushaber.club
+pluskurumsal.net
 plusrewards.com.au.coinbase-com.info
 plustakip.com
 plutocrats.site
@@ -74894,6 +74910,7 @@ ruhsuzpanel.lol
 ruhsuzpanel.online
 ruhsuzpanel.site
 ruhsuzpanel1.site
+ruhsuzpanel2.site
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
@@ -80216,6 +80233,7 @@ sizlrlrbulstrmakicin.info
 siznicinfirsatnni.com
 sizsevmeyindiyevarim.net
 siztakip.icu
+sizvarsakbizvarizbizsetisaglariz.sbs
 sjbkpa.top
 sjdieselservices.com
 sjelsxksmfws.site
@@ -81449,6 +81467,7 @@ sorgupaneli.pw
 sorgupaneli.shop
 sorgupaneli.site
 sorgupaneli.store
+sorgupaneli.world
 sorgupanelim.com.tr
 sorgupanelim.xy
 sorgupanelim.xyz
