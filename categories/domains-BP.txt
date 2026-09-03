@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258047
-# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
+# Records: 258063
+# Last change: 2026-09-03 19:53:56 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -487,6 +487,7 @@
 0nl1neflrstlaragustos.com
 0nline-akbank.testyourphishing.com
 0nline-gov.com
+0nline-sok-market.duckdns.org
 0nlinealdat-ehiz.com
 0nlinebasvurularimfakifsube.net
 0nlineislemtr.net
@@ -37145,6 +37146,7 @@ benburdaykenkimseekmekyiyemez1.net
 benburdaykenkimseekmekyiyemez2.net
 benburlarnherseyncanlagrdm35.info
 bencalsyrmhrsrndvlrdan.lol
+bencalsyrmhrsrndvlrdan.sbs
 bence-burdaan-al.com
 benceklmerkyfatszklrd.shop
 bencesorsenlezr.online
@@ -99400,6 +99402,7 @@ garantisorgylamaekrani.com
 garantisorgylamaekrani2024mayis.com
 garantisubatkampanyalari.pt
 garantisubatkampanyasi.tk
+garantisube-gir-passwordentrypersonal.myonlineportal.at
 garantisube-gir-passwordentrypersonal.myonlineportal.de
 garantisube-online.sbs
 garantisube-trtr.com
@@ -149989,6 +149992,7 @@ kmpnyasizlerle.blogspot.com
 kmpnyasnbfrfskataa64885.online
 kmpnyatbe.com
 kmpnybrd.com
+kmpnybsvrrrprsmynn15329.info
 kmpnyhmn1o1den.org
 kmpnyhmnbrd1o1.com
 kmpnyhmnbrd1o1.info
@@ -171150,6 +171154,7 @@ ogsramazanhgs.com
 ogubimcell.com
 ogunbuguncrfgunundeyiz.cfd
 ogunbugundur.xyz
+ogunlerdyzindrmda.giize.com
 oguzalperoktem.cfd
 oguzhanyaylalininallahiniskeyimm.com
 oguzkaanerdogdu.com.tr
@@ -171317,6 +171322,7 @@ oldnmaasizmt.net
 oldnostnbllradan.shop
 oldrdnbbnei.net
 oldsockdeals.site
+oldsvlseeyluldeyzb.giize.com
 oldthegrntbasvr51headskatl.site
 oldtoneed3d.xyz
 oldu-bile-suan.com
@@ -192272,6 +192278,7 @@ rekabetsonsuz.xyz
 rekarayolgecshgson.duckdns.org
 rekfswrtkwtmd.click
 reklam-bimcell.tk
+reklam-cekilisi.online
 reklam-finansman-mortgage-danismanlik.blogspot.com.tr
 reklam-firma.com
 reklam-flrsatlari-markette.me
@@ -195608,6 +195615,7 @@ sahibinden-get.mobillservishizmetii.com
 sahibinden-get.mobillservisleriniz.com
 sahibinden-get.mobilsepetalim-15.online
 sahibinden-get.mobilsepetalim-35.sbs
+sahibinden-get.mobilsepetalim-40.sbs
 sahibinden-get.mobilservis-1.sbs
 sahibinden-get.mobilservis-15.com
 sahibinden-get.mobilservis-84.sbs
@@ -199126,6 +199134,7 @@ sansli--hediye-burada.online
 sansli--hediyeburada.online
 sansli-hediye--burada.online
 sansli-hediye-burada.online
+sansli-hediye.online
 sansli-hediyeburada.online
 sansli50kisi.com
 sanslibasvuru.sbs
@@ -199144,6 +199153,7 @@ sansligunlerdeyiz.shop
 sanslihaber.online
 sanslihediye--burada.online
 sanslihediye-burada.online
+sanslihediye.online
 sanslihediyeburada.online
 sanslikullanici.com
 sanslilar.sbs
@@ -215473,6 +215483,7 @@ tebci.com
 tebciler.com
 tebclas.com
 tebcom-tr.com
+tebcom-tr.my-homeip.de
 tebcomtrbayramkredinionayla.co.vu
 tebcomtrbayramkredinizonayda.co.vu
 tebcomtrkredibasvurulari.co.vu
@@ -215519,6 +215530,7 @@ tebeylulfirsati.com
 tebfinansaks.com
 tebfinansfx2.com
 tebfirsatbayramim.com
+tebfirsatlar-com-eylulozelkampanya.my-homeip.de
 tebfirsatlarimriodeerlerde.duckdns.org
 tebfirsatsubesi.com
 tebfnansgiris.cloud
@@ -239155,9 +239167,11 @@ www-cepte-teb-com.my-homeip.de
 www-cepte-teb.tk
 www-ceptekapida-marketin.online
 www-ceptekapida-marketin.xyz
+www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com.ml
 www-cepteteb-com.tk
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
+www-cepteteb-ozelkampanya.my-homeip.de
 www-ceptetebimm.com
 www-ceptetebliim.com
 www-cepteteblim.com
@@ -241515,6 +241529,7 @@ www-teb-tr.com
 www-teb.com
 www-teb.tk
 www-tebbank-com-tr.tk
+www-tebfirsatlar-com.my-homeip.de
 www-tebhediyem.com
 www-tebonline-com.tk
 www-tek-no-sa.com.tr
@@ -251254,6 +251269,7 @@ yenigirisztra.com
 yenigrsadresmiz.ga
 yenigun-bngsinds.shop
 yenigundemburadan.net
+yenigundeyizbzlerds.giize.com
 yenigunesvakfi.com
 yenigunleremerhbadiylm.duckdns.org
 yeniguzelgunlerkapida.com

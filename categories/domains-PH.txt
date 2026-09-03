@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102212
-# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
+# Records: 102239
+# Last change: 2026-09-03 19:53:56 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2376,6 +2376,7 @@
 740777id.xyz
 74185236901.cloud
 744de30e.hwqwwrh.com.cn
+745542655465652256.duckdns.org
 745896321kmpyaabsvrrsnfrstlarrr.pro
 74651-coinbase.com
 746578234676856729387.com.tr
@@ -2447,6 +2448,7 @@
 7851254545411.sbs
 7851664.site
 78566452.net
+7865541845186.duckdns.org
 78909.sbs
 78jn0dq.cn
 79608446.9du-flk.shop
@@ -2916,6 +2918,7 @@ a-marktzincrm.xyz
 a-net.com.tr
 a-online-alisveris.sa.com
 a-plakaliborctakibi.info
+a-right-look-mr.myonlineportal.ch
 a-v-m-p-t-t.xyz
 a-visfilo.com.tr
 a-visfilo.xyz
@@ -8884,6 +8887,7 @@ aspectforfeit.top
 aspectoffspring.top
 aspectwelcome.top
 aspenglideupd.info
+aspers.myonlineportal.ch
 aspirationdevastating.top
 aspirebeset.top
 aspirefortnight.top
@@ -17999,6 +18003,7 @@ celestialvista.space
 celestiapod.com
 celestiaresorts.com
 celikzirhli.click
+celk-is-w-g.myonlineportal.ch
 cell-phoneaffixation.top
 cellarea.top
 cellarpropagation.top
@@ -18146,6 +18151,7 @@ ceptetebeva.my-homeip.de
 ceptetebfirsati.xyz
 ceptetebli-kampanya.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
+ceptetep-firsat.my-homeip.de
 ceptev1interxaktiftr.site
 ceptexgibv1.fun
 ceptlyukluyoruz.net
@@ -23579,6 +23585,7 @@ cwfqhgaca-xqdxqxqfa-twfegece.shop
 cwmlzq.top
 cx-fgr-binance-campaign.net
 cx-tok.click
+cxa5402163s5.s.gy
 cxasxsa.nichesite.org
 cxaszs.nichesite.org
 cxbzv0e.cn
@@ -26101,6 +26108,7 @@ dijitaldunyayenifikirlervegirisim.xyz
 dijitalekonomikdestekmobil.xyz
 dijitaleozel-denizacik.com
 dijitalesube-denizacik.com
+dijitalfast-hizal.duckdns.org
 dijitalfast-hizlikampanya.duckdns.org
 dijitalfast-kampanya.sbs
 dijitalfon-denizacik.com
@@ -36063,6 +36071,7 @@ garrentttaacarr.com
 garrrentaa.shop
 gartnix21j3x12jk1x2.sbs
 garulouscuto.com
+garvioxd.ice.mom
 garyg.cn
 garyring.org
 gas-tech.online
@@ -37783,6 +37792,7 @@ gofuture-games.ru
 gogainiq.click
 gogazy.com
 gogle-travelflights.com
+gogle-travelflights.info
 goglespactr.click
 gogol-centr.com
 gogolcentr.ru
@@ -40356,6 +40366,7 @@ halkmobilgiris.duckdns.org
 halknburassendegel81.click
 halkora.net
 halkplanlama.net
+halkrafaelo.online
 halksaglik.monassist.com
 halksigortaacentesi.com
 halksigortaci.com
@@ -43044,6 +43055,7 @@ hlgpjv.cc
 hlgsgxsiniz.net
 hlk-frasstkmp.sbs
 hlkbn2.blogspot.com
+hlkenta.net
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
 hlloo-wallet.webflow.io
@@ -43667,6 +43679,7 @@ housewifemother.top
 housewiferegimental.top
 housewifewharf.top
 houseworkcurfew.top
+hovenstler.duckdns.org
 hoverdeprivation.top
 hovernoise.top
 hovr.monster
@@ -50569,6 +50582,7 @@ karaca-sultann.club
 karaca-temmuz.shop
 karacababy.shop
 karacabutik.com.tr
+karacabuy.homes
 karacaclub.shop
 karacadagdernegi.com
 karacadiscount.homes
@@ -50611,6 +50625,7 @@ karacashop.homes
 karacashopping.homes
 karacasofrac.homes
 karacasofras.homes
+karacasonline.shop
 karacastore.club
 karacastr.homes
 karacatc.com
@@ -51806,6 +51821,7 @@ kisalt.kisalink.cc
 kisaltbendenmi.live
 kisaltbunu.dpdns.org
 kisaltmalariniz.com
+kisaltsaniza.space
 kisaltyo.click
 kisaparlament.net
 kiscrrefrsa.cfd
@@ -54261,6 +54277,7 @@ liftallotment.top
 liftogen.digital
 liftosensor.com
 liftpropel.top
+liftrak-l-g-r-l.myonlineportal.ch
 liftrich.pics
 lifttec.lat
 lifuzhao.xyz
@@ -54994,6 +55011,7 @@ lokomotive-basket.ru
 loli32.vip
 lolihigi-logederese.lol
 loliipop.site
+lolmetareklamfalan.shop
 lolohugufre-redesede.lol
 lolophiidae.org
 loloyagel.click
@@ -57872,6 +57890,7 @@ meharrrese.com
 meheresebayram2.sbs
 meherse.com
 mehersel.com
+meherselerle.com
 mehersem.com
 mehhrs.dns.navy
 mehhurst.com
@@ -58104,6 +58123,7 @@ merkezcicekci.com
 merkezcicekcilik.site
 merkezdekayit.abrdns.com
 merkezdenguncel.abrdns.com
+merkezdensize.abrdns.com
 merkezdernegi.com
 merkezdernegi.net
 merkezdukkanim.xyz
@@ -58456,6 +58476,7 @@ mhhrdw.com
 mhhres.dns.navy
 mhhrrss.com
 mhhrsvatandasgiris.duckdns.org
+mhhsrssahsa.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
@@ -64610,6 +64631,7 @@ onlineacenta365.site
 onlineacenta365.xyz
 onlineactivasyononaysorgulama.run.place
 onlineactivasyonsorgu.run.place
+onlineads.cfd
 onlineageldifirsatim.shop
 onlineaidatiade.com
 onlineakktuslss-hemenal.com
@@ -74868,6 +74890,7 @@ rufaho.com
 rugeihrgf.info
 rugglitter.top
 rughurt.top
+ruhsuzpanel.lol
 ruhsuzpanel.online
 ruhsuzpanel.site
 ruhsuzpanel1.site
@@ -81412,6 +81435,7 @@ sorgupanel.online
 sorgupanel.shop
 sorgupanel.site
 sorgupanel.store
+sorgupaneli.art
 sorgupaneli.cc
 sorgupaneli.com
 sorgupaneli.com.tr
@@ -91887,6 +91911,7 @@ ulusalyardim.com
 ulusalyolculuk.com
 ulusburs.com
 ulusburskurulusu.com
+uluslararasibelge.com
 ulusmevlana.online
 ulusoykurumlari.org
 ulusyardimvakfi.com
@@ -94307,6 +94332,7 @@ vertransmitcontrol.com
 vertyingmassakbntakim.org
 verververakdos.com
 verxigiodemev.net
+very-adlim-look.myonlineportal.ch
 very128918.site
 very1929412.netlify.app
 very21bundle.top
@@ -99793,6 +99819,7 @@ xyzsystem.xyz
 xzcvcbvmnsaddfgsdfgfsssa59.click
 xzeez.cfd
 xzfsaaszfdsa.net
+xziraalglrlsonlineislem.duckdns.org
 xziralmobilonline.duckdns.org
 xzmirimisilemler.net
 xzmrdeglxdn.net
