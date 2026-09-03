@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102142
-# Last change: 2026-09-02 22:40:58 UTC (sync mode: delta)
+# Records: 102153
+# Last change: 2026-09-03 01:08:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8857,6 +8857,7 @@ asmdkasmk43k712.duckdns.org
 asmtal.online
 asnasnahyaaslananala.49843544322684.sbs
 asncxbyaaasdanala.48465498456.sbs
+asncxbyaaasdanala.4875648646541.sbs
 asncxbyaaasdanala.48965165841844.sbs
 asncxbyaaasdanala.65735677234232.sbs
 asncxbyaaasdanala.84651894561645111.sbs
@@ -18125,6 +18126,7 @@ ceptesoklarile.online
 ceptesokmarketfirsat.online
 ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
+cepteteb-com-tr.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-esube.my-homeip.de
@@ -27552,6 +27554,7 @@ drenostavik.digital
 drenzol.org
 drenzol.shop
 drenzol.vu
+dreo-turkiye.com
 dresatl.info
 dresoklanfirsatlan1o1.xyz
 dresortgocekresort.com
@@ -50021,6 +50024,7 @@ kaitaksdkcj13x12.cfd
 kaitopanel.com
 kaitopititititi.hopto.org
 kajsdslkdjaslkdas.de
+kajuadam.click
 kajujajo.com
 kakakob.net
 kakashiw.net
@@ -52354,6 +52358,7 @@ kodekso.de
 koduplay.com
 koent.website
 kofalu.com
+kofestlerkest.duckdns.org
 koftecialibaba.com
 kofteciyusuff.online
 kofteciyusufum.com
@@ -54462,6 +54467,7 @@ lisbonb-id3913.world
 lisboncity-id1429.world
 lismorecountryhouse.com
 lisnuun.com
+list-next-time.myonlineportal.ch
 listenerintelligible.top
 listenmassacre.top
 listenretrospective.top
@@ -58141,6 +58147,7 @@ mervedursun.com
 mervekocoglu.com
 mervelilo.com
 mervoys.com
+mesaj.cam
 mesansa.net
 mesapa.tk
 mesatanan.net
@@ -58190,6 +58197,7 @@ meta.forbusinessuser.xyz
 meta.user-support-business.cfd
 metaamsklogn.webflow.io
 metaappealform.org
+metabbvreklam.shop
 metabluebadgecenter.com
 metabolicbenevolence.top
 metabolicpoised.top
@@ -59426,6 +59434,7 @@ mobilservisin-15.sbs
 mobilservisin-20.sbs
 mobilservisin-22.sbs
 mobilservisin-32.sbs
+mobilservisin-34.sbs
 mobilservisiniz-10.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
@@ -64797,6 +64806,7 @@ onlinemarketteindirimler.com
 onlinemasakodeme.com
 onlinemediation.top
 onlinememoffsecured.com
+onlinemetareklamlar.cfd
 onlinemobil.com.tr
 onlinemtr.net
 onlinemusicdosbeatport.com
@@ -101166,6 +101176,7 @@ ytfzhe.homes
 ytkslmashnyhhamalklnsbbdgnlka18965.store
 ytm-pltfzone.com
 ytm-trdinvest.com
+ytodaktirgarage34.duckdns.org
 ytrsdsndsn-ytrseresrsr.com
 ytuf2r.cn
 ytunrtyndfgwe.click
