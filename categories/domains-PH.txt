@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102153
-# Last change: 2026-09-03 01:08:40 UTC (sync mode: delta)
+# Records: 102160
+# Last change: 2026-09-03 05:52:28 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -26288,6 +26288,7 @@ dimjunction.top
 dinaldintesterehyundaihemensimdi.xyz
 dinamicmarket.com
 dinamik-hat-verileri.myonlineportal.ch
+dinamiksube.com
 dinamikuygulama.pro
 dinamikuygulamagiris.pro
 dinamo-arena.com
@@ -44138,6 +44139,7 @@ hygmi.com
 hyklmlll.net
 hylkgmbrcodmyl.com
 hymgho.top
+hynzbirts.giize.com
 hype34j.wixsite.com
 hypecraft.site
 hypercheck.ml
@@ -47922,6 +47924,7 @@ istanbulbelgimkartttcann.xyz
 istanbulbelgimm.xyz
 istanbulbelgimmkarttt.xyz
 istanbulbellgiimmm.xyz
+istanbulbelrlgim.xyz
 istanbulbenim3434.xyz
 istanbulberzancan.xyz
 istanbulbilgihaberdiyari.xyz
@@ -58319,6 +58322,7 @@ metoatesoglukraldirr.net
 metoatesoglukraldirrrr.net
 metoatesoglureklamkralidir.net
 metomaskalagin.webflow.io
+metometa3169.shop
 metopallege.com
 metranx.com
 metrefaction.top
@@ -63793,6 +63797,7 @@ odinemicehop.xyz
 odinnazsuhanazraaksel.com
 odinwikdkska.wiki
 odkydl4.cn
+odmdeyklehgs.cfd
 odmephs.xyz
 odmlrnz-burada.tsorg3.xyz
 odmyeyklezmni.cfd
@@ -80475,6 +80480,7 @@ smartwealth24.info
 smashreconciliation.top
 smbc-card.shop
 smdi-frsatlaridgerlendr.shop
+smdiodehgshdiode.cfd
 smdizmnimihgs.cfd
 smdnsb-aldjsa-aljmsna.cfd
 smdnsb-aldjsa-aljmsna.cyou
@@ -81622,6 +81628,7 @@ sowix.xyz
 sowixapi.online
 sowixfree.xyz
 sowixpro.online
+sowixpro.tr
 sowixvip.online
 sowixvip.xyz
 sowixxpro.xyz
