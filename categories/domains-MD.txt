@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65928
-# Last change: 2026-09-02 16:38:48 UTC (sync mode: full)
+# Records: 65941
+# Last change: 2026-09-03 11:21:12 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10301,6 +10301,7 @@ app-meta-helps.duckdns.org
 app-meta-notif.duckdns.org
 app-meta-recove.duckdns.org
 app-meta.duckdns.org
+app-microsoft-edge.com.cn
 app-movil-token-status000001720020ftps9c.duckdns.org
 app-pandemic.com
 app-pandemisosyaldestek.com
@@ -12032,6 +12033,7 @@ bahubalime.com
 baiak-mundial.ddns.net
 baiakzik-pvp24hrs.ddns.net
 baidishenko111.in
+baidu-pan.com.cn
 baiduccdn1.com
 baikooncioso.ddns.net
 baikoratter.ddns.net
@@ -15038,6 +15040,7 @@ calgarytennis.com
 calgokinhim.com
 calhertitthen.com
 caliboaprotectca.ddns.net
+calibre-ebook.com.cn
 california9fraud.ddns.net
 californiaboaedd30.ddns.net
 californiaedd39.ddns.net
@@ -16862,6 +16865,7 @@ cmz12.ddns.net
 cmza13ff.duckdns.org
 cmzeph0.duckdns.org
 cmzhjmdzte.duckdns.org
+cn-drawio.com.cn
 cn1c4ul5k.duckdns.org
 cn3h7k.duckdns.org
 cn6tce.duckdns.org
@@ -16913,6 +16917,7 @@ cnnturk-hepimiz-bir-olduk-esnaf-paketi-basvurunuz.tk
 cnocsna.com
 cnr09p8xo.duckdns.org
 cnrdn.com
+cns-fl.com
 cntadvertising.com
 cntinuaiyupdteuicnfirm.duckdns.org
 cntmc.com
@@ -27366,6 +27371,7 @@ gvvmlkgeog.duckdns.org
 gvx6t3.duckdns.org
 gvxb3t4.zapto.org
 gvzdzb29.duckdns.org
+gw-sogou.com.cn
 gw.denonia.xyz
 gw110w0.duckdns.org
 gw1e57.duckdns.org
@@ -38271,6 +38277,7 @@ mimishka.zapto.org
 mimolachupa.ddns.net
 minapplepay2023.hopto.org
 mindelgate.ru
+mindmoster.com.cn
 mindorbittest.com
 mine.best01011.com
 mine.remaariegarcia.com
@@ -42382,6 +42389,7 @@ oc-2.duckdns.org
 oc.internetdocss.com
 oc2y9g4f.duckdns.org
 ocaginizisonudrurum.fit
+ocam-pc.com.cn
 ocb49yksd.duckdns.org
 occq1a.duckdns.org
 occuactsupports.ddns.net
@@ -44576,6 +44584,7 @@ pbxsources.com
 pbylys-identificat.duckdns.org
 pbzk81v1.duckdns.org
 pbzwsgdzcz.duckdns.org
+pc-razerzone.com.cn
 pc15euj.duckdns.org
 pc34hu.duckdns.org
 pc3hxb9.duckdns.org
@@ -51226,6 +51235,7 @@ seicure003acihase.hopto.org
 seicure005acihase.hopto.org
 seizedsentec.online
 sejainovacao.ddns.net
+sejda.hl.cn
 sejonglog.hopto.org
 sekeetnut.ddns.net
 sekiz12.zapto.org
@@ -53653,6 +53663,7 @@ steancommunity.hopto.org
 steanconmunity.hopto.org
 stearncommunity.duckdns.org
 steelixr.live
+steelseries-cn.com.cn
 steemit.hopto.org
 steeslmaoijwp-srcse.ddns.net
 steezzrr.ddns.net
@@ -56399,6 +56410,7 @@ transcom.ddns.net
 transdcln.ddns.net
 transfercar24.de
 transitcaxip.com
+translate-youdao.hl.cn
 translate99.duckdns.org
 transmercasa.com
 transplanet.ddns.net
@@ -65307,6 +65319,7 @@ zguznng.duckdns.org
 zgv40m.duckdns.org
 zgwe3avu.duckdns.org
 zgx780.ddns.net
+zh-diskgenius.com.cn
 zh49hl3a9.duckdns.org
 zh5emsa.duckdns.org
 zh7fst9b.duckdns.org

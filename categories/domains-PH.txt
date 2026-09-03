@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102160
-# Last change: 2026-09-03 05:52:28 UTC (sync mode: delta)
+# Records: 102168
+# Last change: 2026-09-03 11:21:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3511,6 +3511,7 @@ a16a8499.dj-hd5kfu.shop
 a1892279.nhubiubuniunuion.workers.dev
 a1b40e25.ns-u629df.shop
 a1capital.info
+a1capitalmenkulonline.com
 a1f9961f.lopdl7d.cn
 a1hr.top
 a1i011.cloud
@@ -13464,6 +13465,7 @@ bireyselonlinevakifkredi.xyz
 bireyselozelkampanya-basvur-online.kampanya-basvuru-sayfa.xyz
 bireyselparamguvende-com.ga
 bireyselsiparis.com
+bireyselsiparisin.online
 bireyselsubegiris.com
 bireyselsubem.com
 bireyselyeniyildapuankampanyalarionline.line.pm
@@ -46556,6 +46558,7 @@ infoviewstorage.com
 infowardendoc.com
 infowavequest.shop
 infoxesubem.com
+infoxsube.com
 infoyatirim.pro
 infoyatirim.work.gd
 infoyatirimsube.com
@@ -47428,6 +47431,7 @@ investrovara.com
 investseries.shop
 investsstep.com
 investstepz.click
+investtpaobaykar.com
 investtr.pro
 investturkeyhub.com
 investura.lat
@@ -59389,6 +59393,7 @@ mobilhemendenizbasvurun.info
 mobilhizlibasvuruportalin.info
 mobilhizmetalimlar.com
 mobilhizmetiniz.com
+mobilhizmetlerim1.sbs
 mobilhizmetservisleri-net-com-port-com-sip-hizmet-self-net.net
 mobili.my-homeip.com
 mobilia.my-homeip.com
@@ -79220,6 +79225,7 @@ signal-protect.host
 signal-security.online
 signal-security.site
 signalgroup.site
+signalharbor.blog
 signalplaintiff.top
 signalpost.info
 signals-group.com
@@ -88530,6 +88536,7 @@ tr-bayidyson.site
 tr-bilgi.ink
 tr-binance.com
 tr-binancefirsat.net
+tr-binancelogin.net
 tr-blmceeell.com
 tr-blmcellyklenoktam.com
 tr-blmmcellll.com
@@ -90488,6 +90495,7 @@ tunafonyonetimi.com
 tunaportfoykurumsal.pro
 tunaportfoyonetim.com
 tunaportfoytr.com
+tunaportfoyyonetimitr.com
 tunastra.cc
 tunedia.com
 tunehal.click
