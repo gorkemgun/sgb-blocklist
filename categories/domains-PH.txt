@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102259
-# Last change: 2026-09-04 01:01:43 UTC (sync mode: delta)
+# Records: 102267
+# Last change: 2026-09-04 05:58:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18109,6 +18109,7 @@ cepte-sok.kampanyahaftasiucuzluk.xyz
 cepte-sok.online
 cepte-teb-web-girs-bdkdk.com
 cepte-teblim.my-homeip.de
+cepte-tepli-firsat.my-homeip.de
 cepte-tr.online
 cepte.vakifonay-quajlhe.top
 cepteb.kisalink.cc
@@ -26026,6 +26027,7 @@ diji-internetsiparis.sbs
 diji-login.shop
 diji-mobile.shop
 diji-siparis.sbs
+diji-teb.my-homeip.de
 dijicuucey.com
 dijiitallgarantibasvuru.com
 dijionline-kampanya.sbs
@@ -30693,6 +30695,7 @@ enuygun.rent
 enuygunalisveris.com
 enuygunaracinikirala.com
 enuygunfilo.com
+enuygunsigorta.my-homeip.de
 enuygunsigortaniz.com
 enuyguntramersorgu.blogspot.com
 enuygunum.net
@@ -37413,6 +37416,7 @@ gizeotek.com
 gizlenebilir-mobilya-ile-konforlu-ve-duzenli-yasam.top
 gizlialanadi.net
 gizlieyllkmpnysi.mywire.org
+gizlieyllkmpnysiwax.giize.com
 gizlihedef.xyz
 gizliyollar.pro
 gizmizbizcizgizghel.net
@@ -42594,6 +42598,7 @@ hizlandirmaszamanis.cloud
 hizlbnngiristr.com
 hizlbudgetarackiralasana.space
 hizlgecisbakieyukleme.web.app
+hizlgecisnyuklemesi.art
 hizlgecisonlnebakye.lat
 hizlgecsdolumu.org
 hizlgecsyuklme.art
@@ -58466,6 +58471,7 @@ mgrosshzlrannn.online
 mh-r-al-randv-simdi-hemence.duckdns.org
 mh-rs.182iletisim.click
 mh.cicekcihizli.sbs
+mh1rsf0rm123.com
 mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
 mhat-art-theatre.ru
@@ -100961,6 +100967,7 @@ yklemesrguu.cfd
 yklemeyapbmclll.net
 yklemeyapbnce.net
 ykleodekylesmdi.cfd
+ykleodmehgs.cfd
 yklesmddeme.cfd
 yklmayiz.net
 yklmebslasmdi.cfd
@@ -101892,6 +101899,7 @@ zir-dijitalbasvurular.sbs
 zir-dijitalinternetbasvuru.sbs
 zira-atbank.com
 zira-trade.icu
+ziraa-t-login-int.my-homeip.de
 ziraaat-onlinepb.com
 ziraat-bank.meinkontowechsel.de
 ziraat-bankasi.web.app
