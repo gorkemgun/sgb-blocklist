@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102298
-# Last change: 2026-09-04 16:25:46 UTC (sync mode: delta)
+# Records: 102305
+# Last change: 2026-09-04 19:39:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11293,6 +11293,7 @@ batlad.top
 batnet.live
 batnthesise.top
 batpntiff.top
+batrakossvkad.click
 battalionbruise.top
 batteryjeopardize.top
 battlediscrepancy.top
@@ -26202,6 +26203,7 @@ dijitalnetbilgi-giris.sbs
 dijitalnetwebtr-ziraatbireysel.com
 dijitalonay-denizacik.com
 dijitalonline-hizlisiparis.sbs
+dijitalonline-kampanyaliurunler.duckdns.org
 dijitalonline-sepetsiparis.sbs
 dijitalonlinegiris-denizacik.com
 dijitaloyunvegirisimcilikakademisi.xyz
@@ -33016,6 +33018,7 @@ faultyideology.top
 faultyregiment.top
 fauqlirraxim.site
 faureciausa.com
+favelotu-mikadese.lol
 favorablecorrelative.top
 favorabledeplete.top
 favorablereign.top
@@ -34846,6 +34849,7 @@ formcoincidence.top
 formcopyrighthelps.ml
 formdiator.top
 formdolduryardimdestekgiris.xyz
+formentor.klasna.solm.batrakossvkad.click
 formerspaghetti.top
 formgroove.cn
 formhotelview24.com
@@ -43112,6 +43116,7 @@ hmmhyls.site
 hmmuon.cc
 hmn-basvurbizekatilkmpyanasi.com
 hmnasantasns.net
+hmnbasvrkrdgrnt.lol
 hmnbnlaraglsnde.com
 hmnbsvr.site
 hmnebasvurtyap.co.vu
@@ -60997,6 +61002,7 @@ na1o1.net
 naala.online
 nab-aus-now.com
 nab.apply-now-online-digital.com
+nabandxnsnamsn.org
 nabinshrestha2059.com.np
 nabsali-aldin-aldin.sbs
 nacoxsfgsal.net
@@ -89807,6 +89813,7 @@ trinkinizisisiz.online
 trinkkolay.digital
 trinkpuan.click
 trinksor.net
+trinstroisbank.com
 trinternet.site
 trionvex.live
 trioticprdat.top
