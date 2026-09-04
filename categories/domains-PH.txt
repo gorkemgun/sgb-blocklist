@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102258
-# Last change: 2026-09-03 22:37:52 UTC (sync mode: delta)
+# Records: 102259
+# Last change: 2026-09-04 01:01:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -32482,6 +32482,7 @@ eylulgunlerineazkaldi.ezgateway.net
 eylulgunsonlari.duckdns.org
 eylulkapsamayi.sbs
 eylulkmpnybslngc.duckdns.org
+eylulkmpnykcmz.duckdns.org
 eylullayifirsatt.online
 eylullayihaftasonu.xyz
 eylullayiipersembe.xyz

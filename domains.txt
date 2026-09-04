@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468554
-# Last change: 2026-09-03 22:37:52 UTC (sync mode: delta)
+# Records: 468563
+# Last change: 2026-09-04 01:01:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -43378,6 +43378,12 @@ alisverishizmeti.com
 alisverishizmeti.com.tr
 alisverishizmeti.online
 alisverishizmetin-10.sbs
+alisverishizmetin-20.sbs
+alisverishizmetin-25.sbs
+alisverishizmetin-30.sbs
+alisverishizmetin-35.sbs
+alisverishizmetin-40.sbs
+alisverishizmetin-50.sbs
 alisverishizmetin-55.sbs
 alisverishizmetin.com.tr
 alisverishizmetleri.com
@@ -86608,6 +86614,7 @@ bozuldudengemxlzlx.com
 bozuntiyz.site
 bozzl.top
 bp-certicodepluss.hopto.org
+bp-garantibbva-anna.ph
 bp-petrol.co
 bp10283.com
 bp1n3c4.duckdns.org
@@ -145171,6 +145178,7 @@ edosyasorgulama.org
 edosyatakip.com
 edosyatakip.org
 edosyauyap.com
+edosyauzlasma.com
 edporstalsayfam.com
 edprepaidprocessing.ddns.net
 edqawsedwqaser.com
@@ -159645,6 +159653,7 @@ eylulkapsamayi.sbs
 eylulkasimfirsatlari.shop
 eylulkataloglariniperakendegoruntuleveyararlan.com
 eylulkmpnybslngc.duckdns.org
+eylulkmpnykcmz.duckdns.org
 eylullaktuelkampanyalari.com
 eylullaktuellkampanyalari.com
 eylullayifirsatt.online
