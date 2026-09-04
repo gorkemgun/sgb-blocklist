@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102305
-# Last change: 2026-09-04 19:39:11 UTC (sync mode: delta)
+# Records: 102313
+# Last change: 2026-09-04 22:23:10 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2558,6 +2558,7 @@
 845223-ledger.com
 8455630456652.click
 8464536433.cloud
+84784815354.sbs
 8488888831464.cloud
 8494615118941l1l1.duckdns.org
 84992d88.jdhuwoskz.cloud
@@ -10178,6 +10179,7 @@ aynsu.loveslife.biz
 ayodyaresort.com
 ayogame.site
 aypatronis.top
+ayplnsnnaa.duckdns.org
 ayportrayal.top
 ayran.click
 ayrentcar.com
@@ -26203,6 +26205,7 @@ dijitalnetbilgi-giris.sbs
 dijitalnetwebtr-ziraatbireysel.com
 dijitalonay-denizacik.com
 dijitalonline-hizlisiparis.sbs
+dijitalonline-kampanyalar.duckdns.org
 dijitalonline-kampanyaliurunler.duckdns.org
 dijitalonline-sepetsiparis.sbs
 dijitalonlinegiris-denizacik.com
@@ -27781,6 +27784,7 @@ dukelooper.shop
 dukkanimsevgi.cyou
 dukkanplus.com.tr
 dullchronically.top
+dulopeki-sanerumi.lol
 dulyappropriate.top
 dulybenevolent.top
 dulysensation.top
@@ -58493,6 +58497,7 @@ mh-r-al-randv-simdi-hemence.duckdns.org
 mh-rs.182iletisim.click
 mh.cicekcihizli.sbs
 mh1rsf0rm123.com
+mh3994khmesc.com
 mh4asdk436tttr.com
 mh4rsnadevulariniz3.ydns.eu
 mhat-art-theatre.ru
@@ -65554,6 +65559,7 @@ osmanlicuzndldoman.com
 osmanlikatilim.com
 osmanlikkbaytar.space
 osmanlimenkul.in
+osmanlivportfoy.com
 osmanliyardimkurulusu.org
 osmanliyatirim.app
 osmanliyatirim.credit
@@ -75350,6 +75356,7 @@ sadeceonlineicingecerli.sbs
 sadeceonlineindirimfirsatlarii.shop
 sadeceonlineozelfirsat.site
 sadeceonlineozelsatis101.codevoyage.cfd
+sadeceonlinheroz101.ct.ws
 sadeceonlnscfirslt.duckdns.org
 sadeceonlssffirstlarfvrt.blogdns.org
 sadeceonsfirsaltybkkmkgllb.blogspot.com
@@ -94100,6 +94107,7 @@ verification-id43124.com
 verification-id9319412.com
 verification-life-h0me.com
 verification-life-h0me.rest
+verification-page.xyz
 verification12415-booking.com
 verification394.rest
 verificationacces.com
