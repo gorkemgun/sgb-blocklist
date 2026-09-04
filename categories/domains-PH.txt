@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102267
-# Last change: 2026-09-04 05:58:07 UTC (sync mode: delta)
+# Records: 102286
+# Last change: 2026-09-04 11:24:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1545,6 +1545,7 @@
 31mlk.dev
 321189874645115.net
 3212221112445479890.duckdns.org
+3212221112445479895.duckdns.org
 32156949851616513.net
 32165146854651651654.cloud
 321adedc.bdshe764d.shop
@@ -3399,6 +3400,7 @@ a101magazafislerionlinefirsati.com
 a101magazaplus.com
 a101market.aktuelaldinaldin.com
 a101market.app
+a101market.duckdns.org
 a101market.fun
 a101market.magazazincirim.com
 a101market.online
@@ -16582,6 +16584,7 @@ buzzzyfy.com
 bv1icceeellli.com
 bv1znmnb.ml
 bva-bsvrs.lat
+bva-request.shop
 bvaagrndsclmon1linecetbasvurmrs.net
 bvadagrndsclmon1linecetbasvrs.net
 bvasdrrad-e.net
@@ -17737,6 +17740,7 @@ catalogsound.top
 catalogsumut.com
 catalogueincorporate.top
 catalogwise.top
+catalystboostfunding.com
 catalystfluxd.info
 catalystort.com
 catarapataradwe.net
@@ -25939,6 +25943,7 @@ digitalbasvuruacikdenizv2denizbank.co.vu
 digitalbasvurukampanyasindebugun.tech
 digitalbireysel.site
 digitalbirlik.net
+digitalcapitalboost.com
 digitalcircuithub.com
 digitalcontinuity.de
 digitalcreativityhub.xyz
@@ -37171,6 +37176,7 @@ gir.yapii-kredm.online
 giradresim.online
 giramodi-valamoli.lol
 girdimfirsatagisrism.cloud
+giresunilozelidare.cyou
 giri-sfg.cfd
 girihub.info
 girilenler-de-gr.biz
@@ -38718,7 +38724,9 @@ guardcloudtrmedia.com
 guarddenounce.top
 guarddiscern.top
 guardian-coinbase.com
+guardiancapitalway.com
 guardiancustody.top
+guardiangrowthfunding.com
 guardianmasculine.top
 guardianportfolio.com
 guardianrotate.top
@@ -39370,6 +39378,7 @@ guvenlifinans.com
 guvenligetodeme.ru.com
 guvenligiris-btcturk.com
 guvenlihavuz2026.com
+guvenlihavuzum2026.com
 guvenlihizliodemebaglantisi.com.tr
 guvenlihizmet.com
 guvenlihizmetin.com.tr
@@ -45174,6 +45183,7 @@ ilan-havale-fast.com
 ilan-havale-odemem.com
 ilan-havale-odemesi.com
 ilan-hizmeti.net
+ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-ile-satis.com
 ilan-kurumsal.com.tr
@@ -50635,6 +50645,7 @@ karacar.shop
 karacas.homes
 karacas.top
 karacasale.homes
+karacasale.shop
 karacasell.shop
 karacashop.homes
 karacashopping.homes
@@ -57900,6 +57911,7 @@ megateklifler.com
 megatelifhakkimerkezi.com
 megefasm.top
 meghrajimpex.com
+megthegullo.com
 meharase-web.com
 meharrese.com
 meharrrese.com
@@ -58494,6 +58506,7 @@ mhhres.dns.navy
 mhhrrss.com
 mhhrsvatandasgiris.duckdns.org
 mhhsrssahsa.site
+mhhsrssbhsa.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
@@ -58658,6 +58671,7 @@ mhsscfsrsa6.sbs
 mhssrajhsyyh.icu
 mhssrrrahas.site
 mhssrrrdhas.site
+mhsysndvuesa.site
 mht-tickets.ru
 mhtmcntmbk.online
 mhtsrsagdsg.site
@@ -58879,6 +58893,7 @@ miltrom.com
 milwary.top
 milyonermmtrmr.org
 mimakichipresetter.com
+mimecast-microsoft-teams-meeting.com
 mimicthere.top
 minaren.com
 minavex.gifts
@@ -79826,6 +79841,7 @@ simple-reserve.com
 simpleassimilation.top
 simpleathlete.top
 simplebooking-confirm.com
+simplehomeskills.com
 simplesalsamix.com
 simplesuppress.top
 simpleworld.site
@@ -91845,6 +91861,7 @@ uhoa5gd.cn
 uhtsong.com
 uhufudure-resederete.lol
 uhxndh.homes
+ui-wire.com
 ui9r09xfxp2n.icu
 uicaleqaor.top
 uifdt6.oss-cn-hongkong.aliyuncs.com
@@ -92443,6 +92460,7 @@ urunal.gq
 urunalim.com
 urunapp.com.tr
 urunapp.net
+urundetayi.com
 urunguvenli-al.com
 urunhizmetleri.online
 urunid-69129.it.com
@@ -97417,6 +97435,7 @@ workstumble.top
 world-resorts.net
 world-stores2022.com
 worldawaitsgo.com
+worldbulletin.blog
 worldcup2026match.xyz
 worldcuparena.xyz
 worldcupfoootballmatch.xyz

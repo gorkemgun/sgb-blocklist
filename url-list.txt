@@ -11743,6 +11743,7 @@
 321189874645115.net
 3212221112445479890.duckdns.org
 3212221112445479892.duckdns.org
+3212221112445479895.duckdns.org
 32123123132131322123.space
 321312111.cloud
 3213213-123.duckdns.org
@@ -25224,6 +25225,7 @@ a101market.aktuelaldinaldin.com
 a101market.alisverisileharca.com
 a101market.app
 a101market.co
+a101market.duckdns.org
 a101market.fun
 a101market.magazazincirim.com
 a101market.net
@@ -92042,6 +92044,7 @@ bva-garente.shop
 bva-global.lat
 bva-lite.shop
 bva-mobile.shop
+bva-request.shop
 bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
@@ -96594,6 +96597,7 @@ catalogsumut.com
 catalogueincorporate.top
 catalogwise.top
 catalyst-pro.lat
+catalystboostfunding.com
 catalystexperience.com
 catalystfluxd.info
 catalystort.com
@@ -98979,6 +98983,7 @@ cepte-teblikazaniyor.com
 cepte-teblim.my-homeip.de
 cepte-tebonlinefirsatim.com
 cepte-tebweb.com
+cepte-tep-den.my-homeip.de
 cepte-tepgsonsizleerlecan.com
 cepte-tepli-firsat.my-homeip.de
 cepte-tr.online
@@ -126130,6 +126135,7 @@ digitalbireysel.site
 digitalbireysel.tech
 digitalbirlik.net
 digitalboxparbuu.com
+digitalcapitalboost.com
 digitalcdn.ru
 digitalcircuithub.com
 digitalcollege.org
@@ -181113,6 +181119,7 @@ giresunekimsubeleri.xyz
 giresunekimsubesi.com.tr
 giresunekimsubesi.online
 giresunekimsubesi.xyz
+giresunilozelidare.cyou
 giresunkasimsubeleri.com.tr
 giresunkasimsubeleri.online
 giresunkasimsubeleri.xyz
@@ -187617,8 +187624,10 @@ guardemarine.xyz
 guardia.us
 guardian-coinbase.com
 guardian-tt.me
+guardiancapitalway.com
 guardiancredit.hopto.org
 guardiancustody.top
+guardiangrowthfunding.com
 guardianhacker.zapto.org
 guardianmasculine.top
 guardianportfolio.com
@@ -190370,6 +190379,7 @@ guvenligirisste6.tk
 guvenligirisyap-sahibindenget-com.tk
 guvenligirisyap.xyz
 guvenlihavuz2026.com
+guvenlihavuzum2026.com
 guvenlihesap.com.tr
 guvenlihgs.sg-host.com
 guvenlihgs3d.xyz
@@ -221921,6 +221931,7 @@ ilan-hizlialisveris.com.tr
 ilan-hizmet-giris.com.tr
 ilan-hizmeti.net
 ilan-hizmetim.com.tr
+ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-ile-satis.com
 ilan-islemler.com
@@ -249100,6 +249111,7 @@ karacaramazan.com
 karacas.homes
 karacas.top
 karacasale.homes
+karacasale.shop
 karacasali.com
 karacasalikapi.com
 karacasell.shop
@@ -278431,6 +278443,7 @@ meghrajimpex.com
 megida.hopto.org
 megryi.com
 megsasa.click
+megthegullo.com
 mehackiscool.ddns.net
 mehamn.zapto.org
 meharase-web.com
@@ -280458,6 +280471,7 @@ mhhrrssrandvvunal.com
 mhhrsrsrhshrscs.net
 mhhrsvatandasgiris.duckdns.org
 mhhsrssahsa.site
+mhhsrssbhsa.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
@@ -280771,6 +280785,7 @@ mhsscfsrsa9.sbs
 mhssrajhsyyh.icu
 mhssrrrahas.site
 mhssrrrdhas.site
+mhsysndvuesa.site
 mht-tickets.ru
 mhtevents.com
 mhtfbyaswhhw.duckdns.org
@@ -281647,6 +281662,7 @@ milya12qq.hopto.org
 milyolodeme.com
 milyonermmtrmr.org
 mimakichipresetter.com
+mimecast-microsoft-teams-meeting.com
 mimed17.zapto.org
 mimerform.com
 mimestyle.xyz
@@ -322488,12 +322504,14 @@ pazarama.satiskapida.com
 pazarama.satiskontrol.com
 pazarama.siparisguvende.com
 pazarama.siparisim-onay-1923.com
+pazarama.siparisimhizli.com
 pazarama.siparisislemleri.com
 pazarama.siparislerimguvende.com
 pazarama.siparislerkapida.com
 pazarama.siparislerkapimda.com
 pazarama.siparispanelim.com
 pazarama.sorunsuzodeme.com
+pazarama.urundetayi.com
 pazaramaanelergunuozel.com
 pazaramabireyselsatis.online
 pazaramafirsaturunleri.com.tr
@@ -344498,6 +344516,7 @@ reklamlink26.vercel.app
 reklamlink56.vercel.app
 reklamlinkkampanya.vercel.app
 reklamm.cf
+reklammetaonline.cfd
 reklammilazimhemenulasin.cfd
 reklamnurgaz.icu
 reklamnurgazis.my
@@ -353466,6 +353485,7 @@ sahibinden-paramguvende.guvenliservis.com.tr
 sahibinden-paramguvende.hizli-tr.com.tr
 sahibinden-paramguvende.hizmet-online.com.tr
 sahibinden-paramguvende.hizmetler-tr.com.tr
+sahibinden-paramguvende.ilan-hizmetin.online
 sahibinden-paramguvende.ilan-onay-tr.online
 sahibinden-paramguvende.ileguvenli-al.com
 sahibinden-paramguvende.info
@@ -369734,6 +369754,7 @@ simplechatpoint.ddns.net
 simplecreative.design
 simpleflowers.zapto.org
 simplefood24.site
+simplehomeskills.com
 simplekds.me
 simplenewtab.com
 simplesalsamix.com
@@ -415056,6 +415077,7 @@ uhztqqmlxy.duckdns.org
 uhzuk4.duckdns.org
 ui-grn-intrg.my-homeip.com
 ui-un.com
+ui-wire.com
 ui101s.ddns.net
 ui12232m.duckdns.org
 ui9r09xfxp2n.icu
@@ -417250,6 +417272,7 @@ urunapp.com.tr
 urunapp.net
 urunara.name.tr
 urundetay.com
+urundetayi.com
 urunfamilia.info.tr
 urunfamilia.net.tr
 urunfirsatim.com.tr
@@ -436958,6 +436981,7 @@ worldbireysel-yapikredi.com
 worldbireyselkatilimsorgulama.run.place
 worldbookpoint.com
 worldbooks.us
+worldbulletin.blog
 worldbuse.cf
 worldcard-25yil.com
 worldcard-bireysel-islem.space
@@ -485812,6 +485836,7 @@ zzb.bz/kobihalk
 162.33.178.225
 162.33.178.244
 162.33.179.17
+162.33.179.46
 162.33.179.72
 162.33.179.100
 162.33.179.140
@@ -489549,6 +489574,7 @@ zzb.bz/kobihalk
 195.176.3.24
 195.177.94.6
 195.177.94.169
+195.178.110.22
 195.178.110.36
 195.178.110.53
 195.178.110.54
