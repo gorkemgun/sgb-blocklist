@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102286
-# Last change: 2026-09-04 11:24:23 UTC (sync mode: delta)
+# Records: 102298
+# Last change: 2026-09-04 16:25:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -16250,6 +16250,7 @@ bunnterion.com
 bunnwave.com
 bunu-kacirmayi-dusunme.com.tr
 bunu-kacirmayi-dusunmedin-demi.com.tr
+bunualmadanolmaz.sbs
 bunun-iicin-variz.shop
 buphkahapsa.net
 buqegoi.info
@@ -29127,6 +29128,7 @@ edobimcell.com
 edomkal.online
 edosyaburo.com
 edosyacbs.org
+edosyadava.com
 edosyagib.org
 edosyakontrol.net
 edosyasorgu.org
@@ -38361,6 +38363,7 @@ gratis-rt.dynuddns.com
 gratis-tr.craftyhour.com
 gratis-tr.obliqueprism.com
 gratis.anointedacres.com
+gratis.ask4tree.com
 gratis.craftyhour.com
 gratis.dnsdojo.com
 gratis.dumfi.com
@@ -45183,6 +45186,7 @@ ilan-havale-fast.com
 ilan-havale-odemem.com
 ilan-havale-odemesi.com
 ilan-hizmeti.net
+ilan-hizmetim.online
 ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-ile-satis.com
@@ -60204,6 +60208,7 @@ mt2yoncayonetim.xyz
 mt2yonetporvidan.xyz
 mta-sts.mypasskey.info
 mta0.variqn.net
+mtagununderkneyll.giize.com
 mtamseklogin.webflow.io
 mtatdd.000webhostapp.com
 mtbodemelerimveznem.org
@@ -75583,6 +75588,7 @@ sahibinden-get.islem-guvende.online
 sahibinden-get.le-odeme.com
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilsepetalim-25.online
+sahibinden-get.mobilsepetlerim1.com
 sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
 sahibinden-get.mobilsepetllerservisim.online
@@ -79760,6 +79766,7 @@ silly-satoshi.81-28-4-131.plesk.page
 silodesign.world
 silox.sbs
 siltravenw.top
+silvacheck.com
 silveranchorteks.com
 silverchecker.site
 silverdinke.shop
@@ -82740,6 +82747,8 @@ stanford-resort.com
 stanhalkonline.com
 stanley-indirimleri.store
 stanley-temmuz.tv.tr
+stanley15.shop
+stanley20.shop
 stanleyatlas.xyz
 stanleyaurora.xyz
 stanleydarkflow.xyz
@@ -85903,6 +85912,7 @@ teb-com-tr.my-homeip.de
 teb-com.my-homeip.de
 teb-digital-emekliye-ozel.my-homeip.de
 teb-emeklilere.my-homeip.de
+teb-emekliye.my-homeip.de
 teb-guncel-cekilis2022.net
 teb-ilekazananlar.com
 teb-son-basvurutr.com
@@ -90446,6 +90456,7 @@ ttakip.com
 ttavskoc.com
 ttcbccuygulamasi.com
 ttccckk.duckdns.org
+ttclid.lol
 tteebbaassvvuurruu.cfd
 tteebbmmoobiill.com
 tteknosa.com
@@ -101749,6 +101760,7 @@ zelunirek.xyz
 zelunovrax.capital
 zelus-checker.cfd
 zelus.icu
+zeluspanel.art
 zelvanto.xyz
 zelvio.cfd
 zelvorrry.com
