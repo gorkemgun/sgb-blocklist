@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102339
-# Last change: 2026-09-05 10:40:56 UTC (sync mode: delta)
+# Records: 102353
+# Last change: 2026-09-05 13:53:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1548,6 +1548,7 @@
 3212221112445479895.duckdns.org
 3212221112445479897.duckdns.org
 3212221112445479898.duckdns.org
+3212221112445479899.duckdns.org
 32156949851616513.net
 32165146854651651654.cloud
 321adedc.bdshe764d.shop
@@ -8447,6 +8448,7 @@ armapak.site
 armcanzxznwop.online
 armetemask.com
 arminavilla.com
+armine.live
 armmcchhsdgu.com
 armorfrank.top
 armourmaternal.top
@@ -28780,6 +28782,7 @@ ecel.fun
 ecentlyaddictiv.top
 ecessarilyvogu.top
 eceyeasigim.cyou
+ecezaadalet.org
 ecezabayiode.com
 ecezabildirim.org
 ecezacbs.org
@@ -38375,6 +38378,7 @@ gratificationwarfare.top
 gratis-i.from-ar.com
 gratis-j.dynuddns.com
 gratis-kariyer.com
+gratis-mr.ddnsgeek.com
 gratis-rt.dynuddns.com
 gratis-tr.craftyhour.com
 gratis-tr.obliqueprism.com
@@ -39990,6 +39994,7 @@ haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
 haberler1358636.shop
+haberler14223.shop
 haberler1425123.shop
 haberler142536231.shop
 haberler1436542.sbs
@@ -40345,6 +40350,7 @@ halainvest.com
 halalinden.net
 halalmapz.com
 halalresortshotels.com
+halbook.com
 halenor.quest
 halersbar.net
 halfadorable.top
@@ -43373,6 +43379,7 @@ homesless.com.tr
 homesless.xyz
 homeslessrt.com
 homesnetlerkest.duckdns.org
+homesnftyer.duckdns.org
 homesteadmart.shop
 homesterlers.com.tr
 homestikest.duckdns.org
@@ -58537,6 +58544,7 @@ mhhrsvatandasgiris.duckdns.org
 mhhsrssahsa.site
 mhhsrssbhsa.site
 mhhssaaakaliya.site
+mhhssaaakaliyc.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
@@ -58610,6 +58618,7 @@ mhrs-app.online
 mhrs-d.digital
 mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
+mhrs-giris-islem-link.vercel.app
 mhrs-giris.blog
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
@@ -75660,6 +75669,7 @@ sahibinden-getilan.secure-gets.online
 sahibinden-getilan.sepetfirsat.online
 sahibinden-getilan.t-ilanhizmet.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
+sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-web-islemler.online
 sahibinden-gets-alisveris.online-bireysel-hizmetlerimiz.com
@@ -75754,6 +75764,7 @@ sahibinden-param-guvende.guvendeparamonline.org.tr
 sahibinden-param-guvende.hizliodemebaglantisi.com.tr
 sahibinden-param-guvende.ilan-onayla.online
 sahibinden-param-guvende.ilan-siparis.online
+sahibinden-param-guvende.ilanguvenli.online
 sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
@@ -88245,6 +88256,7 @@ tolllocomotive.top
 tollwa.com
 tolongitudinal.top
 tolvetim.store
+tom00bnk01.duckdns.org
 tomas22.com
 tomatofame.top
 tomatonutrient.top
@@ -89530,6 +89542,7 @@ trendvvharf.com
 trendy-ol.com.ng
 trendy-ol.net
 trendy0l.com
+trendy0l.homes
 trendy0l.lol
 trendy3.online
 trendygiris.com
@@ -98940,6 +98953,7 @@ xhesabiniinceleyenigorr.net
 xhlch.top
 xhnufe.top
 xhnzds.homes
+xhomensetler.duckdns.org
 xhtef-clqui-sebs.click
 xhvsed.cc
 xiamui.store
