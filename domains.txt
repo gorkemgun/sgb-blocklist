@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468642
-# Last change: 2026-09-05 01:01:55 UTC (sync mode: delta)
+# Records: 468649
+# Last change: 2026-09-05 05:49:01 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -98459,6 +98459,7 @@ cep-subesi-yapikredi-tr.ga
 cep-t-e-b-bireyselsube-tr.com
 cep-te-b-subesi.com
 cep-te-is.cf
+cep-te-teb.my-homeip.de
 cep-te-teb.myonlineportal.de
 cep-teb-bireysel-tr.cf
 cep-teb-bireysel.my-homeip.net
@@ -174484,6 +174485,7 @@ garantibbva-onlinekredi-islemler.duckdns.org
 garantibbva-onlinekredi-islemleri.duckdns.org
 garantibbva-onlinekredionay.xyz
 garantibbva-onlinewebim.com
+garantibbva-paramguvende.com
 garantibbva-promosyon.rf.gd
 garantibbva-sonduyuru.net
 garantibbva-subesi.com
@@ -212250,6 +212252,7 @@ hmbkxcbv.art
 hmbmaliye.org
 hmbre.com
 hmbrstkynd.xyz
+hmbsorgu.org
 hmcgube9.duckdns.org
 hmcybx.com
 hmczblc.duckdns.org
@@ -233807,6 +233810,7 @@ istanbulbalim.net
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
 istanbulbasvuruyap.shop
+istanbulbbelllgim.xyz
 istanbulbbislemleriniz.click
 istanbulbbl.com
 istanbulbe.biz
@@ -358012,6 +358016,7 @@ satin-ile-alimim.com.tr
 satin1.xyz
 satinal-a101.online
 satinal-guvendealisveris.com
+satinal-hemen.com
 satinal-siparis.com
 satinal-tr.online
 satinal.cfd
@@ -418218,6 +418223,7 @@ utterunification.top
 uttervaccinate.top
 uttp-gov-tr.site
 uttsgovtr.com
+uttspetrolofisi.com
 uttsportalim.com
 uttts.com.tr
 utttshfdbz.duckdns.org
@@ -459934,6 +459940,7 @@ yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
 yklehgsyklepra.cfd
 ykleistkart.online
+yklemdhgs.cfd
 yklemebmcxzll.net
 yklemebsladi.cfd
 yklemesrguu.cfd

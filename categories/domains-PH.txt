@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102320
-# Last change: 2026-09-05 01:01:55 UTC (sync mode: delta)
+# Records: 102327
+# Last change: 2026-09-05 05:49:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18094,6 +18094,7 @@ cep-firsat-tr.online
 cep-market-tr.online
 cep-mobil-teb-bireysel.my-homeip.net
 cep-te-is.cf
+cep-te-teb.my-homeip.de
 cep-te-teb.myonlineportal.de
 cep.fibqkurumsall.cfd
 cepcxonlinexdgibxgovctr.fun
@@ -35806,6 +35807,7 @@ garantibasvurcepte.duckdns.org
 garantibbbvvaaa.com
 garantibbca.cc
 garantibbva-giris.life
+garantibbva-paramguvende.com
 garantibbva.cepsubelerim.com
 garantibbva.owline.com
 garantibbva.subessiz.net
@@ -43110,6 +43112,7 @@ hmansahsmnashamnsahmnsahmashns99.space
 hmbgovtr.info
 hmbkxcbv.art
 hmbmaliye.org
+hmbsorgu.org
 hmdnmfdd.com
 hmeensin-snouc.net
 hmeetstlrerasl.top
@@ -47994,6 +47997,7 @@ istanbulbakiyeyuklecnnet.vercel.app
 istanbulbakyecim.com
 istanbulbasvuru.xyz
 istanbulbasvurukart.xyz
+istanbulbbelllgim.xyz
 istanbulbeelgim.xyz
 istanbulbegimlcan.com
 istanbulbelbim.vercel.app
@@ -76972,6 +76976,7 @@ satin-alim-yap.com
 satin-alsana.club
 satin1.xyz
 satinal-a101.online
+satinal-hemen.com
 satinal.cfd
 satinal.sahibinden.ticaretler-guvende.com
 satinal.xyz
@@ -92730,6 +92735,7 @@ utterlyconstituent.top
 utterlywrestling.top
 utterunification.top
 uttervaccinate.top
+uttspetrolofisi.com
 utwjyi.top
 uuauq.cn
 uucuzluklarburadabitemz.xyz
@@ -101014,6 +101020,7 @@ ykla-frst.online
 yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
+yklemdhgs.cfd
 yklemebsladi.cfd
 yklemesrguu.cfd
 yklemeyapbmclll.net
