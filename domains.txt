@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468697
-# Last change: 2026-09-05 16:51:00 UTC (sync mode: delta)
+# Records: 468705
+# Last change: 2026-09-05 19:04:30 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5305,6 +5305,7 @@
 158253-kraken.com
 158312-coinbase.com
 158372-coinbase.com
+1584515557145.duckdns.org
 15864251921546010.com.tr
 15864251921546010.online
 15864251921546020.com.tr
@@ -127503,6 +127504,7 @@ dijitalonayhizliweb-denizacik.com
 dijitalonaylarhizli-denizacik.com
 dijitalonayli-sayfa.com
 dijitalonaywebislem-denizacik.com
+dijitalonline-aynigunkapinda.duckdns.org
 dijitalonline-hizlisiparis.sbs
 dijitalonline-kampanyalar.duckdns.org
 dijitalonline-kampanyaliurunler.duckdns.org
@@ -217581,6 +217583,7 @@ i7pml9wl.duckdns.org
 i7qims0s.duckdns.org
 i7ruga16.duckdns.org
 i801b8.com
+i82-web.forum
 i82-web.help
 i85ooxlh.storage.googleapis.com
 i87hur5rq2qvofmrobaxars.ddns.net
@@ -280537,6 +280540,7 @@ mhhssaaakaliyc.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
+mhhssrreekaliyd.lol
 mhhssrrtaaga.site
 mhhssrrtabga.site
 mhibhglwemp.org
@@ -280908,6 +280912,7 @@ mibajftg.com
 mibegnon.com
 mibkalbkfn.duckdns.org
 miboun.zapto.org
+mibusare-yedolapi.lol
 mic-ro-service.rvsleek.online
 mic-ro-teams-group.empiresteffing.net
 mic-rosoft-office.link
@@ -352562,6 +352567,7 @@ sahibinden-get.e-ticaretservisi.com
 sahibinden-get.ealimguvenceli.com
 sahibinden-get.ealimguvencem.com
 sahibinden-get.ealimmobil.com
+sahibinden-get.ejet-ticaretin1.online
 sahibinden-get.emobileservislerr.com
 sahibinden-get.emobileservislerrn.online
 sahibinden-get.emobilservislerim.com
@@ -442459,6 +442465,7 @@ www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
+www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teb-com-tr.ga
 www-teb-com-tr.gq
 www-teb-com-tr.ml
@@ -461238,6 +461245,7 @@ your-400tl-word-7sn-tr.com
 your-coinbase.com
 your-dating-zone1.com
 your-eligible-verified-badge-opportunity.vercel.app
+your-house.myonlineportal.ch
 your-ip.getmyip.com
 your-local-girls.info
 your-name.site

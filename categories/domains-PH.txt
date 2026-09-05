@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102371
-# Last change: 2026-09-05 16:51:00 UTC (sync mode: delta)
+# Records: 102379
+# Last change: 2026-09-05 19:04:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -668,6 +668,7 @@
 158253-kraken.com
 158312-coinbase.com
 158372-coinbase.com
+1584515557145.duckdns.org
 158702-coinbase.com
 159-100-18-81.plesk.page
 159-223-106-226.plesk.page
@@ -26213,6 +26214,7 @@ dijitalmobilmerkezin-denizacik.com
 dijitalnetbilgi-giris.sbs
 dijitalnetwebtr-ziraatbireysel.com
 dijitalonay-denizacik.com
+dijitalonline-aynigunkapinda.duckdns.org
 dijitalonline-hizlisiparis.sbs
 dijitalonline-kampanyalar.duckdns.org
 dijitalonline-kampanyaliurunler.duckdns.org
@@ -44384,6 +44386,7 @@ i652d6465766c6574o676f76o7472z.oszar.com
 i656f6b756co6d6562o676f76o7472z.oszar.com
 i761bd.coinbase-com.info
 i7ko6bz.cn
+i82-web.forum
 i82-web.help
 ia-aidtadlerinizbasladi.com
 ia-deportal-da.de
@@ -58557,6 +58560,7 @@ mhhssaaakaliyc.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
+mhhssrreekaliyd.lol
 mhhssrrtaaga.site
 mhhssrrtabga.site
 mhigcb.com
@@ -58737,6 +58741,7 @@ mianosa.duckdns.org
 mianosa.store
 mianosapro.duckdns.org
 miazlde.com
+mibusare-yedolapi.lol
 michaudforcongress.com
 michelearris.com
 michelin.wacan-extranet.com
@@ -75629,6 +75634,7 @@ sahibinden-get-paramguvende.xyz
 sahibinden-get.com.de
 sahibinden-get.dijital-mobil-hizmet.online
 sahibinden-get.ealimmobil.com
+sahibinden-get.ejet-ticaretin1.online
 sahibinden-get.emobileservislerr.com
 sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
@@ -98560,6 +98566,7 @@ www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
+www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
 www-telegram.org
@@ -101314,6 +101321,7 @@ youngsterconservation.top
 youngsterseductive.top
 younstrlegtimate.top
 your-coinbase.com
+your-house.myonlineportal.ch
 your-name.site
 your27subarsiparislerin.cloud
 your27subattakisipariler.cloud
