@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102379
-# Last change: 2026-09-05 19:04:30 UTC (sync mode: delta)
+# Records: 102392
+# Last change: 2026-09-05 21:18:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -669,6 +669,7 @@
 158312-coinbase.com
 158372-coinbase.com
 1584515557145.duckdns.org
+1584515557149.duckdns.org
 158702-coinbase.com
 159-100-18-81.plesk.page
 159-223-106-226.plesk.page
@@ -30330,6 +30331,7 @@ enactsegregate.top
 enbabafirsatlarburadanalicaksin.cfd
 enbamedical.com
 enbncrfsagfrsat.cfd
+enbykrvdalbrda.lol
 enclosedcurly.shop
 encloseembed.top
 enclosureconserve.top
@@ -38389,6 +38391,7 @@ gratis-tr.craftyhour.com
 gratis-tr.obliqueprism.com
 gratis.anointedacres.com
 gratis.ask4tree.com
+gratis.benmook.com
 gratis.craftyhour.com
 gratis.dnsdojo.com
 gratis.doordk.com
@@ -38410,6 +38413,7 @@ gratis.paperbacksins.com
 gratis.servehumour.com
 gratis.simplysweetcakesoc.com
 gratis.teknodeno.com.tr
+gratis.twinslist.com
 gratis.v6.army
 gratiscagrimerkezii.com.tr
 gratisguzellikmerkezleri.com.tr
@@ -39869,6 +39873,7 @@ haber156.club
 haber156.online
 haber156.site
 haber156.website
+haber2026.doordk.com
 haber24.club
 haber24.website
 haber250.club
@@ -40009,6 +40014,7 @@ haberler16.online
 haberler16.website
 haberler163234.shop
 haberler1642432.shop
+haberler167523.sbs
 haberler2025.tk
 haberler2153212.com
 haberler2223399.sbs
@@ -50651,6 +50657,7 @@ karaca-temmuz.shop
 karacababy.shop
 karacabutik.com.tr
 karacabuy.homes
+karacacarsafs.homes
 karacaclub.shop
 karacadagdernegi.com
 karacadiscount.homes
@@ -54130,6 +54137,7 @@ lernrklms25.com
 lesansgle.top
 lesbianpasser-by.top
 lesbiantrivial.top
+lesgeltes.duckdns.org
 lesigorta.net
 less-fin-ai.com
 lessdegenerate.top
@@ -58561,6 +58569,8 @@ mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
 mhhssrreekaliyd.lol
+mhhssrreekaliye.lol
+mhhssrreekaliyf.lol
 mhhssrrtaaga.site
 mhhssrrtabga.site
 mhigcb.com
@@ -81148,6 +81158,7 @@ solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
 solkmlrkatler.com
+sollrdannnds.duckdns.org
 sollsticeai.com
 sologerg.com
 solorn.bond
@@ -81255,6 +81266,7 @@ son-zamlardan-gelmeden-sizlere-son-sureller.com
 son-zamlardan-once-gelen-firsat.com
 son101cilerkaldi.cloud
 son2023-hizlisipariskampanya.shop
+son2026indirimleri101.biz
 son26adetkalanize32tas.blogspot.com
 sonajans24.net
 sonbaharfirsatibance.tech
@@ -100130,6 +100142,7 @@ yaprakdkr1ynmz.com
 yaprakyoncavakfi.site
 yapsorgu.online
 yapt1gnbosyormmsayessnd.net
+yapuresi-lodanome.lol
 yaqivekredit.com
 yar55sgs.epizy.com
 yarakanan.my-homeip.com
