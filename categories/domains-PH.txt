@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102313
-# Last change: 2026-09-04 22:23:10 UTC (sync mode: full)
+# Records: 102320
+# Last change: 2026-09-05 01:01:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18098,6 +18098,7 @@ cep-te-teb.myonlineportal.de
 cep.fibqkurumsall.cfd
 cepcxonlinexdgibxgovctr.fun
 cepde-tebden.myonlineportal.de
+cepdeteb.my-homeip.de
 cepfirsat.online
 cepiad-epari-bu.com
 cepismtannd.top
@@ -29683,6 +29684,7 @@ elchavohgsykll.net
 elcheert.live
 elcrotary.org
 elcxoa.co
+eldengelenler.click
 elderly-remove-corners-transition.trycloudflare.com
 elderrecur.top
 eldranz.com
@@ -38374,6 +38376,7 @@ gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.craftyhour.com
 gratis.dnsdojo.com
+gratis.doordk.com
 gratis.dumfi.com
 gratis.from-ca.com
 gratis.from-in.com
@@ -39998,6 +40001,7 @@ haberler231542423.online
 haberler23232.shop
 haberler233434123.shop
 haberler23432.sbs
+haberler23432.shop
 haberler235234321.shop
 haberler235342.com
 haberler2354123.shop
@@ -50654,6 +50658,7 @@ karacaonline.homes
 karacaonline.org.tr
 karacaonline.store
 karacaonlinetr.shop
+karacaonlinetrs.shop
 karacar.shop
 karacas.homes
 karacas.top
@@ -58598,6 +58603,7 @@ mhrs-giris.blog
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
 mhrs-s.digital
+mhrs-sistem.vercel.app
 mhrs.alllahnerdekiya.sbs
 mhrs.basvurulari.org
 mhrs.cicekcihizli.cyou
@@ -70326,6 +70332,7 @@ promosyon101bgn.duckdns.org
 promosyonadrs.sbs
 promosyonalin.com
 promosyonbasvuru.com
+promosyonbasvurum.xyz
 promosyonbilgisistemi.click
 promosyondanoktam.cloud
 promosyonemekli.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468629
-# Last change: 2026-09-04 22:23:10 UTC (sync mode: full)
+# Records: 468642
+# Last change: 2026-09-05 01:01:55 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -42958,6 +42958,7 @@ alhyokaslanias.net
 ali-a1.com
 ali-hadi.zapto.org
 ali-hell.zapto.org
+ali-isbank.com.ph
 ali-pay-apply.hk-login.com
 ali.stocktradingservices.org
 ali1171.no-ip.biz
@@ -98559,6 +98560,7 @@ cepdesubeindir.com
 cepdesubeyukle.com
 cepdeteb-sube.com
 cepdeteb.com
+cepdeteb.my-homeip.de
 cepdeteb.my-homeip.net
 cepdetebb.com
 cepdetebmobil.com
@@ -148488,6 +148490,7 @@ elcrotary.org
 elcxoa.co
 elda30dpn.duckdns.org
 elday2022.ddns.net
+eldengelenler.click
 eldercareplus.ddns.net
 elderly-remove-corners-transition.trycloudflare.com
 elderrecur.top
@@ -174719,6 +174722,7 @@ garantibbvamobilsubesikazandirir.ph
 garantibbvamobiluygulama.duckdns.org
 garantibbvamortage.com
 garantibbvamusterilerineiade.duckdns.org
+garantibbvanorusderma.ph
 garantibbvaodeme.ml
 garantibbvaodemesistemlerigelisimicinseninle.com
 garantibbvaofficial.com
@@ -186055,6 +186059,7 @@ gratis.craftyhour.com
 gratis.cwbots.com
 gratis.ddnsguru.com
 gratis.dnsdojo.com
+gratis.doordk.com
 gratis.dumfi.com
 gratis.dyndns-at-work.com
 gratis.dyndns-blog.com
@@ -192609,6 +192614,7 @@ haberler231542423.online
 haberler23232.shop
 haberler233434123.shop
 haberler23432.sbs
+haberler23432.shop
 haberler2345343.shop
 haberler235234321.shop
 haberler235342.com
@@ -203620,6 +203626,7 @@ hepsiburada-kepimyenilenmeguncel.com
 hepsiburada-kinotam.ph
 hepsiburada-mall.online
 hepsiburada-mobilepay-indeed.ph
+hepsiburada-norton.com.ph
 hepsiburada-order.com
 hepsiburada-sale.com
 hepsiburada-sale.shop
@@ -203756,6 +203763,7 @@ hepsiburadamlojistik.com
 hepsiburadania.ph
 hepsiburadao.com
 hepsiburadaofficials.com
+hepsiburadaonlinesbi.com.ph
 hepsiburadaorder.com
 hepsiburadaorder.xyz
 hepsiburadaorder3.com
@@ -249122,6 +249130,7 @@ karacaonlineozel.info.tr
 karacaonlineozel.net.tr
 karacaonlineozel.org.tr
 karacaonlinetr.shop
+karacaonlinetrs.shop
 karacaozelindirim.com
 karacapazari.biz.tr
 karacapazari.com.tr
@@ -256272,6 +256281,7 @@ klmavbilgi.sbs
 klmetrcecisyrg.site
 klmetredeyizogreninbilginizi.cfd
 klmetrekmrlm.com
+klmgarantibbva.com.ph
 klmhgsm.com
 klmhgss.com
 klmhlgmlfklfl.sbs
@@ -280639,6 +280649,7 @@ mhrs-randevu.net
 mhrs-randevu.vercel.app
 mhrs-randvm.blogspot.com
 mhrs-s.digital
+mhrs-sistem.vercel.app
 mhrs-vatandas-randevu.click
 mhrs-web.pages.dev
 mhrs.alllahnerdekiya.sbs
@@ -330593,6 +330604,7 @@ promosyonbasvurulari.ascusdusts.sbs
 promosyonbasvurulari.com
 promosyonbasvurulari.shop
 promosyonbasvurularisubat2026.cfd
+promosyonbasvurum.xyz
 promosyonbasvuruonline.duckdns.org
 promosyonbasvurusistemi.duckdns.org
 promosyonbasvurusu.com
@@ -380461,6 +380473,7 @@ ssssssthaniyokmugulduren.xyz
 ssssswsaffsasa.sbs
 sst-pttgov.top
 sstbonlinebasvuru.com
+sstc-garantibbva.com.ph
 sstem-check-online.com
 sstm.ddns.net
 sstmgecisler2.sg-host.com
