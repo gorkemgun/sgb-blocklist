@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102353
-# Last change: 2026-09-05 13:53:00 UTC (sync mode: delta)
+# Records: 102371
+# Last change: 2026-09-05 16:51:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -515,6 +515,7 @@
 13148verifyguets-booking.com
 132-33-154-22-366.com
 13213.523454.cc
+13222112211445799890.duckdns.org
 13222214544588989990894.duckdns.org
 13222214544588989990895.duckdns.org
 13222214544588989990896.duckdns.org
@@ -17937,6 +17938,7 @@ cebinde.sok-serinleten-yaz.com
 cebinize-uygun-indirimleeer-burada.com.tr
 cebinizerenkkatacakfsatlar.xyz
 cebinizi-dusunen-hayat-dolu-anlar-burada.com.tr
+cebr-ly-fonsi.myonlineportal.ch
 cebteteb.my-homeip.de
 cebtetebli.myonlineportal.at
 cecenhamit.shop
@@ -32513,6 +32515,7 @@ eylullayifirsatt.online
 eylullayihaftasonu.xyz
 eylullayiipersembe.xyz
 eylullayiisalifirsati.online
+eylulllkmpnycs.duckdns.org
 eylulozelflrsat.com
 eylulozelflrsat.me
 eylulsonfirsatlar.shop
@@ -42514,6 +42517,7 @@ hihuysite.site
 hihxkn.top
 hiizgadc.cyou
 hiizggecd.cfd
+hiizsfe.cfd
 hiizsfe.cyou
 hijackcatholic.top
 hijackobservatory.top
@@ -43221,6 +43225,7 @@ hockeyhoopers.com
 hockeymaternal.top
 hockeynickname.top
 hockypresents.com
+hodefmenst.duckdns.org
 hodenserholse.com
 hodenstler.duckdns.org
 hodeslerkest.duckdns.org
@@ -43384,6 +43389,7 @@ homesteadmart.shop
 homesterlers.com.tr
 homestikest.duckdns.org
 homestlektye.com.tr
+homestlerkefest.duckdns.org
 homestlers.com.tr
 homestlerseesrss.com.tr
 homestlerseesrsse.com
@@ -50681,6 +50687,7 @@ karacas.homes
 karacas.top
 karacasale.homes
 karacasale.shop
+karacasaleonline.shop
 karacasell.shop
 karacashop.homes
 karacashopping.homes
@@ -50697,6 +50704,7 @@ karacatrhome.shop
 karacatronline.shop
 karacatrs.homes
 karacatrs.shop
+karacatrsale.shop
 karacaveg.homes
 karacayazfirsatlari.store
 karadeliksiralariuzayarastirmalari.xyz
@@ -58379,6 +58387,7 @@ metamfetamin.app
 metamsekestion.webflow.io
 metamskwalletextensin.webflow.io
 metanmaskloginu.webflow.io
+metaofflinereklam.sbs
 metaoperations-inc.com
 metaphorcoalition.top
 metaphoricalcrave.top
@@ -65349,6 +65358,7 @@ optionhubs.site
 optionhubs.store
 optionlabs.site
 optionlabs.store
+options-zmyra-klg.myonlineportal.ch
 optixauvex.us
 optlatitude.top
 optryvo.com
@@ -73282,6 +73292,7 @@ redundancycognitive.top
 redundancysinister.top
 redwbnbnca.click
 redweb.tech
+redwoodbusinessnetwork.cfd
 redwoodrest.world
 reebokturkey.com
 reebokturkey.com.tr
@@ -73498,6 +73509,7 @@ reklamkutuphanesi.click
 reklamlardasorunvar.click
 reklamlaronlineak.sbs
 reklamm.cf
+reklammeklamyokkk.sbs
 reklamnurgaz.icu
 reklamnurgazis.my
 reklampilot.site
@@ -78581,6 +78593,7 @@ setrms-store.top
 setrms-tr.top
 setrmstore.top
 sett.basitdom.biz
+settings-iliskilendirme.myonlineportal.ch
 settlementflip.top
 settlementsusceptible.top
 settlementvoid.top
@@ -81047,6 +81060,7 @@ sokmarketlim.online
 sokmarketramazanmenusu.cfd
 sokramazan.cfd
 soksanalmarketindirim.site
+sokseviyoruzsoksokisokahl.duckdns.org
 sokta-firsatrobot.org.tr
 sokta-gunler.com.tr
 sokta-gunler.info.tr
@@ -85524,6 +85538,7 @@ tat4164zjct0.icu
 tatarena.com
 taticoverrid.top
 tatil-sepeti.com
+tatil.son.bitti.eldengelenler.click
 tatildekieviniz.tk
 tatilhediyesi.cf
 tatilsepeti.deney.in
@@ -86907,6 +86922,7 @@ teslimat-ciceksepeti.com
 teslimat-odemesi.com
 teslimatikonumunayap.online
 teslimguvenceli.com.tr
+tesonuka-rifemalo.lol
 test-my-bok.com
 test.diogoflix.com
 test.heroserver.space
@@ -97482,6 +97498,7 @@ workerflirtation.top
 workerintrigue.top
 workflow-microsoftexchange-suites.com
 workforceafloat.top
+working-out.myonlineportal.ch
 workingoni.xyz
 workmint.top
 workmomentous.top
@@ -98859,6 +98876,7 @@ xbxxasde-aidatedevlet.net
 xbyzgc.help
 xcarreindirimleri.click
 xccarref.online
+xcd9fen0sk3r.com
 xcdvlt-vet.com
 xcefarrefour.cfd
 xcheck.city
