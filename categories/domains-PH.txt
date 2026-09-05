@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102327
-# Last change: 2026-09-05 05:49:01 UTC (sync mode: delta)
+# Records: 102339
+# Last change: 2026-09-05 10:40:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1546,6 +1546,8 @@
 321189874645115.net
 3212221112445479890.duckdns.org
 3212221112445479895.duckdns.org
+3212221112445479897.duckdns.org
+3212221112445479898.duckdns.org
 32156949851616513.net
 32165146854651651654.cloud
 321adedc.bdshe764d.shop
@@ -18236,6 +18238,7 @@ cevrimici-web.my-homeip.com
 cevrimicionline1o1.net
 cewondesystemns.com
 cewopoujoa.com
+ceyhunturizm.com
 ceyizlife.com
 ceza-bilgilendirme.com
 cezaadli.org
@@ -31074,6 +31077,7 @@ esenlikyolu.com
 esentepeoil.com
 esenvakfi.com
 eserdernegi.com
+eservishizmetleriniz1.online
 esgalmimln.net
 esgroup.app
 eshalug.com
@@ -43504,6 +43508,7 @@ hort.garden
 horussorgu.top
 horyhk.click
 hoseembody.top
+hosemenst.duckdns.org
 hosg-eld-in-y0n.store
 hosgelmissenbitcoinci.net
 hospitabledough.top
@@ -45335,6 +45340,7 @@ ile-alisveris.com.tr
 ile-alisverisim-ode.com
 ile-alisverislerini-tamamlama.com
 ile-devam.com.tr
+ile-e-islemlerle.com.tr
 ile-e-sepet.com.tr
 ile-e-sepetler.com.tr
 ile-firsatli-ilan.com
@@ -58530,6 +58536,7 @@ mhhrrss.com
 mhhrsvatandasgiris.duckdns.org
 mhhsrssahsa.site
 mhhsrssbhsa.site
+mhhssaaakaliya.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
@@ -73480,6 +73487,7 @@ reklamgoooogle.cf
 reklamhesab.tk
 reklamkutuphanesi.click
 reklamlardasorunvar.click
+reklamlaronlineak.sbs
 reklamm.cf
 reklamnurgaz.icu
 reklamnurgazis.my
@@ -75601,6 +75609,8 @@ sahibinden-get.com.de
 sahibinden-get.dijital-mobil-hizmet.online
 sahibinden-get.ealimmobil.com
 sahibinden-get.emobileservislerr.com
+sahibinden-get.eservisalimin1.online
+sahibinden-get.eservishizmetleriniz1.online
 sahibinden-get.eurun-onay-hizmetler.shop
 sahibinden-get.eurunservisiniz.com
 sahibinden-get.guvenilir-odeme.com
@@ -75651,6 +75661,7 @@ sahibinden-getilan.sepetfirsat.online
 sahibinden-getilan.t-ilanhizmet.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-hizmet.online
+sahibinden-getilan.tr-web-islemler.online
 sahibinden-gets-alisveris.online-bireysel-hizmetlerimiz.com
 sahibinden-guvende-pay.com.ru
 sahibinden-guvende.alim-sepetim.online
@@ -91451,6 +91462,7 @@ tvmasmasmak.net
 tvmatvtrk.b-cdn.net
 tvmmtrk-muayxne.net
 tvmnews.com
+tvrjsdbsjackcs.online
 tvrkdrtsandvbhs.shop
 tvrkdrtsandvbhs.store
 tvrkrsnzhdsmsvc.store
