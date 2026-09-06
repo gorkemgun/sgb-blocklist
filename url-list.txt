@@ -47721,6 +47721,7 @@ api-binance.net
 api-blazepanel.site
 api-cdn.net
 api-cdnw5.net
+api-garantibbva.ph
 api-google.cf
 api-hw.com
 api-kaax-servis.wuaze.com
@@ -174383,6 +174384,7 @@ garantibbva-aidatlar-iade.mooo.com
 garantibbva-alahli.ph
 garantibbva-alibaba.ph
 garantibbva-alipay.ph
+garantibbva-api.ph
 garantibbva-au.com.ph
 garantibbva-bank.com
 garantibbva-bankceptemobile.com
@@ -212297,6 +212299,7 @@ hmbkxcbv.art
 hmbmaliye.org
 hmbre.com
 hmbrstkynd.xyz
+hmbsorgu.net
 hmbsorgu.org
 hmcgube9.duckdns.org
 hmcybx.com
@@ -347466,6 +347469,7 @@ rivertracker.pages.dev
 riverwalktrader.co.za
 riverwoodhomes.org
 rivetroom.com
+rivex.lol
 riviararwa.xyz
 rivilegecti.top
 rivindu.ddns.net
@@ -460067,6 +460071,7 @@ yklehgsonlne.cfd
 yklehgsyklepra.cfd
 ykleistkart.online
 yklemdhgs.cfd
+yklemdnshgs.cfd
 yklemebmcxzll.net
 yklemebsladi.cfd
 yklemesrguu.cfd
@@ -465633,6 +465638,7 @@ ziraatbank-tr.eu
 ziraatbank-tr.net
 ziraatbank-tr.one
 ziraatbank-tr.org
+ziraatbank-turkey.com
 ziraatbank-xrhediyesi.com
 ziraatbank.6345445486384.com
 ziraatbank.ambucurie.ro

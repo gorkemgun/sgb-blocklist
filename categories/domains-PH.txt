@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102396
-# Last change: 2026-09-06 04:45:32 UTC (sync mode: delta)
+# Records: 102400
+# Last change: 2026-09-06 09:28:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -43134,6 +43134,7 @@ hmansahsmnashamnsahmnsahmashns99.space
 hmbgovtr.info
 hmbkxcbv.art
 hmbmaliye.org
+hmbsorgu.net
 hmbsorgu.org
 hmdnmfdd.com
 hmeensin-snouc.net
@@ -74578,6 +74579,7 @@ riverlogic.top
 rivernova.icu
 riverstonefield.site
 rivetroom.com
+rivex.lol
 rivilegecti.top
 rivsalty.click
 rivxon.com
@@ -101089,6 +101091,7 @@ yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
 yklehgsonlne.cfd
 yklemdhgs.cfd
+yklemdnshgs.cfd
 yklemebsladi.cfd
 yklemesrguu.cfd
 yklemeyapbmclll.net
@@ -102050,6 +102053,7 @@ ziraatbaank-mobiill.ziraatbannk.com
 ziraatbaank-mobill.ziraatbannk.com
 ziraatbakasi.com
 ziraatbank-com-tr.my-homeip.de
+ziraatbank-turkey.com
 ziraatbank.ambucurie.ro
 ziraatbank.asia
 ziraatbank.cabanon-ecailler.com
