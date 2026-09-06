@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102400
-# Last change: 2026-09-06 09:28:42 UTC (sync mode: delta)
+# Records: 102406
+# Last change: 2026-09-06 13:42:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -24850,6 +24850,7 @@ denizde-basvurun-tr.online
 denizde-basvurun-tr.xyz
 denizdebayramfirsatlari-com.tk
 denizdebonuslar.com
+denizdegerlimenkuller.com
 denizdegiris-basvrun.online
 denizdeguzelsin.ml
 denizdehayat.com
@@ -29544,6 +29545,7 @@ eiudjhnsale.top
 eivakfi.org
 ejccjejcjeget.com
 ejectionpropaganda.top
+ejet-ticaretin2.online
 ejqzub.homes
 ejvkca.cceng.coinbase-com.info
 ek-bireyselhesap.com
@@ -59601,6 +59603,7 @@ mobilservisler-51.sbs
 mobilservisler-53.sbs
 mobilservisler-54.sbs
 mobilservisler-55.sbs
+mobilservisler-57.sbs
 mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
@@ -80081,6 +80084,7 @@ siparismpayw.com.tr
 siparismypay.online
 siparisnoktam.click
 siparisolustruldu.click
+siparisonayla.online
 siparisonaylama.xyz
 siparissepeti.click
 siparistakippttavmde.cfd
@@ -88898,6 +88902,7 @@ tr-urun-siparisi.com
 tr-var.sa.com
 tr-veriftyaccntmbl.me
 tr-vvrrt.com
+tr-web-alisveris.online
 tr-web-g-net.my-homeip.com
 tr-web-giris-pages.net
 tr-web-portal.online
@@ -95816,6 +95821,7 @@ web-analytics.top
 web-appealcenter.duckdns.org
 web-belbiss.com
 web-bella.com
+web-braun.com
 web-btcturkpro.com
 web-cimer-kamu-hizmetleri.com
 web-crypto-issue-com.webflow.io
