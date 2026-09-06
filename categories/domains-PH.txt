@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102409
-# Last change: 2026-09-06 17:06:32 UTC (sync mode: delta)
+# Records: 102412
+# Last change: 2026-09-06 19:14:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9985,6 +9985,7 @@ avsrental.net
 avsrentalcar.net
 avsrentcar.net
 avsturkiye.com
+avsyaninda.com
 avtakip-websorgu.info
 avtakip.info
 avtakipi.info
@@ -43313,6 +43314,7 @@ holoecho.online
 holtrky.com
 holyeligibility.top
 holyurine.top
+homadise-vurageno.lol
 homderster.com.tr
 home---robinhood-com--auth.webflow.io
 home---sso-itrustcapital--com---auths.webflow.io
@@ -43533,6 +43535,7 @@ hort.garden
 horussorgu.top
 horyhk.click
 hoseembody.top
+hosemejst.duckdns.org
 hosemenst.duckdns.org
 hosg-eld-in-y0n.store
 hosgelmissenbitcoinci.net
