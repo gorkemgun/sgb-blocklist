@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102394
-# Last change: 2026-09-05 23:56:36 UTC (sync mode: full)
+# Records: 102396
+# Last change: 2026-09-06 04:45:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -70950,6 +70950,7 @@ pttavm.alisverishazir.com.tr
 pttavm.alisverisiimguvenliisatis.com.tr
 pttavm.alisveriskeyfim.com.tr
 pttavm.alisverissistemi.com.tr
+pttavm.avmsiparis.com
 pttavm.baglanti-mobilde.com
 pttavm.bireyselalsat.com.tr
 pttavm.bireyselodeme.com.tr
@@ -71000,6 +71001,7 @@ pttavm.siparis-onayli-115520.com
 pttavm.siparis-onayli-115522.com
 pttavm.siparisguvencesi.com.tr
 pttavm.siparisweb.net
+pttavm.tamamla-sipars.com
 pttavm.tedarigin-guvenlisi.com
 pttavm.tr-ilanlarla.com
 pttavm.urun-ilanim.shop

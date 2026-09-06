@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468758
-# Last change: 2026-09-05 23:56:36 UTC (sync mode: full)
+# Records: 468781
+# Last change: 2026-09-06 04:45:32 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1334,6 +1334,7 @@
 0nline-gov.com
 0nline-secureupdate.hopto.org
 0nline-sok-market.duckdns.org
+0nline-sok-markett.duckdns.org
 0nline-update07s.hopto.org
 0nline1mtbank.ddns.net
 0nline3mtbanking.ddns.net
@@ -5872,6 +5873,7 @@
 182onlinee.com
 182randvm.com
 182webicinrndsv.com
+182webpp.click
 182websp.com
 182webstt.click
 182webstt.lat
@@ -28710,6 +28712,7 @@ acikdeniz-denizbanka.com
 acikdeniz-denizbanka.net
 acikdeniz-denizbankasi-tr.com
 acikdeniz-denizbankasi.cf
+acikdeniz-denizbankasi.com.ph
 acikdeniz-denizbankasitr.com
 acikdeniz-denizbankbasvurukampanya.com
 acikdeniz-denizbankiadeler.com
@@ -56035,6 +56038,7 @@ avsrental.com
 avsrental.net
 avsrentalcar.net
 avsrentcar.net
+avssfilokiralama.com
 avsturkiye.com
 avsvmcloud.com
 avsyanimda.com
@@ -64111,6 +64115,7 @@ batakie.cf
 batalktlsktlnnmm.com
 batalli.istanbul
 batan-1-geminin-0-mallari-1xyzonline.com
+batangemininmallaribunlar.sbs
 batarijaru.hopto.org
 batashoes.ddns.net
 batatubebeta10.ddns.net
@@ -79095,6 +79100,7 @@ bizlerle-endsiyi-budsaa-aldin-aldin.shop
 bizlerle-iletisimde-olup-rahat-edebilirsin.com
 bizlerlebirlikte.xyz
 bizlerleflinans.com
+bizlerlensizlerle.shop
 bizlerleodeme.sg-host.com
 bizlerleyukleme.sg-host.com
 bizlersd-burads-sizlerfic-aldin-aldn.com
@@ -159606,6 +159612,7 @@ eylulbasvurusukampanyasi.tech
 eylulbitmedenindrim.site
 eylulbitmedenkarcnz.shop
 eylulbittibitiyorsla.duckdns.org
+eylulcskmpnya.duckdns.org
 eylulcspkmpny.duckdns.org
 eylulcumaktuellfirsatlari.com
 eyluldagitimgunleriprbclick-com.tk
@@ -181143,6 +181150,7 @@ gir-tr-monitorweb.space
 gir-turkiye.com
 gir-turkiyem.com
 gir-turkiyem.org
+gir-vesile-ifade.casa
 gir-web.my-homeip.com
 gir-ya-para-bi.com
 gir-yaz-tr.biz
@@ -200321,6 +200329,7 @@ hazixraninxdrmlrmbuxnlarxbnxm.ru.com
 hazixraninxdrmlrmbuxnlarxbnxm.za.com
 hazlranflrsatsgelinyuzbir.com
 hazlranflrsatslar.com
+hazmedemeyenvar.sbs
 haznre-checker.tk
 hazoma9.hopto.org
 hazpt24k.blogspot.com
@@ -204242,6 +204251,7 @@ herkesindirimibulsun.sbs
 herkesinfaydalananbilecegiflrsat.duckdns.org
 herkesinfirsaturunleri.online
 herkesinfirsaturunleri.xyz
+herkesinkendikampanyasi.sbs
 herkesinsepetteurunleri.cfd
 herkesinsevdigiyaninageldi.com
 herkesintercihi.com.tr
@@ -248849,6 +248859,7 @@ kapiyateslim.click
 kapiyateslimoto.online
 kapkarabirseyvarburda1.com
 kapkaracuzdan.com
+kapkoltugunumasani.sbs
 kapladim-guzel-gunlerimize.com
 kaplnaglenler.art
 kaplndakiflrsatlar.xyz
@@ -248865,6 +248876,8 @@ kapmanyalaryinebitmiyor.shop
 kapmanyambenim.duckdns.org
 kapmanylxzateldfnoxnxiaomzxms13.com
 kapmapamavarbirhap2.com
+kapmasanisansandalyen.sbs
+kapmasanivesandalyeni.sbs
 kapmaybfahcumaburada.com.tr
 kapmaybfahcumaburada.xyz
 kapmlianlara.cfd
@@ -248886,6 +248899,7 @@ kapsam.sigortamnettcu.site
 kapsam.sigortamnetul.site
 kapsamli-ebyl-g.myonlineportal.ch
 kapsamsekil-acil.biz
+kapsandalyenimasani.sbs
 kapsayan.org
 kapsla.com
 kapsmuh.com
@@ -256148,6 +256162,7 @@ klasikiletisimdengeldi.com
 klasikrandevu.app
 klasiletisimde20gbden.com
 klaskampxanya.ru.com
+klasmanssld.click
 klaspatikatki1974.duckdns.org
 klassbilisimdendevproje.com
 klassteknoiletisimden.com
@@ -293135,6 +293150,7 @@ nakitpiramite.org
 nakitpromosyon.vercel.app
 naklenmacizle.ml
 naklenmacizle.tk
+nakletmek-web.garden
 nakliyatblze.net
 nakliyatcikazimanadolu.site
 nakliyathizmetlerieniyisiburada.sbs
@@ -333164,6 +333180,7 @@ pttavm.alisverissistemi.com.tr
 pttavm.alisveriyap-online.com
 pttavm.alisveriyap-online.xyz
 pttavm.aninda-odeme.com
+pttavm.avmsiparis.com
 pttavm.ayinfirsati.com.tr
 pttavm.baglanti-mobilde.com
 pttavm.baglanti-tamamlama.com
@@ -333336,6 +333353,7 @@ pttavm.odemelerim-ilanlar.com
 pttavm.odemeli-ticaret.com
 pttavm.odemem.com.tr
 pttavm.odemeniguvenliyap.com
+pttavm.odemeyi-tamamla.com
 pttavm.onay-ilanim-534.com
 pttavm.onayda-sepet-7180.com
 pttavm.onayli-satis.com.tr
@@ -333375,6 +333393,7 @@ pttavm.sa.com
 pttavm.sanalemarket.com
 pttavm.saticimerkezi.com
 pttavm.satinal-guvenli.com
+pttavm.satinal-siparis.com
 pttavm.satinalim-ilan.com
 pttavm.satis-urunler.com
 pttavm.satisguvencesi.com.tr
@@ -333436,6 +333455,7 @@ pttavm.sistemini-tamamla.com
 pttavm.site
 pttavm.sonfirsati.com.tr
 pttavm.store
+pttavm.tamamla-sipars.com
 pttavm.tedarigin-guvenlisi.com
 pttavm.tedarikler-guvenli.com
 pttavm.tr-ilanlarla.com
@@ -346370,6 +346390,7 @@ resttest.hopto.org
 resuelec.yachts
 result-lie-grndte.myonlineportal.ch
 result-ms.com
+result-ty.myonlineportal.ch
 resultakdatang2.duckdns.org
 resultantscrape.top
 resultantsnail.top
@@ -375093,6 +375114,7 @@ soliveprolprsp.click
 solivra.work
 solkampanyavefirsatlar.site
 solkmlrkatler.com
+solktanmarlektler.shop
 sollexaris.com
 sollrdannnds.duckdns.org
 sollsticeai.com
@@ -426877,6 +426899,7 @@ view-naver.com
 view-now.hopto.org
 view-pdf-onlineoffice.com
 view-resererve-en.com
+view-sour-c.myonlineportal.ch
 view-ternet.com
 view-v4.ddns.net
 view.inteleksys.com
