@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102406
-# Last change: 2026-09-06 13:42:11 UTC (sync mode: delta)
+# Records: 102409
+# Last change: 2026-09-06 17:06:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -40845,6 +40845,7 @@ havas6666.com
 havenaffiliate.top
 havenaura.click
 havenaurasprings.com
+havenistanbul.net
 havennode.biz
 havenpredominance.top
 havepeg.top
@@ -72301,6 +72302,7 @@ r25820.xyz
 r2th4.icu
 r32gt-rh3bhsdf-32rgr23we12edsa.sbs
 r3p851.cn
+r4ft19d4fd3w6dv.cfd
 r4ndevunuzhizmxt.net
 r6bq8yv.cn
 r71pj4.cyou
@@ -85388,6 +85390,7 @@ tanhumid.top
 tanidik-duygularimiz.xyz
 tanitim-cekilis.online
 tanitim-sans.online
+tanivuso-gepolemi.lol
 tanju-demr0.b-cdn.net
 tankpill.top
 tankspeciality.top

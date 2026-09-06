@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258157
-# Last change: 2026-09-06 09:28:42 UTC (sync mode: delta)
+# Records: 258185
+# Last change: 2026-09-06 17:06:32 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -4212,6 +4212,7 @@
 200grntibva.com
 2010020202021.duckdns.org
 2011muslera.club
+2012.evsahibibasvuru.com
 2015-e-posta-hesabi-gncelleme.my-free.website
 2018-halkbank.com
 2018den-size.com
@@ -28793,6 +28794,7 @@ assurpremiuns.quantumhatch.cfd
 assurrrmatkapinss22.xyz
 assvalo.click
 astaasdasds.duckdns.org
+asterisk.evsahibibasvuru.com
 astinokfas.top
 astirangordian.net
 astkarana.cc
@@ -37682,6 +37684,7 @@ bfkmsdkl.net
 bflxtlxlm.com
 bfm-cll.com
 bfmcsllll.com
+bfn1.evsahibibasvuru.com
 bfrd1gls0lzxm1as.com
 bfrsbszkampcfrs.cfd
 bfs-cll.com
@@ -47540,6 +47543,7 @@ blog.kriptodunya.online
 blog.mutlupetler.com.tr
 blog.parliavip.cfd
 blog.turkcellpasajsanalmagaza.com
+blog2.evsahibibasvuru.com
 bloger.sahaneindirimleriniz.xyz
 blogger-is-tn.blogspot.com
 blogger-istb.blogspot.com
@@ -50167,6 +50171,7 @@ bnynmchgdl.net
 bnysbasvuru-tr.com
 bnyzgrgifsrsrhjas.online
 bnzlmsdfnmgelsensem.com
+bo.evsahibibasvuru.com
 bo0mball4.xyz
 boa-secure-online-team.xyz
 boapp.shop
@@ -58476,6 +58481,7 @@ chiefmalls.com
 chihuahuadpler.life
 childfashion.top
 chilzbimcell.com
+china.evsahibibasvuru.com
 chinakbank.com
 chinesse-foods.cfd
 chipbasvuru.com
@@ -62798,6 +62804,7 @@ debanks.xyz
 debateom.com
 debateyn.com
 debesedustu.click
+debian.evsahibibasvuru.com
 debimcell.com
 debizbankv7acikdenizcom.cf
 debizbankv7acikdenizcom.ga
@@ -82084,6 +82091,7 @@ edirnesubesinde.xyz
 edirnesubesindeler.com.tr
 edirnesubesindeler.online
 edit-qnbfinansbank.ws
+editor.evsahibibasvuru.com
 editoracrestina.top
 edits.maliko.com.mx
 ediyas.sa.com
@@ -90241,6 +90249,7 @@ ewrewrewcxvvv.nicepage.io
 ewxqx.site
 ewxqx.website
 ex-clusive.org
+ex.evsahibibasvuru.com
 ex00wwer.duckdns.org
 ex0w3rkmsckler.duckdns.org
 exabimuayenearxc.net
@@ -95763,6 +95772,7 @@ forum-giris-tr.com
 forum-kampanya-bizde-yapi-basvuru.ml
 forum-kampanya-garanti-basvur-com.ml
 forum.evsahibibasvuru.com
+forum2.evsahibibasvuru.com
 forumbaglantilionline.info
 forumbilisim.xyz
 forumikampya-bireysel-basvur-com.cf
@@ -125567,6 +125577,7 @@ i-ziraatbank.com
 i-ziraatbankasi.com
 i.basuvuru.net
 i.dravencia.sbs
+i.evsahibibasvuru.com
 i.misecure.com
 i00000000000000000000000000000.sbs
 i1a1o1.net
@@ -129292,6 +129303,7 @@ ilzmkrlmdbkemsln.blogspot.com
 ilzmlskdsmsnas.blogspot.com
 im-basvuru-portal.online
 im-basvurum-portal.online
+im.evsahibibasvuru.com
 imaginemaximum.com
 imamcore.com
 imamogluistanbulkart.net
@@ -132397,6 +132409,7 @@ iotechh.online
 iotechsanalpzr0.shop
 ip-dynamic.org
 ip-kapiida-firsat-1-0-1.shop
+ipad.evsahibibasvuru.com
 ipadteknoloji.shop
 iparafhalkbank.com
 ipardakht.xyz
@@ -154126,6 +154139,7 @@ kvgwebgecsodemsislemlriniz.com
 kvhgsavbilgisis.sbs
 kvkhgss.com
 kvlwqphg-hizlihgsyukle.is-best.net
+kvm.evsahibibasvuru.com
 kvmavbilgi.sbs
 kvmdnha.online
 kvnentikrt.net
@@ -163701,6 +163715,7 @@ moobillbaasvurruuaccckdnnzonnayy.com
 moobillbiirreeyseellbasvuru.online
 mooday-yukle.shop
 moodfacts.com
+moodle.evsahibibasvuru.com
 moon-akfasfklfsakfsafslkfsalksf.online
 moon-akkmpfrst2024krbn.online
 moon-asdfssadasdsafssa.online
@@ -166598,6 +166613,7 @@ narsey.xyz
 narsigorta.site
 narsigortan.site
 narvalo13.ddns.net
+nas.evsahibibasvuru.com
 nasadad.net
 nasadada.net
 nasadadasasad.net
@@ -167350,6 +167366,7 @@ netw.talk4fun.net
 network-application-merkez-iade-basvuru-et.com
 network-application-yardim-talebini-olusturma-merkez.org
 network-yardim-talebini-olusturma-merkezi.org
+network.evsahibibasvuru.com
 networkceptedeniz.com
 networxxy.com
 netyapiikredi.biz
@@ -182967,6 +182984,7 @@ phllspslsa.cfd
 phoenixcheck.shop
 phoenixzem.com
 phonapi.cloud
+phone.evsahibibasvuru.com
 phonebookgrab.com
 phoness.name.tr
 phonettics.click
@@ -184443,6 +184461,7 @@ prdenizbank.com
 prdnbrdclsyzvrnmyndf.biz
 prdnbrdyzgnvrfdgscc.click
 pre-checker.tk
+pre.evsahibibasvuru.com
 preaktual.com
 preallow.com
 preaproof.icu
@@ -186711,6 +186730,7 @@ pttavm-tr.com
 pttavm-tramer-km-sorgu.web.app
 pttavm-urun.com
 pttavm-urunler.com
+pttavm-yedekparca.com
 pttavm-yklemerix.com
 pttavm-yklemex.com
 pttavm-yklex.com
@@ -187087,6 +187107,7 @@ pttavmkilometre.com
 pttavmkilometrebilgi.com
 pttavmkilometresorgu.com
 pttavmkilomtre.web.app
+pttavmkm.org
 pttavmkmbilgi.com
 pttavmkmdogrulama.com
 pttavmkmraporlama.com
@@ -187353,6 +187374,7 @@ pttgcciv.top
 pttgcsi-hxqgssk.com
 pttgecisodemehgs.tk
 pttgecisyuklemeniz.web.app
+pttgecisyuklmesi.web.app
 pttgettr.top
 pttgev-vip.cfd
 pttgfv.top
@@ -210272,6 +210294,7 @@ sskprimsorgulama.net
 sskskllfklrmckzxmktmrmsmtr.store
 sskslfkmckmtkmrkmcktmrmlfll.store
 ssl-santandernetseguro-br.suprarq.com.br
+ssl.evsahibibasvuru.com
 ssl3111.duckdns.org
 ssl3122.duckdns.org
 sslffsimdibasvrr.xyz
@@ -212427,6 +212450,7 @@ sudoriferousness.com
 sufficientlucky.top
 sufort.top
 sufvibe.com
+sugar.evsahibibasvuru.com
 sugarsubon.net
 suhuletkampanyisiicintikla.site
 suhuvea.com
@@ -217071,6 +217095,7 @@ terksnacan23sacan.cfd
 terlibvale.cfd
 terlisar.com
 termalsort.com
+terminal.evsahibibasvuru.com
 terminalhaberci.net
 terminalonline-sube.ml
 termo1o1.click
@@ -217164,6 +217189,7 @@ test.garantibbvakredibasvuru.com
 test.shellsell.market
 test1.evsahibibasvuru.com
 test222222222222a.blogspot.com
+test4.evsahibibasvuru.com
 testamntwx.click
 testbabatest.duckdns.org
 testbabattest.duckdns.org
@@ -228083,6 +228109,7 @@ twitter-help.cf
 twitter-online-islemler.com
 twitter-profilime-kimlerbakmis.com
 twitter-sup0rt.ml
+twitter.evsahibibasvuru.com
 twitterbegeni.com
 twittercikste.xyz
 twitterciksten.xyz
@@ -236688,6 +236715,7 @@ webdeonlineislemler.app
 webdesen.xyz
 webdestek-pandemibasvuru.com
 webdestekbirimi.online
+webdev.evsahibibasvuru.com
 webdevletsosyaldestegi.com
 webdevletsosyalyardim.com
 webdevltislemgovtr.site
