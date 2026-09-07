@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468949
-# Last change: 2026-09-07 16:30:23 UTC (sync mode: delta)
+# Records: 468985
+# Last change: 2026-09-07 20:36:54 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -34389,6 +34389,7 @@ agustosfirsatlarindakigunler.cfd
 agustosfirsatlarindakigunler.sbs
 agustosfirsatlarisadecea101.com
 agustosfirsatlariylasizlerleyiz.shop
+agustosflrsatimiz.com
 agustosflrsatlar.com
 agustosfrstlrinikcrma.online
 agustosfrstlrlgile.online
@@ -43095,6 +43096,7 @@ alikelogistics.top
 alikhalil.zapto.org
 alikhalil2.zapto.org
 alikhan.zapto.org
+alilisverilisyal.shop
 alillisilveris-ypa.com
 alilolo.zapto.org
 alilona.hopto.org
@@ -50790,6 +50792,7 @@ arbulario.com
 arbyhteam.zapto.org
 arbznmk.com
 arc-conduite.com
+arc-ly.myonlineportal.ch
 arcadecreative.com
 arcanobyte.online
 arcatrmakfm.net
@@ -51840,6 +51843,9 @@ arzumtblenn.com
 arzumverse.xyz
 arzyowvcay.duckdns.org
 as-aidatt-iade.ml
+as-gr-lr-tk.myonlineportal.ch
+as-k.myonlineportal.ch
+as-kt-lc.myonlineportal.ch
 as-pttgov.top
 as-randevu-a072e1251b5e.herokuapp.com
 as-tok.click
@@ -51996,6 +52002,7 @@ asd-ads.shop
 asd-as-da.mooo.com
 asd-asdasdasd.org
 asd-katilimlarniz2023.com
+asd-ol-gr.myonlineportal.ch
 asd-tok.click
 asd1112.f3322.net
 asd123.online
@@ -96885,6 +96892,7 @@ caykeyfimayis.com.tr
 caykurkampanya.com
 caykurmomentum.xyz
 caykursepet549.cfd
+caykursiparis.com
 caykurturkiyeyudum.me
 caylclicimakinlere.com
 caymadsosfareytozo.com
@@ -97837,6 +97845,7 @@ cekilis-paribu.cf
 cekilis-paribu.com
 cekilis-paribu.ml
 cekilis-paribu.online
+cekilis-reklam.online
 cekilis-sans.online
 cekilis-sonbahardenizbankbasvuru.com
 cekilis-subemobildenizonay.com
@@ -97972,6 +97981,7 @@ cekilisimhemenburada.online
 cekilisimizekatil.tk
 cekilisin-acikdenizv2denizbank.com
 cekilisin-burada.online
+cekilisinburada.online
 cekilisinde-acikdenizv2denizbank.com
 cekilisiniz-acikdenizv2denizbank.com
 cekilisiphone-teb.net
@@ -98016,6 +98026,7 @@ cekilisparibu.co
 cekilisparibu.com
 cekilisparibu.online
 cekilispro.xyz
+cekilisreklam.online
 cekilissbasvuruformuceptee.com
 cekilissonuc-qnbfinans.com
 cekilissonuclariparibu.live
@@ -112341,6 +112352,7 @@ cugubabaswass.best
 cugubasdaw.best
 cugubasdaww.best
 cugufirede-sedete.lol
+cugufuerede-sederese.lol
 cugyco.shop
 cuhbeebz.ddns.net
 cuhenikrun.blogspot.com
@@ -127552,6 +127564,7 @@ dijitalonaylarhizli-denizacik.com
 dijitalonayli-sayfa.com
 dijitalonaywebislem-denizacik.com
 dijitalonline-aynigunkapinda.duckdns.org
+dijitalonline-bugunkapinda.duckdns.org
 dijitalonline-hemenkapinda.duckdns.org
 dijitalonline-hizlisiparis.sbs
 dijitalonline-kampanyakapinda.duckdns.org
@@ -162738,6 +162751,7 @@ felixojedamartinez09.duckdns.org
 felixsolis.mobi
 feljrlp.duckdns.org
 fell.ddns.net
+fellanfllansas.live
 felldziri.duckdns.org
 fellowfraudulent.top
 fellowlcium.top
@@ -165259,6 +165273,7 @@ firmaevrak.xyz
 firmaforte.hopto.org
 firmaguvencesi.com.tr
 firmaislemler.xyz
+firmalar.firma.firmaslfasd.click
 firmalarimibizeistemi.space
 firmalarimizinfirsatlaridele.space
 firmalarinizialin.buzz
@@ -182767,6 +182782,7 @@ gizemkurumlari.com
 gizemligelecegim.online
 gizemligunlersdz.sbs
 gizemlikutun.com
+gizemlisubesindyz.duckdns.org
 gizemliyol.top
 gizemlizamanlaryardimvakfi.com
 gizeotek.com
@@ -208849,6 +208865,7 @@ hillerode.top
 hillespostelnm.eu
 hillhop.top
 hillhypocritical.top
+hillindrmgnlerndyzbiz.duckdns.org
 hillisolutions.info
 hillsbnkalert.duckdns.org
 hillsbnksecure.duckdns.org
@@ -212557,6 +212574,7 @@ hmnlialsatin.xyz
 hmnljvtrxn.duckdns.org
 hmnlnltanannta.net
 hmnlntansanat.net
+hmnlrta.net
 hmnlsantans.net
 hmnltansana.net
 hmnltnasna.net
@@ -212804,6 +212822,8 @@ hobbyhrs6.zapto.org
 hobbyplanners.com
 hobbystube.net
 hobcvwfe.com
+hobenesterkest.duckdns.org
+hobeslerteskert.duckdns.org
 hobesletr.duckdns.org
 hobestlerkes.click
 hobestlerkest.duckdns.org
@@ -212934,6 +212954,7 @@ hojdefterkester.click
 hojeasdert.duckdns.org
 hojemetstrer.duckdns.org
 hojesfejterdafs.duckdns.org
+hojesjelretekset.duckdns.org
 hojesnadfetrese.duckdns.org
 hojestelerkst.click
 hojesterser.duckdns.org
@@ -233971,10 +233992,12 @@ istanbulbelgimmcan.xyz
 istanbulbelgimmkart.xyz
 istanbulbelgimmkartcan.xyz
 istanbulbelgimmkarttt.xyz
+istanbulbelgimrandevu.xyz
 istanbulbellggiimm.xyz
 istanbulbellggimm.xyz
 istanbulbellgiimkartt.xyz
 istanbulbellgiimmm.xyz
+istanbulbelllggimm.com
 istanbulbelrlgim.xyz
 istanbulbenim.xyz
 istanbulbenim3434.xyz
@@ -234474,8 +234497,11 @@ istanbullbelggimkartu.xyz
 istanbullbelggimm.xyz
 istanbullbelgiimkart.xyz
 istanbullbelgimkart.xyz
+istanbullbelgimmkart.xyz
 istanbullbelgimmkartt.xyz
 istanbullbelgimtek.xyz
+istanbullbellggimmm.xyz
+istanbullbellgiimkartt.xyz
 istanbullbellgiimm.xyz
 istanbullbiizmlaa.xyz
 istanbullblog2025.myshopify.com
@@ -234904,6 +234930,7 @@ istb2yb.com
 istb3sb.com
 istbabacan.xyz
 istbabaco.xyz
+istbabahrzmns.store
 istbagsmsjwe.net
 istbakarkan.com
 istbakiye.com
@@ -248044,6 +248071,7 @@ kamusalbilgileri.com
 kamusaldestekplatformu.com
 kamusaldestekplatformu.info
 kamusaldestekplatformu.online
+kamusenindirim.vercel.app
 kamusorgu.org
 kamusorgula.org
 kamusorgula.xyz
@@ -257302,6 +257330,7 @@ kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybrd.com
 kmpnybsvrrrprsmynn15329.info
 kmpnybsvrrrprsmynn15329.pro
+kmpnyeylulfirst.duckdns.org
 kmpnyhmn1o1den.org
 kmpnyhmnbrd1o1.com
 kmpnyhmnbrd1o1.info
@@ -261190,6 +261219,7 @@ krgroup.club
 krgtakp2024.info.tr
 krgzmuzhmznikwali.com
 krhqzi.com
+kri-t.myonlineportal.ch
 kri-w-l-g-r-n-l.myonlineportal.ch
 kriakeen-logeon.webflow.io
 kribsvrrur.online
@@ -294476,6 +294506,7 @@ nea90ms.duckdns.org
 neaachar.com
 neaacred.top
 neagladinizbe.cfd
+nealanterlerdsew.duckdns.org
 neanlatinbe.net
 neanlatyn.za.com
 neanlatynsen.com
@@ -305515,6 +305546,7 @@ oltv-k-g-rn.myonlineportal.ch
 oluchezstur19subattsasip.cloud
 oluchiiiiiii.ddns.net
 olugari9483.blogspot.com
+oluhugere-derlikoli.lol
 olumlualisveris.xyz
 olumonlarabaksanaonlarnreklamyokki.com
 oluozanindiyari.xyz
@@ -325393,6 +325425,7 @@ pixeloza.xyz
 pixelrift.click
 pixelroot.site
 pixelsmith.shop
+pixeltokihub.site
 pixeltwilight.com
 pixelworld-roleplay.xyz
 pixeoyage.com
@@ -371028,6 +371061,7 @@ sisteminizdevirusbulundu.com
 sistemle-tamamlandirmaniz.com
 sistemler-odeme.online
 sistemler.name.tr
+sistemlerdenol.duckdns.org
 sistemli-tamamlama.com
 sistemli.biz.tr
 sistemligec1.sg-host.com
@@ -375251,6 +375285,7 @@ solitudevelvet.top
 soliveprolprsp.click
 solivra.work
 solkampanyavefirsatlar.site
+solkmarlektler.shop
 solkmlrkatler.com
 solktanmarlektler.shop
 sollexaris.com
@@ -399997,6 +400032,7 @@ tomen.online
 tomerudakil.gifts
 tomesdsla.com
 tomford.pro
+tomhadi.com
 tomhadibankampanyasi.duckdns.org
 tomharry.ddns.net
 tomifdrpmi.duckdns.org

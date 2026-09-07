@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258216
-# Last change: 2026-09-07 16:30:23 UTC (sync mode: delta)
+# Records: 258232
+# Last change: 2026-09-07 20:36:54 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -27760,6 +27760,7 @@ arbbkiraalam.xyz
 arbitrum-binance.com
 arbizim.xyz
 arbkiralama.com.tr
+arc-ly.myonlineportal.ch
 arcanobyte.online
 arcatrmakfm.net
 arcavskiralama.xyz
@@ -28117,6 +28118,9 @@ arzumprime.xyz
 arzumsizinindirimiiz.com
 arzumverse.xyz
 as-aidatt-iade.ml
+as-gr-lr-tk.myonlineportal.ch
+as-k.myonlineportal.ch
+as-kt-lc.myonlineportal.ch
 as-pttgov.top
 as-randevu-a072e1251b5e.herokuapp.com
 as-tok.click
@@ -28181,6 +28185,7 @@ ascscascascasc.weddings2remember.com.au
 asd-ads.shop
 asd-as-da.mooo.com
 asd-asdasdasd.org
+asd-ol-gr.myonlineportal.ch
 asd-tok.click
 asd1sad242330sd.duckdns.org
 asd231256sad03as2d6.duckdns.org
@@ -56675,6 +56680,7 @@ cekilis-mobilbasvuruonay.com
 cekilis-online.com
 cekilis-paribu.ml
 cekilis-paribu.online
+cekilis-reklam.online
 cekilis-sonbahardenizbankbasvuru.com
 cekilis-subesiz-giris.com
 cekilis-subesiz-giris.org
@@ -56787,6 +56793,7 @@ cekilisimekatil2023ekim.com
 cekilisimhemenburada.online
 cekilisin-acikdenizv2denizbank.com
 cekilisin-burada.online
+cekilisinburada.online
 cekilisinde-acikdenizv2denizbank.com
 cekilisiniz-acikdenizv2denizbank.com
 cekilisiphone-teb.net
@@ -56824,6 +56831,7 @@ cekilisonay-ziraatbank.com
 cekilisonayi2020.com
 cekilisonayistekacikdenizv2denizbank.co.vu
 cekilisonline.tk
+cekilisreklam.online
 cekilissbasvuruformuceptee.com
 cekilissonuc-qnbfinans.com
 cekilissonuclariparibu.live
@@ -70588,6 +70596,7 @@ dijitalonayhizliweb-denizacik.com
 dijitalonaylarhizli-denizacik.com
 dijitalonayli-sayfa.com
 dijitalonaywebislem-denizacik.com
+dijitalonline-bugunkapinda.duckdns.org
 dijitalonline-kampanyakapinda.duckdns.org
 dijitalonline-servisler.com
 dijitalonline-tr.com
@@ -103512,6 +103521,7 @@ gizemci.site
 gizemkurulu.com
 gizemligelecegim.online
 gizemlikutun.com
+gizemlisubesindyz.duckdns.org
 gizlenebilir-kedi-tuvaleti-ve-mobilya.top
 gizli-cevaplar-hizli-olan-alir.com
 gizli-hayran.com
@@ -135392,9 +135402,11 @@ istanbulbelgimlkart.xyz
 istanbulbelgimmcan.xyz
 istanbulbelgimmkart.xyz
 istanbulbelgimmkartcan.xyz
+istanbulbelgimrandevu.xyz
 istanbulbellggiimm.xyz
 istanbulbellggimm.xyz
 istanbulbellgiimkartt.xyz
+istanbulbelllggimm.com
 istanbulbenim.xyz
 istanbulbenimla.xyz
 istanbulbenle.shop
@@ -135771,6 +135783,9 @@ istanbullbakiyecisi.net
 istanbullbakiyesillik.net
 istanbullbelggimm.xyz
 istanbullbelgiimkart.xyz
+istanbullbelgimmkart.xyz
+istanbullbellggimmm.xyz
+istanbullbellgiimkartt.xyz
 istanbullbellgiimm.xyz
 istanbullblog2025.myshopify.com
 istanbullbrsibb.net
@@ -144022,6 +144037,7 @@ kamusalbilgiler.com
 kamusalbilgileri.com
 kamusaldestekplatformu.com
 kamusaldestekplatformu.info
+kamusenindirim.vercel.app
 kamusorgula.org
 kamusorgula.xyz
 kamusorgum.org

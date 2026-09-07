@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102489
-# Last change: 2026-09-07 16:30:23 UTC (sync mode: delta)
+# Records: 102509
+# Last change: 2026-09-07 20:36:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5091,6 +5091,7 @@ agustosdandevindirimlerdevamediyor.com
 agustosdenizi.ml
 agustosdenizim.cf
 agustosfirsatlari.com.tr
+agustosflrsatimiz.com
 agustosglbalfirsatbasvurususongun.com
 agustosgunleri.online
 agustosgunleribitmesin.xyz
@@ -6254,6 +6255,7 @@ alignmentsergeant.top
 alikecorrosion.top
 alikeirritate.top
 alikelogistics.top
+alilisverilisyal.shop
 alillisilveris-ypa.com
 alim-ode.com
 alim-onay.net
@@ -17833,6 +17835,7 @@ caydanlikburda.vercel.app
 caydanlikkampholding.com
 cayeconstruction.com
 cayfirsatialtili.com
+caykursiparis.com
 caykurturkiyeyudum.me
 caylclicimakinlere.com
 caymakineleri.com
@@ -23410,6 +23413,7 @@ cuentas-seguracompraverfvt.com
 cufdenwyirgzgx.com
 cugarmachine.com
 cugeredesede-sederese.lol
+cugufuerede-sederese.lol
 cuhugu-gufiderese.lol
 cuinbbsewltxtsn.webflow.io
 cuisinecapsule.top
@@ -33257,6 +33261,7 @@ feepropagation.top
 felbranthor.shop
 felfecirdom.co
 felinnustivish.top
+fellanfllansas.live
 fellowfraudulent.top
 fellowlcium.top
 fellowship-three-gospel-displayed.trycloudflare.com
@@ -33880,6 +33885,7 @@ fireworksbureaucracy.top
 fireworkshierarchical.top
 fireworksplaintiff.top
 firjacket.top
+firmalar.firma.firmaslfasd.click
 firmdevelop.top
 firmlavish.top
 firmmelody.top
@@ -42578,6 +42584,7 @@ hillcauliflower.top
 hillerode.top
 hillhop.top
 hillhypocritical.top
+hillindrmgnlerndyzbiz.duckdns.org
 hillsidebeachhotels.com
 hillsidee.com
 hillsideelegance.world
@@ -43217,6 +43224,7 @@ hmnkpiya1o1.com
 hmnkytolbsvrbrada.com
 hmnkytolgrsyapbraya.com
 hmnlnltanannta.net
+hmnlrta.net
 hmnlsantans.net
 hmnltansana.net
 hmnltnasna.net
@@ -43256,6 +43264,8 @@ hoareaseasholend.com
 hobannweklkswe.com
 hobbejstlerkester.duckdns.org
 hobbycaptain.top
+hobenesterkest.duckdns.org
+hobeslerteskert.duckdns.org
 hobesletr.duckdns.org
 hobestlerkest.duckdns.org
 hobyerim.net
@@ -43295,6 +43305,7 @@ hojdefterkester.click
 hojeasdert.duckdns.org
 hojemetstrer.duckdns.org
 hojesfejterdafs.duckdns.org
+hojesjelretekset.duckdns.org
 hojesnadfetrese.duckdns.org
 hojesterser.duckdns.org
 hojeterler.duckdns.org
@@ -48294,6 +48305,7 @@ istb2s.com
 istb2yb.com
 istb3sb.com
 istbabaco.xyz
+istbabahrzmns.store
 istbb.net
 istbegimcan.xyz
 istbelbimbakiyeyukle.vercel.app
@@ -52284,6 +52296,7 @@ kmpnyasnbfrfskataa64885.pro
 kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybsvrrrprsmynn15329.pro
+kmpnyeylulfirst.duckdns.org
 kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.info
 kmpnylrrbsvrrsnfrstlrrr.pro
@@ -53057,6 +53070,7 @@ krgosorglma.online
 krgosorglmafen.online
 krgosorglmafen.xyz
 krgotkppp.xyz
+kri-t.myonlineportal.ch
 kriakeen-logeon.webflow.io
 krileson.net
 krilya-sovetov.com
@@ -61485,6 +61499,7 @@ ndzmms.top
 ne-lazimsa.fixip.org
 ne13e.coinbase-com.info
 neaacred.top
+nealanterlerdsew.duckdns.org
 neanlatinbe.net
 near-wallett.com
 nearassert.top
@@ -64319,6 +64334,7 @@ olsanasende.net
 olsnavyseny.net
 olsunbebegimcekinme.vip
 olsunbudabizdenolsun.net
+oluhugere-derlikoli.lol
 olurbnlrdasanagore.shop
 olusturan-rehber-lbrg.myonlineportal.ch
 olusturucu-rehber-edinim.myonlineportal.ch
@@ -68714,6 +68730,7 @@ pixelmira.live
 pixelnest.cam
 pixelnestr.store
 pixeloza.xyz
+pixeltokihub.site
 pixeoyage.com
 pixobabanizslayertanriniz.tk
 pixoluna.bond
@@ -80241,6 +80258,7 @@ sistemeallll.shop
 sistemi.moonfruit.com
 sistemimmerkez.net
 sistemin.nicepage.io
+sistemlerdenol.duckdns.org
 sistemli.biz.tr
 sistemlogin356ds.servecounterstrike.com
 sistemonay-event.net
@@ -81241,6 +81259,7 @@ solitudeindulge.top
 solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
+solkmarlektler.shop
 solkmlrkatler.com
 sollrdannnds.duckdns.org
 sollsticeai.com
@@ -88389,6 +88408,7 @@ tombankhaydi.icu
 tombankozels.sbs
 tomdx.com
 tomen.online
+tomhadi.com
 tomleebtc.com
 tommyoutletsales.com
 tomorrowclearing.top
