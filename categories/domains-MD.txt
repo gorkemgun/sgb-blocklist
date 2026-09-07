@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65942
-# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
+# Records: 65943
+# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15467,6 +15467,7 @@ cdnapple.in
 cdnatapple.ru
 cdncache.ml
 cdneu.kralprogramcdn.com
+cdnflare.xyz
 cdninstagram.center
 cdnjqlenzp.duckdns.org
 cdnjsdelivr.beer

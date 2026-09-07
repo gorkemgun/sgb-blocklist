@@ -2735,6 +2735,7 @@
 101karaca.com.tr
 101karacastok.sbs
 101kariyer.com
+101kariyer.net
 101kasimindirimi.com
 101kasimindirimicepte.com
 101kasimindirimleri.com
@@ -4363,6 +4364,7 @@
 132132132131.duckdns.org
 1321651651bb51651b51.duckdns.org
 13222112211445799890.duckdns.org
+13222112211445799891.duckdns.org
 13222214544588989990890.duckdns.org
 13222214544588989990891.duckdns.org
 13222214544588989990892.duckdns.org
@@ -23319,6 +23321,7 @@ a-rabamuayne.org
 a-rcmuyaneservcinezv.net
 a-rdwswag.app
 a-right-look-mr.myonlineportal.ch
+a-s-b-c.myonlineportal.ch
 a-sa.sa.com
 a-sa.za.com
 a-safet.top
@@ -23334,6 +23337,7 @@ a-verification.co
 a-visfilo.com.tr
 a-visfilo.xyz
 a-vmgunlukleri1brda0firsat-1.com
+a-vrage-c-b.myonlineportal.ch
 a-yar2s-ml.cdn.ampproject.org
 a-yonlendir.ink
 a-zcati.com
@@ -97380,6 +97384,7 @@ cdncache.ml
 cdndmw.top
 cdndns.su
 cdneu.kralprogramcdn.com
+cdnflare.xyz
 cdngateway.us
 cdnheaven.com
 cdnhookup.icu
@@ -97939,6 +97944,7 @@ cekilisi-acikdenizv2denizmobil.com
 cekilisi-acikdenizv2denizmobil.online
 cekilisi-paribu.co
 cekilisi-paribu.com
+cekilisi-paribu.online
 cekilisi.com
 cekilisi.online
 cekilisi.org
@@ -137915,6 +137921,7 @@ e-hesmobil.com
 e-hesonline.com
 e-hgs-bakiyeniz.com
 e-hgs-sorgu.org
+e-hgs.de
 e-hgs.fun
 e-hgs.online
 e-hgs.org
@@ -147456,6 +147463,7 @@ ejectionpropaganda.top
 ejedzg.duckdns.org
 ejet-ticaretin1.online
 ejet-ticaretin2.online
+ejet-ticaretin4.online
 ejh.rapturesriskier.com
 ejh50k20b.duckdns.org
 ejhdk.xyz
@@ -153072,6 +153080,7 @@ eonayhizmetialim.online
 eonayimekranim.onthewifi.com
 eonayla-ziraatbank.com
 eonaylihizmetin.com
+eonaylihizmetin1.online
 eonbl.com
 eonbn.com
 eone.msoftupdates.eu
@@ -157303,6 +157312,7 @@ eventnews.live
 eventonlinemayis.net
 eventonlinetakip2022.com
 eventoostartupkatilsengel.net
+eventos3a.com
 eventourarte.cl
 eventpesmobile22.duckdns.org
 events-datamicrosoft.org
@@ -164802,6 +164812,7 @@ finansman-togg.com
 finansman.popytalep.online
 finansmaninfo.biz
 finansmankredi.com
+finansmanmenkul.pro
 finansmansorgulamahizmeti.net
 finansmarket.online
 finansmarket.store
@@ -203358,6 +203369,7 @@ hemerscanflsk.com
 hemesilskem-sonuc.net
 hemestreks.com
 hemgectmhemaldm.net
+hemgends.duckdns.org
 hemi.mamasbakery.net
 hemiad.zapto.org
 hemidigit.click
@@ -241285,6 +241297,7 @@ jethgsyukleme.com
 jethgsyuklemeleri.com
 jethizindasigorta.net.tr
 jethizindasigorta.web.tr
+jethizmetin1-ru.online
 jethronet3.ddns.net
 jetingsign.info
 jetjetbrzil.shop
@@ -249269,6 +249282,7 @@ karacastore.net.tr
 karacastore.org.tr
 karacastoretr.shop
 karacastr.homes
+karacasummer.shop
 karacatabak.free.site.pro
 karacatava.cfd
 karacatc.cfd
@@ -253028,6 +253042,7 @@ kepguncel.net
 kepguncelleme.com
 kephepsiburada.com
 kepim-aktiflestirme-guncel.com
+kepim-hepsiburada.com
 kepim.com
 kepim.net
 kepimaktif-hepsi-burada.com
@@ -263201,6 +263216,7 @@ kuzeykibrisyurtici.online
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
 kuzeymuayene.com
+kuzeyportfoyyonetim.com
 kuzeyvakfi.com
 kuzgn432521.shop
 kuzgn53532512321.online
@@ -280065,6 +280081,7 @@ metaprotected10782373254.duckdns.org
 metaprotections-checkpintsafety.duckdns.org
 metaqnbfinansbank.com
 metareklam.shop
+metareklam9503.sbs
 metareklamkampanya.click
 metarx.ddnsking.com
 metasecureconnect.ddns.net
@@ -281101,6 +281118,8 @@ microservice-update-s2-bucket.cc
 microservice.zapto.org
 microsfot.org
 microsft-update.com
+microsft.run
+microsft.studio
 microsft.updata.net.cn
 microsfting.ddns.net
 microsof-update.com
@@ -285740,6 +285759,7 @@ mobilservisler-53.sbs
 mobilservisler-54.sbs
 mobilservisler-55.sbs
 mobilservisler-57.sbs
+mobilservisler-61.sbs
 mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
@@ -305833,6 +305853,7 @@ onaycebbbsubevakkiff.net
 onaycebimaktif-basvurular-onlineyapicebimonaylandi.vercel.app
 onaycekilisiacikdenizv2denizbank.co.vu
 onayda-sepet-7180.com
+onayda-sepet-7181.com
 onayda-tedarik.com
 onaydenizbank.com
 onaydenizbank.net
@@ -314274,6 +314295,7 @@ oyakglobal.com
 oyakglobal.com.tr
 oyaktrade.com
 oyaktradeplus.com
+oyakyatirimtradeplus.com
 oyapikredi.com
 oyarculfic.rpexylakeg.ru
 oyaw.club
@@ -320658,6 +320680,7 @@ paribuskts.xyz
 paribuslogin.co.vu
 paribusosyalmedyacekilisleri.xyz
 paribusponsorlu-cekilis.online
+paribusponsorlu-cekils.online
 paribusponsorlu.online
 paribusponsorlucekilis.online
 paribusponsorlucekilisi.online
@@ -320669,8 +320692,10 @@ paribusponsorlugunda-cekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
+paribusponsorlugundacekilis.live
 paribusponsorlugundacekilis.online
 paribusponsorlugundacekilisi.online
+paribusponsorlugundacekilisim.online
 paribusponsorlugundacekils.online
 paribusponsporlucekilisi.live
 paribuss.com
@@ -352902,10 +352927,12 @@ sahibinden-getilan.t-ilanlar.online
 sahibinden-getilan.tr-alisveris-e-islemler.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisveris-islemlerim.online
+sahibinden-getilan.tr-alisveris-webislemler.online
 sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-alisverisler.com.tr
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-islemler-param-guvende.online
+sahibinden-getilan.tr-web-alisveris.online
 sahibinden-getilan.tr-web-islemler.online
 sahibinden-getilan.ty-hizmet.online
 sahibinden-getilanlar.com.tr
@@ -354545,6 +354572,7 @@ sahibinden.hizmetleriniz.com.tr
 sahibinden.i-alisverisim-tr.sa.com
 sahibinden.i-onlineodeme.sa.com
 sahibinden.id17038.com
+sahibinden.id51452.cfd
 sahibinden.id53131.cfd
 sahibinden.ikinci-el-sepetim.com.tr
 sahibinden.ikinci-el-sepetteyim.com.tr
@@ -354823,6 +354851,7 @@ sahibinden.offer192391.rest
 sahibinden.onay-app.com
 sahibinden.onay-ilanim-534.com
 sahibinden.onay-tr.net
+sahibinden.onayda-sepet-7181.com
 sahibinden.onayin-tr.net
 sahibinden.onaylama-app.com
 sahibinden.onaylamaservisi.net
@@ -358063,6 +358092,7 @@ sartamanta.click
 sartanndog.app
 sartbeka.click
 sarthaksrishticreation.com
+sartlarimiz.sbs
 sarts.is-best.net
 sartsiz.com
 sartsizdestekvakfmobil.tk
@@ -372465,6 +372495,7 @@ skyiletisim.com.tr
 skyinformdata.com
 skyjetsatis.com
 skyjetturkiye.com
+skykiralama.com
 skykm12.duckdns.org
 skylarkbay.com
 skylevis.com
@@ -386933,8 +386964,10 @@ synclayershop.co
 syncr.ddns.net
 syncscheduler.com
 syncservices.one
+syncstime.to
 syncswsap.com
 synctech.cyou
+synctime.to
 synctimestamp.com
 synctrustwallet.ddns.net
 syncupdate.site
@@ -390741,6 +390774,7 @@ tcbmuygulamatcbm2.com
 tcbmvbmtrhazinegovtr424.com
 tcbofis.com
 tcbrtm5.com
+tcbtk.org
 tcc-cimer.com
 tccb-aidat-iade-gov-tr.com
 tccb-aidatlari.com
@@ -393042,6 +393076,7 @@ teknomen.site
 teknompazar.com
 teknoosa.com
 teknopiran02.site
+teknos-sa.tr
 teknos-tr.com
 teknosa-club-girsini.com
 teknosa-club.online
@@ -396986,6 +397021,8 @@ timeshop.net
 timesofarab.com
 timestampsync.com
 timestore.club
+timesync.to
+timesysnc.net
 timetaiwan1.ddns.net
 timetengstell.com
 timetodatings.life
@@ -401346,6 +401383,7 @@ tr-alisveris-islemler.online
 tr-alisveris-islemlerim.online
 tr-alisveris-odeme.online
 tr-alisveris-param-guvende.online
+tr-alisveris-webislemler.online
 tr-alisveris.com
 tr-alisveris.net
 tr-alisveris.online
@@ -436195,6 +436233,7 @@ windsofbalthera.com
 windsowass.com
 windturbine.website
 windwosupdata.ddns.net
+windwsecurity.run
 windwsssjyt.duckdns.org
 windwsupdate.ddns.net
 windyeminence.top
@@ -476088,6 +476127,7 @@ zzb.bz/kobihalk
 5.181.80.127
 5.181.80.129
 5.181.80.132
+5.181.86.133
 5.181.132.95
 5.181.156.234
 5.181.159.9
@@ -477573,6 +477613,7 @@ zzb.bz/kobihalk
 43.226.126.165
 43.226.229.43
 43.228.126.4
+43.228.157.28
 43.228.157.121
 43.228.157.123
 43.228.217.82
@@ -478420,7 +478461,9 @@ zzb.bz/kobihalk
 45.142.182.103
 45.142.182.126
 45.142.193.119
+45.142.193.132
 45.142.193.161
+45.142.193.196
 45.142.195.99
 45.142.212.21
 45.142.212.61
@@ -479461,6 +479504,8 @@ zzb.bz/kobihalk
 62.4.31.161
 62.8.193.206
 62.16.55.170
+62.60.130.142
+62.60.130.228
 62.60.131.168
 62.60.131.180
 62.60.131.184
@@ -480872,6 +480917,7 @@ zzb.bz/kobihalk
 82.165.152.127
 82.180.133.120
 82.180.174.230
+82.192.72.4
 82.194.0.222
 82.199.223.75
 82.202.179.6
@@ -481395,6 +481441,7 @@ zzb.bz/kobihalk
 88.214.26.30
 88.214.26.38
 88.214.50.3
+88.216.72.181
 88.218.0.78
 88.218.16.9
 88.218.16.118
@@ -481927,6 +481974,7 @@ zzb.bz/kobihalk
 91.236.4.234
 91.236.116.63
 91.236.176.133
+91.238.181.19
 91.238.181.240
 91.238.181.247
 91.239.78.168
@@ -482119,6 +482167,7 @@ zzb.bz/kobihalk
 93.127.200.211
 93.147.157.195
 93.147.212.206
+93.152.221.226
 93.152.224.29
 93.152.224.75
 93.152.224.167
@@ -482979,6 +483028,7 @@ zzb.bz/kobihalk
 103.97.228.178
 103.98.214.218
 103.101.30.10
+103.102.31.18
 103.103.0.225
 103.103.69.167
 103.103.128.151
@@ -483194,6 +483244,7 @@ zzb.bz/kobihalk
 103.213.246.23
 103.214.4.135
 103.214.63.9
+103.215.74.26
 103.215.80.173
 103.215.82.161
 103.216.221.19
@@ -484665,6 +484716,7 @@ zzb.bz/kobihalk
 138.185.72.26
 138.197.14.95
 138.197.15.182
+138.197.17.142
 138.197.24.249
 138.197.34.162
 138.197.39.208
@@ -485577,6 +485629,7 @@ zzb.bz/kobihalk
 152.89.247.60
 152.136.57.182
 152.169.70.42
+152.233.30.18
 153.80.249.218
 153.92.1.125
 153.92.126.196
@@ -488506,6 +488559,7 @@ zzb.bz/kobihalk
 185.241.208.243
 185.241.208.248
 185.241.208.250
+185.242.3.151
 185.242.84.24
 185.242.85.124
 185.242.87.149
@@ -488992,6 +489046,7 @@ zzb.bz/kobihalk
 192.158.232.67
 192.159.99.26
 192.159.99.34
+192.159.99.56
 192.159.99.83
 192.159.99.95
 192.161.48.43
@@ -489670,6 +489725,7 @@ zzb.bz/kobihalk
 194.180.48.58
 194.180.48.84
 194.180.48.100
+194.180.48.134
 194.180.48.158
 194.180.48.160
 194.180.48.202
@@ -490651,6 +490707,7 @@ zzb.bz/kobihalk
 209.141.41.175
 209.141.43.15
 209.141.43.37
+209.141.43.95
 209.141.44.28
 209.141.46.90
 209.141.49.178

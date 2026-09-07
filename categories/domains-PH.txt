@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102442
-# Last change: 2026-09-07 04:49:01 UTC (sync mode: delta)
+# Records: 102467
+# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -297,6 +297,7 @@
 101kapindakampanyasi.duckdns.org
 101kapndaonline2023.online
 101kariyer.com
+101kariyer.net
 101klimakampanyalari.com
 101kralsfe.duckdns.org
 101magazacty.com
@@ -17998,6 +17999,7 @@ cekilishizli-acikdenizv2denizbank.online
 cekilisi--paribu.com
 cekilisi-paribu.co
 cekilisi-paribu.com
+cekilisi-paribu.online
 cekilisimekatilhmnodyulunualtooapparently.net
 cekilisimizekatil.tk
 cekiliskayit.com
@@ -28305,6 +28307,7 @@ e-haber.club
 e-haber.life
 e-haberleri.tk
 e-hasar.org
+e-hgs.de
 e-hgsbakiyeislemleri.com
 e-hizli-alim.com.tr
 e-hizli-bireysel-kampanya-basvur-online.ml
@@ -29557,6 +29560,7 @@ eivakfi.org
 ejccjejcjeget.com
 ejectionpropaganda.top
 ejet-ticaretin2.online
+ejet-ticaretin4.online
 ejqzub.homes
 ejvkca.cceng.coinbase-com.info
 ek-bireyselhesap.com
@@ -30817,6 +30821,7 @@ eokul-meb.com
 eolvaru.com
 eonayimekranim.onthewifi.com
 eonaylihizmetin.com
+eonaylihizmetin1.online
 eonline-turkiyegovtr.com
 eonlinebasvurumozel-bireysel-kampanya.ml
 eonlinegirisi-basvurulariyapma.com
@@ -31671,6 +31676,7 @@ eventlerisorgulamaekrani.net
 eventlerozelbayramkmpnyasi.net
 eventlertakip.com
 eventonlinemayis.net
+eventos3a.com
 events-de.com
 events-fi.com
 events-ge.com
@@ -33746,6 +33752,7 @@ finanshizliiadetalebi2021.mermerfatihlerimde.com
 finanskaynak.online
 finanslacebimdolu.com
 finansmaninfo.biz
+finansmanmenkul.pro
 finansmerkezin.site
 finansmobilsubem.ml
 finansonerisi.com
@@ -41737,6 +41744,7 @@ hemenyonlendirme.com
 hemenyukle.live
 hemenyukleniyoruz.blogspot.com
 hemesilskem-sonuc.net
+hemgends.duckdns.org
 hemislemnokta-sonuc.net
 hemispherebluff.top
 hemisphererelic.top
@@ -49504,6 +49512,7 @@ jetcepte.xyz
 jetcicek.org
 jetgroup.tk
 jethizindasigorta.net.tr
+jethizmetin1-ru.online
 jetingsign.info
 jetlagdowngrade.top
 jetlaghomexual.top
@@ -50730,6 +50739,7 @@ karacasofras.homes
 karacasonline.shop
 karacastore.club
 karacastr.homes
+karacasummer.shop
 karacatc.com
 karacatcb.cfd
 karacatr.homes
@@ -51380,6 +51390,7 @@ kepadresim.net
 kepbilgisi.com
 kepdogrulama.com
 kephepsiburada.com
+kepim-hepsiburada.com
 kepim.com
 keralamist.com
 kerametran.ezgateway.net
@@ -53386,6 +53397,7 @@ kuxcoinlogiinb.webflow.io
 kuzeyhaberx.site
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
+kuzeyportfoyyonetim.com
 kuzeyvakfi.com
 kuzulabs.org
 kv67ym2ka0h72ja.online
@@ -58430,6 +58442,7 @@ metaphoricalcrave.top
 metaphoricalstrait.top
 metaportalbussineshelp.com.tr
 metareklam.shop
+metareklam9503.sbs
 metashelpcopyright.ml
 metatask01.shop
 metateamhelpcase.ml
@@ -59630,6 +59643,7 @@ mobilservisler-53.sbs
 mobilservisler-54.sbs
 mobilservisler-55.sbs
 mobilservisler-57.sbs
+mobilservisler-61.sbs
 mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
@@ -64368,6 +64382,7 @@ onay-limit.xyz
 onay-mobildenizv2basvuru.com
 onaycebbbsubedeniiz.net
 onayda-sepet-7180.com
+onayda-sepet-7181.com
 onayda-tedarik.com
 onayekranimizcinayli.fun
 onayekraniniz-sorogrengiris.sbs
@@ -66089,6 +66104,7 @@ oyakglobal.com
 oyakglobal.com.tr
 oyaktrade.com
 oyaktradeplus.com
+oyakyatirimtradeplus.com
 oyaxon.com
 oyazkamparac.xyz
 oyczop.top
@@ -67305,6 +67321,7 @@ paribusdtrek-kazan.ml
 paribusistemi.com
 paribusizinle.com
 paribusizlerle.com
+paribusponsorlu-cekils.online
 paribusponsorlu.online
 paribusponsorlucekilisim.online
 paribusponsorlucekilisleri.online
@@ -67314,8 +67331,10 @@ paribusponsorlugunda-cekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
+paribusponsorlugundacekilis.live
 paribusponsorlugundacekilis.online
 paribusponsorlugundacekilisi.online
+paribusponsorlugundacekilisim.online
 paribusponsorlugundacekils.online
 paribusponsporlucekilisi.live
 paribustock.org
@@ -76168,6 +76187,7 @@ sahibinden.hizmetler-tr.org
 sahibinden.hizmetlerin.com.tr
 sahibinden.hizmetleriniz.com.tr
 sahibinden.id17038.com
+sahibinden.id51452.cfd
 sahibinden.id53131.cfd
 sahibinden.ilan-aktif.com.tr
 sahibinden.ilan-al-ode.com.tr
@@ -77036,6 +77056,7 @@ sarsarsarsarmakarayyyy.com
 sartahaber.com
 sartaizm.com
 sartamanta.click
+sartlarimiz.sbs
 sartsiz.com
 sarvice.best
 sas-cas-0072.sasg.coinbase-com.info
@@ -80497,6 +80518,7 @@ skyhighdream.info
 skyinformdata.com
 skyjetsatis.com
 skyjetturkiye.com
+skykiralama.com
 skylarkbay.com
 skylineflashnow.com
 skylinerevival.top
@@ -85810,6 +85832,7 @@ tcbmtrtr887.com
 tcbmtruygulama6.com
 tcbmuygulamapandemigirisiniz78.com
 tcbrtm5.com
+tcbtk.org
 tccbmctrhazinegovtrc8262.com
 tccbmcumhurbaskanliktr.tk
 tccbmgovurtr34.b-cdn.net
@@ -86404,6 +86427,7 @@ teknolojininadresinde.com
 teknolojininileriyeniliklerrehberi.xyz
 teknolojionayhizmet.online
 teknolojiveegitimv.online
+teknos-sa.tr
 teknos-tr.com
 teknosa-club-girsini.com
 teknosa-kampanya.pro
@@ -88761,6 +88785,7 @@ tr-alimlar.com.tr
 tr-alisveris-e-islemler.online
 tr-alisveris-islemler.online
 tr-alisveris-islemlerim.online
+tr-alisveris-webislemler.online
 tr-alisveris.net
 tr-alisverisler.com.tr
 tr-alisverislerim.click

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41201
-# Last change: 2026-09-03 16:29:34 UTC (sync mode: delta)
+# Records: 41208
+# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -23192,6 +23192,8 @@ microsecurx3.ddns.net
 microservice-update-s1-bucket.cc
 microservice-update-s2-bucket.cc
 microsfot.org
+microsft.run
+microsft.studio
 microsof-update.com
 microsofdonline.com
 microsofed.com
@@ -33934,6 +33936,8 @@ sync.chatit.club
 sync.wonderbackup.com
 syncr.ddns.net
 syncscheduler.com
+syncstime.to
+synctime.to
 synd.edgecdnc.com
 syndication.gcdnanalytics.com
 syndicationtwimg.site
@@ -34942,6 +34946,8 @@ timechanges.duckdns.org
 timelesstravelinc.com
 times.windowstimes.me
 timesofarab.com
+timesync.to
+timesysnc.net
 timetodatings.life
 timetok.online
 timetoshinecarwash.com
@@ -38538,6 +38544,7 @@ windrvupdate.kozow.com
 windsecure.ru
 windturbine.website
 windwosupdata.ddns.net
+windwsecurity.run
 winebiddingthailand.com
 winedebt.info
 winfoss1.kozow.com

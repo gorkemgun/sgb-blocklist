@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468863
-# Last change: 2026-09-07 04:49:01 UTC (sync mode: delta)
+# Records: 468902
+# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2739,6 +2739,7 @@
 101karaca.com.tr
 101karacastok.sbs
 101kariyer.com
+101kariyer.net
 101kasimindirimi.com
 101kasimindirimicepte.com
 101kasimindirimleri.com
@@ -4367,6 +4368,7 @@
 132132132131.duckdns.org
 1321651651bb51651b51.duckdns.org
 13222112211445799890.duckdns.org
+13222112211445799891.duckdns.org
 13222214544588989990890.duckdns.org
 13222214544588989990891.duckdns.org
 13222214544588989990892.duckdns.org
@@ -23323,6 +23325,7 @@ a-rabamuayne.org
 a-rcmuyaneservcinezv.net
 a-rdwswag.app
 a-right-look-mr.myonlineportal.ch
+a-s-b-c.myonlineportal.ch
 a-sa.sa.com
 a-sa.za.com
 a-safet.top
@@ -23338,6 +23341,7 @@ a-verification.co
 a-visfilo.com.tr
 a-visfilo.xyz
 a-vmgunlukleri1brda0firsat-1.com
+a-vrage-c-b.myonlineportal.ch
 a-yar2s-ml.cdn.ampproject.org
 a-yonlendir.ink
 a-zcati.com
@@ -97384,6 +97388,7 @@ cdncache.ml
 cdndmw.top
 cdndns.su
 cdneu.kralprogramcdn.com
+cdnflare.xyz
 cdngateway.us
 cdnheaven.com
 cdnhookup.icu
@@ -97943,6 +97948,7 @@ cekilisi-acikdenizv2denizmobil.com
 cekilisi-acikdenizv2denizmobil.online
 cekilisi-paribu.co
 cekilisi-paribu.com
+cekilisi-paribu.online
 cekilisi.com
 cekilisi.online
 cekilisi.org
@@ -137919,6 +137925,7 @@ e-hesmobil.com
 e-hesonline.com
 e-hgs-bakiyeniz.com
 e-hgs-sorgu.org
+e-hgs.de
 e-hgs.fun
 e-hgs.online
 e-hgs.org
@@ -147460,6 +147467,7 @@ ejectionpropaganda.top
 ejedzg.duckdns.org
 ejet-ticaretin1.online
 ejet-ticaretin2.online
+ejet-ticaretin4.online
 ejh.rapturesriskier.com
 ejh50k20b.duckdns.org
 ejhdk.xyz
@@ -153076,6 +153084,7 @@ eonayhizmetialim.online
 eonayimekranim.onthewifi.com
 eonayla-ziraatbank.com
 eonaylihizmetin.com
+eonaylihizmetin1.online
 eonbl.com
 eonbn.com
 eone.msoftupdates.eu
@@ -157307,6 +157316,7 @@ eventnews.live
 eventonlinemayis.net
 eventonlinetakip2022.com
 eventoostartupkatilsengel.net
+eventos3a.com
 eventourarte.cl
 eventpesmobile22.duckdns.org
 events-datamicrosoft.org
@@ -164806,6 +164816,7 @@ finansman-togg.com
 finansman.popytalep.online
 finansmaninfo.biz
 finansmankredi.com
+finansmanmenkul.pro
 finansmansorgulamahizmeti.net
 finansmarket.online
 finansmarket.store
@@ -203362,6 +203373,7 @@ hemerscanflsk.com
 hemesilskem-sonuc.net
 hemestreks.com
 hemgectmhemaldm.net
+hemgends.duckdns.org
 hemi.mamasbakery.net
 hemiad.zapto.org
 hemidigit.click
@@ -241289,6 +241301,7 @@ jethgsyukleme.com
 jethgsyuklemeleri.com
 jethizindasigorta.net.tr
 jethizindasigorta.web.tr
+jethizmetin1-ru.online
 jethronet3.ddns.net
 jetingsign.info
 jetjetbrzil.shop
@@ -249273,6 +249286,7 @@ karacastore.net.tr
 karacastore.org.tr
 karacastoretr.shop
 karacastr.homes
+karacasummer.shop
 karacatabak.free.site.pro
 karacatava.cfd
 karacatc.cfd
@@ -253032,6 +253046,7 @@ kepguncel.net
 kepguncelleme.com
 kephepsiburada.com
 kepim-aktiflestirme-guncel.com
+kepim-hepsiburada.com
 kepim.com
 kepim.net
 kepimaktif-hepsi-burada.com
@@ -263205,6 +263220,7 @@ kuzeykibrisyurtici.online
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
 kuzeymuayene.com
+kuzeyportfoyyonetim.com
 kuzeyvakfi.com
 kuzgn432521.shop
 kuzgn53532512321.online
@@ -280069,6 +280085,7 @@ metaprotected10782373254.duckdns.org
 metaprotections-checkpintsafety.duckdns.org
 metaqnbfinansbank.com
 metareklam.shop
+metareklam9503.sbs
 metareklamkampanya.click
 metarx.ddnsking.com
 metasecureconnect.ddns.net
@@ -281105,6 +281122,8 @@ microservice-update-s2-bucket.cc
 microservice.zapto.org
 microsfot.org
 microsft-update.com
+microsft.run
+microsft.studio
 microsft.updata.net.cn
 microsfting.ddns.net
 microsof-update.com
@@ -285744,6 +285763,7 @@ mobilservisler-53.sbs
 mobilservisler-54.sbs
 mobilservisler-55.sbs
 mobilservisler-57.sbs
+mobilservisler-61.sbs
 mobilservisler-68.sbs
 mobilservisler-83.sbs
 mobilservisler-85.sbs
@@ -305837,6 +305857,7 @@ onaycebbbsubevakkiff.net
 onaycebimaktif-basvurular-onlineyapicebimonaylandi.vercel.app
 onaycekilisiacikdenizv2denizbank.co.vu
 onayda-sepet-7180.com
+onayda-sepet-7181.com
 onayda-tedarik.com
 onaydenizbank.com
 onaydenizbank.net
@@ -314278,6 +314299,7 @@ oyakglobal.com
 oyakglobal.com.tr
 oyaktrade.com
 oyaktradeplus.com
+oyakyatirimtradeplus.com
 oyapikredi.com
 oyarculfic.rpexylakeg.ru
 oyaw.club
@@ -320662,6 +320684,7 @@ paribuskts.xyz
 paribuslogin.co.vu
 paribusosyalmedyacekilisleri.xyz
 paribusponsorlu-cekilis.online
+paribusponsorlu-cekils.online
 paribusponsorlu.online
 paribusponsorlucekilis.online
 paribusponsorlucekilisi.online
@@ -320673,8 +320696,10 @@ paribusponsorlugunda-cekilis.online
 paribusponsorlugunda-cekilisi.online
 paribusponsorlugunda-cekils.online
 paribusponsorlugunda.online
+paribusponsorlugundacekilis.live
 paribusponsorlugundacekilis.online
 paribusponsorlugundacekilisi.online
+paribusponsorlugundacekilisim.online
 paribusponsorlugundacekils.online
 paribusponsporlucekilisi.live
 paribuss.com
@@ -352906,10 +352931,12 @@ sahibinden-getilan.t-ilanlar.online
 sahibinden-getilan.tr-alisveris-e-islemler.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisveris-islemlerim.online
+sahibinden-getilan.tr-alisveris-webislemler.online
 sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-alisverisler.com.tr
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-islemler-param-guvende.online
+sahibinden-getilan.tr-web-alisveris.online
 sahibinden-getilan.tr-web-islemler.online
 sahibinden-getilan.ty-hizmet.online
 sahibinden-getilanlar.com.tr
@@ -354549,6 +354576,7 @@ sahibinden.hizmetleriniz.com.tr
 sahibinden.i-alisverisim-tr.sa.com
 sahibinden.i-onlineodeme.sa.com
 sahibinden.id17038.com
+sahibinden.id51452.cfd
 sahibinden.id53131.cfd
 sahibinden.ikinci-el-sepetim.com.tr
 sahibinden.ikinci-el-sepetteyim.com.tr
@@ -354827,6 +354855,7 @@ sahibinden.offer192391.rest
 sahibinden.onay-app.com
 sahibinden.onay-ilanim-534.com
 sahibinden.onay-tr.net
+sahibinden.onayda-sepet-7181.com
 sahibinden.onayin-tr.net
 sahibinden.onaylama-app.com
 sahibinden.onaylamaservisi.net
@@ -358067,6 +358096,7 @@ sartamanta.click
 sartanndog.app
 sartbeka.click
 sarthaksrishticreation.com
+sartlarimiz.sbs
 sarts.is-best.net
 sartsiz.com
 sartsizdestekvakfmobil.tk
@@ -372469,6 +372499,7 @@ skyiletisim.com.tr
 skyinformdata.com
 skyjetsatis.com
 skyjetturkiye.com
+skykiralama.com
 skykm12.duckdns.org
 skylarkbay.com
 skylevis.com
@@ -386937,8 +386968,10 @@ synclayershop.co
 syncr.ddns.net
 syncscheduler.com
 syncservices.one
+syncstime.to
 syncswsap.com
 synctech.cyou
+synctime.to
 synctimestamp.com
 synctrustwallet.ddns.net
 syncupdate.site
@@ -390745,6 +390778,7 @@ tcbmuygulamatcbm2.com
 tcbmvbmtrhazinegovtr424.com
 tcbofis.com
 tcbrtm5.com
+tcbtk.org
 tcc-cimer.com
 tccb-aidat-iade-gov-tr.com
 tccb-aidatlari.com
@@ -393046,6 +393080,7 @@ teknomen.site
 teknompazar.com
 teknoosa.com
 teknopiran02.site
+teknos-sa.tr
 teknos-tr.com
 teknosa-club-girsini.com
 teknosa-club.online
@@ -396990,6 +397025,8 @@ timeshop.net
 timesofarab.com
 timestampsync.com
 timestore.club
+timesync.to
+timesysnc.net
 timetaiwan1.ddns.net
 timetengstell.com
 timetodatings.life
@@ -401350,6 +401387,7 @@ tr-alisveris-islemler.online
 tr-alisveris-islemlerim.online
 tr-alisveris-odeme.online
 tr-alisveris-param-guvende.online
+tr-alisveris-webislemler.online
 tr-alisveris.com
 tr-alisveris.net
 tr-alisveris.online
@@ -436199,6 +436237,7 @@ windsofbalthera.com
 windsowass.com
 windturbine.website
 windwosupdata.ddns.net
+windwsecurity.run
 windwsssjyt.duckdns.org
 windwsupdate.ddns.net
 windyeminence.top
