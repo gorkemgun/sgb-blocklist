@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102509
-# Last change: 2026-09-07 20:36:54 UTC (sync mode: delta)
+# Records: 102524
+# Last change: 2026-09-07 23:32:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6257,6 +6257,7 @@ alikeirritate.top
 alikelogistics.top
 alilisverilisyal.shop
 alillisilveris-ypa.com
+alilsverlisi-glti.shop
 alim-ode.com
 alim-onay.net
 alim-onayla.com
@@ -6354,6 +6355,7 @@ alisverisinizonline.com.tr
 alisverisinizonline.net
 alisverisinkolayyolu.com
 alisverisinortasi.com
+alisverisitesi.co
 alisverisjet.online
 alisveriskapiinda.com
 alisveriskar.cfd
@@ -10493,6 +10495,7 @@ bacteriotherapeutic.com
 badahuhuduyudada.site
 badanie-pl.site
 badcarloan.com
+bademamcakim.lol
 bademamcakim.xyz
 badge-apply-free.surge.sh
 badgeduty.top
@@ -26199,6 +26202,7 @@ dijitalindirim-kampanyalar.sbs
 dijitalink.website
 dijitalinternetgirisiniz-denizacik.com
 dijitalislem-ziraatbireysel.com
+dijitalislemenuzlraalgirs.duckdns.org
 dijitalislemfirsati.sbs
 dijitalislemgirisiniz-denizacik.com
 dijitalislemler-ziraatbireysel.com
@@ -29568,6 +29572,7 @@ ejccjejcjeget.com
 ejectionpropaganda.top
 ejet-ticaretin2.online
 ejet-ticaretin4.online
+ejet-ticaretin6.online
 ejqzub.homes
 ejvkca.cceng.coinbase-com.info
 ek-bireyselhesap.com
@@ -40035,6 +40040,7 @@ haberler12342.shop
 haberler12343.sbs
 haberler1234321.shop
 haberler12348.shop
+haberler123499.sbs
 haberler1245321.shop
 haberler1256236.shop
 haberler1278945.shop
@@ -49534,6 +49540,7 @@ jetcicek.org
 jetgroup.tk
 jethizindasigorta.net.tr
 jethizmetin1-ru.online
+jethizmetin2-ru.online
 jetingsign.info
 jetlagdowngrade.top
 jetlaghomexual.top
@@ -58633,6 +58640,8 @@ mhhssaaakaliyc.site
 mhhssrafegsdg.site
 mhhssrbfegsdg.site
 mhhssrcfegsdg.site
+mhhssrraakaliya.lol
+mhhssrraakaliyc.lol
 mhhssrreekaliyd.lol
 mhhssrreekaliye.lol
 mhhssrreekaliyf.lol
@@ -58793,6 +58802,8 @@ mhsr-randvu.net
 mhsrarandvlrmzbrda.sbs
 mhsrrekaliya.site
 mhsrrekaliyb.site
+mhsrrekaliyc.site
+mhsrrekaliyd.site
 mhsrrrbhas.site
 mhsrrrchas.site
 mhsscfsrsa11.sbs
@@ -73602,6 +73613,7 @@ reklam-flrsatlari-teke-ailesi.me
 reklam-hizmet.com
 reklam-kura.online
 reklam-link-mhrs.vercel.app
+reklam.cam
 reklamajans.shop
 reklambizimisimiz.site
 reklambul.online
@@ -81261,6 +81273,7 @@ solitudevelvet.top
 soliveprolprsp.click
 solkmarlektler.shop
 solkmlrkatler.com
+solktanmarketler.shop
 sollrdannnds.duckdns.org
 sollsticeai.com
 sologerg.com
@@ -83770,6 +83783,7 @@ subscriptionconcession.top
 subscriptionliner.top
 subscriptionsaddle.top
 subsequentglare.top
+subserterons.duckdns.org
 subsidisethermal.top
 subsidiseturnout.top
 subsidizeintuitive.top
@@ -100296,6 +100310,7 @@ yardimkervanim.org
 yardimkervanimiz.net
 yardimkervanimiz.org
 yardimlarbuyuk.com.tr
+yardimlardandirizbiz.online
 yardimlasmalarinizburdan.com
 yardimlasmavakfi.com
 yardimmerkezi-lnstagram.ml
