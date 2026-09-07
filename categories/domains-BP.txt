@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258197
-# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
+# Records: 258216
+# Last change: 2026-09-07 16:30:23 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -9662,6 +9662,7 @@
 7847874488744-2025.xyz
 785421563.cloud
 785426151.click
+7854263515615612313152.duckdns.org
 7854634176583.com
 785858232-223.duckdns.org
 78645378679.cloud
@@ -27110,6 +27111,7 @@ aracmuayeneislem.com
 aracmuayeneislemi.com
 aracmuayeneislemleri.com
 aracmuayeneislemleri.sbs
+aracmuayeneistasyon.com
 aracmuayeneistasyonlari.org
 aracmuayeneler.blogspot.com
 aracmuayenelerims.com
@@ -48930,6 +48932,7 @@ bnc-yeniyilozel.com
 bnc-yilbasiozel.click
 bnc-yilbasiozel.com
 bnc001bsv032d.duckdns.org
+bnc010tr.duckdns.org
 bnc666161616001.duckdns.org
 bnc7777091991.duckdns.org
 bnc99000012026.duckdns.org
@@ -54994,6 +54997,7 @@ c-digitaltuzelkisimmenu.online
 c-e-aktarma-mobile-tr.com
 c-e-p-t-e-t-e-b.my-homeip.net
 c-e-p-t-e-teb.my-homeip.de
+c-ep-t-e-t-e-b.my-homeip.de
 c-guvenli-alisveris.sa.com
 c-hgs.com
 c-i-m-e-r-2000tlcovid19yardimi.com
@@ -87153,6 +87157,7 @@ eonline-basvurumozel-bireyselkampanya.tk
 eonline-iadeler.tk
 eonline-mobilvatandas-iadeform-com.ml
 eonline-odemeler.site
+eonline-sbm.org
 eonline-turkeygovt.com
 eonlineaidat.com
 eonlinealdirmapromosyon.com
@@ -108625,6 +108630,7 @@ haberler2026.co
 haberler2026.xyz
 haberler2026xl.com
 haberler2345343.shop
+haberler2353243.sbs
 haberler24.site
 haberler3123512.shop
 haberler31345653.shop
@@ -128759,6 +128765,7 @@ ile-satin-al.com
 ile-satin-alim.com
 ile-satinalim.com.tr
 ile-satinlar.com
+ile-sepetim.com.tr
 ile-sepette.com.tr
 ile-simdi-hallet.com
 ile-simdi-hallettin.com
@@ -141850,6 +141857,7 @@ kaitaelleme3x123z12sacac.cfd
 kaitaisasdjasdjxj123kx13x123.shop
 kaitaisx12k3131xsak123.cfd
 kaitalasdkkx123x132.cfd
+kaitarafaelxx.cfd
 kaitasdakjkj123xk123lx13221321.sbs
 kaitcaskdckj123xk132.sbs
 kaitobabs.strangled.net
@@ -158169,6 +158177,7 @@ market11.duckdns.org
 market12.duckdns.org
 market15.duckdns.org
 marketa101devindirim.store
+marketaktifa101firsatlarim.duckdns.org
 marketaktuel.info.tr
 marketaktuel.net
 marketaktuel.net.tr
@@ -158247,6 +158256,7 @@ marketindirimkataloglari.cfd
 marketindirimlerfirsatisbs.com
 marketing-success-site.online
 marketing24-online.online
+marketinga101de.duckdns.org
 marketingaktuelsip.vip
 marketingfirsatlari.sbs
 marketingg.sbs
@@ -160115,6 +160125,7 @@ metanewdestektellfhak.xyz
 metanewdestektellifhakki.xyz
 metaobjectionz.com
 metaqnbfinansbank.com
+metareklam9503.cfd
 metareklamkampanya.click
 metaservice-copyrightst.cf
 metasikayetmerkezi.com
@@ -160385,6 +160396,7 @@ mhrsrandevunburadan.duckdns.org
 mhrsrandevunburadann.duckdns.org
 mhrsrandevunuz.net
 mhrsrandevuonlinehizmetlerbasvurunoktasi.duckdns.org
+mhrsrandevuu.xyz
 mhrsrsrs.cfd
 mhrss-2026.duckdns.org
 mhrsserandvu.com
@@ -165324,6 +165336,7 @@ muayene-servisi.net
 muayene-ve-kilometre-sorgulama.blogspot.com
 muayenearachizmeti.net
 muayenearacislem.blogspot.com
+muayenehizmetlerin.com
 muayenehizmetlerisizlerle.net
 muayeneislemler.tech
 muayeneislemmerkezi.com
@@ -168438,6 +168451,7 @@ nodxteh.cn
 noeszo.rest
 nofaceistx.net
 nofmestfsjstres.com
+noiknowhimwithus.top
 noithat88.com
 nojefoo.shop
 nojysue.com
@@ -182377,6 +182391,7 @@ pazarama.onayliplatform.com
 pazarama.onaylisatici.com
 pazarama.onaylisatici.online
 pazarama.onaylislem.com
+pazarama.online-siparisler-onaylama.com
 pazarama.onlinebireyselcisatici.com.tr
 pazarama.onlinesaticimerkezi.com
 pazarama.onlinesaticimiz.com.tr
@@ -197361,6 +197376,7 @@ sahibinden.samsunotokoc.com
 sahibinden.samsunotokoc2el.com
 sahibinden.sana-ozel.com
 sahibinden.saripanelhizmetleri.pro
+sahibinden.sartlarimiz-1.sbs
 sahibinden.sat-alisverislerim-ile.com
 sahibinden.sat-ile-al.com
 sahibinden.sat-ile-ilan.com
@@ -208755,9 +208771,11 @@ sorgupanel1.name.tr
 sorgupanelciniz.com.tr
 sorgupaneli.best
 sorgupaneli.fun
+sorgupaneli.info
 sorgupaneli.ph
 sorgupaneli.vip
 sorgupaneli.xyz
+sorgupaneli1.xyz
 sorgupanelim.com
 sorgupanelllll.tk
 sorgupanelmeb.gq
@@ -222954,6 +222972,7 @@ trendyol.lat
 trendyol.manuel-alim.net
 trendyol.mobil-servis.store
 trendyol.mobilsepetlerimtrservisin.online
+trendyol.mobilservisler-61.sbs
 trendyol.odemeler-ilanlarim.com.tr
 trendyol.online-alisverisler.com.tr
 trendyol.online-satis.com.tr

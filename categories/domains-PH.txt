@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102467
-# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
+# Records: 102489
+# Last change: 2026-09-07 16:30:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3421,6 +3421,7 @@ a101marketfirsatlarimiz.duckdns.org
 a101marketin.com
 a101marketl.online
 a101marketler.com
+a101marketler2026.duckdns.org
 a101marketonline.com
 a101marketonline.marketlerzincirimagaza.com
 a101marketsupersepte.xyz
@@ -4686,6 +4687,7 @@ adliyebirim.org
 adliyedava.com
 adliyedosyatakip.org
 adliyeegm.org
+adliyekamu.com
 adliyekontrol.com
 adliyemasak.org
 adliyesorgu.net
@@ -5682,6 +5684,7 @@ akronesafyonthermalspa.com
 akronesotelafyons.com
 akronesthermalafyon.com
 akronesthermalspaotel.com
+akronneshotel.com
 akrtthgefrstskfsfskksgkwgwqs.online
 aks-igorta.b-cdn.net
 aksa.wiki
@@ -29986,6 +29989,7 @@ emargobotarurk.cfd
 emargobotarurk.icu
 emarketpt-tcebimde.cfd
 emarrassotic.top
+emasak.com
 emasak.net
 emasakbildirim.org
 emasycomprsion.top
@@ -36485,6 +36489,7 @@ gecyniylotovsss.xyz
 gederselerdensler.duckdns.org
 gedewadgsqa.duckdns.org
 gedikesubem.com
+gedikeyatirim.com
 gedikhalkaarz.app
 gedikportfoyum.com
 gediksubem.com
@@ -38409,6 +38414,7 @@ gratis-kariyer.com
 gratis-mr.ddnsgeek.com
 gratis-rt.dynuddns.com
 gratis-tr.craftyhour.com
+gratis-tr.doordk.com
 gratis-tr.obliqueprism.com
 gratis.anointedacres.com
 gratis.ask4tree.com
@@ -43155,6 +43161,7 @@ hlnkaemntlanas.net
 hlp4969465.com
 hlqa1l5j7l52.icu
 hlsgcodee.net
+hlsknta.net
 hlznarandvlar.com
 hlzrndlsa.com
 hm91vy.xdk8ax.cn
@@ -44354,6 +44361,7 @@ hzlivegvnlicebzlesin.net
 hzllltyry.great-site.net
 hzlmskernff.space
 hzlnhmnislmlr.com
+hzlnsdanismanlk.com
 hzlodmadrsbrshrzmn.net
 hzlrandvnnunall.net
 hzlrandvnual.net
@@ -47246,6 +47254,7 @@ interium.icu
 interium.us
 interium.world
 interium2.icu
+interiumdev.xyz
 intermediaryloot.top
 intermediarymedieval.top
 intermediaryswamp.top
@@ -54864,6 +54873,7 @@ lndrlm-sepete-temuz-lndrlmerii.com
 lndrm--klmaalaarr.com
 lndrm-kmpnyalarim-bradan-satinal.com
 lnftkriptoyenilenencepsube.com
+lnktanra.net
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
 lnnnnl.club
@@ -56596,6 +56606,7 @@ maliye-onlineislemler.pages.dev
 maliye-sorusturma.com
 maliye-uyapgiris.com
 maliye-uyapsorusturma.com
+maliye-vezne.com
 maliye.info
 maliyebirim.org
 maliyeborc.org
@@ -64716,6 +64727,7 @@ online-siparis-sistemi.com
 online-siparis-zamani.app
 online-siparis.app
 online-siparis.satisim-30.site
+online-siparisler-onaylama.com
 online-sipariss-firsatlarii1033.b-cdn.net
 online-sok.com.tr
 online-sorgu-ekrani.cfd
@@ -65561,6 +65573,7 @@ orijinaldiploma.co
 orionhatch.autos
 orizontalai.top
 orj.bfm.mybluehost.me
+orjinaltoggyedekparca.com
 orleansban.com
 orlethin.com
 orlovsereygtour.ru
@@ -65657,6 +65670,7 @@ osmanlicuzndldoman.com
 osmanlikatilim.com
 osmanlikkbaytar.space
 osmanlimenkul.in
+osmanliportfoy.app
 osmanlivportfoy.com
 osmanliyardimkurulusu.org
 osmanliyatirim.app
@@ -71023,6 +71037,7 @@ pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
 pttavm.ile-alisverislerini-tamamlama.com
 pttavm.ile-online-islemlerim.com.tr
+pttavm.ile-sepetim.com.tr
 pttavm.ileodeme-formu.com
 pttavm.islemlerle-tamamla.com
 pttavm.kampanya2024.com
@@ -71796,6 +71811,7 @@ pushlabs.site
 pusulafondanismanlik.com
 pusulaportfoymenkulas.com
 pusulaportfoyyonetimias.com
+pusulaportfoyyonetimitr.com
 putamendment.top
 putdpattern.shop
 putelephant.top
@@ -72687,6 +72703,7 @@ randv-kontlr-etmek-m.web.app
 randvcerlas.net
 randvhsziemtsd.store
 randvlrmzbrdamhrsa.sbs
+randvshzksimerts.store
 randvu-slemleri.net
 randvual.net
 randvualdinx.net
@@ -74988,6 +75005,7 @@ rroneousdirector.top
 rrqbh7n.cn
 rrrecords-ppc.com
 rrrecords-promo.com
+rrrrrddddyyyy.duckdns.org
 rs-media-ln.top
 rs1jg8t.cn
 rs74dnr.cn
@@ -77056,6 +77074,7 @@ sarsarsarsarmakarayyyy.com
 sartahaber.com
 sartaizm.com
 sartamanta.click
+sartlarimiz-1.sbs
 sartlarimiz.sbs
 sartsiz.com
 sarvice.best
@@ -90684,6 +90703,7 @@ tttksltsktlscc.net
 tttlkkkmcccc.giize.com
 ttttektikklasponsorlurrklam.com
 tttzzdttaasrqw.nicepage.io
+ttuuvturk.govt.hu
 ttuuvturk.web.app
 ttv-lg-n-b.my-homeip.net
 ttyz.top
@@ -96841,6 +96861,7 @@ weekendweave.com
 weeklylifehacks.click
 weeknegligence.top
 weekpatronage.top
+wefdasfdasf.duckdns.org
 wefeargfless-word.surge.sh
 wegh-wehjj-jhww.shop
 weghbro.cyou
@@ -101791,6 +101812,7 @@ zamnaci-1011de-kllm.com
 zamnaci-101de-kasllm.com
 zamnaci-101de-kllm.com
 zamnigeldisiprslerinfirsa0di.com
+zamok.tr
 zamorantis.info
 zanavel.com
 zandvoortgutar.com

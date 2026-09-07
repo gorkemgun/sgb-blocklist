@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41208
-# Last change: 2026-09-07 10:24:59 UTC (sync mode: delta)
+# Records: 41214
+# Last change: 2026-09-07 16:30:23 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -6230,6 +6230,7 @@ bore.pub
 bore569.xyz
 bored-light.sbs
 borenew.weebly.com
+borertors92.anondns.net
 boringinternet.com
 boriver.com
 borizhog.com
@@ -16825,6 +16826,7 @@ homefragrance.sale
 homefurniture.azurewebsites.net
 homegardenoutlet.com
 homehitter.tk
+homehub.opik.net
 homeinspectionnaperville.com
 homelove19.com
 homelyuptight.site
@@ -23869,6 +23871,7 @@ mountain5427.xyz
 mountain8.wikaba.com
 mountainzirella.xyz
 mountinnovate.com
+mousears.synology.me
 mouseoiet.fun
 mouth447.xyz
 mouth457.xyz
@@ -34404,6 +34407,7 @@ telcom.grishamarkovgf8936.workers.dev
 telcomn.giize.com
 telcomprodicci.slack.com
 tele-latino.com
+tele-sync.opik.net
 telecom.longvn.net
 telecom.manlish.net
 telecomoperatinggoodnewserverfortransfersecurefileinternatioanl.ydns.eu
@@ -37895,6 +37899,7 @@ waenkb.com
 wagateway.pro
 wagisz.com
 waglqde.com
+wagoosh.direct.quickconnect.to
 wahatmrjn.com
 waijaihome.com
 waiouseect.xyz
@@ -38406,6 +38411,7 @@ whitewhalestudio.host
 whitewordsweet.ga
 whjovd.biz
 whjrtgd.com
+who-ripped-one.direct.quickconnect.to
 whoint.co
 whoisdomainpc.com
 whonkinew.com
