@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102413
-# Last change: 2026-09-06 21:26:17 UTC (sync mode: delta)
+# Records: 102436
+# Last change: 2026-09-06 23:58:54 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -525,6 +525,7 @@
 13247-icloud.com
 13267-coinbase.com
 1327.pro
+13395003852.duckdns.org
 134-255-233-127.plesk.page
 13564561321ll1.duckdns.org
 136-244-84-116.plesk.page
@@ -1898,6 +1899,7 @@
 47562-coinbase.com
 47962.adistu.ro
 482901v-coinbase.com
+48512365482451615.duckdns.org
 48756.site
 488564648789.com
 48941536532132.sbs
@@ -3779,6 +3781,7 @@ abvrdun10.click
 abvrdun12.click
 abvrdun14.click
 abvrdun20.click
+abwbevehwmnend.org
 abwehrphas.sa.com
 abxess.com
 abyss-world-asset.net
@@ -8479,6 +8482,7 @@ aroraparca.com
 arorasatisnoktasi.com
 aroraturkiyesatis.com
 aroraurunleri.com
+arorayedekparcalarisatis.com
 arorayedekparcalistesi.com
 arorayedekparcasatis.com
 arorayedekparcasi.com
@@ -8882,6 +8886,7 @@ asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.84965148651.sbs
 asncxbyaaasdanala.8796451654165333.sbs
+asncxbyaaasdanala.8889655532144.sbs
 asncxbyaaasdanala.89465489421.sbs
 asncxbyaaasdanala.9479845619688.sbs
 asndansdnas.blogspot.com
@@ -10482,6 +10487,7 @@ bacteriotherapeutic.com
 badahuhuduyudada.site
 badanie-pl.site
 badcarloan.com
+bademamcakim.xyz
 badge-apply-free.surge.sh
 badgeduty.top
 badhotelrockanje.world
@@ -23344,6 +23350,8 @@ csscrafted.com
 cstban.online
 cstudyin.coinbase-com.info
 cswer.artilastaratoraforlamatorulatoca.net
+ct54t1d74fs127f.cfd
+ct54t1d74fs127fd.sbs
 ct95389.tw1.ru
 ctcco.rest
 cte--kahem-adalet-gov-tr.cdn.ampproject.org
@@ -26218,6 +26226,7 @@ dijitalnetbilgi-giris.sbs
 dijitalnetwebtr-ziraatbireysel.com
 dijitalonay-denizacik.com
 dijitalonline-aynigunkapinda.duckdns.org
+dijitalonline-hemenkapinda.duckdns.org
 dijitalonline-hizlisiparis.sbs
 dijitalonline-kampanyalar.duckdns.org
 dijitalonline-kampanyaliurunler.duckdns.org
@@ -26986,6 +26995,7 @@ docvault-share-665d141177ca.herokuapp.com
 docview.cloud
 docxxdoct.goodbreadtrucklng.com
 dodgeunprecedented.top
+dodocuks.duckdns.org
 dodohesap.net
 doeda.fun
 doeligible.top
@@ -37421,6 +37431,7 @@ girstrbnncra.online
 gisealani.xyz
 giselleblea.com
 gisematik.xyz
+gitarkursistan.duckdns.org
 gitgidebildiginyerdeyiz.sbs
 gitgidelimgrntye.net
 github-scanner.com
@@ -38601,6 +38612,7 @@ grntikampanyasi.org.tr
 grntikmpnya.com.tr
 grntikredibasvru.net
 grntprsmynnkmpnyaabsvrr.info
+grnttam.com
 grnttbbkredibasvurr.net
 grnttbnvvca.net
 grnttprmsynnnkmpnyaa.pro
@@ -39999,6 +40011,7 @@ haberler.today
 haberler112233.shop
 haberler11278945.shop
 haberler12342.shop
+haberler12343.sbs
 haberler1234321.shop
 haberler12348.shop
 haberler1245321.shop
@@ -40035,6 +40048,7 @@ haberler2373432.shop
 haberler2523432.sbs
 haberler311422.sbs
 haberler311748.shop
+haberler3262343.sbs
 haberler332348.shop
 haberler33544.sbs
 haberler34063.sbs
@@ -58508,6 +58522,7 @@ mevlevivakfi.org
 mevsimhaber.online
 mewire.info
 mewsdosgp.com
+mexadowcrestdigitalplatform.cfd
 mexcarfilo.com
 mexctrade.com
 mexesorgu.online
@@ -58569,6 +58584,7 @@ mhhrdw.com
 mhhres.dns.navy
 mhhrrss.com
 mhhrsvatandasgiris.duckdns.org
+mhhsrrekaliye.lol
 mhhsrssahsa.site
 mhhsrssbhsa.site
 mhhssaaakaliya.site
@@ -58733,6 +58749,8 @@ mhskastogreen.uk
 mhsksrsnrndsv.com
 mhsr-randvu.net
 mhsrarandvlrmzbrda.sbs
+mhsrrekaliya.site
+mhsrrekaliyb.site
 mhsrrrbhas.site
 mhsrrrchas.site
 mhsscfsrsa11.sbs
@@ -59910,6 +59928,7 @@ montegordo-id2819.world
 montelavento.pro
 montesoftware.arabamuayenesi.xyz
 monteverdepremiumrealestate.com
+montevialifestylexhls4.sbs
 monthenlist.top
 monthextinct.top
 monthlycrave.top
@@ -74738,6 +74757,7 @@ rodfilokiralama.com
 rodheslesson.online
 rodney.lat
 rodrodrodrodmusic.com
+rodyskryrzzbgnn.duckdns.org
 roelpaketleme.site
 roeoyunda.yasinatasoyholding.net
 rogdt-917c.williammgros4.workers.dev
@@ -77312,6 +77332,7 @@ schreinerhof-familotel.com
 schuiltereenstatenlidinmij.nl
 schulbegleitung-plus.com
 scienceblue.top
+sciencedirect.sbs
 sciencenomination.top
 scientificcounterfeit.top
 scientificpeck.top
@@ -78307,6 +78328,7 @@ sepet-eklee.com
 sepet-hizmette.com.tr
 sepet-indirimleri-ve-firsatlari-tr.online
 sepet-mobil-tr.online
+sepet-net.online
 sepet-pttavm.com.tr
 sepet-pttavm.info.tr
 sepet-tedarikte.com
@@ -98597,6 +98619,7 @@ www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
+www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com

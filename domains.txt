@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 468828
-# Last change: 2026-09-06 21:26:17 UTC (sync mode: delta)
+# Records: 468851
+# Last change: 2026-09-06 23:58:54 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4406,6 +4406,7 @@
 1337neon.ddns.net
 1337sv.hopto.org
 1337xx.ddns.net
+13395003852.duckdns.org
 133cfsrart.xyz
 134-255-233-127.plesk.page
 134-baosvurularim.dvrlists.com
@@ -14422,6 +14423,7 @@
 484sa1rj.duckdns.org
 485-8-888.duckdns.org
 485-8-8881.duckdns.org
+48512365482451615.duckdns.org
 485489541268.cloud
 485756757.vercel.app
 48596720123.top
@@ -27432,6 +27434,7 @@ abvrdun20.click
 abvrdun4.click
 abvrdun6.click
 abvrdun8.click
+abwbevehwmnend.org
 abwehrphas.sa.com
 abwrqw.blogspot.com
 abwxjp5.me
@@ -51358,6 +51361,7 @@ arorasatisonline.com
 aroratr.com
 aroraturkiyesatis.com
 aroraurunleri.com
+arorayedekparcalarisatis.com
 arorayedekparcalistesi.com
 arorayedekparcaonline.com
 arorayedekparcasatis.com
@@ -52977,6 +52981,7 @@ asncxbyaaasdanala.84965148651.sbs
 asncxbyaaasdanala.874184655641556.sbs
 asncxbyaaasdanala.8746519864165.sbs
 asncxbyaaasdanala.8796451654165333.sbs
+asncxbyaaasdanala.8889655532144.sbs
 asncxbyaaasdanala.89415648951651.sbs
 asncxbyaaasdanala.8941568418975.sbs
 asncxbyaaasdanala.894216546865.sbs
@@ -58979,6 +58984,7 @@ badboy6789.ddns.net
 badbutperfect.com
 badcarloan.com
 badecicek.com
+bademamcakim.xyz
 bademlilersubelerindekampanya.com.tr
 bademlilersubelerindekampanya.online
 bademlilersubelerindeler.com.tr
@@ -112120,6 +112126,8 @@ ct2krsawt.top
 ct2ltf.duckdns.org
 ct3detynkdytyv5fu.ddns.net
 ct4ehhko5cnf6qh0qnmg8jsjojwhsom7h.it.h4.vc
+ct54t1d74fs127f.cfd
+ct54t1d74fs127fd.sbs
 ct86adquhcuh7jbi7bk0tk8ya7bokdbzq.it.h4.vc
 ct8791fimj7p7e3tvqi08m8q43zqz3d9t.it.h4.vc
 ct8hubgs2clcvfhj8o70usspwxsp5q3es.it.h4.vc
@@ -127530,6 +127538,7 @@ dijitalonaylarhizli-denizacik.com
 dijitalonayli-sayfa.com
 dijitalonaywebislem-denizacik.com
 dijitalonline-aynigunkapinda.duckdns.org
+dijitalonline-hemenkapinda.duckdns.org
 dijitalonline-hizlisiparis.sbs
 dijitalonline-kampanyakapinda.duckdns.org
 dijitalonline-kampanyalar.duckdns.org
@@ -130018,6 +130027,7 @@ dodgeviperkazan.com
 dodika.duckdns.org
 dodjgxsqa.duckdns.org
 dodmkqvhbi.duckdns.org
+dodocuks.duckdns.org
 dododpi.hopto.org
 dodohesap.net
 dodomoko.duckdns.org
@@ -182625,6 +182635,7 @@ gitae.duckdns.org
 gitagla.sbs
 gitanes.zapto.org
 gitanes82.zapto.org
+gitarkursistan.duckdns.org
 gitazi.click
 gitbrancher.com
 gitbusercontent.com
@@ -186987,6 +186998,7 @@ grntskasdw.duckdns.org
 grntsonprfs.duckdns.org
 grntsube.click
 grntt.vercel.app
+grnttam.com
 grnttbbkredibasvurr.net
 grnttbbvvaa.com
 grnttbbvvaa.online
@@ -192631,6 +192643,7 @@ haberler122746.sbs
 haberler123.shop
 haberler1230149.shop
 haberler12342.shop
+haberler12343.sbs
 haberler1234321.shop
 haberler12348.shop
 haberler123531234.shop
@@ -192687,6 +192700,7 @@ haberler3123512.shop
 haberler31345653.shop
 haberler32334.shop
 haberler3242.sbs
+haberler3262343.sbs
 haberler332348.shop
 haberler33544.sbs
 haberler34063.sbs
@@ -280316,6 +280330,7 @@ mewsdosgp.com
 mewt.us
 mewyfckrvbusrsc9344.hopto.org
 mex33.info
+mexadowcrestdigitalplatform.cfd
 mexalz.us
 mexcarfilo.com
 mexctrade.com
@@ -280602,6 +280617,7 @@ mhhrrss.com
 mhhrrssrandvvunal.com
 mhhrsrsrhshrscs.net
 mhhrsvatandasgiris.duckdns.org
+mhhsrrekaliye.lol
 mhhsrssahsa.site
 mhhsrssbhsa.site
 mhhssaaakaliya.site
@@ -280907,6 +280923,8 @@ mhsr2.ddns.net
 mhsrarandvlrmzbrda.sbs
 mhsrasras.duckdns.org
 mhsrrandvu.com
+mhsrrekaliya.site
+mhsrrekaliyb.site
 mhsrrrbhas.site
 mhsrrrchas.site
 mhsscfsrsa.sbs
@@ -286969,6 +286987,7 @@ montesoftware.com
 montesoftware.xyz
 montessibooks.com
 monteverdepremiumrealestate.com
+montevialifestylexhls4.sbs
 montevikasystem.com
 monteviral2026.duckdns.org
 month12.ddns.net
@@ -348213,6 +348232,7 @@ rodney.lat
 rodney.store
 rodrodrodrodmusic.com
 rodujuhocafy.biz
+rodyskryrzzbgnn.duckdns.org
 roe.efeoyundasal.click
 roe10.duckdns.org
 roe12.duckdns.org
@@ -359097,6 +359117,7 @@ science-mijncards.duckdns.org
 science.tayenthflores.com
 sciencealert.shop
 scienceblue.top
+sciencedirect.sbs
 sciencenomination.top
 scienceshumaines.sbs
 scientific-method-worksheet.icu
@@ -363449,6 +363470,7 @@ sepet-indirimleri-ve-firsatlari-tr.online
 sepet-kontrol.com.tr
 sepet-kurumsal.com.tr
 sepet-mobil-tr.online
+sepet-net.online
 sepet-odeme.com
 sepet-odeme.online
 sepet-odemesi-1985.com
@@ -442581,6 +442603,7 @@ www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
+www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teb-com-tr.ga
 www-teb-com-tr.gq
