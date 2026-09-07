@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102436
-# Last change: 2026-09-06 23:58:54 UTC (sync mode: full)
+# Records: 102442
+# Last change: 2026-09-07 04:49:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38606,6 +38606,7 @@ grntbvakrd.info
 grntbvbv.it.com
 grntcepsubeonnbes.site
 grntdeneme.tk
+grnte.com
 grntibba.duckdns.org
 grntibca.cf
 grntikampanyasi.org.tr
@@ -39109,6 +39110,7 @@ guncelsikayetinvar.app
 guncelsikayetleer.ru.com
 guncelsikayetleer.sa.com
 guncelsikayetler-1.sa.com
+guncelsikayetler-453.sbs
 guncelsikayetler-5.sa.com
 guncelsikayetler-7.sa.com
 guncelsikayetler-73.sbs
@@ -48183,6 +48185,7 @@ istanbullbakiyesi.blogspot.com
 istanbullbelggimkart.xyz
 istanbullbelggimkartu.xyz
 istanbullbelgimkart.xyz
+istanbullbelgimmkartt.xyz
 istanbullbelgimtek.xyz
 istanbullbiizmlaa.xyz
 istanbullcumbakim.pro
@@ -58696,6 +58699,7 @@ mhrshemenler.com
 mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
 mhrsislemlerin.com
+mhrsislemyapgiris.vercel.app
 mhrslkislem.com
 mhrsmsmhsxzwshshn.net
 mhrsonlinebasvuru.duckdns.org
@@ -73544,6 +73548,7 @@ reklam-cekilis.online
 reklam-flrsatlari-teke-ailesi.me
 reklam-hizmet.com
 reklam-kura.online
+reklam-link-mhrs.vercel.app
 reklamajans.shop
 reklambizimisimiz.site
 reklambul.online
@@ -101135,6 +101140,7 @@ yklemeyapbnce.net
 ykleodekylesmdi.cfd
 ykleodmehgs.cfd
 yklesmddeme.cfd
+yklesrglhgs.cfd
 yklmayiz.net
 yklmebslasmdi.cfd
 yklmehgszmnpra.cfd

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258185
-# Last change: 2026-09-06 17:06:32 UTC (sync mode: delta)
+# Records: 258191
+# Last change: 2026-09-07 04:49:01 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -90998,6 +90998,7 @@ facebookdestekhatti.net
 facebookhelpsupport.com
 facebookhizmetlerim.com
 facebooklogin-facebook.com
+facebookloginapparel.com.ph
 facebookloginapponline.ph
 facebookloginlabd.com.ph
 facebookloginlabe.com.ph
@@ -91751,6 +91752,7 @@ fblcikd1yonlendiriliyor.sbs
 fblcikd1yonlendirmeyeri.sbs
 fblicd1yonlendir.sbs
 fblicdks11.sbs
+fblogin.click
 fbmknr.cyou
 fbresmibasvuru.click
 fbskdhwmdbakdha.net
@@ -97967,6 +97969,7 @@ garantibbva-basvuru-onlinekredi.duckdns.org
 garantibbva-bb.ph
 garantibbva-bell.com.ph
 garantibbva-bireyselhizmetim.com
+garantibbva-boll.com.ph
 garantibbva-bonus250tl-com-tr.tk
 garantibbva-bonusiadesistemi.com
 garantibbva-bot.com.ph
@@ -116568,6 +116571,7 @@ hepsiburada-norton.com.ph
 hepsiburada-order.com
 hepsiburada-sale.com
 hepsiburada-sale.shop
+hepsiburada-sberbank.ph
 hepsiburada-tl.cc
 hepsiburada-tl.com
 hepsiburada-tl.net
@@ -155516,6 +155520,7 @@ llnsbabbnindirimlerinizbdbsn.sbs
 llo-sokynslned.sbs
 llorente.iblogger.org
 lloydbank-removedevice.com
+lloydsbankgarantibbva.com.ph
 lloydtheinsurances.com
 llparibu.com
 llpolisi155tr.online
@@ -167894,6 +167899,7 @@ nilbudaksubeleri.xyz
 nilbudaksubesi.com.tr
 niliy.cn
 nilykya.com
+nimc-onlinesbi-garantibbva.com.ph
 nimeliamc.fr
 nimetablaistbayi.com.tr
 nimetbalikciv6-e731a63796dd.herokuapp.com
