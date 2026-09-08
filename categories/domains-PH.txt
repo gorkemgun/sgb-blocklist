@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34681
-# Last change: 2026-09-08 09:46:10 UTC (sync mode: delta)
+# Records: 34697
+# Last change: 2026-09-08 14:36:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1671,6 +1671,7 @@ alanmeyerlforce.online
 alanoas.com
 alarm-taslagi.garden
 albarakaaiprojects.com
+albarakafinanceeg.com
 albarakamenkulyatirim.com
 albayquery.space
 alburdahep.com
@@ -13750,6 +13751,7 @@ hemennalrtnlasna.net
 hemennislemonktnas.net
 hemennotknaslnta.net
 hemenolsnn.xyz
+hemenportal.lol
 hemens-naosnuc.net
 hemensatinalgunlukfirsatlar.xyz
 hemensepet.com.tr
@@ -14191,6 +14193,7 @@ hmansahsmnashamnsahmnsahmashns99.space
 hmbgovtr.info
 hmbkxcbv.art
 hmbmaliye.org
+hmbmasak.org
 hmbsorgu.net
 hmbsorgu.org
 hmdnmfdd.com
@@ -15327,6 +15330,7 @@ infazegm.net
 infazevrak.org
 infazidari.org
 infaztc.net
+infazuyap.com
 inferiorize.com
 inferno-invest.com
 infinilabd.info
@@ -16491,6 +16495,7 @@ karaca-store.shop
 karaca-sultan.sbs
 karaca-sultann.club
 karaca-temmuz.shop
+karacababy.homes
 karacababy.shop
 karacabutik.com.tr
 karacabuy.homes
@@ -17447,6 +17452,7 @@ kocfilosu.com
 kocfinanssecimtestiozelsecimprogrami.click
 kochold.eu
 kocholdin.eu
+kocholding.space
 kocholdingbasvur.online
 kocholdingsystem.com
 kochturkiye.fun
@@ -20185,6 +20191,7 @@ mrhs182rvd.click
 mrhsbsvronline.com
 mrhsrrere.cfd
 mrhssrandevuum.com
+mrhsxmslmsm.com
 mrketplacessuprt.com
 mrktonlined.cfd
 mrmotorsport.com.ar
@@ -25403,6 +25410,7 @@ sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
+sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.siparisguvende.com
 sahibinden-get.tr
@@ -25431,6 +25439,7 @@ sahibinden-param-guvende.ilanguvenli.online
 sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
+sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.urunodeme-tr.online
@@ -25525,6 +25534,7 @@ sahibindenile.com.tr
 sahibindenilngett.com
 sahibindenkargo-islem.com
 sahibindenkargoo.com
+sahibindenkaskodestek.com
 sahibindenkaskoodemenoktasi.duckdns.org
 sahibindenmuhasebeodemenoktasi.dedyn.io
 sahibindenparaguvende.duckdns.org
@@ -28579,6 +28589,7 @@ taptaptappp.web.app
 taptrndshvshzmet.store
 taptrsdrsndabursds.store
 tapu-randevumsu-tkgm-e-devlet.vercel.app
+tapu.lat
 tapudsrksbrusad.com
 tapuno.store
 tapurandevu.com
@@ -29951,6 +29962,7 @@ tr-alisveris-webislemler.online
 tr-alisverislerim.click
 tr-aselsan.com
 tr-binancelogin.net
+tr-braun.org
 tr-get-islem.online
 tr-get-servis.online
 tr-get-siparis.online
@@ -30013,6 +30025,7 @@ tradingview-en.com
 tradivexo.cfd
 tradli.net
 tradli.org
+tradliye.com
 tradliye.org
 tradomind.com
 traelyst.dk
@@ -30181,6 +30194,7 @@ trendyol7.lol
 trendyoladres.net
 trendyoladresiguncel.com
 trendyoladresimiyenile.net
+trendyoll.vip
 trendyolls.cc
 trendyolmilla.net.ilanpark.com.tr
 trendyolo.cfd
@@ -30805,6 +30819,7 @@ tvtrksnrhzsdme.store
 tvtur-k.net
 tvturk.sbs
 tvturkyjdhf.sbs
+tvutrkdsnrskc.com
 tvutrkny.net
 tvuttrknsy.net
 tvvtruk.com
@@ -34024,6 +34039,7 @@ yildizlarveteknolojikmedeniyetler.xyz
 yildora-venkupali.lol
 yilgunturizmseyahatacentasi.com
 yilinidinridimmlisaatleri.sbs
+yillikmuzem.com
 yilmaz-ticaret-ile-siparis-tamamla.com
 yilmaz-ticaret-ile-siparisi-hizla-onayla.com
 yilmaz-ticaret-ile-siparisi-tamamla.com

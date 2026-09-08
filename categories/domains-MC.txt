@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 8295
-# Last change: 2026-09-08 09:46:10 UTC (sync mode: delta)
+# Records: 8324
+# Last change: 2026-09-08 14:36:13 UTC (sync mode: delta)
 0-000-0.pages.dev
 00-1321729461.cos.ap-guangzhou.myqcloud.com
 000-0-000.pages.dev
@@ -358,6 +358,7 @@ acsolucionessa.com
 actedsda.cfd
 actgrievny.fun
 activationsmicrosoft.com
+active-enable-right-click.top
 active-microsoft.com
 activecampiagn.net
 activehealthlab.azurewebsites.net
@@ -613,6 +614,8 @@ api.cgatgpt.net
 api.cleanmasters.store
 api.clearit.sbs
 api.clpclptrefinder.com
+api.codefilearc.net
+api.creativelibrary.top
 api.cyberhavenext.pro
 api.dc1637.xyz
 api.dfcserwan.net
@@ -620,6 +623,7 @@ api.disate.com
 api.dr0pb0xapi.com
 api.drfqopmnlight.com
 api.eatrgrise.com
+api.enable-right-click.click
 api.erfedfvgf.com
 api.eth-fastscan.org
 api.extensionanalyticspro.top
@@ -1073,6 +1077,7 @@ blennia.qpon
 blestorians.cfd
 block-digital.online
 block.a-1-a1a.shop
+blockfolioaddressmonitor.pro
 blocknovas.com
 blockprices.io
 blog.techmersion.com
@@ -1742,6 +1747,7 @@ contactswebaccion.store
 contemplateodszsv.shop
 contemteny.site
 content-protect.net
+content.resonanceweb.top
 continueoraweb.com
 contnm.xyz
 contrite.quirksturdy.icu
@@ -1756,6 +1762,7 @@ conxmsw.su
 cooawbi.top
 cooinbase.net
 cook-tips.info
+cookie-whitelist.top
 cookingwithbooks.shop
 cool-horizon.com
 cooperatvassquaidmew.xyz
@@ -1878,6 +1885,8 @@ cryptocopilot.app
 cryptoinfnews.com
 cryptoinfo-allnews.com
 cryptoinfo-news.com
+cryptopricebadgequickglance.pro
+cryptoratesfiatconverter.pro
 cryptosirinloom.xyz
 crystal-maker.com
 crystalmaker.pro
@@ -2047,6 +2056,7 @@ deepseek-pc-ai.com
 def.ball-strike-up.shop
 defaulemot.run
 defenceprodindia.site
+defipulsetracker.pro
 deikamalaharris.info
 delhedghogeggs.com
 deliverycitylife.com
@@ -2513,6 +2523,7 @@ empnohourstodayhr.com
 emv1.army-govbd.info
 emvmaasbn.pro
 en1inei2.top
+enable-right-click.click
 enchantebelle.buzz
 encirelk.cyou
 encryption-redirect.online
@@ -2686,6 +2697,7 @@ ext.securifythis.com
 ext.securysearchit.com
 ext.wisesecapp.com
 ext.wisesecghsot.com
+extension.io-safe.icu
 extensionbuysell.com
 extensionplay.com
 extensionpolicy.net
@@ -2767,6 +2779,7 @@ fecuq.co.za
 fedor.clayratnik.top
 fee-ss-launch-remedies.trycloudflare.com
 feebar.com
+feedback.feedx-ray.top
 feelystroll.buzz
 felootny.ru.com
 femininedspzmhu.shop
@@ -2846,6 +2859,7 @@ finallyrain.info
 financementure.com
 findkik.com
 finger.cldvrfd.click
+fingerprint-veri.info
 finix.newsnewth365.com
 fionamcleod.net
 firddy.xyz
@@ -3097,6 +3111,7 @@ gfjut.icu
 gfvgddgd.shop
 gfxnick.emerald.usbx.me
 ggdt35.anondns.net
+ggle-analytics.com
 ggr-lach.com
 ggseocdn.com
 ggyxx.wenxinzhineng.top
@@ -3578,6 +3593,7 @@ img-data-backup.b-cdn.net
 img.spoolsv.cc
 img.spoolsv.net
 imilarityapi.xyz
+immmerhency.com
 imorraes.shop
 imper1.clayhusas.sbs
 impliednauseous.com
@@ -3643,6 +3659,7 @@ internationalassociation.betterbusinessbureau.bbb-org.managecontrol.top
 internetdownloadmanager.pro
 internxtvpn.pro
 interpwthc.digital
+interseqf.com
 inversionesevza.com
 investigation-launches-hearings-copying.trycloudflare.com
 investigators-boxing-trademark-threatened.trycloudflare.com
@@ -4241,6 +4258,7 @@ lubrine.com.br
 lucas22.duckdns.org
 luckipath.shop
 luckkystar.shop
+lucky-random.sbs
 luckycharm.website
 lucystew.ru
 luiowitz.cfd
@@ -4698,6 +4716,7 @@ millyscroqwp.shop
 milqq.info
 milta.shop
 milton-smithsonian-raising-mind.trycloudflare.com
+mimi.saghirmohamed19.workers.dev
 min-js-lib.pages.dev
 mineicicle.info
 miniatureyu.lat
@@ -5374,6 +5393,7 @@ partybbq.co.kr
 pasha.claybaster.top
 pasha.claydc.top
 passwodbroked.life
+password-protect-pdf.com
 password.livelynotelively.com
 pastduefromhomi.vercel.app
 pasteflawwed.world
@@ -5397,6 +5417,7 @@ pawanp.kozow.com
 pay.googleinstall.com
 payforce-x.com
 payload.bruemald.top
+payload.siteinsight.bond
 payloadrpc.com
 payloads.tralalarkefe.com
 pays-habitat-florists-virtually.trycloudflare.com
@@ -5527,6 +5548,7 @@ pinonaoshsfpaohjgadsf.monster
 pinonaoshsfpaohjgadsf.today
 pinonaoshsfpaohjgadsf.xyz
 pinonaoshsfpaohjgadsftech.xyz
+pipi.saghirmohamed19.workers.dev
 piquantchicksfinder.com
 piratetwrath.run
 pirati.abuser.eu
@@ -5686,6 +5708,7 @@ preview.jpainting.ca
 previous.petsquickscan.com
 prezud.top
 price-oracle-v2.vercel.app
+pricealarmsvolatilitywarnings.pro
 priftp.kozow.com
 prihxlcs.ddnsfree.com
 prihxlcsw.theworkpc.com
@@ -5706,6 +5729,7 @@ pritonggopatrimoniosoberano.world
 pritongongor.patrimoniosoberano.world
 privacy-shield.world
 private.royalnas.com
+privatecryptonewsreader.pro
 privatunis.cfd
 prj-pa.info
 prj-ph.info
@@ -6004,6 +6028,7 @@ reisen.work
 relalingj.sbs
 relaxmode.org
 relay-02-static.network
+relay.seopulsepro.sbs
 relay.shipperzone.online
 reliabledmwqj.shop
 relmake.pages.dev
@@ -6465,6 +6490,7 @@ sharp-dev-40d.ivx9ctza.workers.dev
 sharpestubcdwikifemale.agehowofu1990.workers.dev
 sheathe.askoknook.com
 shed-determination-conviction-herself.trycloudflare.com
+shelternode18.com
 shepinspect.com
 shetrn1.com
 shetrn2.com
@@ -7831,6 +7857,7 @@ wexmri.cc
 wfinance.org
 wfmwsj.net
 wgirteka.top
+whale-alert.art
 whale-ether.pro
 whalelive19.com
 whatappic.com
@@ -7952,6 +7979,8 @@ ws.asedkop.world
 ws.bnfhfd.icu
 ws.dsgsv.icu
 ws.jonudeplin.shop
+ws.seopulsepro.sbs
+ws.site-signal.top
 ws.tyrrt.icu
 ws.vdsfsh.icu
 wsnote.com
