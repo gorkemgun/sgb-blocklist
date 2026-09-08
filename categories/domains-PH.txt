@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34707
-# Last change: 2026-09-08 18:44:37 UTC (sync mode: delta)
+# Records: 34738
+# Last change: 2026-09-08 21:54:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -943,6 +943,7 @@
 9792548474652.site
 9877899121278987now.online
 987899876523253i4sa.duckdns.org
+9897984956163.sbs
 9903332114411.cloud
 9923n23821gv21723gf73.icu
 99564.website
@@ -1063,6 +1064,7 @@ a1892279.nhubiubuniunuion.workers.dev
 a1capital.info
 a1capitalmenkulonline.com
 a1hr.top
+a1kapitalmenkulonline.com
 a1newtemuzfirstlari.xyz
 a1o1.ile-e-islemlerim.com.tr
 a1o1.lilioppwxd.click
@@ -1321,6 +1323,7 @@ adobepdfonlinereadercaptcharobot.netlify.app
 adrenallinehub.com
 adreseteslimarackiralama.com
 adriot.org
+adrslerteklr.sbs
 adrwgtyawhdj-awgtadfgtwhdj.sbs
 ads-adversitingb.com
 ads-microsoft.bewears.com
@@ -4266,6 +4269,7 @@ bmljil.help
 bmstw.com
 bn-20120-kampanya.online
 bn-cekilisim.online
+bn-cekilisin.online
 bn-globalhub.sbs
 bn-globalnet.sbs
 bn1151220s2d.duckdns.org
@@ -8507,6 +8511,7 @@ css-cameras-strongly-jaguar.trycloudflare.com
 csscrafted.com
 cstban.online
 cstudyin.coinbase-com.info
+ct54t1d74f25cd.cfd
 ct54t1d74fs127f.cfd
 ct54t1d74fs127fd.sbs
 ctcco.rest
@@ -9133,6 +9138,7 @@ dijital-donusum-girisdevletgovtr.duckdns.org
 dijital-gib-gov-tr.icu
 dijital-giris-basvur-hizmetler.life
 dijital-indirimler.sbs
+dijital-internetkampanya.duckdns.org
 dijital-islembilgi.sbs
 dijital-islemler.sbs
 dijital-islemlerbilgi.sbs
@@ -9140,6 +9146,7 @@ dijital-islemleriniz.sbs
 dijital-kampanyaindirimler.sbs
 dijital-kampanyalarindirim.sbs
 dijital-kapinda.sbs
+dijital-marketplus.duckdns.org
 dijital-onlinehizlisiparis.sbs
 dijital-servisler.sbs
 dijital-simdial.sbs
@@ -9781,6 +9788,7 @@ eadaletdava.org
 eadaletsorgu.org
 eagle.coinbase-com.info
 eaholloway.com
+eare23.s.gy
 earneboost.com
 earnvia.top
 earsivdosya.org
@@ -10105,6 +10113,7 @@ elinize-eniyi-yakisan-hissiyat-bu.com
 elitegaming-usa.com
 eliteregi.digital
 elitgsm.com
+elizcicekcilik.com
 elliepanel.online
 elliepanel.pro
 elliepanel.store
@@ -10999,6 +11008,7 @@ feedston.com
 feelyourpain.co
 felbranthor.shop
 felfecirdom.co
+felkaritasle.live
 fellanfllansas.live
 fellowship-three-gospel-displayed.trycloudflare.com
 felomixario.com
@@ -11802,6 +11812,7 @@ galliferous.com
 galthira.com
 gamaforge.com
 gameguy.neocities.org
+gamemer.online
 gameshannover.com
 gamini-loggin.webflow.io
 gamiunk.com
@@ -12174,6 +12185,7 @@ ghfnerbqwebqwebythrn.click
 ghmfg.sbs
 ghnghjmretmwermw.click
 ghostbladed.info
+ghsmyle.cfd
 gibeportal.com
 gibfatura.xyz
 gibgov.com
@@ -12246,6 +12258,7 @@ giveneldfiur.com
 givenway.pro
 gizanova.com
 gizemkurumlari.com
+gizemliaysubesindeyzbz.duckdns.org
 gizemligunlersdz.sbs
 gizeotek.com
 gizlenebilir-mobilya-ile-konforlu-ve-duzenli-yasam.top
@@ -13556,6 +13569,7 @@ hcarrefirsatgunleri.info
 hcnjxm.homes
 hctxhl.help
 hcu6ubizt.icu
+hdflolink.cloud
 hdfportfoy.com
 hdiclckeregdlmbrbr.mooo.com
 hdkbakistl.com
@@ -17665,6 +17679,7 @@ kredi-basvurusu-online.sbs
 kredi-haritasi.online
 kredi-hologrami.online
 kredi-odakli.online
+kredi-online-hizmetleri.site
 kredi-online-hizmetleri.space
 kredi.e-sorgula.com
 krediaidetim.com
@@ -17676,6 +17691,7 @@ krediikmpnyaabsvrrsnfrstlarrr.pro
 krediimm.com
 kredimbonus.com
 krediminayi.live
+kredin-hazir-online.cloud
 kredinnburda.digital
 kredit-mpay.online
 kreditypay-firsatlarim.online
@@ -18331,6 +18347,7 @@ lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
 lndirimlerikacirmadansendeal.com
 lndirimtakipcileriyiz.com
+lndirimtakptt.com
 lnktanra.net
 lnmlnmlmnlmn.net
 lnnnnl.club
@@ -19494,6 +19511,7 @@ metaamsklogn.webflow.io
 metabbvreklam.shop
 metabusinesscenter-appealform-copyright.vercel.app
 metaemaskalogine.webflow.io
+metakaitabmplreas.sbs
 metakamp.site
 metakmasskklogin.webflow.io
 metalira.net
@@ -19516,6 +19534,7 @@ metaofflinereklam.sbs
 metareklam.shop
 metareklam9503.sbs
 metavisionhub.info
+metax51c23x132.cfd
 metaxrkox23z.sbs
 metciler.com
 meteforx444.space
@@ -20260,6 +20279,7 @@ muhu-bb-vv-aa-ss-dd.xyz
 muhugudu-polililili.lol
 muhugudueresede-afderese.lol
 muhyvau.com
+mujdecicek.com
 mukemmelbirbaslangicicinharikagunlerde.xyz
 mulazajacinto.com
 mulkukulupolisde-derete.xyz
@@ -21117,6 +21137,7 @@ np0per1kj.storage.googleapis.com
 npc-girl.jp
 npmjs.help
 npqhfu.buzz
+nq8h0vi.s.gy
 nrminerojrb.vip
 nrmzwk.online
 nrtuynewrnernq.click
@@ -22795,6 +22816,7 @@ perapogipu.com
 perasude-serenapo.lol
 percentplan.com
 percutaneously.com
+perdedevlerimeys.duckdns.org
 perearlsolympia.com
 peretrodes.site
 perf.coinbase-com.info
@@ -23583,6 +23605,7 @@ ptt-gonderitakip.org
 ptt-gonderittakipsizle.org
 ptt-gov-24.help
 ptt-gov-tr-details9a4ss89q3a20sa65s2.wasapkaw.my
+ptt-gov-tr.account-ac.online
 ptt-gov-tr.ru
 ptt-gov.cfd
 ptt-gov.eu.cc
@@ -25180,6 +25203,7 @@ rvsnhotelesy2025.world
 rwandaroast.com
 rweretee.nicepage.io
 rwwkqrl.xyz
+rwxv01sd23.duckdns.org
 rxupja.cn
 ryalcar.com
 rylcrg.site
@@ -26760,6 +26784,7 @@ sleepnature-id842.world
 sleeptemporary.jarredperlas.com
 slhtml.com
 sliampark.com
+sliencewebsites.sbs
 slim-og-r-n-l-o.myonlineportal.ch
 slipkray.site
 slipperychit.shop
@@ -26798,6 +26823,7 @@ smartedvler-desa.com
 smartedvlersevapp.com
 smartexce.digital
 smartgizmos.website
+smartgrowthtulsa.com
 smarthideparkinn-guests02095.com
 smartlearn.vu
 smartneedshub.shop
@@ -28762,6 +28788,7 @@ teb-com.my-homeip.de
 teb-digital-emekliye-ozel.my-homeip.de
 teb-emeklilere.my-homeip.de
 teb-emekliye.my-homeip.de
+teb-f-i-r-s-a-t-l-a-r-i.my-homeip.de
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
 tebbasvurusayfa.my-homeip.de
@@ -30793,6 +30820,7 @@ tuvturklse.com
 tuvturkos.digital
 tuvturkrandevu.sbs
 tuvturkrandevualmhizmti.web.app
+tuvturkrandevun.com
 tuvturkrandvuhizmeti.web.app
 tuvturkse-d.digital
 tuvturksl.sbs
@@ -34012,6 +34040,8 @@ yevzori.cfd
 yeyoyesys.yyuyy.com
 yfful.com
 yfmd.online
+yfonlineyatirim.com
+yfyatirim.com
 ygerua.com
 yhckos.online
 yhclzx.homes
@@ -34681,6 +34711,7 @@ zuzanna-jedrzejczyk.webflow.io
 zvcki.icu
 zwudytgk.storage.googleapis.com
 zx-tok.click
+zxasd5423zx.duckdns.org
 zxc-tok.click
 zxcfsdfcwefwef.duckdns.org
 zxineright.info
