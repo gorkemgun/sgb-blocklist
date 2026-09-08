@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 84797
-# Last change: 2026-09-08 04:44:43 UTC (sync mode: full)
+# Records: 84801
+# Last change: 2026-09-08 09:46:10 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0-77-54-8-2-2-22-35-5-6-7.com
 0-77-54-8-2-2-22-35-5-6-7.pro
@@ -20316,6 +20316,7 @@ ceptesokramazan.online
 ceptesoktaindirimlifirsatlar.com
 ceptesubetebtr.duckdns.org
 ceptete.pzbsin.com
+cepteteb-c-o-m-tr.my-homeip.de
 cepteteb-com.my-homeip.de
 cepteteb-merkeziislemler.my-homeip.de
 cepteteb.my-homeip.de
@@ -54545,6 +54546,7 @@ motoduct.qpon
 motoilanonlineozel.shop
 motoraskewtoil.run
 motorcitybytes.com
+motorlineyedekparca.com
 motormodtop.top
 motorven.sbs
 motosindiriminikacirma.shop
@@ -58937,6 +58939,7 @@ panzeronline.com
 paoakl.click
 paosjmss.click
 papagani.cfd
+papara-hepsiburada.com.ph
 papara-online.com.ph
 papara-promosyon.com
 paparaemankuldegerler.com
@@ -72668,6 +72671,7 @@ surprizfirsati.com.tr
 surtuguyedimnamnam.shop
 surucuvatandsislem.xyz
 surununkopekler.cfd
+surveys.evsahibibasvuru.com
 surxlwelkqwsdalkdlsa12.cyou
 surxlwelkqwsdalkdlsa12.sbs
 susansthreads.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34669
-# Last change: 2026-09-08 04:44:43 UTC (sync mode: full)
+# Records: 34681
+# Last change: 2026-09-08 09:46:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -2315,6 +2315,7 @@ arorayedekparcasatis.com
 arorayedekparcasi.com
 aroxchecker.com.tr
 arquivos-omie.com
+arracamuyane.web.app
 arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
 arrayend.fetchmechanic.com
@@ -2439,6 +2440,7 @@ aslanapp-bd0eefc497ce.herokuapp.com
 aslankaplanherkeseburdakaplan.site
 asleoaslaeodsla.online
 aslicezasorgu.org
+aslihukuksorgu.com
 asliyecezamahkeme.org
 aslkamask.cfd
 aslmss-dlkad-adlkd.cfd
@@ -4105,6 +4107,7 @@ bizlehizlarandevu.org
 bizlehmnfgd.com
 bizler-brudasn-kamp-aldin.store
 bizler-buraya-sevgi-saygi-getirip-kazandirdik.com
+bizlerdengordunuz.shop
 bizlerle-burdan-bakin-biraz-daha-karli-olun.com
 bizmora.digital
 bizora.gifts
@@ -5863,6 +5866,7 @@ ceppptesokklarli.online
 cepsube.misecure.com
 cepte-islemleriminz-garanti.duckdns.org
 cepte-shop.online
+cepte-t-e-b-com-tr.my-homeip.de
 cepte-teblim.my-homeip.de
 cepte-tepli-firsat.my-homeip.de
 ceptefirsat.info.tr
@@ -10112,6 +10116,7 @@ elviroapp.store
 elvirohubs.store
 elvirolabs.site
 elvorilla.sbs
+elwanda26230.softr.app
 elyntis.shop
 elyntisapp.site
 elyntishubs.store
@@ -16290,6 +16295,7 @@ kaita2avjfdskjakdsx23.cfd
 kaita2csdkjadkjsadjkx3123x12.sbs
 kaitakcl12lk3xk1l3212.cfd
 kaitaksdkcj13x12.cfd
+kaitameloxx.cfd
 kaitopanel.com
 kajuadam.click
 kajujajo.com
@@ -16588,6 +16594,7 @@ kargotakip.ptt.com.sistemi.biz.tr
 kargotakiptt.cfd
 kariikaanlogin.webflow.io
 kariyerplanlamavestratejileri.shop
+kariyerportal.derestech.com
 kariyeryurticikargo.online
 karkazanirkenkimseninfarketmedigiyontem.cfd
 karknulogan.webflow.io
@@ -19498,6 +19505,7 @@ metaofflinereklam.sbs
 metareklam.shop
 metareklam9503.sbs
 metavisionhub.info
+metaxrkox23z.sbs
 metciler.com
 meteforx444.space
 meteorhollow.space
@@ -25160,6 +25168,7 @@ rwandaroast.com
 rweretee.nicepage.io
 rwwkqrl.xyz
 rxupja.cn
+ryalcar.com
 rylcrg.site
 rynqewvqwebyutn.click
 rypizi.com
@@ -25366,6 +25375,7 @@ sahibinden-get-ilan.b-guvenliodeme.online
 sahibinden-get.dijital-mobil-hizmet.online
 sahibinden-get.ealimmobil.com
 sahibinden-get.ejet-ticaretin1.online
+sahibinden-get.ejet-ticaretin6.online
 sahibinden-get.emobileservislerr.com
 sahibinden-get.eservisalimin1.online
 sahibinden-get.eservishizmetleriniz1.online
@@ -25374,6 +25384,7 @@ sahibinden-get.eurunservisiniz.com
 sahibinden-get.guvenliodemelerim.online
 sahibinden-get.ilanjet-hizmetler.com
 sahibinden-get.islem-guvende.online
+sahibinden-get.jethizmetin2-ru.online
 sahibinden-get.mobil-eservisin.com
 sahibinden-get.mobilsepetalim-25.online
 sahibinden-get.mobilsepetlerim1.com
@@ -34045,6 +34056,7 @@ yklesrglhgs.cfd
 yklmebslasmdi.cfd
 yklmehgszmnpra.cfd
 yklmhrsbrdaorg.cfd
+yklmrdnsnrahgs.cfd
 ylbasizmni.com
 ylbasndacrfsaa.cfd
 ylbsikrcda.com
