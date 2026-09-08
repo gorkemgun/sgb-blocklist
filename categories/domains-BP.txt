@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 84808
-# Last change: 2026-09-08 14:36:13 UTC (sync mode: delta)
+# Records: 84813
+# Last change: 2026-09-08 18:44:37 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0-77-54-8-2-2-22-35-5-6-7.com
 0-77-54-8-2-2-22-35-5-6-7.pro
@@ -27900,6 +27900,7 @@ fatsasubesindeler.sbs
 faturalarim.duckdns.org
 faturapanelimburda.duckdns.org
 faturapanelleri.duckdns.org
+faturaturkcell.com
 faultfdpxv.com
 fav-stars.com
 fav0rilerledolunline.shop
@@ -37311,6 +37312,7 @@ hepsi-burada-kepim-aktif.com
 hepsi-burada-kepim-guncelleme.com
 hepsi-burada-kepimaktiflestirme.com
 hepsi-burada-kepimguncelleme.com
+hepsi-buradakep.com
 hepsi-buradakepadresim.com
 hepsialirim.club
 hepsiapp.web.app
@@ -38750,6 +38752,7 @@ hizliteslimaturun.name.tr
 hizliteslimaturun.org.tr
 hizlitokislemleri.duckdns.org
 hizlitukenecek.xyz
+hizlituvturkaracmuayne.web.app
 hizliuretsepetlerini.xyz
 hizliurlshortss.cfd
 hizlive-online-geriaktar.site
@@ -54132,6 +54135,7 @@ mobile-ak-firsati.online
 mobile-akbank.duckdns.org
 mobile-basvrusal.click
 mobile-dijital-kaydol.click
+mobile-facebook.com.ph
 mobile-giris.click
 mobile-girjs.shop
 mobile-girjsler.shop
@@ -73375,6 +73379,7 @@ tckalkinmabankasi.com
 tckalkinmayatirimbankasi.com
 tckamuportal.org
 tckamusorgu.org
+tckdosyasorgulama.com
 tckgm.cc
 tckimlik-psi.vercel.app
 tckrca.cfd

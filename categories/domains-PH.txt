@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34697
-# Last change: 2026-09-08 14:36:13 UTC (sync mode: delta)
+# Records: 34707
+# Last change: 2026-09-08 18:44:37 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1489,6 +1489,7 @@ aidatiletisim.buzz
 aidatkartiadesionly.xyz
 aidatodemenoktasi34.xyz
 aidatodemkdsw.fwh.is
+aidatsorgulama0081.org
 aidforhealthcare.org
 aidshare.org
 aidtiadedvlet2025.info
@@ -4264,6 +4265,7 @@ bmenkulsermayeler.com
 bmljil.help
 bmstw.com
 bn-20120-kampanya.online
+bn-cekilisim.online
 bn-globalhub.sbs
 bn-globalnet.sbs
 bn1151220s2d.duckdns.org
@@ -11858,6 +11860,7 @@ gardensunderthemoon.info
 gardenv-illagebled.com
 gardenvillagebledcloudz.com
 gardiun.biz
+garefesobaba.ice.mom
 garentafilokurumsal.com
 garentakurumsal.com
 garentarentcar.org
@@ -12616,6 +12619,7 @@ gratis-i.from-ar.com
 gratis-j.dynuddns.com
 gratis-mr.ddnsgeek.com
 gratis-rt.dynuddns.com
+gratis-tr.ask4tree.com
 gratis-tr.craftyhour.com
 gratis-tr.doordk.com
 gratis-tr.obliqueprism.com
@@ -16301,6 +16305,7 @@ kaitakcl12lk3xk1l3212.cfd
 kaitaksdkcj13x12.cfd
 kaitameloxx.cfd
 kaitopanel.com
+kaittametoofline.cfd
 kajuadam.click
 kajujajo.com
 kakunlgvn.webflow.io
@@ -23384,6 +23389,7 @@ prmsynllrllrfrst.click
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynnkmpnyaabsv2569858477.online
+prmsynnkmpnyabsvrrrsnfrstlarr.info
 prmsynnnkmpnyrrsonffrstlar.info
 prmsynnnkmpnyrrsonffrstlar.pro
 pro-digitalus.com
@@ -30265,6 +30271,7 @@ tribu-malasana.com
 tric.econeurqa.com
 triciclocaparacadeirante.com
 trickkboard.com
+tridarikurum.org
 triistrux.com
 trilineconsulting.com
 trilogicworld.com
@@ -33418,6 +33425,7 @@ wwwladger--start-web.webflow.io
 wwwpostaa.top
 wwwq.reimglink.com
 wwwsorogren.nexusframe.cfd
+wwwtrumore.com
 wwwturkeygovtr.polypartssidecar.eu
 wwwwwwwwwweeeeebsuppooorrrtt89999040.s3.eu-central-4.ionoscloud.com
 wwwwwxxxxxxssw.duckdns.org
@@ -33477,6 +33485,7 @@ xcarreindirimleri.click
 xccarref.online
 xcd9fen0sk3r.com
 xcefarrefour.cfd
+xcsda881sdf.duckdns.org
 xczvcxdsa.com
 xddqjfhgtwbg.xyz
 xe54ghj.com
@@ -34197,6 +34206,7 @@ yudumyumdu6.dns.navy
 yugosadgsagdgasd92sadh23s.click
 yukeshapi.neocities.org
 yukifabrikasatis.com
+yukionlinesatis.com
 yuklemeneniziyapin.duckdns.org
 yuklmezamni.cfd
 yuksekdagindumani.co
