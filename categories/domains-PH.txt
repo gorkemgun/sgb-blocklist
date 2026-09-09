@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102660
-# Last change: 2026-09-09 19:48:50 UTC (sync mode: delta)
+# Records: 102668
+# Last change: 2026-09-09 22:35:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -28060,6 +28060,7 @@ dynatoki.digital
 dynavo.site
 dynorise.com
 dynorman.com
+dynotatattaas.xyz
 dynv6.net
 dyonline.net
 dypujay.com
@@ -29271,6 +29272,7 @@ edvltlrdsn.xyz
 edvltmobilonlineformbasvuruolustur.ml
 edvs-tapursvnnusz.info
 edvs-tapursvnnusz.net
+edvs-tapursvnnuszs.info
 edvs-tapursvnnuszs.org
 edvtaidtiaade.com
 edvvletyrdmlarbaslyr.online
@@ -32878,6 +32880,7 @@ fakeidmaker.onlinewebshop.net
 fakfukfikk-3fe345abf81a.herokuapp.com
 faklimayiskampanyasi.wiki
 faktor-edilgen.guru
+falanfilanintermilan.sbs
 falanko.net
 falbaktir.net
 falconeriturkiye.com
@@ -38491,6 +38494,7 @@ gratis.globalscholarpress.com
 gratis.homelinux.net
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
+gratis.jonestonic.com
 gratis.kasihinfo.com
 gratis.kywestfest.com
 gratis.lakeboundtech.com
@@ -42746,6 +42750,7 @@ hizlakilometrehasar.shop
 hizlandirmaszamanis.cloud
 hizlbnngiristr.com
 hizlbudgetarackiralasana.space
+hizlgcsdldr.click
 hizlgecisbakieyukleme.web.app
 hizlgecisnyuklemesi.art
 hizlgecisonlnebakye.lat
@@ -42905,6 +42910,7 @@ hizlidanismanlikllar.com
 hizlidanogren.xyz
 hizlidiploma.com
 hizlidnzislemleri.com
+hizlidoldurmagcs.web.app
 hizlidolum.xyz
 hizlidolumerkezi.co
 hizliebkdaiosyebus.online
@@ -58516,6 +58522,7 @@ metaglobalsecuritys.com
 metahelpassistant.com
 metahsrait.top
 metakaitabmplreas.sbs
+metakaitaoffline.sbs
 metakamp.site
 metakmasskklogin.webflow.io
 metalbook.top
@@ -58616,6 +58623,7 @@ metoatesoglureklamkralidir.net
 metomaskalagin.webflow.io
 metometa3169.shop
 metopallege.com
+metorekotekox312z.sbs
 metranx.com
 metrefaction.top
 metreingenuity.top

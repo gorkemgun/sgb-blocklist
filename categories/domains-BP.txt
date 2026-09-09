@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258349
-# Last change: 2026-09-09 19:48:50 UTC (sync mode: delta)
+# Records: 258375
+# Last change: 2026-09-09 22:35:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -18413,6 +18413,7 @@ aidat-iadeportal-turkiyegovtr.com
 aidat-iadeportali-turkiyegovtr.com
 aidat-iadeportali.com
 aidat-iades-web-grs-e-devlet-gov-tr.com
+aidat-iades-web-grs-e-devlet-gov-tr.com.ph
 aidat-iadesi-bankalar-denetleme.cf
 aidat-iadesi-bankalar-denetleme.ga
 aidat-iadesi-bankalar-denetleme.gq
@@ -18802,6 +18803,7 @@ aidatborcsorguedevlet.tk
 aidatborcum.com
 aidatborcusorgusu.tk
 aidatbsvrkrt.online
+aidatcepdestekmobilkapisi-gov-tr.com.ph
 aidatcepdestekmobilsube.com
 aidatd-let.cc
 aidatdeniz-tr.com
@@ -53934,6 +53936,7 @@ buyukbaliklaratarimolta.click
 buyukbankasi.com
 buyukcampanya.click
 buyukcekilis-enpara.com
+buyukcekilis.online
 buyukcekmece.online
 buyukendirimedek.cfd
 buyukeylulindirimi.click
@@ -56787,6 +56790,7 @@ cekilisekazankatil.co.vu
 cekiliseverydaysundaykatil.net
 cekilisfiba.com.tr
 cekilisfiba.xyz
+cekilisfirsati.online
 cekilisfirsatim.xyz
 cekilisfirsatim2020.com
 cekilisfirsatiykb.com
@@ -56811,6 +56815,7 @@ cekilisi.org
 cekilisi.site
 cekilisim-burada.online
 cekilisim.4-246-164-34.plesk.page
+cekilisim.online
 cekilisimburada.online
 cekilisimdenizden.tk
 cekilisimekatil2013ekim.com
@@ -56818,6 +56823,7 @@ cekilisimekatil2023ekim.com
 cekilisimhemenburada.online
 cekilisin-acikdenizv2denizbank.com
 cekilisin-burada.online
+cekilisin.online
 cekilisinburada.online
 cekilisinde-acikdenizv2denizbank.com
 cekilisiniz-acikdenizv2denizbank.com
@@ -56826,6 +56832,7 @@ cekilisiphone11.gq
 cekiliskampanya.com.tr
 cekiliskampanya.online
 cekiliskampanya.xyz
+cekiliskampanyasi.online
 cekiliskanalim.club
 cekiliskatilim.com
 cekiliskatilim.xyz
@@ -56837,6 +56844,7 @@ cekiliskazandiriyor.website
 cekiliskuveytgunlerim.com
 cekilisler-acikdenizv2denizbank.com
 cekilisler-burada.online
+cekilisler.online
 cekilisler.xyz
 cekilislerburada.cf
 cekilislerburada.online
@@ -56850,6 +56858,7 @@ cekilislerimburda.tk
 cekilislerindenizden.tk
 cekilisleriparibu.com
 cekilislerlekazan.com
+cekilismerkezi.online
 cekilisoduleventihediyemushroomwhattaboutyou.net
 cekilisonay-acikdenizv2denizbank.com
 cekilisonay-acikdenizv2denizbank.online
@@ -90794,6 +90803,7 @@ eylulfirsatlarinikacirmadanal.com.tr
 eylulfirsatlarinikacirmadanal.online
 eylulfirsatlarinikacirmadanal.xyz
 eylulfirsatlarinikacrma.duckdns.org
+eylulfirstlari.duckdns.org
 eylulflrsatlariburada.com
 eylulflrsatlariburada.me
 eylulflrsatlariburda.com
@@ -93660,6 +93670,7 @@ firsatetkinlikler-bn.com
 firsatetkinlikler-bn.online
 firsatevim.website
 firsatevimdea101kapin.com
+firsateylulayi.duckdns.org
 firsateylulgunleridevamediyor.com
 firsateylulgunleriindirimim.com
 firsatfirsatburada.com.tr
@@ -143326,6 +143337,9 @@ kampanyalarvakiftann.xyz
 kampanyalarvekatilimbrd.net
 kampanyalarworldcom.tk
 kampanyalaryilbasinda.com
+kampanyali-cekilis.online
+kampanyali-cekilisim.online
+kampanyali-cekilisin.online
 kampanyali-ceklis-katil.net
 kampanyali-esube-bireysel-giris.club
 kampanyali-esube-bireysele-giris.club
@@ -143374,6 +143388,7 @@ kampanyalialisverssis.online
 kampanyalialisverssis.xyz
 kampanyaliarabakiralamahizli.com.tr
 kampanyaliarabakiralamahizli.xyz
+kampanyalicekilis.online
 kampanyalidevamet.ml
 kampanyalidevamet1.ml
 kampanyalidolum.com.tr
@@ -160424,6 +160439,7 @@ mhrrsdsrnadevusiteds.store
 mhrrsserndvsal.net
 mhrs-gov-randevu.cfd
 mhrs-randevu-e-devlet.blogspot.com
+mhrs-randevu-islem.vercel.app
 mhrs-randevu-online.cfd
 mhrs-randevu.net
 mhrs-randevu.vercel.app
@@ -171194,6 +171210,7 @@ odubnytitrodu.vercel.app
 odulhavuzubasvuruekatilimifourthhazeberryyt.net
 odulhawuzkatilimikampanyalodulumldarkblack.net
 oduliscoomingodulunualsendestartmonthyear.net
+odullucekilis.online
 odulprim.com
 odulruzgaribasvuruyutamamlaisendtooofficial.net
 odulukazanmafirsatibasvurunutamamlasopleasespeakslowly.net
@@ -179446,6 +179463,7 @@ paramguvende-urun.com
 paramguvende.alisverislerintr.com.tr
 paramguvende.app
 paramguvende.cf
+paramguvende.cfd
 paramguvende.click
 paramguvende.dev
 paramguvende.e-hizmetler-param.com.tr
@@ -209759,6 +209777,7 @@ sponsor365fb0000ak.com
 sponsor423949234932423423.click
 sponsor781239girsisyap.com
 sponsorbngiris.com
+sponsorcekilis.online
 sponsorcunuz-844381.com
 sponsoredads.sbs
 sponsoredrklmvkkf.com
@@ -209908,6 +209927,8 @@ sponsorlu-bntr.tech
 sponsorlu-bntr.xyz
 sponsorlu-cekilis-kura.online
 sponsorlu-cekilis-paribu.online
+sponsorlu-cekilisim.online
+sponsorlu-cekilisin.online
 sponsorlu-cekilisparibu.live
 sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
@@ -209931,6 +209952,7 @@ sponsorlu-hizmet.world
 sponsorlu-icerik-960912065.online
 sponsorlu-icerik.com
 sponsorlu-kampanya.name.tr
+sponsorlu-kampanya.online
 sponsorlu-kampanyalar-101.site
 sponsorlu-kampanyalar-102.site
 sponsorlu-kampanyalar-104.site
@@ -209941,6 +209963,7 @@ sponsorlu-kampanyalar-108.site
 sponsorlu-kampanyalar-109.site
 sponsorlu-kampanyalar-110.site
 sponsorlu-kampanyalar-111.site
+sponsorlu-kampanyalar.online
 sponsorlu-market.com.tr
 sponsorlu-marketim.com.tr
 sponsorlu-marketim.online
@@ -209994,6 +210017,8 @@ sponsorlubbvareklami.site
 sponsorlubsvr3.xyz
 sponsorlubsvru1.xyz
 sponsorlubsvru4.xyz
+sponsorlucekilis.online
+sponsorlucekilisin.online
 sponsorlucliks.cfd
 sponsorluduyuru.com
 sponsorluduyuruservisi.net
@@ -210145,6 +210170,7 @@ sponsorumgirisyaptirdi.com
 sponsorunuzbbvanizttog.com
 sponsorxs.cfd
 sponsotinegiriyombe.com
+sponsporlucekilisim.online
 sponsporlugonderi.onlinemagazaislemlerin.com
 sponsrdgarntikampanyalari.com
 sponsrklu1o1firsat.duckdns.org
