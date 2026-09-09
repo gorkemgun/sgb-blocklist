@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258316
-# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
+# Records: 258349
+# Last change: 2026-09-09 19:48:50 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -48609,6 +48609,8 @@ bn-2022-trgiriscepasddasda.ertenler.club
 bn-2022-trgiriscepeer.ertenler.club
 bn-2022-trgiriscepsad.ertenler.club
 bn-ancetriadefirsati.net
+bn-araba-cekilisim.online
+bn-arabacekilisim.online
 bn-basvur-simdi.xyz
 bn-basvuru-checkevent.net
 bn-basvuru.cloud
@@ -48653,7 +48655,9 @@ bn-globalservices.sbs
 bn-globaltech.sbs
 bn-globaltrdesteksorgulamalarikampanyayonet.net
 bn-guncelkampanya.net
+bn-hayalimburada.online
 bn-hediyeetkinlikleri.com
+bn-hediyemburada.online
 bn-hemenbasvur.com
 bn-iadebasvur.com
 bn-iadebasvurusu.com
@@ -48663,6 +48667,8 @@ bn-july-campaigns.net
 bn-kampanya2023.net
 bn-kampanyalar.com
 bn-kampanyalarimiz-2023.com
+bn-kampanyaliarabam.online
+bn-kampanyamburada.online
 bn-kisalt.com
 bn-musteridestek-2022ceptr-girisleri.ertenler.club
 bn-newbasvurudaycampaign.cloud
@@ -48672,6 +48678,8 @@ bn-onlinebasvurular.com
 bn-onlinegiristr.com
 bn-ozelguniadeleri.com
 bn-ozeliade.com
+bn-sansimburada.online
+bn-sanslicekilis.online
 bn-security-servicesdaysbasvurum.net
 bn-sorgulamalarvekatilimlaritakipet.net
 bn-teknikdestek2022.com
@@ -51140,6 +51148,7 @@ brdnalmssnbskytrdnak.ignorelist.com
 brdnalnbnceded.mooo.com
 brdnalnbzbrdnalyrz.com
 brdnbsfrynlandas.bond
+brdnglsndnbzmolsn.cfd
 brdnglsnyklnyrhmn.mooo.com
 brdnhzlcyklmypn-m.mooo.com
 brdnoryaglyrdkbr.icu
@@ -53001,6 +53010,7 @@ buki.ah00hh.xyz
 bukisnakitakdm.xyz
 buklifgerttesede.lat
 buklxmckkl.net
+bukmpykcmzeylul.duckdns.org
 bukmudser.click
 bukolay.22web.org
 bukugufuerese.xyz
@@ -59893,6 +59903,7 @@ cokgucluyuz.sbs
 cokguzel-firsat-1o1-kampanya.com
 cokguzelgunleraslakacirma.com.tr
 cokguzelgunleraslakacirma.xyz
+cokguzelolaysendekatil75.info
 cokhizliydimartikyoruldum.online
 cokirekabetsevmez.net
 cokiyi.firsatrentkiralamaarac.com.tr
@@ -70724,6 +70735,7 @@ dijitalsubeziraat.online
 dijitaltahhsilat-trptt.shop
 dijitaltrweb-ziraatbireysel.com
 dijitalturkiyegovtr.com
+dijitalurun-aynigunkapinda.duckdns.org
 dijitalvakfbnkkredbsvr.cf
 dijitalvakifbank.co.vu
 dijitalvakifbanklogins.co.vu
@@ -71189,6 +71201,7 @@ dlenizlbanlk.com
 dlenlzbank.com
 dlennizbannk.com
 dlfkkas.net
+dlgltalmobllsaatevl.duckdns.org
 dliykleme.22web.org
 dllenizbank.com
 dlmnlkbmnbsblrt.duckdns.org
@@ -90848,6 +90861,7 @@ eylullayiyagmur.xyz
 eylulmobilfirsatisendekatilbukampanyalarahemen.cloud
 eylulonucindirim.uk
 eylulozeldenizkrdiniz.xyz
+eylulozelkmpnya.duckdns.org
 eylulozelsiparis.click
 eylulpandemiade-tr.com
 eylulpereakendekampanyalari.com
@@ -100623,6 +100637,7 @@ gelartikltfenozledmseni.online
 gelatinate.com
 gelator1.nicepage.io
 gelbaanawe.click
+gelbanaburadasendegelola.guru
 gelbasvuralim.sbs
 gelbeartik.online
 gelbenburdayimsetpet.space
@@ -100784,6 +100799,7 @@ geleneverdesende.online
 gelenfirsat.xyz
 gelenfirsatayak.xyz
 gelengelirzatenbekle.click
+gelengidenalsindiye.lol
 gelengidenbu454glkcm.com
 gelengidenfirsat.com.tr
 gelengidenfirsat.online
@@ -119930,6 +119946,7 @@ hgsyklekmpnyaxyz.net
 hgsykleme.net
 hgsyklemechnte.blogspot.com
 hgsyklemegecisbizde.blogspot.com
+hgsyklemelerde.duckdns.org
 hgsyklemelerinixpttawm.com
 hgsyklemeleriptt.com
 hgsyklemelexa.blogspot.com
@@ -134158,6 +134175,7 @@ isdeneme.somee.com
 isdepromosyonlari.com
 isdestekal.cfd
 isdestekbasvuru.sbs
+isdestekbasvurusu.cfd
 isdeyeniyilsurprizleri2019.com
 isdg-gdsgds.sbs
 isdhahshwbsbw-hqhshahash.cyou
@@ -150149,6 +150167,7 @@ kmpnyhmnbrd1o1.com
 kmpnyhmnbrd1o1.info
 kmpnyhmnbrd1o1.online
 kmpnykredibsvrrrfrstlarrr158749.online
+kmpnykredibsvrrrfrstlarrr158749.pro
 kmpnylrbrdsizlerle.space
 kmpnylrrbsvrrsnfrstlrrr.live
 kmpnylrrsnffrsttbsvrrr.click
@@ -160463,6 +160482,7 @@ mhrsrandevunburadan.duckdns.org
 mhrsrandevunburadann.duckdns.org
 mhrsrandevunuz.net
 mhrsrandevuonlinehizmetlerbasvurunoktasi.duckdns.org
+mhrsrandevuornek.duckdns.org
 mhrsrandevuu.xyz
 mhrsrsrs.cfd
 mhrss-2026.duckdns.org
@@ -180770,6 +180790,7 @@ paribudan5yilozelkampanya.com
 paribudanairdrop.xyz
 paribudanbesinciyilozelkampanyalar.com
 paribudancekilisler.com
+paribudancekilisler.online
 paribudancoinhediyeleri2022.com
 paribudandestek.com
 paribudandevkampanya.epizy.com
@@ -180804,6 +180825,8 @@ paribudanprphediyeniz2022.com
 paribudanshibalar.co.vu
 paribudanshibaodulu.com
 paribudansizedoge.co.vu
+paribudansponsorlucekilisler.online
+paribudansponsorluhediyeler.online
 paribudanyenidestek.com
 paribudanyenihizmetler.com
 paribudanyenilenhizmet.xyz
@@ -181197,9 +181220,11 @@ paribunethizligiriss.xyz
 paribunew.site
 paribunla2022.net
 paribunordgiris.xyz
+paribununcekilisleri.online
 paribunundunyasi.link
 paribununhediyekampanyalari.online
 paribununhediyelicekilisleri.online
+paribununsponsorlucekilisleri.online
 paribununteklifiguzel.co.vu
 paribunuz2022.net
 paribunuzlayiz.net
@@ -181290,6 +181315,7 @@ paribusosyalmedyacekilisleri.xyz
 paribusponsorlu-cekilis.online
 paribusponsorlucekilis.online
 paribusponsorlucekilisi.online
+paribusponsorluhediyeler.online
 paribuss.com
 paribuss.xyz
 paribustellar.xyz
@@ -184874,6 +184900,7 @@ prmsynnkmpnyaabsv2569858477.info
 prmsynnkmpnyaabsvr.info
 prmsynnkmpnyaabsvrr.info
 prmsynnkmpnyaabsvrr.live
+prmsynnkmpnyabsvrrrsnfrstlarr.pro
 prmsynnkmpnyyybsvrrrr.info
 prmsynnkmpnyyybsvrrrr.live
 prmsynnkmpnyyybsvrrrr.pro
@@ -201407,6 +201434,7 @@ senoldunvale.sbs
 senovolta1.sbs
 sense-emlkdxdq.net
 sense-odeme.net
+sensemeksa.duckdns.org
 sensevdaminase11.com
 sensino.click
 sensirtentidendi.site
@@ -204853,6 +204881,7 @@ siparis-dyson.com.tr
 siparis-ekstra101alisveris.site
 siparis-extra-online-mobil.click
 siparis-get-onay.com
+siparis-guvende.online
 siparis-guvenli-ver.click
 siparis-guvenli.com
 siparis-guvenliodeme.com
@@ -206696,6 +206725,7 @@ snow-elk-924172.hostingersite.com
 snow-lapwing-909666.hostingersite.com
 snowpin.net
 snowshoes.top
+snrdnhgsykle.cfd
 snrkakindmgn.cfd
 snrlsayocadaoneaca.cfd
 snrlstoklonllne-indrmllr.net
@@ -209876,6 +209906,8 @@ sponsorlu-bntr.live
 sponsorlu-bntr.store
 sponsorlu-bntr.tech
 sponsorlu-bntr.xyz
+sponsorlu-cekilis-kura.online
+sponsorlu-cekilis-paribu.online
 sponsorlu-cekilisparibu.live
 sponsorlu-ekran.sa.com
 sponsorlu-giris74880021.com
@@ -228829,6 +228861,7 @@ ugrsmbnlebsniykrsnpki.mooo.com
 ugsdghfsdfsax3.shop
 ugshfhgsdghfs2.shop
 ugur-d.org
+ugurlusbsndeyz.duckdns.org
 ugx4pvongd.storage.googleapis.com
 ugzaf37mbs.storage.googleapis.com
 uhadise.site

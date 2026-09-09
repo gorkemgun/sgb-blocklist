@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102648
-# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
+# Records: 102660
+# Last change: 2026-09-09 19:48:50 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11048,6 +11048,7 @@ basvurkredim.asyanfinans.com
 basvurkredine.basutkredi.com
 basvurlar.com
 basvurlarininsonucal.sbs
+basvurmaksizden.abrdns.com
 basvurmst.cyou
 basvurnmz.com.tr
 basvuronlinetektenizde.fun
@@ -16672,6 +16673,7 @@ bvoyjh.top
 bvrdunz40.click
 bvrknt10.click
 bvsucurisda20000.tech
+bvvdbdbdbsbmx.sbs
 bvz.sgesn.top
 bw2m3cel.com
 bwcelldwlt.tk
@@ -28543,6 +28545,7 @@ e-sube.hdfportfoy.com
 e-sube.hedeffon.com
 e-sube.hedefonportfoyum.com
 e-sube.hedefportfoyfon.com
+e-sube.hpfon.com
 e-sube.tefaskurumsal.com
 e-sube.tunafonyonetimi.com
 e-subesiz-vakf-digitale.xyz
@@ -35852,6 +35855,7 @@ garant-kred-500bintl-hemen-tikla-firsat.net
 garantbasvru.net
 garanterentacar.com.tr
 garanterentacar.ga
+garanthmn.art
 garanti-action-form.pages.dev
 garanti-basvur-bireysel-fomu-online.ml
 garanti-basvuru-bireysel-com.webredirect.org
@@ -36548,6 +36552,7 @@ gedikportfoyum.com
 gediksubem.com
 gedikyatirim.co
 gedikyatirim.info
+gedikyt.com
 gedizelektrikodeme.net
 gedlim-zamaninda.com
 gedtllue.com
@@ -40082,6 +40087,7 @@ haberler.sizde.com.akbadonerd.click
 haberler.today
 haberler112233.shop
 haberler11278945.shop
+haberler123143.sbs
 haberler12342.shop
 haberler12343.sbs
 haberler1234321.shop
@@ -53501,6 +53507,7 @@ kuzeyhaberx.site
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
 kuzeyportfoyyonetim.com
+kuzeytr.com
 kuzeyvakfi.com
 kuzulabs.org
 kv67ym2ka0h72ja.online
@@ -58878,6 +58885,7 @@ mhshemen.uk
 mhskastogreen.uk
 mhsksrsnrndsv.com
 mhsr-randvu.net
+mhsraaggwa.site
 mhsrarandvlrmzbrda.sbs
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -65953,6 +65961,7 @@ otokoctturkiye.com
 otokocturkey.com
 otokocturkeyfilo.net
 otokofilomkurumsal.net
+otokokurumsal.net
 otolaraviskiralama724.site
 otomarket.info
 otomatik-verg.com
@@ -81724,6 +81733,7 @@ sorgula.aidatsorgusu.com
 sorgula.plus
 sorgula.vip
 sorgulagec.online
+sorgulagec.site
 sorgulaislem.app
 sorgulakm.shop
 sorgulalamara.com
@@ -85722,6 +85732,7 @@ tarihrandab.net
 tarihsizvalibaba.duckdns.org
 tarimarketcep.cfd
 tarimkoopalisveris1.online
+tarimkooparatif.vercel.app
 tarimkooperatifmarkette.cfd
 tarimkoperatifsepeti.online
 tarimkredikooperatifmarket.sondonemkmpnyalari.com
@@ -85990,6 +86001,7 @@ tcbmtrtr887.com
 tcbmtruygulama6.com
 tcbmuygulamapandemigirisiniz78.com
 tcbrtm5.com
+tcbtk.com
 tcbtk.org
 tccbmctrhazinegovtrc8262.com
 tccbmcumhurbaskanliktr.tk
