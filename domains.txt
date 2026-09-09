@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469194
-# Last change: 2026-09-09 06:02:09 UTC (sync mode: full)
+# Records: 469213
+# Last change: 2026-09-09 11:30:12 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2074,6 +2074,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
@@ -11020,6 +11021,7 @@
 2mbq4hn.duckdns.org
 2mdg4v.duckdns.org
 2me2323el.duckdns.org
+2metaofflinereklam.sbs
 2mgnesy.duckdns.org
 2mk5rvt.duckdns.org
 2mog31.duckdns.org
@@ -69857,6 +69859,7 @@ bilgiadresimtr.miko-cdn.space
 bilgiaidatlari.net
 bilgiakbank.com
 bilgiakisi.shop
+bilgial.site
 bilgial.tk
 bilgialbsvr.com
 bilgialma-formu.com
@@ -82890,6 +82893,7 @@ bn-2022-trgiriscepeer.ertenler.club
 bn-2022-trgiriscepsad.ertenler.club
 bn-2yasinda.com
 bn-ancetriadefirsati.net
+bn-araba-cekilisin.online
 bn-basvur-simdi.xyz
 bn-basvuru-checkevent.net
 bn-basvuru.cloud
@@ -93590,6 +93594,7 @@ c-bntdestektr.com
 c-bva-grn-in.my-homeip.com
 c-digitaltuzelkisimmenu.online
 c-e-aktarma-mobile-tr.com
+c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.de
 c-e-p-t-e-t-e-b.my-homeip.net
 c-e-p-t-e-teb.my-homeip.de
@@ -171337,6 +171342,7 @@ fsafamfn.net
 fsafamsasn.net
 fsafasfasfa.click
 fsafcvahsfklafjala.sbs
+fsafgt435gyw4g.lol
 fsaflwq412124rwqfsafsa-f2142-421.com.tr
 fsafsafsafasfas.com
 fsafsafsafasfasfsag.com
@@ -234087,6 +234093,7 @@ istanbulbelgimmkart.xyz
 istanbulbelgimmkartcan.xyz
 istanbulbelgimmkarttt.xyz
 istanbulbelgimrandevu.xyz
+istanbulbelgimrandevutr.xyz
 istanbulbellggiimm.xyz
 istanbulbellggimm.xyz
 istanbulbellgiimkartt.xyz
@@ -245519,8 +245526,10 @@ kaita1asckdsajkax123.shop
 kaita1xsadljkackkj13x132.cfd
 kaita2avjfdskjakdsx23.cfd
 kaita2csdkjadkjsadjkx3123x12.sbs
+kaita3elleme3434.sbs
 kaita99asdjkjkqxeqkwe.cfd
 kaitacsdkjck123xk123.sbs
+kaitaelleme3434.sbs
 kaitaelleme3x123z12sacac.cfd
 kaitaisasdjasdjxj123kx13x123.shop
 kaitaisx12k3131xsak123.cfd
@@ -252120,6 +252129,7 @@ kbb25.com
 kbbbn.duckdns.org
 kbbpissmqs.conningstone.net
 kbbpissmqs.hbmc.net
+kbc-trendyol.ph
 kbcusb.online
 kbd.visiongrupltd.com
 kbd1nn4gf.duckdns.org
@@ -280176,6 +280186,7 @@ metahostin.xyz
 metahsrait.top
 metaisbankasi.com
 metakaitabmplreas.sbs
+metakaitareklamofflinebee.sbs
 metakamp.site
 metakmasskklogin.webflow.io
 metakralibenimlan.click
@@ -293221,6 +293232,7 @@ naaninggeschcho.hotmail.ru
 naanlnanan.net
 naasaewrtwx.net
 naassenes.com
+naazlisubesindyzz.duckdns.org
 nab-aus-now.com
 nab.apply-now-online-digital.com
 nabandxnsnamsn.org
@@ -314501,6 +314513,7 @@ oyakglobal.com
 oyakglobal.com.tr
 oyaktrade.com
 oyaktradeplus.com
+oyaktraderplus.com
 oyakyatirimtradeplus.com
 oyapikredi.com
 oyarculfic.rpexylakeg.ru
@@ -322907,6 +322920,7 @@ pazarama.onayliplatform.com
 pazarama.onaylisatici.com
 pazarama.onaylisatici.online
 pazarama.onaylislem.com
+pazarama.online-siparisler-burda.com
 pazarama.online-siparisler-onaylama.com
 pazarama.onlinebireyselcisatici.com.tr
 pazarama.onlinesaticimerkezi.com
@@ -370631,6 +370645,7 @@ siparis-onayim-176210.com
 siparis-onayim-176211.com
 siparis-onayim-176212.com
 siparis-onayim-176299.com
+siparis-onayim.online
 siparis-onayin.net
 siparis-onayin.online
 siparis-onayla.net
@@ -374025,6 +374040,7 @@ snrlstoklonllne-indrmllr.net
 snrmfxko.cn
 snrox020x231.gleeze.com
 snrsz20gbinternet.com
+snryklendrdnhgs.cfd
 sns1280.com
 snsaatfrst.shop
 snsdfdsnsf.net
@@ -412430,6 +412446,7 @@ turkoskeri.site
 turkoteshio.com
 turkparaborsa.com
 turkparaplatform.com
+turkpatent-gov-tr.com
 turkpatent-harc-govtr.site
 turkpatentharc.com
 turkpayment.net
@@ -412939,6 +412956,7 @@ tuurkiyeonline.online
 tuuvturk-aracmuyne.web.app
 tuuvturk.live
 tuv-arac-muane.net
+tuv-arac-muayene-randevu.blogspot.com
 tuv-iis.digital
 tuv-muayenerandevusu.com
 tuv-res.digital
@@ -460491,6 +460509,7 @@ ykllkampaniya.net
 yklllemzrmkrtt.net
 yklmayiz.net
 yklmebslasmdi.cfd
+yklmednsnrhgs.cfd
 yklmehgszmnpra.cfd
 yklmhrsbrdaorg.cfd
 yklmrdnsnrahgs.cfd

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102622
-# Last change: 2026-09-09 06:02:09 UTC (sync mode: full)
+# Records: 102636
+# Last change: 2026-09-09 11:30:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -198,6 +198,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
@@ -1480,6 +1481,7 @@
 2jm24ft.cn
 2liveanddieinla.com
 2martdenizfirsati.online
+2metaofflinereklam.sbs
 2muyanevecnvvi.net
 2o-coinbase.com
 2o2kampanyalarim.com
@@ -12623,6 +12625,7 @@ bilgi-sorgulaonline.b-cdn.net
 bilgi-vkf.club
 bilgiadresi.bns-vio.space
 bilgiadresimtr.miko-cdn.space
+bilgial.site
 bilgial.tk
 bilgialmakicin.com
 bilgianalizi.com
@@ -14462,6 +14465,7 @@ bmyslcsi.com
 bmzlesnzsndecmrtsn.net
 bn-20120-kampanya.online
 bn-2yasinda.com
+bn-araba-cekilisin.online
 bn-campaigns.com
 bn-cekilisim.online
 bn-cekilisin.online
@@ -16826,6 +16830,7 @@ bzzmtarhi.com
 c-101.com.tr
 c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 c-bva-grn-in.my-homeip.com
+c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
 c-hotelsandromeda.world
 c-hotelszeegalm.world
 c-paribu.com
@@ -35441,6 +35446,7 @@ fsa24f31.click
 fsafamfn.net
 fsafamsasn.net
 fsafcvahsfklafjala.sbs
+fsafgt435gyw4g.lol
 fsahfdsadsa.click
 fsamsaam.net
 fsas323ffaf.website
@@ -48136,6 +48142,7 @@ istanbulbelgimkarttt.xyz
 istanbulbelgimkartttcann.xyz
 istanbulbelgimm.xyz
 istanbulbelgimmkarttt.xyz
+istanbulbelgimrandevutr.xyz
 istanbulbellgiimmm.xyz
 istanbulbelrlgim.xyz
 istanbulbenim3434.xyz
@@ -50243,6 +50250,7 @@ kaingvfcuabnfcv.top
 kaita1asckdsajkax123.shop
 kaita2avjfdskjakdsx23.cfd
 kaita2csdkjadkjsadjkx3123x12.sbs
+kaita3elleme3434.sbs
 kaitakcl12lk3xk1l3212.cfd
 kaitaksdkcj13x12.cfd
 kaitameloxx.cfd
@@ -61203,6 +61211,7 @@ na-microsoft.com
 na1.coinbase-com.info
 na1o1.net
 naala.online
+naazlisubesindyzz.duckdns.org
 nab-aus-now.com
 nab.apply-now-online-digital.com
 nabandxnsnamsn.org
@@ -66212,6 +66221,7 @@ oyakglobal.com
 oyakglobal.com.tr
 oyaktrade.com
 oyaktradeplus.com
+oyaktraderplus.com
 oyakyatirimtradeplus.com
 oyaxon.com
 oyazkamparac.xyz
@@ -80219,6 +80229,7 @@ siparis-market-ptt-avm.online
 siparis-olustur-223031.com
 siparis-olustur.online
 siparis-onay-tr.online
+siparis-onayim.online
 siparis-onayli-115511.com
 siparis-onayli-115521.com
 siparis-onayli-115522.com
@@ -81033,6 +81044,7 @@ snowytournament.top
 snoyreteve.top
 snrlsaydcakm.cfd
 snrmfxko.cn
+snryklendrdnhgs.cfd
 snsgtrkidaebrdaal.app
 snstk-indrm-frst.online
 snstk-kpdaynifrst.site
@@ -91409,6 +91421,7 @@ turkonlinebasvuru.linkpc.net
 turkopt.com
 turkoteshio.com
 turkparaborsa.com
+turkpatent-gov-tr.com
 turkpetrolborsa.com
 turkpetrolleri.click
 turkplatform-tr.com
@@ -101319,6 +101332,7 @@ yklesmddeme.cfd
 yklesrglhgs.cfd
 yklmayiz.net
 yklmebslasmdi.cfd
+yklmednsnrhgs.cfd
 yklmehgszmnpra.cfd
 yklmhrsbrdaorg.cfd
 yklmrdnsnrahgs.cfd
