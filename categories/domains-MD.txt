@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65944
-# Last change: 2026-09-09 06:02:09 UTC (sync mode: full)
+# Records: 65969
+# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -12551,6 +12551,7 @@ bednbreakfasthotel.com
 bedoking.zapto.org
 bedroom-pen-ship.com
 bedroomdecorideas.org
+bedroomdesire.xyz
 bedv20gbkazn.net
 bee2ipwek.duckdns.org
 bee8u3eu9.duckdns.org
@@ -14943,6 +14944,7 @@ caarmelcollege.org
 caavocivdcigexeabitgtcfmof.com
 caawutoent.duckdns.org
 caba.superdasqe.me
+cabbagemeasure.xyz
 cabbiemail.com
 cabel1lan4ightice2.top
 cabifygratis.info
@@ -15568,6 +15570,7 @@ centroservice34c.hopto.org
 centrum-vh21.duckdns.org
 centrume.ru
 centsbookplan.com
+centscarf.xyz
 centuryjewellery.com
 centurysservice.com
 centurythis.com
@@ -17414,9 +17417,13 @@ connect-verification-dashboard.duckdns.org
 connect-wellsfargo-account-secure01c-fl.duckdns.org
 connect.codigodebarra.co
 connect.contractorquote.info
+connect.giraffetoothpaste.xyz
 connect.heritageagencies.com
+connect.holecompany.info
+connect.reactionbit.info
 connect.simplebutmatters.com
 connect.southerntransitions.com
+connect.zebratransport.xyz
 connect0-secured.ddns.net
 connect1212.ddns.net
 connect2me.ddns.net
@@ -17532,6 +17539,7 @@ contraventionapayer.ddns.net
 controlcenter-citi.zapto.org
 controle-omgeving.ddns.net
 controleportal.ddns.net
+controlprice.xyz
 contsernmayakinternacional.ru
 convert34576.xyz
 convertmypdfnow.net
@@ -17854,6 +17862,7 @@ criasdebh.ddns.net
 crileliste.com
 crimea-kremlin.duckdns.org
 crimesec.ddns.net
+crimesupport.cfd
 crimezoo.ddns.net
 crimos.hopto.org
 crimunalbot001.ga
@@ -17883,6 +17892,7 @@ crossvip.hopto.org
 crostus.hopto.org
 crotsah.duckdns.org
 crowdspent.net
+crowdstri.com
 crown74.ddns.net
 crpro.ru
 crqqomkczw.duckdns.org
@@ -19358,6 +19368,7 @@ decemberking.net
 dechehang.com
 decideshoulder.net
 decimoremcdns.duckdns.org
+decisionreaction.xyz
 decode.ddns.net
 deconmeag.duckdns.org
 decorandoimoveis.com
@@ -22639,6 +22650,7 @@ epr391nea.duckdns.org
 epr3pbk.duckdns.org
 eprarnhepn.ws
 epsaphpaaa.ws
+epsilonsystems.net
 epsys.ro
 eptfduixps.duckdns.org
 epu0gr6.duckdns.org
@@ -24237,6 +24249,7 @@ filerubyfolder.sbs
 files.ug
 files5adobek.ddns.net
 filesaccess.hopto.org
+filescenter.cloud
 filesdwnl.top
 filesdwnld.top
 filesdwnload.top
@@ -27048,6 +27061,7 @@ grimmafilato.xyz
 grinbush.duckdns.org
 gringaretas.top
 grinning-lips.tk
+gripsleep.xyz
 griptoloji.host-ed.net
 griztako.top
 grjseguros.com
@@ -28182,6 +28196,7 @@ health-and-beauty.pw
 health-ray-id.com
 healthboxexample.com
 healthhostess.com
+healthiron.space
 healthstafftravel.com.au
 healthy-cleanse-fit.com
 healthyfamilycommunity.org
@@ -29016,6 +29031,7 @@ homebrewonline.org
 homecameras1.zapto.org
 homecarpetshopping.com
 homecem.net
+homecub.cfd
 homedeco.com.bo
 homedips12.ddns.net
 homedirections.ddns.net
@@ -39245,6 +39261,7 @@ msanchez.com.au
 msas.ws
 msasolucoes.com.br
 msauxfsgvmvlxn.com
+msbenefit.com
 msbfoxserver.duckdns.org
 msc-myftppx.duckdns.org
 msc2dw7.duckdns.org
@@ -45713,6 +45730,7 @@ preapprovedloansoffline.kz
 preapprovedloansonline.kz
 precambrianera.com
 precautions100247.duckdns.org
+precipart.ink
 precisodeacc.ddns.net
 predatord.top
 predictivebeheernet.duckdns.org
@@ -48848,6 +48866,7 @@ roby7zzq.duckdns.org
 roc43k11f.duckdns.org
 rochfashionstudio.com
 rochik.zapto.org
+rocketlabusa.ink
 rocketman2012.zapto.org
 rockjonadd.top
 rockloamya.top
@@ -48886,6 +48905,7 @@ rolexkings.ml
 roljixuspm.duckdns.org
 rollblunt.top
 roller.johallow.workers.dev
+rollglass.xyz
 rolyjyl.ru
 rom.zapto.org
 romain.zapto.org
@@ -48913,6 +48933,7 @@ ronwronsednot.com
 roo49998.ddns.net
 roobless.hopto.org
 roofandmetal.zapto.org
+roofbattle.xyz
 roofgreen.in.ua
 roofrepairsugarland.com
 rooling.hopto.org
@@ -56403,6 +56424,7 @@ trafikbayisee.com
 trafikgovap.com
 traind-blax2.ru
 tralitokapanama.top
+trampdonkey.icu
 tranix.zapto.org
 trank.hopto.org
 tranoglaros13.zapto.org
@@ -56948,6 +56970,7 @@ turktellekom24.com
 turktellekom24.net
 turkyegov.com
 turlututu.zapto.org
+turnclass.xyz
 turnujgnrjby.info
 turojgbovh.duckdns.org
 turp.pw
@@ -59315,6 +59338,7 @@ veryverygood589167587426.com
 verywellfitnesse.com
 vesinhchavi.com
 vesperiskindagoated.hopto.org
+vesselsystem.xyz
 vestathemes.com
 vestopay.xyz
 veta.hopto.org
@@ -61234,6 +61258,7 @@ whichraised.tk
 whilxdtqh.info
 whioh.duckdns.org
 whip.industryspark.bid
+whistlesong.xyz
 whitead.in
 whiteads.ru
 whiteangel007.ddns.net

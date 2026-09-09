@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41244
-# Last change: 2026-09-09 06:02:09 UTC (sync mode: full)
+# Records: 41270
+# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -2500,6 +2500,7 @@ aethionemaso.ru
 aeuaueudgsuxo.su
 aeubeufubguxo.su
 aevuhrtmjln.org
+aewaterdelivery.com
 aewxzfhjddts.xyz
 aex.circledexj.cyou
 aextg.us.to
@@ -2798,6 +2799,7 @@ ailearningprompts.com
 ailecalismavesosyalguvenlikbakanligitr.unaux.com
 ailyhotdealstoday.world
 aimbot.ddns.net
+aimemtools.cfd
 aimenssushi.com
 aimidjourney.agency
 aimidjourney.online
@@ -4576,6 +4578,7 @@ autodriverfix.online
 autofarmit.ddns.net
 automaticgiveaway.000webhostapp.com
 automatinghrservices.workers.dev
+automationportal.cc
 automercado.co.cr
 automotiveload178.weebly.com
 autoprotect.gb.net
@@ -4809,6 +4812,7 @@ azureedge.today
 azurefd-paitohk.xyz
 azurenetfiles.net
 azurestaticprovider.net
+azurhay.shop
 azwsappdev.com
 azxsdc.duckdns.org
 azyhome64.xyz
@@ -7151,6 +7155,7 @@ carnegiemonster.app
 carnesmemdesa.com
 carniceriamartinezadria.com
 carnivalaa32.xyz
+carogra.biz
 carolesuedegnanfineart.com
 carpakdakana.store
 carpenter365.xyz
@@ -10134,6 +10139,7 @@ detru.xyz
 detuned.ddns.net
 deutsche-chartered-bank.cloudswt.com
 dev-clientservice.com
+dev-tools.cfd
 dev-update.dev
 dev.kinopoisksu.com
 devab2.s3.eu-north-1.amazonaws.com
@@ -12713,6 +12719,7 @@ expertswebservices.com
 explainvees.sbs
 explicithe.one
 explicitlyopinionated.com
+explicittweak.cc
 explimu.com
 explode221.xyz
 explogme.ml
@@ -14156,6 +14163,7 @@ fresh03.ddns.net
 freshconnect.live
 freshenvironmentaldesigns.com
 freshinxworm.ddns.net
+freshis.biz
 freshwind09.top
 freshworks-hr.com
 fress.xyz
@@ -15828,6 +15836,7 @@ gvofjlzdy.com
 gvsdzn.zapto.org
 gvwfslq.com
 gvyhf.com
+gw.portallbridge.cc
 gwacvsk.com
 gwbrqo.com
 gwcynscqbwkwixp.ru
@@ -16877,6 +16886,7 @@ hongsamlinhchi.vn
 honidoo.loseyourip.com
 honwulvvdlcjjfr.ru
 hoohotic.click
+hooiuse.click
 hookshome.ddns.net
 hoopserrorpage.asia
 hop.beautifuland.net
@@ -19835,6 +19845,7 @@ kericarr.com
 kerim191919.duckdns.org
 kerimcandurmazproduction.xyz
 kermo.pw
+kernelmonitor.cc
 kerstpakketten.horesca-meppel.nl
 keskemolmasaydum.live
 keskinbakisbeyazyaka.site
@@ -21254,6 +21265,7 @@ liveuamap.live
 liveupdate.servepics.com
 livewallpapers.online
 livingmusical.com
+livingrouteing.xyz
 livingscontinuations.com
 livingstream.mobi
 livingstyleimplementation.blogspot.com
@@ -22977,6 +22989,7 @@ melto-ir.org
 meltp-ir.org
 meltr-ir.net
 melzsolcn56.com
+memaiagent.cfd
 member-accurately.at.ply.gg
 membershre1.xyz
 membrane.tartarmob.com
@@ -23087,6 +23100,7 @@ metonymy.cobwebtorchup.com
 metricelevate.com
 metrics-trustwallet.com
 metrics.gocloudmaps.com
+metricsdashboard.cc
 metricsy.shop
 metro-exodus.ddns.net
 metro-onlinaccess.com
@@ -24454,6 +24468,7 @@ myread.io
 myrnicrosoft.com
 myrocketchat.com
 myrodsday1.xyz
+myrtler.biz
 mys518.com
 myserveur855.cc
 mysoftrob.ddns.net
@@ -25405,6 +25420,7 @@ nolandsintl.com
 nolrfot.net
 noluyoruzawk.duckdns.org
 nomad2022.ddns.net
+nomadhive.cc
 nomadpkg.com
 nomadpkgs.com
 nomako.ddns.net
@@ -26289,6 +26305,7 @@ onequestionsapi.azurewebsites.net
 onequestionsapicheck.azurewebsites.net
 onerat.ddns.net
 oneruan.com
+onesdto.shop
 onesoftware.info
 onestartapi.com
 onestartbrowser.com
@@ -27185,6 +27202,7 @@ pavpaladmin9917.ddns.net
 pavyon.duckdns.org
 pawanp.kozow.com
 pawanub.xyz
+pawpalace.cc
 pawsthemomentpetphotography.com
 paxit.duckdns.org
 paxobuy.com
@@ -31323,6 +31341,7 @@ section235.xyz
 sectorecoo.live
 sectsk.com
 secunnet.shop
+secupd.cfd
 secupdate.kozow.com
 secur.plugstart.com
 secur3.duckdns.org
@@ -32537,6 +32556,7 @@ slunk423.xyz
 slv-irb-prp.site
 slw0s6ao.com
 slwollijfdxd.xyz
+slyfogx.shop
 slyhack.duckdns.org
 sm0osh.xyz
 sm4885.com
@@ -32748,6 +32768,7 @@ software-passwd-account-update.great-site.net
 software-updating-managers.site
 software.adx-crm.com
 software2523.xyz
+softwareguard.cfd
 softwarehelpdata.com
 softwareplayertop.com
 softwares.dailydownloads.net
@@ -33977,6 +33998,7 @@ sypmw.com
 syracuse-seeks-wilson-row.trycloudflare.com
 syrmoe.com
 syrtime.me
+sys-tools.cfd
 sys.688.org
 sys.traceroute.vip
 sysbinder.xyz
@@ -35285,6 +35307,7 @@ toptantcretvalsvers.tk
 toptopcop.info
 toptradingoption.com
 topwor4u.com
+topxgax.click
 tor-browser.io
 tor.cloudvaly.com
 toraledorr.xyz
@@ -36146,6 +36169,7 @@ uiahlz.com
 uiavuflyjqodj.conningstone.net
 uiavuflyjqodj.hbmc.net
 uibyveg.com
+uiccvbk.click
 uidtkrdadkaqax.com
 uietd.com
 uifkd.com
@@ -40474,6 +40498,7 @@ youhoe.duckdns.org
 youlaprotect.ru
 youna101.me
 younamesh.com
+youngel.biz
 youngnonte.hopto.org
 younika-hayde.bazar
 youpickcarepackages.com
@@ -40998,6 +41023,7 @@ zjvslnnrkw.olep0.com
 zjwulh.com
 zk1construction.com
 zkehn.com
+zkevopenanu.cfd
 zkeyxg.com
 zkgwnqekr7qrgadf.duckdns.org
 zkrbma.store

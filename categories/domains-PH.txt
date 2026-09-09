@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102636
-# Last change: 2026-09-09 11:30:12 UTC (sync mode: delta)
+# Records: 102648
+# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -199,6 +199,7 @@
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
+101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
@@ -216,6 +217,7 @@
 101-klimaozel.com.tr
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
+101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
@@ -8486,6 +8488,7 @@ arolling.com
 aroraaracmodelleri.com
 arorabayii.com
 arorabayisi.com
+aroracomtr.online
 arorafabrikasatis.com
 aroramodelleri.com
 aroramotors.com
@@ -39495,6 +39498,7 @@ guvenligetodeme.ru.com
 guvenligiris-btcturk.com
 guvenlihavuz2026.com
 guvenlihavuzum2026.com
+guvenlihavuzun2026.com
 guvenlihizliodemebaglantisi.com.tr
 guvenlihizmet.com
 guvenlihizmetin.com.tr
@@ -43337,6 +43341,7 @@ hodeslerkest.duckdns.org
 hodskerlteyer.duckdns.org
 hoeemetst.icu
 hoeworkbscrity.top
+hofesnesmtkerk.duckdns.org
 hofestlerkes.duckdns.org
 hofmannplus.com
 hofroyildozkari1211.xyz
@@ -52969,6 +52974,7 @@ kreadivstudios.com
 kreautopagne.de
 krebashem.pw
 krecikenlogin.webflow.io
+kredc.digital
 kredddfrstlrarrkmpnyaabsvrsu98563214.info
 kredddfrstlrarrkmpnyaabsvrsu98563214.pro
 kredi-acikdenizhemenmobildenonayla.click
@@ -57220,6 +57226,7 @@ marketpasaj.com
 marketpillar.shop
 marketpine.shop
 marketplaceverif.shop
+marketpulse.lol
 marketridge.shop
 markets-sipariss-ptt-avm.com
 marketservice.xyz
@@ -67036,6 +67043,7 @@ parcelfraudulent.top
 parcelthrone.top
 parchamalzahra.ir
 pardonnight.top
+pardusyatirim.com
 parebu.click
 parenceo.net
 parentalincorporation.top
@@ -71917,6 +71925,7 @@ push21sing.top
 pushehotel.world
 pushlabs.site
 pusulafondanismanlik.com
+pusulaportfoydanismalik.com
 pusulaportfoymenkulas.com
 pusulaportfoyyonetimias.com
 pusulaportfoyyonetimitr.com
@@ -78140,6 +78149,7 @@ selectiveerode.top
 selectjargon.top
 selectlip.top
 selectumfamilyhotels.com
+selectumluxuries.com
 selectumluxuryresorts.com
 selectumresortshotels.com
 selemekeherfer.online
@@ -80523,6 +80533,7 @@ sizlereozel-kazandirankampanyabasvuru.link
 sizlereozeldigitalbasvuru.online
 sizlereozelgrntbbvahz.jumpingcrab.com
 sizlereozelhediyelerdunyasibonuslari.com
+sizlereozelrandevuekran.top
 sizlericin.iademaidat.com.tr
 sizlericin.lol
 sizlericin.net
@@ -90091,6 +90102,7 @@ tricklewholeome.top
 trickslack.top
 trickstress.com
 trickyevacuation.top
+tridaribirim.org
 tridarikurum.org
 triggercrop.top
 triggerdiversify.top
