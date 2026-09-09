@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 34738
-# Last change: 2026-09-08 21:54:03 UTC (sync mode: delta)
+# Records: 34742
+# Last change: 2026-09-09 00:18:47 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1266,6 +1266,7 @@ adanaindirimlerii.online
 adapptersworld.com
 adaybasvurkayit.com.tr
 adayislem.com.tr
+adayislermleri.info
 adcjklcjjqexqwexqwi123x12.cfd
 adcjobengage.com
 adclakcskdlacskklsdflkckladca.cfd
@@ -9936,6 +9937,7 @@ efecanitesmeris.com
 efemelektrik.com.tr
 efendiman.org
 eferoad.com
+efesgrtbq.ice.fo
 efesotomotiv.com
 effectcrush.top
 effectivevideostrategies.click
@@ -11816,6 +11818,7 @@ gamemer.online
 gameshannover.com
 gamini-loggin.webflow.io
 gamiunk.com
+gamzecicekcilik.com
 gangbangkada.sa.com
 gangsterkesterrio.com
 ganvert.pro
@@ -25642,6 +25645,7 @@ sana-ozeel-zrrat.cfd
 sanakarsigorsmzzatenacikti.org
 sanalcilar.online
 sanalcilarsystem.pro
+sanalkontor.shop
 sanalmarketinyaninda.online
 sanalmarketmigros.biz
 sanalmrketzz2.site
