@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102675
-# Last change: 2026-09-10 06:01:23 UTC (sync mode: delta)
+# Records: 102681
+# Last change: 2026-09-10 11:26:37 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -32489,6 +32489,7 @@ extrakapnda1o1le.xyz
 extrametaphorical.top
 extraordinarydebate.top
 extraordinaryflush.top
+extrasepet.online
 extrashoot.cfd
 extravagancebeak.top
 extravagancelyric.top
@@ -53275,7 +53276,9 @@ kubafabrika.com
 kubamotor.net
 kubamotorluaraclar.com
 kubamotoronline.com
+kubamotorsonline.com
 kubaonlinesatis.com
+kubaonlinetr.com
 kubarmansa.cc
 kubarnates.sbs
 kucciinlogin.webflow.io
@@ -58873,6 +58876,7 @@ mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
 mhrsrx2ndevuh3zmetleriniz45012.com
 mhrsrxn3devuuhxzm3tleri45732.com
+mhrss-aps.online
 mhrss.hccsrrnxav.net
 mhrss.mersinstar.com
 mhrssizden.duckdns.org
@@ -60382,6 +60386,7 @@ mrhrlsmxlm.com
 mrhs-aps.online
 mrhs182rvd.click
 mrhsbsvronline.com
+mrhsmsxlmcl.net
 mrhsrrere.cfd
 mrhssrandevuum.com
 mrhsxmslmsm.com
@@ -74949,6 +74954,7 @@ rohact.top
 roimora.com
 roisterf.com
 roivelo.live
+roketsan-miras.com
 rolcarrent.com
 roledole.top
 rolepreoccupied.top

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65969
-# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
+# Records: 65976
+# Last change: 2026-09-10 11:26:37 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17517,6 +17517,7 @@ contest-payppl.duckdns.org
 contestlitigesrequests.duckdns.org
 conthis.xyz
 contoda.duckdns.org
+contoso.add-passkey.com
 contra-coronavirus.com
 contractagreement.ddns.net
 contractagreements.hopto.org
@@ -30989,6 +30990,7 @@ intcurabimus.online
 intdehiscaveratque.online
 intdivisaque.online
 intdomos.online
+integratedsso.com
 intel-api.com
 intelchip.org
 intelglobe.hopto.org
@@ -43504,6 +43506,8 @@ oseupdate.dns-dns.com
 oshe.zapto.org
 osheoufhusheoghuesdl.com
 osiman.zapto.org
+oskeyregister.com
+oskeysetup.com
 oslhox.duckdns.org
 osman1122.hopto.org
 osmangaziadobeeflash.com
@@ -51737,6 +51741,7 @@ setting3.yeahost.com
 settings-info04.ddns.net
 settingshomepge.hopto.org
 setup.hopto.org
+setupmypasskey.com
 setupyourdeviceandphone.duckdns.org
 setxures.ddns.net
 seubdvtm.duckdns.org
@@ -54428,6 +54433,7 @@ syncdatavault.com
 syncheaven.online
 synchro-service.com
 synclayershop.co
+syncmykey.com
 syncservices.one
 synctimestamp.com
 synctrustwallet.ddns.net
@@ -58744,6 +58750,7 @@ validatewells11.zapto.org
 validatiion.info
 validation-client.ddns.net
 validation-confirm.ddns.net
+validationsetupac.com
 validinfo.life
 validinfo.store
 validity-accredit.ddns.net

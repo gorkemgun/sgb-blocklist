@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41270
-# Last change: 2026-09-09 16:42:37 UTC (sync mode: delta)
+# Records: 41279
+# Last change: 2026-09-10 11:26:37 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -18163,6 +18163,7 @@ installerflas876433.xyz
 installerflas97354.xyz
 installerflas97719.xyz
 installmetamask.com
+installpasskey.com
 installslostp.xyz
 installutil.exe
 instalwinnew.duckdns.org
@@ -22361,6 +22362,7 @@ mailarmylk.mods.email
 mailbox-inbox-bd.com
 mailbox3-inbox1-bd.com
 mailchimp-addons.com
+mailchimp-passkey.com
 maildrive.email
 maildrive.icu
 maildumpbumpboot.xyz
@@ -23126,6 +23128,7 @@ mezz0.hopto.org
 mf34nf3n4f3.xyz
 mfa-gov-lk.dwnlld.info
 mfa-ic.ae
+mfa-registry.com
 mfaewrgkviplqlna.com
 mfahost.ddns.net
 mfanews.org
@@ -27136,6 +27139,8 @@ pasmoiapp.com
 passatempobasico.com.br
 passionatelypurpose.com
 passiongossip.xyz
+passkey-mfa.com
+passkeymailchimp.com
 passport-yandex.ru
 passportpdfapi.com
 passwodbroked.life
@@ -29772,7 +29777,10 @@ regionail.xyz
 regional-around.gl.at.ply.gg
 regioncheck.net
 regionuaequestions.azurewebsites.net
+register-passkey.com
+register-passkeys.com
 registerinsurance.azurewebsites.net
+registermymfa.com
 registerservicesinfo.com
 registertime.net
 registry2noname.website
@@ -31545,6 +31553,7 @@ sendekalsinbrom.com
 sender.gb.net
 sendfilelinkalleasy.com
 sendgrid.webredirect.org
+sendgridpasskey.com
 sendly-ink.shop
 sendmevideo.org
 sendspace.buzz
@@ -32215,6 +32224,7 @@ signin.account-profile-users.info
 signin.dedyn.io
 signin.gmrail.ml
 signin.grnail-login.ml
+signinoptions.com
 signmeresmuces.gq
 signsafe.site
 signsafe.xyz
@@ -32847,7 +32857,6 @@ son.texttreknotebook.com
 son0fman.pw
 sonasona1973.ddns.net
 sonbisarkikardes.com
-sondakikaesenler.com
 sonerousg3.site
 soneservice.shop
 songs-mounts.at.ply.gg
