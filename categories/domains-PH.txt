@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102681
-# Last change: 2026-09-10 11:26:37 UTC (sync mode: full)
+# Records: 102715
+# Last change: 2026-09-10 16:28:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5639,6 +5639,7 @@ akilliadim.online
 akillikrtbiletim.net
 akillikura.lol
 akilliodememonline.net
+akillisaatt.duckdns.org
 akillisechim.today
 akillisigortaci.com.tr
 akillisigortarcim.net
@@ -8494,6 +8495,7 @@ aroramodelleri.com
 aroramotors.com
 aroramotorsatis.com
 aroramusterihizmetleri.com
+aroraonline.co
 aroraonlinestore.com
 aroraorijinalparca.com
 aroraorijinalparcalari.com
@@ -8636,6 +8638,7 @@ artworkexcuse.top
 artworkproduce.top
 aru.coinbase-com.info
 arvalnexo.com
+arvanokamplndirimleri.com
 arvex.store
 arvexlabs.store
 arvexo.xyz
@@ -14496,6 +14499,7 @@ bn-kutlamalar.com
 bn-kutlamalari.com
 bn-musteridestek-2022ceptr-girisleri.com
 bn-ramazankampanyasiglobaltr.net
+bn-sansliarabam.online
 bn-sanslicark.com
 bn-sansliyil.com
 bn-security-servicesdaybasvurum.net
@@ -18303,6 +18307,7 @@ cezadosyasimaliye.com
 cezadosyasorgu.org
 cezaesorgu.net
 cezagecislerin.info
+cezagovtr.org
 cezahukukudosya.com
 cezainceleme.com
 cezaislem.com
@@ -26882,6 +26887,7 @@ dn-iktlm.online
 dnbslt.help
 dnervarnerv.duckdns.org
 dnex33tderive.top
+dnfbdnskdxm.sbs
 dngertic.top
 dnghostweb.ga
 dnghostweb.ml
@@ -28851,6 +28857,7 @@ ecezabildirim.org
 ecezacbs.org
 ecezadavam.com
 ecezamaliye.org
+ecezamasak.com
 ecezamgov.org
 ecezatalimat.com
 echelonyieldai.app
@@ -28942,6 +28949,7 @@ ed5ce47d835f-endpoint.com
 edavabildirim.org
 edavacbs.org
 edavahukuk.org
+edavamasak.com
 edavaportal.org
 edavasorgu.net
 edavateblig.org
@@ -29414,6 +29422,7 @@ egfaaflsflsan.net
 eggplantelaborate.top
 eggskim.top
 eggthigh.top
+egibmasak.com
 egiris-resmikaynakmerkeziadres.com
 egiris-uyap.com
 egiris-vatandasuyap.com
@@ -30023,6 +30032,7 @@ emaliyegovtr206.com
 emaliyegovtr233.com
 emaliyegovtr336.com
 emaliyegovtrl92.com
+emaliyemasak.com
 emaliyemerkezi.org
 emaliyevatandas.com
 emalkwqlmaodme.ml
@@ -30908,6 +30918,7 @@ eportalasliye.org
 eportalgirislerr.com
 eportaliadelerizamani.com
 eportalkamu.org
+eportalmasak.com
 eportalonlinebasvuruformu.com
 eportalsorgu.org
 eportlgibgov.site
@@ -31555,6 +31566,7 @@ euunqc.top
 euwingsvisaconsultancy.com
 euyapbildirim.org
 euyapbilgi.org
+euyapmasak.com
 euyaptakip.org
 euyapuzlasma.org
 euygulama2.com
@@ -31600,7 +31612,9 @@ evatandas.org
 evatandasaidtidefrsati.com
 evatandasbilgi.org
 evatandasceza.org
+evatandasdava.com
 evatandasgib.org
+evatandasgov.com
 evatandasuyap.org
 evatandsaidthakiadsi.com
 evavillam.com
@@ -40145,6 +40159,7 @@ haberler3465672.sbs
 haberler346623.sbs
 haberler3552323.shop
 haberler421352.shop
+haberler4215434.sbs
 haberler4422424.shop
 haberler452344.sbs
 haberler4561.sbs
@@ -40892,6 +40907,7 @@ hastycommend.top
 hastyepoch.top
 hat-tasima.com
 hataybayikrt.net
+hataylisubesndeyiz.duckdns.org
 hatchheisphere.top
 hatchunprecedented.top
 hatclap.top
@@ -42969,6 +42985,7 @@ hizlihlizgeliyorsiparisler.xyz
 hizlihzmetzmr.net
 hizliiade.app
 hizliibasvuru.ml
+hizliidanismanliik.com
 hizliihallyardim.gq
 hizliisigortacii.name.tr
 hizliisigortacii.org.tr
@@ -43152,6 +43169,7 @@ hizmetleriniz.com.tr
 hizmetlerionline.graduatecommunications.com
 hizmetlerionline.vitamoshop.com
 hizmetlerionline.webrotnotr.space
+hizmetlerisadlad.click
 hizmetlermizdnens.click
 hizmetlermizdnensxasx.click
 hizmetlermizdnenwsxasx.click
@@ -43248,6 +43266,7 @@ hmbmaliye.org
 hmbmasak.org
 hmbsorgu.net
 hmbsorgu.org
+hmbveznedar.com
 hmdnmfdd.com
 hmeensin-snouc.net
 hmeetstlrerasl.top
@@ -48931,6 +48950,7 @@ izeltas-online.dnsup.net
 izeltas-onlinex.dnsup.net
 izeltasalmak.xyz
 izeltascampnysal.sbs
+izeltascxy.dnsup.net
 izeltasefsaneflrsatlar.com
 izeltaseker.dnsup.net
 izeltasfirsl543q.duckdns.org
@@ -49337,6 +49357,7 @@ izninizeiadeislemleriicin2023.net
 iznnirkart.net
 izobugun.duckdns.org
 izoofln.blogspot.com
+izootpqw.blogspot.com
 izoqpaogss.blogspot.com
 izosghdfh.blogspot.com
 izrmgrenykle.net
@@ -50969,6 +50990,7 @@ karmapaketler.net
 karmavotogalerist.duckdns.org
 karmelio.com
 karnelix.bond
+karocoshoprt.shop
 karonipux.com
 karostmufz.com
 karovexim.com
@@ -52688,6 +52710,7 @@ kolayhizmet.b-cdn.net
 kolaykampanyafirsatifirsathbance.tech
 kolaykarg.com
 kolaykisalt.org
+kolaykrdburdasendekatl81.ink
 kolaylsdksdasst.com
 kolaylsdsgfdf.online
 kolayotokiralama.online
@@ -54972,6 +54995,7 @@ lndirimkapinqgeldi.sbs
 lndirimlerikacirmadansendeal.com
 lndirimtakipcileriyiz.com
 lndirimtakiptett.com
+lndirimtakpctst.com
 lndirimtakpctt.com
 lndirimtakptt.com
 lndlirmli1-o-1ler.com
@@ -57246,6 +57270,7 @@ marketpasaj.com
 marketpillar.shop
 marketpine.shop
 marketplaceverif.shop
+marketplus-tr.online
 marketpulse.lol
 marketridge.shop
 markets-sipariss-ptt-avm.com
@@ -58818,6 +58843,7 @@ mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
 mhrs-giris-islem-link.vercel.app
 mhrs-giris.blog
+mhrs-giris.online
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
 mhrs-s.digital
@@ -65372,6 +65398,7 @@ ootybloom.com
 ooue.1trbakar.com
 oozo.1trbakar.com
 op-btcmine-personalarea.site
+op-onlinehizli.site
 opalescentbay.com
 opalglowqpon.qpon
 opalsteamgrove.site
@@ -65994,6 +66021,7 @@ otomobilvergi.org
 otomtkdesinbizlerle.net
 otonom-dailyblog.info
 otoplus-arac.com
+otoplusarabam.com
 otoplusaracal.com
 otoplusaracim.com
 otoplusaraclar.com
@@ -75895,6 +75923,7 @@ sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisler-50.sbs
+sahibinden-get.mobilservisler-62.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
@@ -75905,6 +75934,7 @@ sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
 sahibinden-get.servisinguvenli-25.sbs
+sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.sipariis.com.tr
 sahibinden-get.siparisguvende.com
@@ -79386,6 +79416,7 @@ shopee33.com
 shopeefdss.top
 shopeegift.com
 shoper.live
+shopextra.online
 shopgoodgo.com
 shopier-asilce.com
 shopier.alisveris-guvenli-pay.com
@@ -83792,6 +83823,7 @@ sube-albaraka-tr.com
 sube-bmenkuldegerler.com
 sube-bmenkuldegerler.net
 sube-bmenkulgiris.com
+sube-cepteteb.myonlineportal.de
 sube-geranti-bireysel.my-homeip.com
 sube-hediyemobildeniz.online
 sube-hizlimobildenizgiris.online
@@ -97774,6 +97806,7 @@ wordpress-1555264-6030566.cloudwaysapps.com
 wordpress-1555264-6031614.cloudwaysapps.com
 wordpress-1558862-6044960.cloudwaysapps.com
 wordpress-1558862-6045062.cloudwaysapps.com
+wordpress-214832-0.cloudclusters.net
 wordstep.top
 worexpack.com.tr
 worexproject.com.tr
@@ -101621,6 +101654,7 @@ younstrlegtimate.top
 your-coinbase.com
 your-house.myonlineportal.ch
 your-name.site
+your-nextstep.online
 your27subarsiparislerin.cloud
 your27subattakisipariler.cloud
 youraccount24.com

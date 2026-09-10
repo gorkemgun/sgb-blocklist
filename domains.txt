@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469410
-# Last change: 2026-09-10 11:26:37 UTC (sync mode: full)
+# Records: 469449
+# Last change: 2026-09-10 16:28:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13740,6 +13740,7 @@
 4124124124.duckdns.org
 4124124125353232.duckdns.org
 41242142142151512421.duckdns.org
+412542212224555455589991.duckdns.org
 41260-coinbase.com
 4128fx.duckdns.org
 412941234531.com
@@ -39248,6 +39249,7 @@ akillikrtbiletim.net
 akillikura.lol
 akilliodememonline.net
 akilliodmemonline.net
+akillisaatt.duckdns.org
 akillisechim.today
 akillisigorta.net
 akillisigortaci.com.tr
@@ -51390,6 +51392,7 @@ aroramotorluaraclar.com
 aroramotors.com
 aroramotorsatis.com
 aroramusterihizmetleri.com
+aroraonline.co
 aroraonline.com
 aroraonline.com.tr
 aroraonlinestore.com
@@ -51743,6 +51746,7 @@ arv3stve.duckdns.org
 arv6t.ddns.net
 arv9st.ddns.net
 arvalnexo.com
+arvanokamplndirimleri.com
 arve4stonline.duckdns.org
 arveniaglobalhub.com
 arvest-5ms.duckdns.org
@@ -83004,6 +83008,7 @@ bn-ozelguniadeleri.com
 bn-ozeliade.com
 bn-ramazankampanyasiglobaltr.net
 bn-sansimburada.online
+bn-sansliarabam.online
 bn-sanslicark.com
 bn-sanslicekilis.online
 bn-sansliyil.com
@@ -100068,6 +100073,7 @@ cezaegm.net
 cezaesorgu.net
 cezagecisler.info
 cezagecislerin.info
+cezagovtr.org
 cezahemenode.sg-host.com
 cezahmb.org
 cezahukuksorgulatma.com
@@ -129472,6 +129478,7 @@ dnets.ddns.net
 dnex33tderive.top
 dnezedsanclmon1linece1el1l1emdesn.net
 dnf69exj.duckdns.org
+dnfbdnskdxm.sbs
 dng-microsoftds.com
 dngertic.top
 dngfrp.top
@@ -141741,6 +141748,7 @@ ecezahukuk.org
 ecezakontrol.org
 ecezamaliye.com
 ecezamaliye.org
+ecezamasak.com
 ecezamgov.org
 ecezamkontrol.org
 ecezaportal.org
@@ -142079,6 +142087,7 @@ edavakazan.ml
 edavakontrol.org
 edavakontrolleri.org
 edavam.org
+edavamasak.com
 edavamuzlasma.org
 edavaportal.com
 edavaportal.org
@@ -146389,6 +146398,7 @@ eggthigh.top
 eghjlf.com
 eghsowp.duckdns.org
 egi5nh.duckdns.org
+egibmasak.com
 egibtalimat.com
 egifgrokbpotuifho.com
 egih5trv.duckdns.org
@@ -149495,6 +149505,7 @@ emaliyegovtr508.com
 emaliyegovtr509.com
 emaliyegovtrl92.com
 emaliyeizleme.org
+emaliyemasak.com
 emaliyemerkezi.org
 emaliyeportal.org
 emaliyesorgulama.org
@@ -153598,6 +153609,7 @@ eportaliz.com
 eportalkamu.org
 eportalkartaidatcimer.org
 eportalkartiadeaidatair.org
+eportalmasak.com
 eportalonlinebasvuruformu.com
 eportalonlinebasvurular.com
 eportalonlinebasvurularim.com
@@ -156580,6 +156592,7 @@ euyapcezasorgulama.org
 euyapdosyalarim.org
 euyapkarar.org
 euyapkontrol.org
+euyapmasak.com
 euyapsorgu.org
 euyaptakip.org
 euyapteblig.org
@@ -156721,7 +156734,9 @@ evatandasakkartimiadeal.net
 evatandasbilgi.org
 evatandasbilgilendirmekartaidatiadesigovtr.co.vu
 evatandasceza.org
+evatandasdava.com
 evatandasgib.org
+evatandasgov.com
 evatandasiademartayisongunlerden.co.vu
 evatandasislemleri.com
 evatandasmobilduyuruaidatal.co.vu
@@ -192927,6 +192942,7 @@ haberler360.sbs
 haberler363234.shop
 haberler365guncel.com
 haberler421352.shop
+haberler4215434.sbs
 haberler432432.shop
 haberler4422424.shop
 haberler452344.sbs
@@ -199222,6 +199238,7 @@ hataylilarsubesi.xyz
 hataylilarsubesindekampanyalar.com.tr
 hataylilarsubesindekampanyalar.online
 hataylilarsubesindekampanyalar.xyz
+hataylisubesndeyiz.duckdns.org
 hataylivezir.duckdns.org
 hataymerkezsube.com.tr
 hataymerkezsube.online
@@ -210767,6 +210784,7 @@ hizliiatmmtv.tk
 hizliibasvuru.ml
 hizliicaagecerim.sg-host.com
 hizliicinbilgiler.com
+hizliidanismanliik.com
 hizliidanismannliklar.com
 hizliihallyardim.gq
 hizliiiodemeportalim.net
@@ -211912,6 +211930,7 @@ hizmetleriniziz.net
 hizmetlerionline.graduatecommunications.com
 hizmetlerionline.vitamoshop.com
 hizmetlerionline.webrotnotr.space
+hizmetlerisadlad.click
 hizmetlerkesintisizherzmanbizdedevameder.shop
 hizmetlerli.app
 hizmetlerlisteniz.com
@@ -212558,6 +212577,7 @@ hmbre.com
 hmbrstkynd.xyz
 hmbsorgu.net
 hmbsorgu.org
+hmbveznedar.com
 hmcgube9.duckdns.org
 hmcybx.com
 hmczblc.duckdns.org
@@ -238027,6 +238047,7 @@ izeltasalmak.xyz
 izeltasbcld.dns.navy
 izeltascampnysal.sbs
 izeltascnmbnm.dns.navy
+izeltascxy.dnsup.net
 izeltasdolucantasi.vip
 izeltasefsaneflrsatlar.com
 izeltaseker.dnsup.net
@@ -240213,6 +240234,7 @@ izoofkkd.blogspot.com
 izoofln.blogspot.com
 izoooggs.blogspot.com
 izooooffss.blogspot.com
+izootpqw.blogspot.com
 izoqpaogss.blogspot.com
 izosefermonibusof.net
 izosghdfh.blogspot.com
@@ -250152,6 +250174,7 @@ karnelix.bond
 karnovia.one
 karnpanyalarirn.xyz
 karoanpa.ru
+karocoshoprt.shop
 karohama2.zapto.org
 karolayna.ooguy.com
 karolix.ooguy.com
@@ -258773,6 +258796,7 @@ kolaykiralahizli.online
 kolaykiralakapinda.online
 kolaykisalt.org
 kolaykolaykimse.net
+kolaykrdburdasendekatl81.ink
 kolaykredi.sbs
 kolaykredibasvur.online
 kolaykredibasvuru.top
@@ -268381,6 +268405,7 @@ lndirimleraktuelekim.com
 lndirimlerikacirmadansendeal.com
 lndirimtakipcileriyiz.com
 lndirimtakiptett.com
+lndirimtakpctst.com
 lndirimtakpctt.com
 lndirimtakptt.com
 lndirlmavcisi.com
@@ -276094,6 +276119,7 @@ marketplace.lanheal.ru
 marketplace.servehttp.com
 marketplaceverif.shop
 marketplayservices.site
+marketplus-tr.online
 marketpromosyon.duckdns.org
 marketpromosyon.sbs
 marketpsprshmeensimdigunler.fun
@@ -281095,6 +281121,7 @@ mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
 mhrs-giris-islem-link.vercel.app
 mhrs-giris.blog
+mhrs-giris.online
 mhrs-gov-randevu.cfd
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
@@ -307216,6 +307243,7 @@ online-alisveris-sahibinden.com
 online-alisveris-sepetim.com
 online-alisveris-sepetimiz.com
 online-alisveris-sistemi.com
+online-alisveris-tr-mobil.duckdns.org
 online-alisveris-tr.online
 online-alisveris-tr.sa.com
 online-alisveris-yapin.com.tr
@@ -308164,6 +308192,7 @@ online-siparis-ozelkampanya.shop
 online-siparis-sepeti.com.tr
 online-siparis-sistemi.com
 online-siparis-tr.com
+online-siparis-ver-101-tr-mobil.duckdns.org
 online-siparis-ver-tr-mobil.blog
 online-siparis-ver.com.tr
 online-siparis-zamani.app
@@ -311580,6 +311609,7 @@ oozo.1trbakar.com
 oozr40.duckdns.org
 oozzd3rlerz0.net
 op-btcmine-personalarea.site
+op-onlinehizli.site
 op-portunities-today-campaign-complete.net
 op-pttgov.top
 op167xsb7n1xiruvqf30wly.ddns.net
@@ -313758,6 +313788,7 @@ otopayfix.com
 otopayfix.net
 otopayfix.store
 otoplus-arac.com
+otoplusarabam.com
 otoplusaracal.com
 otoplusaracim.com
 otoplusaraclar.com
@@ -353195,6 +353226,7 @@ sahibinden-get.mobilservisler-30.sbs
 sahibinden-get.mobilservisler-44.sbs
 sahibinden-get.mobilservisler-49.sbs
 sahibinden-get.mobilservisler-50.sbs
+sahibinden-get.mobilservisler-62.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
@@ -353229,6 +353261,7 @@ sahibinden-get.satis-tr.online
 sahibinden-get.satislarim-odeme-servisi.com
 sahibinden-get.servis-emobilim.com
 sahibinden-get.servisinguvenli-25.sbs
+sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.servislerm-sistem.com
 sahibinden-get.servislerslink.com
@@ -367378,6 +367411,7 @@ shoper.live
 shopersport.ru
 shopeurasia.com
 shopeurasia.com.tr
+shopextra.online
 shopfield.gifts
 shopgckbykndrlmlr.shop
 shopgoasia.com
@@ -383639,6 +383673,7 @@ sube-cep-te-te-b.store
 sube-cepte.com
 sube-cepte.sbs
 sube-cepteteb.ltd
+sube-cepteteb.myonlineportal.de
 sube-cepteteb.tk
 sube-den-net.shop
 sube-deniz-tr.com
@@ -383862,6 +383897,7 @@ sube-siz-gi-ris-denizban-k.tk
 sube-siz-login.website
 sube-t-e-b.my-homeip.net
 sube-teb-bireysel-tr.cf
+sube-teb-com-tr.my-homeip.de
 sube-teb-katilim-tr.com
 sube-teb-yatirimtr.com
 sube-teb.com
@@ -385154,6 +385190,7 @@ suderimod.top
 sudh-ppeeiassfbwjn358yrw9aoscbsfuse.duckdns.org
 sudhka.com
 sudo.ddns.net
+sudomanager.tech
 sudoriferousness.com
 sueabbreviation.top
 suedeplore.top
@@ -437607,6 +437644,7 @@ wordpress-1555264-6031614.cloudwaysapps.com
 wordpress-1558429-6042634.cloudwaysapps.com
 wordpress-1558862-6044960.cloudwaysapps.com
 wordpress-1558862-6045062.cloudwaysapps.com
+wordpress-214832-0.cloudclusters.net
 wordpress-id.hopto.org
 wordpress-mercado-mix-a85903441390217.codeanyapp.com
 wordpress.acimueicxvraahcl.com
@@ -461945,6 +461983,7 @@ your-house.myonlineportal.ch
 your-ip.getmyip.com
 your-local-girls.info
 your-name.site
+your-nextstep.online
 your-yardim-talebi-olustur.com
 your27subarsiparislerin.cloud
 your27subattakisipariler.cloud
