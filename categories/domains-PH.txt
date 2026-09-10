@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102668
-# Last change: 2026-09-09 22:35:34 UTC (sync mode: delta)
+# Records: 102673
+# Last change: 2026-09-10 01:07:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -15256,6 +15256,7 @@ boycongregate.top
 boylegorduk.com
 boyner.demrebicer.com
 boynertr.com
+boynertronline.shop
 boytrait.top
 boz0031.site
 bozdemircarrentals.online
@@ -40144,6 +40145,7 @@ haberler346623.sbs
 haberler3552323.shop
 haberler421352.shop
 haberler4422424.shop
+haberler452344.sbs
 haberler4561.sbs
 haberler47852.shop
 haberler53454321.shop
@@ -54966,6 +54968,7 @@ lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
 lndirimlerikacirmadansendeal.com
 lndirimtakipcileriyiz.com
+lndirimtakiptett.com
 lndirimtakptt.com
 lndlirmli1-o-1ler.com
 lndlrlm-haftasl-odeme-online.com.tr
@@ -67107,6 +67110,7 @@ paribtc.com
 paribturkiyegiriscom.co.vu
 paribturkiyegirislerinizcovu.co.vu
 paribturkiyetrade.co.vu
+paribu--araba.com
 paribu--araba.live
 paribu--arabacekilisi.com
 paribu--arabam.com
@@ -67142,6 +67146,7 @@ paribu-arabayakala.link
 paribu-basvurular.com
 paribu-buyukcekilisi.com
 paribu-cark-hediye.com
+paribu-cark.com
 paribu-carkcekilisi.com
 paribu-cekilisi.com
 paribu-cekilisi.online
