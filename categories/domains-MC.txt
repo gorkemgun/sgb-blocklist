@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41279
-# Last change: 2026-09-10 11:26:37 UTC (sync mode: full)
+# Records: 41294
+# Last change: 2026-09-10 22:38:20 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -4661,6 +4661,7 @@ awiflc.com
 awqhnjewqjkl.icu
 aws--vn.com
 aws-check.net
+aws-us-east-3.com
 aws.orgserv.dnsnet.cloud.anondns.net
 awsbs.com
 awspro4d.net
@@ -7629,6 +7630,7 @@ chainlink-api-v3.cloud
 chairman.fairiescodecatcher.com
 chairsit.surf
 chakracleansetherapy.com
+chamber-ua.org
 championships-peoples-point-cassette.trycloudflare.com
 chamsi.ddns.net
 chancetowin.quezknal.net
@@ -7708,6 +7710,7 @@ chatgptextent.pro
 chatgptforsearch.com
 chatgptitalia.net
 chatgptsidebar.pro
+chathamhouse.eu
 chatit.club
 chatk.goldenbirdcoin.com
 chaton.life
@@ -9923,6 +9926,7 @@ defenceprodindia.site
 defendchain.xyz
 defenderav.con-ip.com
 defenderservice.hopto.org
+defi-claim.xyz
 defi.smart-contracts.blog
 defiant85.xyz
 defimob.bar
@@ -12012,6 +12016,7 @@ email.uqauv.cn
 email.yg9.me
 emailhost.network
 emailreddit.com
+emailsecure.email
 emaiserve.store
 emanalyst.biz
 emanuelbrookes4545.xyz
@@ -12441,6 +12446,7 @@ estudiperceptiva.com
 esube-tebcep-tr.com
 esube.online-teb-tr.com
 esuzf.biz
+esvfecawvjmchjslqyemho2fiduc59wzn.oast.fun
 esxipubad-gov-lk.org-co.net
 esxo.ddnsfree.com
 et6cr.uqauv.cn
@@ -12998,6 +13004,7 @@ faeelt.giize.com
 faf896cfdedbe82e44d51dfe2e96436f.ca
 fafafsdaf.ddns.net
 fafhoafouehfuh.su
+fafwatch.xyz
 fahd2010.ddns.net
 fahd2011.ddns.net
 fahreneightskywalk45.com
@@ -23039,6 +23046,7 @@ merchifly.shop
 merciful236.xyz
 merckllc.top
 mergezanems.surf
+meridiangroup-corp.com
 meridyen-12.xyz
 merivaara.xyz
 meriwethershaquila.net
@@ -23932,6 +23940,7 @@ moyu88.xyz
 moyue14.com
 mozal.finartex.com
 mozilaupgrade.com
+mozilla.ws
 mozkraty.org
 mp2y3.sm20j.xyz
 mpafnlegb.com
@@ -24310,6 +24319,7 @@ mxzrovn.com
 my-356drv.online
 my-backup-club-911.xyz
 my-drive365.pub
+my-invite.org
 my-logford.ml
 my-mailcoil.ml
 my-nest-app-production.up.railway.app
@@ -24405,6 +24415,7 @@ myfunbmdablo99.hosthampster.com
 myggl.io
 mygiftedaffairs.com
 mygov-sso.com
+mygreatmarket.com
 myhackth.myftp.org
 myhani31.duckdns.org
 myhapperflowers.com
@@ -28409,6 +28420,7 @@ procinul.com
 proclaim25.xyz
 procompass.org
 procyon.vdafqr.com
+prod-artfkt.com
 prod.beebeatoplayer.com
 prod.bmiloghealth.com
 prod.clpclptrefinder.com
@@ -31713,6 +31725,7 @@ service-deamon.com
 service-eset.com
 service-essential.com
 service-explorer.com
+service-infos.info
 service-issues.site
 service-management.tk
 service-norton.com
@@ -33608,6 +33621,7 @@ stuffgull.top
 stunnedfragiledioxide.shop
 sturdyregularrmsnhw.shop
 sturt.xyz
+stuseamandesilt.org
 stxarnavig.live
 stxerc231eryykido.digital
 stxgjlw.com
@@ -36231,6 +36245,7 @@ ukraina-drp.ddns.net
 ukraine-news.ddns.net
 ukrainianworldcongress.info
 ukremail.com
+ukrinform-share.net
 ukroboronprom-com.site
 ukroboronprom.online
 ukronet.ru

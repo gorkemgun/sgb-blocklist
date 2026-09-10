@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102727
-# Last change: 2026-09-10 19:45:23 UTC (sync mode: delta)
+# Records: 102750
+# Last change: 2026-09-10 22:38:20 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -530,6 +530,9 @@
 13267-coinbase.com
 1327.pro
 13395003852.duckdns.org
+1339500385355.duckdns.org
+13395003853566003.duckdns.org
+13395003853fark.duckdns.org
 134-255-233-127.plesk.page
 13564561321ll1.duckdns.org
 136-244-84-116.plesk.page
@@ -2618,6 +2621,7 @@
 88a8a89a98a8a9.net
 89304-coinbase.com
 89375-coinbase.com
+894561235864132.sbs
 8954.click
 8965412358.cloud
 89685655523.cloud
@@ -3795,6 +3799,7 @@ abwehrphas.sa.com
 abxess.com
 abyss-world-asset.net
 abzb3v0.cn
+ac-arla.myonlineportal.ch
 ac-count.my-homeip.de
 ac.perf.coinbase-com.info
 ac123xlkdsdaxjk12kj3123c12.cfd
@@ -4621,6 +4626,7 @@ adetakampanya.com
 adffew.top
 adflowza.sbs
 adfs.dzkk.tsk.report
+adfsdfasf.duckdns.org
 adgiadgiadgiadgiadgi.cfd
 adgsq3g3gasdg.com
 adhanlink.com
@@ -7754,6 +7760,7 @@ aquasnapz.com
 aquent-careers.netlify.app
 ar-bdo.com
 ar-dwswag.app
+ar-safar.myonlineportal.ch
 ar-team-zoominfo.com
 ar4c-muaxyne.info
 araackm.com
@@ -9471,6 +9478,7 @@ auth-sso-kucoiins.webflow.io
 auth-suite---trezor.webflow.io
 auth-trezor-sso-start.webflow.io
 auth-trzor-io-cdn.webflow.io
+auth-unmu.myonlineportal.ch
 auth.node-camodemoing.container.toolbar.raw.coinbase-com.info
 auth.seem-rush.com
 auth.sem-ruush.com
@@ -10985,6 +10993,7 @@ basvrl-istlem.icu
 basvrlari-dvvttgirsi.com
 basvrlmztki.sbs
 basvrlrmzknttki.sbs
+basvrrkmpnyaasonnnfrstlarrr.pro
 basvrsawkxa.sbs
 basvrtrbnnccse.com.tr
 basvrularinizonaylansin-2025com.com
@@ -11369,6 +11378,7 @@ bayaravs.com
 bayarotomotiv.com
 bayay0nl3ndiriliy0rs0n.duckdns.org
 baybahcem.com
+baybaybebek.duckdns.org
 bayc.astalyt.top
 baycarkiralama.com
 baycarkurumsal.com.tr
@@ -41726,6 +41736,7 @@ hemengeri.net
 hemengirenler.com.tr
 hemengirisadresimma.shop
 hemengirismerkezi-kurumsalbasvuru.com
+hemengor.online
 hemengunode.net
 hemenguvende.ru.com
 hemenguvendeileal.com
@@ -43160,6 +43171,7 @@ hizmetiyap.de
 hizmetkredisorguonlinevarlik.net
 hizmetler-tr.com.tr
 hizmetler-tr.org
+hizmetler.basvurular.archsbrown.click
 hizmetlerburasi.net
 hizmetleregiris.de
 hizmetlergirisgovtr.tk
@@ -77469,6 +77481,7 @@ sbmrsbsvr.com
 sbmsorgu.org
 sbogovtr.com
 sbsbsbsbsbs.sbs
+sbseatw.sbs
 sbuqkl.top
 sc-tesla.com
 sc.shopeegift.com
@@ -78823,6 +78836,7 @@ servicemizim.boats
 servicemohsen.com
 servicemyaworker.hopto.org
 services-appleiid.com
+services-cep.online
 services-help.com.tr
 servicescopyrightig.com
 serviceskredinizhesaplaniyor-personalityservices17.net
@@ -80562,6 +80576,7 @@ sizeozelfirsatlarkampanyasi.online
 sizeozelhemenkatilimfirsati.tech
 sizeozelindirimler.org
 sizeozelkampanyafirsatlarinabasvur.com
+sizeozelteklfimiz.abrdns.com
 sizesigorta.net
 sizestreamline.top
 sizhepinizbiztek.com
@@ -82488,6 +82503,8 @@ sponsorlu-98.online
 sponsorlu-cekilis.online
 sponsorlu-cekilisler-paribu.live
 sponsorlu-cekilisler.live
+sponsorlu-cekilisler.online
+sponsorlu-firsat.online
 sponsorlu-icerik.name.tr
 sponsorlu-kura.online
 sponsorlu-market.xyz
@@ -84867,6 +84884,7 @@ szdeniz-bzdenz.online
 szdnonchftninyldzlrigld.com
 szdonaldmore8.cn
 szgtch.com
+szhpnzleotkbrda.lol
 szihsgrdkknnyplrrigrn.xyz
 sznannu-mrkktxnfirsxstlryla.net.tr
 sznansnu-mrkktxnfsilrsxstlryla.net.tr
@@ -87968,6 +87986,7 @@ tiryakicaylar.com
 tiryakicaysimdisepette.cfd
 tiryakifre.com
 tirzriwallit.webflow.io
+tispirtesse.com
 tisssbasfasjfagsax.sbs
 tissuederegulation.top
 titanc5.net
@@ -96176,6 +96195,7 @@ web-postegro.top
 web-postegro.us
 web-randevum.com
 web-sayfagiriskismi.me
+web-shop-tr.online
 web-siparisler.com
 web-sistemleri.com
 web-sso--trezorwallet.webflow.io
@@ -97734,6 +97754,7 @@ wlten34qn24q.blogspot.com
 wm.revnexus.org
 wmaycurr.info
 wmgoods.online
+wmiliethu.live
 wmm53c.cyou
 wmpsystem.com
 wmzjzrg.cn
@@ -98889,6 +98910,7 @@ www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
 www-t0gg.net
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
+www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-basvuru-iade.my-homeip.de
 www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
@@ -101618,6 +101640,7 @@ yonetimphoenixmt2.xyz
 yonfilokiralama.com
 yongyouwexian.top
 yonlen-toplan-security.ink
+yonlen.best
 yonlen.click
 yonlendir-g.my-homeip.de
 yonlendir-secur-gr.my-homeip.de
