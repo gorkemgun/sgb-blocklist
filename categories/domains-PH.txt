@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102673
-# Last change: 2026-09-10 01:07:35 UTC (sync mode: delta)
+# Records: 102675
+# Last change: 2026-09-10 06:01:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -54969,6 +54969,7 @@ lndirimkapinqgeldi.sbs
 lndirimlerikacirmadansendeal.com
 lndirimtakipcileriyiz.com
 lndirimtakiptett.com
+lndirimtakpctt.com
 lndirimtakptt.com
 lndlirmli1-o-1ler.com
 lndlrlm-haftasl-odeme-online.com.tr
@@ -81075,6 +81076,7 @@ snowyconvergence.top
 snowylimelight.top
 snowytournament.top
 snoyreteve.top
+snrayklmelerhgs.cfd
 snrlsaydcakm.cfd
 snrmfxko.cn
 snryklendrdnhgs.cfd
