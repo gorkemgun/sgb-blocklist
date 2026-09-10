@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102715
-# Last change: 2026-09-10 16:28:51 UTC (sync mode: delta)
+# Records: 102727
+# Last change: 2026-09-10 19:45:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1371,6 +1371,7 @@
 250bintoplukonut.com
 250bintoplukonut.xyz
 250bintoplukonutlarproje.com
+251562.sbs
 25223142566.cloud
 2523524423344.cloud
 252525-26526.xyz
@@ -19292,6 +19293,7 @@ clubarmoniahotel.com
 clubbestdeal.com
 clubdatcahotel.com
 clubesthetic.top
+clubfamiliacesme.com
 clubletooniafethiye.com
 clubunfold.top
 cludbeds-reserv-compl.com
@@ -40163,6 +40165,7 @@ haberler4215434.sbs
 haberler4422424.shop
 haberler452344.sbs
 haberler4561.sbs
+haberler4675874.sbs
 haberler47852.shop
 haberler53454321.shop
 haberler543343.shop
@@ -52648,6 +52651,7 @@ kocrental.com
 kocrental.org
 kocsigortam.com
 kocsistema.info
+koctas.live
 koctasbursa.com.tr
 koctass.com
 koctasss.com
@@ -58928,6 +58932,8 @@ mhskastogreen.uk
 mhsksrsnrndsv.com
 mhsr-randvu.net
 mhsraaggwa.site
+mhsraaggwb.site
+mhsraaggwd.site
 mhsrarandvlrmzbrda.sbs
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -60933,6 +60939,7 @@ muzehizmet.click
 muzeislem.click
 muzekapisi.click
 muzekartim.click
+muzenyillik.com
 muzeodeme.click
 muzeonline.click
 muzeportal.biz
@@ -78320,6 +78327,7 @@ senbenbizsimditamam.online
 senbensirasiradevam.online
 senbensizeryecen.online
 senbnademdnmmvgzl.com
+senburdaheprahatta.com
 sencerdernegi.com
 sencrfdenall.cfd
 senct-purch-yusty.com
@@ -83171,6 +83179,7 @@ starryinnumerable.top
 starrymedieval.top
 starrystreamers.info
 starshard.site
+starshoplotuskatilim82.site
 start--ledger--m----auth.webflow.io
 start-docs-terezr.webflow.io
 start-edger-sso-auth.webflow.io
@@ -83534,6 +83543,7 @@ storban.surf
 storbon.surf
 store-adidas.buzz
 store-adidas.xyz
+store-ceptr.online
 store-plus.online
 store.freestorageupgrade.top
 store2app-idwebapps.com
@@ -88797,6 +88807,7 @@ toqe423eas3d.click
 tor-hgsz.com
 tor-odemeler.xyz
 toravel.gifts
+toravia.live
 toravina.gifts
 torchdisagree.top
 torchfragrant.top
@@ -89841,6 +89852,7 @@ trendbayat.com
 trendburasigelal.online
 trendcurrent.online
 trendengine.world
+trendex-tr.online
 trendfirstlar101leyilsonu.com
 trendfrontline.online
 trendhaberler.online

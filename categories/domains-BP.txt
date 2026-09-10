@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258391
-# Last change: 2026-09-10 16:28:51 UTC (sync mode: delta)
+# Records: 258394
+# Last change: 2026-09-10 19:45:23 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -29828,6 +29828,7 @@ avskiralikaraclar.xyz
 avsonline.net
 avsonlinee.xyz
 avsotofly.com
+avsotokockiralama.com
 avsotomobilkiralama.com
 avsrent.com.tr
 avsrentacar.online
@@ -87258,6 +87259,7 @@ eonllinegiranitisllemenu.com
 eonllinemobiledijitalimit.xyz
 eonllinepdestkkatillim.epizy.com
 eonllinereklarngirisrnenusu.space
+eoon-trendyol.com.ph
 eopdyson.com
 eoptikforum.com.tr
 eozobsgayx.top
@@ -131991,6 +131993,7 @@ internetsubesi-kuveytturk.com
 internetsubesi-mobil.cf
 internetsubesi-mobil.com
 internetsubesi-mobildeniz.com
+internetsubesi-pnbfinansbank-com.ph
 internetsubesi-pnbfinansbank-com.tk
 internetsubesi-qnb-finansbank.com
 internetsubesi-qnb.sbs
