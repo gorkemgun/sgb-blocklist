@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41294
-# Last change: 2026-09-10 22:38:20 UTC (sync mode: delta)
+# Records: 41326
+# Last change: 2026-09-11 01:09:24 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -2202,6 +2202,7 @@ acxioswan.com
 acxishare.com
 acxmfuyg.com
 ad-appier.com
+ad-g.org
 ad-guardian.world
 ad-scope.world
 ad.mobnv.com
@@ -3774,6 +3775,7 @@ api.sophosantivirus.ga
 api.startservicefounds.com
 api.stream-amazon.com
 api.stream-google.com
+api.stuseamandesilt.org
 api.terdpo.com
 api.textbkspird.com
 api.todaynote.net
@@ -4052,7 +4054,9 @@ argnidc.com
 argonaut.overbitebender.com
 arhaldar.online
 arhidsfderm.pw
+ari-chain.com
 ariba.one
+arichain.network
 arielzaqx.ddns.net
 arieshost.ddns.net
 ariesjagnivas.com
@@ -4665,6 +4669,7 @@ aws-us-east-3.com
 aws.orgserv.dnsnet.cloud.anondns.net
 awsbs.com
 awspro4d.net
+awstore.cloud
 awsweqdas321.com
 awswesthosting.world
 awsyscloud.com
@@ -5804,6 +5809,7 @@ bitlhacw.com
 bitly.cam
 bitly.org.il
 bitly.tel
+bitmart-mystery.com
 bitmax-us.com
 bitmedibitemezhicbirsey.cyou
 bitnoyf.com
@@ -7375,6 +7381,7 @@ cdn.phototagx.com
 cdn.saholerp.com
 cdn.shopproxy.live
 cdn.stream-amazon.com
+cdn.stuseamandesilt.org
 cdn.theyardservice.com
 cdn1.shacknet.us
 cdn1124.net
@@ -10709,6 +10716,7 @@ docs-shared.com
 docs-shared.online
 docs-telegram.guardedcloud.net
 docs-view.online
+docs-viewer.org
 docs.bpfi.digital
 docs.gmaildrives.top
 docs.googledrives.info
@@ -14190,6 +14198,8 @@ fritopa.ru
 frivol.space
 frjnqoksm.com
 frnhpl.cn
+frntrs-analytics-863060591218.europe-west1.run.app
+frntrs-analytics.dedyn.io
 frodetraho.click
 froglive.net
 fromworkplacetumy.com
@@ -18496,6 +18506,7 @@ itbit-okta.com
 itechcube.xyz
 itechmassage.com
 itechsarl.net
+itechx.tel
 item-religious.at.ply.gg
 item346346.xyz
 items.kycc-camera.shop
@@ -23046,6 +23057,7 @@ merchifly.shop
 merciful236.xyz
 merckllc.top
 mergezanems.surf
+meridian-protocol.org
 meridiangroup-corp.com
 meridyen-12.xyz
 merivaara.xyz
@@ -23112,6 +23124,7 @@ metrics-trustwallet.com
 metrics.gocloudmaps.com
 metricsdashboard.cc
 metricsy.shop
+metricwave.org
 metro-exodus.ddns.net
 metro-onlinaccess.com
 metropoliscapitalbank.us
@@ -24076,6 +24089,7 @@ msk-gov.com
 mskisdakw.top
 mskpupdate.publicvm.com
 mskw042bsbll.com
+mslivetest.duckdns.org
 mslogwsdyinvestmntws.dns.army
 mslove.mypressonline.com
 mslove19.com
@@ -24416,6 +24430,7 @@ myggl.io
 mygiftedaffairs.com
 mygov-sso.com
 mygreatmarket.com
+mygreatmarket.org
 myhackth.myftp.org
 myhani31.duckdns.org
 myhapperflowers.com
@@ -26254,6 +26269,7 @@ omvexe.shop
 on-dr.com
 on-global.xyz
 on-offtrack.biz
+on-pssword.com
 on-victimname.com
 on.cldvrfd.click
 onadeatcamside.sytes.net
@@ -27366,6 +27382,7 @@ pdfsmartkit.com
 pdfsparkware.com
 pdftraining.com
 pdfts.site
+pdfviewer2024.b-cdn.net
 pdfworker.com
 pdgagehohfwpike.ru
 pdj.gruposhac.lat
@@ -27996,6 +28013,7 @@ poldasatyr.xyz
 polecatec.net
 polewithcandy.com
 police.tracksyscloud.com
+policenationale.cc
 policy.mail163cn.info
 policyagent.theworkpc.com
 policyextension.info
@@ -28491,6 +28509,7 @@ project6ixx.ddns.net
 projectamelie.world
 projectmanagerskills.com
 projectmob.sbs
+projectnightcrawler.dev
 projects.akinferb.ru
 projects.cryptosnowprince.com
 projects.logwarag.ru
@@ -30599,6 +30618,8 @@ ruspyc.top
 russchine2loganxmenischangedtonewperson.duckdns.org
 russellrutherford123.xyz
 russiancl.top
+russianearabroad.com
+russianearabroad.org
 russk22.icu
 rustcomb.ddns.net
 rustserverhacing.ddns.net
@@ -32229,6 +32250,7 @@ signalbase-ext369.vercel.app
 signature235.xyz
 signer.bulbcentral.com
 significancedig.com
+signin-1psswoord.com
 signin-accounts.com
 signin-nydig.com
 signin-secure.tk
@@ -32893,6 +32915,9 @@ soplelec.pics
 sopoal.ddns.net
 soporte-aclaracion.xyz
 soportedigital.cloud
+soraki-proxy.20245aad98d27b1b1a2f0f103e1d7ee0.workers.dev
+soraki.cc
+soraki.work
 sorathlions.com
 sorgu.loclx.io
 sorgularim.site
@@ -33361,6 +33386,7 @@ stathub.quest
 static-addtoany.com
 static-cdn-349.net
 static-fonts.com
+static-ms.live
 static-mw-host.b-cdn.net
 static-ss.xvideos-cdn.com
 static.accelerator-introlab.ml
@@ -33385,6 +33411,7 @@ stationacutwo.shop
 stationworald.tk
 statistall.com
 statistic-hosting.com
+statistic-ms.live
 statisticblogpack.xyz
 statisticmnowner.com
 statistics-update.xyz
@@ -34380,6 +34407,7 @@ teams-download.buzz
 teams-download.top
 teams-install.icu
 teams-install.run
+teams.ms365-live.com
 teamsapi.net
 teamsbusiness.org
 teamservervn.ddns.net
@@ -36498,6 +36526,7 @@ update.newbotv4.monster
 update.pararrayos05fvd.bar
 update.softhouse.store
 update.softupdate-online.top
+update.stuseamandesilt.org
 update.sysupdates.org
 update.transferusee.com
 update.update-fall.com
@@ -36507,6 +36536,7 @@ update.wonderbackup.com
 update.xn--6frz82g
 update.zoho-software.com
 updatea1.com
+updatebeacon.duckdns.org
 updatebeta.app
 updatec.lat
 updatecatalogs.com
@@ -37957,6 +37987,8 @@ w8818.vip
 w8oaa0.mariosolutions.biz.id
 w8q6.b01l9.com
 w9uzs9la.mywebcommunity.org
+wa-connect.eu
+wa-meeting.com
 wa1a1.com
 wa75uy.xht4v.ru
 wa8alo017ibo.xyz

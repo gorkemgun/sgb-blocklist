@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102750
-# Last change: 2026-09-10 22:38:20 UTC (sync mode: delta)
+# Records: 102753
+# Last change: 2026-09-11 01:09:24 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -530,6 +530,7 @@
 13267-coinbase.com
 1327.pro
 13395003852.duckdns.org
+13395003853321.duckdns.org
 1339500385355.duckdns.org
 13395003853566003.duckdns.org
 13395003853fark.duckdns.org
@@ -55018,6 +55019,7 @@ lndlirmli1-o-1ler.com
 lndlrlm-haftasl-odeme-online.com.tr
 lndlrlm-kasim-ayi-ozel.com
 lndlrlm-merkezi.com.tr
+lndlrlmkaplndaa.com
 lndlrlmler-burada-bu-hafta.com
 lndlrlmlerburada-bu-hafta.com
 lndlrlmlerin-merkezl.com.tr
@@ -82514,6 +82516,7 @@ sponsorlu.click
 sponsorlu.online
 sponsorlubsvru.xyz
 sponsorlubsvru2.xyz
+sponsorlucekilisim.online
 sponsorlukampanyabebosakk.com
 sponsorlukampanyacarsamakat.com
 sponsorlukampanyacumafessol.com
