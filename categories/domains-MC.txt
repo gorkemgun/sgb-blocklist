@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41326
-# Last change: 2026-09-11 01:09:24 UTC (sync mode: delta)
+# Records: 41334
+# Last change: 2026-09-11 11:28:26 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3818,11 +3818,13 @@ apigrokcloud.icu
 apikeyallervice.business
 apikeyallervice.com
 apilink.click
+apimantax.otax.fun
 apimonger.com
 apinewstatistikapi.best
 apiservicesfredo34.xyz
 apisquere.com
 apisys003.com
+apixnxx.otax.fun
 apk-disc.eu
 apk-market.net
 apk.sound.com.py
@@ -8217,6 +8219,7 @@ cloudcenter.top
 cloudchat-dl.com
 clouderive.com
 cloudfiles.club
+cloudflare.bonto.run
 cloudflare.report
 cloudflareaddons.com
 cloudflarecdn.com
@@ -9074,6 +9077,7 @@ crogtrt.com
 crolsbwhpehmwaw.cn
 croma.vn
 cromecho.com
+cromwell.danzzichosting.my.id
 cronoze.com
 cronsell.duckdns.org
 cropcircleforum.today
@@ -9797,6 +9801,7 @@ dcc.ungov.org
 dcc122022.hopto.org
 dcejzbgv.com
 dcelvustz.com
+dcfdc-eight.vercel.app
 dcgie.com
 dchrnitl.com
 dcjpqbs.com
@@ -25414,6 +25419,7 @@ node.androiddebugbridge.su
 nodedisclose.pw
 nodekeny11.freeddns.org
 nodeline.xyz
+nodemyayun.otax.store
 nodepkg.com
 nodetestservers.azurewebsites.net
 nodjs2o25nodjs.giize.com
@@ -32736,6 +32742,7 @@ sngnclba.duckdns.org
 snickerdoodle.top
 sninggingy.xyz
 sniperexe.ddns.net
+snipex-iota.vercel.app
 snippet.host
 snipscell-ss.com
 snipsnack.com
@@ -33881,6 +33888,7 @@ suscripcion65.g1ooseradas.buzz
 suscripcion84.taoshome4sale.com
 suscripcion95.servicioslomex.online
 sushi-bar.ddns.net
+susi.bonto.run
 susiahat24199a.ddns.net
 susneh.com
 susnj.hopto.org

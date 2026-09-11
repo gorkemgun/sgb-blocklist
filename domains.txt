@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469540
-# Last change: 2026-09-11 06:04:08 UTC (sync mode: delta)
+# Records: 469583
+# Last change: 2026-09-11 11:28:26 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3867,6 +3867,7 @@
 122411-43434-33.cloud
 122432324232423.click
 1224413324324.com
+122455512222455588899890.duckdns.org
 1224885234423.cloud
 1225124566556320.info
 122525158094.info
@@ -13731,6 +13732,8 @@
 41151415.duckdns.org
 411speed.duckdns.org
 412100012458.duckdns.org
+412121145441555445591.duckdns.org
+412121145441555445592.duckdns.org
 412142114-2025.xyz
 412221222145558999892.duckdns.org
 412221222145558999893.duckdns.org
@@ -21909,6 +21912,7 @@
 987465648961356.net
 987498463521987512.giize.com
 987498984464984684.cfd
+9876523basvrrkmpnyaasonnnfrstlarrr.info
 98765423456.cloud
 987654321147225.com
 987749792.dfgqdsd.ru
@@ -27998,6 +28002,7 @@ accounts-limitation.com
 accounts-limited.com
 accounts-login.ga
 accounts-login.gq
+accounts-mail-google.com
 accounts-mircrosoft-ads.online
 accounts-myservice.servepics.com
 accounts-porfile.serveirc.com
@@ -44603,6 +44608,7 @@ alternatifbank-isube.vg
 alternatifbank-kargo.vg
 alternatifbank-kilit.ws
 alternatifbank.net
+alternatifbank.online
 alternatifbank.top
 alternatifbankerqq.twoonemuda.com
 alternatifbankonline.com
@@ -47967,6 +47973,7 @@ apikeyallervice.com
 apilink.click
 apilivechat.com
 apiluma.bond
+apimantax.otax.fun
 apimarket.pro
 apimonger.com
 apimumiluwe.klontrek.org
@@ -47986,6 +47993,7 @@ apisystem.net
 apiteamlite.tv.tr
 apiwebdata.com
 apixfllyyyn.site
+apixnxx.otax.fun
 apjzdnn.click
 apk-disc.eu
 apk-googleplaystore.com
@@ -96516,6 +96524,7 @@ cartradepoint.com
 cartransportdubai.com
 cartrasfa.online
 cartridgecave.co.za
+carts-tr.online
 cartsadnessa.top
 cartscope.gifts
 carttody.cyou
@@ -104135,6 +104144,7 @@ cloudflare-api.com
 cloudflare-okta.com
 cloudflare-sendgrid.com
 cloudflare-statics.com
+cloudflare.bonto.run
 cloudflare.news
 cloudflare.report
 cloudflare.site
@@ -104499,6 +104509,7 @@ cmrtssh.com
 cmrtverasdhzmt.net
 cmrvtnabsvru.sytes.net
 cms.dhlsms.applogist.xyz
+cms.infomenkulyatirim.com
 cmsadskfsa-andklsa-fnma.sbs
 cmsarbem.com
 cmschecker.app
@@ -106575,6 +106586,7 @@ companolo.com
 company-build-global-mac.net
 company-certificadications.com
 company-loader-build.net
+company.add-passkey.com
 company.addssopasskey.com
 company.createssopasskey.com
 companya.top
@@ -111603,6 +111615,7 @@ cromendaledavec.click
 cromernationalzl.com
 cromtira.com
 cromweinrntiogreater.com
+cromwell.danzzichosting.my.id
 cron.iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 cronaveritus.info
 cronessamoothe.duckdns.org
@@ -116293,6 +116306,7 @@ dcejzbgv.com
 dceleg8w.duckdns.org
 dcelvustz.com
 dcfbuilders.com
+dcfdc-eight.vercel.app
 dcfvdezssddfff.duckdns.org
 dcgie.com
 dch.zapto.org
@@ -130679,6 +130693,7 @@ dolap.ilanlarimiz.com.se
 dolap.ilansatinal.com.tr
 dolap.ile-alisveris.com.tr
 dolap.ile-alisverisim.com
+dolap.ile-sepet-islemler.com.tr
 dolap.indirim.info.tr
 dolap.info.tr
 dolap.iyzico-get-safe.com
@@ -131051,6 +131066,7 @@ domaininismi.com
 domainkkmucizeleri.com
 domainkleralirim49058sm.com
 domainlicensieamazon.duckdns.org
+domainlify.net
 domainmlez3.xyz
 domainofsystemofusom.fit
 domainredpage.click
@@ -192956,6 +192972,7 @@ haberler3123512.shop
 haberler31345653.shop
 haberler32334.shop
 haberler3242.sbs
+haberler324874.sbs
 haberler3262343.sbs
 haberler332348.shop
 haberler33544.sbs
@@ -214248,6 +214265,7 @@ horgs.org
 horhgss.com
 horidancai.xyz
 horinconspi.top
+horizon-frankfurt-pharmacology-charleston.trycloudflare.com
 horizon.sologerg.com
 horizon547.xyz
 horizonanalogue.top
@@ -222926,6 +222944,7 @@ ile-satin-alim.com
 ile-satinalim.com.tr
 ile-satinlar.com
 ile-satisim.com
+ile-sepet-islemler.com.tr
 ile-sepetim.com.tr
 ile-sepetlerim.com.tr
 ile-sepette.com.tr
@@ -226806,6 +226825,7 @@ infolookstorage.com
 infomailforyoumak.ru
 infomailidfr.hopto.org
 infomalilopera.ru
+infomenkulyatirim.com
 infomfa-gov-lk.dwnlld.info
 infomonclis-track.ddns.net
 infomusteri.com
@@ -256541,6 +256561,7 @@ klasikiletisimdengeldi.com
 klasikrandevu.app
 klasiletisimde20gbden.com
 klaskampxanya.ru.com
+klasmansmcs.click
 klasmanssld.click
 klaspatikatki1974.duckdns.org
 klassbilisimdendevproje.com
@@ -269173,6 +269194,7 @@ login.yonetimmerkezi-tr.com
 login.zapto.org
 login.ziraatbankan-britain.com
 login001.zapto.org
+login10matik.shop
 login123.smallperfumerain.com
 login2020.duckdns.org
 login29.secureyouradd.com
@@ -274569,6 +274591,7 @@ maliye.info
 maliyeadalet.org
 maliyeaidat.cfd
 maliyearabulucu.org
+maliyearastirma.com
 maliyearsiv.org
 maliyebakanligi-iade.com
 maliyebakanligi.com.tr
@@ -281356,6 +281379,8 @@ mhssrajhsyyh.icu
 mhssrrrahas.site
 mhssrrrdhas.site
 mhsssrassa.live
+mhsssrassb.live
+mhsssrassc.live
 mhsysndvuesa.site
 mht-tickets.ru
 mhtevents.com
@@ -299011,6 +299036,7 @@ nodeemoskor.duckdns.org
 nodehubs.store
 nodekeny11.freeddns.org
 nodeline.xyz
+nodemyayun.otax.store
 nodenvoy.top
 nodeonylahu.sbs
 nodepkg.com
@@ -299315,6 +299341,7 @@ nopanel-453465.top
 nopanel-455325.top
 nopanel-564732.top
 nopanel-623463.skin
+nopanel-66235.top
 nopanel-672345.top
 nopanel-723462.top
 nopanel-76255.top
@@ -313721,6 +313748,7 @@ otokocfilom.net
 otokocfilomkurumsal.com
 otokocfilomkurumsal.net
 otokocfilomturkey.net
+otokocfilootomotiv.com
 otokocfilorent.com
 otokocfilorentacar.com
 otokocfilorentacar.net
@@ -313751,6 +313779,7 @@ otokoconline.net.tr
 otokoconlinekirala.com.tr
 otokoconlinekirala.online
 otokocotokirala.com.tr
+otokocotomobil.com
 otokocrent.net
 otokocrent.org
 otokocrentacar.net
@@ -354044,6 +354073,7 @@ sahibinden-param-guvende.tr-odeme-hizmet.online
 sahibinden-param-guvende.tr-odeme-onay.online
 sahibinden-param-guvende.tr-odeme-servis.online
 sahibinden-param-guvende.tr-online-odemelerim.sa.com
+sahibinden-param-guvende.urunguvende.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-param-guvende.v-tr.sa.com
@@ -354136,6 +354166,7 @@ sahibinden-paramguvende-gets.tk
 sahibinden-paramguvende-hizmeti.com
 sahibinden-paramguvende-iban.ml
 sahibinden-paramguvende-ilan.com.tr
+sahibinden-paramguvende-ilanitemid12218373.gt.tc
 sahibinden-paramguvende-ile-al.online-sec.com
 sahibinden-paramguvende-ile-ode.get-secu-online.site
 sahibinden-paramguvende-ileal.gq
@@ -362702,6 +362733,7 @@ selectumfamilyhotels.com
 selectumhotelsandresorts.com
 selectumluxuries.com
 selectumluxuryresorts.com
+selectumresorts.net
 selectumresortshotels.com
 selectwendormo9tres.com
 selekokeskaa.serveblog.net
@@ -364960,6 +364992,7 @@ service-mmsvocal.ddns.net
 service-mmsvocalorg.ddns.net
 service-net2-file.com
 service-norton.com
+service-nowinc.com
 service-nuubniti-administrator.site
 service-oiwiurpq-administrator.site
 service-ontv.ddns.net
@@ -371014,6 +371047,7 @@ siparisgelsin.com.tr
 siparisgunlerim.online
 siparisguvende.com
 siparisguvenli.com
+siparisguvenli.online
 siparishazir.click
 siparishizli-ver.com
 siparishizliolsut.cloud
@@ -373654,6 +373688,7 @@ smdi-odemeyap-tmmuzindrimlerini-kacirma.com
 smdi-tam-vakti-geldi.com
 smdi-temmuz-lndrmlerinden-hmen-yararlan.com
 smdialsfrffzhzrde.shop
+smdihgsykleme.cfd
 smdiodehgshdiode.cfd
 smdirndvnvburda.net
 smdizmnimihgs.cfd
@@ -374166,6 +374201,7 @@ snipercilent.zapto.org
 sniperexe.ddns.net
 snipersol.com
 sniperssss.zapto.org
+snipex-iota.vercel.app
 snippet.host
 snipr.my
 snipr.page
@@ -379798,6 +379834,7 @@ sponsorlubsvru4.xyz
 sponsorlucekilis.online
 sponsorlucekilisim.online
 sponsorlucekilisin.online
+sponsorlucekilisler.online
 sponsorlucliks.cfd
 sponsorluduyuru.com
 sponsorluduyuruservisi.net
@@ -386729,6 +386766,7 @@ susesibelekhotels.com
 susexu.online
 susget.hopto.org
 sushi-bar.ddns.net
+susi.bonto.run
 susiahat24199a.ddns.net
 susigorta.gen.tr
 susigortam.com
@@ -418168,6 +418206,7 @@ urunfiyatlarindakisuprizegidenyol.cfd
 urunguvence.com.tr
 urunguvenceli.com.tr
 urunguvencesi.com.tr
+urunguvende.online
 urunguvenli-al.com
 urunguvenli-al.fun
 urunguvenli-alim.com
@@ -427158,6 +427197,8 @@ vezneciyizonline.xyz
 veznedairesi.com
 veznedairesi.net
 veznedairesi.org
+veznedarodemeislemleri.com
+veznedarvergiformu.com
 veznedolum.xyz
 veznedukkan.xyz
 veznehizmetleri.xyz
@@ -429288,6 +429329,7 @@ vohuje.info
 vohvohh.com
 voice-e091b.firebaseapp.com
 voice88.zapto.org
+voicearch.online
 voicemail-l1b.thomas-gibson-clyde-enq-com-s-account.workers.dev
 voicemailfilerecordingswav.com
 voicemesage-secure.ddns.net
@@ -459511,6 +459553,7 @@ yfvjkh.duckdns.org
 yfvkaidfcg.duckdns.org
 yfwjibrwnf.duckdns.org
 yfyatirim.com
+yfyatirimgiris.com
 yfybrnmkev.duckdns.org
 yfyqalezyn.duckdns.org
 yg.dah.icu

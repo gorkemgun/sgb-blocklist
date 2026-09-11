@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102756
-# Last change: 2026-09-11 06:04:08 UTC (sync mode: delta)
+# Records: 102777
+# Last change: 2026-09-11 11:28:26 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3921,6 +3921,7 @@ accounts-blnance.kampanyafestivali.online
 accounts-blnancekatiliminionayla1.com
 accounts-gocgle.com
 accounts-grantthornton.com
+accounts-mail-google.com
 accounts-mircrosoft-ads.online
 accounts-security-binance.net
 accounts-turkiyefinans.com
@@ -6639,6 +6640,7 @@ alterinterrogate.top
 alternateconvergence.top
 alternatecordiality.top
 alternatifbak.blogspot.com
+alternatifbank.online
 alternatifler.club
 alternatifler.online
 alternatifler.site
@@ -17733,6 +17735,7 @@ cartoonistdenounce.top
 cartoonistmilitant.top
 cartoonistparasite.top
 cartradepoint.com
+carts-tr.online
 cartsadnessa.top
 cartscope.gifts
 carveavenge.top
@@ -19345,6 +19348,7 @@ cmpns.com
 cmrtverasdhzmt.net
 cmrvtnabsvru.sytes.net
 cms.dhlsms.applogist.xyz
+cms.infomenkulyatirim.com
 cmtcuzdan.xyz
 cmyggnf.xdk8ax.cn
 cn-microsoft.com
@@ -20418,6 +20422,7 @@ compage-arrivalcheckin-29405835.com
 companionamplification.top
 companionshipverse.top
 company-certificadications.com
+company.add-passkey.com
 company.addssopasskey.com
 company.createssopasskey.com
 companya.top
@@ -27284,6 +27289,7 @@ domaindigardeniciti.com
 domaininismi.com
 domainkkmucizeleri.com
 domainkleralirim49058sm.com
+domainlify.net
 domainredpage.click
 domaintrustguard.site
 domakuskes.com
@@ -43651,6 +43657,7 @@ hoptklms.org
 hopyeniiade.net
 horferruhs.duckdns.org
 horinconspi.top
+horizon-frankfurt-pharmacology-charleston.trycloudflare.com
 horizonanalogue.top
 horizonbond.com
 horizonbrook.site
@@ -45544,6 +45551,7 @@ ile-onayli-ilan.com
 ile-onayli-ilanlar.com
 ile-onlinealisveris.com.tr
 ile-satisim.com
+ile-sepet-islemler.com.tr
 ile-sepetlerim.com.tr
 ile-simdi-siparis.com
 ile-tedarik-odeme.com
@@ -46775,6 +46783,7 @@ infolanmam.tech
 infollnes-r-us.co.uk
 infologswall.store
 infolookstorage.com
+infomenkulyatirim.com
 infomusteri.com
 infonaria.com
 infonet.sbs
@@ -52199,6 +52208,7 @@ klashaber.club
 klashabernow.club
 klashaberpro.club
 klashabertech.club
+klasmansmcs.click
 klaspatikatki1974.duckdns.org
 klasykllezmmn.net
 klavli.site
@@ -55231,6 +55241,7 @@ login.vakiftanguncelcekilisler.com
 login.whitmanlab.uk
 login.yi087011.xyz
 login.ziraatbankan-britain.com
+login10matik.shop
 loginbnnsonlinetr.com
 logincekilisacikdenizv2denizbank.co.vu
 logincontrolway.com
@@ -58964,6 +58975,8 @@ mhssrajhsyyh.icu
 mhssrrrahas.site
 mhssrrrdhas.site
 mhsssrassa.live
+mhsssrassb.live
+mhsssrassc.live
 mhsysndvuesa.site
 mht-tickets.ru
 mhtmcntmbk.online
@@ -62805,6 +62818,7 @@ nopanel-36672.top
 nopanel-440001.top
 nopanel-453465.top
 nopanel-564732.top
+nopanel-66235.top
 nopanel-723462.top
 nopanel-76255.top
 nopanel-815625.top
@@ -76106,6 +76120,7 @@ sahibinden-param.secureapplication.com.tr
 sahibinden-param.service-application.com
 sahibinden-param.siparis-alim.com
 sahibinden-param.trguvenliodeme.sa.com
+sahibinden-paramguvende-ilanitemid12218373.gt.tc
 sahibinden-paramguvende-ile-al.online-sec.com
 sahibinden-paramguvende-kurumsal.tk
 sahibinden-paramguvende-odemesi-get-sistem.com
@@ -78234,6 +78249,7 @@ selectlip.top
 selectumfamilyhotels.com
 selectumluxuries.com
 selectumluxuryresorts.com
+selectumresorts.net
 selectumresortshotels.com
 selemekeherfer.online
 selenikaome.com
@@ -78810,6 +78826,7 @@ service-intl-account.com
 service-ivaavnzw-administrator.site
 service-jlotllph-administrator.site
 service-kgvboevz-administrator.site
+service-nowinc.com
 service-nuubniti-administrator.site
 service-oiwiurpq-administrator.site
 service-pddmpgkd-administrator.site
@@ -82519,6 +82536,7 @@ sponsorlu.online
 sponsorlubsvru.xyz
 sponsorlubsvru2.xyz
 sponsorlucekilisim.online
+sponsorlucekilisler.online
 sponsorlukampanyabebosakk.com
 sponsorlukampanyacarsamakat.com
 sponsorlukampanyacumafessol.com
@@ -92898,6 +92916,7 @@ urunalim.com
 urunapp.com.tr
 urunapp.net
 urundetayi.com
+urunguvende.online
 urunguvenli-al.com
 urunhizmetleri.online
 urunid-69129.it.com
@@ -95394,6 +95413,7 @@ voguerestaurant.business.site
 vohdsniuz.com
 vohudiu.com
 voice-e091b.firebaseapp.com
+voicearch.online
 voicemail-l1b.thomas-gibson-clyde-enq-com-s-account.workers.dev
 voicemailfilerecordingswav.com
 voicesaddle.top
@@ -101259,6 +101279,7 @@ yfful.com
 yfmd.online
 yfonlineyatirim.com
 yfyatirim.com
+yfyatirimgiris.com
 yg62sc.xdk8ax.cn
 yg9e67.vip
 ygclamp.com
