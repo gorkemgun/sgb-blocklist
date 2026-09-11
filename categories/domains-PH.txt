@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102824
-# Last change: 2026-09-11 19:46:29 UTC (sync mode: delta)
+# Records: 102838
+# Last change: 2026-09-11 22:38:09 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1223,6 +1223,7 @@
 2025yeniurunler.online
 2026-hep-beraber-sahlaniyoruz-sayesinde.sbs
 2026aldinaldinsepette.org
+2026dansizlere.duckdns.org
 2026evfirsati.sbs
 2026ilkevim.com.tr
 2026konutbasvurum.sbs
@@ -3314,6 +3315,7 @@ a101.xn--ramazanfrsat-84b.com
 a101.xn--yildizli-rnler-osbb.com.tr
 a101.xsdrmlrmxz.online
 a101.yilbasi-firsat.com.tr
+a1011.frstlarbrdsmgs.store
 a10111kampanyalarimcomm.com
 a10111x-indirimm.com
 a1011firsata-ldinxyz101.store
@@ -27832,6 +27834,7 @@ dsiuhfraosd.click
 dskflkaksldklcasx123x12.cfd
 dski33destroy.top
 dslsvdvtl-svvt.com
+dsmdkwdw.sbs
 dsmdwnqkdw.sbs
 dsni33ffonline.top
 dsor33tasset.top
@@ -34840,6 +34843,7 @@ folmeriato.top
 fomationlaborate.top
 fomebyi.com
 fomeni.com
+fomesnetlerkest.duckdns.org
 fomsy-yolhizmetleri.com
 fonborsasi.org
 foncarkiralama.com
@@ -38557,6 +38561,7 @@ gratis.paperbacksins.com
 gratis.servehumour.com
 gratis.simplysweetcakesoc.com
 gratis.teknodeno.com.tr
+gratis.terminuscs.com
 gratis.twinslist.com
 gratis.v6.army
 gratiscagrimerkezii.com.tr
@@ -41104,6 +41109,7 @@ hayspecialty.top
 hayvanasiddetlerrolmasin.net
 hayvanaslddetehayir.com
 hayvanat.xyz
+hazallisubesindeyz.duckdns.org
 hazaltefsdgh.great-site.net
 hazanbilgi.info
 hazardexposition.top
@@ -55052,6 +55058,7 @@ lndirimtakpctt.com
 lndirimtakptt.com
 lndirimttakpctst.com
 lndlirmli1-o-1ler.com
+lndlrllmkaplndaa.com
 lndlrlm-haftasl-odeme-online.com.tr
 lndlrlm-kasim-ayi-ozel.com
 lndlrlm-merkezi.com.tr
@@ -57094,6 +57101,7 @@ mansionbelow.top
 mansiongenius.top
 mansionmok.top
 mansiontrue.top
+mansndksnskwlwkdnd.org
 manstrailskicm.wixsite.com
 mantangle.top
 mantardunyasiczxx.duckdns.org
@@ -59640,6 +59648,7 @@ mobil-haber.club
 mobil-iadebasvurularim-aidatgovtr.net
 mobil-iadembilgilerimonlinebasvurular.com
 mobil-indirim-market.online
+mobil-indirimleri.online
 mobil-jet-hizmet.online
 mobil-koinim.com
 mobil-limit.online
@@ -72536,6 +72545,7 @@ quizzical-ellis.103-252-91-241.plesk.page
 quizzical-shannon.18-194-28-28.plesk.page
 quizzical-shockley.20-51-223-248.plesk.page
 quizzlepuff.top
+qujarenu-womisaki.lol
 qujeikdax.com
 qujequa.com
 qukoointlogoonx.webflow.io
@@ -76131,6 +76141,7 @@ sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
 sahibinden-param-guvende.siparis-onayim.online
+sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.urunodeme-tr.online
@@ -77687,6 +77698,7 @@ scrcitysmon.top
 screamcensor.top
 screamwee.top
 screenicon.top
+screens-cat-hints-rangers.trycloudflare.com
 screensubscription.top
 screwallocate.top
 screwugentation.top
@@ -88165,6 +88177,7 @@ tlgrdplantwzqyy.com
 tlkcmtrktlm.net
 tlkgm.net
 tlkkkslekr.space
+tlknan.net
 tlkontoryukleme23.online
 tlltllfglyn.shop
 tlndrmkmpanyalarimm.com
@@ -102246,6 +102259,7 @@ zegypue.com
 zehir.xyz
 zehircheck.online
 zehircheck.xyz
+zekoma-rupilo.lol
 zelalver.gifts
 zelcartiq.shop
 zeldy.fun
