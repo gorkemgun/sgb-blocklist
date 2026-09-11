@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102753
-# Last change: 2026-09-11 01:09:24 UTC (sync mode: delta)
+# Records: 102756
+# Last change: 2026-09-11 06:04:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37870,6 +37870,7 @@ gnceladresweb.web.app
 gnclalsvrscrfsa.cfd
 gncledvlltaid-atiaadesii.com
 gnclgirissitesi.shop
+gnclhgsyklmelr.cfd
 gnclkatilimprbtrgirislerl.com
 gncll-mrkttxfrstlrisizllrle.net
 gncll-mrkxsfirssltrriyla.xyz
@@ -58962,6 +58963,7 @@ mhsscfsrsa6.sbs
 mhssrajhsyyh.icu
 mhssrrrahas.site
 mhssrrrdhas.site
+mhsssrassa.live
 mhsysndvuesa.site
 mht-tickets.ru
 mhtmcntmbk.online
@@ -82643,6 +82645,7 @@ sprawlmetropolitan.top
 sprawlsynthesise.top
 sprayappalling.top
 sprayexquisite.top
+spraygroundtr.com
 sprayimpart.top
 sprayoverride.top
 spreaddonate.com
