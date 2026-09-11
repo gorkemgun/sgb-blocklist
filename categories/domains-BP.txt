@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258423
-# Last change: 2026-09-11 16:32:58 UTC (sync mode: delta)
+# Records: 258448
+# Last change: 2026-09-11 19:46:29 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -10614,6 +10614,7 @@
 987498463521987512.giize.com
 987498984464984684.cfd
 9876523basvrrkmpnyaasonnnfrstlarrr.info
+9876523basvrrkmpnyaasonnnfrstlarrr.pro
 98765423456.cloud
 987654321147225.com
 9878789789775555.duckdns.org
@@ -17539,6 +17540,7 @@ agritechtix.com
 agrolumina.com
 agrostigbuzz.buzz
 agrrasgc.vercel.app
+ags-vzal.myonlineportal.ch
 agsafgggas.vercel.app
 agsbababsja-ansjls-assbsa.cfd
 agsbababsja-ansjls-assbsa.cyou
@@ -28141,6 +28143,7 @@ arzumverse.xyz
 as-aidatt-iade.ml
 as-gr-lr-tk.myonlineportal.ch
 as-k.myonlineportal.ch
+as-kler.my-homeip.de
 as-kt-lc.myonlineportal.ch
 as-pttgov.top
 as-randevu-a072e1251b5e.herokuapp.com
@@ -29849,6 +29852,7 @@ avtajlisubegiris.org
 avtakip-bildiri.info
 avtakipicra.com
 avtistnblkrtta.com
+avtu-aoly.myonlineportal.ch
 avukat-dosya-sorgula.com.tr
 avukat-dosyam.com
 avukatbildirim.info
@@ -53107,6 +53111,7 @@ bumukemmelfirsatlarkacmadanalmalisin.xyz
 bumukemmelhaziranayifirsatlarikacmaz.com.tr
 bumuludeasedere.lol
 bumutlugunlerimizde.com
+bunadegildeneyeverilecek.lol
 bunagelin.com
 bunaltici-havalarda-konforlu-mekan.com
 bunarlxbnmiyindrmlermbunlr.click
@@ -55811,6 +55816,7 @@ cark-cekilisi.com
 cark-cekilisim.info
 cark-firsatim-lucky.net
 cark-kampansinda-son-gunler.net
+cark.paribucark-surada.link
 carkbasvurum-bn-daygiris.net
 carkbasvurusunutamamlahemen.cloud
 carkbasvusu-todayfirstkmpanyasi.net
@@ -90558,6 +90564,7 @@ eyldlndnkaracnz.shop
 eylemvakfi.net
 eylemvakfi.org
 eylibby-giseotoyoletiket.is-best.net
+eylkmpykcmz.duckdns.org
 eyll-frst.site
 eylldekarcada.com
 eylldekrclrdann.com
@@ -90830,9 +90837,11 @@ eylulflrsatlarikacmiyorwsynx.com
 eylulflrsatlarimorbidwsynxleguzel.com
 eylulflrsatlarionlinex.com
 eylulflrsatlariwsynxvakko.com
+eylulflrsatlarl.com
 eylulflrsatlaronlne.com
 eylulflrsatlarrinda.com
 eylulflrsatlaryildizi.com
+eylulflrsatlmiz.com
 eylulflrsattlar.me
 eylulflrsattlarr.com
 eylulformonay.org
@@ -114275,6 +114284,7 @@ hayvdldlss.nicepage.io
 haywmasdfsa.shop
 hayyatvltada.net
 hazal-ozgur.xyz
+hazallisubesindyiz.duckdns.org
 hazarbeydernegi.com
 hazarr21212121.netlify.app
 hazartiiiiiiiiiiiiiiiiiiflahsjfliajsfljasflggggpppp.buzz
@@ -135981,6 +135991,8 @@ istanbulolmakicindogruyerdesiniz.com
 istanbulolsan.shop
 istanbulolunnu34o.org
 istanbulolurmsn.click
+istanbulombelgim.xyz
+istanbulombelgimkart.xyz
 istanbulonix.shop
 istanbulonline-jnnatuubwo.amkbilisim.sbs
 istanbulonlineyukleme.shop
@@ -166410,6 +166422,7 @@ mymagnethub.one
 mymannet.xyz
 mymn.xyz
 myne.likesyou.org
+mynearczamni.cfd
 mynemrand.b-cdn.net
 mynerndvu.cfd
 mynerndvu.com
@@ -180868,7 +180881,9 @@ paribudankampanya.com
 paribudankampanya.xyz
 paribudankapanyan2022.xyz
 paribudankatilimvakti.epizy.com
+paribudankazan.online
 paribudankazanclar.com
+paribudankazanlar.online
 paribudankolaykampanya.com
 paribudanprphediyebasvuru2022.com
 paribudanprphediyeniz2022.com
@@ -181190,6 +181205,7 @@ paribukazanclari.epizy.com
 paribukazandiriyor.com
 paribukazandiriyor.online
 paribukazanmafirsati.com
+paribukazanmakicin.online
 paribukmpanyasi.com
 paribul.cf
 paribul.click
@@ -181274,6 +181290,7 @@ paribununcekilisleri.online
 paribunundunyasi.link
 paribununhediyekampanyalari.online
 paribununhediyelicekilisleri.online
+paribununodulluyarismalari.online
 paribununsponsorlucekilisleri.online
 paribununteklifiguzel.co.vu
 paribunuz2022.net
@@ -181365,6 +181382,7 @@ paribusosyalmedyacekilisleri.xyz
 paribusponsorlu-cekilis.online
 paribusponsorlucekilis.online
 paribusponsorlucekilisi.online
+paribusponsorluhediyekampanyalari.online
 paribusponsorluhediyeler.online
 paribuss.com
 paribuss.xyz
@@ -182837,6 +182855,7 @@ penvsenna.net
 peophostx.shop
 peor.my-style.in
 pepcanocxxslorasetposa.vercel.app
+pepe.paribucark-surada.link
 pepe.synergize.co
 pepecoin.paribucekilis.biz
 pepepx00x0xw23.duckdns.org
@@ -209828,6 +209847,11 @@ sponsorkampanya.com
 sponsorkampanyasi.com
 sponsorllu-rekalamlar.com
 sponsorllukampanya.com
+sponsorlu--cekilis.online
+sponsorlu--cekilisim.online
+sponsorlu--cekilisin.online
+sponsorlu--cekilisler.online
+sponsorlu--firsat.online
 sponsorlu--tanitim.online
 sponsorlu-01.pw
 sponsorlu-01.sbs
@@ -210063,6 +210087,7 @@ sponsorlucliks.cfd
 sponsorluduyuru.com
 sponsorluduyuruservisi.net
 sponsorluekonomi.duckdns.org
+sponsorlufirsat.online
 sponsorlugiris-9519238123.com
 sponsorlugiris-994728532.com
 sponsorlugiris34320234.com

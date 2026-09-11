@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102805
-# Last change: 2026-09-11 16:32:58 UTC (sync mode: delta)
+# Records: 102824
+# Last change: 2026-09-11 19:46:29 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -839,6 +839,7 @@
 182websp.com
 182webstt.lat
 182webstt.lol
+182wepps.com
 182wepst.cfd
 182wepst.click
 1835304-coinbase.com
@@ -1449,6 +1450,8 @@
 293712.website
 293842.site
 2957337383.click
+296587onlineekmpnybsvrrprmsynn.info
+296587onlineekmpnybsvrrprmsynn.pro
 298193-coinbase.com
 299-91-21-1.ga
 29c02a5b-e.b-cdn.net
@@ -2822,6 +2825,7 @@ a-101-aylikkampanyalar.com.tr
 a-101-bireysel-extra-indirimler.online-tr-shop.site
 a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
+a-101-bugune-ozel-online-mobil-indirimler-tr.sepet-indirimleri.online
 a-101-c0n.cyou
 a-101-cepte-tr.online
 a-101-com.aldnaldnhftaninyildizlri.shop
@@ -2831,6 +2835,7 @@ a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
 a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
+a-101-extra-sadece-bugune-ozel-indirim-sepeti-mobil-tr.bilgi-tr.online
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
@@ -2857,6 +2862,7 @@ a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
 a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
+a-101-sadece-online-ozel-sepet-indirimleri-mobilde-tr.shop
 a-101-sanal.com.tr
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
 a-101-tr.com
@@ -14171,6 +14177,7 @@ blitzfuture.online
 blitzmodern.online
 blixtrader.com
 blizzairr.com
+blkntas.net
 blkplan.com
 blkviewz.com
 blkyoo.com
@@ -29850,6 +29857,7 @@ elektronik-alisveris-merkezi.com
 elektronik-alisveris.com.tr
 elektronik-alisverisim.com
 elektronik-alisverisim.com.tr
+elektronik-dolap.com
 elektronik-guvenli-alisveris.com.tr
 elektronik-hizli-alim.com.tr
 elektronik-hizmet-tr.com.tr
@@ -40140,6 +40148,7 @@ haberler12342.shop
 haberler12343.sbs
 haberler1234321.shop
 haberler12348.shop
+haberler1234813.sbs
 haberler123499.sbs
 haberler1245321.shop
 haberler1256236.shop
@@ -40204,6 +40213,7 @@ haberler6555343.shop
 haberler6723236.sbs
 haberler73421.shop
 haberler7452523.shop
+haberler78413289.sbs
 haberler78912.sbs
 haberler8.club
 haberler8.online
@@ -54976,6 +54986,7 @@ lkmanjslaqa.com
 lkmanjslaqa.mermerfatihlerimde.com
 lkmdlurumogren.com
 lkmlislemlhemen.com
+lkntansr.net
 lkrtweaas342.duckdns.org
 lksvkerdnmevkonlutkpi.com
 lkxzvu6.cn
@@ -55055,6 +55066,7 @@ lndrlm-sepete-temuz-lndrlmerii.com
 lndrm--klmaalaarr.com
 lndrm-kmpnyalarim-bradan-satinal.com
 lnftkriptoyenilenencepsube.com
+lnktab.net
 lnktanra.net
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
@@ -64129,6 +64141,7 @@ odeme-sanal-101basvuru.com
 odeme-satis.com
 odeme-sepetim.com.tr
 odeme-sistemi-online.com
+odeme-tamamla.com
 odeme-tr.online
 odeme-vergiportalii.com
 odeme-yap.com.tr
@@ -64563,6 +64576,7 @@ omegaenergy.com.np
 omegaengineering-inc.com
 omentosplenopexy.com
 omentra.site
+omerfarukgun57.xyz
 omexom-nz.com
 omio-trips.com
 omiohotels.com
@@ -64858,6 +64872,7 @@ online-edevlettm-iiadeem-sorguuv2.b-cdn.net
 online-ekran-aktarimlari.online
 online-firsat-kapisi.com.tr
 online-firsatlar-yenifirsat.online
+online-get-siparislerimiz.com
 online-giris-aldin.com
 online-giris-hizmetleri.site
 online-giris-kampanyalari.com
@@ -78703,6 +78718,7 @@ sepettehizlifirsatlar.xyz
 sepetteindirimlergel.xyz
 sepettenalishizmeti.com
 sepetteonline.click
+sepetteonline.online
 sepetteonline.site
 sepetteonline.store
 sepetteurunlertukenmedenalin.com.tr
@@ -78717,6 +78733,7 @@ sephora-careers.com
 seppeteindirimvar.com
 seppetesuperindiirimler.online
 seppett.com
+sepsslsdi.com
 septemberabbreviation.top
 septembergrope.top
 septembersmuggling.top
@@ -99603,6 +99620,7 @@ xn--bz-hep-p9af.shop
 xn--bz-hepburadayiz-7kc.shop
 xn--bz-heps-rfb.shop
 xn--bz-sadece-vpb.shop
+xn--bzbrdyzsaaaa-14b.xyz
 xn--bzburadae-vpb.shop
 xn--bzburadayik-zzb.shop
 xn--carfrsa-bz-5ub.shop
@@ -101683,6 +101701,7 @@ yolrehber.com
 yolumuz.online
 yolunyarisiplus.com
 yolweb.guru
+yomestlerkest.duckdns.org
 yonalsh.com
 yoncaankarahasereilaclamasi.site
 yoncayardim.com
