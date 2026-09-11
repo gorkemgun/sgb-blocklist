@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258408
-# Last change: 2026-09-11 11:28:26 UTC (sync mode: full)
+# Records: 258423
+# Last change: 2026-09-11 16:32:58 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2181,6 +2181,8 @@
 12155451555999899.xyz
 121586sssrdabs.xyz
 121firsatlar2313.com
+12211455441554555889890.xyz
+12211455441554555889892.xyz
 122121222222221.duckdns.org
 12234593-2353987.com
 122411-43434-33.cloud
@@ -5293,6 +5295,9 @@
 2206202411.cloud
 22102024inxlerimxlerimxdkfkfkfkf.com
 221212545412.duckdns.org
+2212221455555589989991.duckdns.org
+2212221455555589989993.duckdns.org
+2212221455555589989994.duckdns.org
 2212435486384.com
 222-1-198-1-2.com
 222-444-333-7.com
@@ -7319,6 +7324,7 @@
 41068734.net
 412121145441555445591.duckdns.org
 412121145441555445592.duckdns.org
+412121145441555445593.duckdns.org
 412142114-2025.xyz
 412221222145558999893.duckdns.org
 412221222145558999894.duckdns.org
@@ -35504,6 +35510,7 @@ baykaryatirim.online
 baykaryatirimci.com
 baykaryatirimco.com
 baykaryatirimfon.com
+baykaryatirimprogrami.com
 baykaryatrm.com
 baykaryech.com
 baykasrtech.com
@@ -106868,6 +106875,7 @@ guvendehizmet2.tk
 guvendehizmet3.tk
 guvendehizmet4.tk
 guvendehizmet5.tk
+guvendeilan.online
 guvendeilaniniz.com.tr
 guvendeileal.xyz
 guvendeileodeme.com
@@ -158011,6 +158019,7 @@ maliyeportal.org
 maliyeportaldosya.com
 maliyeportaluyap.com
 maliyerandevu.com
+maliyerandevusistemi.com
 maliyesicil.net
 maliyesicil.org
 maliyesorgu.com
@@ -166101,6 +166110,7 @@ muynamhkfknsd.net
 muynlylrarcdtyysrg.ru.com
 muyuenerji.com
 muzebasvuru-islem.online
+muzebilgilendirmesi.com
 muzeburasi.com
 muzeburda.com
 muzekartbasvur.online
@@ -204929,6 +204939,7 @@ siparis-get-onay.com
 siparis-guvende.online
 siparis-guvenli-ver.click
 siparis-guvenli.com
+siparis-guvenli.online
 siparis-guvenliodeme.com
 siparis-hizliodeme.com
 siparis-hizlisatinal.com
@@ -223772,9 +223783,11 @@ trmagazafirsat.net.tr
 trmagazafirsat.org.tr
 trmaliceza.org
 trmaliye.org
+trmaliyebirim.net
 trmaliyeceza.org
 trmaliyedosya.com
 trmaliyehazine.org
+trmaliyekurum.org
 trmaliyeportal.com
 trmaliyetc.org
 trmalmiadmx1.net
@@ -250079,6 +250092,7 @@ yardimerkezi.gq
 yardimerkezzi.gq
 yardimetseytanigecelim.shop
 yardimeviim.ga
+yardimevim.org
 yardimfeneri.com
 yardimfonum.com
 yardimgov.org
@@ -253593,6 +253607,7 @@ yklemezmrykle.net
 yklemgsdr.cfd
 ykllkampaniya.net
 yklllemzrmkrtt.net
+yklmlersnhzla.cfd
 yklms-brd.mooo.com
 yklsbrderererererer.cfd
 yklsnss.net

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102777
-# Last change: 2026-09-11 11:28:26 UTC (sync mode: full)
+# Records: 102805
+# Last change: 2026-09-11 16:32:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -410,6 +410,7 @@
 12154455541565565690.duckdns.org
 121690.duckdns.org
 1218913778.duckdns.org
+12211455441554555889891.xyz
 122562652500.xyz
 122562656334.info
 122562656478.info
@@ -6553,6 +6554,7 @@ alocagrimerkezi.com
 alocationrual.top
 aloecomasionate.top
 aloftagony.top
+alomenstkerest.duckdns.org
 alonebus.top
 alonedespise.top
 alongenvirons.com
@@ -8666,6 +8668,7 @@ arxcrxdnvusu.net
 arxcsrxndevum.net
 arxsactvvmuaynene.net
 arxsdmuynesrvlerinex.net
+arzssrtwt.com
 arzumbaharindirimi.com.tr
 arzumindirimww.duckdns.org
 arzummaknneindrm.com
@@ -10001,6 +10004,7 @@ avscehwvsvanasb.org
 avsfilo.online
 avsfilocar.org
 avsfilokurumsal.com
+avsfilorent.com
 avsfilorental.com
 avsglobalkiralama.xyz
 avskampanya.acente1.com.tr
@@ -24604,6 +24608,7 @@ delegateprey.top
 delegationdecree.top
 delegationinurate.top
 delegationrash.top
+delel.org
 delend.fanclub.rocks
 deleteaccessory.top
 deletearistocrat.top
@@ -30852,6 +30857,7 @@ envercicek.com
 envhger.tech
 envicrsmblar.app
 enviirandevu.org
+envilerdesin.online
 enviodpeme.net
 enviranddevu.org
 environmentalcorrode.top
@@ -34101,6 +34107,7 @@ firsatgeldi.net
 firsatgemisidenizile.xyz
 firsatgibifirsat.online
 firsatgoodtodaycamping.net
+firsatgratis.ooguy.com
 firsatgunlerimiz.com.tr
 firsatgunlerithespy.net
 firsatgunumkapanyam-1o1.com
@@ -34365,6 +34372,7 @@ fishsnake.top
 fisio1-enim32.sbs
 fisio6-voluptatem46.sbs
 fisio8-molestiae30.sbs
+fisios1-voluptate46.sbs
 fiskos.click
 fislkukevni.net
 fissarartabufisrat.xyz
@@ -44188,6 +44196,7 @@ hukulugude-redesee.lol
 hukumdardragon.unaux.com
 hukumsuz.de
 huligili-gulederase.lol
+hulihpo-desedu.lol
 huliop.shop
 hullabaloo.cfd
 hulogmulog.site
@@ -44483,6 +44492,8 @@ hzlitahsilat.com
 hzlitr2fk22.dev
 hzlitrfk22.dev
 hzlivegvnlicebzlesin.net
+hzliyklmednsnrhgs.cfd
+hzliyklmehgs.cfd
 hzllltyry.great-site.net
 hzlmskernff.space
 hzlnhmnislmlr.com
@@ -48208,6 +48219,7 @@ istanbulbelgimkartttcann.xyz
 istanbulbelgimm.xyz
 istanbulbelgimmkarttt.xyz
 istanbulbelgimrandevutr.xyz
+istanbulbelgimrandevutrkart.xyz
 istanbulbellgiimmm.xyz
 istanbulbelrlgim.xyz
 istanbulbenim3434.xyz
@@ -52657,6 +52669,7 @@ kocfilosu.com
 kocfinanssecimtestiozelsecimprogrami.click
 kochold.eu
 kocholdin.eu
+kocholding.group
 kocholding.serveftp.com
 kocholding.space
 kocholdingbasvur.online
@@ -55026,6 +55039,7 @@ lndirimtakiptett.com
 lndirimtakpctst.com
 lndirimtakpctt.com
 lndirimtakptt.com
+lndirimttakpctst.com
 lndlirmli1-o-1ler.com
 lndlrlm-haftasl-odeme-online.com.tr
 lndlrlm-kasim-ayi-ozel.com
@@ -58952,6 +58966,7 @@ mhrzsrndwoo.net
 mhsaraktiv.uk
 mhsdfbavbsd.art
 mhsdfbcxvbsd.art
+mhsdgsd.art
 mhsdhfxbvcb.art
 mhshemen.uk
 mhskastogreen.uk
@@ -58977,6 +58992,7 @@ mhssrrrdhas.site
 mhsssrassa.live
 mhsssrassb.live
 mhsssrassc.live
+mhsssrassd.live
 mhsysndvuesa.site
 mht-tickets.ru
 mhtmcntmbk.online
@@ -63392,6 +63408,7 @@ nvidsnau.net
 nviefodnvm.net
 nvigncelc.b-cdn.net
 nvigorunum.net
+nviilerrndevusu.org
 nviirandevun.com
 nviirnndevullarii.net
 nviismm.com
@@ -71245,6 +71262,7 @@ pttavm.ilanda-sepetim-1097.com
 pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
 pttavm.ile-alisverislerini-tamamlama.com
+pttavm.ile-guvenli-web-tr.com
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ileodeme-formu.com
@@ -72540,6 +72558,7 @@ qwenytuntyuner.click
 qweqkasxsdqwe.net
 qweqweqweasdasda.net
 qweqwer.com
+qwertyuiopa.pro
 qwlandmerxa.online
 qwoafyhhxx1.net
 qwodxz.top
@@ -75932,6 +75951,7 @@ sahibinden-get-para.com
 sahibinden-get-param-guvende.bireysel-hizmeti-s.com
 sahibinden-get-param-guvende.bireysel-hizmetleri-s.com
 sahibinden-get-paramguvende.xyz
+sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.com.de
 sahibinden-get.dijital-mobil-hizmet.online
 sahibinden-get.ealimmobil.com
@@ -75971,6 +75991,7 @@ sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
 sahibinden-get.servisinguvenli-25.sbs
+sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.servislerjethizmetler.online
 sahibinden-get.sipariis.com.tr
@@ -75996,6 +76017,7 @@ sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-web-islemler.online
+sahibinden-getilan.tr-webislemler-tr-alisveris.online
 sahibinden-gets-alisveris.online-bireysel-hizmetlerimiz.com
 sahibinden-guvende-pay.com.ru
 sahibinden-guvende.alim-sepetim.online
@@ -80352,6 +80374,7 @@ siparis-pttavm.com.tr
 siparis-sorgu.com.tr
 siparis-tamamla.com.tr
 siparis-ticaretleri.com
+siparis-tr.online
 siparis-ver.com.tr
 siparis.carsambatemmuzsu.com
 siparis.onlinebebek.site
@@ -88017,6 +88040,7 @@ titanc5.net
 titanic2026.cyou
 titanixo.com
 titansorgu.com
+titlevoy.com
 tiuorkkiyae.online
 tivibu.internet-kampanyasec.info
 tivibu.internet-kampanyasi.info
@@ -92201,6 +92225,7 @@ ubyul.help
 ubznbz.top
 ucakbiletetstur.com
 ucanakacana.cfd
+ucarim-mesela.sbs
 ucbeskazaniyorumamayetmiyor.click
 ucbinaltmisyedi.art
 ucgunicindeal.info
@@ -95509,6 +95534,7 @@ vonxnews.com
 voodoomagician.com
 vopi8pvy8.storage.googleapis.com
 voralixx.com
+vorfy.org
 vorneti.com
 vortex-cloudgaming.com
 vortexal4.sbs
@@ -101814,6 +101840,7 @@ yugosadgsagdgasd92sadh23s.click
 yuhiguhajusi.store
 yuk6le.blogspot.com
 yukac.online
+yukafilorent.com
 yukeshapi.neocities.org
 yukifabrikasatis.com
 yukionlinesatis.com
@@ -101924,6 +101951,7 @@ yuruyeyuruyeal.xyz
 yusignal.com
 yusuf12carental.xyz
 yusufbutik.tech
+yusuflusubesibb.duckdns.org
 yusufmedya.xyz
 yusufsepet.com
 yutnertbwervw.click
