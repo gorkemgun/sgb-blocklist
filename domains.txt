@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469748
-# Last change: 2026-09-12 19:26:22 UTC (sync mode: delta)
+# Records: 469755
+# Last change: 2026-09-12 22:21:25 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10296,6 +10296,7 @@
 274267.cloud
 2743.cloud
 27478900120127.duckdns.org
+27478900120127.webredirect.org
 27478900203.duckdns.org
 2750623.cloud
 2752773.ddns.net
@@ -51618,6 +51619,7 @@ art-gallery-128.webflow.io
 art-midjourney.art
 art-midjourney.org
 art-rhyme.click
+art-rol.myonlineportal.ch
 art.yfieldrainasch.com
 art12sec.ga
 art23546.xyz
@@ -60894,6 +60896,7 @@ baskasiyalan.online
 baskayerbaskazaman.my
 baskayerbaskazaman.sbs
 baskayerdeyok.site
+baskenslfmds.click
 baskentgecisyukle.sg-host.com
 baskentlira.sg-host.com
 baskentmenkulyatirim.com
@@ -192971,6 +192974,7 @@ haberler.today
 haberler.win
 haberler103342.shop
 haberler112233.shop
+haberler11237489.sbs
 haberler11278945.shop
 haberler122746.sbs
 haberler123.shop
@@ -281446,6 +281450,7 @@ mhsn-randevu.blogspot.com
 mhsn.edu.bd
 mhsr-randvu.net
 mhsr2.ddns.net
+mhsraaggwa.cfd
 mhsraaggwa.rest
 mhsraaggwa.sbs
 mhsraaggwa.site
@@ -358599,6 +358604,7 @@ sapostkn.top
 sapostml.top
 sapostmn.top
 sapostpf.top
+sappada.maisonboutique.it
 sapphire222.com
 sapphirebloom.site
 sapphireepiphany.org
@@ -443464,6 +443470,7 @@ www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
+www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de

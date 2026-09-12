@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102872
-# Last change: 2026-09-12 19:26:22 UTC (sync mode: delta)
+# Records: 102879
+# Last change: 2026-09-12 22:21:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1422,6 +1422,7 @@
 272313219152.click
 2738428932482824.com
 27478900120127.duckdns.org
+27478900120127.webredirect.org
 275321312375352.click
 27699-coinbase.com
 278-1-7-15-2.com
@@ -8612,6 +8613,7 @@ arstvt.qpon
 arsuotokiralama.com
 art-gallery-128.webflow.io
 art-rhyme.click
+art-rol.myonlineportal.ch
 artafana.click
 artandamber.com
 artbook.sbs
@@ -10954,6 +10956,7 @@ baskabirkampanyafirsatibance.tech
 baskadigi.digital
 baskarzunuz.com
 baskayerdeyok.site
+baskenslfmds.click
 basket-khimki.ru
 basketandmore.shop
 basketballallocate.top
@@ -40164,6 +40167,7 @@ haberler.dyndns.tv
 haberler.sizde.com.akbadonerd.click
 haberler.today
 haberler112233.shop
+haberler11237489.sbs
 haberler11278945.shop
 haberler123143.sbs
 haberler12342.shop
@@ -59015,6 +59019,7 @@ mhshemen.uk
 mhskastogreen.uk
 mhsksrsnrndsv.com
 mhsr-randvu.net
+mhsraaggwa.cfd
 mhsraaggwa.rest
 mhsraaggwa.sbs
 mhsraaggwa.site
@@ -77323,6 +77328,7 @@ sapancarosebungalov.net
 sapaos.shop
 sapdfsaodfsadl.online
 sapmleregsrlvaton-clonf.com
+sappada.maisonboutique.it
 sapphirebloom.site
 sapphireeskeysolutions.com
 sapport-trrzorlgin.webflow.io
@@ -99031,6 +99037,7 @@ www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
+www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
