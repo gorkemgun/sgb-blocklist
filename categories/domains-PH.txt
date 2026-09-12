@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102859
-# Last change: 2026-09-12 17:14:10 UTC (sync mode: delta)
+# Records: 102872
+# Last change: 2026-09-12 19:26:22 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1421,6 +1421,7 @@
 2718926529.cloud
 272313219152.click
 2738428932482824.com
+27478900120127.duckdns.org
 275321312375352.click
 27699-coinbase.com
 278-1-7-15-2.com
@@ -6062,6 +6063,7 @@ alcanoisleryolunda.net
 alcoholfreegin.de
 alcoholnutrient.top
 alcup.sbs
+ald-logr-lt.myonlineportal.ch
 aldatbasvuruekrani2024.rf.gd
 aldattsorguuuekranii.com
 alderdasdewas.duckdns.org
@@ -11024,6 +11026,7 @@ basvruncepte-garanti.duckdns.org
 basvrunuz-dvettgirsleri.com
 basvrutr-dcvvltgirisi.org
 basvrutrbnnrce.online
+basvruukmpnyasibkreidvi.pro
 basvryardm.online
 basvtogapplwaysbn.net
 basvu-r-tok-gov-basvur-dev.com
@@ -13815,6 +13818,7 @@ bizim-kampanyalarimiz-bu-senede-asla-bitmeyecek.shop
 bizimaktuel.com
 bizimbilgi.info
 bizimburalargzl.click
+bizimgencleryilmazyilmaz.duckdns.org
 bizimhaber.club
 bizimhaber.site
 bizimicinoldu.sbs
@@ -33473,6 +33477,7 @@ feverishjeopardise.top
 feversegregation.top
 fevertwitch.com
 fewtruly.online
+feww3534ft19vs324s127cd.cfd
 fexal.cfd
 fexanas.com
 fexpres.lol
@@ -37293,6 +37298,7 @@ gidaafirsatlari.com
 gidalari-kacirmaa.shop
 gidalzamani.com
 gidapazarzamani.com
+gidayenifirsatindirimler.com
 gidelimberabergaaraantiiye.org
 gidelimberabergaaraantiiyee.net
 gidelimdoslar.net
@@ -40166,6 +40172,7 @@ haberler1234321.shop
 haberler12348.shop
 haberler1234813.sbs
 haberler123499.sbs
+haberler1235634122.sbs
 haberler1245321.shop
 haberler1256236.shop
 haberler1278945.shop
@@ -52448,6 +52455,7 @@ kmpanyalar1o1frstlarkapinda.shop
 kmpanyalarimizdavarsn.com
 kmpanyalarnzburdaa.com
 kmpanyasa.dnsup.net
+kmphyaabprmsynnbsvrrsonfrlati.online
 kmpnnnyaabsvrrsnnnfrsltar.info
 kmpnnnyaabsvrrsnnnfrsltar.pro
 kmpnnya-aldn-aldn-frssatlar.com
@@ -59007,6 +59015,8 @@ mhshemen.uk
 mhskastogreen.uk
 mhsksrsnrndsv.com
 mhsr-randvu.net
+mhsraaggwa.rest
+mhsraaggwa.sbs
 mhsraaggwa.site
 mhsraaggwb.site
 mhsraaggwd.site
@@ -81703,6 +81713,7 @@ sonfirsatocakkampny.icu
 sonfirst-hetxmn-aldin-aldin.shop
 sonfirsta1o1desonlndirimler.blogspot.com
 sonfristlarburda101.store
+sonfrlasaltikmpnyasirfvsavr.info
 sonfrouz.com
 sonfrsatlar-burada.com
 sonfrsatlar.sbs
@@ -94123,6 +94134,7 @@ vaybetekbasina.lat
 vaydunyavay.sbs
 vayoro4632-43011-0-mdn.pages.dev
 vayro.cyou
+vaysizinbenasdsda.duckdns.org
 vaystilgiyimxxl.duckdns.org
 vaz061.site
 vazbcnvcabncvanb.net
@@ -101734,6 +101746,7 @@ yolmator.pro
 yolrehber.com
 yolumuz.online
 yolunyarisiplus.com
+yoluyok.duckdns.org
 yolweb.guru
 yomestlerkest.duckdns.org
 yonalsh.com
