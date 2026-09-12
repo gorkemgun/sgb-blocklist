@@ -2078,6 +2078,7 @@
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-online-sepette-indirim-tr.web-buy.online
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
+101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
@@ -3861,6 +3862,7 @@
 12211455441554555889890.xyz
 12211455441554555889891.xyz
 12211455441554555889892.xyz
+12211455441554555889894.xyz
 122121222222221.duckdns.org
 12234593-2353987.com
 122411-43434-33.cloud
@@ -7653,6 +7655,7 @@
 20-125-61-179.plesk.page
 20-243-137-189.plesk.page
 20-26-flrsalrini-kcirma.sbs
+20-26-flrsalrini-kcirma.site
 20-42-95-49.plesk.page
 20-55-64-103.plesk.page
 20-90-176-48.plesk.page
@@ -15860,6 +15863,7 @@
 543534674326.life
 543535345001.cloud
 543543534.duckdns.org
+543543534534.sbs
 54354354343.cloud
 54354982138943214000.net
 5435934934.cloud
@@ -55505,6 +55509,7 @@ avis-oto-kirallama.com
 avis-otokira-tr.com
 avis-otokirala-tr.com
 avis-otokirala.com
+avis-otokiralama.com
 avis-otokiralama.com.tr
 avis-r.com.tr
 avis-rent-tailwind-bua9ritgs-ekremufacik.vercel.app
@@ -88636,6 +88641,7 @@ bsvrrkmnpnyaa.click
 bsvrrkmonyaaprmsnyn.art
 bsvrrkmonyaaprmsnyn.info
 bsvrrkmonyaaprmsnyn.pro
+bsvrrkmpaanyy.click
 bsvrrkmpnsnnfrstlarr150432.online
 bsvrrkmpnsnnfrstlarr150432.pro
 bsvrrkmpnyaaaa.info
@@ -217488,6 +217494,7 @@ hzlivegvnlicebzlesin.net
 hzlivegvnlicebzmlesin.net
 hzliyklmednsnrhgs.cfd
 hzliyklmehgs.cfd
+hzliyklmenktsi.cfd
 hzlkr-donay.com
 hzlkrarvrnkmnpykcaryklayn.com
 hzllaabzlzlle.org
@@ -226463,6 +226470,7 @@ indrimsinliursnlerii.com
 indrimsuperkampania.com
 indrisimlerinsikacirma.shop
 indrismicenaleri.store
+indrismteklfsdnfdv.com
 indrkahve.cfd
 indrm-pzar-haftasi-101.com
 indrmadresi1o1.shop
@@ -333961,6 +333969,7 @@ pttavm.ile-ilanlar.com
 pttavm.ile-internetten-alisveris.com
 pttavm.ile-magazan.com
 pttavm.ile-merkezi-odeme.com
+pttavm.ile-onay-sepete.net.tr
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ile-sepette-islem.com.tr
@@ -395260,6 +395269,7 @@ temps.hopto.org
 tempsforinstagram.ml
 temptexposition.top
 temptransfer.live
+tempurl.host
 temrirdd.com
 temsa7a7a.zapto.org
 temsilci2022prb-bx-giris.com
@@ -407402,6 +407412,7 @@ trmaliyebirim.net
 trmaliyeceza.org
 trmaliyedosya.com
 trmaliyehazine.org
+trmaliyekurum.net
 trmaliyekurum.org
 trmaliyeportal.com
 trmaliyetc.org
@@ -415661,6 +415672,7 @@ ucuzpati.com
 ucuzplastk.tk
 ucuzsahikegm.net
 ucuzsepetim.xyz
+ucuzshop.online
 ucuzsigortacilik.com.tr
 ucuzsigortalar.site
 ucuzsigortayap.com.tr

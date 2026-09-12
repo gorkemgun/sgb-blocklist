@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102842
-# Last change: 2026-09-12 05:52:43 UTC (sync mode: delta)
+# Records: 102849
+# Last change: 2026-09-12 10:53:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -204,6 +204,7 @@
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
+101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
@@ -411,6 +412,7 @@
 121690.duckdns.org
 1218913778.duckdns.org
 12211455441554555889891.xyz
+12211455441554555889894.xyz
 122562652500.xyz
 122562656334.info
 122562656478.info
@@ -1089,6 +1091,7 @@
 20-125-61-179.plesk.page
 20-243-137-189.plesk.page
 20-26-flrsalrini-kcirma.sbs
+20-26-flrsalrini-kcirma.site
 20-42-95-49.plesk.page
 20-55-64-103.plesk.page
 20-90-176-48.plesk.page
@@ -15844,6 +15847,7 @@ bsvrmkggm.site
 bsvrmkggn.site
 bsvrmkggr.site
 bsvrrfrstlarrmerkziiprmsynn.art
+bsvrrkmpaanyy.click
 bsvrrkmpnsnnfrstlarr150432.pro
 bsvrrlrrm.digital
 bsvrrprsmynngrntt.sa.com
@@ -44513,6 +44517,7 @@ hzlitrfk22.dev
 hzlivegvnlicebzlesin.net
 hzliyklmednsnrhgs.cfd
 hzliyklmehgs.cfd
+hzliyklmenktsi.cfd
 hzllltyry.great-site.net
 hzlmskernff.space
 hzlnhmnislmlr.com
@@ -46660,6 +46665,7 @@ indrimin-adresi.sbs
 indrimler2023kasm.online
 indrimlerikis2024.online
 indrimpaylasmlink.sbs
+indrismteklfsdnfdv.com
 indrkahve.cfd
 indrmler-tikla-stn-al.shop
 indrmlerikacrmaa1o1de.duckdns.org
@@ -87186,6 +87192,7 @@ temporarilyvolatile.top
 temporaryd.top
 temporarygroup.top
 temptexposition.top
+tempurl.host
 temsilci2022prb-bx-giris.com
 temsilvakfi.com
 temsilvakfi.org
