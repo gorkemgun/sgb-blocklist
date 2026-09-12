@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102849
-# Last change: 2026-09-12 10:53:03 UTC (sync mode: delta)
+# Records: 102855
+# Last change: 2026-09-12 14:11:29 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8344,6 +8344,7 @@ arcmamsak.net
 arcmarcmyasdnamsx.net
 arcmtrmmsae.com
 arcmtynerndevumrksrv.net
+arcmuaynerrandevudcs.com
 arcmynaexsi.net
 arcmynxslmlermr.net
 arcnmuaayn.store
@@ -40033,6 +40034,7 @@ haber156.club
 haber156.online
 haber156.site
 haber156.website
+haber165498.sbs
 haber2026.doordk.com
 haber24.club
 haber24.website
@@ -40210,6 +40212,7 @@ haberler3552323.shop
 haberler421352.shop
 haberler4215434.sbs
 haberler4422424.shop
+haberler45171154.sbs
 haberler452344.sbs
 haberler4561.sbs
 haberler4675874.sbs
@@ -57110,6 +57113,7 @@ mansionbelow.top
 mansiongenius.top
 mansionmok.top
 mansiontrue.top
+mansndksmsnskzkskek.org
 mansndksnskwlwkdnd.org
 manstrailskicm.wixsite.com
 mantangle.top
@@ -60489,6 +60493,7 @@ mrfvdu.top
 mrgatescoins.info
 mrgatesgive.com
 mrgncrk.org.tr
+mrhlrsmsmcm.com
 mrhrlsmxlm.com
 mrhs-aps.online
 mrhs182rvd.click
@@ -91966,6 +91971,7 @@ tvtrkkyklemmezsa.net
 tvtrklegothems.net
 tvtrkmrndvu.net
 tvtrkmtv.net
+tvtrkrnvdmlrm.com
 tvtrksals.xyz
 tvtrksalyal.xyz
 tvtrksc.click
