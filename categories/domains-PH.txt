@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102855
-# Last change: 2026-09-12 14:11:29 UTC (sync mode: full)
+# Records: 102859
+# Last change: 2026-09-12 17:14:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18250,6 +18250,7 @@ ceptesubemdenizgemisi.xyz
 cepteteb-com-tr.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
+cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
 cepteteb-tr-3yil-ozel.com
 ceptetebden.my-homeip.de
@@ -39627,6 +39628,7 @@ guvenlisatisahibinden.com
 guvenlisayfa.online
 guvenlisepet.info.tr
 guvenlisepetalisverisi.com
+guvenlisepetim.site
 guvenliservis.com.tr
 guvenliservisler.com.tr
 guvenlisigorta.b-cdn.net
@@ -75446,6 +75448,7 @@ rwrid.id
 rwtfoa-hpl.cloud
 rwwkqrl.xyz
 rwxv01sd23.duckdns.org
+rx534ft19vs324s127cd.cfd
 rxfndevu.org
 rxndevuhizmetim.net
 rxupja.cn
@@ -88357,6 +88360,7 @@ todayverse.online
 toddlerchronic.top
 todeskcn.com
 toduhu.info
+toegleon.com
 toehome.click
 toekibassvur.vercel.app
 toepasser-by.top
