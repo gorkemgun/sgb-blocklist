@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258460
-# Last change: 2026-09-11 22:38:09 UTC (sync mode: delta)
+# Records: 258468
+# Last change: 2026-09-12 05:52:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2332,6 +2332,7 @@
 125415554558998991.duckdns.org
 125453365525sd.com
 1254598989899890.duckdns.org
+1254598989899898.duckdns.org
 125532415324324.com
 1255415551255655880.xyz
 1255415551255655881.xyz
@@ -11185,6 +11186,7 @@ a-haberlerim.online
 a-haberleriniz.com
 a-hberim-edevlet.com
 a-hemen-kapida.duckdns.org
+a-hymo.myonlineportal.ch
 a-i-daatiadem.store
 a-i1o1.shop
 a-idat-iade-et-talep.tk
@@ -24567,6 +24569,7 @@ alisverisegeliyoruz.com.tr
 alisverisehemenbasla.com
 alisveriseozelfirsatlar.xyz
 alisverisepet.online
+alisverisepetin-12.sbs
 alisverisfirsatlaredmialimiburadan.sbs
 alisverisfirsatlari.duckdns.org
 alisverisfirsatlari.online
@@ -43866,6 +43869,7 @@ bireysel-giris.site
 bireysel-guvenli-alisveris.com
 bireysel-guvenli-ilan.com
 bireysel-guvenli-odeme-com.tk
+bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-guvenli-siparis-ver.online
 bireysel-halk-bank-giris.com
 bireysel-halk-subem.com
@@ -90847,6 +90851,7 @@ eylulflrsatlmiz.com
 eylulflrsattlar.me
 eylulflrsattlarr.com
 eylulformonay.org
+eylulfrstgnleri.duckdns.org
 eylulgirismobil.top
 eylulhediyekampanyasi.com
 eylulhediyen.cfd
@@ -150217,6 +150222,7 @@ kmpnyasnbfrfskataa64885.online
 kmpnyatbe.com
 kmpnybrd.com
 kmpnybsvrrrprsmynn15329.info
+kmpnyeylulsn.duckdns.org
 kmpnyhmn1o1den.org
 kmpnyhmnbrd1o1.com
 kmpnyhmnbrd1o1.info
@@ -152434,6 +152440,7 @@ krediiade-eiade.com
 krediiadelerigov.org
 krediiademerkezigov.com
 krediibasvurusu.online
+krediibsvrrrkmnpyyyprmsnnn.pro
 krediidepartmanim.click
 krediiibsvrrkmpnyaafrsatlarii.info
 krediiibsvrrkmpnyaafrsatlarii.life
@@ -152703,6 +152710,7 @@ kredinhesabinda.com
 kredinhesabinda.sbs
 kredinibizdenal.com
 kredinihesabagecirr.cloud
+krediniz-hazir-online.cloud
 kredinizaninda.cfd
 kredinizbizden.ml
 kredinizburada.net

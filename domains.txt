@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469700
-# Last change: 2026-09-12 01:10:53 UTC (sync mode: delta)
+# Records: 469710
+# Last change: 2026-09-12 05:52:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4136,6 +4136,7 @@
 1254598989899890.duckdns.org
 1254598989899893.duckdns.org
 1254598989899894.duckdns.org
+1254598989899898.duckdns.org
 125532415324324.com
 1255415551255655880.xyz
 1255415551255655881.xyz
@@ -23270,6 +23271,7 @@ a-haberlerim.online
 a-haberleriniz.com
 a-hberim-edevlet.com
 a-hemen-kapida.duckdns.org
+a-hymo.myonlineportal.ch
 a-i-daatiadem.store
 a-i101.com
 a-i1o1.shop
@@ -23360,6 +23362,7 @@ a-pttgov.top
 a-rabamuayne.org
 a-rcmuyaneservcinezv.net
 a-rdwswag.app
+a-ri-l.myonlineportal.ch
 a-right-look-mr.myonlineportal.ch
 a-rs-m.myonlineportal.ch
 a-s-b-c.myonlineportal.ch
@@ -43437,6 +43440,7 @@ alisverisegeliyoruz.com.tr
 alisverisehemenbasla.com
 alisveriseozelfirsatlar.xyz
 alisverisepet.online
+alisverisepetin-12.sbs
 alisverisfirsatlaredmialimiburadan.sbs
 alisverisfirsatlari.click
 alisverisfirsatlari.duckdns.org
@@ -76411,6 +76415,7 @@ bireysel-giris.site
 bireysel-guvenli-alisveris.com
 bireysel-guvenli-ilan.com
 bireysel-guvenli-odeme-com.tk
+bireysel-guvenli-siparis-onay-sistemi-guncel.online
 bireysel-guvenli-siparis-ver.online
 bireysel-halk-bank-giris.com
 bireysel-halk-subem.com
@@ -159957,6 +159962,7 @@ eylulflrsatlmiz.com
 eylulflrsattlar.me
 eylulflrsattlarr.com
 eylulformonay.org
+eylulfrstgnleri.duckdns.org
 eylulgirismobil.top
 eylulgnlerindeyizbizlere.duckdns.org
 eylulgunlerinb.gleeze.com
@@ -257687,6 +257693,7 @@ kmpnybrd.com
 kmpnybsvrrrprsmynn15329.info
 kmpnybsvrrrprsmynn15329.pro
 kmpnyeylulfirst.duckdns.org
+kmpnyeylulsn.duckdns.org
 kmpnyhmn1o1den.org
 kmpnyhmnbrd1o1.com
 kmpnyhmnbrd1o1.info
@@ -261061,6 +261068,7 @@ krediiadelerigov.org
 krediiademerkezigov.com
 krediibasvurusu.online
 krediibsvrrrkmnpyyyprmsnnn.info
+krediibsvrrrkmnpyyyprmsnnn.pro
 krediidepartmanim.click
 krediiibsvrrkmpnyaafrsatlarii.info
 krediiibsvrrkmpnyaafrsatlarii.life
@@ -261358,6 +261366,7 @@ kredinhesabinda.sbs
 kredini-al.harcakazankampanya.com.tr
 kredinibizdenal.com
 kredinihesabagecirr.cloud
+krediniz-hazir-online.cloud
 krediniz-kuveytten201.net
 kredinizaninda.cfd
 kredinizbizden.ml
@@ -292611,6 +292620,7 @@ myhani31.duckdns.org
 myhapperflowers.com
 myhappyhaber.site
 myhastpanal.hopto.org
+myheabmkatlsende58.info
 myhellhost.ddns.net
 myhelpcare.cc
 myhelpcare.online

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102840
-# Last change: 2026-09-12 01:10:53 UTC (sync mode: delta)
+# Records: 102842
+# Last change: 2026-09-12 05:52:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2950,6 +2950,7 @@ a-marktzincrm.xyz
 a-net.com.tr
 a-online-alisveris.sa.com
 a-plakaliborctakibi.info
+a-ri-l.myonlineportal.ch
 a-right-look-mr.myonlineportal.ch
 a-v-m-p-t-t.xyz
 a-visfilo.com.tr
@@ -61155,6 +61156,7 @@ myglobaldocument.com
 mygood-2go.com
 mygrntisrvrwebsite.site
 myhappyhaber.site
+myheabmkatlsende58.info
 myhelpdesk-coinbase.com
 myhermes-at.bond
 myhobname.myvnc.com
