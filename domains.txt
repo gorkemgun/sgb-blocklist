@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469698
-# Last change: 2026-09-11 22:38:09 UTC (sync mode: delta)
+# Records: 469700
+# Last change: 2026-09-12 01:10:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -22999,6 +22999,7 @@ a-101-mkret.cyou
 a-101-ml.shop
 a-101-mobil-bugune-ozel-indirim-tr.online-alisveris-sepeti.com
 a-101-mobil-extra-sadece-bugune-ozel-firsatlar-tr.onlinecep-tr.site
+a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
 a-101-mrketler-snal.sbs
 a-101-ocakozel.me
 a-101-olnline.cyou
@@ -152069,6 +152070,7 @@ enozelfirsatlar-10yilaozelaralik.com
 enozelfirsatlari10yil-cupra.net
 enpaara.com
 enpaaraa.com
+enpabasvuru.cfd
 enpanel.online
 enpara---qnbfinansbank.com
 enpara---qnbfinansbank.ph
