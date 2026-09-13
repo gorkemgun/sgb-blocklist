@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102911
-# Last change: 2026-09-13 12:03:33 UTC (sync mode: delta)
+# Records: 102921
+# Last change: 2026-09-13 16:23:40 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -195,6 +195,7 @@
 101-eozel.xyz
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
+101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
@@ -414,6 +415,7 @@
 1218913778.duckdns.org
 12211455441554555889891.xyz
 12211455441554555889894.xyz
+12211455441554555889895.xyz
 122562652500.xyz
 122562656334.info
 122562656478.info
@@ -17919,6 +17921,7 @@ caydanlikkampholding.com
 cayeconstruction.com
 cayfirsatialtili.com
 caykursiparis.com
+caykursiparis.net
 caykurturkiyeyudum.me
 caylclicimakinlere.com
 caymakineleri.com
@@ -32130,8 +32133,10 @@ evrakdogrulamaturkiyegov.web1337.net
 evraklariade.com
 evrakrandevu.blogspot.com
 evraksorgu.com
+evrenapi.xyz
 evrenbursum.com
 evrendekiiz.com
+evrenium.xyz
 evrenyum.site
 evreuxsas.live
 evrichangpag.top
@@ -43212,6 +43217,7 @@ hizmet-prtl.de
 hizmet-siniryok.de
 hizmet-subelerimizklimalidir.com
 hizmet.anamerkez.com.tr
+hizmet.basvuru.son.gun.bugun.skosaodk.click
 hizmet.portal.77-83-201-131.plesk.page
 hizmet.rogerclarkehigh.edu.jm
 hizmetaktc.de
@@ -45619,6 +45625,7 @@ ile-onayli-ilanlar.com
 ile-onlinealisveris.com.tr
 ile-satisim.com
 ile-sepet-islemler.com.tr
+ile-sepetiniz.com.tr
 ile-sepetlerim.com.tr
 ile-simdi-siparis.com
 ile-tedarik-odeme.com
@@ -58707,6 +58714,7 @@ metaphoricalstrait.top
 metaportalbussineshelp.com.tr
 metareklam.shop
 metareklam9503.sbs
+metareklamoffline.sbs
 metashelpcopyright.ml
 metatask01.shop
 metateamhelpcase.ml
@@ -72329,6 +72337,7 @@ qiangli.com.tr
 qianxi1997.top
 qiaobianguniangnuanyangxiaqiaotoupang.top
 qichigvcka.fr.gd
+qidaru-wesolimatup.lol
 qietssoted.top
 qilavornexo.shop
 qimdepi.com
@@ -85842,6 +85851,7 @@ tanriverdi.fun
 tansanitation.top
 tanteviral-21.duckdns.org
 tantononleleggo.it
+tanuwi-fikosen.lol
 taojfj2.cn
 tap2krocsklxucu.lol
 tapaptly.top
