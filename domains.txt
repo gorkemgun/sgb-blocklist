@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469755
-# Last change: 2026-09-12 22:21:25 UTC (sync mode: delta)
+# Records: 469771
+# Last change: 2026-09-13 01:04:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -45855,6 +45855,7 @@ anadolugenclikkurumu.org
 anadolugenclikurumu.com
 anadolugenis.com
 anadolugozlem.com
+anadolugroup.online
 anadoluguvenligiris.top
 anadoluhaber724.net
 anadoluhayat2.net
@@ -53881,6 +53882,7 @@ atlpvt.com
 atlsigorta.site
 atlssmaiziziiriiriririiri.net
 atlvhhfnrn.duckdns.org
+atm-acv.myonlineportal.ch
 atm.mefound.com
 atm506.com
 atm61tq4slknmlw67j7.ddns.net
@@ -61101,6 +61103,7 @@ basvrpromlar.click
 basvrpromlar25.click
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
+basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvrrprmsynnnnkmpnyaa.info
 basvrrprmsynnnnkmpnyaa.live
@@ -76719,6 +76722,7 @@ bireysel-satis.com
 bireysel-secure-ilan.com
 bireysel-servis-aktarim-cep-tr.com
 bireysel-shop-tr.click
+bireysel-shops-mobil.online
 bireysel-siparis-extra-tr.site
 bireysel-sonbaharacikdenizv2denizbank.com
 bireysel-sube---giris-tr.com
@@ -99667,6 +99671,7 @@ cepteteb-dijitalim.com
 cepteteb-e-subem-giris.com
 cepteteb-e-subem.com
 cepteteb-emekli-basvur.myonlineportal.ch
+cepteteb-emekli.myonlineportal.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.com
 cepteteb-esube.my-homeip.de
@@ -163239,6 +163244,7 @@ fermanteli.site
 fermatnds.com
 fernandamello.org
 fernandestechnical.com
+fernasburs.site
 fernharbor.store
 ferntier.com
 fernuykiopop1.website
@@ -170147,6 +170153,7 @@ forunkulosko2122.top
 foruno.click
 forurbestexper.com
 forvar-d.my-homeip.de
+forvard.best
 forve.ddns.net
 forvectikonviceble.buzz
 forward-plus.ru
@@ -175057,6 +175064,7 @@ garantibbvakredi.otzo.com
 garantibbvakredi.rf.gd
 garantibbvakredi.vercel.app
 garantibbvakredibasvuru.com
+garantibbvakredibasvuru.online
 garantibbvakredibasvurumerkezi.mefound.com
 garantibbvakredibasvurusu.com
 garantibbvakredibasvurusu.info
@@ -244619,6 +244627,7 @@ kabo.ddns.net
 kabobshoop.duckdns.org
 kabrin.zapto.org
 kabs789266.xyz
+kabsakaioniine.com
 kabuledilebilirteklif.net
 kabuletkendinebiserseriismarla.uk
 kabulsureci.com
@@ -281478,6 +281487,9 @@ mhsscfsrsa7.sbs
 mhsscfsrsa8.sbs
 mhsscfsrsa9.sbs
 mhssrajhsyyh.icu
+mhssrasa.sbs
+mhssrasa.space
+mhssrasa.store
 mhssrrrahas.site
 mhssrrrdhas.site
 mhsssrassa.live
@@ -286232,6 +286244,7 @@ mobilramazanayidestek.com
 mobilramazanfirsatin.site
 mobilramazankredimdenizde.site
 mobilramazankredincebinde.site
+mobils-cep.online
 mobils-paramguvende.com
 mobils-tr.com
 mobils-tr.online
@@ -356437,6 +356450,7 @@ sahibindenin-paramguvende.ga
 sahibindenin-paramguvende.tk
 sahibindenisleminizgvnde-get.net
 sahibindenk.com
+sahibindenkaargom.com
 sahibindenkampanya.com
 sahibindenkargo-islem.com
 sahibindenkargo.click
@@ -368038,6 +368052,7 @@ sibiw.com
 sibleyconfab.com
 sibling.starcepulsemap.com
 siblingrapid.top
+sibonex.com
 sibqeforsfo.duckdns.org
 sibslsdfs-yklee.net
 sicak-mavi-yazi-bva.xyz
@@ -392582,6 +392597,7 @@ teb-ceptemobil-promosyon.life
 teb-ceptepromosyonlargiris.duckdns.org
 teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-emekliyeozel.my-homeip.de
+teb-com-tr-internet-subesi.my-homeip.de
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de

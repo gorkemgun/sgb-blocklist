@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102879
-# Last change: 2026-09-12 22:21:25 UTC (sync mode: delta)
+# Records: 102895
+# Last change: 2026-09-13 01:04:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6974,6 +6974,7 @@ anadolugenclikkurumu.com
 anadolugenclikkurumu.org
 anadolugenclikurumu.com
 anadolugenis.com
+anadolugroup.online
 anadoluhikayesi.com
 anadoluisigi.com
 anadolukampanya.com
@@ -9196,6 +9197,7 @@ atlaspanel.store
 atlaswiucheck.cfd
 atlester.ru
 atlsigorta.site
+atm-acv.myonlineportal.ch
 atmaca.link
 atmaikhanerca.files.wordpress.com
 atmolatori.icu
@@ -11019,6 +11021,7 @@ basvrl-istlem.icu
 basvrlari-dvvttgirsi.com
 basvrlmztki.sbs
 basvrlrmzknttki.sbs
+basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvrsawkxa.sbs
 basvrtrbnnccse.com.tr
@@ -13518,6 +13521,7 @@ bireysel-ptt.com
 bireysel-sahibinden.com.tr
 bireysel-sahibindenget-com.tk
 bireysel-satis.com
+bireysel-shops-mobil.online
 bireysel-subedenizv2denizbank.online
 bireysel-superonline.net
 bireysel-v250insesgbnk-com-tr.tk
@@ -18257,6 +18261,7 @@ ceptesubemdenizgemisi.xyz
 cepteteb-com-tr.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
+cepteteb-emekli.myonlineportal.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
 cepteteb-tr-3yil-ozel.com
@@ -33445,6 +33450,7 @@ fergatplaras.com
 ferigaporas.click
 ferlesscheck.store
 ferlokia.store
+fernasburs.site
 fernharbor.store
 ferraraferreira.adv.br
 ferrymalignant.top
@@ -35102,6 +35108,7 @@ forumtariff.top
 forumyilsonu-bireyselkampanya-basvur.ml
 forundel.com
 forvar-d.my-homeip.de
+forvard.best
 forward-yonlendir.ink
 forwardday.top
 forwardgasp.top
@@ -35985,6 +35992,7 @@ garantibbvaesubem.31-210-39-247.plesk.page
 garantibbvahaziran2022.ml
 garantibbvahaziranbonus.ml
 garantibbvahazirancekilisi.ml
+garantibbvakredibasvuru.online
 garantibbvsalfash.51-138-77-173.plesk.page
 garantibbwarranti.sbs
 garantibilgi-islemkajsdglasjgd.com
@@ -50154,6 +50162,7 @@ kabelsad2904.wordpress.com
 kabeor.top
 kaberligo.net
 kablosuz-dyson.com.tr
+kabsakaioniine.com
 kabuletkendinebiserseriismarla.uk
 kacaroldum.net
 kacik.club
@@ -59037,6 +59046,9 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssrajhsyyh.icu
+mhssrasa.sbs
+mhssrasa.space
+mhssrasa.store
 mhssrrrahas.site
 mhssrrrdhas.site
 mhsssrassa.live
@@ -59885,6 +59897,7 @@ mobilonayfnansdenz.com
 mobilonlinebasvuruedvlt-2022.ml
 mobilonlinebasvurugiris.ml
 mobilonlinedogrulavarlikservice.online
+mobils-cep.online
 mobilsafariozel.cloud
 mobilsepetalim-10.online
 mobilsepetalim-20.online
@@ -76861,6 +76874,7 @@ sahibindenile.com.tr
 sahibindenile.getodemeyap.com
 sahibindenile.tr-s.com.tr
 sahibindenilngett.com
+sahibindenkaargom.com
 sahibindenkargo-islem.com
 sahibindenkargo.com
 sahibindenkargoo.com
@@ -79717,6 +79731,7 @@ sibertr.org.tr
 sibir-arena.com
 sibirarena-kassa.com
 siblingrapid.top
+sibonex.com
 sibslsdfs-yklee.net
 sicakdakikalar.com.tr
 sicaksogukkapinda.xyz
@@ -86415,6 +86430,7 @@ teb-2019basvurutr.com
 teb-basvurtr.com
 teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-emekliyeozel.my-homeip.de
+teb-com-tr-internet-subesi.my-homeip.de
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
