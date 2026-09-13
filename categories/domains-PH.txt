@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102901
-# Last change: 2026-09-13 06:15:45 UTC (sync mode: delta)
+# Records: 102911
+# Last change: 2026-09-13 12:03:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -197,6 +197,7 @@
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
+101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
@@ -6371,6 +6372,7 @@ alisverisadresin.com.tr
 alisverisbulutu2024.com
 alisverisdunydamdasongun.com.tr
 alisverisdyson.online
+alisverisepetin-13.sbs
 alisverisfirsatlari.click
 alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
@@ -15618,6 +15620,7 @@ brispol.click
 bristovexa.shop
 brit-hotel-fr.com
 britay.store
+britishairways-noon-garantibbva.com.ph
 britstep.digital
 brivanahubs.store
 brivaxo7nqel2t9k.cfd
@@ -33826,6 +33829,7 @@ finans-iadebasvuru.com
 finans-kampannya-basvuru.gq
 finans-kampanya-var-basvur-com.ml
 finansai.org
+finansaldestekler.cfd
 finansalgelir.org
 finansalhizmet-hediye.com
 finansalyorum.com
@@ -58696,6 +58700,7 @@ metamskwalletextensin.webflow.io
 metanmaskloginu.webflow.io
 metaofflinereklam.sbs
 metaoperations-inc.com
+metaorasiburasioffline.sbs
 metaphorcoalition.top
 metaphoricalcrave.top
 metaphoricalstrait.top
@@ -69369,6 +69374,7 @@ pokepremise.top
 pokgaming.com
 pokiesgamessites.com
 polamero.best
+polami-nutegax.lol
 polarevoke.top
 polarisan.com
 polarispulse.online
@@ -81693,6 +81699,7 @@ son-zamanlarda-mutlu-hissetmek-bu-kadar-kolay-olmamisti.com
 son-zamlardan-gelmeden-sizlere-son-sureleri.com
 son-zamlardan-gelmeden-sizlere-son-sureller.com
 son-zamlardan-once-gelen-firsat.com
+son.firsatlar.bitiyor.hizmelgk.click
 son101cilerkaldi.cloud
 son2023-hizlisipariskampanya.shop
 son2026indirimleri101.biz
@@ -84096,6 +84103,7 @@ subordinationappendix.top
 subordinationdepiction.top
 subordinationilluminate.top
 subordinationluminous.top
+subplatewallet.com
 subscribeinnumerable.top
 subscribenutrition.top
 subscribeonverence.top
@@ -102374,6 +102382,8 @@ zemorith.com
 zemtira.com
 zen-albattani.18-159-215-182.plesk.page
 zen-neumann.88-198-0-54.plesk.page
+zen3bet.shop
+zen8bet.shop
 zenaarackiralama.com
 zeneditor.tech
 zenfract.vip
