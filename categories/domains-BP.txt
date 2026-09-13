@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258481
-# Last change: 2026-09-13 16:23:40 UTC (sync mode: full)
+# Records: 258496
+# Last change: 2026-09-13 19:29:56 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -16947,6 +16947,7 @@ adbhutfacts.com
 adbvvarmform.link
 adceonlaylardaa1o1.duckdns.org
 adcompasslab.com
+add-ny-ent.myonlineportal.ch
 addaasdadasdbbbbmm444.net
 adde.likesyou.org
 addhgz.com
@@ -28178,6 +28179,7 @@ asamlgt.com
 asamoah.loveslife.biz
 asandasonalisveris.com.tr
 asandasonalisveris.online
+asans.my-homeip.de
 asapnotaryagency.com
 asapxreopaklams.com
 asarackirala.com
@@ -82157,6 +82159,7 @@ edijitalmobilgirisslemmenuleri.com
 edijitalreklamenuleritr.space
 edijtalform.b-cdn.net
 edilim-entry-kapisi.myonlineportal.ch
+edinim.my-homeip.de
 edirektbasvur.com
 edirnekapslkdm.space
 edirnesube.com.tr
@@ -90832,6 +90835,7 @@ eylulfirsatlarikacmaz.com.tr
 eylulfirsatlarikacmaz.online
 eylulfirsatlarikacmaz.xyz
 eylulfirsatlarikuvvyttrk.net
+eylulfirsatlarim.com
 eylulfirsatlarinikacirmadanal.com.tr
 eylulfirsatlarinikacirmadanal.online
 eylulfirsatlarinikacirmadanal.xyz
@@ -96379,6 +96383,7 @@ fullyversiontec.beer
 fulodeme.net
 fulsse53213.duckdns.org
 fuluru.info
+fumile-gosapir.lol
 funarchive.pics
 functions.cfd
 fund-flow.online
@@ -156460,6 +156465,7 @@ lupitamontoto.com
 lupopro.top
 lurnas.com
 lurnavex.com
+lusepo-takinorami.lol
 lusetaviro.gifts
 lushinamvergimode.net
 lushinaodemevergi.net
@@ -172793,6 +172799,7 @@ online-gib-edevletiadesi.com
 online-gida-teslimat.online
 online-giriis-vkf-bank-tr-com.ga
 online-giriis-vkf-tr--com.ga
+online-giris-adresi.sbs
 online-giris-baslangiclari.shop
 online-giris-hizmet.site
 online-giris-kampanya.cf
@@ -182543,6 +182550,7 @@ pazarama.bireyselsiparis.com
 pazarama.bireyselticaret.com.tr
 pazarama.duckdns.org
 pazarama.elektronik-urunler-sepetimiz.com
+pazarama.eylulfirsatlari.com
 pazarama.fast-ilan.com
 pazarama.firsatiseninle.com.tr
 pazarama.guvencelifirsatlar.com.tr
@@ -213303,6 +213311,7 @@ svdlargnlredesas.shop
 svdlgnlrdebyzsvdklrdan.click
 svdlryrklerdnsbr.icu
 svdlyrklerdbyzsrgnler.shop
+svdlyrklerdenbyzsrgn.click
 svdlyrklrdbyzsrgnsass.sbs
 svdnbrdangldkbrda.icu
 svdnlerdenkzlerden.mooo.com
@@ -220939,6 +220948,7 @@ tr-iscep.ml
 tr-islem-secure.online
 tr-islem-servisi.online
 tr-islem.online
+tr-islemler-get-alisveris.online
 tr-islemler-getalisveris.online
 tr-islemler-govtr.org
 tr-islemler-param-guvende.online
@@ -221520,6 +221530,7 @@ tr-webbing-say.click
 tr-webbing.sa.com
 tr-webden-online-erisim.net
 tr-webislemler-get-alisveris.online
+tr-webislemler-tr-getalisverisler.online
 tr-webnb.cloud
 tr-website.online
 tr-webyapikrediiade.com
@@ -225024,6 +225035,7 @@ ttbrccbbmtrhazinegovuktr.com
 ttcagri.com
 ttcvgaranitisllemenum.com
 ttdemirgroupislemenu.com
+ttdenkampanyalareylulayinda.site
 ttdvvtrandevuu.net
 tteknosam.pro
 ttelekom.internetabonelik.ne
@@ -225322,6 +225334,7 @@ tunaportfoyyatirim.com
 tunaportfoyyonetim.com
 tunavakfi.online
 tuncaykantarc.cfd
+tuncelisubesndyz.giize.com
 tunetkinliklerisorgula-bn.net
 tungterprotesy.hpc.tw
 tungtungtungsahur.sbs
@@ -241922,6 +241935,7 @@ www-teb-com-tr-basvuru-islemler.my-homeip.de
 www-teb-com-tr-emekli-basvuru.my-homeip.de
 www-teb-com-tr-emekli-kampanyasi.my-homeip.de
 www-teb-com-tr-emekli-sayfasi.my-homeip.de
+www-teb-com-tr-emeklilik-promosyonu.my-homeip.de
 www-teb-com-tr-internet-islemleri.my-homeip.de
 www-teb-com-tr-islem-merkezi.my-homeip.de
 www-teb-com-tr-onayli-islem.my-homeip.de
@@ -258041,6 +258055,7 @@ znburasibskakcmahd.com.tr
 znnindirimsezon.cfd
 zoderimod.top
 zofari.click
+zokapu-relimon.lol
 zoktay.cfd
 zokulu.info
 zokureli.store

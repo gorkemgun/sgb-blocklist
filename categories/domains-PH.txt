@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102921
-# Last change: 2026-09-13 16:23:40 UTC (sync mode: full)
+# Records: 102932
+# Last change: 2026-09-13 19:29:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -27569,6 +27569,7 @@ downwardsvenue.top
 doxbin.com
 doxbin.net
 doxbin.org
+doxilu-pemaritun.lol
 doxland.org
 doxxela.ink
 doyartik.online
@@ -36815,6 +36816,7 @@ gencligimesirruhumayasarken.sbs
 genclik-kredi.com
 genclikegitimde.com
 genclikyardimdernegi.com
+genclksnnler.duckdns.org
 gencyasam.tech
 gencyatirim.com.tr
 genderalienate.website
@@ -38599,6 +38601,7 @@ gratis.obliqueprism.com
 gratis.paperbacksins.com
 gratis.servehumour.com
 gratis.simplysweetcakesoc.com
+gratis.sophiemaslowski.com
 gratis.teknodeno.com.tr
 gratis.terminuscs.com
 gratis.twinslist.com
@@ -40251,6 +40254,7 @@ haberler452344.sbs
 haberler4561.sbs
 haberler4675874.sbs
 haberler47852.shop
+haberler4857489.sbs
 haberler53454321.shop
 haberler543343.shop
 haberler562346.sbs
@@ -53854,6 +53858,7 @@ lalecilerv.cfd
 laleliseviyimsulaleni.uk
 lalelisubeeylulayiindirimleri.com.tr
 lalelisubeeylulindirimleri.online
+lalelisubsndyzbizler.duckdns.org
 lalkrere.com
 lalodgevictoria.world
 lalyhuodae.com
@@ -56239,6 +56244,7 @@ ma1o1.net
 ma588.com
 maantfragility.top
 maarrtta-indiirrrmmlleriina1o1de.shop
+maaspro.my-homeip.de
 maasyapi.xyz
 mabsub.com
 macaristandaegitim.com
@@ -74795,6 +74801,7 @@ rezidansnow.vip
 rezidanspro.online
 rezmigazetegov408.b-cdn.net
 rfbuc.com
+rfdws3sdgt19gsd24gsd7cd.sbs
 rffwsw.top
 rfjxnfqeqf0.storage.googleapis.com
 rfs-tickets.com
@@ -77656,6 +77663,7 @@ scausprofile.top
 scazsal.com
 scdelndirmlera1o1.mooo.com
 scdeneme321.tk
+scdlcerkl3x1l2xc43x2.cyou
 scdqwl.help
 scenarust.top
 scenebatter.top
@@ -80701,6 +80709,7 @@ size-normal-gelmeyen-yeni-urunler.com.tr
 size-ozel-kuvyt-islem.b-cdn.net
 size-ozel.ink
 size-ozelliletisimizinleri-guncel.net
+sizeozel-basvuru.abrdns.com
 sizeozel-eventfirsati.com
 sizeozel-eventfirsati.globalcekilis-hemenbasvurveyararlan.com
 sizeozel.club
@@ -95632,6 +95641,7 @@ volya-afisha.ru
 volya-tickets.ru
 volyabilet.ru
 vomare5964.space
+vomeka-jupiseraton.lol
 vomenda.com
 vonacarkiralama.com
 voneditor.tech
@@ -97333,6 +97343,7 @@ wellnesszoneyour.top
 wellstoms-tr.com
 welynthor.com
 wematawmasdmwa.net
+wemati-hupolend.lol
 wenab58919.space
 wenab58919.store
 wendyshop.com.tr
