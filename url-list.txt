@@ -5851,6 +5851,7 @@
 182-onlines.help
 182-web.sbs
 182-web.xyz
+182-webb.cfd
 182-webb.sbs
 182-webb.xyz
 182-webhati.com
@@ -45102,6 +45103,7 @@ amazon-customerservice.masukyasayang.com
 amazon-customerservice.warkopskuyy.com
 amazon-cz.eu
 amazon-deutschland-kundenservice-info.com
+amazon-garantibbva-anzamazonbooka.ph
 amazon-garantibbva.ph
 amazon-homexoon-home.top
 amazon-india.online
@@ -92246,6 +92248,7 @@ bva-global.lat
 bva-lite.shop
 bva-mobile.shop
 bva-request.shop
+bva-web.shop
 bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
@@ -178734,6 +178737,7 @@ geliridaresi.info
 geliridaresi.online
 geliridaresi.site
 geliridaresibaskanligi.com
+geliridaresibaskanligi.org
 geliridaresibaskanligii.com
 geliridaresibaskanligiislemleri.com
 geliridaresiedevlet.online
@@ -274643,6 +274647,7 @@ maliksewr.store
 malikshabas.com
 malikurum.org
 malimahkeme.org
+malimasak.net
 malimasak.org
 malimaskim.xyz
 malimdinda.xyz
@@ -419703,6 +419708,7 @@ uyapvatandas-giris.com
 uyapvatandas-sorgu.com
 uyapvatandas.com.tr
 uyapvatandas.net
+uyapvatandas.org
 uyapvatandasgiris.com
 uyapvatandaslik.site
 uyapvatandasportal.com.tr

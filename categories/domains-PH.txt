@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102895
-# Last change: 2026-09-13 01:04:49 UTC (sync mode: delta)
+# Records: 102901
+# Last change: 2026-09-13 06:15:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -814,6 +814,7 @@
 182-onlines.help
 182-web.sbs
 182-web.xyz
+182-webb.cfd
 182-webb.sbs
 182-webb.xyz
 182-webpsp.com
@@ -6798,6 +6799,7 @@ amazon-co-jp.tire1.top
 amazon-co-jp.vpdq2.top
 amazon-co-jp.xsi1.net
 amazon-co-jp.xxnly.co
+amazon-garantibbva-anzamazonbooka.ph
 amazon-homexoon-home.top
 amazon-india.online
 amazon-jp-service.com
@@ -16683,6 +16685,7 @@ bv1icceeellli.com
 bv1znmnb.ml
 bva-bsvrs.lat
 bva-request.shop
+bva-web.shop
 bvaagrndsclmon1linecetbasvurmrs.net
 bvadagrndsclmon1linecetbasvrs.net
 bvasdrrad-e.net
@@ -36736,6 +36739,7 @@ gelir-rehberi.online
 gelir-sihiri.online
 gelir-taktik.online
 gelirdmbvrgi.net
+geliridaresibaskanligi.org
 geliridaresibaskanligiislemleri.com
 geliridaresionline.com
 gelirkapisi.site
@@ -56827,6 +56831,7 @@ maliegm.org
 malignantsymposium.top
 malignantvicinity.top
 malihukuk.org
+malimasak.net
 malimasak.org
 malimidwife.top
 malinapps2.xyz
@@ -93355,6 +93360,7 @@ uyaptebligat.org
 uyapuzlasma-maliye.com
 uyapuzlasma.com
 uyapuzlasmagiris.com
+uyapvatandas.org
 uyari-detaylar-tr.ink
 uyari.cf
 uyari.eu
