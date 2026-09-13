@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 469828
-# Last change: 2026-09-13 19:29:56 UTC (sync mode: delta)
+# Records: 469848
+# Last change: 2026-09-13 22:27:19 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -63888,6 +63888,7 @@ basvuruservisi.gq
 basvuruservisi.ml
 basvurusimdi-globalkampanyabudurtechbance.tech
 basvurusirasi.online
+basvurusistem.abrdns.com
 basvurusistemi.cfd
 basvurusistemi.com
 basvurusistemi.online
@@ -70168,6 +70169,8 @@ bilgilermobiliadegirisedevlet.com
 bilgilertr-ing-grn.my-homeip.com
 bilgiligencler.online
 bilgilikullanici.com
+bilgilislem.abrdns.com
+bilgilislemsayfasi.abrdns.com
 bilgimalumat.com
 bilgimanya.info
 bilgimatematik.shop
@@ -204646,6 +204649,7 @@ herkesekampanyalar.com
 herkeselazim.name.tr
 herkeseonay.com
 herkeseozelkampanya.github.io
+herkeseozelteklifimiz.abrdns.com
 herkesepandemi.club
 herkesepandemi.xyz
 herkeseyardimvar.com
@@ -279960,6 +279964,7 @@ merkezcicekevi.info
 merkezcimeri.com
 merkezdekayit.abrdns.com
 merkezdenguncel.abrdns.com
+merkezdenkayit.abrdns.com
 merkezdensize.abrdns.com
 merkezdernegi.com
 merkezdernegi.net
@@ -280058,6 +280063,7 @@ merkezinhizlialisverisi.com
 merkezinhizlialisverisi.online
 merkezinhizlialisverisi.xyz
 merkezinizsistemi.net
+merkezinkayit.abrdns.com
 merkezinkayitli.abrdns.com
 merkezinpazari.com
 merkezinteraktif.herokuapp.com
@@ -280098,6 +280104,7 @@ merkezixndevuhizmeti.net
 merkeziyetkayit.abrdns.com
 merkeziyetsizbasvuru.abrdns.com
 merkeziyetsizbasvuru.com
+merkeziyetsizkayit.abrdns.com
 merkezizz.xyz
 merkezkayitarayuzu.abrdns.com
 merkezkayiti.abrdns.com
@@ -280105,6 +280112,7 @@ merkezkolayin.com
 merkezlekayit.abrdns.com
 merkezleri.ru.com
 merkezleriiadegfdgjhkl.net
+merkezlerkayit.abrdns.com
 merkezlerkayitli.abrdns.com
 merkezlikayit.abrdns.com
 merkezlimited.xyz
@@ -280529,6 +280537,7 @@ metakamp.site
 metakmasskklogin.webflow.io
 metakralibenimlan.click
 metal-kaluga.ru
+metalaroralarburalar.sbs
 metalbook.top
 metalcix5.dyndns.org
 metalexvietnamreed.tk
@@ -280617,6 +280626,7 @@ metareklam9503.cfd
 metareklam9503.sbs
 metareklamkampanya.click
 metareklamoffline.sbs
+metareklamonline.sbs
 metarx.ddnsking.com
 metasecureconnect.ddns.net
 metasecurity.ddns.net
@@ -281522,6 +281532,7 @@ mhssrajhsyyh.icu
 mhssrasa.sbs
 mhssrasa.space
 mhssrasa.store
+mhssrasa.website
 mhssrrrahas.site
 mhssrrrdhas.site
 mhsssrassa.live
@@ -298864,6 +298875,7 @@ nmbvcxzasedrt.com
 nmcuqy.com
 nmcxzbzxvhjsafvvasf8.site
 nmcyclingexperience.com
+nmdmnf89-1bb2cd94c746.herokuapp.com
 nmdnnsnmmmsn.net
 nmds.duckdns.org
 nmdsmfsdmnm.net
@@ -372177,16 +372189,21 @@ sizemakasas.com
 sizeozecekiliskapmanyasixi.click
 sizeozel-basvuru.abrdns.com
 sizeozel-deveventkampanyalariburda.com
+sizeozel-ekran.abrdns.com
 sizeozel-eventfirsati.com
 sizeozel-eventfirsati.globalcekilis-hemenbasvurveyararlan.com
 sizeozel-firsathediyeleribasvuru.link
 sizeozel-firsatlar.ru.com
+sizeozel-giris.abrdns.com
+sizeozel-girisadresi.abrdns.com
+sizeozel-girisyap.abrdns.com
 sizeozel-hediyebonusbasvuru.link
 sizeozel-hediyenebasvur.link
 sizeozel-internet.com
 sizeozel-kampanyalarfirsati.link
 sizeozel-kampyanlar.click
 sizeozel-prbfirsathediyebasvuru.com
+sizeozel-sayfa.abrdns.com
 sizeozel-yaz-kampanyafirsatlari.club
 sizeozel.club
 sizeozel.online
@@ -387150,6 +387167,7 @@ svdlrdabgnlrdsbz.shop
 svdlryrklerdnsbr.icu
 svdlyrklerdbyzsrgnler.shop
 svdlyrklerdenbyzsrgn.click
+svdlyrklerdenbyzsrgn.xyz
 svdlyrklrdbyzsrgnsass.sbs
 svdmq.com
 svdnbrdangldkbrda.icu
@@ -458515,6 +458533,7 @@ yenileneninternetbankacilik.com
 yenileneninternetbankacilik.net
 yenileneninternetbankacilik.org
 yenileneninternetsubesi-qnbfinansbank.tk
+yenilenenislemler.abrdns.com
 yenilenenkampanya1ar.net
 yenilenenkampanyabasvurulari.net
 yenilenenkampanyaburda.com
@@ -458620,6 +458639,7 @@ yenilyildasizinleyiz.click
 yenimayiskampanyalari.net
 yenimazaumre120onlinehgsi.online
 yenimedyumrehberi.online
+yenimerkezkayiti.abrdns.com
 yenimisorgun-12232.web.app
 yenimisorgun-1232.web.app
 yenimobil-acikdenizbank.com

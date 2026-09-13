@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102932
-# Last change: 2026-09-13 19:29:56 UTC (sync mode: delta)
+# Records: 102937
+# Last change: 2026-09-13 22:27:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -58679,6 +58679,7 @@ metakaitabmplreas.sbs
 metakaitaoffline.sbs
 metakamp.site
 metakmasskklogin.webflow.io
+metalaroralarburalar.sbs
 metalbook.top
 metalicanar.com
 metalira.net
@@ -58721,6 +58722,7 @@ metaportalbussineshelp.com.tr
 metareklam.shop
 metareklam9503.sbs
 metareklamoffline.sbs
+metareklamonline.sbs
 metashelpcopyright.ml
 metatask01.shop
 metateamhelpcase.ml
@@ -59073,6 +59075,7 @@ mhssrajhsyyh.icu
 mhssrasa.sbs
 mhssrasa.space
 mhssrasa.store
+mhssrasa.website
 mhssrrrahas.site
 mhssrrrdhas.site
 mhsssrassa.live
@@ -62770,6 +62773,7 @@ nlylmx.31-210-39-124.plesk.page
 nmailddt.000webhostapp.com
 nmappz.top
 nmasfmasfn.net
+nmdmnf89-1bb2cd94c746.herokuapp.com
 nmeo0o9.cn
 nmfoq.cn
 nmgkargo.com
@@ -80712,6 +80716,7 @@ size-ozelliletisimizinleri-guncel.net
 sizeozel-basvuru.abrdns.com
 sizeozel-eventfirsati.com
 sizeozel-eventfirsati.globalcekilis-hemenbasvurveyararlan.com
+sizeozel-girisadresi.abrdns.com
 sizeozel.club
 sizeozel.online
 sizeozel.site
