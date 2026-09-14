@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102937
-# Last change: 2026-09-13 22:27:19 UTC (sync mode: delta)
+# Records: 102939
+# Last change: 2026-09-14 01:10:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18270,6 +18270,7 @@ ceptesubemdenizgemisi.xyz
 cepteteb-com-tr.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
+cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli.myonlineportal.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
@@ -55099,6 +55100,7 @@ ln4awm7.cn
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
 lnddrmm-klmmaaa.com
+lndirimayieylultt.com
 lndirimi-takipetsene.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
