@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103004
-# Last change: 2026-09-14 19:25:43 UTC (sync mode: full)
+# Records: 103020
+# Last change: 2026-09-14 23:10:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1884,6 +1884,7 @@
 442.44de22ew.click
 44443586244.cloud
 44444004040004.cloud
+44444321.sbs
 444453564454.cloud
 444bnzhgsode.org
 444piabett.com
@@ -7548,6 +7549,7 @@ app-elektraweb.com
 app-en--cobo-cdn.webflow.io
 app-explorer-dashboard.com
 app-facebook-verify.arksystems.it
+app-halkbank.synapsai.ai
 app-kapimida-siparis.com.tr
 app-kredigirisbasvurkvytaktivasyon.click
 app-kredigirisbasvurkvytaktivasyon.site
@@ -12650,6 +12652,7 @@ bikehypocritical.top
 bikemediate.top
 bikenil.top
 bikeputaware.click
+bikerks.com
 bil.glendirme.avvsuvrusu.bilgisayfasi.net
 bilaldecimal.top
 bilalsorgu.kesug.com
@@ -12718,6 +12721,7 @@ bilgiisayfam.net
 bilgikap.info
 bilgikayna.info
 bilgikaynagi.cfd
+bilgikurum.net
 bilgikusu.org
 bilgildrmelhemen.com
 bilgilen.club
@@ -37602,6 +37606,7 @@ giriswebs.site
 giriswebsayfasiaidat.org
 giriswebtrlink.org
 girisyap-edevlet.com
+girisyap-hizli.abrdns.com
 girisyap.tk
 girisyapkazan.com
 girisyonlendirme.de
@@ -40270,6 +40275,7 @@ haberler3552323.shop
 haberler421352.shop
 haberler4215434.sbs
 haberler4422424.shop
+haberler443198.sbs
 haberler45171154.sbs
 haberler452344.sbs
 haberler4561.sbs
@@ -42774,6 +42780,7 @@ hikingcarolina.com
 hikopere-repilosade.lol
 hilalcheck.store
 hilalkuru121.tk
+hilallisubesndyzz.duckdns.org
 hilalydv.com
 hilantius.info
 hilfecenter-direkt.info
@@ -53112,6 +53119,7 @@ kralhaber.xyz
 kralibiziz.net
 kralinkraligelsedusurmaez.com
 krallaar.click
+krallarinkralii.duckdns.org
 krallarkeyfssslrndvuuu.net
 krallarnvidesizeizlemekkalir2779.net
 krallarvesoytarilarx.net
@@ -59116,6 +59124,7 @@ mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssragva.autos
 mhssragva.buzz
+mhssragva.shop
 mhssrajhsyyh.icu
 mhssrasa.sbs
 mhssrasa.space
@@ -62810,6 +62819,7 @@ nlreodnv.net
 nlsmdldndlh.net
 nlsustrvslostra.com
 nltalntalnal.net
+nltaman.net
 nltknant.net
 nltlantlanltanla.net
 nltlnaltanltant.net
@@ -66032,6 +66042,7 @@ osmanlikatilim.com
 osmanlikkbaytar.space
 osmanlimenkul.in
 osmanliportfoy.app
+osmanlisubesndyzbiz.online
 osmanlivportfoy.com
 osmanliyardimkurulusu.org
 osmanliyatirim.app
@@ -84821,6 +84832,7 @@ svdkbzbrdyksnzslers.shop
 svdklerdenlardansadas.shop
 svdlaryrklerdens.xyz
 svdlrdabgnlrdsbz.shop
+svdlyrklerdenbyzsrgn.lol
 sveeigtysrsive.top
 svetlana-zaharova.com
 svglilryntc.com
@@ -85625,6 +85637,7 @@ tahaxfd.net
 tahev.com
 tahtahde-deretesede.lol
 tahtahde-yuhdare.lol
+tahuguderepoli.lol
 tailandtoast.com
 taildisplace.top
 tailmelody.top
@@ -86528,6 +86541,7 @@ teb-2019basvurutr.com
 teb-basvurtr.com
 teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-emekliyeozel.my-homeip.de
+teb-com-tr-internet-emeklilik.my-homeip.de
 teb-com-tr-internet-subesi.my-homeip.de
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
@@ -88328,6 +88342,7 @@ tlkcmtrktlm.net
 tlkgm.net
 tlkkkslekr.space
 tlknan.net
+tlknatan.net
 tlkontoryukleme23.online
 tlltllfglyn.shop
 tlndrmkmpanyalarimm.com
@@ -102146,6 +102161,7 @@ yuruyeyuruyeal.xyz
 yusignal.com
 yusuf12carental.xyz
 yusufbutik.tech
+yusuflumerkezsubesin.duckdns.org
 yusuflusubesibb.duckdns.org
 yusufmedya.xyz
 yusufsepet.com
