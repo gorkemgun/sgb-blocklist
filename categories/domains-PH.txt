@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102939
-# Last change: 2026-09-14 01:10:36 UTC (sync mode: delta)
+# Records: 102945
+# Last change: 2026-09-14 06:23:05 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -502,6 +502,7 @@
 126.hearabold.live
 127253-ledger.com
 127483127984312971891.cloud
+1274883050699.duckdns.org
 127pssa.cn
 128.85.204.35.bc.googleusercontent.com
 128147-coinbase.com
@@ -38607,6 +38608,7 @@ gratis.teknodeno.com.tr
 gratis.terminuscs.com
 gratis.twinslist.com
 gratis.v6.army
+gratis.youradbyus.com
 gratiscagrimerkezii.com.tr
 gratisguzellikmerkezleri.com.tr
 gratishediyecekilis.ml
@@ -56993,6 +56995,7 @@ maliyeportal.net
 maliyeservis.org
 maliyesorgugov.com
 maliyesorgular.com
+maliyesorgutc.net
 maliyesorusturmaekrani.com
 maliyestrgov20432.com
 maliyestrgov240.com
@@ -80719,6 +80722,7 @@ sizeozel-basvuru.abrdns.com
 sizeozel-eventfirsati.com
 sizeozel-eventfirsati.globalcekilis-hemenbasvurveyararlan.com
 sizeozel-girisadresi.abrdns.com
+sizeozel-netkoruma.abrdns.com
 sizeozel.club
 sizeozel.online
 sizeozel.site
@@ -100920,6 +100924,7 @@ ydeetq.top
 ydfshans.click
 ydjjja.clicks.mlsend.com
 ydkyazkllmaaspettelnldlrm.com
+ydmccek.theworkpc.com
 ydndnasld.com
 ydntmr.top
 ydpkmf.top
@@ -101628,6 +101633,7 @@ yklmayiz.net
 yklmebslasmdi.cfd
 yklmednsnrhgs.cfd
 yklmehgszmnpra.cfd
+yklmenktnizhgs.cfd
 yklmhrsbrdaorg.cfd
 yklmrdnsnrahgs.cfd
 yklmypss.net
