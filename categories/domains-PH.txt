@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102945
-# Last change: 2026-09-14 06:23:05 UTC (sync mode: delta)
+# Records: 102977
+# Last change: 2026-09-14 14:09:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -203,6 +203,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
+101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
@@ -304,6 +305,7 @@
 101kapndaonline2023.online
 101kariyer.com
 101kariyer.net
+101kariyer.org
 101klimakampanyalari.com
 101kralsfe.duckdns.org
 101magazacty.com
@@ -1595,6 +1597,7 @@
 324234325346546.cloud
 32432420101.cloud
 3243534523421324.net
+324803274832432.sbs
 32492342389429348.blogspot.com
 3250jj.cxcjghh.cn
 32583362328515756.com
@@ -2404,6 +2407,7 @@
 72985-coinbase.com
 72t.shop
 7332531125547.buzz
+737166.sbs
 74-234-232-187.plesk.page
 74-234-25-133.plesk.page
 74-234-25-l33.plesk.page
@@ -5198,6 +5202,7 @@ ahlatcihizli.online
 ahlatcihizli.shop
 ahlatcimenkuldegerler.xyz
 ahlatcimenkulkiymetler.com
+ahlatciyatirim.co
 ahmaswe.com
 ahmetafafaan.net
 ahmetdincer.com.tr
@@ -5723,6 +5728,7 @@ akrafaelxtoky.webhop.me
 akronesafyon.com
 akronesafyonthermalspa.com
 akronesotelafyons.com
+akronestermalhotel.com
 akronesthermalafyon.com
 akronesthermalspaotel.com
 akronneshotel.com
@@ -8125,6 +8131,7 @@ aracmuaynmm.net
 aracmuaynmtuvrk.net
 aracmuaynnxetucrt.com
 aracmuayntuvtrk.net
+aracmuayyne.sbs
 aracmuayyyenen.com
 aracmuhayhnehmztleri.org
 aracmuyanaehzxmetileri.net
@@ -17923,6 +17930,7 @@ cayeconstruction.com
 cayfirsatialtili.com
 caykursiparis.com
 caykursiparis.net
+caykursiparis.org
 caykurturkiyeyudum.me
 caylclicimakinlere.com
 caymakineleri.com
@@ -20200,6 +20208,7 @@ com-retag.top
 com-retal.top
 com-retay.top
 com-reter.top
+com-rezervasyon.com
 com-riteg.top
 com-riten.top
 com-ritep.top
@@ -36600,6 +36609,7 @@ gecisbakiyukleme.web.app
 gecisbilgi-ihlalsis.icu
 gecisdevm.com
 gecisdlaosl.net
+gecisetiketbakiyesi.web.app
 gecisetketdolumu.web.app
 gecishacizleri.info
 gecishacizlerin.info
@@ -36633,6 +36643,7 @@ gecisuzmaniylagecisiniyap.net
 gecisuzmnylabzeglsne.net
 gecisveznem.xyz
 geciswebkgtodesi.com
+gecisyuklemniziyapin.art
 gecmise-donuk-kontrol-et.sbs
 gecmisimderdli.net
 gecodememerkezi.info
@@ -40603,6 +40614,7 @@ halkbankbulusmalari.eventdaystr.com
 halkbankkredihesaplamasitesi.blogspot.com
 halkbanktalentforce.com
 halkbankyilbasiozel.com
+halkbnk.com.tr
 halkbnkmobil.duckdns.org
 halkbnkmobilaktif.duckdns.org
 halkbnkmobilduyuru.duckdns.org
@@ -43057,6 +43069,7 @@ hizligecisyuklemeciniz.firebaseapp.com
 hizligecisyuklemeim.web.app
 hizligecixuzmanlari.net
 hizligecmeysm.org
+hizligecsdoldurma.art
 hizligetalisveris.com.tr
 hizligiris.cf
 hizligirisacik.gtxstellar.best
@@ -43411,6 +43424,7 @@ hmnknlrnasn.net
 hmnkpiya1o1.com
 hmnkytolbsvrbrada.com
 hmnkytolgrsyapbraya.com
+hmnlkta.net
 hmnlnltanannta.net
 hmnlrta.net
 hmnlsantans.net
@@ -48599,6 +48613,7 @@ istkartdolumu.net
 istkartim.net
 istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
+istkartlahmnadak.com
 istkartlar.com
 istkartlarmayuklicim.net
 istkartlassnyada.com
@@ -48679,6 +48694,7 @@ istnmn.net
 istnmz.com
 istnn.net
 istnnbmbsvrl.com
+istnnop.com
 istnns.net
 istnnv.net
 istnnz.net
@@ -48887,6 +48903,7 @@ ivdgib.org
 ivdgibgov.com
 ivdgibvergodmlerimiz.blogspot.com
 ivdgibvrgiodlermi.blogspot.com
+ivdgirismobil.com
 ivdinb.net
 ivdkurumsalofice.net
 ivdlym-lyml.net
@@ -55134,6 +55151,7 @@ lndrm-kmpnyalarim-bradan-satinal.com
 lnftkriptoyenilenencepsube.com
 lnktab.net
 lnktanra.net
+lnktans.net
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
 lnnnnl.club
@@ -58070,6 +58088,7 @@ mebbisgirismebgovtr.com
 mebbisgovtr.cf
 mebbisguvenlik.co.vu
 mebbismeb.org
+meber.tempur.host
 mebgovtr.com
 meblhaus.biz
 mec-gov.md
@@ -58726,6 +58745,7 @@ metaphoricalstrait.top
 metaportalbussineshelp.com.tr
 metareklam.shop
 metareklam9503.sbs
+metareklamlari.cfd
 metareklamoffline.sbs
 metareklamonline.sbs
 metashelpcopyright.ml
@@ -59076,6 +59096,7 @@ mhsscfsrsa11.sbs
 mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
+mhssragva.autos
 mhssrajhsyyh.icu
 mhssrasa.sbs
 mhssrasa.space
@@ -59530,6 +59551,7 @@ mivarahotels.com
 mivaraluxuryhotel.com
 mivaraluxuryhotels.com
 mivccz.top
+mivoxel.com
 mixadreseteslim.online
 mixadversity.top
 mixcloudmusicgrouphub.com
@@ -62769,6 +62791,7 @@ nlreodnv.net
 nlsmdldndlh.net
 nlsustrvslostra.com
 nltalntalnal.net
+nltknant.net
 nltlantlanltanla.net
 nltlnaltanltant.net
 nlvlrndnvmnzkrnz.net
@@ -64550,6 +64573,7 @@ okta-louisvuitton.com
 oktaenroll.com
 oktalogin-targetcompany.com
 oktaportalsso.com
+oktasession.com
 oktayreklamajansi.net
 okul10gb.blogspot.com
 okuldestegim.com
@@ -69585,6 +69609,7 @@ portaldenizlefirsatim.xyz
 portaldijitalgib.com
 portaleinict.top
 portalgiris.l5.ca
+portalhemen.lol
 portalhizmettc.de
 portaligovi.com
 portalkamu.org
@@ -74413,6 +74438,7 @@ reservetion-id47688.world
 reservetion-id47690.world
 reservetion-id47781.world
 reservetion-id47839.world
+reservetiontuv.site
 reservinfo-id7862.world
 reserving-property.com
 reserving.world
@@ -77848,6 +77874,7 @@ sdfrmd.top
 sdfsdfdsfsd123dsf.blogspot.com
 sdfsdfggfd.duckdns.org
 sdfsdfsdf.click
+sdfsdgsfd.duckdns.org
 sdfsruy.icu
 sdfvksdfvksdvfk.shop
 sdgbcvn.galtofraknispovratisyorkamni.net
@@ -78407,6 +78434,7 @@ selgebeachsresorts.com
 selgehotels.com
 selgeotelside.com
 selgeresortbeach.com
+selgeresortbeachside.com
 selgeresortside.com
 selgeside.com
 selinbutikorgududulu.duckdns.org
@@ -80597,6 +80625,7 @@ sisecamturk.com
 sisfsifsfvvsf.com
 sisgiris.app
 siskolarlaberke.xyz
+siskologda.xyz
 sismanmotosiklet.com
 sismeboturunleri.com
 sisoftinglives.com
@@ -91986,6 +92015,7 @@ tuvvturks.digital
 tuvxturkx-3d-odemee.net
 tuvxtuvxfdsfswwqe-3ddsaxds.net
 tuw-turk.net
+tuwtukr.govt.hu
 tuy.ittrecc.com
 tuyoahsadhahsd909adsdhas.click
 tuyptt.top
@@ -101632,6 +101662,7 @@ yklesrglhgs.cfd
 yklmayiz.net
 yklmebslasmdi.cfd
 yklmednsnrhgs.cfd
+yklmehgsnktsi.cfd
 yklmehgszmnpra.cfd
 yklmenktnizhgs.cfd
 yklmhrsbrdaorg.cfd
@@ -102120,6 +102151,7 @@ yuzyilemrakkonutproje.xyz
 yuzyilinevleri-basvur.org
 yuzyilinevleri.com
 yuzyilinkonutprojesi.myonlineportal.ch
+yuzyilinkonutprojesi.org
 yuzyilprojesiilkevimhaksahipleri50.xyz
 yuzyiltokiprojesi.xyz
 yvaxm.com
