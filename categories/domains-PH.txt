@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 102977
-# Last change: 2026-09-14 14:09:23 UTC (sync mode: delta)
+# Records: 103004
+# Last change: 2026-09-14 19:25:43 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -113,6 +113,7 @@
 0jzlgfa.cn
 0kgydw0.cn
 0lala-hom.rest
+0loo4.site
 0m26aqc.cn
 0md.us
 0mp4ep.cn
@@ -378,6 +379,7 @@
 11012024.com
 111-786.weebly.com
 111010101111-222.cloud
+1111111110000000.sbs
 111111111111111.online
 11125455111.cloud
 11130059322882.webredirect.org
@@ -444,6 +446,7 @@
 124124121.sbs
 124124124.duckdns.org
 1243124234.store
+1244422115455455888899991.duckdns.org
 124451545544554888787990.duckdns.org
 124451545544554888787991.duckdns.org
 124451545544554888787992.duckdns.org
@@ -2218,6 +2221,7 @@
 6265465132bnc165651651tr.pro
 626665321425.cloud
 6266665464.cloud
+6267261.sbs
 629787a9.sieujnx.cloud
 62ce61f5-9.b-cdn.net
 63-125-257-33.com
@@ -2601,7 +2605,6 @@
 84992d88.jdhuwoskz.cloud
 84parcamatkap.myshopify.com
 84parcamatkapseti.shop
-850numara.com.tr
 85208520520520520520520.club
 853221-gmail.com
 854526542.cloud
@@ -10038,6 +10041,7 @@ avscehwvsvanasb.org
 avsfilo.online
 avsfilocar.org
 avsfilokurumsal.com
+avsfilonrentcara.com
 avsfilorent.com
 avsfilorental.com
 avsglobalkiralama.xyz
@@ -18642,6 +18646,7 @@ cheerfulcomplement.top
 cheerfulsynthesize.top
 cheerregimental.top
 cheesedcun.com
+cheetos35linkkk.info
 chefhoist.top
 chefvexa.com
 chekisd-nowgustiport.com
@@ -22762,6 +22767,7 @@ cousinuncle.top
 couturefilms.ca
 covecrystal.com
 covehing.top
+covenya.shop
 coverageaversion.top
 coverreconciliation.top
 coverthrive.top
@@ -29595,6 +29601,7 @@ ehazinetcbmtrgovtr1221.tk
 ehazinetrtriade21.tk
 ehdybsvrakmi.com
 ehegese.arabamuayenesi.xyz
+ehehehheheheehheeheheheheehe.info
 ehehehheheheehheeheheheheehe.online
 ehemngirsebasvradrsi.com
 eheyehasvafk.com
@@ -42982,6 +42989,7 @@ hizlialimlar.com.tr
 hizlialimlarin.com.tr
 hizlialimservisi.com.tr
 hizlialisverimizde.space
+hizlialisverislerim.com
 hizlialisverismerkezisadecea101de.duckdns.org
 hizliaracadreseteslimat.online
 hizliaracbzdolabi.xyz
@@ -43513,6 +43521,7 @@ hojesnadfetrese.duckdns.org
 hojesterser.duckdns.org
 hojeterler.duckdns.org
 hojsdfewer.duckdns.org
+hokayakabiturkiye.com
 hokkabazflexteb666.duckdns.org
 hokustiverglodit.net
 hold-booking.com
@@ -44240,6 +44249,7 @@ huhugufu-guyutere.lol
 hukbirim.eu
 hukuk-portal.com
 hukukasistan.org
+hukukbilgi.org
 hukukbilgimerkezi.org
 hukukbir.eu
 hukukbirimi.com
@@ -44561,6 +44571,7 @@ hzlicabzlesndevarsn.blogspot.com
 hzlicabzmlegcsnesnde.net
 hzlidabzlegcsnesnde.net
 hzlidauzmnlaypsnasende.net
+hzligcshgs.cfd
 hzligecsxrgulamalarrii.com
 hzliguvnlihizmet.net
 hzligvlivrgiodemexin.net
@@ -48614,6 +48625,7 @@ istkartim.net
 istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
 istkartlahmnadak.com
+istkartlahzlacn.duckdns.org
 istkartlar.com
 istkartlarmayuklicim.net
 istkartlassnyada.com
@@ -50923,6 +50935,7 @@ karabaglarbel.weebly.com
 karabaschecker.xyz
 karaca-a5q5-git-main-redmi1.vercel.app
 karaca-caydanlik.com.tr
+karaca-defas.homes
 karaca-dunyasi-com-tr.sbs
 karaca-duyam-com-tr.cfd
 karaca-firsat-dunyasi.shop
@@ -50942,6 +50955,7 @@ karacabuy.homes
 karacacarsafs.homes
 karacaclub.shop
 karacadagdernegi.com
+karacadefa.homes
 karacadiscount.homes
 karacadoms.club
 karacadoms.co
@@ -50962,6 +50976,7 @@ karacaileramazan.cfd
 karacaistnye.cfd
 karacakaracamhpme.com.tr
 karacakaramacakovalaca.xyz
+karacakitchen.homes
 karacakitchen.shop
 karacakorkmaz.com
 karacalar-sepetimden.vercel.app
@@ -52514,6 +52529,7 @@ kmpnnya-aldn-aldn-frssatlar.com
 kmpny.2023araclar.xyz
 kmpny1o1brd.com
 kmpnyaaaaprsmnynbsvrrr.info
+kmpnyaaavasvrrrusofnrsalari.online
 kmpnyaabsvrr12531.online
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
@@ -55121,12 +55137,14 @@ lnbnsnanrdenttldm.shop
 lnddrmm-klmmaaa.com
 lndirimayieylultt.com
 lndirimi-takipetsene.com
+lndirimieyluldehemen.com
 lndirimikapinagetirdik.com
 lndiriminboylesi-sende.com
 lndirimintakipcisiyiz.com
 lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
 lndirimlerikacirmadansendeal.com
+lndirimtakipcilerindentt.com
 lndirimtakipcileriyiz.com
 lndirimtakiptett.com
 lndirimtakpctst.com
@@ -59097,6 +59115,7 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssragva.autos
+mhssragva.buzz
 mhssrajhsyyh.icu
 mhssrasa.sbs
 mhssrasa.space
@@ -66904,6 +66923,7 @@ palestrand.top
 palkistrait.com
 palkskk-oakspsp.duckdns.org
 palmangels.vu
+palmiiyesultan.com
 palmisultan.com
 palmiye-sultan.blog
 palmiyesultan.best
@@ -68182,6 +68202,7 @@ pazarama.guvenlionayodeme.com
 pazarama.guvenlisiparisim.com
 pazarama.guvenliteslimat.com
 pazarama.hemenislemler.com
+pazarama.hizlialisverislerim.com
 pazarama.hizlikapimda.com
 pazarama.ilan-havale.com
 pazarama.ilanda-sepetim-1099.com
@@ -69645,6 +69666,7 @@ portfolioskranen.com
 portfoliotrait.top
 portfolipzts-pztyolhizmetleri.com
 portfoyakis.online
+portfoymenkul.com
 portfoynurol.com
 portgov.com
 portillumination.top
@@ -73961,6 +73983,7 @@ reklammeklamyokkk.sbs
 reklamnurgaz.icu
 reklamnurgazis.my
 reklampilot.site
+reklamsitesi.click
 reklat.loveslife.biz
 rekllamb-basvrum.com
 rektason.app
@@ -76114,6 +76137,7 @@ sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
 sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-62.sbs
+sahibinden-get.mobilservisler-63.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
@@ -76652,6 +76676,7 @@ sahibinden.mobilsepetin-tr.online
 sahibinden.mobilservisleri.com
 sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
+sahibinden.odeme-tamamla.com
 sahibinden.odeme-yap.com.tr
 sahibinden.odemelerin-guvenli.com.tr
 sahibinden.odemeyap-satinal.com.tr
@@ -78679,7 +78704,6 @@ senjuinndustriessss.info
 senkamparacla.net.tr
 senkazanccsaglla.tk
 senkia.pw
-senkrona.com
 senledapele.site
 senlede-kaldiklarinda-ilkonce-gelirde-bilinir.top
 senlibenlikm.click
@@ -80812,6 +80836,7 @@ sizlericin.iademaidat.com.tr
 sizlericin.lol
 sizlericin.net
 sizlericinburda.blogspot.com
+sizlericinsizlerle.net
 sizlerininicburadayiz.click
 sizlerinistedigi.shop
 sizlerlebuyuyoruz.com.tr
@@ -84373,6 +84398,7 @@ summerfestsochi.com
 summerjoinspring.live
 summerlure.top
 summerlyric.top
+summerstore.top
 summertrip.surf
 summiseek.click
 summitartillery.top
@@ -93547,6 +93573,7 @@ uzlasmadosyalar.org
 uzlasmadosyalari.org
 uzlasmadosyamaliye.com
 uzlasmadosyasimaliye.com
+uzlasmadosyatr.com
 uzlasmadosyauyap.org
 uzlasmaegm.org
 uzlasmaemaliye.org

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41337
-# Last change: 2026-09-14 14:09:23 UTC (sync mode: delta)
+# Records: 41356
+# Last change: 2026-09-14 19:25:43 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3523,6 +3523,7 @@ aniaeninie.su
 anidoz.com
 anilkramer63.xyz
 animalsfast.net
+animalview.xyz
 animasyontavsiyeveyorumlar.xyz
 animasyonvekulturhikayeleri.xyz
 animatcxju.live
@@ -3776,11 +3777,13 @@ api.startservicefounds.com
 api.stream-amazon.com
 api.stream-google.com
 api.stuseamandesilt.org
+api.telephoneip.net
 api.terdpo.com
 api.textbkspird.com
 api.todaynote.net
 api.tretorchlight.com
 api.trewreeew.com
+api.truesmart.org
 api.turanantitheft.com
 api.twmoc.info
 api.ufuopo.com
@@ -4944,6 +4947,7 @@ backsrv74.azurewebsites.net
 backstabprotection.jamesx123.repl.co
 backtofuture.zapto.org
 backu4734.duckdns.org
+backup-ubt.s3.us-east-1.amazonaws.com
 backup.awarfaregaming.com
 backup.bfxvgqxlhcmsgnoc.com
 backup.darktomorrow.net
@@ -6104,6 +6108,7 @@ bo0klng.blogspot.com
 boa.azuredefender.online
 boa.job-description.online
 boa.jobdescription.online
+boardmagic.info
 boards-authority.at.ply.gg
 boastful.gloveslim.cc
 boathubphuket.com
@@ -8447,6 +8452,7 @@ collabland-eth.com
 collabodex.com
 collaboromarketing.com
 collar.lancescanb.com
+collartitle.info
 collection9834.xyz
 collectivedoc.top
 collectiveeagle905.weebly.com
@@ -8622,6 +8628,7 @@ connect.clevelandskin.com
 connect.clevelandskin.net
 connect.clevelandskin.org
 connect.clinkvl.com
+connect.fuelleg.info
 connect.infinitybackup.net
 connect.infinitycloud.info
 connect5g.xyz
@@ -13585,6 +13592,7 @@ finecures.com
 finetineclockpastten.site
 finformservice.com
 finger.cldvrfd.click
+finger.linked4x.com
 fingerprint-veri.info
 finix.newsnewth365.com
 finixalg11.ddns.net
@@ -23458,6 +23466,7 @@ minecrafttt.ddns.net
 mineicicle.info
 minerz.duckdns.org
 minetard.linkpc.net
+minewave.info
 minfintymexbr.geekgalaxy.com
 ming.chujong.com
 mingeloem.com
@@ -24840,6 +24849,7 @@ nediyonlansen.asia
 nedmborck.xyz
 nedoli.net
 neduunlansen.asia
+needcherries.online
 needforrat.hopto.org
 needle63.xyz
 needleexperience.xyz
@@ -27327,6 +27337,7 @@ pcqdkxos.com
 pcqsqhpugi.duckdns.org
 pcraytn.com
 pcrmuqrjyqwrrjt.cn
+pcsdkflyer.ca
 pcskeckec.ddns.net
 pcsnet.ddns.net
 pctftp.otzo.com
@@ -27823,6 +27834,7 @@ pl1x.top
 place548.xyz
 placeholder.duckdns.org
 placemat.devainsulineer.com
+placespoon.xyz
 plactech.quest
 plagnol-charpentier.fr
 plainraw.com
@@ -29801,6 +29813,7 @@ refwo2992.ddns.net
 reg-d.info
 reg.madagent.cc
 reg.madagent.tm
+reg.pcsdkflyer.ca
 reganter.com
 regclassboard.com
 regditogo.com
@@ -32488,6 +32501,7 @@ skillissue.ddns.net
 skillmasteryhub.us
 skinndia.com
 skippedtestinapp.firebaseio.com
+skipraid.com
 skirtgrippys.com
 skit39.q8jn7u.com
 skittineid.xyz
@@ -33617,6 +33631,7 @@ strictplace.com
 striker223.ddns.net
 string2me.com
 strip4burky.ddns.net
+stro7121.blob.core.windows.net
 strodunido.xyz
 stroitelnye-jekologicheskie-materialy2016.ru
 strokes.zapto.org
@@ -33632,6 +33647,7 @@ strovvberyykido.net
 structure455.xyz
 structuredetail.info
 strumpet4.xyz
+stryper.info
 sts-vodafone.com
 stt-box.com
 stualialuyastrelia.net
@@ -33722,6 +33738,7 @@ suisuncitystorage.com
 suit.behaviorwellnessscope.com
 suitcase4life.website
 suite-moral.info
+suitstraw.info
 suizibel.ru
 sujaxa.com
 sukimbo.ddns.net
@@ -35641,6 +35658,7 @@ trianum.co.ke
 tribenpantrimonianal.cfdauctions.org
 tribepresentaitsi.shop
 tribesdao.com
+trickflag.info
 tridrongo.info
 triger-working.com
 trigship.com
@@ -39016,6 +39034,7 @@ ws.seopulsepro.sbs
 ws.site-signal.top
 ws.tyrrt.icu
 ws.vdsfsh.icu
+ws.ztts88.cyou
 ws3lfkm.com
 wsaxfgvt.com
 wsdertejwqrf.com
