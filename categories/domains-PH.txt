@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103049
-# Last change: 2026-09-15 07:49:18 UTC (sync mode: delta)
+# Records: 103085
+# Last change: 2026-09-15 13:37:39 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -210,6 +210,7 @@
 101-extra-sadece-bugune-ozel-sepette-mobil-indirimleri-tr.buy
 101-extra-sadece-mobile-ozel-online-sepet-indirimleri-mobil-tr.ucuzshop.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
+101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulurunleri.shop
@@ -381,6 +382,7 @@
 111010101111-222.cloud
 1111111110000000.sbs
 111111111111111.online
+1111x1111.sbs
 11125455111.cloud
 11130059322882.webredirect.org
 111300593882.ooguy.com
@@ -2239,6 +2241,7 @@
 643264361.sbs
 643643sdf2253ssdf.click
 6438778.xyz
+6444s.site
 64512412412817355731.biz
 64524325235.net
 6453verifycard-booking.com
@@ -8944,6 +8947,7 @@ asleepmonopoly.top
 asleeppenguin.top
 asleoaslaeodsla.online
 aslicezasorgu.org
+aslicicek.com
 aslihukuksorgu.com
 aslinda-genel-de-hep-ayaginizin-dibinde-durduk.com
 aslinda-yenilikci-formul-ayagina-geldi.com
@@ -9977,6 +9981,7 @@ avisrentalcars.com.tr
 avisrentascar.com
 avisrentcar.in
 avisrenttacarr.com
+avisresmionlinesozlesme.ltd
 avisrezerv.online
 avisrezervasyon.net
 avisrezerve.com.tr
@@ -10127,6 +10132,7 @@ awasmfawmas.net
 awayretrospect.top
 awayrotate.top
 awdat-blgnz-srglgmlardsnz.xyz
+awdwsiskooadasd.xyz
 awearrogant.top
 aweinject.top
 awesome-galois.31-220-75-59.plesk.page
@@ -10323,6 +10329,7 @@ azoriani-id852.world
 azorishotels.help
 azpoint.top
 azracicek.net
+azracicekcilik.com
 azsijorta.xyz
 azturfo.pro
 azureapplicationregistration.pages.dev
@@ -11788,6 +11795,8 @@ baykartur.com
 baykarturkey.org
 baykarv.glitch.me
 baykarworld.gifts
+baykaryatirimprogrami.digital
+baykaryatirimprogrami.xyz
 baykatr.digital
 baykkar.com
 baykkarauto.noil.top
@@ -12726,6 +12735,7 @@ bilgikap.info
 bilgikayna.info
 bilgikaynagi.cfd
 bilgikurum.net
+bilgikurum.org
 bilgikusu.org
 bilgildrmelhemen.com
 bilgilen.club
@@ -15928,6 +15938,7 @@ bsvuruyon5.click
 bsvvrrrrkrediiiprmsynnnkmpnyaa.info
 bsvvrrrrkrediiiprmsynnnkmpnyaa.pro
 bsw2cmcd.tokyo
+bsygy.help
 bsznnxppcelle.com
 bt-kassa.com
 bt-tickets.com
@@ -29744,6 +29755,7 @@ ekimkapmanyasibasvurusu.tech
 ekimmmmm.com
 ekipcheck.com.tr
 ekipportal.tr
+ekle-tr.online
 eklenti.org
 eklmflrsatlari.com
 eklmozellflrsatllar.com
@@ -48253,6 +48265,7 @@ ist-bkye-ykle-merkezi.net
 ist-kart-n.blogspot.com
 ist-n.net
 ist34-belbim.net
+ist343434.xyz
 ist4nbulb4kiy3cm.net
 ist4nbulknrt.net
 istaaanz.com
@@ -48297,6 +48310,7 @@ istanbul-bilet.shop
 istanbul-dolumu.online
 istanbul-indirimci.com
 istanbul-kartim.digital
+istanbul-kiralikkonut.vercel.app
 istanbul-neco.net
 istanbul-soft.com.tr
 istanbul-ticket.co
@@ -48329,6 +48343,7 @@ istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.uk
 istanbulbelgim.xyz
+istanbulbelgimkartt.xyz
 istanbulbelgimkarttt.xyz
 istanbulbelgimkartttcann.xyz
 istanbulbelgimm.xyz
@@ -48524,6 +48539,7 @@ istandblbenim.net
 istanfreefess.xyz
 istanibkllkart.com
 istankarttt.xyz
+istankartttcan.xyz
 istanlbxs.com
 istanmistik.net
 istanmnz.com
@@ -51633,6 +51649,7 @@ kennys6566esx.blogspot.com
 kensotnahsot.net
 kentabnkart.net
 kentburun.net
+kentcicek.com
 kentcimkart.net
 kentermen.duckdns.org
 kentiminodmesi.net
@@ -51789,6 +51806,7 @@ kgm-oqi.com
 kgm-oqn.com
 kgm-sorgulamaodeme.org
 kgm-vipgov.cam
+kgm.fkdmv.top
 kgm.govtt.site
 kgm.gzdmxw.help
 kgm.hhtfrm.help
@@ -52662,6 +52680,7 @@ kmsorguyaphemebburdangovpttavm.duckdns.org
 kmsorguzsyapalimburadancem.web.app
 kmsoruguyaphemngovpttefpak.web.app
 kmsrgcwzs.net
+kmsrglamahizmetlerimiz.web.app
 kmsrgldklarmizdayz.gleeze.com
 kmsrgoslyampgovptrrsvvk.web.app
 kmsrgoualmayaplimgovserkan.web.app
@@ -53670,6 +53689,7 @@ kuveyttur.com
 kuveytturk-web-sube-kampanyalarimiz-finansman66.b-cdn.net
 kuveytturk.form-bildirim.com
 kuveytturk.hizmetislemleri.com
+kuveytturk.sbs
 kuveytturk.tr-form.com
 kuveytturkbasvuruekrani.ignorelist.com
 kuveytturkhdy.com
@@ -58378,6 +58398,7 @@ mekkacity.site
 mekke.us
 mekkokksa.click
 mekocakosak.servebeer.com
+meksayatirimtr.com
 mektamasklogin.webflow.io
 mektupyazsana.com
 meladze-concerts.com
@@ -62840,6 +62861,7 @@ nlsmdldndlh.net
 nlsustrvslostra.com
 nltalntalnal.net
 nltaman.net
+nltknam.net
 nltknant.net
 nltlantlanltanla.net
 nltlnaltanltant.net
@@ -63614,6 +63636,7 @@ nvirand.click
 nvirandevuals.com
 nvirandevucunuz.online
 nvirandevulariniz.online
+nvirandevulariniz.space
 nvirandevularinizz.online
 nvirandevularinizz.site
 nvirandevumal.net
@@ -64783,6 +64806,7 @@ onay-mobildenizv2basvuru.com
 onaycebbbsubedeniiz.net
 onayda-sepet-7180.com
 onayda-sepet-7181.com
+onayda-sepet-7182.com
 onayda-tedarik.com
 onayekranimizcinayli.fun
 onayekraniniz-sorogrengiris.sbs
@@ -80501,6 +80525,7 @@ sindravaface.info
 sinemadestekyetki.ml
 sinemavetelevizyonprojelerigozlemi.xyz
 sinemcicek.com
+sinemcicekcilik.com
 sineprom.com
 sing-post.top
 singchief.top
@@ -84346,6 +84371,7 @@ suddenscan.top
 suddentattoo.top
 suddenzealous.top
 sudebilisim.com
+sudecicekcilik.com
 sudemaskim.xyz
 suderenpaketleme.com
 sueabbreviation.top
@@ -86413,6 +86439,7 @@ tckceza.org
 tckhkvytgoldpointpuanfirsat.com
 tckiadesayfasi.com
 tckk.app
+tckmaliyesorgulama.com
 tcksorgu.org
 tckuzlasma.org
 tcmahkeme.net
@@ -99007,6 +99034,7 @@ wvwvvakfaidatademerkezimiz.com
 wvww-paribu.com
 wvwwparibmramazan.com
 wvwwv-twitter.com
+wvziraatbankasi.click
 ww-a-101-market.com
 ww-arachtmrnr.blogspot.com
 ww-tramrsk-com-tr.blogspot.com
@@ -99659,6 +99687,7 @@ xkaxsa.help
 xkcska.ru
 xksmxrgulama.com.tr
 xkuxoinlogin.webflow.io
+xkvip.xyz
 xl-tuvturkrandevux.rf.gd
 xldzrh.top
 xleonalpos.icu
@@ -100839,6 +100868,7 @@ yarditeracy.top
 yardmbirgun.tech
 yardmbsvursusorguhmn.online
 yardspiral.top
+yarencicekcilik.com
 yarengsm.com
 yarhgs.rf.gd
 yarinaelele.com.tr
@@ -102714,6 +102744,8 @@ ziraatbankan-uk.com
 ziraatbankasibank.com
 ziraatbankasicombo.kastakdkdkd.tk
 ziraatbankasikredihesaplama.blogspot.com
+ziraatbankasiprojesi-click.pages.dev
+ziraatbankasiprojesi.click
 ziraatbankasiylaberaberiz.com
 ziraatbankileberaberiz.com
 ziraatbusiness.com
@@ -102737,6 +102769,7 @@ ziraatsbkon.com
 ziraattarimsa.cfd
 ziraattenbasvuru.sbs
 ziraattenodemeyialin.com
+ziraattli.sbs
 ziraatttt.com
 ziraatyatirimborsahesabi.pro
 ziraatyazkacirilmazfirsat.tk
@@ -102744,6 +102777,9 @@ zirailillf.cfd
 ziraitarimfs.cfd
 ziralmobilonlineislemlerimtr.duckdns.org
 ziratbasvuruihtiyac.com.tr
+ziratkampanyadan.sbs
+ziratkampanyasi.sbs
+ziratligunler.sbs
 ziratoff.online
 ziratpngj.cfd
 zircartel.tr

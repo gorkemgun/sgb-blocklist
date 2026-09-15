@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258525
-# Last change: 2026-09-15 07:49:18 UTC (sync mode: delta)
+# Records: 258544
+# Last change: 2026-09-15 13:37:39 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -1965,6 +1965,9 @@
 1111254865645-online.cloud
 11114141414.duckdns.org
 11114343-111.duckdns.org
+111194999373845dnz.duckdns.org
+111194999373845dnz.webredirect.org
+1111999937384gr.duckdns.org
 111212121212121.duckdns.org
 111222332435647.com.tr
 1112332210121.duckdns.org
@@ -2287,6 +2290,7 @@
 124312garantibbvabasvuru.duckdns.org
 124312garnatinizinsfdg.duckdns.org
 12432535435.xyz
+1244422115455455888899993.duckdns.org
 124512121544125155493331.xyz
 124512121544125155493332.xyz
 124512121544125155493333.xyz
@@ -29851,6 +29855,7 @@ avskiralikaraclar.xyz
 avsonline.net
 avsonlinee.xyz
 avsotofly.com
+avsotokiralama.net
 avsotokockiralama.com
 avsotomobilkiralama.com
 avsrent.com.tr
@@ -34367,6 +34372,7 @@ basvurularbnntrgiris.online
 basvurularburadan.me
 basvurularburadan.sbs
 basvurularburadan.xyz
+basvurularburdan.cfd
 basvurulardevamediyo.cloud
 basvurulardevamportal.duckdns.org
 basvurularebasvuru-resmi-gov-tr.info
@@ -34577,6 +34583,7 @@ basvurumerkezi2026onaysitemi.duckdns.org
 basvurumerkezi808.duckdns.org
 basvurumerkezibbva.static.domains
 basvurumerkeziiadesistemi.com
+basvurumerkezim2026.cfd
 basvurumerkezinden.org
 basvurumerkezindesinizz.com
 basvurumerkezinizbbva.com
@@ -56657,6 +56664,7 @@ cebtekampanyan.com
 cebtekampanyaniz.com
 cebtekimobilplatform.sbs
 cebtemobilim.com
+cebteteb-bireysel-emekli.my-homeip.de
 cebteteb-com.my-homeip.de
 cebteteb-mobil-giris.tk
 cebteteb-tr-bonus.com
@@ -56851,6 +56859,7 @@ cekilisi.com
 cekilisi.online
 cekilisi.org
 cekilisi.site
+cekilisim--burada.online
 cekilisim-burada.online
 cekilisim.4-246-164-34.plesk.page
 cekilisim.online
@@ -58091,6 +58100,7 @@ ceptetebde-emekli.my-homeip.de
 ceptetebdebayram.com
 ceptetebdebayramzamani.com
 ceptetebdefirsat.com
+ceptetebden-emekli.my-homeip.de
 ceptetebderahatlik.com
 ceptetebderamazan.com
 ceptetebdigital.com
@@ -58115,6 +58125,7 @@ ceptetebkredinhazir.online
 ceptetebl.com
 cepteteble.com
 ceptetebli-basvurum.my-homeip.de
+ceptetebli-emekliye.my-homeip.de
 ceptetebli.com
 cepteteblim.com
 ceptetebmobil-comtr.tk
@@ -58319,6 +58330,7 @@ cezadosyasisorgu.org
 cezadosyasiuyap.com
 cezadosyasiuzlasma.com
 cezadosyasorgula.org
+cezadosyasorgulama.com
 cezadosyatakip.org
 cezadosyauzlas.com
 cezadosyauzlasmasi.com
@@ -100970,6 +100982,7 @@ gelisosna1.net
 gelistermenofresh.duckdns.org
 geliyoa1o1.net
 geliyorgelmekolanlarss.com
+geliyorgelmekteolanhazirlanin.club
 geliyorgelmekteolanlar.com
 geliyorlarkampanya.com
 geliyorlarkksmdsa.com
@@ -148105,6 +148118,7 @@ kgm-yukleex.com
 kgm.awlytr.click
 kgm.axprbo.click
 kgm.azqnvg.cc
+kgm.bsygy.help
 kgm.byyjej.help
 kgm.cdbtrq.online
 kgm.cwptmz.help
@@ -148143,6 +148157,7 @@ kgm.upipid.cc
 kgm.vtgfwh.cc
 kgm.wklxda.homes
 kgm.xelnbr.help
+kgm.xkvip.xyz
 kgm2023plakams.blogspot.com
 kgmaa.top
 kgmab.bond
@@ -148935,6 +148950,7 @@ kiralikaracmax.online
 kiralikdairelerkemer.click
 kiralikfilo.co
 kiralikfiloaraconline.com
+kiralikkonutbasvurularim.cfd
 kiralikotolarmax.online
 kiralikotomix.site
 kirallar.online
@@ -150440,6 +150456,7 @@ kmsorgulamagulyan.shop
 kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
 kmsorgulamahizmetlerinizz.shop
+kmsorgulamahizmetmiz.com
 kmsorgulamakicin.blogspot.com
 kmsorgulamakubravursz.duckdns.org
 kmsorgulamalalrnzhizlica.web.app
@@ -165758,6 +165775,7 @@ mukemmelkisfirsatlari.xyz
 mukemmelmayisfirsatlari.com.tr
 mukemmelmayisfirsatlari.online
 mukemmelmayisfirsatlari.xyz
+mukulujuhuesedere.lol
 mukulupolisede.lat
 mulesanas65.xyz
 mulhigifrete.my-homeip.net
@@ -251421,6 +251439,7 @@ yenibasvurugirisformu.com
 yenibasvurukampnya2024.com
 yenibasvurular.net
 yenibasvurular.online
+yenibasvurumerkezi.cfd
 yenibasvurunuz2.store
 yenibasvurushibdogehediyepaributeknolojisi-tr.tk
 yenibasvurusorgulamafinas.com

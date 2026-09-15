@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65979
-# Last change: 2026-09-14 14:09:23 UTC (sync mode: delta)
+# Records: 65985
+# Last change: 2026-09-15 13:37:39 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10379,6 +10379,7 @@ apple-support-account.info
 apple-trusted.com
 apple-verifiy-account.com
 apple-verifiy.net
+apple.clean-disk-guide.com
 apple.driver-store.com
 apple.internetdocss.com
 apple21.duckdns.org
@@ -16991,6 +16992,7 @@ code-cloud3.co.za
 code-cloud4.co.za
 code-cloud5.co.za
 code-cloud6.co.za
+code-desktop.com
 code.blaztech.gdn
 code.jquery.cdn.behindcorona.com
 code0xxx.duckdns.org
@@ -17007,6 +17009,7 @@ coderrytcopy.ddns.net
 codertricks.zapto.org
 codeviewer-three.vercel.app
 codevisualstudio.org
+codex-craft.com
 codezero700.ddns.net
 codhaefef21-vv1p.duckdns.org
 codhasop-new-x37.duckdns.org
@@ -28090,6 +28093,9 @@ hbkobhfrtf.duckdns.org
 hbl2nh.duckdns.org
 hblnqmvsmd.net
 hbnjeaxsqd.duckdns.org
+hbomax-macos.com
+hbomaxx.app
+hbomaxx.us
 hbpor.zapto.org
 hbrvznwkx.info
 hbtnouumfj.duckdns.org
