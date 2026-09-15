@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103037
-# Last change: 2026-09-15 01:31:46 UTC (sync mode: delta)
+# Records: 103049
+# Last change: 2026-09-15 07:49:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -821,6 +821,7 @@
 182-nett.com
 182-onlines.biz
 182-onlines.help
+182-web.cfd
 182-web.sbs
 182-web.xyz
 182-webb.cfd
@@ -36634,6 +36635,7 @@ gecishizmet.com
 gecishizmetleri.com
 gecishukuk.in
 gecishukukdosya.info
+gecishzmtleriniz.art
 gecisihlaldanismanligi.com
 gecisihlali.in
 gecisihlaliode.org
@@ -41191,6 +41193,7 @@ hayspecialty.top
 hayvanasiddetlerrolmasin.net
 hayvanaslddetehayir.com
 hayvanat.xyz
+hazallisubesindeyiza.duckdns.org
 hazallisubesindeyz.duckdns.org
 hazaltefsdgh.great-site.net
 hazanbilgi.info
@@ -43090,6 +43093,7 @@ hizligecisyuklemeciniz.firebaseapp.com
 hizligecisyuklemeim.web.app
 hizligecixuzmanlari.net
 hizligecmeysm.org
+hizligecsbakiyecnzzz.web.app
 hizligecsdoldurma.art
 hizligetalisveris.com.tr
 hizligiris.cf
@@ -43358,6 +43362,7 @@ hjxhizligecislersizlerle.net
 hjxzliyukleme.com
 hk-binance.com
 hk-login.com
+hk.kalyanavaram.com
 hk2.hjkgghjj.com
 hkaslytrrasdrmmm.com
 hkddlvt-dvty.com
@@ -49993,6 +49998,7 @@ joyolog.com
 joyousglare.top
 joyousmerge.top
 joytoun.com
+jp-login.bsnotespublication.com
 jp.tsity.com
 jpbmvwk.shop
 jpgcqy.xyz
@@ -50504,6 +50510,7 @@ kalputrafnograsinraktacsarfam.net
 kalsandnsdansdn.com
 kalsinlarbiktimartikamk.click
 kaltheriq.qpon
+kalyanavaram.com
 kamangcslrodput.net
 kamapanylaralmayageldi.online
 kamasutrakol.com
@@ -66339,6 +66346,7 @@ outlook-286c9.web.app
 outlook-office.micsrosoftonline.com
 outlook-one.vercel.app
 outlook-web-access-bccfe2.webflow.io
+outlook.bsnotespublication.com
 outlook.unatril.tk
 outlookfurious.top
 outlookmicrosoftonline.com
@@ -66609,6 +66617,7 @@ ozlllfrsltrrbsvrrkmpnyalari.art
 ozlllfrsltrrbsvrrkmpnyalari.info
 ozm.flylineaeru.com
 oznelfirsatlar.abrdns.com
+ozon.bsnotespublication.com
 ozon58.ru
 ozrgldermfg.net
 oztane.com
@@ -73284,6 +73293,7 @@ rcitecta.com
 rclzcib.cn
 rctprklariburalamuayne.net
 rctqty.top
+rd1800vire.shop
 rd1kdekdkde.com
 rddvlvt-rvt.com
 rdecfinb.com
@@ -81570,6 +81580,7 @@ sokekstra.pages.dev
 sokezu.info
 sokfiirsatlar-temmuzda.com
 sokfirsatburada.com
+sokfirsatderken.duckdns.org
 sokfirsatigeldi.com.tr
 sokfirsatigeldi.xyz
 sokfirsatlar-temmuzda.com.tr
@@ -81853,6 +81864,7 @@ sonfirsatlarimizkacirmadansatinalin.online
 sonfirsatlarsizlerlekacinilmazkampanya.xyz
 sonfirsatlaryetisirsenalirisn1.com.tr
 sonfirsatocakkampny.icu
+sonfirsltarrribkmpnyabsavr.info
 sonfirst-hetxmn-aldin-aldin.shop
 sonfirsta1o1desonlndirimler.blogspot.com
 sonfristlarburda101.store
