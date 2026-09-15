@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258544
-# Last change: 2026-09-15 13:37:39 UTC (sync mode: delta)
+# Records: 258551
+# Last change: 2026-09-15 18:15:06 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -23888,6 +23888,7 @@ aldinaldinbayramurunleri.com.tr
 aldinaldinbitmez.shop
 aldinaldinboschyikama.store
 aldinaldinbufirsatiii101.com
+aldinaldinbugunozeldir.com
 aldinaldinbuhafta.shop
 aldinaldinburda.duckdns.org
 aldinaldinburdansonfirsat.cfd
@@ -30265,6 +30266,7 @@ aynyukleme.22web.org
 ayolgus.net
 ayraninatuzekemmi.ignorelist.com
 ayricalikbimcelde.com
+ayricaliklar-cepteteb-emekliye.my-homeip.de
 ayricaliklarburada.com
 ayricaliklardenizde.com
 ayricaliklardunyasi.info
@@ -51831,6 +51833,7 @@ bsvrrrrkmpnyaaprmsynnn.info
 bsvrrrrprmmssynnkmpnyyyy.info
 bsvrrrrprmmssynnkmpnyyyy.live
 bsvrrrrprmsynn.click
+bsvrrrrprmsynnkmpnyaaa.info
 bsvrrrrprommooogrnnn.click
 bsvrrrrprsmmsnynn.info
 bsvrrrrprsmmsnynn.online
@@ -58342,6 +58345,7 @@ cezahukuksorgulatma.com
 cezaicinodeme.sg-host.com
 cezaidari.org
 cezaiislemler.sg-host.com
+cezainfaz.org
 cezaislemleri.info
 cezaislemleri.mywire.org
 cezaislemlerin.info
@@ -122873,6 +122877,7 @@ hizmetlerim-turkeygovtr.com
 hizmetlerim-turkiyegovtr.com
 hizmetlerim-turkygov.com
 hizmetlerim-turkygovtr.com
+hizmetlerim.click
 hizmetlerim.xyz
 hizmetlerimdevletdesteklerim.tk
 hizmetlerimfull.xyz
@@ -184968,6 +184973,7 @@ prmoookmpnyaaabsvrrr.info
 prmoookmpnyaaabsvrrr.pro
 prmooqnbbkmpnyaa.click
 prmossssynbsvrrr.click
+prmosynnkmpnyakrediibasvr.pro
 prmosynnnbsvrrqnb.click
 prmosyonbasvr.click
 prmsnykmpnyaagrnt.info
@@ -215470,6 +215476,7 @@ tckdosyasorgulama.com
 tckgm.cc
 tckimlik-psi.vercel.app
 tckisgovtr.cf
+tckmaliyesorgula.com
 tckontak.net
 tckrca.cfd
 tckredikariade100.com

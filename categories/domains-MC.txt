@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41357
-# Last change: 2026-09-15 13:37:39 UTC (sync mode: delta)
+# Records: 41361
+# Last change: 2026-09-15 18:15:06 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -8205,6 +8205,7 @@ cloud.msapp.workers.dev
 cloud.myrnicrosoft.com
 cloud.nathompsstra.com
 cloud.qunetcentre.org
+cloud.shinewrist.net
 cloud.sophos.one
 cloud.trendav.co
 cloud1dv.com
@@ -15079,6 +15080,7 @@ githubdd.workers.dev
 gitkzxd.pnuisckmhwagzvdyjrlbeft.software
 gitmekaldiyemedim.xyz
 gitnow.dev
+gitprogram.com
 giuahfoaoeubfouaena.ru
 giuahfoaoeubfouaenau.info
 giusmdeqkkjkmrh.su
@@ -25932,6 +25934,7 @@ ocmtancmi2c4t.xyz
 ocotoprinthugo.ddns.net
 ocqytl.com
 ocr-freespace.oss-cn-beijing.aliyuncs.com
+ocr.opusaccel.top
 ocsp-atomsecure.com
 ocsp.trust-provider.cn
 ocspdep.com
@@ -36135,6 +36138,7 @@ uaznys.com
 ub1uxd9u4qz46t8y6s.com
 ub432.wagerenova.com
 ubadrium.com
+ubakafrank8.workers.dev
 ubfxsklljlfrmifklwcy.com
 ubi-safemeeting.live
 ubi-safemeeting.online
