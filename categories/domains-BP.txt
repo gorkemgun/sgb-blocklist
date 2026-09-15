@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258551
-# Last change: 2026-09-15 18:15:06 UTC (sync mode: delta)
+# Records: 258572
+# Last change: 2026-09-15 21:29:14 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -28171,6 +28171,7 @@ as65dn41a98wn0a.net
 as8monlytstskofwqwqrsfawr2qwqdsaqwww.za.com
 asac1l3xdxxl3x4lcsadca.cfd
 asac1l3xdxxl3x4lcsadca.sbs
+asaceveferesede.lol
 asadak.b-cdn.net
 asadawedsadqwfq.net
 asadcddlvt-svdtt.com
@@ -28780,6 +28781,7 @@ asorgula.info
 asorgula.org
 asosdoveresort.com
 asosyl.shop
+aspd-l-arc.myonlineportal.ch
 aspernatur-quis.site
 asphgsz.com
 aspidochirota.com
@@ -34918,8 +34920,10 @@ basvuruservis.ml
 basvuruservisi.gq
 basvurusimdi-globalkampanyabudurtechbance.tech
 basvurusistem.abrdns.com
+basvurusistemi.abrdns.com
 basvurusistemi.com
 basvurusistemi.online
+basvurusistemim.abrdns.com
 basvurusistemim.com
 basvurusistemonlineglbl.com
 basvurusistm.com
@@ -52690,6 +52694,7 @@ bugecepartideyalnizsin.online
 bugecesabahyok.click
 bugecicikampnyafirsatisizeozel.space
 bugefceaybile.org
+bugerefedesedese.lol
 bugfudafadadsede.xyz
 buggattinio.xyz
 bugggaaarrraaannntttiiii.net
@@ -52993,6 +52998,7 @@ buhgudurte.my-homeip.com
 buhgufasde.site
 buhizmetinertcu.tk
 buhnnpqjpbuhnnpqjp.surge.sh
+buhugufiliresede.lol
 buhugufure-desedese.lol
 buhuisi.cn
 buhukulupolisede.lat
@@ -53120,6 +53126,7 @@ bumderyuop.site
 bumduolsa.site
 bumdusde.site
 bumfkldl.net
+bumjuhukulufere.lol
 bumjxcellsabah.net
 bumkuolpirehi.lat
 bumnxxacel.com
@@ -56871,6 +56878,7 @@ cekilisimdenizden.tk
 cekilisimekatil2013ekim.com
 cekilisimekatil2023ekim.com
 cekilisimhemenburada.online
+cekilisin--burada.online
 cekilisin-acikdenizv2denizbank.com
 cekilisin-burada.online
 cekilisin.online
@@ -61422,6 +61430,7 @@ cugubasdaww.best
 cugufirede-sedete.lol
 cugyco.shop
 cuhenikrun.blogspot.com
+cuhuguferepilosidere.lol
 cuhukuludefersedesede.xyz
 cuhxusxgsxj.net
 cuileodels.net
@@ -61998,6 +62007,7 @@ cuxmarket55.com
 cuxmrtesimktr39.com
 cuyferteyete.site
 cuygereteyesede.lat
+cuyguretesederese.lol
 cuyhulolpe.click
 cuyolmbilde.click
 cuyuiperse.site
@@ -62126,6 +62136,7 @@ cygnixhubs.store
 cygnixlabs.shop
 cygnora.com
 cygnussforge.com
+cyhugrferedeseliko.lol
 cyhumue.info
 cyimkwchkc.top
 cykelng.cn
@@ -95082,6 +95093,7 @@ firstgest.digital
 firstislem.22web.org
 firstkampanya.site
 firstkapilirinizagelsin.com
+firstkmpyeyl.duckdns.org
 firstkpnizageliyr.click
 firstlar-dunyasi-kapinda.online
 firstlaralik101dehemenal.com
@@ -96381,6 +96393,7 @@ fugo-panel.com
 fugoking.net
 fugoldg.net
 fuhrherrs.info
+fuhukulupiloseide.lol
 fujhilmipol.click
 fujywls.storage.googleapis.com
 fukarasosyalmarket.site
@@ -101771,6 +101784,7 @@ gethizmet.com
 gethylira.shop
 gethylira.store
 getilan-guvenle.site
+getilan-onay.online
 getilan-sahibindensatis-com.tk
 getilan.com.tr
 getilani.com
@@ -103493,6 +103507,7 @@ girisyap-com.cf
 girisyap-com.ml
 girisyap-garantibbva.duckdns.org
 girisyap-gib-tr.online
+girisyap-hizlidan.abrdns.com
 girisyap-ivd.com
 girisyap-ivm.sa.com
 girisyap-kartaidatiadegovtr.org
@@ -146779,6 +146794,7 @@ katilimyeniyill.com
 katilimyilinduyurusu.com
 katilimyilinhediyesi.com
 katilimzamani.com
+katilimzamaniartiksendehemengel.site
 katilimzamanlari.com
 katilin150.com
 katilingrnlt.xyz
@@ -159996,6 +160012,7 @@ merkezcicek.site
 merkezcicekevi.com
 merkezcicekevi.info
 merkezcimeri.com
+merkezdenetsayfasi.abrdns.com
 merkezdenkayit.abrdns.com
 merkezdesteksistemi.online
 merkezdevlet.com
@@ -165810,6 +165827,7 @@ munipolare.site
 munodvdpbi.cfd
 munodvdpbi.sbs
 munovj.cc
+munuhugililosidere.lol
 munurfitness.net
 munurhocafitness.net
 muoacaspfvi.sbs
@@ -235907,6 +235925,7 @@ vudsertilmk.click
 vueriok.live
 vuferyophge.click
 vufyqa.asia
+vuguhuferedelilosed.lol
 vuhgatoi.com
 vuhgsci.rf.gd
 vuhgude-redesedere.lol
@@ -255643,6 +255662,7 @@ zarnovia.com
 zarzesdf.duckdns.org
 zasadasa-derederede.lol
 zasadert-yuplisede.lol
+zasedefelilose.lol
 zassryo.click
 zatehsja.click
 zatenasklarhepyalan.net
@@ -255705,6 +255725,7 @@ zebsieidn.net
 zecmiladser.click
 zecpour.com
 zedese-doliuyere.lol
+zedesedeliopolse.lol
 zedoca.info
 zedsco.typeform.com
 zegrobay.com
