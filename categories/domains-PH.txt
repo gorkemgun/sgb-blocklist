@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103020
-# Last change: 2026-09-14 23:10:35 UTC (sync mode: delta)
+# Records: 103037
+# Last change: 2026-09-15 01:31:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8785,6 +8785,8 @@ asdfsdfgdssdf.duckdns.org
 asdfsdfsdf.duckdns.org
 asdfsdfsdgdf.duckdns.org
 asdfsdfwsdf.duckdns.org
+asdfsdsfd.duckdns.org
+asdfsfdsdf.duckdns.org
 asdgg3e23g32gg32.com
 asdgsagsdfblll.click
 asdhdfnasd.net
@@ -12699,6 +12701,7 @@ bilgial.tk
 bilgialmakicin.com
 bilgianalizi.com
 bilgiburada.blog
+bilgicep-tr.online
 bilgicgirisin.com
 bilgicheckerssystem.lovestoblog.com
 bilgicheckerssystemm.lovestoblog.com
@@ -18288,6 +18291,7 @@ cepteteb-com-tr.my-homeip.de
 cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-emekli-kampanyaniz.my-homeip.de
+cepteteb-emekli-sube.my-homeip.de
 cepteteb-emekli.myonlineportal.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
@@ -36023,6 +36027,7 @@ garantibbva.cepsubelerim.com
 garantibbva.owline.com
 garantibbva.subessiz.net
 garantibbva2020.com
+garantibbvacepsubesi-mobilislem.ph
 garantibbvaesubem.31-210-39-247.plesk.page
 garantibbvahaziran2022.ml
 garantibbvahaziranbonus.ml
@@ -37607,6 +37612,7 @@ giriswebsayfasiaidat.org
 giriswebtrlink.org
 girisyap-edevlet.com
 girisyap-hizli.abrdns.com
+girisyap-hizlica.abrdns.com
 girisyap.tk
 girisyapkazan.com
 girisyonlendirme.de
@@ -43440,6 +43446,7 @@ hmnkpiya1o1.com
 hmnkytolbsvrbrada.com
 hmnkytolgrsyapbraya.com
 hmnlkta.net
+hmnlktnas.net
 hmnlnltanannta.net
 hmnlrta.net
 hmnlsantans.net
@@ -51955,6 +51962,7 @@ kikomilanos.com
 kikosmilamos.com
 kilabeyt-org.my-homeip.de
 kilimanjaroway.com
+kilissubesndyzbizlerr.duckdns.org
 kilit-entry.biz
 killiborek.dravencia.sbs
 kilmoora.com
@@ -52891,6 +52899,7 @@ kolbasnyytseh.ru
 kolbasnyytsekh.ru
 kolektifweb.digital
 kolibofilna-lucere.lol
+kolihigideferesede.lol
 kolirapolse-vadore.lol
 kolkola2024.wordpress.com
 kolkolagarnti.net
@@ -59051,8 +59060,11 @@ mhrsilerandevuekrani.duckdns.org
 mhrsislem.com
 mhrsislemlerin.com
 mhrsislemyapgiris.vercel.app
+mhrskhsdh.art
 mhrslkislem.com
+mhrsmlxmxl.com
 mhrsmsmhsxzwshshn.net
+mhrsmsxlm.com
 mhrsonlinebasvuru.duckdns.org
 mhrsortakgiris.co.vu
 mhrsportalvatandasgiris.duckdns.org
@@ -61918,6 +61930,7 @@ nefesvakfi.org
 nefesveyasamvakfi.net
 nefissduyurularim.cfd
 nefkonut.site
+neflixtr.icu
 negatepoise.top
 negationalternate.top
 negationappropriation.top
@@ -65921,6 +65934,7 @@ orgazatonwresting.top
 orglare.top
 orgturkbeast.click
 orhanceylan.art
+orhanlisubesindelerr.duckdns.org
 orhmgnify.top
 orhunozhan.cfd
 orientalaffiliate.top
@@ -75930,6 +75944,7 @@ sadesocsnfsirsatlartrvc.blogdns.com
 sadevizyon.org
 sadfaksfmakscc.com
 sadfsafsda230203mk.net
+sadfsfddfas.duckdns.org
 sadibeyonline.net
 sadibili.net
 sadibofilme-katore.lol
@@ -80661,6 +80676,7 @@ sisfsifsfvvsf.com
 sisgiris.app
 siskolarlaberke.xyz
 siskologda.xyz
+siskopiyasadaaa.xyz
 sismanmotosiklet.com
 sismeboturunleri.com
 sisoftinglives.com
@@ -82202,6 +82218,7 @@ sosyal-destek-ve-basvur-online.net
 sosyal-konutbasvurutoki.vercel.app
 sosyal-media.garden
 sosyal-proje.sbs
+sosyal-tahsis-konutlari.cfd
 sosyal-yardim-bagis.com
 sosyal-yardimbagis.com
 sosyalbasvuru.lol
