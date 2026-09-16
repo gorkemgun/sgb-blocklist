@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 470299
-# Last change: 2026-09-16 17:04:21 UTC (sync mode: delta)
+# Records: 470393
+# Last change: 2026-09-16 20:11:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -32020,6 +32020,7 @@ adaletceza.net
 adaletegm.net
 adaletegm.org
 adaletgeldi.online
+adaletgib.org
 adalethukuku.org
 adaletkamu.net
 adaletkurum.org
@@ -90821,6 +90822,7 @@ bumuhufudese-sederese.lol
 bumuhugu-gulukutere.lol
 bumuhugude-redesede.lol
 bumuhugude-reteredese.lol
+bumuhugudeferesede.lol
 bumuhugudereteyse-daerede.lol
 bumuhugudereteyse.lol
 bumukemmelbayramfirsatlariaslakacmaz.xyz
@@ -97297,6 +97299,8 @@ cbrgate.zapto.org
 cbrqpqnnlc.duckdns.org
 cbrw.ru
 cbryt.buzz
+cbsceza.com
+cbsdava.com
 cbseferberlik20gb.com
 cbsgib.org
 cbsw.70z6.com
@@ -104617,6 +104621,7 @@ cmghgdqnbf.duckdns.org
 cmgojqjxol.duckdns.org
 cmguvende.com
 cmguvende.online
+cmhceza.org
 cmhrdanbrayagldm.click
 cmhurapptr4.com
 cmhurbaaskanligi.com
@@ -116707,6 +116712,7 @@ ddoood.com
 ddos-cc.org
 ddos.tttseo.com
 ddosataack5.ddns.net
+ddosatamazsinizitlerimbenim.sbs
 ddoser.org
 ddosnoodle.ddns.net
 ddosvps.cc
@@ -133718,6 +133724,7 @@ durm4.is-best.net
 durma112.xyz
 durmadsnotmram.net
 durmahemenndestekol.com
+durmakyokhicbirzaman.com
 durmakyyoyyqhhh-5194a2aaa739.herokuapp.com
 durmaordagelsende.net
 durmasendekadinlaradestekol.tk
@@ -141939,7 +141946,11 @@ ecb4teg4sepd4bunt.com
 ecbcrsqqnm.duckdns.org
 ecbnifzvsm.duckdns.org
 ecbrrpppod.duckdns.org
+ecbsdosya.org
+ecbskamu.org
+ecbsmaliye.org
 ecbsuyap.org
+ecbsuzlasma.org
 ecbyurokgd.duckdns.org
 ecc3pu.duckdns.org
 eccatsqmjh.duckdns.org
@@ -141984,10 +141995,13 @@ eceza.org
 ecezaadalet.org
 ecezabayiode.com
 ecezabildirim.org
+ecezacbs.com
 ecezacbs.org
 ecezadavam.com
 ecezaegm.org
 ecezahukuk.org
+ecezainfaz.com
+ecezainfaz.org
 ecezakontrol.org
 ecezamaliye.com
 ecezamaliye.org
@@ -141998,6 +142012,7 @@ ecezaportal.org
 ecezasorgu.org
 ecezasorgula.org
 ecezasorgulama.org
+ecezatakip.com
 ecezatalimat.com
 ecezauzlasma.com
 ecf-est.com
@@ -142328,6 +142343,7 @@ edavabilgi.org
 edavacbs.org
 edavadosyalarim.org
 edavahukuk.org
+edavainfaz.org
 edavakazan.ml
 edavakontrol.com
 edavakontrol.org
@@ -145628,10 +145644,12 @@ edosyabildirim.org
 edosyabirimi.org
 edosyaburo.com
 edosyacbs.org
+edosyaceza.com
 edosyadava.com
 edosyaegm.org
 edosyagib.org
 edosyagoruntule.org
+edosyainfaz.org
 edosyakontrol.net
 edosyam.org
 edosyamaliye.org
@@ -145641,6 +145659,7 @@ edosyasorgula.org
 edosyasorgulama.org
 edosyatakip.com
 edosyatakip.org
+edosyatalimat.com
 edosyauyap.com
 edosyauzlasma.com
 edporstalsayfam.com
@@ -146646,8 +146665,12 @@ eggthigh.top
 eghjlf.com
 eghsowp.duckdns.org
 egi5nh.duckdns.org
+egibinfaz.com
+egibkamu.org
 egibmasak.com
 egibtalimat.com
+egibuyap.org
+egibuzlasma.org
 egifgrokbpotuifho.com
 egih5trv.duckdns.org
 egiiris-on.cfd
@@ -146725,6 +146748,7 @@ egiriscumhurbaskanlik3.com
 egiriscumhurbaskanlik4.com
 egiriscumhurbaskanlik5.com
 egiriscumhurbaskanlik6.com
+egirisdava.org
 egirisdevletgovtr-portal.tk
 egirisdevletmobildestekgovtr.tk
 egirisgovtr-hizmetlerimiz.tk
@@ -146948,6 +146972,7 @@ egmturkiyegovtr.com
 egmuzlasma.com
 egndezs.duckdns.org
 egngov.my.id
+egnngov.biz.id
 ego8f0.duckdns.org
 egoankarakartyukleme.com
 egoankarakartyukleme.net
@@ -147728,10 +147753,16 @@ eimza-ebasvurukapisi.com
 eimza-islemer-devlet.com
 einarkramer.22web.org
 eincun.top
+einfazceza.com
+einfazceza.org
+einfazdava.com
+einfazdava.org
+einfazdosya.org
 einfazgib.org
 einfazmaliye.org
 einfazsorgu.org
 einfazuyap.com
+einfazuyap.org
 einfazuzlasma.com
 einfazuzlasma.org
 einfrage.ddns.net
@@ -147943,17 +147974,25 @@ ekampanyayilbasi-deniz-basvur-online.tk
 ekampya-bireysel-basvur-com.ml
 ekamu-turkiyegovtri.com
 ekamubirimi.com
+ekamucbs.com
 ekamucezasorgu.org
 ekamucezasorgula.org
 ekamucezasorgulama.org
+ekamudava.com
 ekamudavamdosya.com
+ekamudosya.com
 ekamudosyasorgulama.org
+ekamuegm.com
 ekamuegm.org
+ekamugib.com
 ekamugib.org
+ekamuinfaz.com
 ekamuizle.org
 ekamukontrol.org
 ekamusistemi.org
+ekamutakip.com
 ekamutebligat.org
+ekamuuzlasma.com
 ekapi-tr-trgiris-26.com
 ekapi-turkiye-giris.com
 ekapi-turkiye.com
@@ -148584,6 +148623,8 @@ ekonomiyontemm.com
 ekonomiyorumlari.com
 ekonommax.com
 ekontor.org
+ekontrolceza.org
+ekontroldava.org
 ekontrolgib.org
 ekontrolonlinegiris.com.tr
 ekontrolonlinegiris.online
@@ -149746,6 +149787,7 @@ emaliye-aidat.ml
 emaliye.com
 emaliye.net
 emaliye.org
+emaliyebildirim.org
 emaliyecbs.org
 emaliyecezalar.org
 emaliyecezasorgulama.org
@@ -149765,6 +149807,7 @@ emaliyegovtr506.com
 emaliyegovtr508.com
 emaliyegovtr509.com
 emaliyegovtrl92.com
+emaliyeinfaz.org
 emaliyeizleme.org
 emaliyemasak.com
 emaliyemerkezi.org
@@ -153856,6 +153899,7 @@ eportalasliye.org
 eportalceza.com
 eportalcimer-aidathizmetigov-tr.com
 eportaldava.com
+eportaldosya.com
 eportalduyuru-evdekal.org
 eportaledevletiade.com
 eportalgib.org
@@ -153884,6 +153928,7 @@ eportalsorgu.org
 eportaltbmmduyuru.org
 eportaltbmmduyurular.org
 eportalturkiyegov.com
+eportaluzlasma.com
 eportaluzlasma.org
 eportaonlineaidatiadeleriniz.com
 eportlgibgov.site
@@ -156014,10 +156059,13 @@ etalebi-adres-turkiyegovttr.com
 etalebi-adresm-turkiyegovttr.com
 etalebi-turkiyegovttr.com
 etalebim-turkiyegovttr.com
+etalimatbildirim.org
 etalimatcbs.com
 etalimatdava.org
 etalimatdosya.org
+etalimatinfaz.com
 etalimatkamu.org
+etalimatuzlasma.org
 etapkarnv.info
 etapkarnv.online
 etapkohbdes.online
@@ -156051,6 +156099,9 @@ etccbmjhazinegov1.b-cdn.net
 etcetera-tickets.ru
 etcjf.win
 etckceza.org
+etckdava.org
+etckinfaz.org
+etckuyap.org
 etcmeiyisi.hopto.org
 etconlinehizmetimiz.cf
 etcshaimeiav.hopto.org
@@ -156064,11 +156115,17 @@ etebligatbildirim.org
 etebligatceza.com
 etebligatdava.com
 etebligatdosya.com
+etebligatevrak.com
+etebligatgib.com
 etebligatkontrol.org
 etebligdava.com
+etebligdava.org
+etebligdosya.com
+etebligkamu.com
 etebligmaliye.org
 etebligsorgu.com
 etebliguyap.com
+etebliguzlasma.com
 etebmobil.com
 etebsubebasvuru.tk
 etebsubegiris2019yeni.com
@@ -156870,6 +156927,7 @@ euyapkarar.org
 euyapkontrol.org
 euyapmasak.com
 euyapsorgu.org
+euyaptakip.com
 euyaptakip.org
 euyapteblig.org
 euyapuzlasma.org
@@ -156890,8 +156948,12 @@ euzlasmabildirim.org
 euzlasmabilgi.org
 euzlasmacbs.org
 euzlasmagib.org
+euzlasmainfaz.com
+euzlasmainfaz.org
+euzlasmaportal.org
 euzlasmasorgu.org
 euzlasmatakip.com
+euzlasmatalimat.com
 euzlasmatalimat.org
 euzlasmateblig.com
 euzlasmateblig.org
@@ -157010,15 +157072,23 @@ evatandasakbankartiade.com
 evatandasakkartimiadeal.net
 evatandasbilgi.org
 evatandasbilgilendirmekartaidatiadesigovtr.co.vu
+evatandasceza.com
 evatandasceza.org
 evatandasdava.com
+evatandasdava.org
+evatandasgib.com
 evatandasgib.org
 evatandasgov.com
 evatandasiademartayisongunlerden.co.vu
 evatandasislemleri.com
+evatandasmaliye.com
 evatandasmobilduyuruaidatal.co.vu
 evatandasmobilduyuruaidatialerini.co.vu
+evatandasportal.com
+evatandasportal.org
 evatandasportaliade.com
+evatandastakip.com
+evatandasuyap.com
 evatandasuyap.org
 evatandasyardimmerkezi.net
 evatandsaidthakiadsi.com
@@ -216496,6 +216566,7 @@ hukukegm.net
 hukukegm.org
 hukukesorgu.org
 hukukgecisbildirisi.info
+hukukgib.org
 hukukhgsbirim.com
 hukukhgsbirimi.com
 hukukhgssorgu.com
@@ -226902,17 +226973,25 @@ infantreservoir.top
 infantrybison.zapto.org
 infaxil-ru.xyz
 infaz1.zapto.org
+infazcbs.org
 infazceza.com
 infazceza.org
 infazcezamaliye.org
+infazdava.com
 infazdava.org
+infazdavam.org
 infazegm.net
 infazevrak.org
+infazhukuk.org
 infazidari.org
 infazkarar.org
 infazmaliye.org
+infaztakip.com
+infaztakip.org
 infaztc.net
 infazuyap.com
+infazuyap.org
+infazuzlasma.org
 infcjal.cn
 infcloudnet.com
 infdroidasian.duckdns.org
@@ -241925,6 +242004,7 @@ jersey-council.at.ply.gg
 jerssy.xyz
 jertacco.com
 jerusalem.androiddebugbridge.su
+jerycrm.net
 jeshqijfkh.duckdns.org
 jesofidiwi.com
 jespsdilkbyv.pw
@@ -257962,6 +258042,7 @@ kmpnyacklsbsvruu.live
 kmpnyacklsbsvruu.pro
 kmpnyacpttbgrs.com
 kmpnyadasnfrslatttbasvrprsmtnn789654.online
+kmpnyadasnfrslatttbasvrprsmtnn789654.pro
 kmpnyafrsatlarmm.com
 kmpnyafrsatlarnz.com
 kmpnyafrstlarim.online
@@ -274995,6 +275076,7 @@ malivergi.com
 malivezne.com
 malivezne.net
 malivezneformu.com
+malivezneformu.org
 maliweb-ilerle-tr.my-homeip.com
 maliye-bakanligi.com.tr
 maliye-bakanligi.org
@@ -281839,6 +281921,7 @@ mhsscfsrsa8.sbs
 mhsscfsrsa9.sbs
 mhssragva.autos
 mhssragva.buzz
+mhssragva.online
 mhssragva.shop
 mhssrajhsyyh.icu
 mhssrasa.sbs
@@ -326345,6 +326428,7 @@ pix.user-clicks.com
 pixalate.us
 pixar-web.ddns.net
 pixarssl-view.ddns.net
+pixel-press.xyz
 pixel1.dnsalias.net
 pixelarkz.com
 pixelbreeze.store
@@ -345754,6 +345838,7 @@ reklamdemon.icu
 reklamdemonis.icu
 reklamdemonis.my
 reklamdestegin.com
+reklamgeldi.sbs
 reklamgoooogle.cf
 reklamgoooogle.ga
 reklamgoooogle.gq
@@ -365917,6 +366002,7 @@ servisim-150basvurular.com
 servisim-ailegenc.com
 servisimburadaonline53f34ff41s1s1.wordpress.com
 servisin-tr.com.tr
+servisinguvenli-15.sbs
 servisinllinkjet.com
 servisislemiyap.net
 servisislemlerimiz.net
@@ -366204,6 +366290,7 @@ sevdiren-sekilde-hayat-olmasi-bizler-icin-burda.com
 sevdiren.info
 sevdiysengelircom.quantumhatch.cfd
 sevdlyrklerdebyyzsrgnlr.com
+sevdlyrklrdeebtyz.duckdns.org
 sevdlyrrklerbyzsrh.com
 sevecekelrdense.online
 sevecekmisandin.net
@@ -392509,6 +392596,7 @@ tckimlik-psi.vercel.app
 tckisgovtr.cf
 tckk.app
 tckk.netlify.app
+tckmaliye.org
 tckmaliyesorgu.com
 tckmaliyesorgula.com
 tckmaliyesorgulama.com
@@ -392521,6 +392609,7 @@ tckuveytsub3.gq
 tckuveytsube.ga
 tckuveytsube8.ga
 tckuveytsubed.cf
+tckuyap.org
 tckuzlasma.org
 tcl-kampanyanburada.net
 tclamud.net
@@ -393447,6 +393536,7 @@ teblesendekazan.ml
 teblgrs-nlkktilim.cloud
 teblicep.com
 tebligbayi.com
+tebligceza.com
 teblighizmetleri.biz
 teblignoktasi.biz
 teblincare.duckdns.org
@@ -401209,6 +401299,7 @@ tomcatdomains.page.link
 tomcatone.net
 tomcatshow.net
 tomcatspeed.net
+tomcrm.net
 tomdx.com
 tomego.info
 tomema.myddns.me
@@ -409478,6 +409569,7 @@ trvkfdaniadeenial.com
 trvkfrczdkgk.net
 trvmturk2.b-cdn.net
 trvolta.com
+trvrksdnbsrudfs.store
 trvrktr-rande.duckdns.org
 trvspnl.com
 trvspnl2.com
@@ -418953,6 +419045,7 @@ urunlerim-tr.com
 urunlerimiz-firsatta.com
 urunlerimizsizlerlesepetlerde.com.tr
 urunlerimizsizlerlesepetlerde.xyz
+urunlerin-online-satisi.com
 urunlerin.com
 urunlerisepeteeklehemensatinal.online
 urunlerisepeteeklehemensatinal.xyz
@@ -420057,6 +420150,7 @@ uyap.edu.pl
 uyap.link
 uyap.portal-vatandas.com
 uyap.site
+uyapadalet.org
 uyapadliye.com
 uyapadliye.org
 uyaparabuluculuk.org
