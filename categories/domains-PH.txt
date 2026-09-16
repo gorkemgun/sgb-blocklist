@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103192
-# Last change: 2026-09-15 21:29:14 UTC (sync mode: full)
+# Records: 103207
+# Last change: 2026-09-16 00:25:48 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4053,6 +4053,7 @@ aciilsigortta.site
 acik-basvurucekilis.com
 acik-cekilishizmeti.com
 acik-de.website
+acik-deniz-online.my-homeip.de
 acik-deniz.lequiva.com
 acik-denizonlinegiris.ga
 acik-denizonlinegiris.gq
@@ -8980,6 +8981,7 @@ asncxbyaaasdanala.84965148651.sbs
 asncxbyaaasdanala.8796451654165333.sbs
 asncxbyaaasdanala.8889655532144.sbs
 asncxbyaaasdanala.89465489421.sbs
+asncxbyaaasdanala.894734547864156.sbs
 asncxbyaaasdanala.9479845619688.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
@@ -26944,6 +26946,7 @@ djvcl404.eu1.hubspotlinksfree.com
 djvxqp04.eu1.hubspotlinksfree.com
 djwjheued89ewo.com
 dk-octoberkassa.com
+dk3ch3ncjskru8.cfd
 dkan33garooremain.top
 dkatilim.com
 dkd8lve.cn
@@ -34158,6 +34161,7 @@ firsat-promos-gelicikk.shop
 firsat-pttavm.com
 firsat-sepet-ilanlar.com
 firsat-sok.com.tr
+firsat-tebde.my-homeip.de
 firsat-teklifleri.net.tr
 firsat-tkelfibru-brasdsa.store
 firsat-ucuzurnlerkcrma.com.tr
@@ -40304,6 +40308,7 @@ haberler1256236.shop
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
+haberler1346428.sbs
 haberler1358636.shop
 haberler14223.shop
 haberler1425123.shop
@@ -40311,6 +40316,7 @@ haberler142536231.shop
 haberler1436542.sbs
 haberler14534925.shop
 haberler1542334.shop
+haberler1564568.sbs
 haberler16.online
 haberler16.website
 haberler163234.shop
@@ -53612,6 +53618,7 @@ kukoioinlogon.webflow.io
 kukokesak.xyz
 kukucoindloginm.webflow.io
 kuliukviktoriia.online
+kulkiwears.sbs
 kullandelfa.click
 kulsams.com
 kulturalnygrod.lat
@@ -58835,6 +58842,7 @@ metaforhelpservice.ml
 metaglobalhelpsupport.com
 metaglobalsecuritys.com
 metahelpassistant.com
+metahgshesa.duckdns.org
 metahsrait.top
 metakaitabmplreas.sbs
 metakaitaoffline.sbs
@@ -64813,6 +64821,7 @@ olsanasende.net
 olsnavyseny.net
 olsunbebegimcekinme.vip
 olsunbudabizdenolsun.net
+oltakneriz.duckdns.org
 oluhugere-derlikoli.lol
 olurbnlrdasanagore.shop
 olusturan-rehber-lbrg.myonlineportal.ch
@@ -84234,6 +84243,7 @@ sube-bmenkuldegerler.com
 sube-bmenkuldegerler.net
 sube-bmenkulgiris.com
 sube-cepteteb.myonlineportal.de
+sube-garenti.my-homeip.de
 sube-geranti-bireysel.my-homeip.com
 sube-hediyemobildeniz.online
 sube-hizlimobildenizgiris.online
@@ -85280,6 +85290,7 @@ sznicnbstnbsldkknmpyl.xyz
 szsekpnmyfsrstkpda.space
 szxdftgyhjklc.net
 t-bncadestekbasvurul.com
+t-e-b-ayricaliklar.my-homeip.de
 t-e-b-cepte-sube-tr.com
 t-e-b-sonbasvuru.com
 t-e-b-sonkampanya.com
@@ -86723,6 +86734,8 @@ tebcekilisiphone12.com
 tebcep.kisalink.cc
 tebcepte-sube-parola.myonlineportal.de
 tebceptr.my-homeip.com
+tebde-emekliye.my-homeip.de
+tebde-firsat.my-homeip.de
 tebdeburdabasvuru.my-homeip.de
 tebdecepsube.com
 tebdedenndenekredilerini.site
@@ -87737,6 +87750,7 @@ tg-bot-gnyq.vercel.app
 tga3.top
 tgahpf.cn
 tgewyj.cfd
+tghehelinesgs.duckdns.org
 tgksxy.top
 tgmapps.web.app
 tgopartner.com
@@ -91822,6 +91836,7 @@ turkiyeepetrolleri.com
 turkiyef.com
 turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
+turkiyefinans.my-homeip.de
 turkiyefirsatlarihemenonayla.xyz
 turkiyegenelimarketindirimkataloglari.cfd
 turkiyegiris.app
