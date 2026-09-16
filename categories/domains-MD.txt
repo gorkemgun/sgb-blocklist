@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65985
-# Last change: 2026-09-15 13:37:39 UTC (sync mode: delta)
+# Records: 65986
+# Last change: 2026-09-16 17:04:21 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -26031,6 +26031,7 @@ getkilla.xyz
 getkira.info
 getlintout.co
 getlitigeservices.ddns.net
+getmacouscloud.com
 getmedown.ddns.net
 getmeontop.sytes.net
 getmoney247.ddns.net

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103230
-# Last change: 2026-09-16 11:43:18 UTC (sync mode: delta)
+# Records: 103265
+# Last change: 2026-09-16 17:04:21 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -233,6 +233,7 @@
 101-ocak-indirimleri.net
 101-pazar-zamani.com
 101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
+101-sadece-bugune-ozel-alisveris-sepeti-indirimleri-tr.storesmobil-tr.online
 101-sadece-bugune-ozel-extra-indirim-alisverisi-tr.marketjet.online
 101-sadece-bugune-ozel-extra-sepet-alisveris-indirimi-tr.market-extra.online
 101-sadece-bugune-ozel-indirimli-sepet-mobile-ozel-extra-tr.sepetjet.online
@@ -2745,6 +2746,7 @@
 9521487prmsynnnbsvrrkmpnyasnfrrstr.info
 9521487prmsynnnbsvrrkmpnyasnfrrstr.online
 95463visitor.com
+9584262finasnssskrdiiiiihalkk.pro
 95874bsvrsuukrediikmpnyssi.online
 95874bsvrsuukrediikmpnyssi.pro
 958cbdda.sieujnx.cloud
@@ -3248,6 +3250,7 @@ a101.haftanin-urunleri.com.tr
 a101.haftaninyildizlari.org
 a101.haziranayininfirsatlarii.com.tr
 a101.hizli-kampanya.online
+a101.ilan-sepetlerimiz-burada.com
 a101.indirimfirsatlari.pro
 a101.indirimli-aktuel.com.tr
 a101.ink
@@ -4610,6 +4613,7 @@ adalyatapurandevu.com
 adamiboleskerzddskskvsdva.sbs
 adanademir.net
 adanaindirimlerii.online
+adanlskyrzz.duckdns.org
 adanzyefilo.online
 adapptersworld.com
 adaptiveclutch.top
@@ -5060,6 +5064,7 @@ agactr.com
 agadmnun.vercel.app
 agagagaragnti.com.tr
 agahtaras.click
+agahwhsgahqhwg.org
 againislem.22web.org
 agalarbaba.duckdns.org
 agalaricraatkanzi.net
@@ -8804,6 +8809,7 @@ asdfsdsfd.duckdns.org
 asdfsfdsdf.duckdns.org
 asdgasha.art
 asdgg3e23g32gg32.com
+asdghvdasha.art
 asdgsagsdfblll.click
 asdhdfnasd.net
 asdhjhjdasfhj.net
@@ -10064,6 +10070,7 @@ avscehwvsvanasb.org
 avsfilo.online
 avsfilocar.org
 avsfilokurumsal.com
+avsfilom.com
 avsfilonrentcara.com
 avsfilorent.com
 avsfilorental.com
@@ -29605,10 +29612,13 @@ egitimzamani.online
 egiuw.top
 eglaili.tk
 egm-gov.my.id
+egm-gov.web.id
 egm-serec.net
 egmbirim.org
 egmbull.one
 egmdosyam.com
+egmgov.biz.id
+egmgov.web.id
 egmmlbul.net
 egmmm.online
 egmsorgu.org
@@ -35622,6 +35632,7 @@ fruitfulrenown.top
 fruitfulskull.top
 fruitfulwood.top
 fruitradiation.top
+fruitta.com
 frustrateassertion.top
 frustrateecosystem.top
 frustratehygienic.top
@@ -36738,6 +36749,7 @@ gecisyuklemniziyapin.art
 gecmise-donuk-kontrol-et.sbs
 gecmisimderdli.net
 gecodememerkezi.info
+gecshgsislm.cfd
 gecsmevguven.net
 gecsodeme.com
 gecszhzll.org
@@ -38688,6 +38700,7 @@ gratis-tr.sophiemaslowski.com
 gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.benmook.com
+gratis.bunkershub.com
 gratis.craftyhour.com
 gratis.dnsdojo.com
 gratis.doordk.com
@@ -40345,6 +40358,7 @@ haberler2354123.shop
 haberler235423.sbs
 haberler2373432.shop
 haberler2523432.sbs
+haberler298451.sbs
 haberler311422.sbs
 haberler311748.shop
 haberler3262343.sbs
@@ -40686,6 +40700,7 @@ halalmapz.com
 halalresortshotels.com
 halbook.com
 halenor.quest
+haleplioglu.live
 halersbar.net
 halfadorable.top
 halfamendment.top
@@ -40720,6 +40735,7 @@ halkbnkmobilduyuru.duckdns.org
 halkcimpatlamapls.ice.fo
 halkdijital.help
 halkdijital.wiki
+halkefeso.bot.cd
 halkfirsat.shop
 halkfirsati0faizoranlasizlerle.icu
 halki.click
@@ -44693,6 +44709,7 @@ hzlmskernff.space
 hzlnhmnislmlr.com
 hzlnsdanismanlk.com
 hzlnsdanismanlk.info
+hzlnsdanismanlk.online
 hzlodmadrsbrshrzmn.net
 hzlrandvnnunall.net
 hzlrandvnual.net
@@ -44884,6 +44901,7 @@ iasedsed.com
 iasedvt-sdvttt.com
 iatatsorgula.dev
 ib-bikarcahome.shop
+ib00745.site
 ibafl.buzz
 ibasvuruformu-online-bireysel-ozel.kampanya-basvuru-sayfa.xyz
 ibasvurum-formu-onlinebireysel-ozel.kampanya-basvuru-sayfa.xyz
@@ -45721,6 +45739,7 @@ ilanli.com.tr
 ilanlink-dolap.com
 ilanodeme.com
 ilanonay.com.tr
+ilanonay.online
 ilanonayi.online
 ilanonayla.online
 ilanpaylas.net
@@ -52668,6 +52687,7 @@ kmpnyaasonfirsaattbsvrr.info
 kmpnyabsvbrrprmsynn147852.online
 kmpnyabsvbrrprmsynn147852.pro
 kmpnyacpttbgrs.com
+kmpnyadasnfrslatttbasvrprsmtnn789654.online
 kmpnyalartukenyrr1o1.xyz
 kmpnyamrkzbsvrnktasi.pro
 kmpnyaparmsynnbsvr.art
@@ -55404,6 +55424,7 @@ log-inbtcturk-pro.com
 log-inpapara.arabamuayenesi.xyz
 log-inpapara.com
 logapple-idserviciode-uypy664.com
+logatmayinitler.sbs
 logbimc.net
 logcity.io
 logcomputadores.com.br
@@ -57602,6 +57623,7 @@ marklarlalazltas.xyz
 markluxe.com
 markobi.com
 markozane.sbs
+marktkampnyasok-kirmiziarnica.club
 marktlerburada.com
 marktlerdemagzalar.online
 marktmagza.online
@@ -60776,6 +60798,7 @@ mrkzislmnktsfvc.com
 mrkzislmnktslflysvc.com
 mrkzvgis.com
 mrkzvrgi.com
+mrkzzdim.com
 mrmotorsport.com.ar
 mrmurlar.net
 mrnjtv.top
@@ -65313,6 +65336,7 @@ onlinea101firsatlaricom.live
 onlinea101iletisim.com.tr
 onlinea1o1.com
 onlinea1o1.net
+onlineaanslag.com
 onlineacenta365.site
 onlineacenta365.xyz
 onlineactivasyononaysorgulama.run.place
@@ -66212,6 +66236,7 @@ osmanliyatirim.org
 osmanliyatirim.site
 osmanliyatirim.uk
 osmanliyatirim.world
+osmanliyatirimwebreferanstrader.com
 osmanossmfearlessscan.click
 osmcancancafkfkk23.com
 osmisleegunaydinlar.net
@@ -68376,6 +68401,7 @@ pazarama.guvenliteslimat.com
 pazarama.hemenislemler.com
 pazarama.hizlialisverislerim.com
 pazarama.hizlikapimda.com
+pazarama.ikinciel-ilan.com
 pazarama.ilan-havale.com
 pazarama.ilanda-sepetim-1099.com
 pazarama.ile-e-islemlerde.com.tr
@@ -71588,6 +71614,7 @@ pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
 pttavm.ile-alisverislerini-tamamlama.com
 pttavm.ile-guvenli-web-tr.com
+pttavm.ile-odemeyi-tamamla.com
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ileodeme-formu.com
@@ -72308,6 +72335,7 @@ punchhedgehog.top
 punchmade.dev
 punctualiscord.top
 punctualityburglar.top
+punisherservis.alwaysdata.net
 punishmentcommend.top
 punishmentesthetic.top
 punishmentversatility.top
@@ -75213,6 +75241,8 @@ rivernova.icu
 riverstonefield.site
 rivetroom.com
 rivex.lol
+rivexsorgupaneli.top
+rivexsrogupaneli.top
 rivilegecti.top
 rivsalty.click
 rivxon.com
@@ -77143,6 +77173,7 @@ sahibindenilan.com-ilandetayi.com.tr
 sahibindenile.com.tr
 sahibindenile.getodemeyap.com
 sahibindenile.tr-s.com.tr
+sahibindeniletisimkasko.com
 sahibindenilngett.com
 sahibindenkaargom.com
 sahibindenkargo-islem.com
@@ -82282,6 +82313,7 @@ sorgupaneli.cc
 sorgupaneli.com
 sorgupaneli.com.tr
 sorgupaneli.ink
+sorgupaneli.life
 sorgupaneli.link
 sorgupaneli.live
 sorgupaneli.me
@@ -86441,6 +86473,7 @@ tcbcrmuygulamasi.com
 tcbcrmuygulamasi01.com
 tcbcrmuygulamasi02.com
 tcbcuygulamasi.com
+tcbddk.com
 tcbhazerttr742.com
 tcbm-tr451tr2872.com
 tcbm-tr99-9834.com
@@ -92147,6 +92180,7 @@ tuv-trk.net
 tuv.12855w652.forum
 tuvarac.com
 tuvaracmuaynehizmetleri.net
+tuvaslaturtuv.com
 tuvhizlihizmetmobil.site
 tuvislem.site
 tuviviet.info
@@ -101714,6 +101748,7 @@ yeyoyesys.yyuyy.com
 yfful.com
 yfmd.online
 yfonlineyatirim.com
+yfportfoy.org
 yfyatirim.com
 yfyatirimgiris.com
 yg62sc.xdk8ax.cn
