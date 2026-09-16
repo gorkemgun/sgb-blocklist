@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103358
-# Last change: 2026-09-16 20:11:49 UTC (sync mode: delta)
+# Records: 103365
+# Last change: 2026-09-16 22:59:28 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2268,6 +2268,7 @@
 652432431.net
 6526115.xyz
 65423432442.cloud
+6544722454548.duckdns.org
 65453534435.net
 6548595763474.cloud
 65498482158.com
@@ -4925,6 +4926,7 @@ advjaksvdjkdss.com
 advocacyaid-devops1.com
 advox.club
 adwfcgdv-afcwtd-wdqx.sbs
+adwfgw.s.gy
 adwords-accounts.online
 adx12dxadxq22x1.sbs
 aecgvc.buzz
@@ -15937,6 +15939,7 @@ bsvrrrkmpnyaaaprmsynn.live
 bsvrrrkmpnyaaaprmsynn.pro
 bsvrrrkmpyyynyyykrediiifrstlrr.pro
 bsvrrrprsmsnynn.pro
+bsvrrrrkmpnyaasnfrsltar410649.pro
 bsvrrtokii.sa.com
 bsvru20.click
 bsvrualimxa22.net
@@ -40449,6 +40452,7 @@ haberler443198.sbs
 haberler45171154.sbs
 haberler452344.sbs
 haberler4561.sbs
+haberler456289.sbs
 haberler4675874.sbs
 haberler47852.shop
 haberler4857489.sbs
@@ -75173,6 +75177,7 @@ rhizmetsrvsler.com
 rhknt.ru
 rhnnmg.vip
 rhnzbx.help
+rhodeislandhomepage.com
 rhrclouds.com
 rhrkajangcloudz.com
 rhsbig.tw
@@ -83037,6 +83042,7 @@ sponsorlu-icerik.name.tr
 sponsorlu-kura.online
 sponsorlu-market.xyz
 sponsorlu-paribu.live
+sponsorlu-reklamlar.online
 sponsorlu-tanitim.com.tr
 sponsorlu.click
 sponsorlu.online
@@ -99498,6 +99504,7 @@ www-teb-com-tr-basvuru-yap.my-homeip.de
 www-teb-com-tr-emekli-promosyon.my-homeip.de
 www-teb-com-tr-emekli-sayfa.my-homeip.de
 www-teb-com-tr-emekli.my-homeip.de
+www-teb-com-tr-internet-mobil-sube.my-homeip.de
 www-teb-com-tr-internet-subesi.my-homeip.de
 www-teb-com-tr-mobil-sayfa.my-homeip.de
 www-teb-com-tr-musteri-girisi.my-homeip.de
