@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103210
-# Last change: 2026-09-16 06:06:31 UTC (sync mode: delta)
+# Records: 103230
+# Last change: 2026-09-16 11:43:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4700,6 +4700,7 @@ adigelerc.app
 adiidass.xyz
 adinbeach.com
 adinbeachshotels.com
+adipsyagrufe.shop
 aditgerigelir2024tarihigeridonus.net
 adizamfi.workers.dev
 adjacentejection.top
@@ -8675,6 +8676,7 @@ artikdaha-fazladan-goruntulenenlere-dahasini-bulamadilar.top
 artikdahagucluyuz.xyz
 artikherkessinsende.net
 artikherskdsedsd.net
+artikkatildiburdaherkescabukbak76.site
 artilleryparish.top
 artilleryshepherd.top
 artintolight.com
@@ -27080,6 +27082,7 @@ dnzsmndncklizeerfasd.net
 dnztransport.com
 dnzubksaf.xyz
 dnzzkarayolugecisborcodemem.duckdns.org
+doadis.com
 doavoc.help
 dobbedvlver.com
 doblosolfar.sbs
@@ -29601,6 +29604,7 @@ egitimyigitkultur.net
 egitimzamani.online
 egiuw.top
 eglaili.tk
+egm-gov.my.id
 egm-serec.net
 egmbirim.org
 egmbull.one
@@ -29609,6 +29613,7 @@ egmmlbul.net
 egmmm.online
 egmsorgu.org
 egmtrasliceza.org
+egngov.my.id
 egoankrabayi.net
 egoevacuate.top
 egogovtr.net
@@ -31483,6 +31488,7 @@ eszigotkartim.ml
 eszoliso.site
 et-distinctio.com
 et1ilis.xdk8ax.cn
+etahkimceza.com
 etahsilatkgm.net
 etakip.org
 etaksitode.net
@@ -34475,6 +34481,7 @@ firstla101lekapida.com
 firstlar-sonkpda.site
 firstlar-trendylsenesonu.com
 firstlari101dekampanyaralik.com
+firstlarrkmpnyaabsvrrr151745.pro
 firstlydlution.top
 firstlyerupt.top
 firstlyindignant.top
@@ -42506,6 +42513,7 @@ hgs-mobilyukleme.com
 hgs-net.com
 hgs-now.com
 hgs-ode-smdii.cfd
+hgs-odeme-guncel-429014.vercel.app
 hgs-odeme-servisi.gq
 hgs-p-t-ta-v-m--gov.blogspot.com
 hgs-payment.cfd
@@ -42694,6 +42702,7 @@ hgsyklebrcsrgu.xyz
 hgsyklehgssrgla.cfd
 hgsyklentr.net
 hgsykleprahgsykle.cfd
+hgsyklezmnipraykle.cfd
 hgsyklodesmdi.cfd
 hgsytlyukleme.net
 hgsyukkleonline.com
@@ -46787,6 +46796,7 @@ indirimlitemmuzayii.com.tr
 indirimlitemuzayii.xyz
 indirimmediamarkt.com
 indirimpaketi.com.tr
+indirimrehberi.sbs
 indirimrush.xyz
 indirimsepeti.sbs
 indirimsepetii.com
@@ -48110,6 +48120,7 @@ isbnkasiwebsubayrnti50.shop
 isbnkasiwebsubayrntil22.shop
 isbnkasiwebsubayrntilr2.shop
 isbnkasiwebsubayrntilr6.shop
+isbnqamfirsatlarisonkampanyasinda.com
 isbrakasi.com
 isbryselbasvrular.online
 isbsvrlfmd.com
@@ -51915,6 +51926,8 @@ kgmavbilyeniodeyolhizli.duckdns.org
 kgmavgecishukukode.icu
 kgmavhukukodeme.icu
 kgmaz.top
+kgmbildirmeks.click
+kgmborcsorgulamaodeme.ddnsgeek.com
 kgmclaro.click
 kgmdencezayolodemesi2023.com
 kgmdgo.top
@@ -56471,6 +56484,7 @@ magazacilikhizmetleriuygunfiyat.xyz
 magazacilikhizmetuygunfiyat.xyz
 magazacilikperakendehizmetleri.com
 magazada-online.com
+magazada-shop.online
 magazadan-odeme.com
 magazadan-odemem.com
 magazafirsatingeldi.com
@@ -56559,6 +56573,7 @@ mahjongsplayers.com
 mahkemeasliye.org
 mahkemebirim.org
 mahkemecezam.com
+mahkemedava.org
 mahkemedosya.org
 mahkemelerim.org
 mahkemesorgula.org
@@ -57021,6 +57036,7 @@ maliuyap.org
 maliuzlasma.com
 malivergi.com
 malivezne.com
+malivezne.net
 maliye-bilgigirisi.com
 maliye-borcsorgula.com
 maliye-borcsorgula.online
@@ -57150,6 +57166,7 @@ maliyekarar.org
 maliyekontrolu.com
 maliyemasak.org
 maliyeodeme.com
+maliyeodemeislemleri.com
 maliyeportal.net
 maliyeservis.org
 maliyesorgugov.com
@@ -62954,6 +62971,7 @@ nltalntalnal.net
 nltaman.net
 nltknam.net
 nltknant.net
+nltknma.net
 nltlantlanltanla.net
 nltlnaltanltant.net
 nlvlrndnvmnzkrnz.net
@@ -76799,6 +76817,7 @@ sahibinden.ile-guvenlial.com
 sahibinden.ile-ilanim-onayli.com
 sahibinden.ile-islemini-guvenlice-yap.com
 sahibinden.ile-islemini-guvenliceyap.com
+sahibinden.ile-islemleriniz.com.tr
 sahibinden.ile-odemeler-sayfasi.com
 sahibinden.ile-onlinealisveris.com.tr
 sahibinden.ileguvendesatinal.com
@@ -78757,6 +78776,7 @@ sendegelbasvurkazanpromosyon75.click
 sendegelbenimlegrntyee.net
 sendegelbesendegelartkyap52.click
 sendegelbizimle.com
+sendegelburdanalarkdas75.click
 sendegelcabukbasvursondak34.click
 sendegeldikampleri.com
 sendegeldunyadan.com
