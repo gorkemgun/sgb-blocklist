@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 470400
-# Last change: 2026-09-16 22:59:28 UTC (sync mode: full)
+# Records: 470425
+# Last change: 2026-09-17 07:44:52 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -33646,6 +33646,7 @@ affluenceplead.top
 affordabilitycrouch.top
 affordable-35mm-slide-scanning.com
 affordablehomecare.org
+affordableonline.online
 affordtempyo.biz
 affrightedly.com
 affsosyalhizmetlerbakanligi.com
@@ -52774,6 +52775,7 @@ asgalabas.buzz
 asgalaseras.buzz
 asgard-cokie-sg.myonlineportal.ch
 asgard-cup.ru
+asgardastannefretedyorum.duckdns.org
 asgardia.cl
 asgariucret2023.com
 asgarnbb.com
@@ -88869,6 +88871,7 @@ bsvrrrprsmynnnkmpnyaaaa.pro
 bsvrrrqnbbprmsyn.click
 bsvrrrrkmpmnyaaaqnb.click
 bsvrrrrkmpnyaaprmsynnn.info
+bsvrrrrkmpnyaasnfrsltar410649.online
 bsvrrrrkmpnyaasnfrsltar410649.pro
 bsvrrrrprmmssynnkmpnyyyy.info
 bsvrrrrprmmssynnkmpnyyyy.live
@@ -101161,6 +101164,7 @@ cheaprigid.top
 cheapsavedirt.com
 cheapshirts.us
 cheapsignal.work
+cheapzone.space
 cheat.ddns.net
 cheatengine.ddns.net
 cheatjeka.hopto.org
@@ -105120,6 +105124,7 @@ codecapsule.top
 codecarawan.com
 codecrafters.su
 codecrafterspro.com
+codecvideowin.online
 codedtunes.zapto.org
 codeew54384r99vahe.afzal.coinbase-com.info
 codeexpedition.top
@@ -108846,6 +108851,7 @@ connectid.ddns.net
 connection-internet.ddns.net
 connection.lockscreen.kro.kr
 connection.sticksack.science
+connection.upgradeonline.site
 connection.zapto.org
 connectioncreate.shop
 connectiondistribute.com
@@ -131453,6 +131459,7 @@ donaldjtrmp.anondns.net
 donaldossoinc.hopto.org
 donaldsvip1234.ddns.net
 donalenda.zapto.org
+donalurdesconfeitos.site
 donashhack.online
 donate.xmr.rawdot.net
 donatecovid.hopto.org
@@ -146974,6 +146981,7 @@ egmtrasliceza.org
 egmturkiyegovtr.com
 egmuzlasma.com
 egndezs.duckdns.org
+egngov.biz.id
 egngov.my.id
 egnngov.biz.id
 ego8f0.duckdns.org
@@ -169454,6 +169462,7 @@ flynex44.ddns.net
 flyngisporuseel.xyz
 flyngisporusel.xyz
 flyngsporusel.xyz
+flyntora.com
 flynzohubs.site
 flyotocar.online
 flyoutside.com
@@ -186469,6 +186478,7 @@ grande-id2891.world
 grande-id7996.world
 grande-luna.top
 grandecosystem.top
+granderevolucao.store
 granderupt.top
 grandespoirhotel.com
 grandex.zapto.org
@@ -203238,6 +203248,7 @@ hemenayinfirsatlarindakisongunler.com.tr
 hemenayinfirsatlarindakisongunler.xyz
 hemenayinfirsatlarindakisongunlerdenbugun.com.tr
 hemenaylikarackirala.xyz
+hemenbakiyem.lol
 hemenbaklnsaina.duckdns.org
 hemenbaslabasvuru.life
 hemenbaslar.ml
@@ -213224,6 +213235,7 @@ hmnlntansanat.net
 hmnlrta.net
 hmnlsantans.net
 hmnltansana.net
+hmnltknas.net
 hmnltnasna.net
 hmnmagz.com
 hmnmagzadanteslim.com
@@ -230537,6 +230549,7 @@ invitegreasy.top
 invitemilestone.top
 invitesnail.top
 invitesubtlety.top
+invitezoommeeting.xyz
 invitinganalogy.top
 invitingconcede.top
 invitingimprison.top
@@ -246151,6 +246164,7 @@ kaita99asdjkjkqxeqkwe.cfd
 kaitacsdkjck123xk123.sbs
 kaitaelleme3434.sbs
 kaitaelleme3x123z12sacac.cfd
+kaitageldimeta.sbs
 kaitaisasdjasdjxj123kx13x123.shop
 kaitaisx12k3131xsak123.cfd
 kaitakcl12lk3xk1l3212.cfd
@@ -259260,6 +259274,7 @@ kolaybasvurubntr.com
 kolaybayilerix.is-best.net
 kolaybayim.22web.org
 kolaybirsekildeyapiniz.shop
+kolaybirsekkilde.sbs
 kolaybiryol.com
 kolaybrkslrmltkdfml.mooo.com
 kolayca-hallet.online
@@ -269905,6 +269920,7 @@ loikaslopus.info
 loim.duckdns.org
 loiuenhd-etisu.ddns.net
 lojatagpet.com
+lojinhadoluiz.online
 lojogisoro.com
 lok102010.ddns.net
 lokal-internet-bvtr.digital
@@ -280995,6 +281011,7 @@ metanewdestektellifhakki.xyz
 metanmaskloginu.webflow.io
 metaobjectionz.com
 metaofflinereklam.sbs
+metaoflinereklam34.sbs
 metaoperations-inc.com
 metaorasiburasioffline.sbs
 metaphorcoalition.top
@@ -293572,6 +293589,7 @@ mysteriousventilaion.top
 mysteryaggravation.top
 mysteryemo.top
 mysteryfriction.top
+mysterylink.xyz
 mysterympolize.top
 mysterypasta.top
 mysteryquickchunkstreet.top
@@ -341353,6 +341371,7 @@ quipmede.duckdns.org
 quirckbooks-accounting.com
 quirkleblip.top
 quirkquestai.com
+quirkyclub.club
 quirkyrealty.com
 quitbodywoundquaint.com
 quitbrewery.top
@@ -345843,6 +345862,7 @@ reklamdemonis.icu
 reklamdemonis.my
 reklamdestegin.com
 reklamgeldi.sbs
+reklamgitti.sbs
 reklamgoooogle.cf
 reklamgoooogle.ga
 reklamgoooogle.gq
@@ -363105,6 +363125,7 @@ segura01unicaja.ddns.net
 segura02unicaja.ddns.net
 segura1caixa.hopto.org
 segura1unicaja.ddns.net
+seguranca.versionnova.site
 segurancasys.com
 segurda.top
 seguresnueva01.ddns.net
@@ -409576,6 +409597,7 @@ trvkfrczdkgk.net
 trvmturk2.b-cdn.net
 trvolta.com
 trvrksdnbsrudfs.store
+trvrksdnbsrudfssf.online
 trvrktr-rande.duckdns.org
 trvspnl.com
 trvspnl2.com
@@ -430198,6 +430220,7 @@ vollerlokalt.xyz
 volleyballchamber.top
 volleyballoperative.top
 vollnexora.com
+volmira.site
 volmisdalel57.digital
 volnorez.ddns.net
 volnspg.com
@@ -456323,6 +456346,7 @@ yapiz-kredsiisorgu.com
 yapizaferbayrami.com
 yapizaferbayramin.com
 yapizaferbayraminiz.com
+yapizamaniyapizamani81.site
 yapjikredi.com
 yapjkredi.com
 yapjkredjj.com
@@ -461649,6 +461673,7 @@ yklasm.org.tr
 yklasmdsantskenas.online
 yklehgsbakye.com
 yklehgsbkyeykle.cfd
+yklehgsnezmnykle.cfd
 yklehgsonlne.cfd
 yklehgsyklepra.cfd
 ykleistkart.online

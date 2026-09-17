@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103365
-# Last change: 2026-09-16 22:59:28 UTC (sync mode: full)
+# Records: 103376
+# Last change: 2026-09-17 07:44:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8891,6 +8891,7 @@ asgadsqew.sbs
 asgafasdad222d.wiki
 asgard-cokie-sg.myonlineportal.ch
 asgard-cup.ru
+asgardastannefretedyorum.duckdns.org
 asgartarasa.click
 asgasdgqwre.sbs
 asgd.olapnaskiyakrotasponarfalyaskarlis.net
@@ -15939,6 +15940,7 @@ bsvrrrkmpnyaaaprmsynn.live
 bsvrrrkmpnyaaaprmsynn.pro
 bsvrrrkmpyyynyyykrediiifrstlrr.pro
 bsvrrrprsmsnynn.pro
+bsvrrrrkmpnyaasnfrsltar410649.online
 bsvrrrrkmpnyaasnfrsltar410649.pro
 bsvrrtokii.sa.com
 bsvru20.click
@@ -29650,6 +29652,7 @@ egmmlbul.net
 egmmm.online
 egmsorgu.org
 egmtrasliceza.org
+egngov.biz.id
 egngov.my.id
 egnngov.biz.id
 egoankrabayi.net
@@ -34974,6 +34977,7 @@ flyinglife.online
 flyngisporuseel.xyz
 flyngisporusel.xyz
 flyngsporusel.xyz
+flyntora.com
 flyotocar.online
 flypgsrblx.tk
 flyrentauto.online
@@ -41991,6 +41995,7 @@ hemenaskq.com
 hemenavisaraclar.online
 hemenavsarackirala.com.tr
 hemenayinfirsatlarindakisongunlerdenbugun.com.tr
+hemenbakiyem.lol
 hemenbasvur-eventevreni.net
 hemenbasvur.cfd
 hemenbasvur.ml
@@ -43626,6 +43631,7 @@ hmnlnltanannta.net
 hmnlrta.net
 hmnlsantans.net
 hmnltansana.net
+hmnltknas.net
 hmnltnasna.net
 hmnmasnmasnmas2811mmnasas.site
 hmnnknltasn.net
@@ -48050,6 +48056,7 @@ invitegreasy.top
 invitemilestone.top
 invitesnail.top
 invitesubtlety.top
+invitezoommeeting.xyz
 invitinganalogy.top
 invitingconcede.top
 invitingimprison.top
@@ -53079,6 +53086,7 @@ kolayadreslerr-b93fbd91b295.herokuapp.com
 kolayarac.com.tr
 kolayarac.net
 kolayarackirala.cloud
+kolaybirsekkilde.sbs
 kolaycaalissverisyap.com
 kolaycadevur.online
 kolaycadevur.store
@@ -74266,6 +74274,7 @@ reklamburda.co
 reklamcll.store
 reklamdemon.icu
 reklamgeldi.sbs
+reklamgitti.sbs
 reklamgoooogle.cf
 reklamhesab.tk
 reklamkutuphanesi.click
@@ -91326,6 +91335,7 @@ trvision.info
 trvmturk2.b-cdn.net
 trvolta.com
 trvrksdnbsrudfs.store
+trvrksdnbsrudfssf.online
 trvspnl.com
 trvspnl2.com
 trvtrkdsnrsvjsd.online
@@ -102029,6 +102039,7 @@ ykifzzwxb4pxihybs3z6rtmnmycp6xrfskm7pja.1.0.vu6fstxxijtrib7xtpnwbhzccm.7tcp547.d
 ykla-frst.online
 yklasmdsantskenas.online
 yklehgsbkyeykle.cfd
+yklehgsnezmnykle.cfd
 yklehgsonlne.cfd
 yklemdhgs.cfd
 yklemdnshgs.cfd

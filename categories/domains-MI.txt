@@ -1,13 +1,14 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MI
-# Records: 171
-# Last change: 2026-09-09 06:02:09 UTC (sync mode: full)
+# Records: 182
+# Last change: 2026-09-17 07:44:52 UTC (sync mode: delta)
 0x666.info
 1235saddfs.icu
 20gbhediyemiz.com
 34yeterlan.com
 44448888.ru
 87e0b6c636999b.lhr.life
+affordableonline.online
 alphabitcapital.info
 amkbins.duckdns.org
 api.cloudservers.kz
@@ -23,11 +24,14 @@ boosterjuices.com
 boso6ka.com
 cauterizespray.icu
 cb.fuckingmy.life
+cheapzone.space
 cnc.feds.cf
 cnc.junoland.xyz
 cnc.methaddict.xyz
 coco-fun2.com
 coco2-hram.com
+codecvideowin.online
+connection.upgradeonline.site
 crase11.ddns.net
 cumhurbaskanlikeuygulamasi39.com
 cumhurbaskanliresmisayfasi.com
@@ -38,6 +42,7 @@ delii.icu
 dev.snap.tk
 dialerformac.com
 do2wers.com
+donalurdesconfeitos.site
 doqeers.com
 edcf8b03c84634.lhr.life
 ehliyetalmamlazim.xyz
@@ -51,6 +56,7 @@ foxupdate1.me
 friktomb.cf
 fuyt.org
 gorgusuzler.com
+granderevolucao.store
 hacelu.com
 handsinworld.com
 haploadpin.com
@@ -69,6 +75,7 @@ kranskerstuff.kozow.com
 kvrnjr30.apexharvestor.digital
 lbarticle.com
 locvnpt.com
+lojinhadoluiz.online
 loop.microsoftmse.com
 love.thotiana.live
 lxwo.org
@@ -91,6 +98,7 @@ momentum.xcaligula.xyz
 morfeucarder.duckdns.org
 ms365-device.com
 ms365-live.com
+mysterylink.xyz
 news.bradpitt.kz
 nibelined.com
 niggerdemon.in
@@ -117,6 +125,7 @@ ppogkvmsja.xyz
 pubgonline.live
 qjywvkbl.degassing-mould.digital
 quantumdataserver5.homes
+quirkyclub.club
 ransokk.de
 rapidfilevault4.cyou
 rapidfilevault4.sbs
@@ -137,6 +146,7 @@ sastoro.com
 seagalnssteavens.com
 secao.org
 secure.cloudserv.ink
+seguranca.versionnova.site
 segurda.top
 sepa-europa.info
 sepacloud.eu
@@ -158,6 +168,7 @@ urmsec.com
 us41web.live
 vagturk.com
 vcopp.com
+volmira.site
 weath.ddns.net
 webstp.com
 wewannaliveinpice.com
