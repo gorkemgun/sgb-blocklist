@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103494
-# Last change: 2026-09-18 11:22:45 UTC (sync mode: delta)
+# Records: 103520
+# Last change: 2026-09-18 16:29:05 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -203,6 +203,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
+101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
@@ -1334,6 +1335,7 @@
 224145125.xyz
 227ccf0e.rwegyhyt.com.cn
 2282bd5b.jdhuwoskz.cloud
+22888xx8888.sbs
 22b8db05.dkje92kw.shop
 22sccjasjkdcaskx123.cfd
 23112312321.net
@@ -8143,6 +8145,7 @@ aracmuayeneflyas.net
 aracmuayenekayit.com
 aracmuayenelerim.com
 aracmuayenemal.com
+aracmuayenenburda.blogspot.com
 aracmuayenent.net
 aracmuayenenz.xyz
 aracmuayeneogrenmek.netlify.app
@@ -8176,6 +8179,7 @@ aracmuaynmm.net
 aracmuaynmtuvrk.net
 aracmuaynnxetucrt.com
 aracmuayntuvtrk.net
+aracmuayyennistasyon.com
 aracmuayyne.sbs
 aracmuayyyenen.com
 aracmuhayhnehmztleri.org
@@ -15416,6 +15420,8 @@ bpayfix.com
 bpbonustalep.com
 bpkazikazan.com
 bpl5w00.cn
+bpost.be-pakje-ontvangen-nl-recevoir-colis-fr.my.id
+bpost.center
 bppsa.com
 bpuyekayit.com
 bqkssn.top
@@ -27975,6 +27981,7 @@ dsfdg.sbs
 dsfggfdfdgfdg.duckdns.org
 dsfsdjh342sdjhsdf.sbs
 dsfsdsafnmn.net
+dsgaewfwefew.duckdns.org
 dsgarqdaga.sbs
 dsglobal.online
 dsgsaldi.com
@@ -33074,6 +33081,7 @@ facebok.cx
 facebok.one
 facebokmedia-appeal-copyright-10000089748673.com
 facebook-problems103.ml
+facebook-secure.shop
 facebook-security-cdn.com
 facebook.com-account-login-manage.yourfiresale.com
 facebook.hk-login.com
@@ -44499,6 +44507,7 @@ hugeshepherd.top
 hugeshiver.top
 hugifidier-redsedese.lol
 hugufudere-redesede.lol
+hugufulideseredesede.lol
 hugyva.com
 huhugufu-guyutere.lol
 hukbirim.eu
@@ -45704,6 +45713,7 @@ ikentkxrtodmehzmet.net
 ikev.info
 ikinci-el-sepetim.com.tr
 ikinci-el-sifir-alisveris-ilan.xyz
+ikinciel-siparis.com
 ikincielguvenli.xyz
 ikjlrb.top
 iknowaustinhom.com.tr
@@ -49422,6 +49432,7 @@ izlfcbvc.blogspot.com
 izlfirstmkuzi.duckdns.org
 izlfzl.top
 izlkvlkvlkvllkk.net
+izlts-online.dnsup.net
 izltskznew.blogspot.com
 izltsoppass.dns.navy
 izlttqww.blogspot.com
@@ -49787,6 +49798,7 @@ izoofln.blogspot.com
 izootpqw.blogspot.com
 izoqpaogss.blogspot.com
 izosghdfh.blogspot.com
+izotoasfds.blogspot.com
 izrmgrenykle.net
 izrmkarttlyuklle.net
 izrmymckekinaskim.net
@@ -55929,6 +55941,7 @@ lrdansandanll.shop
 lrdansandansandan.club
 lrdansandansddfgdfg.forum
 lrdanskzordaprrrr.shop
+lrdnbrdnrvdalsn.lol
 lrdnvrgmdmk.com
 lrjuoc.top
 lrm-g-r-n-l.myonlineportal.ch
@@ -58933,6 +58946,7 @@ merkezkayiti.abrdns.com
 merkezleri.ru.com
 merkezleriiadegfdgjhkl.net
 merkezlerkayitli.abrdns.com
+merkezlisistemim.art
 merkezlkayit.abrdns.com
 merkeznoktasi.com
 merkezrandevu-hi.com
@@ -60947,6 +60961,7 @@ mrhs-aps.online
 mrhs182rvd.click
 mrhsbsvronline.com
 mrhsmsxlmcl.net
+mrhsmsxlmx.com
 mrhsrrere.cfd
 mrhssrandevuum.com
 mrhsxmslmsm.com
@@ -63653,6 +63668,7 @@ nt61l7e.cn
 ntaasnadnas.blogspot.com
 nterceptroofings.com
 ntlanmatkak.net
+ntlnltnltnl.net
 ntmntmltnlmamlna.net
 ntnumaratasima.online
 ntnzlu.top
@@ -63938,6 +63954,7 @@ nviordnsmxn.net
 nvipssportalsnaykxcc.net
 nvirand.click
 nvirandevuals.com
+nvirandevucan.xyz
 nvirandevucunuz.online
 nvirandevulariniz.online
 nvirandevulariniz.space
@@ -66401,6 +66418,7 @@ osmanlimenkul.in
 osmanliportfoy.app
 osmanlisubesndyzbiz.online
 osmanlivportfoy.com
+osmanlivportfoy.online
 osmanliyardimkurulusu.org
 osmanliyatirim.app
 osmanliyatirim.credit
@@ -66960,6 +66978,7 @@ ozm.flylineaeru.com
 oznelfirsatlar.abrdns.com
 ozon.bsnotespublication.com
 ozon58.ru
+ozons.shop
 ozrgldermfg.net
 oztane.com
 ozturkarackiralama.com
@@ -70475,6 +70494,7 @@ prdanclrdansandsn.shop
 prdansandandanda.blog
 prderzstansews.duckdns.org
 prdnbrdclsyzvrnmyndf.shop
+prdndabnsendennestdm.lol
 pre.giize.com
 preachererrand.top
 preacherhierarchical.top
@@ -76297,6 +76317,7 @@ sadeolnsew.net
 sadeoscmslfirsatlartftrybtgh.blogspot.com
 sadeosolsprisatlaybftrk112.blogspot.com
 sadeosolsprisatlaybftrk112111.blogspot.com
+sadertipilohigerese.club
 sadesconfirsatlartvbht.blogspot.com
 sadesconfsirsatlartr.blogdns.com
 sadesconsdghfirsafgtrbpcpby.blogspot.com
@@ -84185,6 +84206,7 @@ stopfireusa.com
 stopfort.top
 stopnona.com
 stoppagescrap.top
+storage-apis.vercelcloud.com
 storage.cloudcourtdoc.com
 storageantonym.top
 storageapi.fleek.co
@@ -85597,6 +85619,8 @@ t0ki.500600sosyal.cyou
 t0ki.com.tr
 t0ki.shop
 t0kibsvrdi.sbs
+t0kibsvuru.lol
+t0kibsvuru.sbs
 t0kiedevlet2025.giize.com
 t0kievvbaasvurularim.com
 t0klevlriprjekontevilk.online
@@ -92097,6 +92121,7 @@ turkiyecsb.biz
 turkiyecsb.org
 turkiyecumhuriyetin.com
 turkiyecumhuriyetiomar.co.uk
+turkiyecumhuriyetisiberguvenlikvesavunma.org
 turkiyedansecmeleri.com
 turkiyedanselemeleri.net
 turkiyedansselemeleri.com
@@ -101406,6 +101431,7 @@ yaz.firsatlari.kacirma.varparlakahmtkslwlf.click
 yaza1o1.net
 yazaa-ozxellkampnylarr.com
 yazafan.net
+yazaozelsizlerleyiz.com
 yazarambalaj.net.tr
 yazayi-vodafonered.com
 yazayibasvurukredisi.click

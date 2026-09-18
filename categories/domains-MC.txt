@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41361
-# Last change: 2026-09-15 18:15:06 UTC (sync mode: delta)
+# Records: 41384
+# Last change: 2026-09-18 16:29:05 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -2301,6 +2301,11 @@ admi2fib4exit.com
 admicrosoft.com
 admin-desk.in
 admin.benefitsnotebook.com
+admin.fjbjwgyuyftg.qpon
+admin.niaotong2.top
+admin.xiongmaocs.help
+admin.xiongmaocs.mom
+admin.xiongmaocs.pics
 admin1.tttseo.com
 admina.duckdns.org
 admina.freeddns.org
@@ -3493,6 +3498,7 @@ androidyeniguncelleme.com
 androidzorunluguncelleme.com
 androton.online
 andscripts.duckdns.org
+andxxxo.com
 andytheslayer.ddns.net
 anehhynmccrawwjvu.org
 aneria.net
@@ -3895,6 +3901,7 @@ app.pal4u.net
 app.quantumservice.lat
 app.renovaserv.bio
 app.rmscloud.pro
+app.tmgg01.top
 app.tstartel.org
 app.turkmensk.org
 app1mel.click
@@ -5283,6 +5290,7 @@ bc-games-login.info
 bc-games-login.shop
 bc.cnbjgds.icu
 bc.confhz.space
+bc.etlva.cn
 bc1qlpk73pgj3dz02nq8d9kpdxk.org
 bc2qcr8m5z00dsv7uqg5ggulrmf.com
 bca.udnudfer.com
@@ -9296,6 +9304,7 @@ cumsakakak7.com
 cumshot.vip
 cunerier.com
 cunironi182.ddns.net
+cunzhang.krgdef.cn
 cupapplicationwhidperssips.com
 cupatrade.com
 cupboardg2irl3c.com
@@ -9467,6 +9476,7 @@ cyuszrx.com
 cyyf.harverhore.ru
 cyylmvnlbdicpkc.ru
 cyytarssznak.net
+cz.gpgmk.com
 czbrwa.geek
 czijbh.net
 czlsjn.com
@@ -13283,6 +13293,7 @@ feenixlanguage.com
 feethah.ddns.net
 fefftmvg6viu.xyz
 fefsadfasdfas.xyz
+fegrs.adidasabc.com
 fehjbkbeig.duckdns.org
 fehlayumsbukwsmie.org
 fehxldkfwpmj.xyz
@@ -18956,6 +18967,7 @@ jhytlebqv.com
 jhzmfac.com
 ji2dlzl5.c0ic4.com
 jiagban.com
+jiaozhu.etlva.cn
 jiaweo.com
 jiaxin.ddns.net
 jibqh.com
@@ -20037,6 +20049,7 @@ kineticwing.com
 king212.ddns.net
 king4488.ddns.net
 kingalone.top
+kingbss.com
 kingcardnfc.com
 kingdombuffmanager.com
 kingflipp.online
@@ -22309,6 +22322,7 @@ mail.peacockdubai.com
 mail.pegasusalpha.eu
 mail.pharmapanel.com.ar
 mail.phumy3sip.com
+mail.plan-mail.com
 mail.pmsgroup.org
 mail.pof.gov.pk.onlinestatus.live
 mail.printforyou.pl
@@ -22582,6 +22596,7 @@ manyeminiesegenis.site
 manyouhomaar21.ddns.net
 manyrestro.lat
 manzisuape.com
+mao.terh5.cn
 map.navicheck.xyz
 map9u1tejdt.net
 mapipet.surf
@@ -25666,6 +25681,7 @@ ns1.musicmixb.co
 ns1.musicmixc.com
 ns1.musiczipz.com
 ns1.rnicrosoftproxy.club
+ns1.wordcheck.info
 ns10.microsoft-support.net
 ns162.nsakadns.com
 ns2.google-onlineupdate.top
@@ -26452,6 +26468,7 @@ ooinonqnbdqnjdnqwqkdn.space
 oojsrvhcphpmvvh.ru
 ooocyber.keenetic.pro
 ooooi1.pages.dev
+oop.uuokxx.com
 oopae.icu
 oorgans.com
 oowdameqgncatln.su
@@ -28448,6 +28465,7 @@ prncfdt.com
 prntsrc.net
 prntxdies.com
 pro-today.org
+pro.taustas.com
 pro225.ddns.net
 proauditkg.com
 probashi-gov-bd.mail-govt.org
@@ -31543,6 +31561,7 @@ seklolesefhges.site
 sekmwu.com
 seko.vipers.pw
 sekubar.com
+sel6bu6eft06.primevoria.com
 selambebekbenkelebek.com
 selami123akdeniz.xyz
 selami3131akdeniz.xyz
@@ -39200,6 +39219,7 @@ www.beltsymd.org
 www.bequestslojyh.xyz
 www.bewitchedkit.com
 www.bingsearches.com
+www.blackcat880.shop
 www.blacklace.club
 www.bmsafetyconsulting.com
 www.bodegabudeguer.com
@@ -39209,6 +39229,7 @@ www.cdn7854.workers.dev
 www.celtabet151.xyz
 www.chanderbhushan.com
 www.chasinglydie.com
+www.cheng770.cyou
 www.civitize.com
 www.clutterfix.biz
 www.codingdrunk.in
@@ -39278,6 +39299,7 @@ www.hannibal.dev
 www.hawaiiislandmidweek.com
 www.hbjkjc.com
 www.hcsscj.ga
+www.heilongyk.top
 www.hirokawaunso.co.jp
 www.holidayacrestreefarm.com
 www.homeadditon.com
@@ -39537,6 +39559,7 @@ x0fopmxsq5y2oqud.com
 x0p-52766.portmap.host
 x12y.restrice.ru
 x14.xxxatat456.com
+x14hidgz0ez.s3.ap-south-1.amazonaws.com
 x1b3l7.mqpu6.ru
 x1x1.pages.dev
 x1x2x3killa.shop

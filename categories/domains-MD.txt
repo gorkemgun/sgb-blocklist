@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65986
-# Last change: 2026-09-16 17:04:21 UTC (sync mode: delta)
+# Records: 65996
+# Last change: 2026-09-18 16:29:05 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -13781,6 +13781,7 @@ boibleved.ru
 boika.zapto.org
 boilersandfurnaces.com
 boilersinfo.com
+boiseno.club
 boisins.com
 boj7lolapshqhapkt3hqvc.ddns.net
 boja4d8sytumc8hfp3.com
@@ -15456,12 +15457,19 @@ cdn.pcprotectorplus.com
 cdn.piytrwd.com
 cdn.roastfiles2017.com
 cdn.salmonads.com
+cdn.sendibt1.com
 cdn1.abs.sogou2.com
+cdn10.sendibt1.com
+cdn11.sendibt1.com
 cdn1e699bdc.com
 cdn2-svr-state.com
 cdn2-system3-secrv.com
 cdn2.duc3k.com
+cdn2.sendibt1.com
+cdn3.sendibt1.com
 cdn4-rxe3-map.com
+cdn4.sendibt1.com
+cdn9.sendibt1.com
 cdnakamai.ru
 cdnakamaiplanet.com
 cdnamz.in
@@ -17612,6 +17620,7 @@ corpoleve.duckdns.org
 corposted.com
 corpwells-1.zapto.org
 corralesking.hopto.org
+corralos.beer
 correios-informa.ddns.net
 correoargentino.ddns.net
 correoelectronicogmail.org
@@ -64118,6 +64127,7 @@ yehgqeyeuc.duckdns.org
 yehyt.duckdns.org
 yekfhsh.ru
 yekkbbbznn.duckdns.org
+yelahaye.surf
 yellow-ns.biz
 yellowfor.host
 yelprope.cloudns.cl
