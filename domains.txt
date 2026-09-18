@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 470528
-# Last change: 2026-09-17 22:13:41 UTC (sync mode: delta)
+# Records: 470521
+# Last change: 2026-09-18 00:26:15 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -18695,7 +18695,6 @@
 724mobilbakiye.net
 724nakitpara.com
 724odememerkezi.xyz
-724online.850numara.com.tr
 724onlinearackirala.com
 724onlinefatura.com
 724onlinesistem.arabamuayenesi.xyz
@@ -43463,7 +43462,6 @@ alisveris-yap.com
 alisveris-yap.com.tr
 alisveris-yapsana.club
 alisveris-zamani-com-tr.cfd
-alisveris.850numara.com.tr
 alisveris.frii.site
 alisveris.fun
 alisveris.kapinda101online.com
@@ -76020,7 +76018,6 @@ biopranica.com
 biordayizbiburda.fit
 biosavanta.com
 bioselect.shop
-biosite.850numara.com.tr
 biotechnologyceramic.top
 biotechnologycurfew.top
 biotecstudio.mx
@@ -82626,7 +82623,6 @@ bmcsll.com
 bmcsllc.com
 bmcss.app
 bmcstcalle.com
-bmctl.850numara.com.tr
 bmcwll.com
 bmcwll3dodeme.com
 bmcwllguveniliryukleme.com
@@ -91406,7 +91402,6 @@ burayagel.club
 burayagelfirsatlarburada.sbs
 burayagelfirsatlarburadanalicaksin.cfd
 burayagelfirsatlarburadanalicaksin.sbs
-burayagirin.850numara.com.tr
 burayagirisyok.com
 burayatikla.club
 burayatikla.live
@@ -178352,7 +178347,6 @@ gecgecisode.info
 gechgsm.com
 gechgss.com
 gecici-t.casa
-gecicidom.850numara.com.tr
 gecicikampanyabasvurusu.tech
 gecicikampanyafirsattechbance.tech
 gecicikampanyafrisatisizlereozel.tech
@@ -456770,7 +456764,6 @@ yardimlasmam.net
 yardimlasmavakfi.com
 yardimlasmavakfi.online
 yardimlasmavakfiekayit.com
-yardimlink.850numara.com.tr
 yardimmerkezcim.com
 yardimmerkezi-lnstagram.ml
 yardimmerkezi.cf

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103458
-# Last change: 2026-09-17 22:13:41 UTC (sync mode: delta)
+# Records: 103456
+# Last change: 2026-09-18 00:26:15 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2407,7 +2407,6 @@
 724garentakiralama.net.tr
 724islemgbrrs.sbs
 724kaskocuu.com.tr
-724online.850numara.com.tr
 724onlinesistem.arabamuayenesi.xyz
 724otokirala.com.tr
 724qarenta.com
@@ -16491,7 +16490,6 @@ burasidrkanteyeaituuttr-aa38756b189b.herokuapp.com
 buratizes.com
 burayafocus.club
 burayagel.club
-burayagirin.850numara.com.tr
 burayatikla.club
 burayayetisenalir.cfd
 burcugroup.tk
