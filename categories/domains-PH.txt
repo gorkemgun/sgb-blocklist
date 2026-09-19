@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43585
-# Last change: 2026-09-19 14:28:23 UTC (sync mode: delta)
+# Records: 43630
+# Last change: 2026-09-19 18:04:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -738,6 +738,7 @@
 2451.ezpizi.click
 24515-2525.xyz
 245891251.sbs
+2458967sonfrstlarrkmpnyaasa.info
 24612-20114.xyz
 24612-yara.click
 24612-yara.xyz
@@ -1392,6 +1393,7 @@
 90514sus.site
 90559999009999.duckdns.org
 90sadjkajklxk13x12.shop
+911919999.duckdns.org
 91723-gemini.com
 91752-coinbase.com
 91756-coinbase.com
@@ -26640,6 +26642,10 @@ nnnerfbdg2ef-wsdaghagsfs.sbs
 nnpubbatch.shop
 nnu4l.top
 nnvirandevubilgilendirme.blogspot.com
+nnvirandevubilgilendirme10.blogspot.com
+nnvirandevubilgilendirme9.blogspot.com
+nnvirandevubilgilendirmecan.blogspot.com
+nnvirandevubilgilendirmetr.blogspot.com
 nnyytu4324324.duckdns.org
 nobilservislerim-2.sbs
 nobleplow.com
@@ -26873,16 +26879,53 @@ nvi-rand36ttwq.net
 nvi.com.gen.tr
 nviilerrndevusu.org
 nviirandevubilgilendirme.blogspot.com
+nviirandevubilgilendirme10.blogspot.com
+nviirandevubilgilendirme9.blogspot.com
+nviirandevubilgilendirmecan.blogspot.com
+nviirandevubilgilendirmetr.blogspot.com
 nviirandevun.com
 nviirnndevullarii.net
 nviraandevubilgilendirme.blogspot.com
+nviraandevubilgilendirme10.blogspot.com
+nviraandevubilgilendirme9.blogspot.com
+nviraandevubilgilendirmetr.blogspot.com
 nvirand.click
 nvirandevubilgilendirme.blogspot.com
 nvirandevubilgilendirme1.blogspot.com
+nvirandevubilgilendirme10.blogspot.com
+nvirandevubilgilendirme101.blogspot.com
+nvirandevubilgilendirme102.blogspot.com
+nvirandevubilgilendirme103.blogspot.com
+nvirandevubilgilendirme10can.blogspot.com
+nvirandevubilgilendirme10tr.blogspot.com
+nvirandevubilgilendirme12.blogspot.com
+nvirandevubilgilendirme13.blogspot.com
 nvirandevubilgilendirme2.blogspot.com
 nvirandevubilgilendirme3.blogspot.com
+nvirandevubilgilendirme31.blogspot.com
+nvirandevubilgilendirme32.blogspot.com
+nvirandevubilgilendirme33.blogspot.com
+nvirandevubilgilendirme3tr.blogspot.com
+nvirandevubilgilendirme4.blogspot.com
+nvirandevubilgilendirme5.blogspot.com
+nvirandevubilgilendirme6.blogspot.com
+nvirandevubilgilendirme7.blogspot.com
+nvirandevubilgilendirme8.blogspot.com
+nvirandevubilgilendirme81.blogspot.com
+nvirandevubilgilendirme82.blogspot.com
+nvirandevubilgilendirme83.blogspot.com
+nvirandevubilgilendirme9.blogspot.com
+nvirandevubilgilendirme91.blogspot.com
+nvirandevubilgilendirme92.blogspot.com
+nvirandevubilgilendirme93.blogspot.com
+nvirandevubilgilendirme9can.blogspot.com
+nvirandevubilgilendirme9tr.blogspot.com
 nvirandevubilgilendirmecan.blogspot.com
+nvirandevubilgilendirmecan1.blogspot.com
+nvirandevubilgilendirmecan2.blogspot.com
+nvirandevubilgilendirmecantr.blogspot.com
 nvirandevubilgilendirmetr.blogspot.com
+nvirandevubilgilendirmetrcan.blogspot.com
 nvirandevucan.xyz
 nvirandevucunuz.online
 nvirandevular.com
@@ -28497,6 +28540,7 @@ paribucekilisi.com
 paribucekilisi.sbs
 paribucevirkazan.com
 paribuguvenlik.info
+paribuguvenlik.org
 paribuhediyelicark.com
 paribukazancarki.com
 paribuodul.com
@@ -28711,6 +28755,7 @@ pazarama.bireyselsatisin.com.tr
 pazarama.guvenceonay.com.tr
 pazarama.guvenliodemeonay.com
 pazarama.guvenlionayodeme.com
+pazarama.guvenliservisler.com
 pazarama.guvenlisiparisim.com
 pazarama.guvenliteslimat.com
 pazarama.hemenislemler.com
