@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43637
-# Last change: 2026-09-19 20:45:57 UTC (sync mode: delta)
+# Records: 43655
+# Last change: 2026-09-19 23:11:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -26645,6 +26645,7 @@ nnpubbatch.shop
 nnu4l.top
 nnvirandevubilgilendirme.blogspot.com
 nnvirandevubilgilendirme10.blogspot.com
+nnvirandevubilgilendirme83.blogspot.com
 nnvirandevubilgilendirme9.blogspot.com
 nnvirandevubilgilendirmecan.blogspot.com
 nnvirandevubilgilendirmetr.blogspot.com
@@ -26882,6 +26883,8 @@ nvi.com.gen.tr
 nviilerrndevusu.org
 nviirandevubilgilendirme.blogspot.com
 nviirandevubilgilendirme10.blogspot.com
+nviirandevubilgilendirme82.blogspot.com
+nviirandevubilgilendirme83.blogspot.com
 nviirandevubilgilendirme9.blogspot.com
 nviirandevubilgilendirmecan.blogspot.com
 nviirandevubilgilendirmetr.blogspot.com
@@ -26889,6 +26892,8 @@ nviirandevun.com
 nviirnndevullarii.net
 nviraandevubilgilendirme.blogspot.com
 nviraandevubilgilendirme10.blogspot.com
+nviraandevubilgilendirme82.blogspot.com
+nviraandevubilgilendirme83.blogspot.com
 nviraandevubilgilendirme9.blogspot.com
 nviraandevubilgilendirmetr.blogspot.com
 nvirand.click
@@ -26914,12 +26919,24 @@ nvirandevubilgilendirme6.blogspot.com
 nvirandevubilgilendirme7.blogspot.com
 nvirandevubilgilendirme8.blogspot.com
 nvirandevubilgilendirme81.blogspot.com
+nvirandevubilgilendirme811.blogspot.com
+nvirandevubilgilendirme812.blogspot.com
+nvirandevubilgilendirme813.blogspot.com
+nvirandevubilgilendirme81tr.blogspot.com
 nvirandevubilgilendirme82.blogspot.com
+nvirandevubilgilendirme82can.blogspot.com
 nvirandevubilgilendirme83.blogspot.com
+nvirandevubilgilendirme832.blogspot.com
+nvirandevubilgilendirme83can.blogspot.com
+nvirandevubilgilendirme85.blogspot.com
+nvirandevubilgilendirme87.blogspot.com
+nvirandevubilgilendirme88.blogspot.com
 nvirandevubilgilendirme9.blogspot.com
 nvirandevubilgilendirme91.blogspot.com
 nvirandevubilgilendirme92.blogspot.com
 nvirandevubilgilendirme93.blogspot.com
+nvirandevubilgilendirme94.blogspot.com
+nvirandevubilgilendirme95.blogspot.com
 nvirandevubilgilendirme9can.blogspot.com
 nvirandevubilgilendirme9tr.blogspot.com
 nvirandevubilgilendirmecan.blogspot.com
@@ -41884,6 +41901,7 @@ www-braun.net
 www-braun.org
 www-brauntr.com
 www-cepteteb-com-tr-basvuru.my-homeip.de
+www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-claro.top
 www-coinbasewallet.com
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org
