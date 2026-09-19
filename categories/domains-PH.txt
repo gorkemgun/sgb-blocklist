@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43630
-# Last change: 2026-09-19 18:04:36 UTC (sync mode: delta)
+# Records: 43637
+# Last change: 2026-09-19 20:45:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -1178,6 +1178,7 @@
 6519846598165151615615615.cloud
 652432431.net
 6526115.xyz
+65321478prsmynnbsvrrkmpnyaaa.online
 6544722454548.duckdns.org
 65453534435.net
 6548595763474.cloud
@@ -25149,6 +25150,7 @@ mhssragb.sbs
 mhssragc.sbs
 mhssragva.autos
 mhssragva.buzz
+mhssragva.fun
 mhssragva.online
 mhssragva.shop
 mhssrajhsyyh.icu
@@ -32248,6 +32250,7 @@ sagliklikalalim.xyz
 saglikliol.giize.com
 saglikliolnnn.mywire.org
 saglikliozelgnlerex.webredirect.org
+sagliklisindirumarim.lol
 saglikliyasamvebeslenmeblogu.shop
 saglikll.mooo.com
 saglkgnlerderndvalnyrz.click
@@ -32273,6 +32276,7 @@ sahibinden-com.apkdog.ae
 sahibinden-get-ilan.b-guvenliodeme.online
 sahibinden-get-paramguvende.xyz
 sahibinden-get.alisverisepetin-12.sbs
+sahibinden-get.alisverisepetin-14.sbs
 sahibinden-get.alisverisepetin-15.sbs
 sahibinden-get.dijital-mobil-hizmet.online
 sahibinden-get.ealimmobil.com
@@ -32434,6 +32438,7 @@ sahibinden.ile-alisverisi-tamamla.com
 sahibinden.ile-ilanim-onayli.com
 sahibinden.ile-islemini-guvenlice-yap.com
 sahibinden.ile-islemini-guvenliceyap.com
+sahibinden.ile-isleminiz.com.tr
 sahibinden.ile-islemleriniz.com.tr
 sahibinden.ile-odemeler-sayfasi.com
 sahibinden.ileservishzmetin.com
@@ -32452,6 +32457,7 @@ sahibinden.odeme-tamamla.com
 sahibinden.odemelerin-guvenli.com.tr
 sahibinden.odemeyap-satinal.com.tr
 sahibinden.offer192391.rest
+sahibinden.onayda-sepet-7185.com
 sahibinden.onayli-siparis-417817.com
 sahibinden.onayli-siparis.com.tr
 sahibinden.onayli-siparisler.com.tr
@@ -34440,6 +34446,7 @@ sonlarda-dahasi-kendine-azda-geride-durmaz.top
 sonlardansonkzler.shop
 sonlaridabilirkibizden.cfd
 sonmkarletlr.com
+sonnfrstlararkmpyabsvr103921.pro
 sonniiadegunleri.com
 sonnkazzandiraanfirsatlarrr.com.tr
 sonnktadabrayaynlrsnzs.monster
