@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43541
-# Last change: 2026-09-19 01:14:10 UTC (sync mode: full)
+# Records: 43549
+# Last change: 2026-09-19 05:59:26 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -4202,6 +4202,7 @@ ayiipyacocuklardanutas.online
 ayininidirmlimatkapi.xyz
 ayinyildizlarinda.com
 aykarav.com
+aylincicekcilik.com
 aylntgngoislemrle.net
 aylorscheckerx.fun
 ayneret.shop
@@ -13115,6 +13116,7 @@ eskisidegilimbenartiksahibiyimburanin.sbs
 eskitaglimrandevu.duckdns.org
 eskiyeyluldeyiz.duckdns.org
 eslonis.com
+esmacicekcilik.com
 esmerlerebiteriz.click
 esmotorsfilo.com
 esnafbilgikaynaklari.cfd
@@ -16815,6 +16817,7 @@ haberler235342.com
 haberler2354123.shop
 haberler235423.sbs
 haberler2373432.shop
+haberler242312313.sbs
 haberler2523432.sbs
 haberler264589.sbs
 haberler298451.sbs
@@ -23534,6 +23537,7 @@ lorowexo.org
 lorqexo.gifts
 lortiemedia.de
 loseorwin.co
+losr066.site
 lostdark.xyz
 lotdog.de
 lotti-9bb0dedeea81.herokuapp.com
@@ -24248,6 +24252,7 @@ market-dup.com
 market-extra-indirimler.online
 market-extra-mobil.online
 market-ozel.online
+market-plus.online
 market-pulse.icu
 market-tanitimlari.online
 market-web.cards
@@ -25118,6 +25123,7 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssragb.sbs
+mhssragc.sbs
 mhssragva.autos
 mhssragva.buzz
 mhssragva.online
@@ -26849,6 +26855,7 @@ nviirnndevullarii.net
 nvirand.click
 nvirandevucan.xyz
 nvirandevucunuz.online
+nvirandevular.com
 nvirandevulariniz.online
 nvirandevulariniz.space
 nvirandevularinizz.online
@@ -42752,6 +42759,7 @@ yklehgsonlne.cfd
 yklemdhgs.cfd
 yklemdnshgs.cfd
 yklemebsladi.cfd
+yklemelrhzlihgs.cfd
 yklemesrguu.cfd
 ykleodekylesmdi.cfd
 ykleodmehgs.cfd
