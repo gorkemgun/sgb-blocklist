@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43549
-# Last change: 2026-09-19 05:59:26 UTC (sync mode: delta)
+# Records: 43572
+# Last change: 2026-09-19 11:06:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -920,6 +920,7 @@
 360roomview.com
 3633332313.cloud
 363364654.cloud
+3635627262.sbs
 369201v-coinbase.com
 3698547onlinnbsvrrkmpnyaaprmsynn.pro
 369854snffrstlrrrkmpnyabasvrrkrdi.pro
@@ -1364,6 +1365,7 @@
 89685655523.cloud
 897987798789.net
 8984564645615615681.site
+89856974prmsynnlmkmpnyaabasvur.pro
 898890.sbs
 89sadhash23sadh99sadhsd.click
 89sakdjkxk1l2312z312.sbs
@@ -1425,6 +1427,7 @@
 9923n23821gv21723gf73.icu
 99564.website
 99903030x332zww1.duckdns.org
+999998888.duckdns.org
 9a9n0a9n0a9na0.net
 9batcgshuer.thechidocas.cyou
 9c743b80-b.b-cdn.net
@@ -3313,6 +3316,7 @@ arabroutes.com
 arabulucukontrol.org
 arabuluculukegm.org
 arabulucumerkezi.org
+arac-gecislerin.cfd
 arac-hasrr.blogspot.com
 arac-hsrm.blogspot.com
 aracbakimhizmeti.blogspot.com
@@ -4110,6 +4114,7 @@ avsfilo.online
 avsfilocar.org
 avsfilokurumsal.com
 avsfilom.com
+avsfilom.net
 avsfilonrentcara.com
 avsfilorent.com
 avsfilorental.com
@@ -4484,6 +4489,7 @@ basvrlmztki.sbs
 basvrlrmzknttki.sbs
 basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
+basvrrrkmpnyaasda13105439.online
 basvrsawkxa.sbs
 basvrtrbnnccse.com.tr
 basvrularinizonaylansin-2025com.com
@@ -4609,6 +4615,7 @@ basvurusayfasi.online
 basvurusirasi.online
 basvurusistemi.cfd
 basvurusitesi-production.up.railway.app
+basvurusu-kiraliktoki.com
 basvurusurecim.click
 basvurutakip.org
 basvurutokiii145858.xyz
@@ -12218,6 +12225,7 @@ eberal.pics
 ebesx.click
 ebiletasimacilik.com
 ebilgi.org
+ebilisimceza.com
 ebireysel.com
 ebjv.com.au
 ebox-vipps.pages.dev
@@ -12307,6 +12315,7 @@ edavateblig.org
 edavayasal.org
 edenovougobio.site
 edenreadweallet.webflow.io
+edetaysorgu.com
 edevgovtr.com
 edevilsonnews.club
 edevlet-ai.com
@@ -12366,6 +12375,7 @@ edosyagib.org
 edosyainfaz.org
 edosyakontrol.net
 edosyasorgu.org
+edosyasorguyap.com
 edosyatakip.com
 edosyatalimat.com
 edosyauyap.com
@@ -13133,6 +13143,7 @@ esnom2.top
 esnrbrdaskyrz.shop
 esogu.net.tr
 esorguceza.com
+esorgudetay.com
 esorgugib.com
 esorguhukuk.org
 esorgulama.org
@@ -16106,6 +16117,7 @@ gratis.kywestfest.com
 gratis.lakeboundtech.com
 gratis.likescandy.com
 gratis.millers-house.com
+gratis.mvolkov.com
 gratis.nottheweb.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
@@ -17893,6 +17905,7 @@ hizhwomantre.pro
 hiziyla-alim.com
 hiziyla-tedarik.com
 hiziyla-ticaret.com
+hizl-gecisleriniz-kolay.web.app
 hizlabasvurlarinionaylara.sbs
 hizlagecisbakiyuklme.web.app
 hizlagvn-2ccd42973cd8.herokuapp.com
@@ -18066,6 +18079,8 @@ hizmetev.com
 hizmetexpress.com.tr
 hizmetfirsatlarimkatil.duckdns.org
 hizmetgarantitr.my-homeip.com
+hizmetiaesorgu.online
+hizmetiaesorgu.site
 hizmetiniz-online.com
 hizmetinkalitesi-garantisi.shop
 hizmetinkalitesi-vurgusu.shop
@@ -18285,6 +18300,7 @@ homenejstt.duckdns.org
 homenestlerdenzehirdark.com
 homenestlerkartallflex2.cloud
 homenews-tr.pro
+homenstdf.duckdns.org
 homensterkljsf.duckdns.org
 homeotypical.com
 homepage----suite---trozor.webflow.io
@@ -21696,6 +21712,7 @@ kgm.ovefoj.buzz
 kgm.oxkasl.help
 kgm.pdpvhh.homes
 kgm.pepmmu.click
+kgm.piyka.help
 kgm.pjxsjz.click
 kgm.ptlkak.click
 kgm.txhppa.help
@@ -22242,6 +22259,7 @@ kmsorgulagulyan.shop
 kmsorgulamagovptt-avm.com
 kmsorgulamahizmetcinizz.online
 kmsorgulamahizmetii.web.app
+kmsorgulamahizmetimniz.web.app
 kmsorgulamahzmetleriniz.web.app
 kmsorgulamalarhemenpttgov.vercel.app
 kmsorgulamalarinizhemenppttm.com
@@ -26853,6 +26871,7 @@ nviilerrndevusu.org
 nviirandevun.com
 nviirnndevullarii.net
 nvirand.click
+nvirandevubilgilendirme.blogspot.com
 nvirandevucan.xyz
 nvirandevucunuz.online
 nvirandevular.com
@@ -26860,6 +26879,7 @@ nvirandevulariniz.online
 nvirandevulariniz.space
 nvirandevularinizz.online
 nvirandevularinizz.site
+nvirandevutek.xyz
 nvirandevuu.xyz
 nvirandvu.org
 nvlcnbycbbn.net
@@ -27495,6 +27515,7 @@ onlinerezervasyonbasvurusu-onaylicepyapi.vercel.app
 onlinesatiislaraozel.net
 onlinesatisci.com.tr
 onlinesbm.com.tr
+onlineshops-cep-mobil.online
 onlinesipariseozelkampanyalar.com
 onlinesiparisi.com.tr
 onlinesiparislerim.com
@@ -28463,6 +28484,7 @@ paribucekilisi.co
 paribucekilisi.com
 paribucekilisi.sbs
 paribucevirkazan.com
+paribuguvenlik.info
 paribuhediyelicark.com
 paribukazancarki.com
 paribuodul.com
@@ -34711,6 +34733,7 @@ sponsorlu-icerik.name.tr
 sponsorlu-kura.online
 sponsorlu-market.xyz
 sponsorlu-paribu.live
+sponsorlu-reklam-tr.online
 sponsorlu-reklamlar.online
 sponsorlu-reklamlari.online
 sponsorlu-tanitim.com.tr
