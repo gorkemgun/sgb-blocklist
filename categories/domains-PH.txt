@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43572
-# Last change: 2026-09-19 11:06:42 UTC (sync mode: delta)
+# Records: 43585
+# Last change: 2026-09-19 14:28:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -88,6 +88,8 @@
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
+101-extra-online-sadece-bugune-ozel-alisveris-indirim-sepeti.bilgi-indirim-tr.online
+101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
@@ -17954,6 +17956,7 @@ hizli-siparisislem.com
 hizli-sorgu-aktarim-sistemi.online
 hizli-toklbsvur.com
 hizli-tuvttr.site
+hizli-yapgecisin-yk.web.app
 hizlial-siparis.com
 hizlialimlarin.com.tr
 hizlialimservisi.com.tr
@@ -26636,6 +26639,7 @@ nnmnnm.ru
 nnnerfbdg2ef-wsdaghagsfs.sbs
 nnpubbatch.shop
 nnu4l.top
+nnvirandevubilgilendirme.blogspot.com
 nnyytu4324324.duckdns.org
 nobilservislerim-2.sbs
 nobleplow.com
@@ -26868,13 +26872,21 @@ nversatvrndvunsen.xyz
 nvi-rand36ttwq.net
 nvi.com.gen.tr
 nviilerrndevusu.org
+nviirandevubilgilendirme.blogspot.com
 nviirandevun.com
 nviirnndevullarii.net
+nviraandevubilgilendirme.blogspot.com
 nvirand.click
 nvirandevubilgilendirme.blogspot.com
+nvirandevubilgilendirme1.blogspot.com
+nvirandevubilgilendirme2.blogspot.com
+nvirandevubilgilendirme3.blogspot.com
+nvirandevubilgilendirmecan.blogspot.com
+nvirandevubilgilendirmetr.blogspot.com
 nvirandevucan.xyz
 nvirandevucunuz.online
 nvirandevular.com
+nvirandevular.xyz
 nvirandevulariniz.online
 nvirandevulariniz.space
 nvirandevularinizz.online
@@ -32286,6 +32298,7 @@ sahibinden-ilanlarim.onizlemeyap.com
 sahibinden-mobil.hizli-odemen.online
 sahibinden-order.com
 sahibinden-param-guvende.ilan-getonay.online
+sahibinden-param-guvende.ilan-getsiparis.online
 sahibinden-param-guvende.ilan-onayla.online
 sahibinden-param-guvende.ilan-siparis.online
 sahibinden-param-guvende.ilanguvenli.online
