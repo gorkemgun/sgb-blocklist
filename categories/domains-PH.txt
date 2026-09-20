@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 43655
-# Last change: 2026-09-19 23:11:08 UTC (sync mode: delta)
+# Records: 43684
+# Last change: 2026-09-20 01:13:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -4224,6 +4224,7 @@ ayodyaresort.com
 ayogame.site
 ayplnsnnaa.duckdns.org
 ayran.click
+ayricalik-ceptetebde.my-homeip.de
 ayrilalim.click
 aysnumrkxtllrde-indrm.net
 ayurvediccancer.com
@@ -5950,6 +5951,7 @@ bntr-cekilisim.online
 bntr-sponsorlugiris1.cfd
 bntrabibn.click
 bntrccrn-onlinegiris.com
+bntrhediyecarki.duckdns.org
 bntrhemengirissponsor.com
 bntrkolaygiris.xyz
 bntrnnrcnonline-girisitr.com
@@ -7530,6 +7532,7 @@ caykursiparis.org
 caykurturkiyeyudum.me
 caylclicimakinlere.com
 caymakineleri.com
+caysponsorlari.online
 caytarifleri.sbs
 cb10101010101010132010199331.com
 cbaseexteension.webflow.io
@@ -16837,6 +16840,7 @@ haberler2373432.shop
 haberler242312313.sbs
 haberler2523432.sbs
 haberler264589.sbs
+haberler26734554.sbs
 haberler298451.sbs
 haberler311422.sbs
 haberler311748.shop
@@ -26647,6 +26651,8 @@ nnvirandevubilgilendirme.blogspot.com
 nnvirandevubilgilendirme10.blogspot.com
 nnvirandevubilgilendirme83.blogspot.com
 nnvirandevubilgilendirme9.blogspot.com
+nnvirandevubilgilendirme94.blogspot.com
+nnvirandevubilgilendirme95.blogspot.com
 nnvirandevubilgilendirmecan.blogspot.com
 nnvirandevubilgilendirmetr.blogspot.com
 nnyytu4324324.duckdns.org
@@ -26886,6 +26892,7 @@ nviirandevubilgilendirme10.blogspot.com
 nviirandevubilgilendirme82.blogspot.com
 nviirandevubilgilendirme83.blogspot.com
 nviirandevubilgilendirme9.blogspot.com
+nviirandevubilgilendirme95.blogspot.com
 nviirandevubilgilendirmecan.blogspot.com
 nviirandevubilgilendirmetr.blogspot.com
 nviirandevun.com
@@ -26895,6 +26902,7 @@ nviraandevubilgilendirme10.blogspot.com
 nviraandevubilgilendirme82.blogspot.com
 nviraandevubilgilendirme83.blogspot.com
 nviraandevubilgilendirme9.blogspot.com
+nviraandevubilgilendirme95.blogspot.com
 nviraandevubilgilendirmetr.blogspot.com
 nvirand.click
 nvirandevubilgilendirme.blogspot.com
@@ -26917,7 +26925,13 @@ nvirandevubilgilendirme4.blogspot.com
 nvirandevubilgilendirme5.blogspot.com
 nvirandevubilgilendirme6.blogspot.com
 nvirandevubilgilendirme7.blogspot.com
+nvirandevubilgilendirme75.blogspot.com
+nvirandevubilgilendirme76.blogspot.com
+nvirandevubilgilendirme77.blogspot.com
+nvirandevubilgilendirme78.blogspot.com
+nvirandevubilgilendirme79.blogspot.com
 nvirandevubilgilendirme8.blogspot.com
+nvirandevubilgilendirme80.blogspot.com
 nvirandevubilgilendirme81.blogspot.com
 nvirandevubilgilendirme811.blogspot.com
 nvirandevubilgilendirme812.blogspot.com
@@ -26926,6 +26940,10 @@ nvirandevubilgilendirme81tr.blogspot.com
 nvirandevubilgilendirme82.blogspot.com
 nvirandevubilgilendirme82can.blogspot.com
 nvirandevubilgilendirme83.blogspot.com
+nvirandevubilgilendirme8311.blogspot.com
+nvirandevubilgilendirme8312.blogspot.com
+nvirandevubilgilendirme8313.blogspot.com
+nvirandevubilgilendirme831tr.blogspot.com
 nvirandevubilgilendirme832.blogspot.com
 nvirandevubilgilendirme83can.blogspot.com
 nvirandevubilgilendirme85.blogspot.com
@@ -26936,7 +26954,17 @@ nvirandevubilgilendirme91.blogspot.com
 nvirandevubilgilendirme92.blogspot.com
 nvirandevubilgilendirme93.blogspot.com
 nvirandevubilgilendirme94.blogspot.com
+nvirandevubilgilendirme941.blogspot.com
+nvirandevubilgilendirme942.blogspot.com
+nvirandevubilgilendirme943.blogspot.com
+nvirandevubilgilendirme94can.blogspot.com
+nvirandevubilgilendirme94tr.blogspot.com
 nvirandevubilgilendirme95.blogspot.com
+nvirandevubilgilendirme951.blogspot.com
+nvirandevubilgilendirme952.blogspot.com
+nvirandevubilgilendirme953.blogspot.com
+nvirandevubilgilendirme95can.blogspot.com
+nvirandevubilgilendirme95tr.blogspot.com
 nvirandevubilgilendirme9can.blogspot.com
 nvirandevubilgilendirme9tr.blogspot.com
 nvirandevubilgilendirmecan.blogspot.com
@@ -36499,6 +36527,7 @@ teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-emekliyeozel.my-homeip.de
 teb-com-tr-internet-emeklilik.my-homeip.de
 teb-com-tr-internet-subesi.my-homeip.de
+teb-com-tr-mobil-onayli.myonlineportal.ch
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
