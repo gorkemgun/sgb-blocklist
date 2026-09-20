@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103744
-# Last change: 2026-09-20 12:26:16 UTC (sync mode: delta)
+# Records: 103753
+# Last change: 2026-09-20 16:50:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11158,6 +11158,7 @@ basvur.ailevegenclik.bugatechnic.com
 basvur.ailevegenclik.sedesa.com.tr
 basvur.app
 basvur.girisiniyap.online
+basvur.indirimlistanbulrehber.com
 basvur.kredi-merkezi.com
 basvur.kredi-vakti.com
 basvur.kreditak.com
@@ -17996,6 +17997,7 @@ categosport.com
 caterallergy.cn
 caterantagonism.top
 catermosa1.sbs
+caterpillar-turkiyetr.com
 caterplilar-turkiye.com
 caterratification.top
 catharcyst.com
@@ -34418,6 +34420,7 @@ firsatgemisidenizile.xyz
 firsatgibifirsat.online
 firsatgoodtodaycamping.net
 firsatgratis.ooguy.com
+firsatgunlerikmpny.duckdns.org
 firsatgunlerimiz.com.tr
 firsatgunlerithespy.net
 firsatgunumkapanyam-1o1.com
@@ -38890,6 +38893,7 @@ gratis.paperbacksins.com
 gratis.sendreward.com
 gratis.servehumour.com
 gratis.simplysweetcakesoc.com
+gratis.sinoyear.com
 gratis.sophiemaslowski.com
 gratis.teknodeno.com.tr
 gratis.terminuscs.com
@@ -43331,6 +43335,7 @@ hizlicasatinalhemensendebirlikteyiz.store
 hizlicasatinalhemensendebirlikteyiz.xyz
 hizlicasrtvs-b4a0fd6049fe.herokuapp.com
 hizlicatrmrr.net
+hizlicicektr.online
 hizlicocuklariz.com
 hizlidabizimle.blogspot.com
 hizlidagitim.com.tr
@@ -59442,6 +59447,7 @@ mhrsislemlerin.com
 mhrsislemyapgiris.vercel.app
 mhrskhsdh.art
 mhrslkislem.com
+mhrslmlmlmmr.com
 mhrsmlxmxl.com
 mhrsmsmhsxzwshshn.net
 mhrsmsxlm.com
@@ -64162,6 +64168,7 @@ nvirandevularinizz.online
 nvirandevularinizz.site
 nvirandevumal.net
 nvirandevumklklsdas.net
+nvirandevuonline.xyz
 nvirandevuservisii.com
 nvirandevuservl.com
 nvirandevuservs.com
@@ -82491,6 +82498,7 @@ sonfrsatlar-burada.com
 sonfrsatlar.sbs
 sonfrsatzmani.cfd
 sonfrsltariikmpnyaabsvrr2138120.online
+sonfrsltariikmpnyaabsvrr2138120.pro
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 songeridonustarihi-aidat-2024-haberlesme.net
@@ -102792,6 +102800,7 @@ yuklemlerlenhhgs.net
 yukleonline-hgs.net
 yukleparki.net
 yukles.blogspot.com
+yuklmenkthgs.cfd
 yuklmezamni.cfd
 yuksek-suda-swim.net
 yuksekdagindumani.co
