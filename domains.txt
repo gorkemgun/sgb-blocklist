@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 471007
-# Last change: 2026-09-20 16:50:58 UTC (sync mode: delta)
+# Records: 471022
+# Last change: 2026-09-20 22:29:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10266,6 +10266,8 @@
 2656519864986515.net
 265905735812879370.com
 26593660.cloud
+2660172556.cloud
+2660176266.cloud
 266113352.corolain.ru
 266234154.click
 2663632936386372.fyi
@@ -40225,6 +40227,7 @@ aktarimyapguvenli.duckdns.org
 aktariniz-hesaplariniza-odemeleriniz.online
 aktarislemlerimlife.duckdns.org
 aktarlifeislemden.duckdns.org
+aktarm.space
 aktarma-ekrani-hizmeti.store
 aktarma-ekrani-martayi.cyou
 aktarma-ekrani.site
@@ -46324,6 +46327,7 @@ anck234176.com
 ancllk.bsayfasi.net
 ancontemplative.top
 ancs.top
+and-anp-andric.myonlineportal.ch
 and-security-state.com
 and-tim.at.ply.gg
 and-web.myonlineportal.ch
@@ -94652,6 +94656,7 @@ cahide.click
 cahide1453maslakrezerve.online
 cahide1453palazzo.xyz
 cahide1453reservasyon.online
+cahide1453rezervasyon.online
 cahide1453rezervasyon.sbs
 cahide1453rezerve.online
 cahidee1453palazzo.xyz
@@ -98128,6 +98133,7 @@ cebtekampanyan.com
 cebtekampanyaniz.com
 cebtekimobilplatform.sbs
 cebtemobilim.com
+cebteteb-ayricalik.my-homeip.de
 cebteteb-bireysel-emekli.my-homeip.de
 cebteteb-com.my-homeip.de
 cebteteb-mobil-giris.tk
@@ -98137,6 +98143,7 @@ cebteteb.com
 cebteteb.my-homeip.de
 cebteteb.my-homeip.net
 cebteteb.myonlineportal.de
+cebtetebde-ayricaliklar.my-homeip.de
 cebtetebi.myonlineportal.ch
 cebtetebli.my-homeip.de
 cebtetebli.myonlineportal.at
@@ -165677,6 +165684,7 @@ finconsultlab.pro
 find-dentalimplants.com
 find-device-my-icloud.com
 find-my.live
+find-myiphons.live
 find152654.xyz
 finda.buzz
 findacada.com
@@ -193526,6 +193534,7 @@ haberler14534925.shop
 haberler145365349.sbs
 haberler145425462.shop
 haberler1542334.shop
+haberler154313.sbs
 haberler1564568.sbs
 haberler16.online
 haberler16.website
@@ -235149,6 +235158,7 @@ istanbulhizmetitaklaci.pro
 istanbulhizmetlermbzurd.store
 istanbulholdingyonetim.net
 istanbulhostuzh.xyz
+istanbulhovardasi.sbs
 istanbulhub.shop
 istanbulhzlkrts.com
 istanbulhzlykleem.net
@@ -367794,6 +367804,7 @@ sgdgdsgs.click
 sgdhghgsjkshds22.click
 sgdsdagjgfjfa.com
 sge.zapto.org
+sgelink.cloud
 sgepost.top
 sgeruyynaf.duckdns.org
 sget-guv.com.tr
@@ -407377,6 +407388,7 @@ trendpulsif.com
 trendrally.online
 trendrewordhorde.run
 trendrivet.com
+trendsepet-tr.online
 trendset.website
 trendsetterstop.top
 trendsettingpath.top
@@ -422303,6 +422315,7 @@ vagubambam.com
 vaguecoconut.top
 vaguecram.top
 vaguewait.top
+vaha-yatirim.com
 vahandag.github.io
 vahdmany.pw
 vahlallha.duckdns.org
@@ -442157,6 +442170,7 @@ www-ceptekapida-marketin.online
 www-ceptekapida-marketin.xyz
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
+www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com.ml
 www-cepteteb-com.tk
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
@@ -462276,6 +462290,7 @@ yklmebslasmdi.cfd
 yklmednsnrhgs.cfd
 yklmehgsnktsi.cfd
 yklmehgszmnpra.cfd
+yklmenktlarihgs.cfd
 yklmenktnizhgs.cfd
 yklmhrsbrdaorg.cfd
 yklmlersnhzla.cfd

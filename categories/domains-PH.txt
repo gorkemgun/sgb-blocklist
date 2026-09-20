@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103753
-# Last change: 2026-09-20 16:50:58 UTC (sync mode: delta)
+# Records: 103766
+# Last change: 2026-09-20 22:29:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1441,6 +1441,8 @@
 26222654526852.cloud
 263232313121.cloud
 2650898.xyz
+2660172556.cloud
+2660176266.cloud
 2684961984986.net
 26937106.cloud
 26adetkaldilababoss.blogspot.com
@@ -5824,6 +5826,7 @@ aktarim-sorgula-ve-al.site
 aktarim-yapma-ekrani.site
 aktarimekranim.duckdns.org
 aktarimlariniz-online-olaark-basladi.site
+aktarm.space
 aktarsana.space
 aktarsanahemeniade4.b-cdn.net
 aktartar7hemeniadeni5.b-cdn.net
@@ -7148,6 +7151,7 @@ anchorsystem.top
 anchrageliestock.top
 ancientshabby.top
 ancontemplative.top
+and-anp-andric.myonlineportal.ch
 and5.org
 andanimtion.top
 andansiparisa.sbs
@@ -18171,7 +18175,9 @@ cebinize-uygun-indirimleeer-burada.com.tr
 cebinizerenkkatacakfsatlar.xyz
 cebinizi-dusunen-hayat-dolu-anlar-burada.com.tr
 cebr-ly-fonsi.myonlineportal.ch
+cebteteb-ayricalik.my-homeip.de
 cebteteb.my-homeip.de
+cebtetebde-ayricaliklar.my-homeip.de
 cebtetebli.myonlineportal.at
 cecenhamit.shop
 ceceriya.s.gy
@@ -40511,6 +40517,7 @@ haberler142536231.shop
 haberler1436542.sbs
 haberler14534925.shop
 haberler1542334.shop
+haberler154313.sbs
 haberler1564568.sbs
 haberler16.online
 haberler16.website
@@ -48715,6 +48722,7 @@ istanbulhepimizin.net
 istanbulhizliat.shop
 istanbulhizliyiz.me
 istanbulhizmetitaklaci.blog
+istanbulhovardasi.sbs
 istanbulhub.shop
 istanbulhzlykleem.net
 istanbulindirimgunu.net
@@ -80037,6 +80045,7 @@ sg.vrlyu.top
 sg.vrlyz.top
 sg1ibj.xdk8ax.cn
 sgasigorta.site
+sgelink.cloud
 sgepost.top
 sget.grnkampanya.net
 sgetguvende.tk
@@ -90829,6 +90838,7 @@ trendoyol.xyz
 trendpltf.com
 trendrally.online
 trendrivet.com
+trendsepet-tr.online
 trendsettingpath.top
 trendshop24.shop
 trendtimedevelop.online
@@ -94577,6 +94587,7 @@ vagamslerteks.click
 vaguecoconut.top
 vaguecram.top
 vaguewait.top
+vaha-yatirim.com
 vahtangafisha.ru
 vaiasolocom.online
 vaidtlrismlrniz.net
@@ -99773,6 +99784,7 @@ www-brauntr.com
 www-cepte-a-101.xyz
 www-ceptekapida-marketin.com
 www-cepteteb-com-tr-basvuru.my-homeip.de
+www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-cimer-iadeleriorg.com
 www-cimerdigitalsonuc.com
@@ -102431,6 +102443,7 @@ yklmebslasmdi.cfd
 yklmednsnrhgs.cfd
 yklmehgsnktsi.cfd
 yklmehgszmnpra.cfd
+yklmenktlarihgs.cfd
 yklmenktnizhgs.cfd
 yklmhrsbrdaorg.cfd
 yklmrdnsnrahgs.cfd
