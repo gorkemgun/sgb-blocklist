@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103736
-# Last change: 2026-09-20 06:23:59 UTC (sync mode: full)
+# Records: 103744
+# Last change: 2026-09-20 12:26:16 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -198,6 +198,7 @@
 101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-mobil-bugune-ozel-indirim-sepeti-cepte-alisveris-tr.bilgicep-tr.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
+101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
 101-extra-online-sadece-bugune-ozel-alisveris-indirim-sepeti.bilgi-indirim-tr.online
@@ -2611,6 +2612,7 @@
 824346-coinbase.com
 826298-coinbase.com
 8276912.brizy.site
+8279999991.duckdns.org
 82d4310c.ns-u629df.shop
 83216-coinbase.com
 8328c2e8.dj-hd5kfu.shop
@@ -29661,6 +29663,8 @@ eggthigh.top
 egibinfaz.com
 egibkamu.org
 egibmasak.com
+egibsorgu.com
+egibsorgula.com
 egibuyap.org
 egibuzlasma.org
 egiris-resmikaynakmerkeziadres.com
@@ -45664,6 +45668,7 @@ ihanetasla.sa.com
 ihasar.com
 ihbarlar.ru.com
 ihbarvar.ru.com
+ihemenbasvur.xyz
 ihlal-merkezi.com
 ihlalbilgilendirme-webtr.tk
 ihlalbilgisi.info
@@ -73660,6 +73665,7 @@ randevunualsirabeklemeyeartikson.net
 randevunubelirle.com
 randevununkolay.com
 randevunuvaktindeal.net
+randevunuzayaginizageldi2.sbs
 randevunuzu-goruntuleyin.com
 randevunuzugoruntu.com
 randevunuzugoruntuyin.com
@@ -82484,6 +82490,7 @@ sonfrouz.com
 sonfrsatlar-burada.com
 sonfrsatlar.sbs
 sonfrsatzmani.cfd
+sonfrsltariikmpnyaabsvrr2138120.online
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 songeridonustarihi-aidat-2024-haberlesme.net
@@ -90827,6 +90834,7 @@ trendy-ol.net
 trendy0l.com
 trendy0l.homes
 trendy0l.lol
+trendy0l1.xyz
 trendy3.online
 trendygiris.com
 trendyl-yilsonusepeti.com
