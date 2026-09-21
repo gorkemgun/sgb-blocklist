@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41384
-# Last change: 2026-09-20 06:23:59 UTC (sync mode: full)
+# Records: 41399
+# Last change: 2026-09-21 14:15:28 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3260,6 +3260,7 @@ altusexchange.online
 altzserberin.info
 aluminiostramuntana.com
 alveslawoffice.net
+alwatanalakbar.com
 alwaysckain.com
 alwaysgoodidea.com
 alwayslivehealthy.com
@@ -4712,6 +4713,7 @@ axolde.com
 axpriqtir.net
 axqvorcpogqkkdu.ru
 axtmj4gt3t4h5qbdn253.imk6q.ru
+axumvoices.org
 axvukr.com
 axz1.xyz
 ayaanhood0655.xyz
@@ -6464,6 +6466,7 @@ brilliant-bubblegum-137cfe.netlify.app
 brilliantroad.top
 brinchil.xyz
 briskinternet.com
+british-daily.com
 brkaj145ds.ddns.net
 brkle.tk
 bro-14538laght-15451.top
@@ -8023,6 +8026,7 @@ cityprod.dotcms.io
 citysearch-packed-bacterial-receptors.trycloudflare.com
 ciuscorp.com
 civicoscolombia.com
+civicpulse.info
 civilarsea.surf
 ciwder.ddns.net
 cixarnjjsuybstm.com
@@ -8538,6 +8542,7 @@ commixdesigns.live
 commnet-systems.com
 commonline.space
 commonspiritcorp-okta.com
+commonwealth-post.com
 communist-flying-provision-calendar.trycloudflare.com
 community.gumonso.ru
 community.mangerqu.ru
@@ -11661,6 +11666,7 @@ ecgglass-arq.s3.sa-east-1.amazonaws.com
 echaintool.info
 echcimqncwdredpx7n.com
 echidnas64.xyz
+echoberlin.info
 echojoy.xyz
 echonex.ai
 echonex.io
@@ -12020,6 +12026,7 @@ eloxvirm.com
 elpetrcheck.xyz
 elpgtextil.com
 elprogresofood.com
+elpulsopopular.com
 elrifeno.com
 elruqiavwn.duckdns.org
 else-accommodation-allowing-throws.trycloudflare.com
@@ -13481,6 +13488,7 @@ fiftiforfrisend.quest
 fiftint.com
 fiftjp15sr.top
 fiftjp15vt.top
+fiftystates.news
 fiftyy3158centtfive.xyz
 fiftyy35centtfive.xyz
 figbc.knowsitall.info
@@ -18729,6 +18737,7 @@ jam-softwere.com
 jamaica123.ddns.net
 jamaicadns.duckdns.org
 jamalzer.ddns.net
+jambojournal.org
 jameka.ddns.net
 jamelal.xyz
 jamelik.asia
@@ -22499,6 +22508,7 @@ malatniahttopat.com
 malayakaracaka.life
 malaycakuratyiuk.digital
 malaysia20gb-gift.com
+malaysiapulse.com
 malaysiatcahf.org
 malcacnba.ac.ug
 malcolmdavies35346.xyz
@@ -24614,6 +24624,7 @@ nahtizi.ru
 naibfiahdiauehihhreu.info
 naiebiaifzgfaezgdzru.info
 naigves.com
+naijapulse.org
 nail-employed-icon-pre.trycloudflare.com
 naive347.xyz
 naizaksss.ddns.net
@@ -27017,6 +27028,7 @@ paknavy-pk.org
 paknavy.modpak.live
 paknvay-pk.net
 pakpotech.top
+pakssarzameen.org
 palace35425.xyz
 palacecirwoos.shop
 paladiums.ddns.net
@@ -30663,6 +30675,7 @@ russellrutherford123.xyz
 russiancl.top
 russianearabroad.com
 russianearabroad.org
+russianway.info
 russk22.icu
 rustcomb.ddns.net
 rustserverhacing.ddns.net
@@ -37749,6 +37762,7 @@ vodog.shop
 vodoturkiye.com
 voenkomat-mil.ru
 vofjim.com
+voiceoftherejuvenation.com
 voico.io
 voipasst.com
 voipreq12.com
@@ -41106,6 +41120,7 @@ zingme.longvn.net
 zinhrjt.com
 zinitgroup.net
 ziolo.duckdns.org
+zion-pulse.com
 zionsystem.live
 ziostohou.digital
 zipcode96.ddns.net
