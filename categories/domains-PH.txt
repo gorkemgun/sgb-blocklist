@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103766
-# Last change: 2026-09-20 22:29:51 UTC (sync mode: delta)
+# Records: 103781
+# Last change: 2026-09-21 06:26:21 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2343,6 +2343,7 @@
 693c4bef.ns-u629df.shop
 693yz5o.cn
 696666612352.cloud
+698574sonfnrsltarrkpnyaabsvrrrrr.info
 698619018.cprecnepal.org
 6996699669.cloud
 699yudumcaykurturkiye.me
@@ -7940,6 +7941,7 @@ arac-dolum2.xyz
 arac-dolum3.xyz
 arac-dolum5.xyz
 arac-dolum6.xyz
+arac-gecisihizlandi.lol
 arac-gecislerin.cfd
 arac-hasrr.blogspot.com
 arac-hsrm.blogspot.com
@@ -15886,6 +15888,7 @@ bskilket-nkoro.cfd
 bskxcw.top
 bslrmbrdatkibsvr.sbs
 bsmdibbsel.com
+bsrrvrrprmsnynkmpnyaaasonfrlstari.online
 bsrv-konut-t-o-k-i.click
 bsrv-konut.click
 bsrv-konut.life
@@ -18175,6 +18178,7 @@ cebinize-uygun-indirimleeer-burada.com.tr
 cebinizerenkkatacakfsatlar.xyz
 cebinizi-dusunen-hayat-dolu-anlar-burada.com.tr
 cebr-ly-fonsi.myonlineportal.ch
+cebteb-emekli-kampanya.my-homeip.de
 cebteteb-ayricalik.my-homeip.de
 cebteteb.my-homeip.de
 cebtetebde-ayricaliklar.my-homeip.de
@@ -29673,6 +29677,7 @@ egibkamu.org
 egibmasak.com
 egibsorgu.com
 egibsorgula.com
+egibsorgulama.com
 egibuyap.org
 egibuzlasma.org
 egiris-resmikaynakmerkeziadres.com
@@ -46214,6 +46219,7 @@ illiterateflap.top
 illiteratepact.top
 illjp4gpz.sbs
 illjp4xty.sbs
+illkevim.biz
 illnessdiversion.top
 illnessescalation.top
 illnesshitherto.top
@@ -50794,6 +50800,7 @@ kaita3elleme3434.sbs
 kaitakcl12lk3xk1l3212.cfd
 kaitaksdkcj13x12.cfd
 kaitameloxx.cfd
+kaitametalar.sbs
 kaitopanel.com
 kaitopititititi.hopto.org
 kaittametoofline.cfd
@@ -53345,6 +53352,7 @@ konutumgayrimenkul.myonlineportal.de
 konutvizyon.click
 konutyolu.click
 konyakrtykle.net
+kookokookokookokokokokkoooo.online
 koolpandaz.com
 kooltukfasf.xyz
 kooperatif21.online
@@ -59008,6 +59016,7 @@ merkezkayiti.abrdns.com
 merkezleri.ru.com
 merkezleriiadegfdgjhkl.net
 merkezlerkayitli.abrdns.com
+merkezlisistem.com
 merkezlisistemim.art
 merkezlkayit.abrdns.com
 merkeznoktasi.com
@@ -59123,6 +59132,7 @@ metaglobalsecuritys.com
 metahelpassistant.com
 metahgshesa.duckdns.org
 metahsrait.top
+metakaitaamin.duckdns.org
 metakaitabmplreas.sbs
 metakaitaoffline.sbs
 metakamp.site
@@ -71437,6 +71447,7 @@ promohubventure.com
 promolatori.icu
 promomomentum.site
 promosuper.net
+promosyon-isbanka.xyz
 promosyon-kayit.com
 promosyon.website
 promosyon101bgn.duckdns.org
@@ -75728,6 +75739,7 @@ rndbsurizmebrurds.store
 rndbsvhzimebrurds.store
 rnddvhszsjfsf.online
 rnddvhszsjfsf.store
+rndevcldm.cfd
 rndevnuhzlal.blogspot.com
 rndevu.blogspot.com
 rndevualmamrkrtk.net
@@ -76623,6 +76635,7 @@ safetystorage-coinbase.com
 safetyvault-coinbase.com
 safevault-coinbase.com
 safewallet-coinbase.com
+safjafjsafjfassafjkasfjk.duckdns.org
 safksafsafkjasfjkfssssfasafasafkj.com
 saflapfsalfsafksamfsmak.com.tr
 safsadfslal230sladsa.net
@@ -93244,6 +93257,7 @@ uhap.co.vu
 uhapbarogiris.co.vu
 uhdcnj.com
 uherasdmcewr.net
+uhggsdgdsggdgshdsgdsusd.site
 uhilir.com
 uhipzx.click
 uhje.me
@@ -102441,6 +102455,7 @@ yklesrglhgs.cfd
 yklmayiz.net
 yklmebslasmdi.cfd
 yklmednsnrhgs.cfd
+yklmehgsnktalari.cfd
 yklmehgsnktsi.cfd
 yklmehgszmnpra.cfd
 yklmenktlarihgs.cfd
