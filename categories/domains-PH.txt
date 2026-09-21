@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103867
-# Last change: 2026-09-21 19:34:04 UTC (sync mode: delta)
+# Records: 103874
+# Last change: 2026-09-21 23:20:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6706,6 +6706,7 @@ alsomidst.top
 alssigorta.site
 alsverisinizindr.click
 alsvlerisleerkacmazz.sa.com
+alsvonli.click
 alsvrsadresden.com
 alsvrsnadresnn.com
 alt-fin-side.shop
@@ -7870,6 +7871,7 @@ ar-dwswag.app
 ar-safar.myonlineportal.ch
 ar-team-zoominfo.com
 ar4c-muaxyne.info
+ara-asa-atk.my-homeip.de
 araackm.com
 araackmyntvuk.net
 araacmuuayneranndevu.com
@@ -9041,6 +9043,7 @@ aslurtykndfnmanklar.cfd
 asmdkasmk43k712.duckdns.org
 asmtal.online
 asnasnahyaaslananala.49843544322684.sbs
+asncxbyaaasdanala.15334265341523.sbs
 asncxbyaaasdanala.48465498456.sbs
 asncxbyaaasdanala.4875648646541.sbs
 asncxbyaaasdanala.48965165841844.sbs
@@ -24462,6 +24465,7 @@ ddcsmj.top
 dddd0001211.com
 dddddb1bimwelll4442222.org
 ddddddd.tk
+dddddddxxd.sbs
 dddlmw.top
 dddr.1trbakar.com
 ddestekoll.cf
@@ -49175,6 +49179,7 @@ isubekuveytturk.online-para.com
 isubekuveytturkcomtr.co.vu
 isubem-kuveytturkonlinehizmetlerimm.chickenkiller.com
 isubetrafikborcuodeme.com
+isubeturkishmenkulweb.com
 isvbmelell.net
 isw-org.pl
 iswpandora.com
@@ -83706,6 +83711,7 @@ srandxuvkd.net
 src-mistress-submitted-operational.trycloudflare.com
 srcn.online
 srdansanrabigbrda.shop
+srdgdnoktsnsa.duckdns.org
 srg-online.online
 srgasdasd.click
 srgczu.help
@@ -86834,6 +86840,7 @@ tarimkoperatifsepeti.online
 tarimkredikooperatifmarket.sondonemkmpnyalari.com
 tarimkredimagazam.cfd
 tarimkredimarket.cfd
+tarimkredimarket.vercel.app
 tarimmarket24.com
 tarimmoalis.com.tr
 tarimmoalis.xyz

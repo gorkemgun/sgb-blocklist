@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258820
-# Last change: 2026-09-21 19:34:04 UTC (sync mode: delta)
+# Records: 258823
+# Last change: 2026-09-21 23:20:10 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -23005,6 +23005,7 @@ aktuelimdea101-indir-im.site
 aktuelindirim.duckdns.org
 aktuelindirim.shop
 aktuelindirimcinizfirsat.com
+aktuelindirimgunleri.duckdns.org
 aktuelindirimhaberleri.com
 aktuelindirimiyakala.net
 aktuelindirimler.duckdns.org
@@ -239900,6 +239901,8 @@ www-cepte-teb.tk
 www-ceptekapida-marketin.online
 www-ceptekapida-marketin.xyz
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
+www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
+www-cepteteb-com-tr-online-kampanya.myonlineportal.de
 www-cepteteb-com.ml
 www-cepteteb-com.tk
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
