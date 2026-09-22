@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103923
-# Last change: 2026-09-22 10:03:11 UTC (sync mode: full)
+# Records: 103955
+# Last change: 2026-09-22 14:59:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3755,6 +3755,7 @@ aa1001xx-indxiriim.com
 aa101pluscepteonline.store
 aa31zz31csldakxsad1.cfd
 aaaaaaccccckkkkkdddddnnnnnnzzzzzz6.site
+aaaaas.sbs
 aaaaccckkkmmmooobbbiiiillll.com
 aaaackkkkkdddnnnzzz.cfd
 aaaccccikdnzzzmobilgirisbireyselsube.com
@@ -23419,6 +23420,7 @@ crfrsdangldisizlebulstu.info
 crfrsdnaldklrnz.com
 crfrsfirsatlarihaziran.com
 crfsa-com.store
+crfsa-indlrm6.vercel.app
 crfsandaalmsn.cfd
 crfsaonlhip.cfd
 crfsarz.cfd
@@ -27827,6 +27829,7 @@ dqwskrgd.pw
 dr30.infidelrio.online
 dr8lps.info
 dradshostin.shop
+draemetech.com
 draftcrash.top
 draggrease.top
 dragkpef.bond
@@ -37446,6 +37449,7 @@ getarvox.store
 getbadge-case2343531.online
 getboldique.com
 getbusiness-invest.com
+getbusy.sbs
 getcellexa.shop
 getceon.store
 getclouddoc.com
@@ -37678,6 +37682,7 @@ gibgxoviadevxtr.fun
 gibharcode.com
 gibportamobil.com
 gibsms.com
+gibsorgula.com
 gibtr.org
 gibxgovtrc.lat
 gibxinteraktif.site
@@ -40974,6 +40979,7 @@ halfmingle.top
 halfwayhoist.top
 halfwaypeddle.top
 halikoso.net
+halimdenanla.dnsup.net
 halira.org
 haliters.site
 halivaley.moonfruit.com
@@ -42527,6 +42533,7 @@ herkeslerisever.net
 herkesokusun.online
 herkessahibiiolsun.sbs
 herkessetsahibiolsundiye.sbs
+herkestarafindansahipolunsundiye.sbs
 herkestenonceal.com
 herkimerdiamondquartz.com
 herksvarddenzdesenderdegel365.click
@@ -43413,6 +43420,7 @@ hizlica-sepette-ocak.shop
 hizlicabaslangicbuguneozel.duckdns.org
 hizlicafrsattanlik1o1.com
 hizlicagecisistem.web.app
+hizlicahalledelimhmn.com
 hizlicaislemmhxrs.org
 hizlicakirala.com.tr
 hizlicakirala.net.tr
@@ -43687,9 +43695,11 @@ hizmetlermzokul.com
 hizmetlistem.net
 hizmetnoktalari.xyz
 hizmetnoktasi.net.tr
+hizmetnoktasindeyizonlne.online
 hizmetpart.xyz
 hizmetport-alda.de
 hizmetsektoronlie.com
+hizmetsektorundyzbiz.sbs
 hizmetservisleriburada.sbs
 hizmett-ailevgenc.pw
 hizmettesiniryokkesintisiz.net
@@ -45762,6 +45772,7 @@ ihasar.com
 ihbarlar.ru.com
 ihbarvar.ru.com
 ihemenbasvur.xyz
+ihh.sorguekrani.org
 ihlal-merkezi.com
 ihlalbilgilendirme-webtr.tk
 ihlalbilgisi.info
@@ -48843,6 +48854,7 @@ istanbulkartbakiyeyukleme.vercel.app
 istanbulkartbakiyeyuklememerkezindesin.vercel.app
 istanbulkartbasvur.web.app
 istanbulkartbasvuru.xyz
+istanbulkartbelgim.xyz
 istanbulkartbelgimm.xyz
 istanbulkartcanb.xyz
 istanbulkartcanbaba.xyz
@@ -49512,6 +49524,7 @@ iz4merlili.blogspot.com
 izakdos.dnsup.net
 izakfsss.blogspot.com
 izakkfosa.blogspot.com
+izaksoqwer.blogspot.com
 izaorw0f.blogspot.com
 izbunmodemesl.net
 izcmrwodeme.net
@@ -50677,6 +50690,7 @@ kacirayimmiseni.net
 kacirilmayacak-sonkampanya.shop
 kacirilmayacak-yilsonuozel.shop
 kacirilmaz-kampanyalar-2.cfd
+kacirilmiyacakfrstlargunudyz.online
 kacirimayacakpaslanmazcelik.sbs
 kacirmaca.online
 kacirmafirsatlari.sd.name.tr
@@ -55590,6 +55604,7 @@ lllinoistollwayc.top
 llllizmrmxxll.net
 lllllllllllllllllll.net
 lllllllllllllllllllllllllllll.online
+llllllllllllllllllllllllllllllllllllllllllllllllll.site
 lllprdannndandan.com
 lllpttllavmllkilometrell.click
 lllres2101.duckdns.org
@@ -55627,6 +55642,7 @@ lndiriminboylesi-sende.com
 lndirimintakipcisiyiz.com
 lndirimisende-kacirmadantikla.com
 lndirimkapinqgeldi.sbs
+lndirimler-enlylrerden.com
 lndirimlerikacirmadansendeal.com
 lndirimtakipcilerindentt.com
 lndirimtakipcileriyiz.com
@@ -59121,6 +59137,7 @@ merkeztr.sbs
 merkezyardim.tk
 merkezyasam.com
 merkonlik.com
+merkzisistemms.club
 merlinturkey.site
 merlinturkey.xyz
 merlrdenslesw.duckdns.org
@@ -63350,6 +63367,7 @@ nlsmdldndlh.net
 nlsustrvslostra.com
 nltalntalnal.net
 nltaman.net
+nltkmamt.net
 nltknam.net
 nltknant.net
 nltknma.net
@@ -64163,6 +64181,7 @@ nviraandevubilgilendirme9.blogspot.com
 nviraandevubilgilendirme95.blogspot.com
 nviraandevubilgilendirmetr.blogspot.com
 nvirand.click
+nvirandevu.xyz
 nvirandevuals.com
 nvirandevubilgilendirme.blogspot.com
 nvirandevubilgilendirme1.blogspot.com
@@ -64277,6 +64296,7 @@ nvirandevubilgilendirmetr.blogspot.com
 nvirandevubilgilendirmetrcan.blogspot.com
 nvirandevucan.xyz
 nvirandevucunuz.online
+nvirandevucunuzz.online
 nvirandevuhizmetleriniz.online
 nvirandevular.com
 nvirandevular.xyz
@@ -77590,6 +77610,9 @@ sahibinden.secureonlinem.com.tr
 sahibinden.sends-i.cfd
 sahibinden.sepet-aktif.com.tr
 sahibinden.sepet-odemeler-2211.com
+sahibinden.sepet-odemeler-2212.com
+sahibinden.sepet-odemeler-2213.com
+sahibinden.sepet-odemeler-2214.com
 sahibinden.sepet-odemesi-1986.com
 sahibinden.sepetim-aktif.com.tr
 sahibinden.sepetim-ilanli.com.tr
@@ -79581,6 +79604,8 @@ sepet-indirimleri-ve-firsatlari-tr.online
 sepet-mobil-tr.online
 sepet-net.online
 sepet-odemeler-2211.com
+sepet-odemeler-2212.com
+sepet-odemeler-2215.com
 sepet-plus.online
 sepet-pttavm.com.tr
 sepet-pttavm.info.tr
@@ -82826,6 +82851,7 @@ sorgucumeryem.com.tr
 sorgudava.net
 sorgudenetim.org
 sorgueceza.com
+sorguekrani.org
 sorguemaliye.org
 sorguhaci.online
 sorguidari.org
@@ -86816,6 +86842,7 @@ tapu-islemleri.org
 tapu-kadastr0.online
 tapu-randevu.net
 tapu-randevumsu-tkgm-e-devlet.vercel.app
+tapu.ink
 tapu.lat
 tapu1.shop
 tapu11.shop
@@ -90096,6 +90123,7 @@ tprsondakika.com
 tpshop.xyz
 tpssrnsu.net
 tptrpl.com
+tpu.tvrksnresbhdczsmr.store
 tpurandevolstur.uk
 tpxlolrkm.shop
 tpyyz-cmw.com
@@ -91253,6 +91281,7 @@ trhakkindasikayetller.com
 trhakkinizda-sikayetler.com
 trhakkinizdasikayetlervars.com
 trhazine.org
+trhazinemaliye.org
 trhazinemasak.net
 trhediye20gb.com
 trhgs.ink
@@ -92919,6 +92948,7 @@ tuvxturkx-3d-odemee.net
 tuvxtuvxfdsfswwqe-3ddsaxds.net
 tuw-turk.net
 tuwtukr.govt.hu
+tuwwtukr.govt.hu
 tuy.ittrecc.com
 tuyoahsadhahsd909adsdhas.click
 tuyptt.top
@@ -100186,6 +100216,7 @@ www6444odmeecomtr.org
 www750adetdogehediyeleri.com
 www750dogehediyemp.com
 wwwaldin-aldinkampnya.net
+wwwaww.sbs
 wwwb.reimglink.com
 wwwbitci.com
 wwwcural.click
@@ -102403,6 +102434,7 @@ yfonlineyatirim.com
 yfportfoy.org
 yfyatirim.com
 yfyatirimgiris.com
+yfyatirimgiris.online
 yg62sc.xdk8ax.cn
 yg9e67.vip
 ygclamp.com
