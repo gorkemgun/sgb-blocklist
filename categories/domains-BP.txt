@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 258826
-# Last change: 2026-09-22 05:04:43 UTC (sync mode: delta)
+# Records: 258836
+# Last change: 2026-09-22 10:03:11 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -10624,6 +10624,7 @@
 9675121525412.online
 9678651525412.online
 9678651525412.xyz
+968574sonfrstlarrkmpnpyaabsvr.info
 9689186198f.duckdns.org
 9691234532-1.cloud
 969696.site
@@ -32690,6 +32691,8 @@ basvruonayi.pro
 basvrurrprsmynnkmonyaaa.info
 basvrurrprsmynnkmonyaaa.pro
 basvrurrrpmrsmynnnkmphyaaa.pro
+basvrurrrprsmynnkmpnyaaaa9183219.info
+basvrurrrprsmynnkmpnyaaaa9183219.pro
 basvrusasnaaid.com
 basvrusorgulama-acikdenz.com
 basvrutcrnrnbnnrc.com
@@ -150641,6 +150644,7 @@ kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
 kmsorgulamahizmetlerinizz.shop
 kmsorgulamahizmetmiz.com
+kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
 kmsorgulamakicin.blogspot.com
 kmsorgulamakubravursz.duckdns.org
@@ -208475,6 +208479,7 @@ sonfrsaattbsvrrrkmpnyaaa.live
 sonfrsat-burada.com
 sonfrsatkampanya.xyz
 sonfrsiattlarbsasvrkmnpyaaa.pro
+sonfrsltarrbasvrrkmpnyaa6569741.info
 sonfrstbugun.online
 sonfrstkmpnyabsvrr.pro
 sonfrstkmpnyabsvrr.xyz
@@ -213608,6 +213613,7 @@ svbseloxpzts.com
 svbseloxpzts.net
 svbseloxsali.com
 svdgngnlerdndrlm.shop
+svdkbrdanskllerden.duckdns.org
 svdklrndbrabzvrdks.shop
 svdkmglsdslors.shop
 svdlargnlredesas.shop
@@ -215716,6 +215722,7 @@ tciadehizmet.xyz
 tciadelerbakanlik.xyz
 tciadeleriniz.xyz
 tcicisleribakanligi.com
+tcigiris-adresi.cam
 tcinfaz.com
 tcistanbulbakiye.online
 tcistanbulbakiyem.online
@@ -226935,11 +226942,13 @@ turkiye-gov-tr.xyz
 turkiye-gov-trmobil.net
 turkiye-gov-trr.com
 turkiye-gov.cam
+turkiye-gov.cfd
 turkiye-gov.click
 turkiye-gov.club
 turkiye-gov.com
 turkiye-gov.gq
 turkiye-gov.org
+turkiye-gov.sbs
 turkiye-gov.servebeer.com
 turkiye-gov.site
 turkiye-gov.tech
@@ -237342,6 +237351,7 @@ webdeyapitr.com
 webdeziraat-baharitr.com
 webdigitalkredi.online
 webdigitalpage.net
+webdijital-kampanyalar.click
 webdijitalvakifsbv1.co.vu
 webdijitalvakifsbv2.co.vu
 webdijitalvakifsbv3.co.vu

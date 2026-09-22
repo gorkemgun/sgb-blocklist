@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 65998
-# Last change: 2026-09-21 19:34:04 UTC (sync mode: delta)
+# Records: 66001
+# Last change: 2026-09-22 10:03:11 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9184,6 +9184,7 @@ albacosmeticos.shop
 albandy.zapto.org
 albaros.com
 albert109045555.hopto.org
+albinofennel.com
 albinos1456.ddns.net
 albirdeburdanyak.info
 albumpictures.zapto.org
@@ -27932,6 +27933,7 @@ hanoiguidedtours.com
 hanoty.zapto.org
 hanrinkedhed.com
 hansdampf.zapto.org
+hanselarinmusky.com
 hansonindustrycoltd.hopto.org
 hantopetrigd.ddns.net
 hanwha.hopto.org
@@ -30015,6 +30017,7 @@ ic8axv.duckdns.org
 icah-jobs.com
 icallwells1.zapto.org
 icancel-iloginrequest.com
+icansamyope.com
 icarusoftwares.com
 icayzxtjie.duckdns.org
 icazvrodcy.duckdns.org

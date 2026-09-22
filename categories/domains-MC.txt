@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41399
-# Last change: 2026-09-21 14:15:28 UTC (sync mode: delta)
+# Records: 41403
+# Last change: 2026-09-22 10:03:11 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -9882,6 +9882,7 @@ dead1.ddns.net
 deadcpaping.club
 deaddereaste.today
 deadhackers.ddns.net
+deadhub.org
 deadly-commonwealth.top
 deadnibbas.ddns.net
 deadtrainingactioniw.xyz
@@ -18518,6 +18519,7 @@ istanbul-0510.xyz
 istanbulbelediye1453.net
 istanbulbelediyebuyuksehir.com
 istanbulkart.site
+istatlmenus.com
 istemezsincaninakapina.xyz
 istericaoperamus.ru
 isthasereilaclamacem.site
@@ -22029,6 +22031,7 @@ macos-browser-update-5y.pages.dev
 macos-browser-update-9n.pages.dev
 macosapp-apple.com
 macosxappstore.com
+macperformancetools.com
 macrofocafify.org
 macroso.ddns.net
 macsetech.online
@@ -40851,6 +40854,7 @@ zadyhv.com
 zaezsefsdfqfds.ddns.net
 zafar101.duckdns.org
 zafervukkasoka.tk
+zaffersnouty.com
 zaguamo.com
 zagxy.com
 zahcomputers.pk.modpersonnel.support

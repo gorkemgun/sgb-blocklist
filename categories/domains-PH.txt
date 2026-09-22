@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103899
-# Last change: 2026-09-22 05:04:43 UTC (sync mode: delta)
+# Records: 103923
+# Last change: 2026-09-22 10:03:11 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1770,6 +1770,7 @@
 365-haber.online
 365-haber.site
 365-tr-evlllkrdisi.com
+365214snfrlstarrkmpnyaabasvrr.info
 365214snfrlstarrkmpnyaabasvrr.pro
 365acenta.com
 365ekaskosigorta.com
@@ -2788,6 +2789,7 @@
 961c277e.ns-u629df.shop
 96511908212042.cloud
 96547392031048.com
+968574sonfrstlarrkmpnpyaabsvr.online
 977p5l.cn
 978-1-21-154-1.com
 9786435453543.online
@@ -5793,6 +5795,7 @@ akmobilceptekredifirsatin.online
 akmobilceptekredin.online
 akmobilfirsat.online
 akmobilsizeozelbireyselfirsatlar.cloud
+akmpxnya-101eylul.site
 akmstfrst2024.online
 aknarvakfi.com
 akneytl2.click
@@ -8960,6 +8963,7 @@ asfas5f4a.ocserif.net
 asfasasfasfasf.net
 asfaswrsdf.online
 asffsafsfsa.net
+asfgashjfgahjsfgashjfgashjfasghjasjhasgjh.cfd
 asfgaxq.sbs
 asfinag-pay.live
 asfinag-pay.shop
@@ -18413,6 +18417,7 @@ cepsubem.com.tr
 cepte-eylul.net.tr
 cepte-islemleriminz-garanti.duckdns.org
 cepte-klima.xyz
+cepte-shop-tr.online
 cepte-shop.online
 cepte-sok-market.name.tr
 cepte-sok-online.com
@@ -29791,6 +29796,7 @@ eglaili.tk
 egm-gov.my.id
 egm-gov.web.id
 egm-serec.net
+egmbilisim.com
 egmbirim.org
 egmbull.one
 egmdosyam.com
@@ -38971,6 +38977,7 @@ gratis.servehumour.com
 gratis.simplysweetcakesoc.com
 gratis.sinoyear.com
 gratis.sophiemaslowski.com
+gratis.tabacoschile.com
 gratis.teknodeno.com.tr
 gratis.terminuscs.com
 gratis.twinslist.com
@@ -40092,6 +40099,7 @@ guzeliklersizinlebaslar.com.tr
 guzelikmerkezisikayetlerim.com
 guzeliyilikliler.com
 guzelkalpler.com
+guzelkizlarllal.duckdns.org
 guzellerinyarisi.com
 guzellikler.online
 guzelliklerhepyaninda.cfd
@@ -45908,6 +45916,7 @@ ilan-hizmetim.online
 ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-ile-satis.com
+ilan-islem.online
 ilan-kurumsal.com.tr
 ilan-m.com.co
 ilan-magaza.com
@@ -50877,6 +50886,7 @@ kaitaksdkcj13x12.cfd
 kaitameloxx.cfd
 kaitametalar.sbs
 kaitareklamcilik.sbs
+kaitareklom.sbs
 kaitopanel.com
 kaitopititititi.hopto.org
 kaittametoofline.cfd
@@ -53103,6 +53113,7 @@ kmsoruguyaphemngovpttefpak.web.app
 kmsrgcwzs.net
 kmsrglamahizmetlerimiz.web.app
 kmsrgldklarmizdayz.gleeze.com
+kmsrglmaptt.com
 kmsrgoslyampgovptrrsvvk.web.app
 kmsrgoualmayaplimgovserkan.web.app
 kmsrgoulamaapoapoapoa.web.app
@@ -54923,6 +54934,7 @@ lenslayman.top
 lenspull.top
 lentheatre.com
 lenvaril.lat
+leoartkmddayibrkkk.duckdns.org
 leodemem.com
 leofstbrdaclsyrz.com
 leokmhasar.com.tr
@@ -55662,6 +55674,7 @@ lnstagramverify-badge.ga
 lnstahelpservice.com
 lnstanmbulkentkart.net
 lnstaqramtellifhakkoruma.xyz
+lntalnlan.net
 lntlntlntltnltn.net
 lntrvergdmee.net
 lnv3b68.xdk8ax.cn
@@ -56708,6 +56721,7 @@ m-mgarg.com
 m-obilet.uk
 m-papara.com
 m-pttavm.com
+m-sahihinden.com.tr
 m-sso-s-suite-trzor.webflow.io
 m-start-ledger-autth.webflow.io
 m-start-ledger-auuth.webflow.io
@@ -63017,6 +63031,7 @@ nexusweb.online
 nexusworld.online
 nexvalo.cyou
 nexvalorn.com
+nexvanta.blog
 nexvario.one
 nexvendiq.tr
 nexvila.store
@@ -75295,6 +75310,7 @@ resolvefeas.top
 resolvehose.top
 resonaban.cc
 resonsilestngle.top
+resontiacicek.sbs
 resortedspa.com
 resortguide.info
 resortmolecule.top
@@ -75837,6 +75853,7 @@ rndevcldm.cfd
 rndevnuhzlal.blogspot.com
 rndevu.blogspot.com
 rndevualmamrkrtk.net
+rndevualsmdi.cfd
 rndevulari.net
 rndevunuzzslasdsddnsh.net
 rndevuvar.net
@@ -77572,6 +77589,7 @@ sahibinden.securem.com.tr
 sahibinden.secureonlinem.com.tr
 sahibinden.sends-i.cfd
 sahibinden.sepet-aktif.com.tr
+sahibinden.sepet-odemeler-2211.com
 sahibinden.sepet-odemesi-1986.com
 sahibinden.sepetim-aktif.com.tr
 sahibinden.sepetim-ilanli.com.tr
@@ -77885,6 +77903,8 @@ sahibnden.alisveris-ilanim-671822.com
 sahibnden.ilan-siparis.com
 sahibndenparamguvende.com
 sahihinden.com
+sahihinden.com.tr
+sahihindeni.com.tr
 sahiibiindenn.com
 sahiibiindenn.online
 sahiibiindenn.xyz
@@ -79560,6 +79580,7 @@ sepet-hizmette.com.tr
 sepet-indirimleri-ve-firsatlari-tr.online
 sepet-mobil-tr.online
 sepet-net.online
+sepet-odemeler-2211.com
 sepet-plus.online
 sepet-pttavm.com.tr
 sepet-pttavm.info.tr
@@ -81654,6 +81675,7 @@ skatteetatei.top
 skbkjacmazvl.com
 skdapersmbfrstkpidaucrtszkrgfrsti.tech
 skde.top
+skechers-turkey.com
 skechers-turkiye.com.tr
 skechesturkey.com
 skeletnenclsure.top
@@ -89097,6 +89119,7 @@ tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
+tkg-tpuransevdnuz.net
 tkgg-edvtap-randvv.org
 tkgmgov.weebly.com
 tkgms.com.tr
@@ -90059,6 +90082,7 @@ tpdxmkjx.net
 tpe123d33e.com
 tpetrolinvest.com
 tpetrul.life
+tpk-rndv-tkgg.online
 tplmrpc.online
 tplrtrpsmshs.shop
 tppart.com
