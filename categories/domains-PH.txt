@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103955
-# Last change: 2026-09-22 14:59:12 UTC (sync mode: delta)
+# Records: 103972
+# Last change: 2026-09-22 18:57:39 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -443,6 +443,7 @@
 12211455441554555889891.xyz
 12211455441554555889894.xyz
 12211455441554555889895.xyz
+12212111455447885588952225590.duckdns.org
 122562652500.xyz
 122562656334.info
 122562656478.info
@@ -34504,6 +34505,7 @@ firsatgratis.ooguy.com
 firsatgunlerikmpny.duckdns.org
 firsatgunlerimiz.com.tr
 firsatgunlerithespy.net
+firsatgunlweri.store
 firsatgunlweri.xyz
 firsatgunumkapanyam-1o1.com
 firsathaftanzi.com
@@ -37411,6 +37413,7 @@ get-link.com.tr
 get-ms.info
 get-new-pass.lovable.app
 get-odeme.com
+get-odeme.online
 get-paraguvendesahibinden.com
 get-param-guvende.ru.com
 get-pay.link
@@ -38725,6 +38728,7 @@ govbrk.shop
 govbrs.com
 govct.tr
 govcza.homes
+govegm.my.id
 goverbarrier.top
 govermentsecintro.com
 governmebis.xyz
@@ -41035,6 +41039,7 @@ halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
 halknburassendegel81.click
+halkonay.tech
 halkora.net
 halkplanlama.net
 halkrafaelo.online
@@ -48867,6 +48872,7 @@ istanbulkartimyuklee.com
 istanbulkartinaykle.com
 istanbulkartislem.xyz
 istanbulkartnakiye.bsvrislm.com
+istanbulkartonline.xyz
 istanbulkartrandevu.xyz
 istanbulkartt.online
 istanbulkarttbelgimm.xyz
@@ -52767,6 +52773,7 @@ kkbzve.top
 kkdomainfearles.com
 kkent-krsn.tk
 kkevrenlrkislem.click
+kkfkkdkag.com
 kkgktkm.net
 kkhydy.cyou
 kkiadetakip.com
@@ -72260,6 +72267,7 @@ pttavmx-hizliiiodemelexrrr.com
 pttavmxler-gpx.com
 pttavmxler-pvx.com
 pttavmxx-hizliodexmeler.com
+pttavn-hizlica-islem-ykle.web.app
 pttavn-islemler-hgs-sorgulama.firebaseapp.com
 pttavn-islemler-hgs-sorgulama.web.app
 pttavn-kilomtre-islem-sorgu.firebaseapp.com
@@ -73618,6 +73626,7 @@ rafaelbabax.shop
 rafaelcimxd.duckdns.org
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
+rafaeloskr.cc.cd
 rafaeltb.us.ci
 rafalardakiindiirmhavasiburadaesiyor.com.tr
 rafata3131acsldjcklk1j3x12.cfd
@@ -73841,6 +73850,7 @@ randevutarifleri.com
 randevutkgm.cfd
 randevuumda.vip
 randevuunicin.com
+randevuvaktii.com
 random.156953coinbase.com
 random.auth-cb.com
 randombring.top
@@ -74556,6 +74566,7 @@ refer.health
 referansdegerlendirme.com
 referansgirisi.com
 referansmenkuldeger.com
+referansportal.online
 refereedegradation.top
 refereehumiliate.top
 refereeimperative.top
@@ -82672,6 +82683,7 @@ sonfrsltariikmpnyaabsvrr2138120.pro
 sonfrsltarrbasvrrkmpnyaa6569741.pro
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
+sonfrstlarrkmpnyaabasvrr478596.pro
 songeridonustarihi-aidat-2024-haberlesme.net
 songeridonustarihi-aidat-2024-ileriiksim.net
 songeridonustarihi-aidat-2024-ilerksim.net
@@ -91029,6 +91041,7 @@ trendy-ol.net
 trendy0l.com
 trendy0l.homes
 trendy0l.lol
+trendy0l1.sbs
 trendy0l1.xyz
 trendy3.online
 trendygiris.com
@@ -92073,6 +92086,7 @@ tttektikklasponsorlurrklam.com
 tttksltsktlscc.net
 tttlkkkmcccc.giize.com
 ttttektikklasponsorlurrklam.com
+tttuvturkhizlirandvu.web.app
 tttzzdttaasrqw.nicepage.io
 ttuuvturk.govt.hu
 ttuuvturk.web.app
@@ -92835,6 +92849,7 @@ tutturdum.club
 tutturdum.online
 tutturdum.site
 tutturdum.xyz
+tuuwttukr.govt.hu
 tuv-arac-muane.net
 tuv-iis.digital
 tuv-res.digital
@@ -95397,6 +95412,7 @@ ver-refeew.com
 ver-sresee.com
 ver02.mipropia.com
 ver5gio4d3me.net
+veradix.blog
 veraj.store
 veraki.pro
 veralunahorizon.com
@@ -103748,6 +103764,7 @@ zoom-meet.us
 zoom2023.com
 zoom2024.online
 zoombottin.com
+zoominvite-us09web-user08b.pages.dev
 zoominviteus1.pages.dev
 zoommify.com
 zooncak.com

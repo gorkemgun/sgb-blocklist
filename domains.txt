@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 471310
-# Last change: 2026-09-22 14:59:12 UTC (sync mode: delta)
+# Records: 471334
+# Last change: 2026-09-22 18:57:39 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3955,6 +3955,7 @@
 12211455441554555889892.xyz
 12211455441554555889894.xyz
 12211455441554555889895.xyz
+12212111455447885588952225590.duckdns.org
 122121222222221.duckdns.org
 12234593-2353987.com
 122411-43434-33.cloud
@@ -166840,6 +166841,7 @@ firsatgunlerinikacirmaz.com
 firsatgunlerithespy.net
 firsatgunlugu.sbs
 firsatgunlukleri.xyz
+firsatgunlweri.store
 firsatgunlweri.xyz
 firsatgunnewyearscamp6.net
 firsatgunu.sbs
@@ -180470,6 +180472,7 @@ get-new-pass.lovable.app
 get-odeme-onay.online
 get-odeme-secury-param-guvende.ml
 get-odeme.com
+get-odeme.online
 get-official-badge.netlify.app
 get-on-blue.surge.sh
 get-onay-tr.online
@@ -182493,6 +182496,7 @@ giris-turkiye-aidatt.org
 giris-turkiye-cep.tk
 giris-turkiye-gov-tr-pande-mi-destek-paketi.tk
 giris-turkiye-gov-tr-portal-giris-com.rf.gd
+giris-turkiye-gov-tr-translate-goog.translate.goog
 giris-turkiye-gov-tr-vatandas.rf.gd
 giris-turkiye-gov-tr.com
 giris-turkiye-gov-tr.ml
@@ -186245,6 +186249,7 @@ govct.tr
 govcza.homes
 govczk.homes
 goveanrs.org
+govegm.my.id
 goveloms.space
 goverbarrier.top
 goveridash.co
@@ -197719,6 +197724,7 @@ halknsiqortasi.xyz
 halkoffshore.com
 halkoim.com
 halkoindirimle.net
+halkonay.tech
 halkonaysistemi.online
 halkonline-aidat-islemleri.com
 halkonline-egiris.com
@@ -235491,6 +235497,7 @@ istanbulkartnakiye.bsvrislm.com
 istanbulkartnn.online
 istanbulkartnoktasii.net
 istanbulkartodeme.tech
+istanbulkartonline.xyz
 istanbulkartpromosyon.net
 istanbulkartrandevu.xyz
 istanbulkartrandevuu.xyz
@@ -257210,6 +257217,7 @@ kkfearlesss.com
 kkffvdv111.cloud
 kkfhhfsafsacascasfgg.space
 kkfkfjpdlfdmfsndfnsdnfmnvcxnvb58.click
+kkfkkdkag.com
 kkftodesk101.top
 kkftodesk102.top
 kkftodesk104.top
@@ -260228,6 +260236,7 @@ konut-t-o-k-i.com
 konut-t0k1n-bas.click
 konut-t0k1n-bas.sbs
 konut-t0kin-bas.online
+konut-toki-firsat.sbs
 konut.2026teslimsel.cyou
 konut.81il.sbs
 konut.app
@@ -294588,6 +294597,7 @@ nadire-polat-sevgi.dnsuser.de
 nadirelektrk.site
 nadirfirsatlar.com
 nadirg.shop
+nadirgold.co
 nadirgoldexpress.com
 nadirhaber.club
 nadirhaber.online
@@ -335695,6 +335705,7 @@ pttavmyklemexs.com
 pttavmylszlarx.com
 pttavmyuklemex.com
 pttavn-hizli-gecisleriniz.web.app
+pttavn-hizlica-islem-ykle.web.app
 pttavn-islemler-hgs-sorgulama.firebaseapp.com
 pttavn-islemler-hgs-sorgulama.web.app
 pttavn-kilomtre-islem-sorgu.firebaseapp.com
@@ -342999,6 +343010,7 @@ rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
 rafaelkizlareler.sbs
 rafaelokralinyoo34.sbs
+rafaeloskr.cc.cd
 rafaeltb.us.ci
 rafaelxleokralinyo34.sbs
 rafahsgfafda1.sbs
@@ -344107,6 +344119,7 @@ randevuturkiyem.blogspot.com
 randevuu-8e03b839a9da.herokuapp.com
 randevuumda.vip
 randevuunicin.com
+randevuvaktii.com
 randevuyakasi.com
 randevuyaklari.com
 randevuyaklasiyor.com
@@ -346188,6 +346201,7 @@ referansgirisi.com
 referanskod-a101volta-yetkilisatis-com.online
 referansmenkuldeger.com
 referansonlinefba.com
+referansportal.online
 refereedegradation.top
 refereehumiliate.top
 refereeimperative.top
@@ -357096,6 +357110,8 @@ sahibinden.sepet-odemeler-2212.com
 sahibinden.sepet-odemeler-2213.com
 sahibinden.sepet-odemeler-2214.com
 sahibinden.sepet-odemeler-2215.com
+sahibinden.sepet-odemeler-2216.com
+sahibinden.sepet-odemeler-2217.com
 sahibinden.sepet-odemesi-1986.com
 sahibinden.sepet-onayli.com.tr
 sahibinden.sepet-online.com.tr
@@ -377989,6 +378005,7 @@ sonfrstlarburda1o1tukenyr.shop
 sonfrstlarburdatukenyr1o1.shop
 sonfrstlarkapindaburda1o1.shop
 sonfrstlarrkmpnyaabasvrr478596.info
+sonfrstlarrkmpnyaabasvrr478596.pro
 sonfrstlarrkmpnyaabsvrr147852.online
 sonfrstlarrkmpnyaabsvrr147852.pro
 sonfrstlarrrkmpnyaa96587412.click
@@ -401006,6 +401023,7 @@ tokgirisresmibakanlikgovtr-sosyalgov.sbs
 tokgovtrkurumsal.cyou
 tokgovtrkurumsal.sbs
 toki-2025.com
+toki-2026-basvuru.sbs
 toki-500bin.digital
 toki-500binkonut.digital
 toki-adresi.xyz
@@ -401138,6 +401156,7 @@ toki-kampanya.org
 toki-katilim.online
 toki-katilimsayfasi.com
 toki-konut-basvuru.com
+toki-konut-basvuru.sbs
 toki-konut-basvurutr.org
 toki-konut-online.best
 toki-konut.sbs
@@ -407682,6 +407701,7 @@ trendy0i.com
 trendy0l.com
 trendy0l.homes
 trendy0l.lol
+trendy0l1.sbs
 trendy0l1.xyz
 trendy3.online
 trendybod.com
@@ -411183,6 +411203,7 @@ tttttt.me
 tttttttttttttttt.top
 ttttttttttttttttttttt.cyou
 ttturgbtislemenuugiriss.com
+tttuvturkhizlirandvu.web.app
 tttzzdttaasrqw.nicepage.io
 ttul1.uqauv.cn
 tturk-rumre-hediyesi-kuveytten.com
@@ -414923,6 +414944,7 @@ tutya.name.tr
 tuurkiyeonline.online
 tuuvturk-aracmuyne.web.app
 tuuvturk.live
+tuuwttukr.govt.hu
 tuv-arac-muane.net
 tuv-arac-muayene-randevu.blogspot.com
 tuv-iis.digital
@@ -426972,6 +426994,7 @@ ver5becu.zapto.org
 ver5gio4d3me.net
 veracidep.ru
 veradel3d.xyz
+veradix.blog
 veraj.store
 veraki.pro
 veralaska.hopto.org
@@ -470162,6 +470185,7 @@ zoom5682.xyz
 zoombottin.com
 zoomconference.app
 zoomconference.click
+zoominvite-us09web-user08b.pages.dev
 zoominviteus1.pages.dev
 zoomlek.com
 zoommaster.life
