@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103874
-# Last change: 2026-09-21 23:20:10 UTC (sync mode: delta)
+# Records: 103899
+# Last change: 2026-09-22 05:04:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -253,6 +253,7 @@
 101-sadece-bugune-ozel-extra-sepet-alisveris-indirimi-tr.market-extra.online
 101-sadece-bugune-ozel-indirimli-sepet-mobile-ozel-extra-tr.sepetjet.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
+101-sadece-bugune-ozel-online-alisveris-cep-indirimleri-tr.shopstore-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
 101-sadece-bugune-ozel-online-mobil-indirim-sepeti-alisveris-tr.sepet-net.online
@@ -2886,19 +2887,34 @@ a-101-bugune-ozel-cepte-mobil-extra.indirim-mobil.site
 a-101-bugune-ozel-indirim-tr-sepette-mobil.online-ozel-siparis.online
 a-101-bugune-ozel-online-mobil-indirimler-tr.sepet-indirimleri.online
 a-101-c0n.cyou
+a-101-cep-extr.mobil-ozel-tr.site
 a-101-cepte-tr.online
 a-101-com.aldnaldnhftaninyildizlri.shop
 a-101-com.aralikindirimleri.online
 a-101-comtr.online
+a-101-extra-bugune-ozel-internete-ozel-tr.mobil-cep-online-tr.site
 a-101-extra-bugune-ozel-mobil.sepet-mobil-tr.site
+a-101-extra-indirim-sepette-sadece-online-ozel-mobil-tr.sepete-ozel-tr.online
 a-101-extra-internete-ozel.indirim-online-mobil.site
 a-101-extra-mobil-sadece-bugune-ozel-indirimli-sepet-tr.cepte-shop.online
+a-101-extra-mobil-sadece-online-ozel-indirimler-tr.siparis-tr.online
+a-101-extra-mobil-sponsor-bugune-ozel-tr.mobil-sepet-shop.online
+a-101-extra-mobile-ozel-indirimler-tr.mobil-cep-ozel.online
 a-101-extra-ozel-indirim-tr.indirim-sepeti-tr.online
 a-101-extra-sadece-bugune-ozel-indirim-sepeti-mobil-tr.bilgi-tr.online
+a-101-extra-sadece-bugune-ozel-indirim-shop-tr.bilgilendirme-shop.online
+a-101-extra-sadece-bugune-ozel-mobilde-tr.ozel-indirimler.online
+a-101-extra-sadece-bugune-ozel-sepet-indirimi.bilgi-mobil-shop-ozel-tr.click
 a-101-extra-sadece-bugune-ozel-sepette-indirim-tr.ozel-tr.online
+a-101-extra-sadece-bugune-ozel-tr.ozel-indirimler.online
+a-101-extra-sadece-internete-ozel-indirim-mobilde-tr.indirimli-sepet.online
+a-101-extra-sadece-internete-ozel-indirim-tr.sepet-mobil-tr.online
 a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store
+a-101-extra-sadece-online-bugune-ozel-indirimler-tr.store-sepette-tr.online
+a-101-extra-sadece-online-indirimler-sepet.shop-ozel.online
 a-101-extra-sadece-online-mobilde-firsatlar.mobil-web.online
 a-101-extra-sadece-online-ozel-mobil-indirim-tr.online
+a-101-extra-tr-sadece-bugune-ozel-mobilde.mobil-sepet-shop.click
 a-101-firsat.shop
 a-101-firsatlari-com.aldnaldnhftaninyildizlri.online
 a-101-flrsatlar-hrca-hrca-btmez.cfd
@@ -2913,18 +2929,27 @@ a-101-kariyerr.com
 a-101-kasim-firsatlari-devam-ediyor.online
 a-101-market.online
 a-101-mobil-sadece-bugune-ozel-tr.cepte-indirimler.online
+a-101-mobile-ozel-indirimler-online-tr-de.mobil-ozel-tr.online
 a-101-mrketler-snal.sbs
 a-101-online-ozel-extra-mobil-tr.sepette-indirim.online
+a-101-online-sepette-bugune-ozel-indirim-tr.siparis-online-ozel-tr.site
 a-101-onlineislem.net.tr
 a-101-perakende.online
 a-101-sadece-bugune-ozel-extra-indirimleri-tr.ozel-shop.site
+a-101-sadece-bugune-ozel-indi.mobil-ozel.site
+a-101-sadece-bugune-ozel-indirim-sepeti-tr.shop-tr-ozel.online
 a-101-sadece-bugune-ozel-mobil-indirim-tr.internet-mobil.online
+a-101-sadece-bugune-ozel-sepet-indirimi-mobil-shop-tr.pay-mobil.online
 a-101-sadece-bugune-ozel-sepette-indirim-online-mobil-cep-tr.360-plus.com
 a-101-sadece-online-bugune-ozel-sepet-indirimleri-tr.shop
+a-101-sadece-online-ozel-extra-indirim-tr.cepte-shop.online
+a-101-sadece-online-ozel-extra-mobil-indirim-tr.bilgilendirme-tr.online
 a-101-sadece-online-ozel-firsat-tr.store-sepette-tr.online
 a-101-sadece-online-ozel-sepet-indirimleri-mobilde-tr.shop
+a-101-sadece-online-ozel-sepet-indirimleri-mobilde-tr.shop-mobilde-tr.online
 a-101-sanal.com.tr
 a-101-tr-online-sadece-bugune-ozel-indirim.sepete-ozel.online
+a-101-tr-sadece-bugune-ozel-indirimler-sepeti-tr.mobil-ozel.site
 a-101-tr.com
 a-101.alisveris-tr.online
 a-101.biz
