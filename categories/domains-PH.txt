@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 103972
-# Last change: 2026-09-22 18:57:39 UTC (sync mode: delta)
+# Records: 103977
+# Last change: 2026-09-22 22:14:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -35407,6 +35407,7 @@ formrepel.top
 formres-confrimesgueste.com
 forms-gle.online
 forms.works
+formsayfasi.netlify.app
 formudoldurkredial.epizy.com
 formula1-tickets.com
 formuladespatch.top
@@ -81943,6 +81944,7 @@ slowtwice.top
 slpost-lk.top
 slpostgovls.xyz
 slrndevuje.net
+sls-onlinetuvhizli.site
 slsmfihmlsfhs.com
 slsvrzhzmasnt.net
 sltelye-ylnendirivmici.com
@@ -87264,6 +87266,7 @@ tckuzlasma.org
 tcmahkeme.net
 tcmalisorgu.net
 tcmalisorgu.org
+tcmaliyebilgi.org
 tcmasak.net
 tcmasakdosya.com
 tcmasakportal.com
@@ -89846,6 +89849,7 @@ toplukonut0504.com
 toplukonut0701455346.vercel.app
 toplukonut152825121.vercel.app
 toplukonut2777059834.vercel.app
+toplukonut35912911.vercelcloud.com
 toplukonut3641008438.vercel.app
 toplukonut3758414441.vercel.app
 toplukonut3dkd1jj.com
@@ -97592,6 +97596,7 @@ webdesen.site
 webdevltislemgovtr.net
 webdevora.digital
 webdigaz.com
+webdijital-simdikampanya.sbs
 webdijitalislemler.ink
 webdisk.aciikdenizv2denizbank.gq
 webdisk.aciikdenizv2denizbank.tk
