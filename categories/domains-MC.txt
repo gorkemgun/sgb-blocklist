@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 3638
-# Last change: 2026-09-23 11:44:54 UTC (sync mode: full)
+# Records: 3647
+# Last change: 2026-09-23 17:08:50 UTC (sync mode: delta)
 0-000-0.pages.dev
 000-0-000.pages.dev
 00857cca77b615c369f48ead5f8eb7f3.com
@@ -204,6 +204,7 @@ alyx.clayratnik.top
 ama0899.shop
 amaprox.click
 amazonfiso.com
+americanprgoress.top
 americovespucci.shop
 ametax.net
 amqkidy.cn
@@ -461,6 +462,7 @@ bordflattuo.top
 bore.pub
 borertors92.anondns.net
 boriver.com
+borneobulletins.top
 bot.ddosvps.cc
 bots.autoupdate.online
 botsc.autoupdate.xyz
@@ -1380,6 +1382,8 @@ hairlace.info
 hajjmedicalteam.adobeglobal.com
 hajjtraining2025.moragovt.net
 hakeiwjs727wj.com
+halal-navi.net
+halaltak.net
 halesmp.com
 hamkorg.kozow.com
 hammernew.su
@@ -2209,6 +2213,7 @@ openmatrix-app882.vercel.app
 openmatrix-ext539.vercel.app
 opi7.com
 opsecdefcloud.com
+opusaccel.top
 oracle-v1-beta.vercel.app
 orange-cell-1353.hellohiall.workers.dev
 orange-service.xyz
@@ -2229,6 +2234,7 @@ oslik.clayhusas.sbs
 ostcone.site
 ourkbpw.top
 outlook.windows-app.store
+outsourcingwise.net
 ov86ayb0fe4ep2b92-645o.com
 overcome-pmc-conferencing-books.trycloudflare.com
 overlapsnowbound.com
@@ -2335,6 +2341,7 @@ peowork.ddnsgeek.com
 peowqlauoshau8.com
 pepesetup.ddnsfree.com
 periodic-trends-worksheet.top
+personclouds.com
 pesthacks.icu
 petricgreen.info
 pewsus.freeddns.org
@@ -3110,6 +3117,8 @@ theaigaming.com
 thebesthomehealth.com
 thecareershub.org
 thecloudappbox.azurewebsites.net
+thecovnresation.com
+thecovnresation.net
 theexcelconundrum.info
 theguardian-pk-protest-against-imran-khan.gov-pok.net
 theguardshield.com
