@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 37643
-# Last change: 2026-09-23 17:08:50 UTC (sync mode: delta)
+# Records: 37655
+# Last change: 2026-09-23 20:26:45 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -1200,6 +1200,7 @@
 329838912.sbs
 32k2k23jk123kx13131.cfd
 32z23kr3323.duckdns.org
+331241241241243123123123.duckdns.org
 3330253330255.duckdns.org
 3332145885333.duckdns.org
 33323.vercel.app
@@ -4324,6 +4325,7 @@ avishizlikirala.com
 aviskirala.com
 aviskirala.net
 aviskiralama.duckdns.org
+aviskiralama365.com
 aviskoc.com
 aviskurumsal.com
 aviskurumsal.net
@@ -10333,6 +10335,7 @@ e56465sd.nicepage.io
 e714ha3gmn356819yae.com.tr
 e7xq3vkn9zmp4lra.cfd
 eadaletceza.com
+eadaletcezadosya.org
 eadalettc.org
 eadliceza.org
 eadlicezasorgu.org
@@ -14484,6 +14487,7 @@ guzelligimi-goren-oluyo-sok-sok-sok-crds.com
 guzelliklehislerinkarisir.site
 guzelliklerkisaveheyecanli.cfd
 guzelliklersizeburada.cfd
+gvnliodeme.com
 gvnlsatinalim.com
 gwenugirisllewbonuslari.online
 gwldzd.homes
@@ -15556,6 +15560,7 @@ hemenkampanyaburaya.online
 hemenkampanyadanfaydalan.xyz
 hemenkampanyalar.com
 hemenkampanyam.com
+hemenkapinda.duckdns.org
 hemenkapinda.online
 hemenkapinda.xyz
 hemenkapindaonline.xyz
@@ -15792,6 +15797,7 @@ hesapalmayadevam.cfd
 hesapguvenlik.com
 hesapkmnpyfirsatemeklisende.shop
 hesapli.o-bilet.eu
+hesaplikasabim.site
 hesaplishop-tr.online
 hesaptasendehemenal.site
 hettinger.shop
@@ -20961,7 +20967,9 @@ kmsorgulamagovshxn.duckdns.org
 kmsorgulamagovvpttnit.duckdns.org
 kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
+kmsorgulamahizmetlerinizburada.online
 kmsorgulamahizmetlerinizz.shop
+kmsorgulamahizmetlerinizzz.online
 kmsorgulamahizmetmiz.com
 kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
@@ -26049,6 +26057,7 @@ pazarama.hizli-odemem.com
 pazarama.hizlikargolama.com
 pazarama.hizlikargolar.com
 pazarama.hizlionline.com
+pazarama.hizlisiparishizmeti.com
 pazarama.ilan-havale-odemem.com
 pazarama.ilan-ikinciel.com
 pazarama.ilan-magaza.com
@@ -28829,6 +28838,7 @@ sahibinden.ile-islemlerim.com.tr
 sahibinden.ile-islemleriniz-webde.com
 sahibinden.ile-magazam-siparis.com
 sahibinden.ile-odeme.com.tr
+sahibinden.ile-odemeyi-tamamla.com
 sahibinden.ile-sepette-onay.com.tr
 sahibinden.islem-alisveris-hizmet.online
 sahibinden.islemler-webde.com
@@ -33340,6 +33350,7 @@ tr-alisveris-getislem.online
 tr-alisveris-getislemler.online
 tr-alisveris-odeme.online
 tr-alisveris-param-guvende.online
+tr-alisveris-tr-webislemler.online
 tr-alisveris.online
 tr-b-grnt.my-homeip.com
 tr-bb-va.my-homeip.com
@@ -33463,6 +33474,7 @@ tr-webbing-say.click
 tr-webbing.sa.com
 tr-webislemler-get-alisveris.online
 tr-webislemler-tr-getalisverisler.online
+tr-webislemlerin-getalisveris.online
 tr-yuzyilinprojesi.com
 tr-zr.my-homeip.com
 tr.betparibugirisi.top
