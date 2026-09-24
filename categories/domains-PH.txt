@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101834
-# Last change: 2026-09-24 19:14:10 UTC (sync mode: delta)
+# Records: 101847
+# Last change: 2026-09-24 22:29:48 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -742,6 +742,7 @@
 16590-coinbase.com
 16594373-coinbase.com
 165s5awqda5qw5614.icu
+166027567602.cloud
 16624831-coinbase.com
 16642124-coinbase.com
 16642172-coinbase.com
@@ -1297,6 +1298,7 @@
 21455452222255899899.duckdns.org
 21461sndmsndsasd.com
 21509-coinbase.com
+2151261.xyz
 215215151.xyz
 216-9-224-134.plesk.page
 2161262754754325.buzz
@@ -3922,6 +3924,7 @@ acces-now.net
 accesos.com.pa
 access-account-web.online
 access-authority-2fa7abff0e.s3.us-east-1.amazonaws.com
+access-gate-knssk.b-cdn.net
 access-jp-morgan-jpmalogon.cc
 access-ledger---livelogin.webflow.io
 access-money.info
@@ -17861,6 +17864,7 @@ ccc232131x213.duckdns.org
 cccad9f0-3.b-cdn.net
 cccallahccc.click
 ccccc.dravencia.sbs
+cceltd-onmicrosoft.vercel.app
 ccessorycertif.top
 cchakiiisllemmenuus.com
 ccklcskcsklcscx.net
@@ -35412,6 +35416,7 @@ futurewise.courses
 futurisehub.com
 futuristicdesignsolutions.online
 fuyaxajexili.store
+fuzulyatirimi.com
 fvckthesystem.duckdns.org
 fvghntryunretner.click
 fvwghz.top
@@ -51680,6 +51685,7 @@ kkozelkmpnycklsbsvrrr.pro
 kkrekenlogiens.webflow.io
 kkriedimiihttiyaaccim.link
 kkrncbkcjsjh.sbs
+kktcedevlet.console.icont.ai
 kktcxll.net
 kkuicuinlogg.webflow.io
 kkurumsalsigorta.site
@@ -52349,6 +52355,7 @@ konutvizyon.click
 konutyolu.click
 konyakrtykle.net
 kookokookokookokokokokkoooo.online
+kookokookokookokokokokkoooo.site
 koolpandaz.com
 kooltukfasf.xyz
 kooperatif21.online
@@ -53504,6 +53511,7 @@ lcdyr8.csb.app
 lcloud-turkey.com
 lcnjgs.top
 lcsntrvergltd.net
+lcwaikikifestr.com
 lcwdkp.click
 ld.6we4wh.top
 ldahtkg.cn
@@ -57888,6 +57896,7 @@ merkezlisistemim.art
 merkezlkayit.abrdns.com
 merkeznoktasi.com
 merkezrandevu-hi.com
+merkezrannd.com
 merkezsigortaci.web.tr
 merkeztakibi.com
 merkeztr.sbs
@@ -58230,6 +58239,7 @@ mhlasdkrnd.com
 mhldkrsd.com
 mhldsahlads.com
 mhlem.com
+mhlerkherk234.duckdns.org
 mhlhsrabklemed.com
 mhllrsaktvhemen.uk
 mhlrashmnhlz.com
@@ -61990,6 +62000,7 @@ nlazq4.xdk8ax.cn
 nlbadb.top
 nlhmrsrabklmdn.com
 nliranvundahizmetlerinde.net
+nlltakmar.net
 nlltamhen.net
 nlmvsdsadrnndevuu.com
 nlreodnv.net
@@ -63786,6 +63797,7 @@ office.2ina19naz.online
 office.int-oracle.com
 office21.mdbgo.io
 office365-d8d30f.webflow.io
+office365cidh.duckdns.org
 office365cloudhub.com
 office365emailverification9.godaddysites.com
 office365onedrivedoc.com
@@ -84763,6 +84775,7 @@ tabsvrnz.net
 tabsvrsnsz.net
 tabu.bastonstudio.com
 tabu.thetupaus.com
+tacadi1159.site
 tacdsardatopsznolsun58.click
 tackle-play.com
 tackleobscure.top
