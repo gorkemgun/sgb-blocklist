@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 37664
-# Last change: 2026-09-24 04:58:16 UTC (sync mode: delta)
+# Records: 37668
+# Last change: 2026-09-24 10:06:56 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -1668,6 +1668,7 @@
 5subatsokmarketepetim.cfd
 5zyby2i6.com
 60-000-tl-prmsyn-1l1.duckdns.org
+6017266923.cloud
 602375.cloud
 60237753.cloud
 602717984.cloud
@@ -18178,6 +18179,7 @@ istkarllm.online
 istkart.xyz
 istkartagidinellemeyecem.cfd
 istkartbasvurum.net
+istkartbelgim.xyz
 istkartburdanbasvurdunuz.mooo.com
 istkartcbb.shop
 istkartfml.online
@@ -26097,6 +26099,7 @@ pazarama.onlinesiparislerim.com
 pazarama.satiskapida.com
 pazarama.sepet-odemeler-2211.com
 pazarama.sepet-odemeler-2212.com
+pazarama.sepet-odemeler-2213.com
 pazarama.siparisguvende.com
 pazarama.siparisimhizli.com
 pazarama.siparisislemleri.com
@@ -26935,6 +26938,7 @@ pttavm-kmsorgu-ogrenin.web.app
 pttavm-kmsorgulama.web.app
 pttavm-kmsorgulamakkicn.web.app
 pttavm-kmsorgulayin.web.app
+pttavm-kmsxrgulama.web.app
 pttavm-odemenizguvende.com
 pttavm-online-siparis.com
 pttavm-onlinesatis.com

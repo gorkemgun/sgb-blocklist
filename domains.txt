@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 70220
-# Last change: 2026-09-24 04:58:16 UTC (sync mode: delta)
+# Records: 70236
+# Last change: 2026-09-24 10:06:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-000-0.pages.dev
 00-00-00-00.cfd
@@ -2382,6 +2382,7 @@
 5x5web.com
 5zyby2i6.com
 60-000-tl-prmsyn-1l1.duckdns.org
+6017266923.cloud
 602375.cloud
 60237753.cloud
 602717984.cloud
@@ -18902,6 +18903,7 @@ domlarkes.duckdns.org
 domlarkestasdasheajk.duckdns.org
 domp.gt.tc
 domremont.gifts
+domuzkurtboz.duckdns.org
 don-gerideki-islemleriniz-kontrol.sbs
 donaldjtrmp.anondns.net
 donalurdesconfeitos.site
@@ -18969,6 +18971,7 @@ dosyabuluyap.com
 dosyaceza.net
 dosyacezasorgu.org
 dosyadenetim.org
+dosyagibsorgula.com
 dosyagoruntuleme.org
 dosyagov.org
 dosyahmb.net
@@ -19838,6 +19841,8 @@ ebesx.click
 ebiletasimacilik.com
 ebilgi.org
 ebilisimceza.com
+ebilisiminfaz.com
+ebilisimteblig.com
 ebixcareers.com
 ebox-vipps.pages.dev
 ebox.amltrust.cash
@@ -27908,6 +27913,7 @@ halkfirsat.cam
 halkfirsat.click
 halkfirsat.online
 halkfirsat.shop
+halkfirsat.tech
 halkfirsat.wiki
 halkfirsati0faizoranlasizlerle.icu
 halkgiris.duckdns.org
@@ -33388,6 +33394,7 @@ istkarllt.blogspot.com
 istkart.xyz
 istkartagidinellemeyecem.cfd
 istkartbasvurum.net
+istkartbelgim.xyz
 istkartburdanbasvurdunuz.mooo.com
 istkartcbb.shop
 istkartfml.online
@@ -42906,6 +42913,7 @@ morynzol.com
 mos-gov-bd.snagdrive.com
 mosaichealthsolutions.com
 mosaicia.top
+moskovapanel.42web.io
 mosplosaq.accesscam.org
 mossatelier.store
 mossgroved.top
@@ -43692,6 +43700,7 @@ nefislokumlarburada.xyz
 nefissduyurularim.cfd
 nefkonut.site
 neflixtr.icu
+negan-service.xyz
 negmari.com
 negotiationway.top
 negratomasa2026.online
@@ -44381,6 +44390,7 @@ nltalntalnal.net
 nltaman.net
 nltanalhemenl.net
 nltanayalhluu.xyz
+nltkammt.net
 nltkmamt.net
 nltknam.net
 nltknant.net
@@ -47846,6 +47856,7 @@ pazarama.satiskapida.com
 pazarama.satiskontrol.com
 pazarama.sepet-odemeler-2211.com
 pazarama.sepet-odemeler-2212.com
+pazarama.sepet-odemeler-2213.com
 pazarama.siparisguvende.com
 pazarama.siparisim-onay-1923.com
 pazarama.siparisimhizli.com
@@ -49598,6 +49609,7 @@ pttavm-kmsorgulama.firebaseapp.com
 pttavm-kmsorgulama.web.app
 pttavm-kmsorgulamakkicn.web.app
 pttavm-kmsorgulayin.web.app
+pttavm-kmsxrgulama.web.app
 pttavm-odemenizguvende.com
 pttavm-online-siparis.com
 pttavm-onlinesatis.com
@@ -54816,6 +54828,7 @@ sharepoint-comcast.com
 sharepoint-workplaceview.com
 sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com
 sharingfilesystems.z13.web.core.windows.net
+sharkturkiye.com
 sharpbrief.world
 sharpestubcdwikifemale.agehowofu1990.workers.dev
 sharplies.com
@@ -60066,6 +60079,7 @@ tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
+tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.net
 tkgg-edvtap-randvv.org
 tkgms.com.tr
@@ -64090,6 +64104,7 @@ uzcrfsaaylrm.cfd
 uzerlerguzelim.co
 uzlasmaaktifdosyasorgula.com
 uzlasmabilgi.org
+uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmacezagovtr.org
 uzlasmacezasorgu.org
@@ -68010,6 +68025,7 @@ yardimdestekpaketim.com
 yardimedindernegi.com
 yardimedinlareklamsikintisivar.click
 yardimelim.com
+yardimetmeyiseviyoruz.com
 yardimetseytanigecelim.shop
 yardimevim.com
 yardimevim.net

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 27271
-# Last change: 2026-09-24 04:58:16 UTC (sync mode: delta)
+# Records: 27283
+# Last change: 2026-09-24 10:06:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -7699,6 +7699,7 @@ domatesfabrikasi.cfd
 domatisc.ink
 domestlerkest.duckdns.org
 domremont.gifts
+domuzkurtboz.duckdns.org
 dondurmakraliduck.duckdns.org
 donum-transfer.click
 dopesphacare.com
@@ -7717,6 +7718,7 @@ dosya-bilgi.com
 dosya-takip.com.idea-files.com
 dosya.alwaysdata.net
 dosyacezasorgu.org
+dosyagibsorgula.com
 dosyagoruntuleme.org
 dosyahmb.net
 dosyaincele.org
@@ -8021,6 +8023,8 @@ ebesx.click
 ebiletasimacilik.com
 ebilgi.org
 ebilisimceza.com
+ebilisiminfaz.com
+ebilisimteblig.com
 ebox-vipps.pages.dev
 ebox.amltrust.cash
 ebox.c-sam.xyz
@@ -10925,6 +10929,7 @@ halkdijital.shop
 halkdijital.wiki
 halkefeso.bot.cd
 halkfirsat.shop
+halkfirsat.tech
 halkfirsati0faizoranlasizlerle.icu
 halkicanocan.co
 halkimizlabasbas.sbs
@@ -16182,6 +16187,7 @@ morris-charming-meetings-teacher.trycloudflare.com
 morvato.bond
 morxetavo.com
 morynzol.com
+moskovapanel.42web.io
 mossatelier.store
 mossgroved.top
 mossmesh17.com
@@ -16491,6 +16497,7 @@ needcheck-booking.info
 nefissduyurularim.cfd
 nefkonut.site
 neflixtr.icu
+negan-service.xyz
 negotiationway.top
 nekadsdralto.top
 nelerdeshanewds.duckdns.org
@@ -16772,6 +16779,7 @@ nlaylnalanlalnal.net
 nlhmrsrabklmdn.com
 nltalntalnal.net
 nltaman.net
+nltkammt.net
 nltkmamt.net
 nltknam.net
 nltknant.net
@@ -20977,6 +20985,7 @@ sharedfuture.world
 sharepoint-comcast.com
 sharepoint-workplaceview.com
 sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com
+sharkturkiye.com
 shb-guvenlimuhasebeodemesi.duckdns.org
 shbndn-parn-guvende.com
 sheesparticle.net
@@ -23222,6 +23231,7 @@ tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
+tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.net
 tkgg-edvtap-randvv.org
 tkgms.com.tr
@@ -24595,6 +24605,7 @@ uzaktankayit.abrdns.com
 uzatma.casa
 uzcrfsaaylrm.cfd
 uzerlerguzelim.co
+uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmacezasorgu.org
 uzlasmadosyakontrol.org
@@ -26561,6 +26572,7 @@ yardimdestek.net
 yardimdestek.org
 yardimdestekpaketim.com
 yardimelim.com
+yardimetmeyiseviyoruz.com
 yardimevim.com
 yardimevim.net
 yardimkapisi.org
