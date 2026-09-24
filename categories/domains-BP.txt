@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 37656
-# Last change: 2026-09-23 23:45:02 UTC (sync mode: delta)
+# Records: 37664
+# Last change: 2026-09-24 04:58:16 UTC (sync mode: delta)
 00-00-00-00.cfd
 00-uludag-edu-tr.weebly.com
 000001032026.me
@@ -20744,6 +20744,8 @@ kmpnyaabasvrrrprsmynn.online
 kmpnyaabasvrrruprmsynnn.info
 kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabasvrrsonfirstlarrr.pro
+kmpnyaabasvrurrprsmynn9328317.online
+kmpnyaabasvrurrprsmynn9328317.pro
 kmpnyaabsvrpromosynnnn.info
 kmpnyaabsvrpromosynnnn.live
 kmpnyaabsvrr12531.pro
@@ -21591,6 +21593,11 @@ krdprmsynnkmpnyaa.pro
 krdzrtraucherx.duckdns.org
 kreatif-destek.com
 kred.my-homeip.com
+kredddbsvrr213654frstlar.online
+kredddbsvrr213654frstlar.pro
+kredddbsvrrprmsynn984587kmpny.info
+kredddbsvrrprmsynn984587kmpny.online
+kredddbsvrrprmsynnkmpnya745896.online
 kreddii-merkezisonn.com
 kredgunas6d.nicepage.io
 kredi-basvur-online.sbs
@@ -30631,6 +30638,7 @@ sonlardancandansad.shop
 sonnbsvrrprmsynnnkmpnyaaa.art
 sonnbsvrrprmsynnnkmpnyaaa.click
 sonnbsvrrprmsynnnkmpnyaaa.live
+sonnfrstlarrkmpnyaabasvrrr103421.pro
 sonnfrstlsrrrkmpnyaabsvrr.art
 sonnfrstlsrrrkmpnyaabsvrr.info
 sonnfrstlsrrrkmpnyaabsvrr.live
