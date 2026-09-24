@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101823
-# Last change: 2026-09-24 15:11:29 UTC (sync mode: full)
+# Records: 101834
+# Last change: 2026-09-24 19:14:10 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10054,6 +10054,7 @@ avrupavakfi.com
 avs.otoko-cfilo.xyz
 avsa1.com
 avsarabakiralago.com
+avsarackirala.com
 avsarotokiralama.online
 avsarotomobil.online
 avscar.kiralamaonlinee.com.tr
@@ -15062,6 +15063,7 @@ bootiva.shop
 bootrise.top
 bootsexpert.net
 bootstra.net
+bopaje7148.store
 boqwncx-akdakmpnsa.online
 boraligunlerburada.com.tr
 boravith.com
@@ -29754,6 +29756,7 @@ elsewherelavish.top
 elsewheremetaphor.top
 eltade.cc
 elturaapp.site
+elvarion.blog
 elvaron.store
 elviroapp.store
 elvirohubs.store
@@ -32325,6 +32328,7 @@ eylemvakfi.com
 eylhgsm.com
 eyllsnukrclrd.shop
 eylul-burada.biz.tr
+eylul-burada.org.tr
 eylul-en-iyi-katalog.shop
 eylul-geldi-sonra.xyz
 eylul2022binance.ml
@@ -44797,6 +44801,7 @@ ihanetasla.sa.com
 ihasar.com
 ihbarlar.ru.com
 ihbarvar.ru.com
+ihemenbasvur.lol
 ihemenbasvur.xyz
 ihh.sorguekrani.org
 ihlal-merkezi.com
@@ -47816,6 +47821,7 @@ istanbulkartnakiye.bsvrislm.com
 istanbulkartonline.xyz
 istanbulkartr.xyz
 istanbulkartrandevu.xyz
+istanbulkartrandevutr.xyz
 istanbulkartt.online
 istanbulkarttbelgimm.xyz
 istanbulkarttdolum.com.tr
@@ -56236,6 +56242,7 @@ malinapps2.xyz
 maliportal.net
 maliportaltc.org
 maliportaltr.org
+malisorgulama.org
 malisorgutc.org
 maliuyap.org
 maliuzlasma.com
@@ -64776,6 +64783,7 @@ onlinesatisci.com.tr
 onlinesbm.com.tr
 onlinesecures-paramweb.org
 onlinesenesonu-bireyselkampanya-basvur.yeniyilsuprizkampanya-ozel.tk
+onlinesepetimde.store
 onlinesepetlerburada.site
 onlinesgjris.website
 onlineshops-cep-mobil.online
@@ -75186,6 +75194,7 @@ safewallet-coinbase.com
 safjafjsafjfassafjkasfjk.duckdns.org
 safksafsafkjasfjkfssssfasafasafkj.com
 saflapfsalfsafksamfsmak.com.tr
+safrantermalhotel.com
 safrantermalotel.com
 safsadfslal230sladsa.net
 safsaqwrcs.sbs
@@ -76711,6 +76720,7 @@ sasadg.b-cdn.net
 sasasa.sa.com
 sasdwesdwe.net
 sasg.coinbase-com.info
+sasirilmayacakgibidegil.sbs
 saskinsepet.com.tr
 sat-alisverisim-ile.com
 sat-ile-al.com
@@ -89307,6 +89317,7 @@ trendyol3.lat
 trendyol3.makeup
 trendyol3.xyz
 trendyol66.com
+trendyol668.shop
 trendyol7.click
 trendyol7.lol
 trendyoladres.net

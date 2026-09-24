@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 218500
-# Last change: 2026-09-24 15:11:29 UTC (sync mode: full)
+# Records: 218504
+# Last change: 2026-09-24 19:14:10 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -30513,6 +30513,7 @@ basvuru-akgiris.duckdns.org
 basvuru-akgirisim.duckdns.org
 basvuru-akgirisimler.duckdns.org
 basvuru-akonay.com
+basvuru-aktifledeniz-garanti-kredi-basvuru.vercel.app
 basvuru-al.ml
 basvuru-aralik-101.duckdns.org
 basvuru-aralik-2.duckdns.org
@@ -185300,6 +185301,7 @@ tarimkredimarketleri.cfd
 tarimkrediyemkooperatifleri.org
 tarimmarket.online
 tarimmarketcep.cfd
+tarimmarketim.vercel.app
 tarimmarketindirimleri.cfd
 tarimmarketmobil.cfd
 tarimmssqe.com
@@ -201495,6 +201497,7 @@ vatandas-portal.net
 vatandas-portal.online
 vatandas-sikayet.biz
 vatandas-uyap-go.com
+vatandas-uyap-gov-tr-evrak-dogrulama-uyap.vercel.app
 vatandas-uyap-gov-tr.translate.goog
 vatandas-uyap-gov.com
 vatandas-uyap.com
@@ -209105,6 +209108,7 @@ xn--binanstr-p1a.com
 xn--binnc-tr-kza6f.com
 xn--binncetr-kza.com
 xn--bireysel-giri-utc.com
+xn--bireysel-ube-dnc.ph
 xn--bireyselihtiya-tjb.com
 xn--bireyselsube-acikdenizv2denizbank-gh8t.com
 xn--bireyselvacikdenizv2denizbank-821r.xn--co-n1t.vu
