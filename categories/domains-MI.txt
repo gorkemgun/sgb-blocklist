@@ -1,13 +1,17 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MI
-# Records: 155
-# Last change: 2026-09-24 15:11:29 UTC (sync mode: full)
+# Records: 183
+# Last change: 2026-09-25 18:40:51 UTC (sync mode: full)
 0x666.info
 1235saddfs.icu
+20gbhediyemiz.com
+34yeterlan.com
+44448888.ru
 87e0b6c636999b.lhr.life
 affordableonline.online
 alphabitcapital.info
 amkbins.duckdns.org
+api.cloudservers.kz
 arkypc.com
 asiainfo.hpcloudnews.com
 bankafolder.com
@@ -22,6 +26,8 @@ cauterizespray.icu
 cb.fuckingmy.life
 cheapzone.space
 cnc.feds.cf
+cnc.junoland.xyz
+cnc.methaddict.xyz
 coco-fun2.com
 coco2-hram.com
 codecvideowin.online
@@ -41,12 +47,15 @@ doqeers.com
 edcf8b03c84634.lhr.life
 ehliyetalmamlazim.xyz
 ejecen.com
+elaxo.org
 enslaveculprit.digital
 eorthopaedics.com
 famiode.com
 filefastdata.com
+foxupdate1.me
 friktomb.cf
 fuyt.org
+gorgusuzler.com
 granderevolucao.store
 hacelu.com
 handsinworld.com
@@ -54,9 +63,11 @@ haploadpin.com
 hello-brothers777.com
 hilofet.com
 honestly.ink
+ikmtrust.com
 isgilan.com
 istanbul-havalimani1453.net
 jetross.com
+jflynci.com
 jihiz.com
 jokotras.ru
 kcbps.com
@@ -67,12 +78,16 @@ locvnpt.com
 lojinhadoluiz.online
 loop.microsoftmse.com
 love.thotiana.live
+lxwo.org
 m365-owa.com
+madleets.ddns.net
+mail.rediffmail.kz
 malext.com
 malkim.com
 mentaorb.com
 metlafounder.com
 metramon.com
+metric.onlinefonts.kz
 miappl.com
 mikulatur.com
 milbiorb.com
@@ -84,6 +99,7 @@ morfeucarder.duckdns.org
 ms365-device.com
 ms365-live.com
 mysterylink.xyz
+news.bradpitt.kz
 nibelined.com
 niggerdemon.in
 nitlebuf.com
@@ -115,23 +131,34 @@ rapidfilevault4.cyou
 rapidfilevault4.sbs
 rapidfilevault5.sbs
 raytherrien.com
+rdsnets.com
 rebidy.com
 reews09weersus.com
 refreshkho.ddns.net
+remotepx.net
 repqoow77wiqi.com
 res2erch-sl2ut.com
+rietumu.me
 round5on.digital
+rpcnetconnect.com
 rvdownloads.com
 sastoro.com
 seagalnssteavens.com
+secao.org
+secure.cloudserv.ink
 seguranca.versionnova.site
 segurda.top
+sepa-europa.info
+sepacloud.eu
 sinpropfenoquito.freemyip.com
 stinarosen.com
+stixarhive.000webhostapp.com
 swift-sh.com
+sysanalyticweb.com
 t.hxhk.cc
 tccbdestekplatformkapisi2.com
 technicais.sytes.net
+tetradocuments.com
 tiloraso.ru
 tortunas.ru
 trailerparkboys.ml
@@ -144,6 +171,7 @@ vagturk.com
 vcopp.com
 volmira.site
 weath.ddns.net
+webstp.com
 wewannaliveinpice.com
 wewannaliveinpicede.com
 windows.n1tro.cyou
