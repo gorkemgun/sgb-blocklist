@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 37014
-# Last change: 2026-09-25 07:54:38 UTC (sync mode: delta)
+# Records: 37022
+# Last change: 2026-09-25 13:53:04 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3820,6 +3820,7 @@ asj77.com
 asj88.com
 asj99.com
 asjdxuw.com
+askarzadeh.com
 askervondatsk.tk
 askforupdate.org
 askimcanimbidenem.xyz
@@ -5412,6 +5413,7 @@ bmxfghsh.duckdns.org
 bmynz.com
 bmyxio.com
 bn.networkbn.click
+bnbnhura.top
 bnero.ddns.net
 bnerrreqpc.duckdns.org
 bnfhf.icu
@@ -6563,6 +6565,7 @@ cdn.active-microsoft.com
 cdn.arhive.online
 cdn.cloudfiare.workers.dev
 cdn.deltastealer.xyz
+cdn.dlmafi.top
 cdn.eideasrl.it
 cdn.erpsaz.com
 cdn.finance1num.com
@@ -8862,6 +8865,7 @@ defi-claim.xyz
 defi.smart-contracts.blog
 defiant85.xyz
 defimob.bar
+definatelynoone.com
 defipulsetracker.pro
 defitankzone.com
 deftsecurity.com
@@ -9719,6 +9723,7 @@ donbvvc.ddns.net
 dondesktopapps.ddns.net
 done-arch.gl.at.ply.gg
 donelpacino.ddns.net
+doneplay.site
 doniyendomeinis.site
 donmark22.publicvm.com
 donn.duckdns.org
@@ -11969,6 +11974,7 @@ feyzihancansdiag.ml
 feyzihangibisiyok.ml
 fezdpljk.com
 fezkixlqu.com
+ff-de.shutgpt.ir
 ff-rewards-redeem-codes-org.github.io
 ff-susan-config-mod.trycloudflare.com
 ff.upfilees.xyz
@@ -32159,6 +32165,8 @@ tvqryimx.com
 tvqrzf.com
 tvsnapp.com
 tvstream.click
+tvtap-hd.app
+tvtap-liveapp.com
 tvviakvpynitasb.ru
 tw.mcafee-upgrade.com
 twbtc.space

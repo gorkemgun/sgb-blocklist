@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 218507
-# Last change: 2026-09-25 07:54:38 UTC (sync mode: delta)
+# Records: 218520
+# Last change: 2026-09-25 13:53:04 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -770,6 +770,7 @@
 101-efsane.shop
 101-extra-bugune-ozel-alisveris-shop-indirimleri-tr.bilgi-cepte-shop.online
 101-extra-bugune-ozel-extra-indirim-sepeti-mobilde-tr.net-shop.online
+101-extra-bugune-ozel-mobil-alisveriste-sepette-indirim-firsat.hesapli-tr.online
 101-extra-cepte-online-siparis-onay-bugune-ozel-indirim-tr.mobils-tr.online
 101-extra-da-sadece-bugune-ozel-firsat-mobilde-tr.indirimsepette.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop-plus.online
@@ -15880,6 +15881,7 @@ adil-yatirim.net
 adil-yatirim.online
 adil-yatirim.org
 adilburs.com
+adilemlakgayrimenkul.org
 adilkatilim.info
 adilkatilim.org
 adilkatilimbank.net
@@ -19364,6 +19366,7 @@ akjzdansdhomes.cloud
 akjzdasnds.cloud
 akjzdn.site
 akjzdsansdsakk.cloud
+akka-avd-aor.myonlineportal.ch
 akkaampanya.online
 akkampanya-faizsiz.online
 akkampanya.com
@@ -48958,6 +48961,7 @@ bva-global.lat
 bva-lite.shop
 bva-mobile.shop
 bva-online.click
+bva-tanitim.sbs
 bva-yaz-firsatlar.click
 bva-yaz-firsatlar.ru.com
 bvaaclmon1linece1el1l1emdens.net
@@ -69807,6 +69811,7 @@ egmcezaportal.org
 egmcezatc.org
 egmdosya.net
 egmdosya.org
+egmgovern.shop
 egmgovtr.org
 egminfaz.com
 egmkamuecezatr.org
@@ -69824,6 +69829,7 @@ egmsorgutr.com
 egmsorgutr.org
 egmtcasliceza.org
 egmuzlasma.com
+egnngovern.biz.id
 egoankarakartyukleme.com
 egoankarakartyukleme.net
 egokartyukles.net
@@ -126568,6 +126574,7 @@ kmogren-hizmetler.firebaseapp.com
 kmogren-hizmetler.web.app
 kmogrenin-hizliveguvenli.firebaseapp.com
 kmogrenin-hizliveguvenli.web.app
+kmogreninsorgulayin.web.app
 kmonyaaababsvrrrrnttt.click
 kmonyaaabsvrrprmsyn.click
 kmonyaaabsvrrrprmsyonn.click
@@ -127031,6 +127038,7 @@ kmsorgulamaz.com
 kmsorgulamsadvkvsdkz.duckdns.org
 kmsorgulamzsazniyogovptt.duckdns.org
 kmsorgularchp.xyz
+kmsorgulardan.web.app
 kmsorgularhizmetm.web.app
 kmsorgularimachp.web.app
 kmsorgularionline.web.app
@@ -136015,6 +136023,7 @@ mhhrrssrandvvunal.com
 mhhrsrsrhshrscs.net
 mhizlimuayenemiz.com
 mhkastohemen.uk
+mhkdfkdfka.duckdns.org
 mhkrdsasdh.com
 mhkrsvzcv.sbs
 mhksdvscxv.com
@@ -141052,6 +141061,7 @@ muzeburasi.com
 muzeburda.com
 muzekartbasvur.online
 muzekartim.com
+muzekartiniz.sbs
 muzeportal.com
 muzeportali.click
 muzlar.site
@@ -159150,6 +159160,7 @@ ptt-avm-kampanya-haziran.online
 ptt-avm-kampanya-hazirann.online
 ptt-avm-kapiinda.online
 ptt-avm-kilo-metre-sorgula.firebaseapp.com
+ptt-avm-km-sorgulama-islem.web.app
 ptt-avm-onayli-ilan.com.tr
 ptt-avm-onayli-ilanim.com.tr
 ptt-avm-onayli.com.tr
@@ -181248,6 +181259,7 @@ sponsorkampanya.com
 sponsorkampanyasi.com
 sponsorllu-rekalamlar.com
 sponsorllukampanya.com
+sponsorlu---cekilisler.online
 sponsorlu--cekilis.online
 sponsorlu--cekilisim.online
 sponsorlu--cekilisin.online
@@ -206646,6 +206658,7 @@ www-cepte-market-kapinda.com
 www-cepte-market-kapinda.online
 www-cepte-market-kapinda.xyz
 www-cepte-teb-com.my-homeip.de
+www-ceptedir-sync.myonlineportal.ch
 www-ceptekapida-marketin.online
 www-ceptekapida-marketin.xyz
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 52017
-# Last change: 2026-09-24 15:11:29 UTC (sync mode: full)
+# Records: 52023
+# Last change: 2026-09-25 13:53:04 UTC (sync mode: delta)
 0-deutscheindustrie.duckdns.org
 0-nlabnservportal.duckdns.org
 0-nlbnamr0portal.duckdns.org
@@ -16480,6 +16480,7 @@ docomozczz.duckdns.org
 docprowetranspro.hopto.org
 docscannewepro.duckdns.org
 docscpcpipe.inro.link
+docsend.appstore.com.mx
 docsgn.ddns.net
 docshare1.ddns.net
 docsignfile.zapto.org
@@ -41447,6 +41448,7 @@ skywiin.ddns.net
 sl00m.ddns.net
 sl5p38yp3ja6qv34oboxuls.ddns.net
 slabrother.ddns.net
+slack.apple03cloudstore.com
 sladejdefiningq.hopto.org
 slamer25.ddns.net
 slaoby.ddns.net
@@ -42317,6 +42319,7 @@ streamcommunity.hopto.org
 streamcomnunity.hopto.org
 streamforgeonline.co
 streamix.tv
+streamyard.appstore.com.mx
 street-img.ddns.net
 strekhost2057.ddns.net
 strekhost2061.ddns.net
@@ -44129,6 +44132,7 @@ toptube.fun
 topup-free-di-codashop635.duckdns.org
 topx.ddns.net
 toqipksk8.duckdns.org
+toria.app
 toria.apple03cloudstore.com
 torial.duckdns.org
 torki.zapto.org
@@ -47450,6 +47454,7 @@ wa7sha12.ddns.net
 wa7shelkon.ddns.net
 wa9990g.duckdns.org
 waa06w37u.duckdns.org
+waaako.appstore.com.mx
 wabssl-view.ddns.net
 wackmaster.ddns.net
 wadani.hopto.org
@@ -47521,6 +47526,7 @@ warisiburn.hopto.org
 warmed.hopto.org
 warnet.zapto.org
 warntterliminasiukamzon.duckdns.org
+warpcast.asia
 warstock.ddns.net
 warz.hopto.org
 warzone121.hopto.org

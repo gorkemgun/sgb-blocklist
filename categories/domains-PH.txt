@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101878
-# Last change: 2026-09-25 07:54:38 UTC (sync mode: delta)
+# Records: 101898
+# Last change: 2026-09-25 13:53:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -390,6 +390,7 @@
 11-22-33-44.ga
 11-ocak-aldinaldin.com
 11012024.com
+1102000443225.duckdns.org
 111010101111-222.cloud
 1111111110000000.sbs
 111111111111111.online
@@ -8816,6 +8817,7 @@ asdkmi.mom
 asdkmwlqkmkl36347.duckdns.org
 asdlfdsamfksdafmkl.net
 asdnqbwdvabsnd1.blogspot.com
+asdnrvdalbnrdan.lol
 asdqasasfasfafa.com
 asdqwdmvkfvkf.com
 asdqweqweqw.shop
@@ -18268,6 +18270,7 @@ ceyizlife.com
 ceza-bilgilendirme.com
 cezaadli.org
 cezaavukatburo.com
+cezabildirim.com
 cezabirim.org
 cezabirimi.net
 cezaborcu.com
@@ -29152,6 +29155,7 @@ efsaneindirimleri.online
 efsaneindirimleri.xyz
 efsaneindirimm.xyz
 efsanekadrs.net
+efsanekasaburadaala.com
 efsanekasimburada.gtxpros.best
 efsanekuvvtr.com
 efsanemarketindirim.cloud
@@ -30668,6 +30672,7 @@ ep20-test-filedcv-1426.space
 epandamidestek.com
 eparibu.com
 epatsturkpatent-gov-tr.com
+epatsturkpatent.com
 epazarp-ttavm.com
 epermit-turkey.com
 epetnal.xyz
@@ -32359,6 +32364,7 @@ eylulayinafirsatkampnyasi.tech
 eylulayipersembegunleri.xyz
 eylulayisalifirsati.online
 eylulaylaribitmesinn.online
+eylulaylburda.com
 eylulbasiaazkaldi.duckdns.org
 eylulbasiguzeldr.duckdns.org
 eylulbasvurubancekampanyasi.space
@@ -36954,6 +36960,7 @@ ggrrandventure.site
 ggrrandventure.website
 ggsdagasdxgz.info
 ggswwo.click
+ggtestorgsrt.com
 ggwppro.com.tr
 ggwproot.info
 gharmoniousundertaking.top
@@ -36982,6 +36989,7 @@ gib-gov-tr.blogspot.com
 gib-tr.firebaseapp.com
 gib-tr.pages.dev
 gib.islem.io
+gibbelgesorgula.com
 gibedevletaidat.uk.ms
 gibeportal.com
 gibfatura.com.tr
@@ -40641,6 +40649,7 @@ haydibakalim-kampanyan-bizden-online-iadem-9000tl-com.ml
 haydiffusion.top
 haydiigelinnburada.com.tr
 haydisendegelvxrgiode.net
+haydisizdegelinverandevunuzualin.duckdns.org
 haydiuygulamasitom.pics
 haygospel.top
 hayirgelecek.capital
@@ -42486,6 +42495,7 @@ hizlica-sepette-ocak.shop
 hizlicabaslangicbuguneozel.duckdns.org
 hizlicafrsattanlik1o1.com
 hizlicagecisistem.web.app
+hizlicahalledek.web.app
 hizlicahalledelimhmn.com
 hizlicaislemmhxrs.org
 hizlicakirala.com.tr
@@ -48044,6 +48054,7 @@ istkarlanlasanadas.com
 istkarllt.blogspot.com
 istkarstl.com
 istkart.net
+istkartbelgim3434.xyz
 istkartbn.com
 istkartdoldurmalar.net
 istkartdolumu.net
@@ -48477,6 +48488,7 @@ iyilikvk.net
 iyisaat.online
 iyisen-fazladan-ugradik-hizlica-daha.com
 iyisiniz-geri-gelebildiysek-sizden-daha-saglam.com
+iyiyatirim.org
 iyiyollar.online
 iyte-utms.xyz
 iyvrep.top
@@ -56483,6 +56495,7 @@ managementisle.top
 managementoverride.top
 managenovel.top
 manager-button.myonlineportal.ch
+manager-idcheck2865922-turservices.meilleur-baton.com
 managerasylum.top
 managercodepro.com
 managerialarmor.top
@@ -60342,6 +60355,7 @@ mutlu-gunler-cok-yakinda-yuzunu-guldurecek.com
 mutlu-haber-geldi-buraya-bitmeden-yakala.com.tr
 mutlu-haber-verme-gunu.com
 mutlu-teklif-geldi-cebinize-burada.com
+mutlu4433.site
 mutlualisverisleri.com
 mutluaraclarmutlu.xyz
 mutlubayi2.live
@@ -70656,6 +70670,7 @@ pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
 pttavm.ile-alisverislerini-tamamlama.com
 pttavm.ile-guvenli-web-tr.com
+pttavm.ile-guvenlice-web-tr.com
 pttavm.ile-odemeyi-tamamla.com
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
@@ -70749,6 +70764,7 @@ pttavnn-hizla-gecisstem.web.app
 pttavw-nakitservis.net
 pttavw-servisleri.net
 pttawmkmsorgulamam.shop
+pttawmshgs.com
 pttayak.top
 pttbak.com
 pttbazaar.online
@@ -71923,6 +71939,7 @@ qunazu.top
 qunmaidongxilu.top
 quorblim.site
 quorion.site
+quorvella.blog
 quorvex.live
 quorzenfy.com
 quotadistill.top
@@ -80062,6 +80079,7 @@ sizlericin.iademaidat.com.tr
 sizlericin.lol
 sizlericin.net
 sizlericinburda.blogspot.com
+sizlericinolanseyler.sbs
 sizlericinsizlerle.net
 sizlerininicburadayiz.click
 sizlerinistedigi.shop
@@ -88704,6 +88722,7 @@ tradepanel.co
 tradepanel.vip
 tradeprofessional.homes
 tradeprogressdeal.store
+traderpaparainvest.com
 traders-proinfo.site
 tradesafe-info.webflow.io
 tradeshubpro.com
@@ -91436,6 +91455,7 @@ ubanisationyrmid.top
 ubbvfdv.top
 ubrocage.com
 ubtor.store
+ubudturkiye.ubud-spa.fr
 uburkolstrt.com.tr
 ubuz.net
 ubwcxxgv.formester.com
