@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104375
-# Last change: 2026-09-25 18:40:51 UTC (sync mode: full)
+# Records: 104418
+# Last change: 2026-09-25 22:25:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1794,6 +1794,8 @@
 365-haber.online
 365-haber.site
 365-tr-evlllkrdisi.com
+365214789prmsynnbsvrrkmpnyyyy.online
+365214789prmsynnbsvrrkmpnyyyy.pro
 365214snfrlstarrkmpnyaabasvrr.info
 365214snfrlstarrkmpnyaabasvrr.pro
 36546846453.sbs
@@ -2807,6 +2809,8 @@
 9521487prmsynnnbsvrrkmpnyasnfrrstr.online
 95463visitor.com
 9584262finasnssskrdiiiiihalkk.pro
+958745521bsvrprmsynnnkmpnyyyy.info
+958745521bsvrprmsynnnkmpnyyyy.pro
 95874bsvrsuukrediikmpnyssi.online
 95874bsvrsuukrediikmpnyssi.pro
 958cbdda.sieujnx.cloud
@@ -5212,6 +5216,7 @@ agodvturkiye.online
 agodvturkiye.site
 agonusy.online
 agotteref.net
+agr-avs-apt.myonlineportal.ch
 agrajiltd.co.tz
 agrar-ara-bv.myonlineportal.ch
 agrar-ara-vb.myonlineportal.ch
@@ -7576,6 +7581,7 @@ anzrewardse-homes.info
 ao76s.com
 aocgiohqx.storage.googleapis.com
 aohtehfaeffgafetap.vercel.app
+aol-adns-ab.myonlineportal.ch
 aolerisa.com
 aolmail-signin.webflow.io
 aoniansemifyskewl.online
@@ -8732,7 +8738,9 @@ arpasigorta.com
 arquivos-omie.com
 arracamuyane.web.app
 arraccxtreamerx.net
+arrachizlirndvual.web.app
 arracicnrndavual.web.app
+arracrndvuicn.lozan.com
 arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
 arrangeerode.top
@@ -16963,6 +16971,7 @@ buzzzyfy.com
 bv1icceeellli.com
 bv1znmnb.ml
 bva-bsvrs.lat
+bva-customer.sbs
 bva-request.shop
 bva-web.shop
 bvaagrndsclmon1linecetbasvurmrs.net
@@ -26562,6 +26571,7 @@ dijitalbinancekampanya.net
 dijitalbirlik.art
 dijitalborsa-tr.com
 dijitalborsatr.com
+dijitalbuguneozel-kampanyasi.sbs
 dijitalde-denizacik.com
 dijitaldemobil-denizacik.com
 dijitalden-iz.cf
@@ -28549,6 +28559,7 @@ e-ailegenclik.com
 e-alimin.com.tr
 e-alimlar.net
 e-alimlarin.ru.com
+e-alisveris.sbs
 e-alisverisget.net
 e-alisverisim-tr.online
 e-alisverisin.net
@@ -29782,6 +29793,7 @@ efirsat-aidatsndakika-8547.com
 efirsatkapida-101.site
 efix-odeme.com
 eflow-payment.shop
+efokesker.ccwu.cc
 eformlardaiadlergeld.xyz
 eforumkampanyalipuanlarbireyselbasvurum.line.pm
 efr.my.id
@@ -39888,6 +39900,7 @@ gunclcfrskmp.cfd
 gundelikhaberlerr.sbs
 gundelikurunler.life
 gundelikurunler.online
+gundem-sikayet-var.sbs
 gundem-turk.com
 gundemajans24.com
 gundembolgesi.cfd
@@ -46049,6 +46062,7 @@ ikinci-el-sepetim.com.tr
 ikinci-el-sifir-alisveris-ilan.xyz
 ikinciel-siparis.com
 ikincielguvenli.xyz
+ikincietap.vercelserver.com
 ikjlrb.top
 iknowaustinhom.com.tr
 iknowaustinhom.xyz
@@ -48950,6 +48964,7 @@ istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.uk
 istanbulbelgim.xyz
+istanbulbelgimkartr.xyz
 istanbulbelgimkartrr.xyz
 istanbulbelgimkartt.xyz
 istanbulbelgimkarttt.xyz
@@ -49069,6 +49084,8 @@ istanbulkartt.online
 istanbulkarttbelgimm.xyz
 istanbulkarttdolum.com.tr
 istanbulkarttlyukle.com
+istanbulkarttr.xyz
+istanbulkarttrca.xyz
 istanbulkartttt.xyz
 istanbulkartxa.pro
 istanbulkartyukl12.net
@@ -49186,6 +49203,7 @@ istbabahrzmns.store
 istbb.net
 istbegimcan.xyz
 istbelbimbakiyeyukle.vercel.app
+istbelgimkart34.xyz
 istbelgimkartbasvuru.xyz
 istbelgimrandevu.xyz
 istbelgimtek.xyz
@@ -49272,6 +49290,7 @@ istkarllt.blogspot.com
 istkarstl.com
 istkart.net
 istkartbelgim3434.xyz
+istkartbelgimtr.xyz
 istkartbn.com
 istkartdoldurmalar.net
 istkartdolumu.net
@@ -51816,6 +51835,7 @@ karocoshoprt.shop
 karonipux.com
 karostmufz.com
 karovexim.com
+karpanel.space
 karparenda.click
 karrcadangelen.com
 karrrplan.com
@@ -53198,6 +53218,7 @@ kmnbhnvghf.shop
 kmnbvvbnvbn.shop
 kmnl.cpfcenters.de
 kmnnpyybsvrrprmsynnfrstlllrr.info
+kmnpyaabasvurruuusonfrstlarr1348212.pro
 kmnpyaabsvrrfrsttsonnn36528.info
 kmnpyaabsvrrfrsttsonnn36528.pro
 kmogren-durumbilgi.firebaseapp.com
@@ -53248,6 +53269,7 @@ kmpnyasnbfrfskataa64885.pro
 kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybsvrrrprsmynn15329.pro
+kmpnydunyasi.duckdns.org
 kmpnyeylulfirst.duckdns.org
 kmpnylrrbsvrrsnfrstlrrr.art
 kmpnylrrbsvrrsnfrstlrrr.info
@@ -53873,6 +53895,9 @@ kreautopagne.de
 krebashem.pw
 krecikenlogin.webflow.io
 kredc.digital
+kredddbsvrr213654frstlar.info
+kredddbsvrrprmsynn984587kmpny.pro
+kredddbsvrrprmsynnkmpnya745896.pro
 kredddfrstlrarrkmpnyaabsvrsu98563214.info
 kredddfrstlrarrkmpnyaabsvrsu98563214.pro
 kredi-acikdenizhemenmobildenonayla.click
@@ -65645,6 +65670,7 @@ oldunification.top
 olenoj.com
 oleyburs.net
 olfrex.com
+olihigiferesevubugu.club
 olikast.com
 olikhuredesader.lol
 olimpark-kassa.com
@@ -67505,11 +67531,13 @@ oyakmenkulyatirim.com
 oyaktrade.com
 oyaktradeplus.com
 oyaktraderplus.com
+oyakyatirimdegerler.com
 oyakyatirimtradeplus.com
 oyaxon.com
 oyazkamparac.xyz
 oyczop.top
 oyessiade.net
+oykmenkul.com
 oynayanlar.site
 oypiomari.com
 oyrnassevry.net
@@ -77131,6 +77159,7 @@ saglikliozelgnlerex.webredirect.org
 sagliklisindirumarim.lol
 saglikliyasamvebeslenmeblogu.shop
 saglikliyelp.com
+saglikliyizlanbizzatengot.duckdns.org
 saglikll.mooo.com
 saglikolslunskajdk.hopto.org
 sagliksiz.app
@@ -82357,6 +82386,7 @@ smartwealth24.info
 smashreconciliation.top
 smbc-card.shop
 smdi-frsatlaridgerlendr.shop
+smdialrndvual.cfd
 smdiodehgshdiode.cfd
 smdizmnimihgs.cfd
 smdnsb-aldjsa-aljmsna.cfd
@@ -82482,6 +82512,8 @@ sndebunlaraglmban.com
 sndehmngelal.com
 sndenbnlaraglbrdanal.shop
 sndgle101-dn1al.com
+sndkkfrslarrkmpnyaabasvrr748596.online
+sndkkfrslarrkmpnyaabasvrr748596.pro
 sndordnhmnrvdal.click
 sneakstatutory.top
 snguvende.online
@@ -83889,8 +83921,10 @@ spongyvicinity.top
 sponlorlusok.online
 sponlorluyonlledirme.online
 sponsor-8.online
+sponsor-cekilisler.online
 sponsor.cf
 sponsorblackmail.top
+sponsorcekilisler.online
 sponsordijitalrnobilislernapp.space
 sponsorilanvar.online
 sponsorlu--reklam--cekilis.online
@@ -93803,6 +93837,7 @@ ugolfusa.com
 ugolok-durova.ru
 ugrassdurrrchppburda.blogspot.com
 ugrlusbesndyzbiz.cfd
+ugrlusbesndyzbiz.online
 ugrsdrhdi.blogspot.com
 ugstaging2.com
 uguogashdashdhashd923asda.click
@@ -95092,6 +95127,7 @@ v2wee5stmultiply.top
 v2whe5eelentry.top
 v2zee5rorule.top
 v3.magic-cat.world
+v30105.site
 v34rgiodmee.ibbvrgxeeeodmee.net
 v34v3249813x9123x123.shop
 v3gdrxkcfipoxfnte.net
@@ -100374,6 +100410,10 @@ www-braun.org
 www-brauntr.com
 www-cebteteb-emeklim.my-homeip.de
 www-cepte-a-101.xyz
+www-cepte-b-asn.myonlineportal.ch
+www-cepte-frst-sync.myonlineportal.ch
+www-cepte-only.myonlineportal.ch
+www-cepte-smdi.myonlineportal.ch
 www-ceptekapida-marketin.com
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
@@ -103036,6 +103076,7 @@ yklemelrhzlihgs.cfd
 yklemesrguu.cfd
 yklemeyapbmclll.net
 yklemeyapbnce.net
+yklemlrhzlicaypin.cfd
 ykleodekylesmdi.cfd
 ykleodmehgs.cfd
 yklesmddeme.cfd
@@ -103250,6 +103291,7 @@ yonlendir-g.my-homeip.de
 yonlendir-secur-gr.my-homeip.de
 yonlendir9659.online
 yonlendirbabacan1.site
+yonlendiring.space
 yonlendirme-security.ink
 yonlendirme3402.site
 yonlendirmefirsatiburdanci.cyou
@@ -103958,6 +104000,7 @@ zikirdostu.info
 ziklare.com
 zilengo.pro
 ziletarebori.store
+zilihojifieresede.club
 ziliyn.site
 zillk.store
 zimbaver.com
