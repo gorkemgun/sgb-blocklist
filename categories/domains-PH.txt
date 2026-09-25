@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101855
-# Last change: 2026-09-25 01:34:40 UTC (sync mode: delta)
+# Records: 101878
+# Last change: 2026-09-25 07:54:38 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -305,6 +305,7 @@
 101firsatkampanyanbizde.vercel.app
 101firsatlar.com
 101firsatlarigirisadresi.icu
+101flrsatlarlburada1o1.duckdns.org
 101frsatlargeldignde.online
 101geldikapida.com
 101harcaharcabitmez2.online
@@ -3567,6 +3568,7 @@ a101plusalisveris.hemenazarakirala.com.tr
 a101plusmarket.com
 a101premium.com
 a101premium.com.tr
+a101pro.shop
 a101ramazanaozel.online
 a101resmikampanya.xyz
 a101s.org
@@ -37831,6 +37833,7 @@ google-analytiks.com
 google-play-cards.tk
 googleadwordsuzmani.online
 googlecode-card.cf
+googlecomfunkyehh.vercel.app
 googlecontinue.com
 googledesk-ssl.com
 googleharitalar.net
@@ -38258,6 +38261,7 @@ gratis.from-in.com
 gratis.gerenna.com
 gratis.ghy3.com
 gratis.globalscholarpress.com
+gratis.gscmec.com
 gratis.homelinux.net
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
@@ -38936,6 +38940,7 @@ guncelmerkez.abrdns.com
 guncelnotlar.company
 guncelrota.gifts
 guncelrota.world
+guncelsayfabilgisi.abrdns.com
 guncelsayfatrnbngiris.online
 guncelses.net
 guncelsiikayetler.sa.com
@@ -42732,6 +42737,8 @@ hizmetkredisorguonlinevarlik.net
 hizmetler-tr.com.tr
 hizmetler-tr.org
 hizmetler.basvurular.archsbrown.click
+hizmetler.sinirsiz.bizde.gokdelenmavisi.click
+hizmetler.sizler.icin.meviyelerimizde.click
 hizmetlerburasi.net
 hizmetleregiris.de
 hizmetlergirisgovtr.tk
@@ -52833,15 +52840,22 @@ kuankaq.com
 kuapsmenaf2.net
 kuba-tr.com
 kubafabrika.com
+kubafabrikamagaza.com
+kubafabrikaonline.com
+kubamodellerisatis.com
 kubamotor.net
 kubamotorluaraclar.com
 kubamotoronline.com
+kubamotorsatis.com
 kubamotorsonline.com
 kubamotoryedekparca.com
 kubaonlinesatis.com
 kubaonlinetr.com
+kubaonlineturkiye.com
 kubarmansa.cc
 kubarnates.sbs
+kubatr.com
+kubayollarda.com
 kucciinlogin.webflow.io
 kuccoineluogin.webflow.io
 kuccoinlgguin.webflow.io
@@ -62370,6 +62384,7 @@ novabazaar.store
 novabriefly.com
 novacheck.tech
 novadda.click
+novafilom.com
 novafinans.digital
 novahorizon.world
 novakurumsal.online
@@ -72077,6 +72092,7 @@ rafadantayfa13x123x1312.sbs
 rafael13jxk12kjxkaskdas.cfd
 rafaelbabax.shop
 rafaelcimxd.duckdns.org
+rafaelcnm.ccwu.cc
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
 rafaeloskr.cc.cd
@@ -74697,10 +74713,13 @@ rugeihrgf.info
 rugglitter.top
 rughurt.top
 ruhsuzpanel.cyou
+ruhsuzpanel.ink
 ruhsuzpanel.life
 ruhsuzpanel.lol
 ruhsuzpanel.online
+ruhsuzpanel.sbs
 ruhsuzpanel.site
+ruhsuzpanel.website
 ruhsuzpanel1.cyou
 ruhsuzpanel1.lol
 ruhsuzpanel1.site
@@ -78019,6 +78038,7 @@ sepet-mobil-tr.online
 sepet-net.online
 sepet-odemeler-2211.com
 sepet-odemeler-2212.com
+sepet-odemeler-2214.com
 sepet-odemeler-2215.com
 sepet-plus.online
 sepet-pttavm.com.tr
@@ -85578,6 +85598,7 @@ tcnsosyalsayfasi.com
 tcompassion.top
 tcpanel.cfd
 tcportal.org
+tcrtuk.com
 tcrvbcnrtgrisi.com
 tcsicil.org
 tcsorgu.online
@@ -87641,6 +87662,7 @@ togetherbetterdependnothing.click
 togetherhire.fun
 togethernet.site
 togfinans.com
+togg-arac-finansmani.com
 togg-finans-kredim.com
 togg-hizlisiparis.xyz
 togg-kredim.com
@@ -98068,6 +98090,7 @@ www-sahibinden.com
 www-sekerbank68yil.com
 www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
+www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
