@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 409942
-# Last change: 2026-09-24 22:29:48 UTC (sync mode: delta)
+# Records: 409950
+# Last change: 2026-09-25 01:34:40 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0.coinbase-com.info
@@ -46929,6 +46929,7 @@ arr-wd3463btrq-uc.a.run.app
 arrabasigorta.site
 arracamuyane.web.app
 arraccxtreamerx.net
+arracicnrndavual.web.app
 arractrmkmm.net
 arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
@@ -53942,6 +53943,7 @@ bableodkepdlwekacoeldaoesldedofalewasdvevndjw.com
 babllkwx.click
 bablosanak.com
 babmnkeldosledasd20942lwe1212asdoeldoesasvabonzozbesesdae.com
+babolatsturkiye.com
 babonhem.com.tr
 babononline.shop
 baboonrules.hopto.org
@@ -119983,6 +119985,7 @@ e-alisverisim-tr.sa.com
 e-alisverisim.sa.com
 e-alisverisimtr.sa.com
 e-alisverisin.net
+e-alisveriskampanya.sbs
 e-alisverisler-tr.sa.com
 e-alisverisler.com
 e-alisverisler.net
@@ -193045,6 +193048,7 @@ ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-ile-satis.com
 ilan-islem.online
+ilan-islemi.online
 ilan-islemler.com
 ilan-kurumsal.com.tr
 ilan-letgo.com.tr
@@ -193127,6 +193131,7 @@ ilan-satinal.net
 ilan-satinalim.com
 ilan-satinalim.com.tr
 ilan-satis.com
+ilan-satisi.online
 ilan-satisim.com.tr
 ilan-satislar.com
 ilan-satislarim.com.tr
@@ -270936,6 +270941,7 @@ onlinegeriyednkynlendirme.site
 onlinegeriyedonukservisler.store
 onlinegeriyedonuksorgulama.site
 onlinegeryednkaktarim.lat
+onlinegetodeme.com
 onlinegirilenler.com.tr
 onlinegiris-devlethizmetlerim-giris.tk
 onlinegiris-parib.com
@@ -274703,6 +274709,7 @@ otokocturkeyfilo.net
 otokocturkiye.net
 otokocturkiye.org
 otokocturkiyefilo.com
+otokofilo.com
 otokofilomkurumsal.net
 otokokurumsal.com
 otokokurumsal.net
@@ -361901,6 +361908,7 @@ tttttrkuveytislemmenu.net
 tttttt.me
 ttturgbtislemenuugiriss.com
 tttuvturkhizlirandvu.web.app
+tttuwtukr.govt.hu
 tttzzdttaasrqw.nicepage.io
 ttul1.uqauv.cn
 tturk-rumre-hediyesi-kuveytten.com

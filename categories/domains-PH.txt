@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 101847
-# Last change: 2026-09-24 22:29:48 UTC (sync mode: delta)
+# Records: 101855
+# Last change: 2026-09-25 01:34:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8575,6 +8575,7 @@ arpasigorta.com
 arquivos-omie.com
 arracamuyane.web.app
 arraccxtreamerx.net
+arracicnrndavual.web.app
 arracxacnmuyayne.com.tr
 arracxxacnmuyayne.online
 arrangeerode.top
@@ -10554,6 +10555,7 @@ babanizwupts.net
 babaonline.neveihaha.net
 babavalidiyorumya.online
 babbbygangs.sa.com
+babolatsturkiye.com
 babyaffirmation.top
 babyboomerrigor.top
 babyboomersecular.top
@@ -28001,6 +28003,7 @@ e-alimlarin.ru.com
 e-alisverisget.net
 e-alisverisim-tr.online
 e-alisverisin.net
+e-alisveriskampanya.sbs
 e-alisverisler.net
 e-alisverislerin.net
 e-alisverislerintr.net
@@ -44961,6 +44964,7 @@ ilan-hizmetin.online
 ilan-ikinciel.com
 ilan-ile-satis.com
 ilan-islem.online
+ilan-islemi.online
 ilan-kurumsal.com.tr
 ilan-m.com.co
 ilan-magaza.com
@@ -44992,6 +44996,7 @@ ilan-payode.com.tr
 ilan-safe.com
 ilan-satinal.net
 ilan-satis.com
+ilan-satisi.online
 ilan-satislar.com
 ilan-secure-alisveris.com
 ilan-securebuy.com
@@ -64612,6 +64617,7 @@ onlinegerisrgu.icu
 onlinegerisrgu2025.my
 onlinegeriyedonukservisler.store
 onlinegeriyedonuksorgulama.site
+onlinegetodeme.com
 onlinegirilenler.com.tr
 onlinegirisbnatr.com
 onlinegirisbncsaktif.com
@@ -65560,6 +65566,7 @@ otokoctturkiye.com
 otokocturkey.com
 otokocturkey.org
 otokocturkeyfilo.net
+otokofilo.com
 otokofilomkurumsal.net
 otokokurumsal.com
 otokokurumsal.net
@@ -90268,6 +90275,7 @@ tttksltsktlscc.net
 tttlkkkmcccc.giize.com
 ttttektikklasponsorlurrklam.com
 tttuvturkhizlirandvu.web.app
+tttuwtukr.govt.hu
 tttzzdttaasrqw.nicepage.io
 ttuuvturk.govt.hu
 ttuuvturk.web.app
