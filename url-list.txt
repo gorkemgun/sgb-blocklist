@@ -13974,6 +13974,7 @@
 420shop.autos
 421327142.sbs
 4214124124as.xyz
+421412421412124.duckdns.org
 421412540055444.duckdns.org
 42142142isb.duckdns.org
 4214214529452.shop
@@ -140295,6 +140296,7 @@ e-securedrive.mofa.mtomtech.co.kr
 e-secureget.online
 e-secureodeme.com.tr
 e-sepet.online
+e-sepetalisveris.sbs
 e-sepetim-tr.com.tr
 e-sepetim-tr.online
 e-sepetim-tr.ru.com
@@ -335394,6 +335396,7 @@ pttavm-firsatlarburda.click
 pttavm-firsatlarburda.com
 pttavm-firsatlarburda.xyz
 pttavm-gecis-hizliykl.web.app
+pttavm-gecisbakiyenoktasi.web.app
 pttavm-gov-tr.blogspot.com
 pttavm-guvenli-bilgilendirici.firebaseapp.com
 pttavm-guvenli-bilgilendirici.web.app
