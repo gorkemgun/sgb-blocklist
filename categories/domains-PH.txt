@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104435
-# Last change: 2026-09-26 13:09:42 UTC (sync mode: delta)
+# Records: 104444
+# Last change: 2026-09-26 17:13:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -280,9 +280,11 @@
 1010010177200.bounceme.net
 101001310177200.bounceme.net
 101010233123.duckdns.org
+10108283004588.bounceme.net
 101101-23233.cloud
 101202303404505.info
 101202303404505.site
+1014545082504588.bounceme.net
 10195-coinbase.com
 101a.siggortnmet.site
 101a.sigortmnet.site
@@ -26709,6 +26711,7 @@ dijitalsube-acikdenizv11-com.ml
 dijitalsube-acikdenizv13-com.tk
 dijitalsube-acikdenizv14-com.tk
 dijitalsube-acikdenizvl2-com.tkb2g.stats.icanmining.ru
+dijitalsube-onlinebasvur.sbs
 dijitaltokiislemlerin.digital
 dijitaltrportal.com
 dijitalvakif.online
@@ -29774,6 +29777,7 @@ efemelektrik.com.tr
 efendiman.org
 efeniveatoomos.top
 eferoad.com
+efescim.cc.cd
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efesotomotiv.com
@@ -33903,6 +33907,7 @@ femalesolo.top
 femalesubtlety.top
 femalsolo.top
 femmemoda.online
+femonester.duckdns.org
 fenabik.click
 fenabisey.blogspot.com
 fenamod.org
@@ -44891,6 +44896,7 @@ hukukgib.org
 hukukicezasorgu.com
 hukukicraservis.in
 hukukkarayollari.info
+hukukmali.org
 hukukmaliye.net
 hukukpaneli.org
 hukuksal.eu
@@ -57666,6 +57672,7 @@ maliciousturbulent.top
 maliciousvegetation.top
 malidava.org
 malidosya.net
+malidosya.org
 maliegm.org
 malignantsymposium.top
 malignantvicinity.top
@@ -87497,6 +87504,7 @@ tbncuygulamasayfasinizz.com
 tbncuygulamasorgusayfasi.com
 tbncuygulamasorgusayfasitr.com
 tbpack.cn
+tbtokyo.cc.cd
 tbtrkaskrs.net
 tbturkiye.com
 tc-cimergovtr.com
@@ -94752,6 +94760,7 @@ uyap.edu.pl
 uyap.portal-vatandas.com
 uyapadalet.org
 uyapadliye.org
+uyapbildirim.com
 uyapbilisim.com
 uyapceza-uzlasma.com
 uyapcezagiris.com
