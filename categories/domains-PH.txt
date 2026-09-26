@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104418
-# Last change: 2026-09-25 22:25:54 UTC (sync mode: delta)
+# Records: 104422
+# Last change: 2026-09-26 01:37:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -7282,6 +7282,7 @@ anecdoteevacuate.top
 anecdoteobsessive.top
 anecdotetournament.top
 anerjargon.top
+aneviirnadvm.online
 anewshove.top
 anewstagnate.top
 anfcabinets.com
@@ -39128,6 +39129,7 @@ gratis-tr.sophiemaslowski.com
 gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.benmook.com
+gratis.blohm.com
 gratis.bunkershub.com
 gratis.craftyhour.com
 gratis.dnsdojo.com
@@ -100414,6 +100416,7 @@ www-cepte-b-asn.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
+www-cepte-teb-work.myonlineportal.ch
 www-ceptekapida-marketin.com
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
@@ -103287,6 +103290,7 @@ yongyouwexian.top
 yonlen-toplan-security.ink
 yonlen.best
 yonlen.click
+yonlendi.space
 yonlendir-g.my-homeip.de
 yonlendir-secur-gr.my-homeip.de
 yonlendir9659.online

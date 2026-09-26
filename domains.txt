@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 471928
-# Last change: 2026-09-25 22:25:54 UTC (sync mode: delta)
+# Records: 471932
+# Last change: 2026-09-26 01:37:46 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -46654,6 +46654,7 @@ anenpara.ml
 anereve.com
 aneria.net
 anerjargon.top
+aneviirnadvm.online
 anewshove.top
 anewstagnate.top
 anexo.monster
@@ -187312,6 +187313,7 @@ gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.benmook.com
 gratis.blixtrader.com
+gratis.blohm.com
 gratis.bunkershub.com
 gratis.craftyhour.com
 gratis.cwbots.com
@@ -443038,6 +443040,7 @@ www-cepte-market-kapinda.xyz
 www-cepte-only.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
+www-cepte-teb-work.myonlineportal.ch
 www-cepte-teb.tk
 www-ceptedir-sync.myonlineportal.ch
 www-ceptekapida-marketin.com
@@ -464095,6 +464098,7 @@ yonlen.click
 yonlen.duckdns.org
 yonlenci.webredirect.org
 yonlendeiiyonuz7290012.duckdns.org
+yonlendi.space
 yonlendieiliyorsunuzi2334.duckdns.org
 yonlendiliyorsudi2sa.duckdns.org
 yonlendinizkis.duckdns.org
