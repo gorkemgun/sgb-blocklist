@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104444
-# Last change: 2026-09-26 17:13:57 UTC (sync mode: delta)
+# Records: 104450
+# Last change: 2026-09-26 22:55:37 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1994,6 +1994,7 @@
 475454542.duckdns.org
 475574321.cfd
 47562-coinbase.com
+47859632prmsynnbsvrrkmpnyyyy.online
 47962.adistu.ro
 482901v-coinbase.com
 48512365482451615.duckdns.org
@@ -28565,6 +28566,7 @@ e-ailegenclik.com
 e-alimin.com.tr
 e-alimlar.net
 e-alimlarin.ru.com
+e-alisveris-kampanyalar.sbs
 e-alisveris.sbs
 e-alisverisget.net
 e-alisverisim-tr.online
@@ -39861,6 +39863,7 @@ guncelsikayetleer.sa.com
 guncelsikayetler-1.sa.com
 guncelsikayetler-453.sbs
 guncelsikayetler-5.sa.com
+guncelsikayetler-553.sbs
 guncelsikayetler-7.sa.com
 guncelsikayetler-73.sbs
 guncelsikayetler-74.sbs
@@ -40782,6 +40785,7 @@ haberler1234813.sbs
 haberler123499.sbs
 haberler1235634122.sbs
 haberler1245321.shop
+haberler125421.sbs
 haberler1256236.shop
 haberler1278945.shop
 haberler1283432.shop
@@ -90158,6 +90162,7 @@ tolllocomotive.top
 tollwa.com
 tolongitudinal.top
 tolvetim.store
+tom-hadhii.duckdns.org
 tom00bnk01.duckdns.org
 tomas22.com
 tomatofame.top
@@ -97587,6 +97592,7 @@ washmatter.top
 washprosperity.top
 washrusty.top
 washtornado.top
+wasilewski-investments.pl
 wasiqort.xyz
 waspresource.top
 waspsalt.top
