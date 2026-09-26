@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104422
-# Last change: 2026-09-26 01:37:46 UTC (sync mode: delta)
+# Records: 104428
+# Last change: 2026-09-26 07:47:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30593,6 +30593,7 @@ emeklipromosyonbasvuru.online
 emeklipromosyonlari.com
 emeklipromosyonusgk.cfd
 emeklisgkpromosyon.cfd
+emekliye-ceptetebde.my-homeip.de
 emeklleytmuracaatin.com
 emeklli-promosyon.com
 emeklli-promosyonlar.com
@@ -33884,6 +33885,7 @@ felbranthor.shop
 felfecirdom.co
 felinnustivish.top
 felkaritasle.live
+felkelselfel.sbs
 fellanfllansas.live
 fellowfraudulent.top
 fellowlcium.top
@@ -39135,6 +39137,7 @@ gratis.craftyhour.com
 gratis.dnsdojo.com
 gratis.doordk.com
 gratis.dumfi.com
+gratis.fandomhousepress.com
 gratis.from-ca.com
 gratis.from-in.com
 gratis.gerenna.com
@@ -43742,6 +43745,7 @@ hizlionaylarimseninlebirlikteherzaman.store
 hizlionaylarseninlebirlikteherzaman.com.tr
 hizlionaylat.fun
 hizlionline.com
+hizlionlinekredibasvurusu.loseyourip.com
 hizlionlinetakibionline.net
 hizliortakbayi.net
 hizliortakbayim.net
@@ -53518,6 +53522,7 @@ kocoglumuayne.net
 kocoinluogin.webflow.io
 kocotofilo.net
 kocotomobil.com
+kocotorezervasyon.com
 kocplatform-set.com
 kocraw.click
 kocrental.com
@@ -87853,6 +87858,7 @@ tebicinbasvuru.my-homeip.de
 tebligbayi.com
 tebligceza.com
 tebpageinternet.my-homeip.com
+tebsolansod.co
 tebsubat.kisalink.cc
 tebtedtektikbasvurularimonline.click
 tech-icloud.com
