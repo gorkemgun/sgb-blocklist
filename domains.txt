@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 471940
-# Last change: 2026-09-26 07:47:40 UTC (sync mode: delta)
+# Records: 471951
+# Last change: 2026-09-26 13:09:42 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2370,7 +2370,9 @@
 10100002026.duckdns.org
 101001010100001.cloud
 101001011-11.cloud
+1010010177200.bounceme.net
 10100123232.cloud
+101001310177200.bounceme.net
 10101001-1111-11.cloud
 1010101-11111.cloud
 101010101-111222.cloud
@@ -187366,6 +187368,7 @@ gratis.obliqueprism.com
 gratis.optosupply.com
 gratis.paperbacksins.com
 gratis.quenumerosalio.com
+gratis.rataforo.com
 gratis.selfip.com
 gratis.sells-for-less.com
 gratis.sendreward.com
@@ -193988,6 +193991,7 @@ haberler54232.shop
 haberler543343.shop
 haberler554.shop
 haberler562346.sbs
+haberler56321.sbs
 haberler5632494.sbs
 haberler56755712366.com
 haberler568794.sbs
@@ -213666,6 +213670,7 @@ hmawerhmeh.net
 hmb-gov-tr-com.com
 hmb-gov-tr-esnaf-ve-emekli-paketi.tk
 hmb-govtr.com
+hmbakanlikvezne.com
 hmbceza.net
 hmbceza.org
 hmbgovtr.com
@@ -334725,6 +334730,7 @@ ptt-govtur.help
 ptt-govtur.top
 ptt-govty.cc
 ptt-govty.top
+ptt-govv.cc
 ptt-govv.cfd
 ptt-govv.cyou
 ptt-govv.ink
@@ -387900,6 +387906,7 @@ supercache.top
 supercargas.ddns.net
 supercaution.com
 supercell-tr.cf
+supercelletkinlik.com
 supercep-101.xyz
 supercep101.xyz
 supercep1a101.online
@@ -394538,6 +394545,7 @@ teb-ceptegiris-promosyonlar.life
 teb-ceptemobil-promosyon.life
 teb-ceptepromosyonlargiris.duckdns.org
 teb-com-tr-emekli-firsatlari.my-homeip.de
+teb-com-tr-emekli-promosyon.myonlineportal.de
 teb-com-tr-emekli-sayfasi.my-homeip.de
 teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-emekliyeozel.my-homeip.de
@@ -416230,6 +416238,7 @@ tvtrkliodemesi.blogspot.com
 tvtrklleodemeliilbb.net
 tvtrklzme.net
 tvtrkm-ynem.dev
+tvtrkmafylari.duckdns.org
 tvtrkmk2asfkm562.net
 tvtrkmrndvu.net
 tvtrkmtv.net
@@ -416240,6 +416249,7 @@ tvtrkmuayneservisiniz.net
 tvtrkmuayrne.net
 tvtrkmuynesi.net
 tvtrkmygnealkdgaw.mooo.com
+tvtrkmynexx.duckdns.org
 tvtrkodeme.blogspot.com
 tvtrkodemeleri.blogspot.com
 tvtrkodemesi.blogspot.com
@@ -443027,6 +443037,7 @@ www-cekilis-iphone-teb.net
 www-cekilis-qnbfinansbank.tk
 www-cekilis.com
 www-cekilisiphone-teb.net
+www-cepdetep-com-tr.my-homeip.de
 www-cepsubeleri-qnbfinansbank-com.tk
 www-cepsubem-qnbfinansbank-yeni-com.tk
 www-cepsubesi-halkbank-tr.tk

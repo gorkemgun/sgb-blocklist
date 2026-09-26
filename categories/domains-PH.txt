@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104428
-# Last change: 2026-09-26 07:47:40 UTC (sync mode: delta)
+# Records: 104435
+# Last change: 2026-09-26 13:09:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -277,6 +277,8 @@
 101.pazartesihazirandsr.com
 101.pazartesimartuygun.com
 101.satis101.online
+1010010177200.bounceme.net
+101001310177200.bounceme.net
 101010233123.duckdns.org
 101101-23233.cloud
 101202303404505.info
@@ -39157,6 +39159,7 @@ gratis.mvolkov.com
 gratis.nottheweb.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
+gratis.rataforo.com
 gratis.sendreward.com
 gratis.servehumour.com
 gratis.simplysweetcakesoc.com
@@ -40840,6 +40843,7 @@ haberler4857489.sbs
 haberler53454321.shop
 haberler543343.shop
 haberler562346.sbs
+haberler56321.sbs
 haberler5632494.sbs
 haberler56755712366.com
 haberler612448.shop
@@ -85754,6 +85758,7 @@ superbasvuru.ml
 superbazarouu.com
 superblot.top
 superbstern.top
+supercelletkinlik.com
 supercumaindirimleri.duckdns.org
 superdeniz.ml
 superdeniz.tk
@@ -93440,6 +93445,7 @@ tvtrkk.net
 tvtrkkdshhzimetburds.store
 tvtrkkyklemmezsa.net
 tvtrklegothems.net
+tvtrkmafylari.duckdns.org
 tvtrkmrndvu.net
 tvtrkmtv.net
 tvtrkrnvdmlrm.com
@@ -100417,6 +100423,7 @@ www-braun.net
 www-braun.org
 www-brauntr.com
 www-cebteteb-emeklim.my-homeip.de
+www-cepdetep-com-tr.my-homeip.de
 www-cepte-a-101.xyz
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
