@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104452
-# Last change: 2026-09-27 01:31:24 UTC (sync mode: delta)
+# Records: 104454
+# Last change: 2026-09-27 14:05:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -230,6 +230,7 @@
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop-cep-sepet-tr.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
+101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
@@ -37337,6 +37338,7 @@ geltakipins.fun
 gelunoradi.gifts
 gelvatandasgell.com.tr
 gelveal.club
+gelvebasinial.duckdns.org
 gelyenifirsat.net
 gemememhasereilaclama.site
 gemini-btc.com
