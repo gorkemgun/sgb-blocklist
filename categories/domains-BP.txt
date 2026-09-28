@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26124
-# Last change: 2026-09-27 22:16:02 UTC (sync mode: full)
+# Records: 26140
+# Last change: 2026-09-28 15:34:07 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -581,6 +581,7 @@
 2124552556555699.duckdns.org
 2134830028840.duckdns.org
 213erwerwerwedsf21.shop
+2142115251.xyz
 21455452222255899892.duckdns.org
 21455452222255899893.duckdns.org
 21455452222255899896.duckdns.org
@@ -654,6 +655,7 @@
 2612952.cloud
 263737.sbs
 2652654651ll11165.duckdns.org
+265271.duckdns.org
 266234154.click
 2683768276.cloud
 26adetklasl324qw.blogspot.com
@@ -1049,6 +1051,7 @@
 670ashdahshdahshdahshdashdhashd70.click
 6723483770.best
 672cvb4523432.gleeze.com
+6734737373.click
 6734737373.sbs
 6734737373.xyz
 675895632432457.org
@@ -3050,6 +3053,7 @@ ayni-discluasing-gr.myonlineportal.ch
 ayni-gun-hizmetlerden-faydalanin.sbs
 ayniolmadi.click
 aynisiyahbeyaz.sbs
+ayricalik-cepte.myonlineportal.ch
 ayricaliklar-cepteteb-emekliye.my-homeip.de
 ayrldkttlmylunbkrsnpki.mooo.com
 aysonufirsatlarikacirma.cfd
@@ -4790,6 +4794,7 @@ buncloset.com
 bunelosa-tegaviru.lol
 bunubilir.com
 bunungibiherkeseyenidenvar.com
+bunuoylecegecme.sbs
 bunyelixf.info
 burada-nisan.com.tr
 burada-nisan.net.tr
@@ -11365,6 +11370,7 @@ hssstannxrandevvu.org
 hsstanxxranvvlrr.org
 hssxxtanneervnnd.org
 hstnarrndva.com
+hstnelersizide.shop
 hsvh3bh.ooguy.com
 htlgid.help
 html-replica-controller-perceived.trycloudflare.com
@@ -11443,6 +11449,7 @@ hzllaabzlzlle.org
 hzlmbldji.cfd
 hzlmblrhbr.cfd
 hzlmrocantan.cfd
+hzlnsdanismanlk.com.tr
 hzlrhbrismbl.site
 hzlrhbrste.cfd
 hzlsimelercnzicinamtauz.duckdns.org
@@ -12214,6 +12221,7 @@ istanbulbeelgimcan.xyz
 istanbulbegimcan.xyz
 istanbulbegimkart.xyz
 istanbulbegimsel.xyz
+istanbulbelggimkartr.xyz
 istanbulbelgiim.xyz
 istanbulbelgimcann.xyz
 istanbulbelgimkart.xyz
@@ -13839,6 +13847,7 @@ kgmgov-tr.cyou
 kgmgov-tr.qpon
 kgmgov-vip.bond
 kgmgov.bond
+kgmgov.cfd
 kgmgov.qpon
 kgmgov.sbs
 kgmgov.xyz
@@ -15126,6 +15135,7 @@ l85sadhahsdhashsahdc8c9c6sds.click
 lab-vers.xyz
 labelc4.duckdns.org
 labuns.netlify.app
+laktanasma.net
 lalavareklamdijitalgiristr.space
 lalelicicekcisime.duckdns.org
 lalezara.click
@@ -18271,6 +18281,7 @@ pazarama.sepet-odemeler-2211.com
 pazarama.sepet-odemeler-2212.com
 pazarama.sepet-odemeler-2213.com
 pazarama.sepet-odemeler-2214.com
+pazarama.sepet-odemeler-2216.com
 pazarama.siparisguvende.com
 pazarama.siparisimhizli.com
 pazarama.siparisislemleri.com
@@ -20155,6 +20166,7 @@ sahibinden-firsat-indirim.mooo.com
 sahibinden-get-ilanservisiniz-jet.com
 sahibinden-get-paramguvende-ode.gt.tc
 sahibinden-get.alimlarinizhizmetler.online
+sahibinden-get.alisverisinsepet-17.sbs
 sahibinden-get.bireyselalimlarim.com
 sahibinden-get.detayservisn.com
 sahibinden-get.e-ticaretservisi.com
@@ -20445,6 +20457,7 @@ sahibindenparam-guvende.ilan-onay-tr.online
 sahibindenparamguvende-tr.guvenli-alisverislerim.sa.com
 sahibindenparamguvende.guvenli-alisverislerim.sa.com
 sahibindenparamguvende.ilan-onay-tr.online
+sahibindenparamguvende.store
 sahibindenparamguvende.tr
 sahibindenparamguvende.tr-s.online
 sahibindenparamguvendetr.guvenli-alisverislerim.sa.com
@@ -23872,6 +23885,7 @@ tvtrkjhzmetlrebsd.online
 tvtrkkdshhzimetburds.online
 tvtrkmygnealkdgaw.mooo.com
 tvtrkmynexx.duckdns.org
+tvtrkrndv.duckdns.org
 tvtrkrvdal.org
 tvtrksnrhzsdme.online
 tvturk-ei.digital
@@ -24746,7 +24760,9 @@ www-aldinaldinsonfirsatlarim-a101.xyz
 www-cepte-found-tb.myonlineportal.ch
 www-cepte-portal-tb.myonlineportal.ch
 www-cepte-portaln-tb.myonlineportal.ch
+www-cepte-rar-tb.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
+www-cepte-time-tb.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-cepteteb-ayricalikli-firsatlar.my-homeip.de
 www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch

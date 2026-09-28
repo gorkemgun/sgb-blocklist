@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19878
-# Last change: 2026-09-28 07:00:18 UTC (sync mode: delta)
+# Records: 19915
+# Last change: 2026-09-28 15:34:07 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000011111.duckdns.org
@@ -45,6 +45,7 @@
 101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-mobil-bugune-ozel-indirim-sepeti-cepte-alisveris-tr.bilgicep-tr.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
+101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
 101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
@@ -76,6 +77,7 @@
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop-cep-sepet-tr.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
+101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
@@ -368,6 +370,7 @@
 2747890012056.duckdns.org
 275321312375352.click
 27660175439.cloud
+289coommunity.xyz
 290299234.sbs
 293184.store
 293712.website
@@ -551,6 +554,7 @@
 65576421334121.online
 6666sdsdsysdanas.com
 66ghgjh44hvgfghfjkh.cfd
+671267.xyz
 673442-coinbase.com
 673827-coinbase.com
 673908-coinbase.com
@@ -576,6 +580,7 @@
 6eurqshku.storage.googleapis.com
 6pvc38y5izw3.icu
 6yilaozelbnc.sbs
+7126115.xyz
 724islemgbrrs.sbs
 724s5w8wa.click
 724sosylbasvru.sbs
@@ -1183,6 +1188,7 @@ alisveris.lol
 alisverisepetin-13.sbs
 alisverishizmeti.online
 alisverishizmetin-10.sbs
+alisverisinsepet-17.sbs
 alisverisitesi.co
 alisverisjet.online
 alisveriskolay.click
@@ -2571,6 +2577,7 @@ birimuzlasma.org
 birlinks-tr.online
 birolalimisterdim.sbs
 biskletciniz-geldiy-ll.cfd
+bismillahkaliteyehosgeldiniz.duckdns.org
 bist.youthside.co
 bistress.sbs
 bitarafsiyah.cyou
@@ -3676,6 +3683,7 @@ cityhoppertours.tours
 citykamplyon.world
 cityyouguide.info
 civanto.info
+civicscope.blog
 cix132jxk123z123z123.shop
 cixlvs.cc
 cixpda.cc
@@ -4542,6 +4550,7 @@ demo.axxel1.com
 demoincele.duckdns.org
 dendenwsaw.duckdns.org
 deneme-is.replit.app
+denemealtyapi.com
 denemebendes.duckdns.org
 dengi-id8345.world
 deniz-mobil-com-cepte-basvuru-ekrani.duckdns.org
@@ -4778,6 +4787,7 @@ dkyatirimmenkul.com
 dlimc.click
 dmartshopping.com.tr
 dmca-chrome-extensions.click
+dmod.shop
 dnbslt.help
 dnervarnerv.duckdns.org
 dnfbdnskdxm.sbs
@@ -5599,6 +5609,7 @@ euyapadalet.org
 euyapbildirim.org
 euyapbilgi.org
 euyapcbs.com
+euyaphazine.com
 euyapmasak.com
 euyaptakip.com
 euyaptakip.org
@@ -6845,6 +6856,7 @@ gratis.kywestfest.com
 gratis.lakeboundtech.com
 gratis.millers-house.com
 gratis.mvolkov.com
+gratis.nexiapy.com
 gratis.nottheweb.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
@@ -7369,6 +7381,7 @@ hasmnsamhshansanmasmhsan73.space
 hasnataherherh.uk
 hasnatamehe.uk
 hasntahizfafamar.cfd
+hastanebulo.win
 hastaneisleriogren.cfd
 hastanekayit.duckdns.org
 hastanelerinizbilgi.com
@@ -7400,6 +7413,7 @@ hatchelnook.org
 hattasimamobil.com
 hattricknationn.com
 havaiiist.site
+havaistxnbul.com
 havale-gonderici.com
 havale-gonderim.com
 havale-ilan.com
@@ -7586,6 +7600,7 @@ hepsburdakutu.net
 hepsibenimle.xyz
 hepsiburada-kep.com
 hepsiburadaadres.com
+hepsiburadalj.com
 hepsinden1o1.shop
 her-eve-bir-adet-sinirli.sbs
 her-eve-lazim-caydanlik.sbs
@@ -8201,6 +8216,7 @@ hzlnsdanismanlk.net
 hzlnsdanismanlk.online
 hzlrandvv-webtp.space
 hzlsnnets.web.app
+hzlszsndnsmlk.com
 hzmbwx.cc
 hzxtnoktasia.duckdns.org
 hzzlgcs.com
@@ -8828,6 +8844,7 @@ istprn.xyz
 istsfgkukfd.sbs
 isttttttlrdnnnnbrdnn.mooo.com
 istwblck.xyz
+isubeodeamenkul.com
 isubeturkishmenkulweb.com
 it-garda.com
 it-room24.com
@@ -9730,6 +9747,7 @@ kmsorgulamahizmetii.web.app
 kmsorgulamahizmetimniz.web.app
 kmsorgulamahzmetleriniz.web.app
 kmsorgulamamizz.web.app
+kmsorgulamamizzw.web.app
 kmsorgulamammiz.web.app
 kmsorgulamaslemleriniz.web.app
 kmsorgupratik.com
@@ -10612,6 +10630,7 @@ m4v8q2n7x5b6.cfd
 m4zp2vk.sbs
 m67exdgs7xbk.icu
 m8k4x6q2f9b3n7hvat.cfd
+m99090s.site
 m9x4q2v8n1z6.cfd
 m9xt2qzrw7kv5phn8jcyb.click
 ma44777.site
@@ -10708,6 +10727,7 @@ maliyecezauzlasmasi.com
 maliyedosyasorgula.com
 maliyeeavukat.org
 maliyeegm.com
+maliyeegm.net
 maliyegib.org
 maliyeidaribirim.org
 maliyekamusorgu.org
@@ -10954,6 +10974,7 @@ mehhrs.dns.navy
 mehrasee.co
 meiseraltstadt.world
 meisersparesort.com
+meksatr.com
 meksayatirimtr.com
 mektupyazsana.com
 melerdesladwsw.duckdns.org
@@ -11279,6 +11300,7 @@ mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssraca.cyou
 mhssracb.cyou
+mhssracb.rest
 mhssracb.sbs
 mhssragb.sbs
 mhssragc.sbs
@@ -11798,6 +11820,7 @@ needcheck-booking.info
 nefissduyurularim.cfd
 nefkonut.site
 neflixtr.icu
+negan-service.com.tr
 negan-service.xyz
 nelerdeshanewds.duckdns.org
 nelik.click
@@ -12457,6 +12480,7 @@ olyuuflgjd.nicepage.io
 olyvesnyre.net
 om8w2krx5qvph9tcn4ylb.sbs
 omegaenergy.com.np
+omegasicurezzas.com
 omerfarukgun57.xyz
 omio-trips.com
 omiohotels.com
@@ -12672,6 +12696,7 @@ openversion.store
 openvireon.store
 openvolume.site
 openxzhsldndu3dx3e.click
+opera-istanbul.com.tr
 operaamznew.ezgateway.net
 opermdcwlosewd.com
 opklziyygnh.nicepage.io
@@ -14540,6 +14565,7 @@ s-paramguvende.tr-siparisonay.online
 s-paramguvende.urunhizmetleri.online
 s-paran-guvenli.online
 s-sahibinden-sozlesme.com
+s-sozlesmen.e-islem-hizmet.com
 s-x.xxxxxxxxx111111.xyz
 s0k.com.tr
 s0kfirsatlarim.duckdns.org
@@ -14673,6 +14699,7 @@ sagliklikalalim.click
 sagliklikalalim.xyz
 saglikliol.giize.com
 saglikliolnnn.mywire.org
+saglikliolunuz.com
 saglikliozelgnlerex.webredirect.org
 sagliklisindirumarim.lol
 saglikliyasamvebeslenmeblogu.shop
@@ -14796,6 +14823,7 @@ sahibinden.ile-islemleriniz.com.tr
 sahibinden.ileservishizmetleri.com
 sahibinden.ileservishzmetin.com
 sahibinden.ileservishzmetlerinz.com
+sahibinden.iletisimkasko.com
 sahibinden.islemlerin-mobilde.com
 sahibinden.kaskoiletisim.com
 sahibinden.live
@@ -15494,6 +15522,7 @@ siparis-hizliislem.com
 siparis-hizliislemler.com
 siparis-onay-tr.online
 siparis-onayim.online
+siparis-onayla.online
 siparis-tr.online
 siparisaktif.online
 siparisguvende.com
@@ -15576,6 +15605,7 @@ skmarlktlr.com
 skmarltkler.com
 skmlrketler.com
 skokcepuygulamasi.lat
+skotallc.online
 skso255144771eknebsk.dpdns.org
 skudarevon.com
 skullcrusherd.pro
@@ -18069,6 +18099,7 @@ tuvramuayne.site
 tuvrandanvernede.com
 tuvrandanvernede.online
 tuvrkekakdsad.net
+tuvtavtuvtav.com
 tuvtkur-aracmuuyne.web.app
 tuvtrkaracmuayene.govt.hu
 tuvtrkaracmuayene.ldtp.com
@@ -18251,6 +18282,7 @@ urbanpixel.sbs
 urbans.bond
 urbanwear.sbs
 urbtrail.com
+urgansorgupanel.ct.ws
 urlhedge.website
 urlnames.xyz
 urundetayi.com
@@ -18357,6 +18389,7 @@ v30105.site
 v34v3249813x9123x123.shop
 v4n8z2k7x6p9.cfd
 v4qk8x6m2n7s9b5h3a.cfd
+v707070.site
 v999995.site
 vacationreservs2025.world
 vacaybooker2025.world
@@ -18399,6 +18432,7 @@ vancarsfilo.com
 vantrex.rest
 vantro.sbs
 vapi.take-more.cfd
+varaka.click
 vargentolar.top
 varionexdigital.com
 varlikatlas.info
@@ -18983,6 +19017,7 @@ www-cepdetep-com.myonlineportal.ch
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
+www-cepte-secrty-tb.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
@@ -19028,8 +19063,10 @@ www.integralgroupyatirim.org
 www.services.prohosts.org
 www221x23241.duckdns.org
 wwwaww.sbs
+wwwptt-gov-tr.express-online.website
 wwwtrumore.com
 wwwturkeygovtr.polypartssidecar.eu
+wwwww0.sbs
 wwwwwwwwwweeeeebsuppooorrrtt89999040.s3.eu-central-4.ionoscloud.com
 wwwwwxxxxxxssw.duckdns.org
 wxfwld.help

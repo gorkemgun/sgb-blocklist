@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 1250
-# Last change: 2026-09-27 22:16:02 UTC (sync mode: full)
+# Records: 1251
+# Last change: 2026-09-28 15:34:07 UTC (sync mode: delta)
 0xvona.duckdns.org
 22qq-client.com
 260120.vercel.app
@@ -1188,6 +1188,7 @@ w3c.sneaws.com
 waaako.appstore.com.mx
 walwood.be
 warpcast.asia
+wavel.apple03cloudstore.com
 waynelimck.com
 we2luck.com
 web-telegram.ug
