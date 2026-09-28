@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 26140
-# Last change: 2026-09-28 15:34:07 UTC (sync mode: delta)
+# Records: 26144
+# Last change: 2026-09-28 22:05:59 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 000001032026.me
 00001101011.duckdns.org
@@ -7253,6 +7253,7 @@ ekfanakaryakitmerkez.com
 ekgelirhatti.com
 ekgelirportal.com
 ekhizmetlerburosu.sbs
+ekimlerhosgeldin.site
 ekincimenkuldegerler.com
 ekiphabermedya.com
 ekislem.duckdns.org
@@ -10780,6 +10781,7 @@ hepsiburadakargo.com
 hepsiburadakargom.com
 hepsiburadakep.com
 hepsiburadakepim.com
+hepsiburadalll.com
 hepsiburadalojistik.com
 hepsiburadamlojistik.com
 hepsiburadania.ph
@@ -20299,6 +20301,7 @@ sahibinden-param-guvende.islemonaylatr.online
 sahibinden-param-guvende.islemonaytr.online
 sahibinden-param-guvende.siparis-onay.online
 sahibinden-param-guvende.siparisbilgitr.online
+sahibinden-param-guvende.siparisim-guvenli.online
 sahibinden-param-guvende.tr-odeme-hizmet.online
 sahibinden-param-guvende.tr-odeme-onay.online
 sahibinden-param-guvende.tr-odeme-servis.online
@@ -24526,6 +24529,7 @@ web-links-mobil-tr.click
 web-links-mobil-tr.sbs
 web-production-10b7a.up.railway.app
 web-sayfalari.com
+web-siparis-ver.sbs
 web-trade.my-homeip.com
 web-trmortgage.my-homeip.com
 web-trredirect.com

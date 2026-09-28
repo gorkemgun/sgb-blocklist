@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19915
-# Last change: 2026-09-28 15:34:07 UTC (sync mode: delta)
+# Records: 19927
+# Last change: 2026-09-28 22:05:59 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000011111.duckdns.org
@@ -555,6 +555,7 @@
 6666sdsdsysdanas.com
 66ghgjh44hvgfghfjkh.cfd
 671267.xyz
+6712671.xyz
 673442-coinbase.com
 673827-coinbase.com
 673908-coinbase.com
@@ -858,6 +859,7 @@ ac-count.my-homeip.de
 ac123xlkdsdaxjk12kj3123c12.cfd
 acacacacacac.sbs
 acascadkx123jkasdas.sbs
+acayioynamazgencler.duckdns.org
 acc.hdfportfoy.com
 acc.hedeffon.com
 acc.hedefonportfoyum.com
@@ -925,6 +927,7 @@ addpasskey2fa.com
 addssopasskey.com
 addyourpasskey.com
 aded.click
+adembademyemisniyebizegetirmemis.duckdns.org
 adenpanel.xyz
 adenyabeachs.com
 adflowza.sbs
@@ -5101,6 +5104,7 @@ ecezabildirim.org
 ecezacbs.com
 ecezacbs.org
 ecezadavam.com
+ecezahazine.com
 ecezainfaz.com
 ecezainfaz.org
 ecezamasak.com
@@ -5400,6 +5404,7 @@ emklpromsyon.cfd
 emlakrandevular.com
 empowerpharmacy.space
 empty-room.world
+emreakkaya.av.tr
 emrekelxdlxo.space
 emvo.shop
 enablepasskey.com
@@ -5641,6 +5646,7 @@ evatandastakip.com
 evatandasuyap.com
 evatandasuyap.org
 evbasvuru3.duckdns.org
+evdebasvurusistemi.abrdns.com
 evdeis-cagrimerkezi.online
 evdenbasvuruadresi.abrdns.com
 evdenbasvuruadresim.abrdns.com
@@ -7965,6 +7971,7 @@ holidaysinfo.website
 holidaystays2025.world
 hollywood-id8237.world
 hollywood-id8387.world
+holymonst.duckdns.org
 homadise-vurageno.lol
 home-crafft.com
 home.current-games.top
@@ -8321,6 +8328,7 @@ idarisorgusistemi.org
 idarisorusturma.org
 idaritc.org
 idascsaj1j23123z123.shop
+idata.lat
 idcard1215-booking.com
 ideal-yonlendirme-security.ink
 identification423.world
@@ -11053,6 +11061,7 @@ merkezlkayit.abrdns.com
 merkeznoktasi.com
 merkezrandevu-hi.com
 merkezrannd.com
+merkezsistemi.abrdns.com
 merkeztakibi.com
 merkezyasam.com
 merkzisistemms.club
@@ -14352,6 +14361,7 @@ reservetiontuv.site
 reservinfo-id7862.world
 reserving.world
 reserwo-pending-confermo1250.com
+resinteallcicekci.sbs
 resmi-guncel-bilgi.com
 resmicezasistemi.org
 resmicezasorgu.com
@@ -18142,6 +18152,7 @@ tvrkrsnzhdsmsvc.store
 tvrkrtsandsavsc.com
 tvrktshdabzursd.store
 tvrtksdnskrds.com
+tvtrarcmynb.sbs
 tvtrkaramuayene.net
 tvtrkhdizmbeyrs.online
 tvtrkhdizmbeyrs.store
@@ -18804,6 +18815,7 @@ web-braun.com
 web-lanse.ink
 web-meets.com
 web-shop-tr.online
+web-siparis-kampanya.sbs
 web-sipariskampanya.sbs
 web-siparislerim.sbs
 web-sistemleri.com
