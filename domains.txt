@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 49991
-# Last change: 2026-09-28 00:53:57 UTC (sync mode: delta)
+# Records: 49992
+# Last change: 2026-09-28 07:00:18 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -17752,6 +17752,7 @@ gratis-tr.doordk.com
 gratis-tr.empordafibra.com
 gratis-tr.obliqueprism.com
 gratis-tr.optosupply.com
+gratis-tr.rataforo.com
 gratis-tr.sophiemaslowski.com
 gratis.7s.com.tr
 gratis.anointedacres.com
