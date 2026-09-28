@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 19875
-# Last change: 2026-09-27 22:16:02 UTC (sync mode: full)
+# Records: 19877
+# Last change: 2026-09-28 00:53:57 UTC (sync mode: delta)
 0000000333.duckdns.org
 000000044444.duckdns.org
 0000011111.duckdns.org
@@ -5957,6 +5957,7 @@ firaripro.xyz
 firesalevip.top
 firjacket.top
 firmalar.firma.firmaslfasd.click
+firsat-cepde.my-homeip.de
 firsat-mbl.click
 firsat-promos-gelicikk.shop
 firsat-tebde.my-homeip.de
@@ -18987,6 +18988,7 @@ www-cepte-tb-story.myonlineportal.ch
 www-cepte-teb-work.myonlineportal.ch
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
+www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-ceptetebliye-ayricalikli.my-homeip.de
 www-dot-turkiye-dot-gov-dot-tr.jp.gmproxy.org

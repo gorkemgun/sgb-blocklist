@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 49989
-# Last change: 2026-09-27 22:16:02 UTC (sync mode: full)
+# Records: 49991
+# Last change: 2026-09-28 00:53:57 UTC (sync mode: delta)
 00-uludag-edu-tr.weebly.com
 0000000333.duckdns.org
 000000044444.duckdns.org
@@ -15464,6 +15464,7 @@ firsado.click
 firsai.tipshub.net
 firsat-baharlari-burada.cyou
 firsat-baharlari-burada.sbs
+firsat-cepde.my-homeip.de
 firsat-garant.click
 firsat-geldy.fluxshadow.sbs
 firsat-kredin.cfd
@@ -47583,6 +47584,7 @@ www-cepteteb-com-tr-firsatlar-promosyon.myonlineportal.ch
 www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-online-kampanya.myonlineportal.ch
 www-cepteteb-com-tr-online-kampanya.myonlineportal.de
+www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-digitalfirsatlar-com.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-cepteteb-emekliye.my-homeip.de
