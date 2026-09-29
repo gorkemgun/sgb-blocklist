@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - Cyber Attack (Port Scan, Brute Force etc.) (CA)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip&desc=CA
-# Records: 906
-# Last change: 2026-09-22 14:59:12 UTC (sync mode: delta)
+# Records: 907
+# Last change: 2026-09-29 15:56:56 UTC (sync mode: delta)
 1.220.95.214
 2.27.160.29
 5.20.23.118
@@ -464,6 +464,7 @@
 137.184.226.250
 137.220.134.223
 138.2.153.255
+138.28.234.38
 138.68.51.132
 138.68.143.68
 138.97.12.134

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104613
-# Last change: 2026-09-29 08:37:41 UTC (sync mode: delta)
+# Records: 104632
+# Last change: 2026-09-29 15:56:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -219,6 +219,7 @@
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
+101-extra-sadece-bugune-ozel-indirimli-sepet-shop-tr.onlinecep-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-cep-tr.cepteal-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.marketsepeti.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
@@ -237,6 +238,7 @@
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
+101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
@@ -1382,6 +1384,7 @@
 22b8db05.dkje92kw.shop
 22sccjasjkdcaskx123.cfd
 23112312321.net
+2312059939299112.webredirect.org
 2312312312312.cloud
 23213x22.cyou
 23222635125.cloud
@@ -1468,6 +1471,7 @@
 25424545443333.duckdns.org
 25632d.shop
 25675.nafay.org
+257812.xyz
 25985-coinbase.com
 25arlksonfrst.shop
 25cef1d53a41360-8rxmsr.csb.app
@@ -6593,6 +6597,7 @@ alisverisinizonline.net
 alisverisinkolayyolu.com
 alisverisinortasi.com
 alisverisinsepet-17.sbs
+alisverisinsepet-18.sbs
 alisverisitesi.co
 alisverisjet.online
 alisveriskapiinda.com
@@ -9010,6 +9015,7 @@ asdfsdsfd.duckdns.org
 asdfsfdsdf.duckdns.org
 asdgasha.art
 asdgg3e23g32gg32.com
+asdghbvdasha.art
 asdghvdasha.art
 asdgsagsdfblll.click
 asdhdfnasd.net
@@ -30045,6 +30051,7 @@ egxfqoru.formester.com
 egypthelp.online
 egyptivo.com
 ehadysvbassa.com
+ehazinedava.com
 ehazinegirisi12322.ga
 ehazinetcbmtrgirisi634.tk
 ehazinetcbmtrgovtr1221.tk
@@ -42013,6 +42020,7 @@ hdcsmy.top
 hdczmp.top
 hddwmn.top
 hdeglj.top
+hdemiradiyamanedutr.weebly.com
 hdfghfg.great-site.net
 hdfkmm.top
 hdflolink.cloud
@@ -45304,6 +45312,7 @@ hzlsigortamburdaatr.com.tr
 hzlsnnets.web.app
 hzlsrgulamalxsr.com
 hzlszsndnsmlk.com
+hzlszsndnsmlk.net
 hzlvrgodeme.fun
 hzlydzmi.net
 hzmbwx.cc
@@ -54443,6 +54452,7 @@ kurumsalyumx.cfd
 kurumsicil.org
 kurumsorgu.org
 kurumsorgulama.org
+kurumtakip.org
 kurumtr.org
 kurutmazamanigeldi.com
 kuruumsalsigorta.site
@@ -63774,6 +63784,7 @@ nlnlnknmknmkn.sbs
 nlreodnv.net
 nlsmdldndlh.net
 nlsustrvslostra.com
+nltalnakmama.net
 nltalntalnal.net
 nltaman.net
 nltkammt.net
@@ -64287,6 +64298,7 @@ nt61l7e.cn
 ntaasnadnas.blogspot.com
 nterceptroofings.com
 ntlanmatkak.net
+ntlenelana.net
 ntllnakmakm.net
 ntlnltnltnl.net
 ntmntmltnlmamlna.net
@@ -76733,6 +76745,7 @@ ruhsuzpanel1.sbs
 ruhsuzpanel1.site
 ruhsuzpanel1.website
 ruhsuzpanel2.site
+ruhsuzpanel2.website
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
@@ -77388,6 +77401,7 @@ sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.alisverisepetin-14.sbs
 sahibinden-get.alisverisepetin-15.sbs
 sahibinden-get.alisverisinsepet-16.sbs
+sahibinden-get.alisverisinsepet-18.sbs
 sahibinden-get.com.de
 sahibinden-get.dijital-mobil-hizmet.online
 sahibinden-get.ealimmobil.com
@@ -77433,6 +77447,7 @@ sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
 sahibinden-get.servisinguvenli-67.sbs
+sahibinden-get.servisinguvenli-75.sbs
 sahibinden-get.servislerinmobil-12.sbs
 sahibinden-get.servislerinmobil-13.sbs
 sahibinden-get.servislerjethizmetler.online
@@ -77457,6 +77472,7 @@ sahibinden-getilan.sepetfirsat.online
 sahibinden-getilan.t-ilanhizmet.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisveris-tr-webislemler.online
+sahibinden-getilan.tr-alisveris-webislemler-get.online
 sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-web-islemler.online
@@ -80408,6 +80424,7 @@ servisinguvenli-67.sbs
 servisistem.xyz
 servisler-tr.com.tr
 servislerim.com.tr
+servislerinislemler.sbs
 servislerinmobil-12.sbs
 servismikro.xyz
 servodream.com
@@ -100590,6 +100607,7 @@ www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-b-asn.myonlineportal.ch
+www-cepte-de-tb.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-secrty-tb.myonlineportal.ch
@@ -103174,6 +103192,7 @@ yildizlardabuhafta1001.com
 yildizlarveteknolojikmedeniyetler.xyz
 yildizlibahceligunler.chickenkiller.com
 yildora-venkupali.lol
+yildora.live
 yildzkampnya-yeni.online
 yilgunturizmseyahatacentasi.com
 yilin-basinda-sepete-ekle.shop

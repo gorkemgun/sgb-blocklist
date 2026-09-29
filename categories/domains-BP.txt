@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259034
-# Last change: 2026-09-29 08:37:41 UTC (sync mode: delta)
+# Records: 259051
+# Last change: 2026-09-29 15:56:56 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2244,6 +2244,8 @@
 12155451555999899.xyz
 121586sssrdabs.xyz
 121firsatlar2313.com
+122048882008288.bounceme.net
+122048882008329.bounceme.net
 12211455441554555889890.xyz
 12211455441554555889892.xyz
 122121222222221.duckdns.org
@@ -2273,6 +2275,7 @@
 12256265665563222.net
 12256265665563233.info
 12256265665563233.xyz
+1227300299930.webredirect.org
 122864560.info
 122864560.xyz
 122864562.xyz
@@ -2380,6 +2383,7 @@
 125-855-65-98.cfd
 1251155665599091.xyz
 1251155665599092.xyz
+125122151251.duckdns.org
 125125121.click
 1251255455589990.xyz
 1251255455589992.xyz
@@ -2427,6 +2431,7 @@
 1275943-625463144-33443654.com
 127613231239.online
 1277.center
+1279199552030.duckdns.org
 128-218-192-168.shop
 128-7-7-1-7.com
 12838871784399.cloud
@@ -5702,6 +5707,7 @@
 24-hgs.glitch.me
 24-p-t-t-a-v-m.shop
 2400tl-basvuru-yap.com
+24124214124.duckdns.org
 2412491823.com
 24141241.com
 24151544326.com
@@ -30007,6 +30013,7 @@ avskirala.com
 avskirala.com.tr
 avskiralaaracmahizmet.com.tr
 avskiralama.online
+avskiralama.org
 avskiralama724.com
 avskiralamacarfirma.net
 avskiralamafilo.com
@@ -30014,6 +30021,7 @@ avskiralamafilo.online
 avskiralamakiralama.net
 avskiralikaraclar.com.tr
 avskiralikaraclar.xyz
+avskocrental.net
 avskurumsalkirala.com
 avsonline.net
 avsonlinee.xyz
@@ -106554,6 +106562,7 @@ guncelsikaytvar-tr-4.sbs
 guncelsikaytvar-tr-8.sbs
 guncelsikayyet.tk
 guncelsiparis19olusut.cloud
+guncelsistemgirisi.abrdns.com
 guncelsistemhaber.com
 guncelsistemler.lol
 guncelsite.website
@@ -122862,6 +122871,7 @@ hizlizhgsz.com
 hizliziraatgiris.com
 hizliziraatomlineislemler.com
 hizlizzmatkaptgc303.xyz
+hizlkmsorgu.web.app
 hizlli-hgs-yuklleme.epizy.com
 hizlli-islemler.shop
 hizllib-basvurru.com
@@ -135591,6 +135601,7 @@ istanbkdldm.com
 istanbkkls.net
 istanbklfirsat.net
 istanbklum.net
+istanblbelgimkart.xyz
 istanblcuma.net
 istanbldska.com
 istanblelrkserrer.net
@@ -169103,6 +169114,7 @@ norvexa.live
 norvionix.sbs
 norwayy.co
 nosidanosa.com
+nostrashop.xyz
 notableimpactimmenseobserve.com
 notablenephew.top
 notacicekcilik.com.tr
@@ -208988,6 +209000,7 @@ sonnnfrstlrrkmpnyaabsvrrr.info
 sonnnfrstlrrkmpnyaabsvrrr.online
 sonnnfrstlrrkmpnyaabsvrrr.pro
 sonnnfrtsltarrrrprmsynnkmpnya.pro
+sonnngnllrrmzartkk.duckdns.org
 sonnnnfrstkkkmpnyabsvrr.art
 sonnnnfrstkkkmpnyabsvrr.info
 sonnnnfrstkkkmpnyabsvrr.pro
@@ -216363,6 +216376,7 @@ tebcom-tr.my-homeip.de
 tebcomtrbayramkredinionayla.co.vu
 tebcomtrbayramkredinizonayda.co.vu
 tebcomtrkredibasvurulari.co.vu
+tebde-basvuru-cep.myonlineportal.ch
 tebde-cep-firsatin.net
 tebdecekilisvar.tk
 tebdecep.my-homeip.de
@@ -218300,6 +218314,7 @@ ticaret-paramguvende.gq
 ticaret-paramguvende.tk
 ticaret-sahibindenparamguvende-com.tk
 ticaret-sepetim.com
+ticaret-tr.online
 ticaret-yillik-duzenleme.com
 ticaretbakanligi.com
 ticaretbakanligi.fit
@@ -220742,6 +220757,7 @@ tr-alisveris-getislemler.online
 tr-alisveris-odeme.online
 tr-alisveris-param-guvende.online
 tr-alisveris-tr-webislemler.online
+tr-alisveris-webislemler-get.online
 tr-alisveris.com
 tr-alisveris.online
 tr-alisverisin.net
@@ -228792,6 +228808,7 @@ tvtkgncls.online
 tvtkrlleodemelibb.net
 tvtkrodeme.blogspot.com
 tvtr-karcmyne.net
+tvtr-randevu.web.app
 tvtrk-arxcmuayneservscnizxqfly.blogspot.com
 tvtrk-muayenwse-srkeeti.net
 tvtrk-randevu-online.com

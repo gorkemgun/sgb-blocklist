@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66013
-# Last change: 2026-09-29 08:37:41 UTC (sync mode: delta)
+# Records: 66014
+# Last change: 2026-09-29 15:56:56 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -62341,6 +62341,7 @@ www-anydesk.top
 www-basecamp.top
 www-bca-co-id.duckdns.org
 www-brave.top
+www-cf.com
 www-chase.top
 www-cimer-iadeprogrami-gov-tr.com
 www-cimer-onlineuygulama.com
