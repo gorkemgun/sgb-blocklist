@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104632
-# Last change: 2026-09-29 15:56:56 UTC (sync mode: delta)
+# Records: 104668
+# Last change: 2026-09-29 20:51:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -153,6 +153,7 @@
 10-temmuzkacmaz.com
 10-temmuzsabah.com
 10.bireyseldestek.xyz
+100000101001111.duckdns.org
 1000354057700012.cloud
 1000iphone.cfd
 1000tldestekk.com
@@ -204,6 +205,7 @@
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
 101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online
+101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
@@ -423,6 +425,7 @@
 11111128200049.bounceme.net
 1111112820004933.bounceme.net
 11111128830029.bounceme.net
+11112222244444.webredirect.org
 1111x1111.sbs
 11125455111.cloud
 11130059322882.webredirect.org
@@ -481,6 +484,7 @@
 1231x1x1.great-site.net
 12321323333.cloud
 12332111215.duckdns.org
+12333222244422.webredirect.org
 1234128041284321124321.cloud
 123456780.tk
 12351235.sa.com
@@ -593,6 +597,7 @@
 13247-icloud.com
 13267-coinbase.com
 1327.pro
+133213345665578555989899091.duckdns.org
 13395003852.duckdns.org
 13395003853321.duckdns.org
 1339500385355.duckdns.org
@@ -1426,6 +1431,7 @@
 24252.xyz
 242522512312122234.cloud
 2432401001.cloud
+24325555555555232.webredirect.org
 2451.basitdom.biz
 2451.domainclx.click
 2451.ezpizi.click
@@ -2022,6 +2028,7 @@
 48e78c95.hygth76y.com.cn
 48turtpp.top
 48vdaltiayerthzrn.store
+491464798648774.duckdns.org
 493f164e.ytji7uew.com.cn
 49494oop49x92.duckdns.org
 498caeerio.com
@@ -2700,6 +2707,7 @@
 85208520520520520520520.club
 853221-gmail.com
 854526542.cloud
+856346352.duckdns.org
 8569i21.cn
 85888884564564.cloud
 8589656226245.cloud
@@ -5044,6 +5052,7 @@ adsywfpl.acikdenizv2-mobilgirisdijital.com
 adtedlntagnism.top
 adulthoodexemption.top
 adulthoodpanoramic.top
+aduristeis.myonlineportal.ch
 adv-transdata.com
 advanceda.digital
 advancedaccess05wf.com
@@ -8570,6 +8579,7 @@ architecturewhereabouts.top
 architecueatrcity.top
 archiveexemption.top
 archivelegitimate.top
+archivosdigitalescol.myonlineportal.ch
 archlecher.com
 archmslrmxmjj.com
 archresist.top
@@ -8898,6 +8908,7 @@ artisticallysafeguard.top
 artisticallythorn.top
 artisticmaritime.top
 artistsavage.top
+artkkrodyykoovrrrr.duckdns.org
 artlimp.top
 artmbounded.lat
 artneytyokhazbabasendegelburda.click
@@ -10786,6 +10797,7 @@ babalarsozunututar.live
 babalartersospklarhavada.click
 babalayardim.com
 babanizwupts.net
+babanzgeldbbrqdaaa.duckdns.org
 babaonline.neveihaha.net
 babaskfasknw.duckdns.org
 babavalidiyorumya.online
@@ -12972,6 +12984,7 @@ bilfesvakfi.org
 bilfntacell.com
 bilgeliginyolu.com
 bilgelikdoluyaslar.com
+bilgi-cepte.online
 bilgi-devlet.com
 bilgi-home.club
 bilgi-islem.xyz
@@ -27293,6 +27306,7 @@ djvxqp04.eu1.hubspotlinksfree.com
 djwjheued89ewo.com
 dk-octoberkassa.com
 dk3ch3ncjskru8.cfd
+dkak-olience-bsvr.myonlineportal.ch
 dkan33garooremain.top
 dkatilim.com
 dkd8lve.cn
@@ -30206,6 +30220,7 @@ ekiminidirmi.in.nf
 ekiminkazanclarimorbidwsynxleartiyor.com
 ekiminkxmpanyalarigeldi.com
 ekimkapmanyasibasvurusu.tech
+ekimlerhosgeldin.store
 ekimmmmm.com
 ekipcheck.com.tr
 ekipportal.tr
@@ -40854,6 +40869,7 @@ haberler1235634122.sbs
 haberler1245321.shop
 haberler125421.sbs
 haberler1256236.shop
+haberler12564.sbs
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
@@ -40886,6 +40902,7 @@ haberler235342.com
 haberler2354123.shop
 haberler235423.sbs
 haberler2373432.shop
+haberler242312.sbs
 haberler242312313.sbs
 haberler2523432.sbs
 haberler264589.sbs
@@ -49065,6 +49082,7 @@ istanbulbegimlcan.com
 istanbulbelbim.vercel.app
 istanbulbelbimdesin.vercel.app
 istanbulbelggim.xyz
+istanbulbelggimkart.xyz
 istanbulbelggimkartcan.xyz
 istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
@@ -50690,6 +50708,7 @@ jodesanto.com
 joenovit.com
 joepanel.com
 jogpolytechnic.top
+johemenstsd.duckdns.org
 john-deer-apple-0c6f34d9c276.herokuapp.com
 johnmcafeebtc.net
 johnsoncontr0ls.com
@@ -51683,6 +51702,7 @@ kapidasepet101.com
 kapidasiparsn.click
 kapidastore.com-indirimlis.com
 kapidatemmuz.com.tr
+kapigr-erisim-katilim.myonlineportal.ch
 kapilarinizagetiriyorsna.com
 kapilarinizagetirsn1o1.com
 kapimda-geldi.com.tr
@@ -53819,6 +53839,7 @@ kookokookokookokokokokkoooo.site
 koolpandaz.com
 kooltukfasf.xyz
 kooperatif21.online
+kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
 kopasertgois.info
 kopekcik.art
@@ -59549,6 +59570,7 @@ merricakbank.com
 merrilswoler.life
 mersiniyilikor.net
 mersinturktelekom.com
+mertdanisma321.duckdns.org
 mertenemege.online
 merv34i43i2ds.wiki
 mervd12-af.space
@@ -65650,6 +65672,7 @@ ofisacenta.org.tr
 ofkarayolugecsonle.com
 ofkedoluptasiyorken.click
 ofredstyle.top
+ofs-l-istatistik.myonlineportal.ch
 oftenpuzzle.top
 oftentimessceptical.top
 oftentimessensation.top
@@ -66369,6 +66392,7 @@ onlinebrnnrctr-girisi.com
 onlinebsvrnpra.site
 onlinebuffalo.top
 onlinebydauto.com
+onlinecep-tr.online
 onlinecepte-firsatlar.shop
 onlinecfcu.com
 onlinecmpany.click
@@ -69406,6 +69430,7 @@ pazarama.ilan-havale.com
 pazarama.ilanda-sepetim-1099.com
 pazarama.ile-e-islemlerde.com.tr
 pazarama.ile-islemlerdeyim.com.tr
+pazarama.ile-sepet.com.tr
 pazarama.islemcepte.com
 pazarama.islemlerle.com.tr
 pazarama.jetsiparislerim.com
@@ -76746,6 +76771,7 @@ ruhsuzpanel1.site
 ruhsuzpanel1.website
 ruhsuzpanel2.site
 ruhsuzpanel2.website
+ruhsuzpanel3.website
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
@@ -77472,10 +77498,12 @@ sahibinden-getilan.sepetfirsat.online
 sahibinden-getilan.t-ilanhizmet.online
 sahibinden-getilan.tr-alisveris-e-islemlerim.online
 sahibinden-getilan.tr-alisveris-tr-webislemler.online
+sahibinden-getilan.tr-alisveris-web-getislemler.online
 sahibinden-getilan.tr-alisveris-webislemler-get.online
 sahibinden-getilan.tr-alisverisler-getislem.online
 sahibinden-getilan.tr-hizmet.online
 sahibinden-getilan.tr-web-islemler.online
+sahibinden-getilan.tr-webalisverisler-tr-getislemler.online
 sahibinden-getilan.tr-webislemler-tr-alisveris.online
 sahibinden-getilan.tr-webislemlerin-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-tr-get-alisveris.online
@@ -78530,6 +78558,7 @@ salarychant.top
 salbeniaqa.cfd
 salbenikampanya.org
 saldalibizker.online
+saldalibizker.sbs
 saldsaldsaldsadpoool.net
 salealert.vu
 saleba9.shop
@@ -81028,6 +81057,7 @@ shopsites.shop
 shopster.courses
 shopstore-tr.online
 shopsymbol.top
+shopta-tr.online
 shoptheos.link
 shoptr4.gpec-bd.org
 shoptr4.nice-ng.org
@@ -85262,6 +85292,7 @@ stoveglitter.top
 stoveglobalstovecampaigniswithyou.cloud
 stovewrench.top
 stparaguvende.servisbilgi-tr.online
+stpatlakbrdacalsm.duckdns.org
 str-x.com.tr
 stra21ightinherit.top
 strabellaparfumes.com
@@ -87660,6 +87691,7 @@ tbncuygulamasayfasinizz.com
 tbncuygulamasorgusayfasi.com
 tbncuygulamasorgusayfasitr.com
 tbpack.cn
+tbpromo.ccwu.cc
 tbtokyo.cc.cd
 tbtrkaskrs.net
 tbturkiye.com
@@ -90413,6 +90445,7 @@ toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
 toplu-konut.gravitycl.app
 toplu-konut.sbs
+toplubloklar.vercelserver.com
 toplukontlar500bin.com
 toplukonut-toki.gravitycl.app
 toplukonut.click
@@ -90934,6 +90967,7 @@ tr-web-g-net.my-homeip.com
 tr-web-giris-pages.net
 tr-web-portal.online
 tr-web-sayfamiz-e-ticaret-bak.net
+tr-webalisveris-tr-getislemler.online
 tr-webalisverisler-tr-getislemler.online
 tr-webislemlerim-getalisveris.online
 tr-website.site
@@ -91624,6 +91658,7 @@ trendy-ol.net
 trendy0l.com
 trendy0l.homes
 trendy0l.lol
+trendy0l1.homes
 trendy0l1.sbs
 trendy0l1.xyz
 trendy3.online
@@ -97601,6 +97636,7 @@ wadmeels.com
 wadswads22.com
 waelalshabani.com
 waemawmdawmafawma.blogspot.com
+wafsavar.xyz
 wagedebris.com
 wageeducate.top
 wageinsulation.top
