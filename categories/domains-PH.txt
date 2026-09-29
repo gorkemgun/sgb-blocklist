@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104600
-# Last change: 2026-09-29 02:01:41 UTC (sync mode: full)
+# Records: 104613
+# Last change: 2026-09-29 08:37:41 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -490,6 +490,7 @@
 123f5931.gfwisd-235.shop
 124124121.sbs
 124124124.duckdns.org
+124215151512.duckdns.org
 1243124234.store
 1244422115455455888899991.duckdns.org
 124451545544554888787990.duckdns.org
@@ -10896,6 +10897,7 @@ baharbahcesi.com
 baharbilisim.com
 baharfirsat.sa.com
 bahargeldia101kampanyassibasladi.xyz
+baharkampanyam.shop
 baharmarketdolum.online
 baharvakfi.com
 baharyankisi.com
@@ -41437,6 +41439,7 @@ hapsetmediscord.com.tr
 hapyyvilla.com
 harassmentheave.top
 harberdarolsendeherseydengelbasr.biz
+harberza.blog
 harbidenyesbibies.dpdns.org
 harbiodeme.net
 harbormain.top
@@ -43497,6 +43500,7 @@ hiro-wallet-eng.webflow.io
 hirrimebuka.sbs
 hirypoumue.info
 hisappraisal.top
+hisbuket.duckdns.org
 hisensedealers.co.ke
 hisepetrol.com
 hisler-sizinle-yaklasip-sade-rahatlik-verir.com
@@ -45268,6 +45272,7 @@ hzlicabzmlegcsnesnde.net
 hzlidabzlegcsnesnde.net
 hzlidauzmnlaypsnasende.net
 hzligcshgs.cfd
+hzligcslerinolsn.cfd
 hzligecsxrgulamalarrii.com
 hzliguvnlihizmet.net
 hzligvlivrgiodemexin.net
@@ -49051,6 +49056,7 @@ istanbulbegimlcan.com
 istanbulbelbim.vercel.app
 istanbulbelbimdesin.vercel.app
 istanbulbelggim.xyz
+istanbulbelggimkartcan.xyz
 istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.uk
@@ -49380,6 +49386,7 @@ istkarlanlasanadas.com
 istkarllt.blogspot.com
 istkarstl.com
 istkart.net
+istkartbasvlarinizzburada.store
 istkartbelgim3434.xyz
 istkartbelgimtr.xyz
 istkartbn.com
@@ -52329,6 +52336,7 @@ keint.net
 keint.org
 kek-technik.com
 kekecdanisman.com
+kekeevyahv2.duckdns.org
 kekelerarabayiyanastirir.click
 kekntsskart.net
 kekpanel.xyz
@@ -56066,6 +56074,7 @@ loaketurkiye.com
 loansnap.top
 loavetinet.store
 loawcan.net
+loayrexdru.top
 lobbyistbarometer.top
 lobbyistchamber.top
 lobbyistcosy.top
@@ -65727,6 +65736,7 @@ oktasession.com
 oktayreklamajansi.net
 okul.acildi.ho.sadhjefaksaf.click
 okul10gb.blogspot.com
+okuladonuskmp-101.com
 okuldestegim.com
 okulparam.com
 okumakguzel.com
@@ -88125,6 +88135,7 @@ tejjdjskss.nicepage.io
 tejjdjskssf.nicepage.io
 tek71voa.tw
 teka1o1.com
+tekbasvuru.abrdns.com
 tekbirlikfonu.com
 tekdoknstaevneglecek.com
 tekdokunus.club.gidatas.com
@@ -103607,6 +103618,8 @@ yucelvakfi.online
 yuchartophylax.life
 yuddum45323.dns.navy
 yudops.online
+yudumkampanya.online
+yudumkampanya.store
 yudummyum65.dns.navy
 yudumyumdu6.dns.navy
 yugosadgsagdgasd92sadh23s.click

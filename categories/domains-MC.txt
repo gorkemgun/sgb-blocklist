@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41443
-# Last change: 2026-09-29 02:01:41 UTC (sync mode: full)
+# Records: 41448
+# Last change: 2026-09-29 08:37:41 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -2302,8 +2302,10 @@ admi2fib4exit.com
 admicrosoft.com
 admin-desk.in
 admin.benefitsnotebook.com
+admin.chunhuating.best
 admin.fjbjwgyuyftg.qpon
 admin.niaotong2.top
+admin.rathat.live
 admin.xiongmaocs.help
 admin.xiongmaocs.mom
 admin.xiongmaocs.pics
@@ -5915,6 +5917,7 @@ black.hologramm.us
 black12z.zapto.org
 blackblake47.xyz
 blackblinkdagger.top
+blackcat880.shop
 blackeblast.run
 blackedition.one
 blackhatbrazil7.000webhostapp.com
@@ -7811,6 +7814,7 @@ chemise.ynastyqrique.net
 chemistry667.xyz
 cheneer.org
 cheng.win123888.com
+cheng770.cyou
 cherries46.xyz
 cherryberry.click
 cherryproxy.com
@@ -16447,6 +16451,7 @@ hehetx.io
 hehleslol.site
 hehs236.xyz
 heidhdjshskdhnd.xyz
+heilongyk.top
 heiparallel.xyz
 heirespect.xyz
 heismygod.duckdns.org
