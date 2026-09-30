@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104715
-# Last change: 2026-09-30 13:49:34 UTC (sync mode: delta)
+# Records: 104732
+# Last change: 2026-09-30 19:25:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -471,6 +471,7 @@
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
+1222233122455666512255991.xyz
 122562652500.xyz
 122562656334.info
 122562656478.info
@@ -5977,6 +5978,7 @@ aktarim-sorgula-ve-al.site
 aktarim-yapma-ekrani.site
 aktarimekranim.duckdns.org
 aktarimlariniz-online-olaark-basladi.site
+aktaring.online
 aktaring.space
 aktarm.space
 aktarsana.space
@@ -17616,6 +17618,7 @@ canoetrumpet.top
 canolaviewable.com
 canpost.id-89b98.com
 canrum.shop
+cans666843.site
 cansagligivakfi.aem.page
 cansagligivakfi.aem.reviews
 cansagligivakfi.barsy.online
@@ -40004,6 +40007,7 @@ guncelsikayetlerxs.com.pl
 guncelsikayetlerys.com.pl
 guncelsikayettler.sa.com
 guncelsiqqortateklif.pw
+guncelsistemgirisiniz.abrdns.com
 guncelsitmiz3d3.blogspot.com
 guncelslkayetapp.com.ru
 guncelslkayetsler.com
@@ -40910,6 +40914,7 @@ haberler16.website
 haberler163234.shop
 haberler1642432.shop
 haberler167523.sbs
+haberler18932.sbs
 haberler2025.tk
 haberler2153212.com
 haberler2223399.sbs
@@ -41375,6 +41380,7 @@ halktansikayetlervar.com
 halktanweb.blogspot.com
 halkttenuyarilarvar.tk
 halkvakfi.com
+halkyatirim-tr.info
 halkyilinkampanyasi.com
 hallaloosdvner.com
 hallevapration.top
@@ -53564,6 +53570,7 @@ kmxcgfder.shop
 kmxsorgu.online
 kmyenilmezi.xyz
 kmyikilmazi.xyz
+kmzsgsmdiza.web.app
 knankaradagg.shop
 knaveshu.net
 kndanglrbndensana.shop
@@ -53695,6 +53702,7 @@ koctupras.com
 kocturkiyesigorta.com.tr
 kodekso.de
 koduplay.com
+koefes.cc.cd
 koent.website
 kofalu.com
 kofestlerkest.duckdns.org
@@ -58805,6 +58813,7 @@ maxipara5000.cloud
 maxipara5500.cloud
 maxisccl.my
 maxisccla.lol
+maxisgsyatirim.com
 maxkirala.online
 maxkiralamahizmeti.online
 maxkiralamaoto.online
@@ -76442,6 +76451,7 @@ rndvvmerk.net
 rndvwxhkxmetiszile.net
 rndvzhudsmurebus.store
 rnews.culturalviscera.com
+rngdnnnnnn.xyz
 rngmedia.es
 rnicrosoft.com
 rnitsubishielectric.com
@@ -76525,6 +76535,7 @@ roledole.top
 rolepreoccupied.top
 rolexcheck.com.tr
 rolicka.fun
+rollcyrentacars.online
 rollenmetimur.duckdns.org
 rollercam12131.nicepage.io
 rolleyway.com
@@ -89804,6 +89815,7 @@ tkg-tapvrdvsunuz.org
 tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.net
 tkgg-edvtap-randvv.org
+tkgm.ink
 tkgmgov.weebly.com
 tkgms.com.tr
 tki-online-bsvr.cyou
@@ -98798,6 +98810,7 @@ webtebcebimde.com
 webtebdijitalhediyem.com
 webtechnocrat.com
 webtechpltf-tr.com
+webteislembbva.fun
 webtekaltin.com
 webtenucuzburada.net.tr
 webtenucuzburada.org.tr
@@ -99706,6 +99719,7 @@ wordpress-1555264-6030566.cloudwaysapps.com
 wordpress-1555264-6031614.cloudwaysapps.com
 wordpress-1558862-6044960.cloudwaysapps.com
 wordpress-1558862-6045062.cloudwaysapps.com
+wordpress-19c09.wasmer.app
 wordpress-214832-0.cloudclusters.net
 wordstep.top
 worexpack.com.tr
@@ -100693,11 +100707,14 @@ www-cepte-rat-outb.myonlineportal.ch
 www-cepte-secrty-tb.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-stor-syn.myonlineportal.ch
+www-cepte-tb-result.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-tvb-right.myonlineportal.ch
+www-cepte-vsync-ac.myonlineportal.ch
 www-cepte-wb-tb.myonlineportal.ch
 www-ceptekapida-marketin.com
+www-ceptetb-repstr.myonlineportal.ch
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-promosyon.my-homeip.de

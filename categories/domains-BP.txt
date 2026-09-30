@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259086
-# Last change: 2026-09-30 13:49:34 UTC (sync mode: delta)
+# Records: 259094
+# Last change: 2026-09-30 19:25:57 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2015,6 +2015,7 @@
 11111100111111.xyz
 11111111-8528-87458-8548525-74125.com.tr
 11111111-8528-87458-8548525-74125.cyou
+11111111111100993.webredirect.org
 111111111111111111.loseyourip.com
 111111111111111332.webredirect.org
 111111111111rr-wq-ge-e-e-e-eerqewq-eqw-eqweqwsda.sbs
@@ -2435,6 +2436,7 @@
 1275943-625463144-33443654.com
 127613231239.online
 1277.center
+127919552784050.webredirect.org
 1279199552030.duckdns.org
 128-218-192-168.shop
 128-7-7-1-7.com
@@ -136228,6 +136230,7 @@ istanbullbakiyecisi.net
 istanbullbakiyesillik.net
 istanbullbelggimm.xyz
 istanbullbelgiimkart.xyz
+istanbullbelgimkartt.xyz
 istanbullbelgimmkart.xyz
 istanbullbellggimmm.xyz
 istanbullbellgiimkartt.xyz
@@ -149016,6 +149019,7 @@ kilometresorgulayix.web.app
 kilometresorgulayn.duckdns.org
 kilometresorgulmaachp.xyz
 kilometresorgumadan.web.app
+kilometresorgumerkezi.web.app
 kilometresorgumetresi.web.app
 kilometresorgumuzs.web.app
 kilometresorgumyeri.web.app
@@ -150461,6 +150465,7 @@ kmpnyaabasvrrruprmsynnn.pro
 kmpnyaabasvrrsonfirstlarrr.pro
 kmpnyaabasvrurrprsmynn9328317.online
 kmpnyaabasvrurrprsmynn9328317.pro
+kmpnyaabasvurrpsmynn478596.info
 kmpnyaabsvrpromosynnnn.info
 kmpnyaabsvrpromosynnnn.live
 kmpnyaabsvrr12531.pro
@@ -209505,6 +209510,7 @@ sorgupanel1.name.tr
 sorgupanelciniz.com.tr
 sorgupanelhizli.site
 sorgupaneli.best
+sorgupaneli.boats
 sorgupaneli.fun
 sorgupaneli.info
 sorgupaneli.ph
@@ -237322,6 +237328,7 @@ web-sg-hosting.com
 web-sgetsahibinden.com
 web-sinirsiz-hizmet-globalle.net
 web-sinirsiz-islemlerim.net
+web-siparis-olusturma.sbs
 web-siparis-ver.sbs
 web-siparisleriniz.com
 web-sistem-guvenli-basvuru-izeleme-e-giris-kart-aidati.xyz
@@ -240125,6 +240132,7 @@ www-cbaskanligi-iade.com
 www-cebinde-aktuel-market.com
 www-cebinde-aktuel-market.online
 www-cebinde-aktuel-market.xyz
+www-cebte-tvb-ony.myonlineportal.ch
 www-cekilis-anketi-finansbank-com.tk
 www-cekilis-iphone-teb.net
 www-cekilis-qnbfinansbank.tk

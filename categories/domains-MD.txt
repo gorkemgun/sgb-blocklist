@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66014
-# Last change: 2026-09-29 15:56:56 UTC (sync mode: delta)
+# Records: 66029
+# Last change: 2026-09-30 19:25:57 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8510,6 +8510,7 @@ adsmorein.in
 adsmoreme.in
 adsports.in
 adsupporteam108378264.duckdns.org
+adswre.cfd
 adsx.greystripe.com
 adtiomtardecessd.zapto.org
 adtogroups.com
@@ -13981,6 +13982,7 @@ bp6ue9x.duckdns.org
 bpbbzywvzp.duckdns.org
 bpbrfectchoice1.com
 bpcgovyoyo.com
+bpdaersa.click
 bpecuniaimmobili.info
 bpecuniaimmobili.online
 bpecuniaimmobili.xyz
@@ -14670,6 +14672,7 @@ bytlyitxz.info
 bytomasedaca.icu
 byufaz71.duckdns.org
 byutrofczx.duckdns.org
+byveo.org
 byvjodpabt.duckdns.org
 byvrfbyyvv.duckdns.org
 byvvtqffbz.duckdns.org
@@ -18572,6 +18575,7 @@ cyqwqwqwqwq1589.ddns.net
 cyqwxndchv.duckdns.org
 cyraxonfire.ddns.net
 cyrc.duckdns.org
+cyrna.top
 cyrt.amoltran.com
 cyspatosnk.duckdns.org
 cythenrat.duckdns.org
@@ -20193,6 +20197,7 @@ diufqgdbdo.duckdns.org
 diujungjalan.duckdns.org
 divan-vrn.narod.ru
 divdnkkikc.duckdns.org
+divekickspolic.org
 divert64.hopto.org
 dividesby0.zapto.org
 divineart.dyndns.org
@@ -20823,6 +20828,7 @@ drama.gvardiano.ru
 dramaspoolcoa.com
 dramzx69.ddns.net
 drang.zapto.org
+drasw.club
 drbtbana2015.zapto.org
 drcano.es
 drdigitalmd.com
@@ -22915,6 +22921,7 @@ ethernetservice.ddns.net
 ethersmine.com
 ethical.zapto.org
 ethnyerqhxeeeklkxow.me
+etia.ca
 etidor.es
 etifjdjdjcxx.xyz
 etiog1wp.duckdns.org
@@ -26434,6 +26441,7 @@ glfau9.duckdns.org
 glflggiqaa.duckdns.org
 glhrbewyhk.duckdns.org
 glide.smshero.cc
+gliderrompercycl.com
 gliizee.hopto.org
 glikjdkldp.duckdns.org
 glitchygaming.com
@@ -27132,6 +27140,7 @@ groupviralanaksma24.duckdns.org
 grove-12.com
 grove-satin.com
 growhth.com
+groy.cc
 grp08gw.duckdns.org
 grpoq.duckdns.org
 grpsr.zapto.org
@@ -27277,6 +27286,7 @@ gu36aja2.duckdns.org
 gu3st-x.zapto.org
 gu9c10w.duckdns.org
 guabonoshaexko.ddns.net
+guach.net
 guaiskaoldmin.ddns.net
 guarantee-team.com
 guardia.us
@@ -37340,6 +37350,7 @@ mathiasjinxx.ddns.net
 mathius.ddns.net
 mativa.ddns.net
 matj9p8.duckdns.org
+matjk.click
 matkapdark.duckdns.org
 matraca.cc
 matrix123.ddns.net
@@ -39692,6 +39703,7 @@ mutlaka20gbnetkazan.com
 mutluluklazim.com
 muugkvteut.duckdns.org
 muul.hopto.org
+muvb.net
 muvioucewg.duckdns.org
 muvmhecxyu.duckdns.org
 muwirkz.duckdns.org
@@ -47194,6 +47206,7 @@ quitthebullshit.duckdns.org
 quizcentral.co.in
 quizcentral.co.za
 qukypvyzuw.duckdns.org
+qumel.link
 quo0av.duckdns.org
 quodepiscopis.com
 quoqacihahudn.ddns.net
@@ -49270,6 +49283,7 @@ rust-play.ru
 rusthost.hopto.org
 rustoff.ddns.net
 rut352.duckdns.org
+ruten.observer
 ruthettitut.com
 ruthie30qbknowsfq.hopto.org
 ruths-brownies.com
@@ -50485,6 +50499,7 @@ secure-connect3.ddns.net
 secure-connect9.ddns.net
 secure-connectinfo2.ddns.net
 secure-department.zapto.org
+secure-dns-hub.com
 secure-eredirect3.ddns.net
 secure-host0777.ddns.net
 secure-id.hopto.org
