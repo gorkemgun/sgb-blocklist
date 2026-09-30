@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104677
-# Last change: 2026-09-30 00:31:52 UTC (sync mode: delta)
+# Records: 104687
+# Last change: 2026-09-30 06:47:32 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18274,6 +18274,7 @@ caycial.online
 caydanlikburada.vercel.app
 caydanlikburda.vercel.app
 caydanlikkampholding.com
+caydemligi.online
 cayeconstruction.com
 cayfirsatialtili.com
 caykur.online
@@ -31831,6 +31832,7 @@ esorgu.xyz
 esorguceza.com
 esorgudetay.com
 esorgugib.com
+esorguhazine.org
 esorguhukuk.org
 esorgulama.org
 esorgumali.org
@@ -39220,6 +39222,7 @@ gratis-tr.craftyhour.com
 gratis-tr.doordk.com
 gratis-tr.obliqueprism.com
 gratis-tr.rataforo.com
+gratis-tr.sendreward.com
 gratis-tr.sophiemaslowski.com
 gratis.anointedacres.com
 gratis.ask4tree.com
@@ -43817,6 +43820,7 @@ hizliislembilgi.com
 hizliislemealdk.click
 hizliislemler.duckdns.org
 hizliislemleriniz.arabamuayenesi.xyz
+hizliislemlerr.art
 hizliislemyapin.com
 hizliizltslarbrada.xyz
 hizliizmirimkart.net
@@ -44118,6 +44122,7 @@ hmnasantasns.net
 hmnbasvrkrdgrnt.lol
 hmnbnlaraglsnde.com
 hmnbsvr.site
+hmnbsvranlk.art
 hmnebasvurtyap.co.vu
 hmneislemnktasi.net
 hmnenislemnoktas.net
@@ -49101,6 +49106,7 @@ istanbulbelgimmkarttt.xyz
 istanbulbelgimonline.xyz
 istanbulbelgimrandevutr.xyz
 istanbulbelgimrandevutrkart.xyz
+istanbulbelimkart.xyz
 istanbulbellgiimmm.xyz
 istanbulbelrlgim.xyz
 istanbulbenim3434.xyz
@@ -63761,6 +63767,7 @@ nj7y1tk.cn
 njasdkwksdlsdk.net
 njbhjkab.top
 njcqnd.buzz
+njdafbhfbwehjasjkg.duckdns.org
 njdnwjknsbv.net
 njecil.top
 njenwjksmbs.net
@@ -75616,6 +75623,7 @@ requirementmelodious.top
 requirementmute.top
 requirementyawn.top
 requirmentn.top
+rerrasnahfd.blogspot.com
 resalerugby.com
 resalerugby2023.com
 rescindment.com
@@ -83077,6 +83085,7 @@ solitudeindulge.top
 solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
+soljmarlktlr.calilncenmaknlr.sbs
 solkmarlektler.shop
 solkmlrkatler.com
 solktanmarketler.shop
@@ -86291,6 +86300,7 @@ svdlaryrklerdens.xyz
 svdlrdabgnlrdsbz.shop
 svdlyrklerdenbyzsrgn.lol
 svdlyrklerdenbyzsrtg.duckdns.org
+svdlyrklerdenbyzzzz.duckdns.org
 sveeigtysrsive.top
 svetlana-zaharova.com
 svglilryntc.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 472300
-# Last change: 2026-09-30 00:31:52 UTC (sync mode: delta)
+# Records: 472310
+# Last change: 2026-09-30 06:47:32 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -97649,6 +97649,7 @@ caydanlikburada.vercel.app
 caydanlikburda.vercel.app
 caydanlikkampholding.com
 caydanlikyenikampanya.com.tr
+caydemligi.online
 cayeconstruction.com
 cayenasserver.duckdns.org
 cayfirsatialtili.com
@@ -156015,6 +156016,7 @@ esorguceza.com
 esorgudetay.com
 esorgugib.com
 esorgugov.org
+esorguhazine.org
 esorguhukuk.org
 esorguiadeleriaidat.ml
 esorgula.com
@@ -187461,6 +187463,7 @@ gratis-tr.empordafibra.com
 gratis-tr.obliqueprism.com
 gratis-tr.optosupply.com
 gratis-tr.rataforo.com
+gratis-tr.sendreward.com
 gratis-tr.sophiemaslowski.com
 gratis-tr.wikaba.com
 gratis-turk.duckdns.org
@@ -212094,6 +212097,7 @@ hizliislemlerinizburda.shop
 hizliislemleristevar.com
 hizliislemlerleixmr.net
 hizliislemlermerkezi.ml
+hizliislemlerr.art
 hizliislemlerr.de
 hizliislemlerx.com
 hizliislemlerxas.com
@@ -213962,6 +213966,7 @@ hmnbnlaraglsnde.com
 hmnbrldmsnzsageln.com
 hmnbss.pages.dev
 hmnbsvr.site
+hmnbsvranlk.art
 hmnbsvrsnde.art
 hmndsvyxonbn.me.uk
 hmnebasvurtyap.co.vu
@@ -235588,6 +235593,7 @@ istanbulbelgimonline.xyz
 istanbulbelgimrandevu.xyz
 istanbulbelgimrandevutr.xyz
 istanbulbelgimrandevutrkart.xyz
+istanbulbelimkart.xyz
 istanbulbellggiimm.xyz
 istanbulbellggimm.xyz
 istanbulbellgiimkartt.xyz
@@ -299978,6 +299984,7 @@ njc21n-vi8z47-jaatcom822-eb36cf51.koyeb.app
 njcheck.ddns.net
 njcqnd.buzz
 njd.ddns.net
+njdafbhfbwehjasjkg.duckdns.org
 njdiscrim.com
 njdkpbomrl.duckdns.org
 njdnwjknsbv.net
@@ -348403,6 +348410,7 @@ rerhgss.com
 rerhgz.com
 rerimtbtow.duckdns.org
 rermtra.xyz
+rerrasnahfd.blogspot.com
 res-gar.online
 res.babala.sa.com
 res.qiqigece.top
@@ -378037,6 +378045,7 @@ solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
 solivra.work
+soljmarlktlr.calilncenmaknlr.sbs
 solkampanyavefirsatlar.site
 solkmarlektler.shop
 solkmlrkatler.com
@@ -389316,6 +389325,7 @@ svdlyrklerdenbyzsrgn.lol
 svdlyrklerdenbyzsrgn.shop
 svdlyrklerdenbyzsrgn.xyz
 svdlyrklerdenbyzsrtg.duckdns.org
+svdlyrklerdenbyzzzz.duckdns.org
 svdlyrklrdbyzsrgnsass.sbs
 svdmq.com
 svdnbrdangldkbrda.icu
