@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104732
-# Last change: 2026-09-30 19:25:57 UTC (sync mode: delta)
+# Records: 104752
+# Last change: 2026-09-30 23:54:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1621,6 +1621,7 @@
 3.fazpandemidestekyardimi.unaux.com
 301link.click
 3021.unsisany.live
+30292020020202.webredirect.org
 303030kkkd.nicepage.io
 309.nestarwell.live
 30agustos-sabah.art
@@ -1953,6 +1954,7 @@
 43078387444.net
 4320tlaidatiadekart.net
 43243234343.cloud
+4324qww212.com
 43259083084573285.sbs
 433226513.cloud
 433232322323.cloud
@@ -2022,6 +2024,7 @@
 475574321.cfd
 47562-coinbase.com
 47859632prmsynnbsvrrkmpnyyyy.online
+47859632prmsynnbsvrrkmpnyyyy.pro
 47962.adistu.ro
 482901v-coinbase.com
 48512365482451615.duckdns.org
@@ -4839,6 +4842,7 @@ adffew.top
 adflowza.sbs
 adfs.dzkk.tsk.report
 adfsdfasf.duckdns.org
+adfsfdsfa.duckdns.org
 adgiadgiadgiadgiadgi.cfd
 adgsq3g3gasdg.com
 adhanlink.com
@@ -10859,6 +10863,7 @@ badanie-pl.site
 badcarloan.com
 bademamcakim.lol
 bademamcakim.xyz
+bademamcanereli.lol
 badge-apply-free.surge.sh
 badgeduty.top
 badhotelrockanje.world
@@ -33220,6 +33225,7 @@ eylul-burada.biz.tr
 eylul-burada.org.tr
 eylul-en-iyi-katalog.shop
 eylul-geldi-sonra.xyz
+eylul-izeltassepet.dnsup.net
 eylul2022binance.ml
 eylul27firsatsizinle101.icu
 eylulayfirsatlariii.xyz
@@ -49920,6 +49926,7 @@ izelgececic.dns.navy
 izelgnnnn.blogspot.com
 izelgqsg.dns.navy
 izelkqrwq.blogspot.com
+izellltasseylul.blogspot.com
 izeltas-online.dnsup.net
 izeltas-onlinex.dnsup.net
 izeltasalmak.xyz
@@ -51782,6 +51789,8 @@ kapitalined.cfd
 kapitalix.capital
 kapitall.space
 kapiya-yonlendin.shop
+kaplumbaga-satin-al.myshopify.com
+kaplumbagaci.com
 kapmanyalaryinebitmiyor.shop
 kapndaonlne-2023.online
 kaporie.com
@@ -60095,6 +60104,7 @@ mhsraaggwa.sbs
 mhsraaggwa.site
 mhsraaggwb.site
 mhsraaggwd.site
+mhsraca.cfd
 mhsrarandvlrmzbrda.sbs
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -88110,6 +88120,7 @@ tebefsykh.abrdns.com
 tebfinansfx.com
 tebhediye-basvuru-iphone2022.net
 tebicinbasvuru.my-homeip.de
+tebli-cepte-mobile.myonlineportal.ch
 tebligbayi.com
 tebligceza.com
 tebpageinternet.my-homeip.com
@@ -96116,6 +96127,7 @@ verbalindict.top
 verbalmilitancy.top
 verbfurious.cn
 verbinfrastructure.top
+vercelserver.com
 verchmnexowkrm.com.tr
 verchzlyesba.com.tr
 verdansong.online
@@ -98047,6 +98059,7 @@ web-muvaffakiyet-tr.xyz
 web-mynsntvk.net
 web-mysntvk.net
 web-newton-ca.webflow.io
+web-online-kampanya.sbs
 web-orpin-xi.vercel.app
 web-outlook-d298bc.webflow.io
 web-pages-dijital.one
@@ -98067,6 +98080,7 @@ web-randevum.com
 web-sayfagiriskismi.me
 web-shop-tr.online
 web-siparis-kampanya.sbs
+web-siparis-online.sbs
 web-sipariskampanya.sbs
 web-siparisler.com
 web-siparislerim.sbs
@@ -98442,6 +98456,7 @@ webgirismobil.de
 webgirisxxdgovtr.club
 webgirisxxdgovtr.org
 webglobalinsankaynaklari.com
+webgrntikrdiislemler.info
 webguzelgunler-finansda.com
 webhalktabayramfirsatlari-com.tk
 webhayatdenizsubesinde.com
@@ -100666,6 +100681,7 @@ www-a101.online
 www-a101.xyz
 www-a1o1-tic.online
 www-aa-com-trx.blogspot.com
+www-ac-cepte-tb.myonlineportal.ch
 www-admin-logo.webflow.io
 www-aidat-sistemi-edevlet.ml
 www-aktue-a-101-tr.online
@@ -100700,8 +100716,10 @@ www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-b-asn.myonlineportal.ch
+www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
+www-cepte-on-tb.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-rat-outb.myonlineportal.ch
 www-cepte-secrty-tb.myonlineportal.ch
@@ -103450,6 +103468,7 @@ ynlendiriyonuzzknkk.duckdns.org
 ynlndirckinmecnmsnsnbnm.duckdns.org
 ynlndirmdsnsormakdnk.duckdns.org
 ynlndr-smdi.shop
+ynlndr.xyz
 ynlyrzbrdanorygldnbs.bond
 ynniie-xonllinexmrkkt.net.tr
 ynniie-xonllinexsamrkkt.net.tr
@@ -103740,6 +103759,7 @@ yudops.online
 yudumkampanya.online
 yudumkampanya.store
 yudummyum65.dns.navy
+yudumtoptan.site
 yudumyumdu6.dns.navy
 yugosadgsagdgasd92sadh23s.click
 yuhiguhajusi.store
