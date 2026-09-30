@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104668
-# Last change: 2026-09-29 20:51:45 UTC (sync mode: delta)
+# Records: 104677
+# Last change: 2026-09-30 00:31:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -598,6 +598,7 @@
 13267-coinbase.com
 1327.pro
 133213345665578555989899091.duckdns.org
+133213345665578555989899092.duckdns.org
 13395003852.duckdns.org
 13395003853321.duckdns.org
 1339500385355.duckdns.org
@@ -1969,6 +1970,7 @@
 44-204-107-53.plesk.page
 442.44de22ew.click
 44443586244.cloud
+4444400123.duckdns.org
 44444004040004.cloud
 44444321.sbs
 444453564454.cloud
@@ -38828,6 +38830,7 @@ gopbisiklet.org
 gopeconst.com
 gopen.loveslife.biz
 gopractic.digital
+goprizva.com
 gopromotions.mx
 gopshop.shop
 gor-lng-vbt.my-homeip.net
@@ -85175,6 +85178,7 @@ stok100aldinaldin.com
 stok100kampanyaaldinn.com
 stok50aktuelsipris.cfd
 stok50aktuelsipris.sbs
+stoklaribitiriyoruzsondusus.sbs
 stoklartukeniyor.site
 stoklusiparislerin.xyz
 stokremelvou.xyz
@@ -86394,6 +86398,7 @@ switchmetaphorial.top
 switchnutrition.top
 switchpoint.top
 switmobnzaswetrak.net
+switzel.com
 swordglamor.top
 swqlink.net
 swsfsadfas.net
@@ -92633,6 +92638,7 @@ ttavskoc.com
 ttcbccuygulamasi.com
 ttccckk.duckdns.org
 ttclid.lol
+ttdenkampanyalarbasladi.site
 tteebbaassvvuurruu.cfd
 tteebbmmoobiill.com
 tteknosa.com
@@ -100646,12 +100652,14 @@ www-cepte-b-asn.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
+www-cepte-rat-outb.myonlineportal.ch
 www-cepte-secrty-tb.myonlineportal.ch
 www-cepte-smdi.myonlineportal.ch
 www-cepte-stor-syn.myonlineportal.ch
 www-cepte-tb-story.myonlineportal.ch
 www-cepte-teb-work.myonlineportal.ch
 www-cepte-tvb-right.myonlineportal.ch
+www-cepte-wb-tb.myonlineportal.ch
 www-ceptekapida-marketin.com
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
@@ -103526,6 +103534,7 @@ yoncayardim.com
 yonebal.com
 yonelen-zaman.click
 yonelsa.com
+yonelttir.live
 yonetimphoenixmt2.xyz
 yonfilokiralama.com
 yongyouwexian.top
