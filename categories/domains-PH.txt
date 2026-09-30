@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104687
-# Last change: 2026-09-30 06:47:32 UTC (sync mode: full)
+# Records: 104715
+# Last change: 2026-09-30 13:49:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -271,6 +271,7 @@
 101-sadece-bugune-ozel-online-alisveris-cep-indirimleri-tr.shopstore-tr.online
 101-sadece-bugune-ozel-online-alisveris-sepet-indirimleri-tr.sepetgo.online
 101-sadece-bugune-ozel-online-extra-indirim-tr.sepetextra.online
+101-sadece-bugune-ozel-online-indirim-alisveris-sepeti-tr.bilgishop.online
 101-sadece-bugune-ozel-online-mobil-indirim-sepeti-alisveris-tr.sepet-net.online
 101-sadece-mobil-ozel-extra-alisveris-sepet-indirimleri-tr.webstores-tr.online
 101-sadece-online-ozel-extra-mobil-sepeti-tr.blog-web.online
@@ -1549,6 +1550,7 @@
 296587onlineekmpnybsvrrprmsynn.info
 296587onlineekmpnybsvrrprmsynn.pro
 298193-coinbase.com
+298863298728.moy.su
 299-91-21-1.ga
 29c02a5b-e.b-cdn.net
 29eyluldesiparisleri.cloud
@@ -1703,6 +1705,7 @@
 33558854455500552366.cloud
 3386f734.ieybfs7j447b.org.cn
 33eq8.oquvzop.es
+33vvv444.site
 34-tramer.org
 3401e2b9.dsfiurb-u.shop
 34070675484.org
@@ -3819,6 +3822,8 @@ a1o1onlineozelkampanyas.net
 a1o1onlinesadeconlin1d.blogdns.com
 a1o1reklamlariharcha.ddnsfree.com
 a1o1sadeceonlineee.shop
+a1o1sarkuterifirsatlarinizburadaa.com
+a1o1sarkuterifirsatlarinizburadaa.site
 a1o1sepet.net
 a1o1sonkampanyalaricom.shop
 a1o1t.com
@@ -4980,6 +4985,7 @@ admittedlyradiator.top
 admittedlyssion.top
 adneu.66ghz.com
 adobe-8dt.ishaan-zvi-dropmeon-com-s-account.workers.dev
+adobe-document-file-project-view.blogspot.com
 adobe-t9r.thomas-gibson-clyde-enq-com-s-account.workers.dev
 adobepdfonlinereadercaptcharobot.netlify.app
 adocanlalogg.blogspot.com
@@ -5984,6 +5990,8 @@ aktelfrtlar.duckdns.org
 aktellxmrrktn-ynifirsstllrinda.net
 aktfbnsdyrulari.com
 aktfbnsgirisleri.com
+aktfburd.shop
+aktfburda.sbs
 aktfeyxlulxdrmxlrm.com.tr
 aktiel.agustocuma.com
 aktiel.aktuelpersembefirsatlari.com
@@ -9157,6 +9165,7 @@ askdmlsla.click
 askdubious.top
 askercumhurbaskaniadayi.com
 askeskibiryalan.net
+askfaskgasogasg.blogspot.com
 aski-ala.com
 askidacadiribdirimi.com.tr
 askimbutik.fun
@@ -17347,6 +17356,7 @@ cahide1453rezerve.online
 cahidepalazomaslakk.com
 cahidepalazzo-rezervasyon.com
 cahidepalazzo.click
+cahidepalazzo.online
 cahidepalazzo.website
 cahidepalazzo.xyz
 cahidepalazzomaslak.net
@@ -30069,7 +30079,9 @@ egypthelp.online
 egyptivo.com
 ehadysvbassa.com
 ehazinedava.com
+ehazinedosya.com
 ehazinegirisi12322.ga
+ehazinesorgu.com
 ehazinetcbmtrgirisi634.tk
 ehazinetcbmtrgovtr1221.tk
 ehazinetrtriade21.tk
@@ -30487,6 +30499,7 @@ elitbursvakfi.com
 elitegaming-usa.com
 eliteregi.digital
 elitgsm.com
+elitryk.com
 elizcicekcilik.com
 elka-kremlin.ru
 elki-tickets.ru
@@ -31467,6 +31480,7 @@ enyi-mrkttfristllriyla.net.tr
 enyi-mzrkttfristllriyla.xyz
 enynani-aktllmrdkxfrstlir.net.tr
 enynni-aktllmrkxfrstlir.net
+enysibrdahmnalsmdal.cfd
 eobibery.com
 eodemearaci.app
 eokul-meb.com
@@ -31832,6 +31846,7 @@ esorgu.xyz
 esorguceza.com
 esorgudetay.com
 esorgugib.com
+esorguhazine.com
 esorguhazine.org
 esorguhukuk.org
 esorgulama.org
@@ -39224,6 +39239,7 @@ gratis-tr.obliqueprism.com
 gratis-tr.rataforo.com
 gratis-tr.sendreward.com
 gratis-tr.sophiemaslowski.com
+gratis.adblickgranos.com
 gratis.anointedacres.com
 gratis.ask4tree.com
 gratis.benmook.com
@@ -47455,6 +47471,7 @@ indirimmediamarkt.com
 indirimpaketi.com.tr
 indirimrehberi.sbs
 indirimrush.xyz
+indirimsaati.online
 indirimsepeti.sbs
 indirimsepetii.com
 indirimsepetinde.com
@@ -49092,6 +49109,7 @@ istanbulbelbimdesin.vercel.app
 istanbulbelggim.xyz
 istanbulbelggimkart.xyz
 istanbulbelggimkartcan.xyz
+istanbulbelggm.xyz
 istanbulbelgiimkart.xyz
 istanbulbelgiimmmcann.xyz
 istanbulbelgim.uk
@@ -53990,6 +54008,7 @@ kralgeridonduwsynxrandevuburadanalinir.com
 kralhaber.club
 kralhaber.xyz
 kralibiziz.net
+kralinkizi.duckdns.org
 kralinkraligelsedusurmaez.com
 krallaar.click
 krallarinkralii.duckdns.org
@@ -54259,6 +54278,7 @@ krontoroplastoraforti.net
 krostel.best
 krowileparalarikatla.xyz
 krrakenelogin.webflow.io
+krs-izeltas.dnsup.net
 krscarkiralama.com
 krskarena.com
 krskfilarmonia.com
@@ -61548,6 +61568,7 @@ moxon.sa.com
 moybirs.com
 moydovv.com
 mozilla--org---com.webflow.io
+mozvento.com
 mparibasvurudestek.com
 mplicitstanc.top
 mposear.top
@@ -63816,6 +63837,7 @@ nlnlnknmknmkn.sbs
 nlreodnv.net
 nlsmdldndlh.net
 nlsustrvslostra.com
+nltalklmatar.net
 nltalnakmama.net
 nltalntalnal.net
 nltaman.net
@@ -64000,6 +64022,7 @@ nopanel-087462.top
 nopanel-348252.click
 nopanel-363563.top
 nopanel-36672.top
+nopanel-37472.top
 nopanel-440001.top
 nopanel-453465.top
 nopanel-564732.top
@@ -65447,6 +65470,7 @@ odeme-ilanim-48774.com
 odeme-ilanim-48775.com
 odeme-ilanim-48776.com
 odeme-istemcisi.com
+odeme-onay-1281.com
 odeme-paranguvende.net
 odeme-sahibinden.com
 odeme-sanal-101basvuru.com
@@ -77118,6 +77142,7 @@ sabirtgiriz2026.com
 sabit-internetbasvurusu.net
 sabitgecislerim.tires
 sabitgecisleriniz.live
+sabitgilni2026.com
 sabitgirsisz2026.com
 sabitgirsiz2026.com
 sabitgirsizi2026.com
@@ -78264,6 +78289,7 @@ sahibinden63.com
 sahibinden7-24paramguvende-com.tk
 sahibindenalisveris.trguvenliodeme.sa.com
 sahibindenalisverisplatformu-paramguvendebusiness.com
+sahibindencom.ileservishizmetleri.com
 sahibindenden.com
 sahibindendogrulama.com
 sahibindeneguven.xyz
@@ -87524,6 +87550,7 @@ tarihist.app
 tarihrandab.net
 tarihsizvalibaba.duckdns.org
 tarimarketcep.cfd
+tarimbirlikmarket.com
 tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
 tarimkooperatifmarkette.cfd
@@ -103678,6 +103705,7 @@ ytkslmashnyhhamalklnsbbdgnlka18965.store
 ytm-pltfzone.com
 ytm-trdinvest.com
 ytodaktirgarage34.duckdns.org
+ytrrrartkkkuzymynnbnn.duckdns.org
 ytrsdsndsn-ytrseresrsr.com
 ytuf2r.cn
 ytunrtyndfgwe.click

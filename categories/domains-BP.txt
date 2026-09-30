@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259060
-# Last change: 2026-09-30 00:31:52 UTC (sync mode: delta)
+# Records: 259086
+# Last change: 2026-09-30 13:49:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -838,6 +838,7 @@
 101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online
 101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online
 101-extra-ozel-online-siparis-bugune-ozel.mooo.com
+101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte.extraplus-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop-mobil-cep.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-tr.shops-bilgi.online
 101-extra-sadece-bugune-ozel-indirim-shop-sepet-indirimi-tr.buy-tr.online
@@ -1039,6 +1040,7 @@
 101.temmuzuygun.com
 101.webredirect.org
 10100002026.duckdns.org
+1010010000020045.webredirect.org
 101001010100001.cloud
 101001011-11.cloud
 10100123232.cloud
@@ -2014,6 +2016,7 @@
 11111111-8528-87458-8548525-74125.com.tr
 11111111-8528-87458-8548525-74125.cyou
 111111111111111111.loseyourip.com
+111111111111111332.webredirect.org
 111111111111rr-wq-ge-e-e-e-eerqewq-eqw-eqweqwsda.sbs
 11111122222222233333333333.duckdns.org
 1111112541112.bounceme.net
@@ -2423,6 +2426,7 @@
 126-62777-1.com
 126003.duckdns.org
 12652323.com
+1267125.xyz
 126743432434.cloud
 12679437658.top
 12694.cloud
@@ -2570,6 +2574,7 @@
 132ekxttrr-amrktstindnrmllrinde.xyz
 132xkacskldc213x12.cfd
 132xkacskldc213x12.shop
+133213345665578555989899093.duckdns.org
 133cfsrart.xyz
 134-baosvurularim.dvrlists.com
 134-baosvurulariw.dvrlists.com
@@ -7839,6 +7844,7 @@
 493-basvurularim.art
 493716.cloud
 4943iadesi.ml
+49492914912.com
 49494944-11232.cloud
 49498489488449.duckdns.org
 4957519274.cloud
@@ -29980,6 +29986,7 @@ avrupagundem.uk
 avs-arackiralama.com
 avs-kirala.com
 avs-kiralama.com
+avs-rentacars.com
 avs.kiralama-online.com.tr
 avs.kiralama-tr.com
 avsarackirala.com.tr
@@ -32986,6 +32993,7 @@ basvur-simdi-com-tr.baby
 basvur-sorgula-ogrenme-ekrani.sbs
 basvur-suprizv2yenideniz.com
 basvur-tc-sorgu.com
+basvur-toki.com.tr
 basvur-tr-ailegenc.com
 basvur-tr-deniz.xyz
 basvur-turkeygovtr.com
@@ -48696,6 +48704,7 @@ bmwcelworld.com
 bmwcelworldd.com
 bmwcelworlld.com
 bmwcleodemee.com
+bmwistebmwbenim.duckdns.org
 bmwkampanyakatilimprb.com
 bmwkazanmaninzamanigeldi.com
 bmwkazanmasansi.com
@@ -51948,6 +51957,7 @@ bsvrrkmpnyaaprmsynn.live
 bsvrrkmpnyaaprmsynn.pro
 bsvrrkmpnyaapsssrmsynn.art
 bsvrrkmpnyaapsssrmsynn.info
+bsvrrkmpnyaparmooo198123.pro
 bsvrrkmpnyaprmoo.info
 bsvrrkmpnyaprmoo.pro
 bsvrrkmpnyaprmsynnn.art
@@ -61377,6 +61387,7 @@ crfsonlnfrsaa.cfd
 crfsrdnhlkageldkk.shop
 crfsrsshpmarketteyiz.cfd
 crfssdanfrcrdfsadnbbze.com
+crfsshpalvrs.cfd
 crfsshponlnemarket.cfd
 crfssrrdyz.cfd
 crfsyagldncrfsadngtmdn.com
@@ -83264,6 +83275,8 @@ egmcezatc.org
 egmdosya.net
 egmdosya.org
 egmgovern.shop
+egmgovn.my.id
+egmgovn.web.id
 egmgovtr.org
 egminfaz.com
 egmkamuecezatr.org
@@ -87310,6 +87323,7 @@ envaymzsnz-crsmbylasn.net
 envayyy-allybtxhcs.net
 envayyy-msldaxddd.net
 envayyy-mssl.net
+enviiraandnevu.com
 envipzrteside.app
 envirandv.net
 envoysoft.net
@@ -117779,6 +117793,7 @@ hftadsnndabykndrmlr.shop
 hftaicidvkmpnya1br0d1.com
 hftaicidvkmpnya1br0d2.com
 hftalikuczkmpnylrxt.shop
+hftanin101firsati.duckdns.org
 hftaninfrsatlarii.duckdns.org
 hftaninfrstlarigldi.xyz
 hftaninirstisimd.com
@@ -130403,6 +130418,7 @@ indirimin101i.com.tr
 indirimin101i.online
 indirimin101i.xyz
 indiriminakacirmsa.shop
+indirimindirdim.gt.tc
 indirimindirimerdekalmazsande.cfd
 indirimindirimerdekalmazsande.sbs
 indirimindirmi101.co
@@ -144472,6 +144488,7 @@ kamumahkeme.org
 kamumahkemeleri.org
 kamumahkemesi.com
 kamumahkemesorgu.org
+kamumali.org
 kamumaliceza.org
 kamumaliye.org
 kamumaliyetr.org
@@ -149011,6 +149028,7 @@ kilometresorgusu.cfd
 kilometresorgusu.com
 kilometresorgusu.duckdns.org
 kilometresorgusu.web.app
+kilometresorgusubayin.web.app
 kilometresorgusudusmez.web.app
 kilometresorgusuonline.web.app
 kilometresorgusutekim.web.app
@@ -150768,6 +150786,7 @@ kmsorgulamagovvpttnit.duckdns.org
 kmsorgulamagulyan.shop
 kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
+kmsorgulamahizmeti.web.app
 kmsorgulamahizmetlerinizburada.online
 kmsorgulamahizmetlerinizz.shop
 kmsorgulamahizmetlerinizzz.online
@@ -158451,6 +158470,7 @@ maliyevatan.com
 maliyevatandas.com
 maliyevatandasportal.org
 maliyevehazinebakanligi.com
+maliyevezneislem.com
 malkafali222.com
 malkafaniskm.com
 malkocbakie.lat
@@ -168842,6 +168862,7 @@ nlsmfnnsbndmad.net
 nlt-gn-btrv.my-homeip.net
 nltanalhemenl.net
 nltanayalhluu.xyz
+nltkamkas.net
 nltlntlnlntln.net
 nltlntlntltnl.net
 nltlntltnalnalnaan.net
@@ -182986,6 +183007,7 @@ pazarama.ile-e-sepetler.com.tr
 pazarama.ile-onay-sepete.com
 pazarama.indirimsepetinde.com
 pazarama.magazamda-ilanim.com
+pazarama.odeme-onay-1281.com
 pazarama.odemeyonetimi.com
 pazarama.onayda-sepet-7180.com
 pazarama.onayda-sepet-7181.com
@@ -187892,6 +187914,7 @@ pttavmykle.com
 pttavmyklemexs.com
 pttavmylszlarx.com
 pttavmyuklemex.com
+pttavn-hizl-kolay-ykle.web.app
 pttavn-hizli-gecisleriniz.web.app
 pttavn-kilomtre-islem-sorgu.web.app
 pttavn-yukle.net
@@ -188956,6 +188979,7 @@ pttkgnkhktr.com
 pttki.ink
 pttkilometresorgu.shop
 pttkilometresorgulama.shop
+pttkilometresorgusnoktasi.web.app
 pttkjkargnbrbwq.com
 pttkl.cc
 pttkl.ink
@@ -240124,6 +240148,7 @@ www-cepte-market-kapinda.xyz
 www-cepte-portal-tb.myonlineportal.ch
 www-cepte-portaln-tb.myonlineportal.ch
 www-cepte-rar-tb.myonlineportal.ch
+www-cepte-right-tb.myonlineportal.ch
 www-cepte-tbyour-web.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
 www-cepte-teb.tk
@@ -251569,6 +251594,7 @@ yctrafiksiqortam.xyz
 ycvldrt-vvft.com
 ydenizbankbonus.com
 ydfodeme.22web.org
+ydkdmnasdasdsadasds.duckdns.org
 ydl7fh.xxoht18.cn
 ydmaycyzbrozlrmzn.cfd
 ydmyapykznkaycyzbrozlrmzn.cfd
