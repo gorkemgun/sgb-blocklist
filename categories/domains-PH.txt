@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104843
-# Last change: 2026-10-01 19:35:13 UTC (sync mode: delta)
+# Records: 104864
+# Last change: 2026-10-01 23:55:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -587,6 +587,7 @@
 128147-coinbase.com
 12855w652.cyou
 1288300023802.duckdns.org
+1288400002992.webredirect.org
 12958-coinbase.com
 12984-okta.com
 12985-coinbase.com
@@ -1736,6 +1737,7 @@
 341c4324zs.duckdns.org
 34234325231321.com
 342f99a1.jdhuwoskz.cloud
+3432wqewqr211421.cfd
 343343434.net
 3434343434istanbul.sbs
 34346334388654.cloud
@@ -17660,6 +17662,7 @@ canoeblouse.top
 canoeideology.top
 canoetrumpet.top
 canolaviewable.com
+canpackcom.com
 canpost.id-89b98.com
 canrum.shop
 cans666843.site
@@ -52871,6 +52874,7 @@ kifanoro.store
 kigili.store
 kigli.top
 kihhh.online
+kiilometresorguhesap.web.app
 kiiraalikarabarent.com.tr
 kiirraalikarabarent.com.tr
 kikldhesy.com
@@ -52926,7 +52930,13 @@ kilometresorglariz.web.app
 kilometresorgu.com
 kilometresorgu.fun
 kilometresorgucunuz.web.app
+kilometresorguhesaap.web.app
 kilometresorguhesap.web.app
+kilometresorguhesap1.web.app
+kilometresorguhesap2.web.app
+kilometresorguhesap3.web.app
+kilometresorguhesapcan.web.app
+kilometresorguhesaptr.web.app
 kilometresorguhizmetle.web.app
 kilometresorguhizmetler.web.app
 kilometresorguhzmeti.web.app
@@ -53226,12 +53236,14 @@ kkfkkdkag.com
 kkgktkm.net
 kkhydy.cyou
 kkiadetakip.com
+kkilometresorguhesap.web.app
 kkk44443.site
 kkkkkkkkjjjjjj.top
 kkkrtiade.com
 kkkvkvkvks.net
 kkldktttdt.nicepage.io
 kkmangeldikkgeliyoruz.com
+kkmsorgulamaislemleri.web.app
 kkooyyunkurbandestegi-akkbbnkk.online
 kkosmanfearleesdser.com
 kkosmanlikkfearles.com
@@ -53553,6 +53565,7 @@ kmsorgul-a.digital
 kmsorgula-1772f24c17a5.herokuapp.com
 kmsorgula3-94f50d998d48.herokuapp.com
 kmsorgula4-e0a6de0728c2.herokuapp.com
+kmsorgulaamaislemleri.web.app
 kmsorgulaamaonnnline.online
 kmsorgulabsrbdusd.com
 kmsorgulagulyan.com.tr
@@ -53567,7 +53580,13 @@ kmsorgulamahizmetcinizz.online
 kmsorgulamahizmetii.web.app
 kmsorgulamahizmetimniz.web.app
 kmsorgulamahzmetleriniz.web.app
+kmsorgulamaiislemleri.web.app
 kmsorgulamaislemleri.web.app
+kmsorgulamaislemleri1.web.app
+kmsorgulamaislemleri2.web.app
+kmsorgulamaislemleri3.web.app
+kmsorgulamaislemlerican.web.app
+kmsorgulamaislemleritr.web.app
 kmsorgulamalarhemenpttgov.vercel.app
 kmsorgulamalarinizhemenppttm.com
 kmsorgulamamizz.web.app
@@ -100799,6 +100818,7 @@ www-cebteteb-promosyonu-com.my-homeip.de
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
+www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
@@ -100826,6 +100846,7 @@ www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-promosyon.my-homeip.de
 www-cepteteb-emekli-kampanyalari.my-homeip.de
 www-ceptetebliye-ayricalikli.my-homeip.de
+www-ceptetepde-emekli.my-homeip.de
 www-cimer-iadeleriorg.com
 www-cimerdigitalsonuc.com
 www-cimeriadeleri-gov-tr.qnbfinansiadeler2021basvurusu.xyz
