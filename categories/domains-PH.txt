@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104819
-# Last change: 2026-10-01 13:25:51 UTC (sync mode: full)
+# Records: 104843
+# Last change: 2026-10-01 19:35:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -472,6 +472,7 @@
 11trbianse-tr.com.tr
 12-glenkarrg-larexsipariszam.com
 12-ocak-aldinaldin.com
+120200000000034445.duckdns.org
 120sd3.cn
 1211122211112.duckdns.org
 121231231313145451.blogspot.com
@@ -599,6 +600,7 @@
 13-93-121-205.plesk.page
 13-d.ru
 13-ocak-aldinaldin.com
+1300000.duckdns.org
 130ilkevim-toki-basvuru.sbs
 1312314.online
 13130-coinbase.com
@@ -615,6 +617,7 @@
 13247-icloud.com
 13267-coinbase.com
 1327.pro
+133213345665578555989899090.duckdns.org
 133213345665578555989899091.duckdns.org
 133213345665578555989899092.duckdns.org
 13395003852.duckdns.org
@@ -1465,6 +1468,7 @@
 24612-yara.xyz
 2461564651165.cloud
 247haber.club
+2481489213.com
 24hoursconfirn.com
 24kredit.top
 24liveturkbt.online
@@ -6159,6 +6163,7 @@ aktuelduyurusu.net
 aktuelekimindiirimi.xyz
 aktuelfirsat.com
 aktuelfirsat101.online
+aktuelfirsati.duckdns.org
 aktuelfirsatlar.com.tr
 aktuelfirsatlar.info.tr
 aktuelfirsatlar.net.tr
@@ -27500,6 +27505,7 @@ dnztransport.com
 dnzubksaf.xyz
 dnzzkarayolugecisborcodemem.duckdns.org
 doadis.com
+doaodeme.com
 doavoc.help
 dobbedvlver.com
 doblosolfar.sbs
@@ -38871,6 +38877,7 @@ googlecontinue.com
 googledesk-ssl.com
 googleharitalar.net
 googlemap-tr.info
+googlemeet.pro
 googlemeet98ty.pages.dev
 googlenames.top
 googleplay.thisgiftcards.com
@@ -52452,6 +52459,7 @@ kek-technik.com
 kekecdanisman.com
 kekeevyahv2.duckdns.org
 kekelerarabayiyanastirir.click
+kekemolmusmetaci.duckdns.org
 kekntsskart.net
 kekpanel.xyz
 kekreyemisnedir.club
@@ -52866,6 +52874,7 @@ kihhh.online
 kiiraalikarabarent.com.tr
 kiirraalikarabarent.com.tr
 kikldhesy.com
+kikmmdkdlrmaz.sbs
 kiknliogn.webflow.io
 kikomilanos.com
 kikosmilamos.com
@@ -52917,6 +52926,7 @@ kilometresorglariz.web.app
 kilometresorgu.com
 kilometresorgu.fun
 kilometresorgucunuz.web.app
+kilometresorguhesap.web.app
 kilometresorguhizmetle.web.app
 kilometresorguhizmetler.web.app
 kilometresorguhzmeti.web.app
@@ -53557,6 +53567,7 @@ kmsorgulamahizmetcinizz.online
 kmsorgulamahizmetii.web.app
 kmsorgulamahizmetimniz.web.app
 kmsorgulamahzmetleriniz.web.app
+kmsorgulamaislemleri.web.app
 kmsorgulamalarhemenpttgov.vercel.app
 kmsorgulamalarinizhemenppttm.com
 kmsorgulamamizz.web.app
@@ -54666,6 +54677,7 @@ kuzeyhaberx.site
 kuzeymenkulas.com
 kuzeymenkuldegerleras.com
 kuzeymenkultr.com
+kuzeyportfoymenkuldegerler.com
 kuzeyportfoyyonetim.com
 kuzeytr.com
 kuzeyvakfi.com
@@ -63525,6 +63537,7 @@ nexo-tr.com
 nexodream.com
 nexora-indirim-ayagina-geldi.com
 nexoracraft.store
+nexoraft.blog
 nexoraid.com
 nexoria.gifts
 nexorla.gifts
@@ -63722,6 +63735,7 @@ nightstalkerd.pro
 nightvector.vu
 niguo.top
 nihhathatipoglu.com
+nihilvoluptate.com
 nihtlyconteract.top
 nikafk244.com
 nikemall.tw
@@ -69522,6 +69536,7 @@ pazarama.guvenlionayodeme.com
 pazarama.guvenliservisler.com
 pazarama.guvenlisiparisim.com
 pazarama.guvenliteslimat.com
+pazarama.gvnliodemeniz.com
 pazarama.hemenislemler.com
 pazarama.hizlialisverislerim.com
 pazarama.hizlialiverislerim.com
@@ -69541,6 +69556,9 @@ pazarama.kargomhizli.com
 pazarama.kargomhizlikapida.com
 pazarama.magazada-online.com
 pazarama.odeme-onay-1282.com
+pazarama.odeme-onay-1283.com
+pazarama.odeme-onay-1284.com
+pazarama.odeme-onay-1285.com
 pazarama.onayda-sepet-7186.com
 pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
@@ -72730,6 +72748,7 @@ pttavm-kmsorgulama.firebaseapp.com
 pttavm-oto-kontrol.firebaseapp.com
 pttavm-oto-kontrol.web.app
 pttavm-s.bireysel-satis.com.tr
+pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm.alisveris-secure-odeme.com
 pttavm.alisverishazir.com.tr
 pttavm.alisverisiimguvenliisatis.com.tr
@@ -75306,6 +75325,7 @@ rehearsalplaintiff.top
 rehearsalsalutation.top
 rehearsealloy.top
 rehearseglamour.top
+rehewtsqe.sbs
 reibrag.com.br
 reidnfilescloud.com
 reignabrupt.top
@@ -76592,6 +76612,7 @@ roivelo.live
 roketsan-miras.com
 rolcarrent.com
 roledole.top
+roleplayyasak.duckdns.org
 rolepreoccupied.top
 rolexcheck.com.tr
 rolicka.fun
@@ -83003,6 +83024,7 @@ softthree.top
 softwarecomplacent.top
 softwaretime.top
 sofuoglumoto.com
+sofuoglumotosiklet.com
 sofuzeusay.live
 soganlimenemen.sbs
 sogou-shurufa.com
@@ -101247,6 +101269,7 @@ xbyzgc.help
 xcarreindirimleri.click
 xccarref.online
 xcd9fen0sk3r.com
+xcdr12wq1w.com
 xcdvlt-vet.com
 xcefarrefour.cfd
 xcheck.city
@@ -104456,6 +104479,7 @@ ziraat-katilim-kredin-hazir-basvuru.mooo.com
 ziraat-mobil.net
 ziraat-try.com
 ziraat.coralconsulting.org
+ziraat.finance
 ziraat.ml
 ziraat.serfams.store
 ziraatbaank-mobiill.ziraatbannk.com
