@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 472667
-# Last change: 2026-10-02 18:28:14 UTC (sync mode: full)
+# Records: 472684
+# Last change: 2026-10-02 23:00:58 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -3934,6 +3934,7 @@
 12010101111.cloud
 12012024.com
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
 120387842378821903.cloud
 1204209173.hakold.ru
@@ -4009,6 +4010,7 @@
 121991dec.ddns.net
 121firsatlar2313.com
 121milkyway.xyz
+1220294899922.bounceme.net
 122048882008288.bounceme.net
 122048882008329.bounceme.net
 1221.site
@@ -4022,6 +4024,7 @@
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
 122121222222221.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 1222233122455666512255993.xyz
 12234593-2353987.com
@@ -9799,6 +9802,7 @@
 2394354300002.cloud
 2394762138858893.shop
 2398042389042.com.tr
+239929292920101993.webredirect.org
 239934h2389327g78324.fun
 23994882h3884732.cyou
 239h3m4b.duckdns.org
@@ -57626,6 +57630,7 @@ ayranger10.ddns.net
 ayranger9.ddns.net
 ayraninatuzekemmi.ignorelist.com
 ayrentcar.com
+ayrica-ceptetebde.my-homeip.de
 ayricalik-cepte.myonlineportal.ch
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
@@ -100501,6 +100506,7 @@ ceptetebden-emekli.my-homeip.de
 ceptetebden-emeklin.my-homeip.de
 ceptetebden-firsati.my-homeip.de
 ceptetebden.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebderahatlik.com
 ceptetebderamazan.com
 ceptetebdigital.com
@@ -141674,6 +141680,7 @@ eadgkouytvn.xyz
 eadiati-turkiyegovtri.com
 eadikesghtalapurcareers.com
 eadjkbmh.com
+eadli.org
 eadliceza.org
 eadlicezasorgu.org
 eadlicezasorgulama.org
@@ -162290,6 +162297,7 @@ fakathaber.xyz
 fake-eta.vercel.app
 fakebloogs.cyou
 fakedmgir.pw
+fakedooomm.duckdns.org
 fakefriend.ddns.net
 fakeidmaker.onlinewebshop.net
 fakenitro666.ddns.net
@@ -288042,6 +288050,7 @@ mobilservisler-26.sbs
 mobilservisler-28.sbs
 mobilservisler-29.sbs
 mobilservisler-3.sbs
+mobilservisler-34.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
 mobilservisler-53.sbs
@@ -328107,6 +328116,8 @@ piyasa360world.world
 piyasaakisi.org
 piyasabasassa.xyz
 piyasabizim.click
+piyasabizim.com
+piyasabizim.org
 piyasadurum.site
 piyasaekspres.online
 piyasahabercisi.com
@@ -335880,6 +335891,7 @@ pttavm-guvenliode.ct.ws
 pttavm-guvenliode.rf.gd
 pttavm-h-g-s-com-tr.blogspot.com
 pttavm-h-g-s-tr.blogspot.com
+pttavm-hemen-siparis.com
 pttavm-hemenal.com
 pttavm-hemenal.xyz
 pttavm-hgs-com-tr.blogspot.com
@@ -347561,6 +347573,7 @@ reklaminizyoknerde.cfd
 reklamitele.com
 reklamkampanyalari.com
 reklamkaynagi.com
+reklamkristel.sbs
 reklamkutuphane.cfd
 reklamkutuphaneekim.cfd
 reklamkutuphanem-tr.gotdns.ch
@@ -398039,6 +398052,7 @@ tepobektebpksozxpwqkas.today
 teponqkvsgedgdxgrxunyan.pw
 tepperslist.com
 tepsl.store
+tepten-ayricaliklari.my-homeip.de
 teqfiaanre.duckdns.org
 teqfirsatagstos.com
 teqqivivvi.duckdns.org
@@ -435651,6 +435665,7 @@ web-mysntvuk.net
 web-net-online.site
 web-newton-ca.webflow.io
 web-nvrandevu.online
+web-online-alisveris.sbs
 web-online-basvuru-form-olustur-ucret-kesinti-odemeler.xyz
 web-online-basvuru-giris-sayfasi.xyz
 web-online-ebasvuru-2021-bireysel-odemeler.xyz
@@ -443366,6 +443381,7 @@ www-a1o1-tic.online
 www-a1o1.hemenn-kapindaaa.online
 www-aa-com-tr.blogspot.com
 www-aa-com-trx.blogspot.com
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-acik-deniz-2023.online
 www-acik-islem-denizde.online
@@ -464998,6 +465014,7 @@ yonnebal.com
 yonnnersdwesd.net
 yonsei.lol
 yonver-link.strangled.net
+yonver.cc
 yonver.webredirect.org
 yonveren.sbs
 yonveriyozabimeartikmq.shop

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104939
-# Last change: 2026-10-02 18:28:14 UTC (sync mode: full)
+# Records: 104951
+# Last change: 2026-10-02 23:00:58 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -480,6 +480,7 @@
 12-glenkarrg-larexsipariszam.com
 12-ocak-aldinaldin.com
 120200000000034445.duckdns.org
+120219292929388.webredirect.org
 120298573000294.webredirect.org
 120sd3.cn
 1211122211112.duckdns.org
@@ -489,6 +490,7 @@
 12154455541565565690.duckdns.org
 121690.duckdns.org
 1218913778.duckdns.org
+1220294899922.bounceme.net
 122111145541155455455899990.duckdns.org
 122111145541155455455899992.duckdns.org
 12211455441554555889891.xyz
@@ -496,6 +498,7 @@
 12211455441554555889895.xyz
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
+1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
 122562652500.xyz
 122562656334.info
@@ -1449,6 +1452,7 @@
 2364257g8290a24120b.cloud
 2370altinpuan.com
 2394354300002.cloud
+239929292920101993.webredirect.org
 23f3d46f.ns-u629df.shop
 23haziranuygunkatolog.shop
 23martmarkecesipar.cloud
@@ -10618,6 +10622,7 @@ ayplnsnnaa.duckdns.org
 ayportrayal.top
 ayran.click
 ayrentcar.com
+ayrica-ceptetebde.my-homeip.de
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
 ayricaliklar-cepteteb.my-homeip.de
@@ -18736,6 +18741,7 @@ cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
 cepteteb-tr-3yil-ozel.com
 ceptetebden.my-homeip.de
+ceptetebdeniz.my-homeip.de
 ceptetebeva.my-homeip.de
 ceptetebfirsati.xyz
 ceptetebli-ayricalik.my-homeip.de
@@ -29266,6 +29272,7 @@ eadaitgiris-turkeygovtri.com
 eadaletdava.org
 eadaletsorgu.org
 eadikesghtalapurcareers.com
+eadli.org
 eadresbasvurusu-trmerkezi.com
 eafc53e8.gfwisd-235.shop
 eagersocket.top
@@ -33639,6 +33646,7 @@ faizsiz-kredi-webbasvuru.ml
 faizsizdevletimindestegibu92481241.net
 faizsizkredime.com
 fake-eta.vercel.app
+fakedooomm.duckdns.org
 fakeidmaker.onlinewebshop.net
 fakfukfikk-3fe345abf81a.herokuapp.com
 faklimayiskampanyasi.wiki
@@ -61127,6 +61135,7 @@ mobilservisin-22.sbs
 mobilservisin-32.sbs
 mobilservisin-34.sbs
 mobilservisiniz-10.sbs
+mobilservisler-34.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
 mobilservisler-53.sbs
@@ -75443,6 +75452,7 @@ reklamgeldi.sbs
 reklamgitti.sbs
 reklamgoooogle.cf
 reklamhesab.tk
+reklamkristel.sbs
 reklamkutuphanesi.click
 reklamlardasorunvar.click
 reklamlaronlineak.sbs
@@ -89113,6 +89123,7 @@ tepiors.com
 tepki-stil.myonlineportal.ch
 tepkiurbn.online
 tepperslist.com
+tepten-ayricaliklari.my-homeip.de
 teqfirsatagstos.com
 ter3535sss.epizy.com
 terab.retalonx.com
@@ -100853,6 +100864,7 @@ www-a101.online
 www-a101.xyz
 www-a1o1-tic.online
 www-aa-com-trx.blogspot.com
+www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-admin-logo.webflow.io
 www-aidat-sistemi-edevlet.ml
