@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259128
-# Last change: 2026-10-02 12:44:36 UTC (sync mode: delta)
+# Records: 259145
+# Last change: 2026-10-02 18:28:14 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -652,6 +652,7 @@
 1001magazaaralikayikampanyasi.online
 1001magazahaftaninyilldizii.online
 1001magazamizaozel.com
+1002000302003040.webredirect.org
 1002392522.net
 1003200410032004.cloud
 100340003551.cloud
@@ -2254,6 +2255,7 @@
 12211455441554555889890.xyz
 12211455441554555889892.xyz
 122121222222221.duckdns.org
+1222233122455666512255993.xyz
 12234593-2353987.com
 122411-43434-33.cloud
 122432324232423.click
@@ -13837,6 +13839,7 @@ abelabernathy.com
 abenerajsa.duckdns.org
 aberdeenhomebuyers.com
 abetnaol.info
+abetokyo.ccwu.cc
 abharam.sbs
 abhazya.xyz
 abhgsyukleme.biz
@@ -13868,6 +13871,7 @@ ableajo.pics
 ablecounselingservices.com
 ableileguvenliodeme.net
 ableislem.22web.org
+abmrandevusistemi.com.tr
 abnankser.blogspot.com
 abncadestektr.com
 abnduyurugiris.com
@@ -20902,6 +20906,7 @@ akbankingforwinning.duckdns.org
 akbankinteraktifislemler.com
 akbankinternetbankacilik.com
 akbankinvest.com
+akbankinvesthub.net
 akbankislemler.com
 akbankislemlerim.com
 akbankislemteyit.duckdns.org
@@ -85912,6 +85917,7 @@ en-uygun-arac-kirala.ga
 en-uygun-arac-kirala.gq
 en-uygun-arac-kirala.ml
 en-uygun-arac-kiralama.ga
+en-uygun-is-merkezi.vercel.app
 en-uyxgun-telwfonlar-1o1.org
 en-viaysdgsdg-rnvd.net
 en-xtrail-basvur.com
@@ -109032,6 +109038,7 @@ haberler14253231.shop
 haberler145.shop
 haberler145365349.sbs
 haberler145425462.shop
+haberler16572.sbs
 haberler17562.shop
 haberler2022.com
 haberler2022.tk
@@ -144419,6 +144426,7 @@ kamponyabuarada42.com
 kampori.xyz
 kamporya.xyz
 kamppali.xyz
+kamppanyalarikacirmaa.com
 kampppanyaliurunlerimizekimindevasa.com
 kampsandalyesi-carrefoursa.vercel.app
 kampsandalyesii.com
@@ -144473,6 +144481,7 @@ kamucezatakip.com
 kamudansikayetimvar.site
 kamudava.com
 kamudava.org
+kamudavasorgu.net
 kamudavauzlasma.com
 kamudavauzlasma.org
 kamudestegibasvuruformu.com
@@ -160930,6 +160939,7 @@ mhrshekimsistem.duckdns.org
 mhrshekimzlrandevusu.vercel.app
 mhrshemencan.com
 mhrshizligiris.duckdns.org
+mhrsislemleriniz.blogspot.com
 mhrsklsafslaalal.cyou
 mhrsklsafslaalal.one
 mhrsklsafslaalal.site
@@ -207904,6 +207914,7 @@ sokmarketceptekampanyalar.online
 sokmarketceptekapinda.online
 sokmarketcom-xx-sok0-market.cfd
 sokmarketekstrakampanya1.duckdns.org
+sokmarketekstrakampanya2.duckdns.org
 sokmarketekstrakampanya3.duckdns.org
 sokmarketekstrakampanya4.duckdns.org
 sokmarketfamilia.net.tr
@@ -237295,6 +237306,7 @@ web-online-iade-aktarim-sayfasi-online-giris.xyz
 web-online-islemler-kart-kesintileri-e-basvuru-sayfasi.xyz
 web-online-islemleri-e-basvuru-sayfasi-platform-giris.xyz
 web-online-portal-ebasvuru-girisi-guvenli-giris.xyz
+web-online-siparis.sbs
 web-online-tr.com
 web-onlinedevletgiris-kart.com
 web-onlinedevletgovtr.tk
@@ -240032,6 +240044,7 @@ www-aracmuayene-rezervasyon.com
 www-aracmuayene.com
 www-aracmuayenerandevu.com
 www-aracrandevumuayene.com
+www-art-cepte-tvb.myonlineportal.ch
 www-avr-cep-web.myonlineportal.ch
 www-basvuru-garntbqnk.name.tr
 www-basvuru-iadenizcime.com
@@ -240186,6 +240199,7 @@ www-cepte-market-kapinda.com
 www-cepte-market-kapinda.online
 www-cepte-market-kapinda.xyz
 www-cepte-off-tvb.myonlineportal.ch
+www-cepte-on-tb.my-homeip.de
 www-cepte-portal-tb.myonlineportal.ch
 www-cepte-portaln-tb.myonlineportal.ch
 www-cepte-rar-tb.myonlineportal.ch
@@ -240194,6 +240208,8 @@ www-cepte-tbyour-web.myonlineportal.ch
 www-cepte-teb-com.my-homeip.de
 www-cepte-teb.tk
 www-cepte-time-tb.myonlineportal.ch
+www-cepte-tool-tb.myonlineportal.ch
+www-cepte-tvb-notes.my-homeip.de
 www-cepte-tyb-web.myonlineportal.ch
 www-ceptedir-sync.myonlineportal.ch
 www-ceptekapida-marketin.online
@@ -240212,6 +240228,7 @@ www-ceptetebimm.com
 www-ceptetebliim.com
 www-cepteteblim.com
 www-ceptetebonline.com
+www-ceptetepden-emekliye.my-homeip.de
 www-cimer-aidat-iadetr.com
 www-cimer-aidat-tr.com
 www-cimer-aidatiadeleri-tr-basvuru.com
