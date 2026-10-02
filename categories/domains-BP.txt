@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259119
-# Last change: 2026-10-01 23:55:44 UTC (sync mode: delta)
+# Records: 259128
+# Last change: 2026-10-02 12:44:36 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -163629,6 +163629,7 @@ mobilp-ttpasaj.com
 mobilp-ttpazarcom.com
 mobilp-ttstore.com
 mobilpandemi.com
+mobilpapara.app
 mobilpar-ibu.com
 mobilpara-ibu.com
 mobilparaf-halkbank.com
@@ -198176,6 +198177,7 @@ sahibinden.sepetimiz-tr.online
 sahibinden.sepetimonay.site
 sahibinden.sepetin-tamamla.com.tr
 sahibinden.sepetiniz-tr.online
+sahibinden.sepetinizde.com.tr
 sahibinden.sepetinizislemleri.com
 sahibinden.sepetisleminiz.com
 sahibinden.sepette-ode.com
@@ -219233,6 +219235,7 @@ togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
 togg-cekilis.com
 togg-faizsiz-limitim.netlify.app
+togg-faizsizlimitlerim.com
 togg-finans.com
 togg-hazir-limitim.netlify.app
 togg-hazirlimitlerini-sorgula.com
@@ -220170,6 +220173,7 @@ tokybasvurugonder.info
 tokybasvurugonder.pro
 tokybasvurugonder.sa.com
 tokyibasvurus-gel.work
+tokyodndsa.cfd
 tol-liber-oreal.myonlineportal.ch
 tolgakiratli.net
 tollvexaro.com
@@ -223913,6 +223917,9 @@ trendyolplay.com
 trendyolr.net
 trendyols2025.com
 trendyolsatis.online
+trendyolshop.app
+trendyolshop.cc
+trendyolshop.one
 trendyolshop.shop
 trendyolshop.top
 trendyolshop.vip
@@ -238506,6 +238513,7 @@ webtr-onlinegaranti.com
 webtr-qnbfinanssubesi.com
 webtr-sorgula.com
 webtr-ziraatbankasi.com
+webtrader.phillipcapitaldanismanlik.com
 webtrailz.com
 webtral-barakamtr.com
 webtrbireyselfirsat.com
@@ -253790,6 +253798,7 @@ yildirim-firsati.pro
 yildirim-firsati.pw
 yildirim-firsati.shop
 yildirim-firsati.store
+yildirimgroup.online
 yildirimsubeleri.com.tr
 yildirimsubeleri.online
 yildirimsubeleri.xyz

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 472572
-# Last change: 2026-10-02 05:46:28 UTC (sync mode: delta)
+# Records: 472597
+# Last change: 2026-10-02 12:44:36 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2125,6 +2125,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop-mobil-cep.online
+101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
@@ -3655,6 +3656,7 @@
 11111222233321.duckdns.org
 1111212121212121.duckdns.org
 11112222244444.webredirect.org
+11112222244494.webredirect.org
 1111233232311123211.cloud
 1111254865645-online.cloud
 11114141414.duckdns.org
@@ -68318,6 +68320,7 @@ bendenkorkmasan4.vip
 bendenkorkmasan6.vip
 bendenkorkmasan8.vip
 bendenselame.online
+bendenynarvdalsn.lol
 bendeozledimsbendes.online
 bendeparacokcokvar.click
 bendepsatrmkalsrkbwsonline.net
@@ -235668,6 +235671,7 @@ istanbulbakiyeyuklecnnet.vercel.app
 istanbulbakyecim.com
 istanbulbalim.net
 istanbulbasvuru.xyz
+istanbulbasvurukart.lol
 istanbulbasvurukart.xyz
 istanbulbasvuruyap.shop
 istanbulbbelllgim.xyz
@@ -254391,6 +254395,7 @@ kelimelik99.xyz
 kelimeodeme3d.xyz
 kelimtrack0912.site
 kelinac.com
+kelkalicaz.xyz
 kellas11x.dns.navy
 kellas12x.dns.navy
 kellas233x.dns.navy
@@ -272729,6 +272734,7 @@ lungideological.top
 lungsanction.top
 lungwort51.xyz
 lunidana.com
+lunixel.com
 lunmallo.gifts
 lunmivo.shop
 lunoba.click
@@ -279241,6 +279247,7 @@ maxipuanla.com
 maxiron2v2.hopto.org
 maxisccl.my
 maxisccla.lol
+maxisfonyonetimi.com
 maxisgsyatirim.com
 maxisteq.org
 maxisurf.net
@@ -287909,6 +287916,7 @@ mobilp-ttpasaj.com
 mobilp-ttpazarcom.com
 mobilp-ttstore.com
 mobilpandemi.com
+mobilpapara.app
 mobilpar-ibu.com
 mobilpara-ibu.com
 mobilparaf-halkbank.com
@@ -300493,6 +300501,7 @@ nljxtplhkf.duckdns.org
 nljyuplhgc.duckdns.org
 nljyvrronj.duckdns.org
 nlkcu.com
+nlknkramas.net
 nlkvrseffr.com
 nlllllln.click
 nllnlnlnlnlnlnlnln.net
@@ -327214,6 +327223,7 @@ philiso87162.ddns.net
 philkassa-spb.com
 philliesmgir.pw
 phillipcapital-trd.com
+phillipcapitaldanismanlik.com
 phillipcapitaltrade.com
 phillipcapitaltrader.com
 phillipis.cfd
@@ -336146,6 +336156,7 @@ pttavm.net
 pttavm.net.ph
 pttavm.net.tr
 pttavm.net.web.tr
+pttavm.odeme-onay-1282.com
 pttavm.odeme-tamamla.com
 pttavm.odemedogrula.com
 pttavm.odemekolay.com.tr
@@ -358094,6 +358105,7 @@ sahibinden.sepetimizde.com
 sahibinden.sepetimonay.site
 sahibinden.sepetin-tamamla.com.tr
 sahibinden.sepetiniz-tr.online
+sahibinden.sepetinizde.com.tr
 sahibinden.sepetinizislemleri.com
 sahibinden.sepetisleminiz.com
 sahibinden.sepetonline.com.tr
@@ -366702,6 +366714,7 @@ sepetini-tamamla.xyz
 sepetinindirimsezonsonu.xyz
 sepetinislemleri.com
 sepetiniz-tr.online
+sepetinizde.com.tr
 sepetinizdeindirimleryapiyoruz.com
 sepetinizislemleri.com
 sepetinizislemlerim.com
@@ -378256,6 +378269,7 @@ solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
 solivra.work
+solixup.com
 soljmarlktlr.calilncenmaknlr.sbs
 solkampanyavefirsatlar.site
 solkmarlektler.shop
@@ -396422,6 +396436,7 @@ tekrarkazanmakicinmobildebasvur.online
 tekrarsa.dnsup.net
 tekrarsizinlemutlu.com
 tekrartekrarbasvurdana.sbs
+tekrixly.com
 tekrkekfegh.com
 tekrona.ooguy.com
 teksancesbrdasance.cfd
@@ -400994,6 +401009,7 @@ tl2j38w9.mypressonline.com
 tl3lqnm.xdk8ax.cn
 tl777.it.com
 tlahonzabica.zendesk.com
+tlaknasan.net
 tlaktar.com
 tlannemya.dev
 tlast.online
@@ -401827,6 +401843,7 @@ togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
 togg-cekilis.com
 togg-faizsiz-limitim.netlify.app
+togg-faizsizlimitlerim.com
 togg-finans-kredim.com
 togg-finans.com
 togg-hazir-limitim.netlify.app
@@ -403141,6 +403158,7 @@ tokyibasvurus-gel.work
 tokyibasvurusu.work
 tokylebasvrngnder.com
 tokyo-new.icu
+tokyodndsa.cfd
 tokyoghoulysseynn.ddns.net
 tokyogrub.duckdns.org
 tokyolokko.co
@@ -409107,6 +409125,9 @@ trendyols.shop
 trendyols.ws
 trendyols2025.com
 trendyolsatis.online
+trendyolshop.app
+trendyolshop.cc
+trendyolshop.one
 trendyolshop.shop
 trendyolshop.top
 trendyolshop.vip
@@ -431908,6 +431929,7 @@ vn6.co
 vn9670229.duckdns.org
 vna8tqycf.duckdns.org
 vnajgumonculeag.info
+vnbkg9489.shop
 vnbnghtyudvnvmvnbg.net
 vnbnxlz.xyz
 vnc-new.ddns.net
@@ -437831,6 +437853,7 @@ webtr-onlinegaranti.com
 webtr-qnbfinanssubesi.com
 webtr-sorgula.com
 webtr-ziraatbankasi.com
+webtrader.phillipcapitaldanismanlik.com
 webtrafficsuccess.xyz
 webtrailz.com
 webtral-barakamtr.com
@@ -443619,6 +443642,7 @@ www-cepte-a-101.com
 www-cepte-a-101.online
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
+www-cepte-ass-tb.my-homeip.de
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
@@ -463115,6 +463139,7 @@ yildirim-firsati.shop
 yildirim-firsati.store
 yildirim-firsati.xyz
 yildirimfirsati.live
+yildirimgroup.online
 yildirimkurumsalfilo.com
 yildirimsubeleri.com.tr
 yildirimsubeleri.online

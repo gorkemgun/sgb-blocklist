@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104870
-# Last change: 2026-10-02 05:46:28 UTC (sync mode: delta)
+# Records: 104886
+# Last change: 2026-10-02 12:44:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -230,6 +230,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-sepette-cep.sepets-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri-tr.shop
+101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
@@ -444,6 +445,7 @@
 1111112820004933.bounceme.net
 11111128830029.bounceme.net
 11112222244444.webredirect.org
+11112222244494.webredirect.org
 1111x1111.sbs
 11125455111.cloud
 11130059322882.webredirect.org
@@ -12633,6 +12635,7 @@ bendendensendengelsedkesgec5.ink
 bendenkorkmasan10.vip
 bendenkorkmasan8.vip
 bendenselame.online
+bendenynarvdalsn.lol
 benderetne.net
 benderkehe.online
 bendigo-homesa.info
@@ -49167,6 +49170,7 @@ istanbulbakiyecim.com
 istanbulbakiyeyuklecnnet.vercel.app
 istanbulbakyecim.com
 istanbulbasvuru.xyz
+istanbulbasvurukart.lol
 istanbulbasvurukart.xyz
 istanbulbbelllgim.xyz
 istanbulbeelgim.xyz
@@ -52488,6 +52492,7 @@ kelen.talk4fun.net
 kelenedekeme.net
 kelesj.help
 kelfene.net
+kelkalicaz.xyz
 kellas12x.dns.navy
 kellas5432x.dns.navy
 kellas54541x.dns.navy
@@ -57029,6 +57034,7 @@ lunexavri.capital
 lungideological.top
 lungsanction.top
 lunidana.com
+lunixel.com
 lunmallo.gifts
 lunoxstar.xyz
 lunqaro.xyz
@@ -58901,6 +58907,7 @@ maxipara5000.cloud
 maxipara5500.cloud
 maxisccl.my
 maxisccla.lol
+maxisfonyonetimi.com
 maxisgsyatirim.com
 maxkirala.online
 maxkiralamahizmeti.online
@@ -63934,6 +63941,7 @@ nlazq4.xdk8ax.cn
 nlbadb.top
 nlhmrsrabklmdn.com
 nliranvundahizmetlerinde.net
+nlknkramas.net
 nlltakmar.net
 nlltamhen.net
 nlmvsdsadrnndevuu.com
@@ -70167,6 +70175,7 @@ philippines-credit365.top
 philippinesdailynews.com
 philipskampanya.sbs
 philkassa-spb.com
+phillipcapitaldanismanlik.com
 philosopherperplex.top
 philosophervibrate.top
 philosophicalevasive.top
@@ -72811,6 +72820,7 @@ pttavm.lisanslisatis.com.tr
 pttavm.mobil-urunlerim-tr.com.tr
 pttavm.mobiltr-islemlerim.com.tr
 pttavm.net.tr
+pttavm.odeme-onay-1282.com
 pttavm.odeme-tamamla.com
 pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
@@ -80376,6 +80386,7 @@ sepetinde-ucuzluk-kapinda.shop
 sepetindealisvers.com
 sepetineekle.click
 sepetingunleri.com
+sepetinizde.com.tr
 sepetinizdeindirimleryapiyoruz.com
 sepetinizislemleri.com
 sepetinkolay.click
@@ -83233,6 +83244,7 @@ solitudeindulge.top
 solitudemow.top
 solitudevelvet.top
 soliveprolprsp.click
+solixup.com
 soljmarlktlr.calilncenmaknlr.sbs
 solkmarlektler.shop
 solkmlrkatler.com
@@ -88591,6 +88603,7 @@ tekrardansoktayiz.cloud
 tekrardevametmelin3.cloud
 tekrarsa.dnsup.net
 tekrartekrarbasvurdana.sbs
+tekrixly.com
 teksancesbrdasance.cfd
 tekscarkiralama.com
 teksefer.tech
@@ -89989,6 +90002,7 @@ tkzuoy.buzz
 tl-yukle-com-tr.blogspot.com
 tl-yuklemeler.com
 tl3lqnm.xdk8ax.cn
+tlaknasan.net
 tlbayim-yukl.co
 tlcep.net
 tlelga929.oss-cn-hongkong.aliyuncs.com
@@ -97329,6 +97343,7 @@ vmdopx.top
 vmkinc.site
 vmvcif.top
 vn1rml.cyou
+vnbkg9489.shop
 vnhgab.help
 vnjwsy2.shop
 vnkrltkrlkgtr.net
@@ -100825,6 +100840,7 @@ www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
+www-cepte-ass-tb.my-homeip.de
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
