@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 472566
-# Last change: 2026-10-01 23:55:44 UTC (sync mode: delta)
+# Records: 472572
+# Last change: 2026-10-02 05:46:28 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2139,6 +2139,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-shop-tr.avantajshop.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-shop-tr.trendex-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
@@ -25936,6 +25937,7 @@ a101ramazanakampanyaa2.click
 a101ramazanaozel.online
 a101ramazandayiz.duckdns.org
 a101redictare.online
+a101reklam.com
 a101resmikampanya.xyz
 a101s.org
 a101s1alad-infirsat.store
@@ -237146,6 +237148,7 @@ istkartkampanya.net
 istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
 istkartlahmnadak.com
+istkartlahmnodesal.xyz
 istkartlahzlacn.duckdns.org
 istkartlar.com
 istkartlarim.blogspot.com
@@ -259504,6 +259507,7 @@ kmsorgulamahizmettimiz.web.app
 kmsorgulamahzmetleriniz.online
 kmsorgulamahzmetleriniz.web.app
 kmsorgulamaiislemleri.web.app
+kmsorgulamaiislemleri1.web.app
 kmsorgulamaislemleri.web.app
 kmsorgulamaislemleri1.web.app
 kmsorgulamaislemleri2.web.app
@@ -362666,6 +362670,7 @@ sdqil.dehisops1.website
 sdqtkyig.com
 sdqzil.top
 sdr.co.nz
+sdr3ddedd3.com
 sdreyeo0n.online
 sdrkcya.duckdns.org
 sdroobbo12345.ddns.net
@@ -443601,6 +443606,7 @@ www-cekilis-iphone-teb.net
 www-cekilis-qnbfinansbank.tk
 www-cekilis.com
 www-cekilisiphone-teb.net
+www-cep-on-btb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepsubeleri-qnbfinansbank-com.tk

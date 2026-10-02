@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104864
-# Last change: 2026-10-01 23:55:44 UTC (sync mode: delta)
+# Records: 104870
+# Last change: 2026-10-02 05:46:28 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -240,6 +240,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-indirimleri-tr.sepetra-tr.online
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online
@@ -3728,6 +3729,7 @@ a101premium.com
 a101premium.com.tr
 a101pro.shop
 a101ramazanaozel.online
+a101reklam.com
 a101resmikampanya.xyz
 a101s.org
 a101s1azdlad-in1firssat.xyz
@@ -49515,6 +49517,7 @@ istkartim.net
 istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
 istkartlahmnadak.com
+istkartlahmnodesal.xyz
 istkartlahzlacn.duckdns.org
 istkartlar.com
 istkartlarmayuklicim.net
@@ -53581,6 +53584,7 @@ kmsorgulamahizmetii.web.app
 kmsorgulamahizmetimniz.web.app
 kmsorgulamahzmetleriniz.web.app
 kmsorgulamaiislemleri.web.app
+kmsorgulamaiislemleri1.web.app
 kmsorgulamaislemleri.web.app
 kmsorgulamaislemleri1.web.app
 kmsorgulamaislemleri2.web.app
@@ -79439,6 +79443,7 @@ sdmvldvt-svdvt.com
 sdmxmg.top
 sdmzmk.top
 sdqzil.top
+sdr3ddedd3.com
 sdsahashsahsahsahahashha.kozow.com
 sdscmq.top
 sdsuxk-work.shop
@@ -100815,6 +100820,7 @@ www-braun.org
 www-brauntr.com
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
+www-cep-on-btb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
