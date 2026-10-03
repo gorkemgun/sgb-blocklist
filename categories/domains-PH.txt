@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105022
-# Last change: 2026-10-03 17:59:41 UTC (sync mode: delta)
+# Records: 105039
+# Last change: 2026-10-03 21:22:47 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9124,6 +9124,7 @@ asdklmklwqmklm34637.duckdns.org
 asdkmi.mom
 asdkmwlqkmkl36347.duckdns.org
 asdlfdsamfksdafmkl.net
+asdnjfrwnjwfad.duckdns.org
 asdnqbwdvabsnd1.blogspot.com
 asdnrvdalbnrdan.lol
 asdqasasfasfafa.com
@@ -10636,6 +10637,7 @@ ayrica-cepteteb.my-homeip.de
 ayrica-ceptetebde.my-homeip.de
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
+ayricalikla-ceptetebde.my-homeip.de
 ayricaliklar-cepteteb.my-homeip.de
 ayrilalim.click
 ayscmbv.sa.com
@@ -18823,6 +18825,7 @@ cesurio.com
 cesyasa.click
 cetethrem.com
 cevapsonsuz.online
+cevgerepilokigufere.club
 cevikhegese.arabamuayenesi.xyz
 ceviri-lifonsi-edinim.myonlineportal.eu
 cevirkazan2024firsatlari.cloud
@@ -26833,6 +26836,7 @@ dijitalismobilmenu.com
 dijitalium-web.net
 dijitaliumweb.net
 dijitalizmirim.net
+dijitalkampanya-online.sbs
 dijitalkampanya-ziraatmobilin.com
 dijitalkampanyagiris-denizacik.com
 dijitalkampanyahizmet-ziraatbireysel.sbs
@@ -28720,6 +28724,7 @@ dysonum.com
 dysonv.com.tr
 dysonyearend.com
 dysoon.com.tr
+dysoreli.com
 dysson.com.tr
 dyvncv.nearchoosecontrol.top
 dza.ryb.mybluehost.me
@@ -40059,6 +40064,7 @@ guncelkampanyasorguevent.net
 guncelkaynaklar.com
 guncellaktuelurunler.com
 guncelle-dolap.com
+guncellemezamani.abrdns.com
 guncellenenbasvuru.com
 guncelmercekler.com
 guncelmerkez.abrdns.com
@@ -43083,6 +43089,7 @@ hesapli.sigortaamnnetg.site
 hesapli.sigortaamnneth.site
 hesapli.sigortacifirsatkampanyali.com.tr
 hesapli.sigortamnetabff.com.tr
+hesaplikasabim.world
 hesaplikasap.online
 hesaplikasap.site
 hesaplimit.blog
@@ -44232,6 +44239,7 @@ hlkbn2.blogspot.com
 hlkenta.net
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
+hlldrymbrdansnz.duckdns.org
 hlloo-wallet.webflow.io
 hlmnket.net
 hlnkaemntlanas.net
@@ -56732,6 +56740,7 @@ lrdanskzordaprrrr.shop
 lrdnbrdnrvdalsn.lol
 lrdnvrgmdmk.com
 lrjuoc.top
+lrklaytmaynthglk.duckdns.org
 lrm-g-r-n-l.myonlineportal.ch
 lrniq.cfd
 lrnway.vu
@@ -72895,6 +72904,7 @@ pttavm.guvenlihizmet.online
 pttavm.guvenliislem.net
 pttavm.hazirsepet.info.tr
 pttavm.hizli-islem.online
+pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilan-getsecure.com
 pttavm.ilan-hizmet.com.tr
 pttavm.ilan-satisi-hizli.com.tr
@@ -73414,6 +73424,7 @@ ptthgsavm.arabamuayenesi.xyz
 ptthgsbakiyeyuklemes.web.app
 ptthgsbakiyeyuklme.web.app
 ptthizligecisbakiyenileme.web.app
+ptthizligecisbakiym.art
 ptthm.ink
 pttinco.life
 pttinon.cc
@@ -74218,6 +74229,7 @@ qweqkasxsdqwe.net
 qweqweqweasdasda.net
 qweqwer.com
 qwertyuiopa.pro
+qwfqwfqfw124214.duckdns.org
 qwlandmerxa.online
 qwoafyhhxx1.net
 qwodxz.top
@@ -84907,6 +84919,7 @@ ssso---coinbasepro--cd--auth.webflow.io
 ssso-itrustcapital-com-autths.webflow.io
 sssokbzcmmle.com
 sssookaldinaldinfrsatibizle.org
+sssslllddddddsss.duckdns.org
 sstmrvdbrdanbk.click
 sstrak-bsrvat.cfd
 ssusfoeollu.com
@@ -99895,6 +99908,7 @@ wm.revnexus.org
 wmaycurr.info
 wmgoods.online
 wmhlkfskdw.duckdns.org
+wmhmhrmhrmshshs.duckdns.org
 wmiliethu.live
 wmm53c.cyou
 wmpsystem.com
@@ -100942,6 +100956,7 @@ www-aractramersrgulama-8877.blogspot.com
 www-as-ayricalik-teb.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
+www-at-ayricalik-tb.myonlineportal.ch
 www-avis-com-tr.translate.goog
 www-avisleotokirala.online
 www-aylik-katalog-tr.com
@@ -100969,6 +100984,7 @@ www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
+www-cepte-ayricalik-tvb.myonlineportal.ch
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
@@ -101012,6 +101028,7 @@ www-cimmer-tr.com
 www-claro.top
 www-cmhurbaskanligi-iade.com
 www-coinbasewallet.com
+www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-cumhurbaskanligi-iletisim.com
 www-cumhurbaskanligiadesi.com

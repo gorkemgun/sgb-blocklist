@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 472799
-# Last change: 2026-10-03 17:59:41 UTC (sync mode: delta)
+# Records: 472820
+# Last change: 2026-10-03 21:22:47 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -53008,6 +53008,7 @@ asdnasdga.click
 asdnbcv.ru
 asdnghrq.net
 asdnhasdgasvdage.buzz
+asdnjfrwnjwfad.duckdns.org
 asdnmsad73283.online
 asdnqbwdvabsnd1.blogspot.com
 asdnqsae.click
@@ -57662,6 +57663,7 @@ ayricalik-cepte.myonlineportal.ch
 ayricalik-ceptetebde.my-homeip.de
 ayricalik-tepte.my-homeip.de
 ayricalikbimcelde.com
+ayricalikla-ceptetebde.my-homeip.de
 ayricaliklar-cepteteb-emekliye.my-homeip.de
 ayricaliklar-cepteteb.my-homeip.de
 ayricaliklarburada.com
@@ -100864,6 +100866,7 @@ cevda3jvv5oz1t37.online
 cevdetbakkal.com.tr
 cevdetdoner34xxtristanbl.xyz
 ceveop.live
+cevgerepilokigufere.club
 cevherabinizgeldi.com
 cevherlerburdangelr.online
 cevianteknoloji.xyz
@@ -128411,6 +128414,7 @@ dijitalkaimzacom.ga
 dijitalkaimzacom.ml
 dijitalkampanya-basvurular.com
 dijitalkampanya-denizacik.com
+dijitalkampanya-online.sbs
 dijitalkampanya-ziraat.com
 dijitalkampanya-ziraatbireysel.com
 dijitalkampanya-ziraatbireysel.sbs
@@ -135285,6 +135289,7 @@ dysonyearend.com
 dysonyetkilibayi.site
 dysoon.com.tr
 dysoool.com
+dysoreli.com
 dysphoria.androiddebugbridge.su
 dysson.com.tr
 dystropia.ddns.net
@@ -190126,6 +190131,7 @@ guncelleme.name.tr
 guncellemeindiriliyor.com
 guncellemeonaygizmetler.online
 guncellemetelefon.com
+guncellemezamani.abrdns.com
 guncellendi07aktifadresler306.site
 guncellendi07aktifadresler557.site
 guncellendi2giris342.site
@@ -206381,6 +206387,7 @@ hesapli.sigortacifirsatkampanyali.com.tr
 hesapli.sigortamnetabff.com.tr
 hesaplikartt.net
 hesaplikasabim.site
+hesaplikasabim.world
 hesaplikasap.online
 hesaplikasap.site
 hesaplimit.blog
@@ -213962,6 +213969,7 @@ hlkwebsubayrntilarsub693.shop
 hlkwojvbebefvhm.ru
 hlkxk13j12kxjkladxas.cfd
 hll-bayim.is-best.net
+hlldrymbrdansnz.duckdns.org
 hlles.blogspot.com
 hllgsyuklemeonlineodeme.gq
 hllljjjsgecisler.net
@@ -223810,6 +223818,7 @@ ilan-alisveris-get.com
 ilan-alisveris-sepet.com.tr
 ilan-alisveris-tr.online
 ilan-alisveris.online
+ilan-alisverisi-sepeti.com
 ilan-alisverisin.com
 ilan-anasayfa.com
 ilan-baglantisi.com.tr
@@ -271952,6 +271961,7 @@ lrj1mj.duckdns.org
 lrjikhmbys.duckdns.org
 lrjuoc.top
 lrk4aj.duckdns.org
+lrklaytmaynthglk.duckdns.org
 lrlgtqkefl.duckdns.org
 lrlhs.info
 lrlrumnfdo.duckdns.org
@@ -278561,6 +278571,7 @@ masakportal.com
 masakportal.net
 masakportal.org
 masakpro.app
+masaksorgu.net
 masaksorgu.org
 masaksorgugov.org
 masaksorgulama.com
@@ -319986,6 +319997,7 @@ panelreshuffle.top
 panels.fun
 panelsec.ddns.net
 panelsorgu.buzz
+panelsorgu.online
 panelsorgu.space
 panelsorgu.xyz
 panelss.xyz
@@ -336205,6 +336217,7 @@ pttavm.hizlisepet.info.tr
 pttavm.hizliveguvenli.sbs
 pttavm.hizmet-ilan.com.tr
 pttavm.hizmetalisveris.com.tr
+pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilan-getsecure.com
 pttavm.ilan-hizmet.com.tr
 pttavm.ilan-m.com.co
@@ -338070,6 +338083,7 @@ ptthgsyuklemenoktasi.com
 ptthgsyukllemeler.de
 ptthizlialisveris.shop
 ptthizligecisbakiyenileme.web.app
+ptthizligecisbakiym.art
 ptthizligecisyukleme.web.app
 ptthizlihizmet-hgs1-yuklememerkezi.xyz
 ptthizmet.help
@@ -343377,6 +343391,7 @@ qwfdsexqw.space
 qwfejlx.com
 qwfmmasmfwq-fwqfqfwqmqwf.store
 qwfqefr32rds.xyz
+qwfqwfqfw124214.duckdns.org
 qwfqwfqr12412asdf.blogspot.com
 qwfqwge.kalamastaluferomuskaralevosalkantara.net
 qwftgqwwq.phpnet.us
@@ -384018,6 +384033,7 @@ ssssaaaqqqqrrrrg.zapto.org
 ssssahibindenparaguvendeilan.com
 sssseww23xx.duckdns.org
 sssskltkmmfkmflrskmcztmrsss.com
+sssslllddddddsss.duckdns.org
 sssss4hibindenparamguvende.online
 ssssss123.xyz
 ssssssdssd.zapto.org
@@ -434195,6 +434211,7 @@ w1venjmcqd00a.duckdns.org
 w1w2w3.hopto.org
 w1wmtbanking.ddns.net
 w1wo28rz.duckdns.org
+w2-binance.com
 w21j71b.duckdns.org
 w232y0w60.duckdns.org
 w23t2t2tfwg.ru
@@ -440467,6 +440484,7 @@ wmgoods.online
 wmgwuigeggrwygw.info
 wmhd47snk.duckdns.org
 wmhlkfskdw.duckdns.org
+wmhmhrmhrmshshs.duckdns.org
 wmi.1217bye.host
 wmiapcservice.com
 wmiecyuifc.duckdns.org
@@ -443651,6 +443669,7 @@ www-as-ayricalik-teb.myonlineportal.ch
 www-as-cepte-tb.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
+www-at-ayricalik-tb.myonlineportal.ch
 www-avis-com-tr.translate.goog
 www-avisleotokirala.online
 www-avr-cep-web.myonlineportal.ch
@@ -443831,6 +443850,7 @@ www-cepte-a-101.online
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
+www-cepte-ayricalik-tvb.myonlineportal.ch
 www-cepte-b-asn.myonlineportal.ch
 www-cepte-birey-async.myonlineportal.ch
 www-cepte-de-tb.myonlineportal.ch
@@ -444150,6 +444170,7 @@ www-coinsbitsite-platform.ml
 www-coinsbitsite-platform.tk
 www-commbankalert.ddns.net
 www-copyrightlnstagram.cf
+www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-cumhburskanligi.com
 www-cumhrurbaskanligi.com
