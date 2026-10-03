@@ -2034,6 +2034,7 @@
 101-bugune-ozel-ramazan-indirimleri-tr.mooo.com
 101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online
 101-cadir26temmuz.com
+101-cep-bugune-ozel-online-sepet-alisveris-indirimi-sepette-tr.ticaret-tr.online
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-cepte.com.tr
 101-cesmesubemiz.com
@@ -2103,14 +2104,19 @@
 101-extra-mobil-bugune-ozel-indirim-sepeti-cepte-alisveris-tr.bilgicep-tr.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop-plus.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-firsati-tr.hesaplishop-tr.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
+101-extra-mobil-sadece-bugune-ozel-indirim-sepeti-tr.indirimtakip.online
+101-extra-mobil-sadece-bugune-ozel-indirimler-mobilde-tr.trendly-shops.online
 101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online
 101-extra-mobil-sadece-bugune-ozel-mobil-sepet-indirimleri-cep.cepfirsat.online
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
+101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.indirimsaati.online
+101-extra-mobil-sadece-online-indirim-alisveris-sepeti-tr.ticaret-tr.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-indirim-sadece-bugune-ozel-tr.prime-store-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
@@ -2145,8 +2151,11 @@
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.shop-buy-tr.online
 101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online
+101-extra-sadece-bugune-ozel-online-alisveris-indirimi-tr.bilgi-cepte.online
+101-extra-sadece-bugune-ozel-online-alisveris-sepet-indirimleri.mobilsde.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
 101-extra-sadece-bugune-ozel-online-mobil-shop-indirimleri-tr.alisveriscepte.online
+101-extra-sadece-bugune-ozel-online-sepette-alisveris-tr.sepetteyiz-tr.online
 101-extra-sadece-bugune-ozel-online-sepette-indirim-tr.web-buy.online
 101-extra-sadece-bugune-ozel-online-siparis-sepeti-mobil-tr.shop-sepeti.online
 101-extra-sadece-bugune-ozel-sepet-indirimleri-mobilde-tr.sepetbox-tr.online
@@ -2166,14 +2175,18 @@
 101-extra-sadece-online-bugune-ozel-mobil-indirim-sepeti-tr.online-plus.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-bugune-ozel-sepet-indirimleri-tr.magazada-shop.online
+101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-alisveris-sepet-indirimleri-mobil.bireysel-shops-mobil.online
+101-extra-sadece-online-ozel-alisveris-sepeti-tr.bilgi-sepeti.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
+101-extra-sadece-online-ozel-indirimli-alisveris-sepette-tr.mobilcitr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services-cep.online
 101-extra-sadece-online-ozel-mobilde-indirim-sepette-tr.elektro-tr.online
+101-extra-sadece-online-ozel-sepet-indirimleri-mobilde-tr.cepteburda.online
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulgecesi13.com
 101-eylulgecesi13.net
@@ -2260,9 +2273,12 @@
 101-mobil-extra-online-siparis-ozel-sepet-indiirmli-tr.web-shop-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri.storego-tr.online
+101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.indirimtakipte.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
 101-mobil-extra-sadece-bugune-ozel-indirimler-tr.shops-mobil.online
 101-mobil-extra-sadece-bugune-ozel-online-indirim-sepette-tr.plus-tr.online
+101-mobil-extra-sadece-bugune-ozel-online-indirimler-alisveris.hemenmagaza-tr.online
+101-mobil-extra-sadece-bugune-ozel-online-siparis-ver-tr.cepspts.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-online-alisveris-tr.linkpc.net
 101-mobil-online-alisveris.ooguy.com
@@ -9843,6 +9859,7 @@
 23eyluldebucukdasipar.cloud
 23eyluldensiparislerine.cloud
 23eyluldesiparislerindenhizlan.cloud
+23eyluldesiparislerinhizlanir.cloud
 23f3d46f.ns-u629df.shop
 23fefvdfmbhty5ouihksdfs.com
 23fvtlc8.duckdns.org
@@ -15797,6 +15814,7 @@
 5151501010.duckdns.org
 5151501011.duckdns.org
 5151510000.duckdns.org
+51515151222.duckdns.org
 515155555555555.duckdns.org
 51516161.com
 51521124235.com
@@ -91617,6 +91635,7 @@ bunubilir.com
 bunuburdaalin0hadialin.com
 bunudayap.com
 bunuellemeyn.tk
+bunuencoksenisters.sbs
 bunukacirmamanizgerekiyor.net
 bunun-gibilerde-verdiklerine-bakarak-bilinir.com
 bunun-icin-buradayiz.shop
@@ -100918,6 +100937,7 @@ cezadavasorgu.org
 cezadenetimbirim.online
 cezadosya.net
 cezadosya.org
+cezadosyabilgisi.com
 cezadosyalari.com
 cezadosyasiiportal.com
 cezadosyasiiuzlasma.com
@@ -125288,6 +125308,7 @@ detay-qnbfinansbank.ws
 detay.yilbasinaozel.com
 detay1li.xyz
 detayal.online
+detaybakiye.lol
 detaybsvur512.com
 detaylar-btcturk.com
 detaylar-pandemidestekpaketi.com
@@ -148011,6 +148032,7 @@ ehazinetccbmtr929.tk
 ehazinetr402.b-cdn.net
 ehazinetrtriade.tk
 ehazinetrtriade21.tk
+ehazineuzlasma.com
 ehbbzywvus.duckdns.org
 ehcgyt6a.duckdns.org
 ehdmnf.com
@@ -164045,6 +164067,7 @@ fekigter2.us
 fekilopol.xyz
 fekmiz2458.wordpress.com
 fekohis1.us
+fekolakki.co
 fekon.s3.ap-south-1.amazonaws.com
 fekoqaydb.duckdns.org
 fekul.xyz
@@ -179279,6 +179302,7 @@ gecislerceza.in
 gecislerde.com
 gecislerdeahmetkayahizlidir.store
 gecislerdebalikyuzuyor.xyz
+gecisleretiketbakieykl.web.app
 gecislerhesgslborce.duckdns.org
 gecislerhgsodeme.sg-host.com
 gecislerhhhgs.org
@@ -186948,6 +186972,7 @@ gozleri-kamastiran-harikalar-yeniden-geldi.com
 gozleri-kamastiran-sekilde-karisinizda-suanda.com
 gozleri-kamastiran-sekilde-yeniden-devam.com
 gozlerikahverengisunudasorayim.sbs
+gozlerinbaskabaska.sbs
 gozlerindekiay.net
 gozlerine-inanamayanlar-yuzlere-yansiyan-gulumsemeler.com
 gozlerinmisyalanci.sbs
@@ -207838,6 +207863,7 @@ hgsbakiyeyukle.tk
 hgsbakiyeyukle.xyz
 hgsbakiyeyuklegec.com
 hgsbakiyeyuklekazan.com
+hgsbakiyeyuklem.art
 hgsbakiyeyukleme-corporate.ga
 hgsbakiyeyukleme-tr.com
 hgsbakiyeyukleme.com
@@ -234293,6 +234319,7 @@ isknbnka.xyz
 isko-web.ink
 iskolaygirisservisi.com
 iskrdestekhizmeti.sbs
+iskrdestekleri.sbs
 iskred.qss.onl
 iskredibasvurularim.vercel.app
 iskredifirsatimizla.duckdns.org
@@ -236138,6 +236165,7 @@ istanbulkartindirim.net
 istanbulkartindirimgunlerii.net
 istanbulkartindirimzamani.net
 istanbulkartiniiiz34.cf
+istanbulkartislem.lol
 istanbulkartislem.xyz
 istanbulkartl.lat
 istanbulkartll.digital
@@ -247284,6 +247312,7 @@ kaitopanel.com
 kaitopititit.hopto.org
 kaitopititititi.hopto.org
 kaitopititpititi.hopto.org
+kaitoxroleastt.sbs
 kaittametoofline.cfd
 kaivac.store
 kaizenblvlvlkl.net
@@ -249195,6 +249224,7 @@ kampanyaliurunlerzamani.com
 kampanyaliurunsayfasi.click
 kampanyaliyizbizim.site
 kampanyallar.online
+kampanyallarkacmaazz.com
 kampanyallinsigorta.xyz
 kampanyalllarekimayifirsatlariii.com
 kampanyalrla.click
@@ -249800,6 +249830,7 @@ kamporya.xyz
 kampotodemon.my
 kamppali.xyz
 kamppanyalarikacirmaa.com
+kamppanyalarryuzbirdee.com
 kampppanyaliurunlerimizekimindevasa.com
 kampsandalyeleri.vercel.app
 kampsandalyesi-carrefoursa.vercel.app
@@ -249872,6 +249903,7 @@ kamudavabilgi.org
 kamudavalarim.org
 kamudavam.org
 kamudavasorgu.net
+kamudavasorgu.org
 kamudavasorgulama.org
 kamudavauzlasma.com
 kamudavauzlasma.org
@@ -249937,6 +249969,7 @@ kamusenindirim.vercel.app
 kamusorgu.org
 kamusorgula.org
 kamusorgula.xyz
+kamusorgulama.com
 kamusorgulama.org
 kamusorgum.org
 kamusorgusistemi.org
@@ -270493,6 +270526,7 @@ loawcan.click
 loawcan.net
 loawdrf.ddns.net
 loawis.site
+loayrexdru.sbs
 loayrexdru.top
 lobanus.hopto.org
 lobbydesires.com
@@ -273943,6 +273977,7 @@ m-mobildeniz-sube.com
 m-musterisubeonline.com
 m-nturkiye-gov-tr-aidat-iade-sistemi.tk
 m-o-b-i-l.my-homeip.com
+m-o-b-i-l1131.duckdns.org
 m-obilet.info
 m-obilet.org
 m-obilet.uk
@@ -315993,6 +316028,7 @@ otokocturkiye.net
 otokocturkiye.org
 otokocturkiyefilo.com
 otokofilo.com
+otokofilomkurumsal.com
 otokofilomkurumsal.net
 otokokurumsal.com
 otokokurumsal.net
@@ -336177,6 +336213,7 @@ pttavm.ile-onay-sepete.net.tr
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ile-sepetiniz.com.tr
+pttavm.ile-sepetinizde.com.tr
 pttavm.ile-sepette-islem.com.tr
 pttavm.ile-siparis-et.com.tr
 pttavm.ile-siparis-et.online
@@ -355407,6 +355444,7 @@ sahi-binden.com
 sahi-binden.net
 sahi.binden.siparisinizguvende.com
 sahib-in-den-get-ilan.shop
+sahib-in-den-para-m-guv-ende-get.store
 sahib-inden-param-guven-de-get-alisveris.tk
 sahib-inden.com
 sahib.inden-get.com
@@ -355775,6 +355813,7 @@ sahibinden-get.ru.com
 sahibinden-get.satis-tr.online
 sahibinden-get.satislarim-odeme-servisi.com
 sahibinden-get.servis-emobilim.com
+sahibinden-get.servisepetin-10.sbs
 sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
@@ -355908,6 +355947,7 @@ sahibinden-getilan.tr-webislemlerim-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-getalisveris.online
 sahibinden-getilan.tr-webislemlerin-tr-get-alisveris.online
 sahibinden-getilan.ty-hizmet.online
+sahibinden-getilan.web-tr-islemlerim-getalisveris.online
 sahibinden-getilanlar.com.tr
 sahibinden-getle-guvende.com
 sahibinden-getodeme.com
@@ -367452,6 +367492,7 @@ servetaraf.world
 servetaydemir369.wixsite.com
 servetler-server1.arkon1.online
 servetler.win
+servetsayar.top
 servetvebasari.online
 serveur202323.ddns.net
 servexplore.xyz
@@ -376198,6 +376239,7 @@ smartneedshub.shop
 smartnest.quest
 smartnest.sbs
 smartnote.co
+smartoffer.lol
 smartoptiontrade.online
 smartpaygen.com
 smartpdfreader.com
@@ -376683,6 +376725,8 @@ sndekmuczl.xyz
 sndenbnlaraglbrdanal.shop
 sndenglckhrsyykle.mooo.com
 sndeodmemglsn.net
+sndesbvrhmn.click
+sndeyakalahmn.duckdns.org
 sndgl1brdaksmz0fgm1.com
 sndglbuuczlklara.mooo.com
 sndgldoopslas.shop
@@ -376699,6 +376743,7 @@ sndresckgmhizligecis.net
 sndresekgmhizligecis.net
 sndresgkgmhizligecis.net
 sndresokgmhizligecis.net
+sndyaralnyesil.click
 sndygreenkegheedahatakankeadeshnaasnwmd.ydns.eu
 sndyperezluzcafesnsk.dns.army
 sndz2020.hopto.org
@@ -382134,6 +382179,7 @@ sponslrumedya2025.duckdns.org
 sponso-rbasvrumm-onilne.com
 sponsor---cekilisim.online
 sponsor---cekilisin.online
+sponsor---cekilisler.online
 sponsor--cekilis.online
 sponsor--cekilisi.online
 sponsor--cekilisim.online
@@ -435843,6 +435889,8 @@ web-tejrat1.live
 web-telegram.ug
 web-toeslagen.ddns.net
 web-tr-islemler-get-alisveris.online
+web-tr-islemler-getalisveris.online
+web-tr-islemlerim-getalisveris.online
 web-tr-land.ru.com
 web-tr-line.click
 web-tr.tk
@@ -443397,6 +443445,7 @@ www-aa-com-tr.blogspot.com
 www-aa-com-trx.blogspot.com
 www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
+www-acep-only-tvb.myonlineportal.ch
 www-acik-deniz-2023.online
 www-acik-islem-denizde.online
 www-acikdeniz-basvuru.com
@@ -443554,6 +443603,8 @@ www-aracmuayenerandevu.com
 www-aracrandevumuayene.com
 www-aractramersrgulama-8877.blogspot.com
 www-art-cepte-tvb.myonlineportal.ch
+www-as-ayricalik-teb.myonlineportal.ch
+www-as-cepte-tb.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
 www-avis-com-tr.translate.goog
@@ -443722,6 +443773,7 @@ www-cekilis-qnbfinansbank.tk
 www-cekilis.com
 www-cekilisiphone-teb.net
 www-cep-on-btb.myonlineportal.ch
+www-cep-on-tb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepsubeleri-qnbfinansbank-com.tk
@@ -446675,6 +446727,7 @@ www-vergdairesibasvurum.com
 www-verification-vinted.info
 www-verlficacion.hopto.org
 www-vmware.top
+www-web-cept-tb.myonlineportal.ch
 www-web-turkiyegovtr.co
 www-web-turkiyegovtr.com
 www-web-turkiyegovtr.org

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104957
-# Last change: 2026-10-03 08:12:48 UTC (sync mode: delta)
+# Records: 104982
+# Last change: 2026-10-03 13:28:05 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -256,6 +256,7 @@
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop-cep-sepet-tr.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
+101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
@@ -2187,6 +2188,7 @@
 512saqqwr12.icu
 514552145225.cloud
 51514344.duckdns.org
+51515151222.duckdns.org
 515155555555555.duckdns.org
 51521124235.com
 515555456465.cloud
@@ -16788,6 +16790,7 @@ bunnwave.com
 bunu-kacirmayi-dusunme.com.tr
 bunu-kacirmayi-dusunmedin-demi.com.tr
 bunualmadanolmaz.sbs
+bunuencoksenisters.sbs
 bunun-iicin-variz.shop
 buphkahapsa.net
 buqegoi.info
@@ -26160,6 +26163,7 @@ detainfoa.top
 detainskim.top
 detay-btcturk.com
 detay.yilbasinaozel.com
+detaybakiye.lol
 detaylar-btcturk.com
 detaylar.site
 detaylargelsinmisimdi.tr.gg
@@ -30172,6 +30176,7 @@ ehazinesorgu.com
 ehazinetcbmtrgirisi634.tk
 ehazinetcbmtrgovtr1221.tk
 ehazinetrtriade21.tk
+ehazineuzlasma.com
 ehdybsvrakmi.com
 ehegese.arabamuayenesi.xyz
 ehehehheheheehheeheheheheehe.info
@@ -34076,6 +34081,7 @@ feelridge.top
 feelyearn.top
 feelyourpain.co
 feepropagation.top
+fekolakki.co
 felbranthor.shop
 felfecirdom.co
 felinnustivish.top
@@ -37349,6 +37355,7 @@ gecisihlalsorgulamaislemm.com
 gecisihlalsorgulamaislemnz.com
 gecisler.heylink.fyi
 gecislerbildiri.icu
+gecisleretiketbakieykl.web.app
 gecislerhhhgs.org
 gecisodemesistemi.info
 gecisodemesistemler.info
@@ -39138,6 +39145,7 @@ gozkirptim.lol
 gozle-gorunmeden-ortaya-cikmayip-daima-hissederiz.com
 gozlemnoktasi.com
 gozleri-kamastiran-harikalar-yeniden-geldi.com
+gozlerinbaskabaska.sbs
 gozlerindekiay.net
 gozlukalstore.com
 gozuken-kadar-sende-hep-iyisi-geldi.com
@@ -43277,6 +43285,7 @@ hgsbakiyeniziyukleyn.web.app
 hgsbakiyesipeptid.web.app
 hgsbakiyeukleyin.firebaseapp.com
 hgsbakiyeukleyin.web.app
+hgsbakiyeyuklem.art
 hgsbakiyeyuklemeburda.com
 hgsbakiyeyuklmei.firebaseapp.com
 hgsbakiyukleme.web.app
@@ -49337,6 +49346,7 @@ istanbulkartdolumistasyonu.online
 istanbulkartimtl.net
 istanbulkartimyuklee.com
 istanbulkartinaykle.com
+istanbulkartislem.lol
 istanbulkartislem.xyz
 istanbulkartnakiye.bsvrislm.com
 istanbulkartonline.xyz
@@ -51660,6 +51670,7 @@ kampanyalipazarsoleni.cfd
 kampanyalipuanlarbireyselbasvurum.run.place
 kampanyalitemmuzurunleri.online
 kampanyalitemuzurunleri.xyz
+kampanyallarkacmaazz.com
 kampanyam-101.com
 kampanyameventle.net
 kampanyamharika1o1.com
@@ -51726,6 +51737,7 @@ kampnyasepete.click
 kampnynzpayfxde.com
 kampnyysonfrsltarrbasvrr1932.online
 kampotodemon.my
+kamppanyalarryuzbirdee.com
 kampsandalyeleri.vercel.app
 kampsandalyesi.vercel.app
 kampsendalyesi.vercel.app
@@ -56277,6 +56289,7 @@ loaketurkiye.com
 loansnap.top
 loavetinet.store
 loawcan.net
+loayrexdru.sbs
 loayrexdru.top
 lobbyistbarometer.top
 lobbyistchamber.top
@@ -57309,6 +57322,7 @@ m-hr-s.wqdx12x1.xyz
 m-kampanya.xyz
 m-karcahome.shop
 m-mgarg.com
+m-o-b-i-l1131.duckdns.org
 m-obilet.uk
 m-papara.com
 m-pttavm.com
@@ -67603,6 +67617,7 @@ otokocturkey.com
 otokocturkey.org
 otokocturkeyfilo.net
 otokofilo.com
+otokofilomkurumsal.com
 otokofilomkurumsal.net
 otokokurumsal.com
 otokokurumsal.net
@@ -77685,6 +77700,7 @@ sahibinden-get.mobilservisleriniz-16.sbs
 sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
+sahibinden-get.servisepetin-10.sbs
 sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
@@ -80594,6 +80610,7 @@ serverssl44-22-domain-omnicrosoft.com
 serveryonetimpanelimetin2.xyz
 serveshrubbery.top
 servetler-server1.arkon1.online
+servetsayar.top
 servetvebasari.online
 serviactivas3552.tonohost.com
 service--legdrer--start--io.webflow.io
@@ -82781,6 +82798,7 @@ smartmoneyinvestments.homes
 smartneedshub.shop
 smartnest.quest
 smartnest.sbs
+smartoffer.lol
 smartpaygen.com
 smartphoneenvisage.top
 smartphonemalignant.top
@@ -82926,11 +82944,14 @@ sndebuguneozelkatilhemen.tech
 sndebunlaraglmban.com
 sndehmngelal.com
 sndenbnlaraglbrdanal.shop
+sndesbvrhmn.click
+sndeyakalahmn.duckdns.org
 sndgle101-dn1al.com
 sndkkfrslarrkmpnyaabasvrr25413698.pro
 sndkkfrslarrkmpnyaabasvrr748596.online
 sndkkfrslarrkmpnyaabasvrr748596.pro
 sndordnhmnrvdal.click
+sndyaralnyesil.click
 sneakstatutory.top
 snguvende.online
 snhd1gejlx0sqzg1beqszers.com
@@ -84345,6 +84366,7 @@ sponlorlusok.online
 sponlorluyonlledirme.online
 sponsor---cekilisim.online
 sponsor---cekilisin.online
+sponsor---cekilisler.online
 sponsor--cekilis.online
 sponsor--cekilisi.online
 sponsor--cekilisim.online
@@ -100880,6 +100902,7 @@ www-alisversx-guvenlrx-odemex.com.tr
 www-alisversx-guvenlrx-odemex.xyz
 www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
+www-as-ayricalik-teb.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
 www-avis-com-tr.translate.goog
@@ -100903,6 +100926,7 @@ www-brauntr.com
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
 www-cep-on-btb.myonlineportal.ch
+www-cep-on-tb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepte-a-101.xyz
@@ -101096,6 +101120,7 @@ www-twt-twitter-com.tk
 www-uzaktanislem.blogspot.com
 www-vakifbankcekilishediye.com
 www-vakifbankcekilishediyeler2022.com
+www-web-cept-tb.myonlineportal.ch
 www-yapi-kredi-cekiliskatilim.gq
 www-yapikredi-cekilisworld.tk
 www-yapikredi77yilindahediyeler.com
