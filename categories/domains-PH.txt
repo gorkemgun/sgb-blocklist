@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 104951
-# Last change: 2026-10-02 23:00:58 UTC (sync mode: delta)
+# Records: 104957
+# Last change: 2026-10-03 08:12:48 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -26861,6 +26861,7 @@ dijitalsiparis-hizlial.sbs
 dijitalsiparis-kampanyalar.sbs
 dijitalsiparis-kampanyasi.sbs
 dijitalsiparis-kapinda.sbs
+dijitalsiparis-online.sbs
 dijitalsiparisler-kapinda.duckdns.org
 dijitalsiparisler-kapinda.sbs
 dijitalsitemizs.site
@@ -26911,6 +26912,7 @@ dikmt.qpon
 dilbilimselanaliz.pro
 dildoapi.click
 dildochecker.fun
+dildochecker.site
 dildochecker.vip
 dildochecker.xyz
 dildofree.fun
@@ -38907,6 +38909,7 @@ googieaccount.top
 googiedrivers.com
 googl-6c11f.firebaseapp.com
 google-analytiks.com
+google-link.my-homeip.de
 google-play-cards.tk
 googleadwordsuzmani.online
 googlecode-card.cf
@@ -46323,6 +46326,7 @@ ikramiye-prb.ml
 ikramiyelergirisyap765765.com
 ikramlari-prb.ml
 ikramtercih.xyz
+ikslamlt.myshopify.com
 iktmuopmus.net
 ikxmrkt.net
 ikxmrrkt.net
@@ -60137,6 +60141,7 @@ mhrs-giris.blog
 mhrs-giris.online
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
+mhrs-islem-asads.vercel.app
 mhrs-s.digital
 mhrs-sistem.vercel.app
 mhrs.alllahnerdekiya.sbs
@@ -84243,6 +84248,7 @@ spet-teki-indirimi-kap101.click
 spet-teki-indirimi-kap101.cyou
 spet-teki-indirimi-kap101.xyz
 spetimdearzusan.xyz
+spettegelsnfrstlarextra.xyz
 sphereplead.top
 spheresulphur.top
 sphericalabreast.top
