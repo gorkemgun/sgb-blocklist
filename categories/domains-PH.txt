@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105092
-# Last change: 2026-10-04 17:39:42 UTC (sync mode: delta)
+# Records: 105096
+# Last change: 2026-10-04 21:34:01 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1390,6 +1390,7 @@
 21455452222255899894.duckdns.org
 21455452222255899899.duckdns.org
 21461sndmsndsasd.com
+2146614.xyz
 21509-coinbase.com
 2151261.xyz
 215215151.xyz
@@ -51881,6 +51882,7 @@ kapida-bondify.bond
 kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
 kapida-haftax.com
+kapida-indcrm-kapida-isnrm.sbs
 kapida-lumera.cfd
 kapida-market-online.name.tr
 kapida-markethizli.com
@@ -64270,6 +64272,7 @@ nopanel-723462.top
 nopanel-76255.top
 nopanel-815625.top
 nopanel-85434.top
+nopanel-92562.top
 nopanel-98453.top
 nopanel.click
 nopanel.icu
@@ -74404,6 +74407,7 @@ rafaeloskr.cc.cd
 rafaelreklam.sbs
 rafaeltb.us.ci
 rafaelx.ccwu.cc
+rafaelx.online
 rafalardakiindiirmhavasiburadaesiyor.com.tr
 rafata3131acsldjcklk1j3x12.cfd
 rafatafakitap123x545x.shop
