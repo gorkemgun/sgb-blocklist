@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105064
-# Last change: 2026-10-04 13:15:28 UTC (sync mode: delta)
+# Records: 105092
+# Last change: 2026-10-04 17:39:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1378,6 +1378,7 @@
 2124552556555690.duckdns.org
 2124552556555695.duckdns.org
 2124552556555696.duckdns.org
+21312312.xyz
 213123190.cloud
 21321310100101.cloud
 2132131200.com
@@ -2799,6 +2800,7 @@
 8888888000000004.cloud
 8889553311.duckdns.org
 88a8a89a98a8a9.net
+891244.xyz
 89304-coinbase.com
 89375-coinbase.com
 894561235864132.sbs
@@ -8180,6 +8182,7 @@ arabuluculukegm.org
 arabulucumerkezi.org
 arac--muayturk.online
 arac-2txtxc-muaynem-trvtudktr.net
+arac-bakiye.lol
 arac-dolum2.xyz
 arac-dolum3.xyz
 arac-dolum5.xyz
@@ -8983,6 +8986,7 @@ artilleryparish.top
 artilleryshepherd.top
 artintolight.com
 artisansmels.com
+artisoft.duckdns.org
 artistcensus.top
 artistfeast.top
 artisticabbreviation.top
@@ -13750,6 +13754,7 @@ binancetrgiris002.duckdns.org
 binancetrgiris005.duckdns.org
 binancetrheyebnlt.vercel.app
 binancetrkayitdogrulama.online
+binancetrlogin.duckdns.org
 binancetrmobil001.duckdns.org
 binancetrmobil002.duckdns.org
 binancetrmobil003.duckdns.org
@@ -18696,6 +18701,7 @@ cepsube.misecure.com
 cepsube.netlify.app
 cepsubelerim.com
 cepsubem.com.tr
+cepte-eylul.info.tr
 cepte-eylul.net.tr
 cepte-islemleriminz-garanti.duckdns.org
 cepte-klima.xyz
@@ -43773,6 +43779,7 @@ hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
 hizli-gecisetkitkyatirm.web.app
+hizli-gecsektityklemek.web.app
 hizli-geri-yukleme-ekrani.store
 hizli-havale.com
 hizli-hemengelsinaktivasyonkvyt.click
@@ -44916,6 +44923,7 @@ howtodoooo.com
 howupbusiness.com
 hoxbama.xyz
 hoxcbo.top
+hoyadar723.workers.dev
 hoystlerskye.duckdns.org
 hozutia.com
 hozutya.com
@@ -46380,6 +46388,7 @@ ikxnauqa.com
 ikztxzmrr.net
 ikztzzmr.net
 ilah.cc
+ilah.city
 ilahiyatilim.net
 ilan-1012354208-sahibinden.com
 ilan-1012354858-sahibinden.com
@@ -46616,6 +46625,7 @@ ilerivizyonrotasi.com
 ilerleme-yaptirim-grim.myonlineportal.ch
 ilert.ru
 ilesatinal.com
+ileservishizmetleri.com
 ileservishzmetlerinz.com
 iletiismediadedd93458.com
 iletisim-aktarim-ekrani.site
@@ -49375,6 +49385,7 @@ istanbulkartbakiyeyukleme.vercel.app
 istanbulkartbakiyeyuklememerkezindesin.vercel.app
 istanbulkartbasvur.web.app
 istanbulkartbasvuru.lol
+istanbulkartbasvuru.pro
 istanbulkartbasvuru.xyz
 istanbulkartbelgim.xyz
 istanbulkartbelgimm.xyz
@@ -60329,6 +60340,7 @@ mhssrasa.store
 mhssrasa.website
 mhssrrrahas.site
 mhssrrrdhas.site
+mhsssraa.cfd
 mhsssrassa.live
 mhsssrassb.live
 mhsssrassc.live
@@ -60377,6 +60389,7 @@ microsoft-ads.website
 microsoft-alert.club
 microsoft-clouds-onlines.com
 microsoft-dns-reload-1r.pages.dev
+microsoft-online.hoyadar723.workers.dev
 microsoft-web-8479f7.webflow.io
 microsoft365-secure.login6.com
 microsoft365intermsorg.weebly.com
@@ -77839,6 +77852,7 @@ sahibinden-guvenli.siparisonayim.online
 sahibinden-guvenli.tr-aliminiz.net
 sahibinden-guvenliode.com.tr
 sahibinden-guvenliodeme-get-paramguvende.salihinden-al.net
+sahibinden-guvenliodeme-sifir-alisveris.lovable.app
 sahibinden-guvenliodeme.gethemensatinal.com.tr
 sahibinden-guvenliodeme.net
 sahibinden-ilan-security.com
@@ -77902,6 +77916,7 @@ sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
+sahibinden-param-guvende.siparis-onayi.online
 sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisonayi.online
@@ -78610,6 +78625,7 @@ sahibindenile.tr-s.com.tr
 sahibindeniletisimkargo.com
 sahibindeniletisimkasko.com
 sahibindenilngett.com
+sahibindenin.com.tr
 sahibindenkaargom.com
 sahibindenkargo-islem.com
 sahibindenkargo.com
@@ -78777,6 +78793,7 @@ sahikapaketleme.com
 sahilibinden.com
 sahilibinden.net
 sahinbiden-urun.com
+sahinden-param-guvende.siparis-onayi.online
 sahinden.com
 sahininden.com
 sahinindenkargopsecure.com.tr
@@ -80740,6 +80757,7 @@ servis-yurticikargo-tr.com
 servisbilgi-tr.online
 servisbimcell.com
 serviscurtis.shop
+servisepetin-15.sbs
 servishabers.site
 servishizmetleriniz.online
 servisi-150basvuru.com
@@ -81345,6 +81363,8 @@ shopmix.click
 shopmobil.online
 shopnestat.com
 shopopp-2912.click
+shopping-online.online
+shopping-tr.online
 shoppingmartyrdom.top
 shoppingstrand.top
 shoppiniracy.top
@@ -82218,6 +82238,7 @@ siparis-market-ptt-avm.online
 siparis-olustur-223031.com
 siparis-olustur.online
 siparis-onay-tr.online
+siparis-onayi.online
 siparis-onayim.online
 siparis-onayla.online
 siparis-onayli-115511.com
@@ -84927,6 +84948,7 @@ sss-sahibinden.mtguvende.online
 sss-sahibinden.sdhguvende.online
 sss-sahibinden.slguvende.online
 sssasswsdsddbimmmcceeekmpnya444.org
+sssatw4lehi.sbs
 sssklrkmflrskmcsztmrss.com
 ssslcdsklflskdflksckflds.cfd
 ssslkfkmckzmtmrkmfmklcmzmktmsms.store
@@ -88162,6 +88184,7 @@ tccumhurbaskanligiiletisimmerkezi.mermerfatihlerimde.com
 tccumhurbaskanligiletisimmerkezi.mermerfatihlerimde.com
 tcddyhtlab.info
 tcdkyht.net
+tcdogrula.com
 tcegm.net
 tcgonderitr.lat
 tchazinemasak.net
@@ -90838,6 +90861,7 @@ toplukonutbasvuruzhuspm.vercel.app
 toplukonutbazg.vercel.app
 toplukonutbazp.vercel.app
 toplukonutbazz.vercel.app
+toplukonutdavetli.vercelapi.com
 toplukonuthemenbasvuru.biz
 toplukonutiadresi.duckdns.org
 toplukonutidareleri358122.vercel.app
@@ -96190,6 +96214,7 @@ vbluroinaiqz.boyacentury.cn
 vbmobilllvdijitall-v.tk
 vbmobilvibimerkez.com
 vbmuakf.click
+vbnm7752.site
 vbnmasdnmv.app
 vbrdmcokpzxol.com
 vbsbe.club
@@ -98792,6 +98817,7 @@ webiscep-maximum-mobil.cf
 webisfirsatcepte.com
 webislemler-girisaidathizmetler.com
 webislemleriackddeenzz.site
+webislemlerimiz.sbs
 webislemtakip.com
 webisubebaharfirsat.com
 webitresourse.com
@@ -100976,6 +101002,7 @@ www-alisversx-guvenlrx-odemex.xyz
 www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
 www-as-ayricalik-teb.myonlineportal.ch
+www-as-cepte-ontb.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
 www-at-ayricalik-tb.myonlineportal.ch
@@ -101005,6 +101032,7 @@ www-cep-on-tb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepl-tvb-dolu.myonlineportal.ch
+www-ceptb-ayricalik-on.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
