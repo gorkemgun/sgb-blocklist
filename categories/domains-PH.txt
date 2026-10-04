@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105047
-# Last change: 2026-10-04 06:59:22 UTC (sync mode: delta)
+# Records: 105064
+# Last change: 2026-10-04 13:15:28 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3867,6 +3867,7 @@ a1o1haziranfirsati.com
 a1o1i.net
 a1o1ileindirmegel.com
 a1o1indir.com
+a1o1indirim.com.tr
 a1o1indirimler.com
 a1o1indirimonline.com
 a1o1ivolta.sbs
@@ -33946,6 +33947,7 @@ fb-profileid11137532.com
 fb-radicrat.sbs
 fb-sponsorluform.site
 fb1g33ih.com
+fb36660.site
 fbaa-ktlm.online
 fbavarlikmenkul.com
 fbegcc.top
@@ -42030,6 +42032,7 @@ hazeexposition.top
 hazequest.top
 hazeslack.top
 hazinebakanligigov.tk
+hazinedosya.com
 hazinegovuktr7.ml
 hazineiadedestegi46.com
 hazineiadesi23.ga
@@ -42718,6 +42721,7 @@ hemenislslsonucsb.online
 hemenismlantans.net
 hemenismlnktasnati.net
 hemenistlbulalnul.online
+hemenkap.online
 hemenkapindsnn.click
 hemenkatil-hediyenikapfirsati.tech
 hemenkatilbubasvuruyasendekazan.tech
@@ -43744,6 +43748,7 @@ hizlbnngiristr.com
 hizlbudgetarackiralasana.space
 hizlgcsdldr.click
 hizlgecisbakieyukleme.web.app
+hizlgecisbayniz.art
 hizlgecisnyuklemesi.art
 hizlgecisonlnebakye.lat
 hizlgecsdolumu.org
@@ -43767,6 +43772,7 @@ hizli-denizkatilimv2acikdeniz.com
 hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
+hizli-gecisetkitkyatirm.web.app
 hizli-geri-yukleme-ekrani.store
 hizli-havale.com
 hizli-hemengelsinaktivasyonkvyt.click
@@ -48134,6 +48140,7 @@ instagirisyap.tk
 instagraam.com.tr
 instagram-accaund.com
 instagram-business-copyright.ml
+instagram-clone-sigma-seven.vercel.app
 instagram-com.info
 instagram-confirmation.tk
 instagram-copyrights-supports.tk
@@ -60391,6 +60398,7 @@ microwavej.online
 microwavelipstick.top
 micsrosoftonline.com
 mictrest.mnws.ru
+midas.com.ng
 midascheck.com.tr
 midaspubgm21.com
 middayassault.top
@@ -61194,6 +61202,7 @@ mobilservisin-32.sbs
 mobilservisin-34.sbs
 mobilservisiniz-10.sbs
 mobilservisler-34.sbs
+mobilservisler-35.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
 mobilservisler-53.sbs
@@ -68550,6 +68559,7 @@ panzerkroxy.sorgupanel.net
 paopaoliaotian.s3.ap-east-1.amazonaws.com
 papa8.site
 papacker.cfd
+papapapxxxx.mirokamigo4.workers.dev
 papara-go.com
 papara-yazfirsati-com.ml
 papara.company
@@ -77043,6 +77053,7 @@ ruhsuzpanel1.lol
 ruhsuzpanel1.sbs
 ruhsuzpanel1.site
 ruhsuzpanel1.website
+ruhsuzpanel2.shop
 ruhsuzpanel2.site
 ruhsuzpanel2.website
 ruhsuzpanel3.website
@@ -77733,6 +77744,7 @@ sahibinden-get.mobilsepetllerservisim.online
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
+sahibinden-get.mobilservisler-35.sbs
 sahibinden-get.mobilservisler-50.sbs
 sahibinden-get.mobilservisler-62.sbs
 sahibinden-get.mobilservisler-63.sbs
@@ -81328,6 +81340,7 @@ shopinclude.top
 shopkeeperly.gifts
 shoplovego.com
 shoplunaq.digital
+shopmax-tr.online
 shopmix.click
 shopmobil.online
 shopnestat.com
@@ -89360,6 +89373,7 @@ textplot.top
 textverifysubmit.com
 textwalk.top
 teyerheferne.net
+teyfikoglu.com
 teylanyem.com
 tezenisturkey.com
 tezobi.info
@@ -92119,6 +92133,7 @@ trendyols.me
 trendyols.one
 trendyols.shop
 trendyols.ws
+trendyolsa.com
 trendyolshop.net
 trendyolshop8.com
 trendyolshope.com
@@ -92604,6 +92619,7 @@ trnewsza.com
 trnhakkinizdasikayetlervar.com
 trnkplsmda.xyz
 trnnnsvarine.net
+trnovherez.wasmer.app
 trntflare.top
 trnxnrdnv.shop
 trodeckh.com
@@ -100981,6 +100997,7 @@ www-braun-tr.com
 www-braun.net
 www-braun.org
 www-brauntr.com
+www-cebte-taraf-tb.myonlineportal.ch
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
 www-cep-on-btb.myonlineportal.ch
