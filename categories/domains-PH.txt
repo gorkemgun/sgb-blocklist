@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105046
-# Last change: 2026-10-04 00:42:11 UTC (sync mode: delta)
+# Records: 105047
+# Last change: 2026-10-04 06:59:22 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -101332,6 +101332,7 @@ wwwturktelekom.com
 wwwvakifbankcekilisleriphonel3.com
 wwwvakifiademerkezngiris.com
 wwwvakiftoplamiademerkeziniz.com
+wwww-ayricaliklar-kapisi-com.my-homeip.de
 wwww-edevlet-kasimiadeleri-tc.com
 wwww-edevletiadesi.org
 wwww.jdr-ixndxm-gnler.xyz
