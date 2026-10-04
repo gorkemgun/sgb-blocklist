@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105039
-# Last change: 2026-10-03 21:22:47 UTC (sync mode: full)
+# Records: 105046
+# Last change: 2026-10-04 00:42:11 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10101,6 +10101,7 @@ avantajlireklamlar.com
 avantajlisepet.xyz
 avantajliurunler.online
 avantajmarketim.xyz
+avantajsepeti.sbs
 avantgardecollections.com
 avantle.net
 avanttajlikampny.pro
@@ -16803,6 +16804,7 @@ bunnwave.com
 bunu-kacirmayi-dusunme.com.tr
 bunu-kacirmayi-dusunmedin-demi.com.tr
 bunualmadanolmaz.sbs
+bunuarayanburada.sbs
 bunuencoksenisters.sbs
 bunun-iicin-variz.shop
 buphkahapsa.net
@@ -18728,6 +18730,7 @@ ceptemarketsokkampanya.site
 ceptemobildeyiz.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
+cepten-ayricaliklar.my-homeip.de
 ceptenfaturalihattakredi.com
 ceptenhediyeliyizbiz.online
 ceptenkolaycll.net
@@ -41020,6 +41023,7 @@ haberler1234813.sbs
 haberler123499.sbs
 haberler1235634122.sbs
 haberler1245321.shop
+haberler12531.sbs
 haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
@@ -76605,6 +76609,7 @@ rjvamm7.cn
 rjvb.link
 rk6brit.cn
 rkfbvg.cfd
+rklmflnykkrdsmmmmmmbrknnn.duckdns.org
 rkqzki.click
 rksbisikletim.com
 rksmoto.com
@@ -87909,6 +87914,7 @@ tavsancik.net
 tavsancik.org
 tavsancik.xyz
 tavsanciksorgupaneli.site
+tavsanciksorgupaneli.website
 tavsiyeediyorum.club
 tavsiyeediyorum.xyz
 tavzilo.gifts
@@ -100981,6 +100987,7 @@ www-cep-on-btb.myonlineportal.ch
 www-cep-on-tb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
+www-cepl-tvb-dolu.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
 www-cepte-ass-tb.my-homeip.de
