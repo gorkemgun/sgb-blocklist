@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66030
-# Last change: 2026-10-01 13:25:51 UTC (sync mode: full)
+# Records: 66029
+# Last change: 2026-10-05 22:42:22 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -30501,7 +30501,6 @@ ilikecheesee.zapto.org
 ililiiiiiiilllilill.ddns.net
 ilinariosondakota.zapto.org
 ilizxoxlvz.duckdns.org
-ilksaat.com
 ilkxyltmjuem.com
 illaba.zapto.org
 illegalpageupdates964.duckdns.org

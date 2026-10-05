@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105190
-# Last change: 2026-10-05 16:06:44 UTC (sync mode: delta)
+# Records: 105217
+# Last change: 2026-10-05 22:42:22 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1542,6 +1542,7 @@
 25temmuzguzelsiparis.cloud
 26012024.com
 2616160175.cloud
+2616766158.cloud
 26222654526852.cloud
 263232313121.cloud
 2650898.xyz
@@ -1764,6 +1765,7 @@
 3401e2b9.dsfiurb-u.shop
 34070675484.org
 3415254462.cloud
+341957735.cloud
 341c4324zs.duckdns.org
 34234325231321.com
 342f99a1.jdhuwoskz.cloud
@@ -5911,6 +5913,7 @@ akbankinvestprogram.click
 akbankmetaverse.com
 akbankonline.com
 akbankturk.com
+akbankumre.org
 akbankventures.net
 akbankyatiri.com
 akbansdbasvuru.com
@@ -9158,6 +9161,7 @@ asdsaafas.oceruh.net
 asdsad213safsad.com
 asdsadascascsx.net
 asdsadasdquez.net
+asdsadd2121d.duckdns.org
 asdsadkasjdsfjksdnakdsbimcellkampanya.net
 asdsaf0sdvldmv.net
 asdsaqffllfe00n.net
@@ -11155,6 +11159,7 @@ bana-ozel-resim-basvurm-ozel.ml
 bana-ozel-resim-basvurm-ozel.yeniyilsuprizkampanya-ozel.tk
 banabakarifdabi.sbs
 banakimbakmis.tk
+banakitlenmeseftali.duckdns.org
 bananadeploy.top
 bananallocation.top
 bananalongitudinal.top
@@ -12494,6 +12499,7 @@ bedavapanel.org
 bedavapanel2.site
 bedavapanel2026.cyou
 bedavapanel4.site
+bedavapanelhizmetleri.website
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.org
 bedavasorgu.site
@@ -12668,6 +12674,7 @@ belsis.art
 belsis.buzz
 belsis.click
 belsis.ink
+belsis.lol
 belsis.online
 belsis.site
 belsis.store
@@ -14270,6 +14277,7 @@ bizendra.com.np
 bizepayimiziverceksin.shop
 bizeulasin.club
 bizgunleregelmedikacele.com
+bizherzamanaktifizkral.com
 bizi-reklamdanindirebilecekgucyok.art
 bizi101kurtaracak.cloud
 bizim-ecz.club
@@ -27917,6 +27925,7 @@ domainlify.net
 domainredpage.click
 domaintrustguard.site
 domakuskes.com
+domannawlmyrmrr.duckdns.org
 domatesfabrikasi.cfd
 domatisc.ink
 domdomindominotorettoangel.net
@@ -30192,6 +30201,7 @@ egmsorgu.org
 egmtrasliceza.org
 egngov.biz.id
 egngov.my.id
+egngovrn.web.id
 egnngov.biz.id
 egnngov.my.id
 egoankrabayi.net
@@ -30358,6 +30368,7 @@ ek-bireyselhesap.com
 ek-haber.club
 ekalkndestek.pro
 ekampanyayabasvurubireyselformuozel.line.pm
+ekamu.org
 ekamubilisim.com
 ekamubirimi.com
 ekamucbs.com
@@ -34064,6 +34075,7 @@ fdpwmt.top
 fdqxmb.top
 fdrgmc.top
 fdrjml.top
+fdsafasdcadf.duckdns.org
 fdsdmj.top
 fdsjfksdjfsdf.com
 fdsjvgbkfdkbfdjgfd.tumile.app
@@ -34923,6 +34935,7 @@ firsatdeniz100yilimiz.online
 firsatdetaylar.org
 firsatdunyasiburadasendekatil.tech
 firsatdunyasindasin.blogspot.com
+firsatdunyasionline.duckdns.org
 firsatdunyasiteb.duckdns.org
 firsatekim-basvurusukampanyasi.tech
 firsatemekliyefirsatsanadaal.click
@@ -38809,6 +38822,7 @@ goalofthetennis.com
 goals-hockey.com
 goalskeptical.top
 goankara.net
+goaowet.tools
 goatlad.top
 goatni.top
 goatsnap.top
@@ -54890,6 +54904,7 @@ kvuytaltinlucrepuansizlerlealtininiz.com
 kvyetim-web-sub-kampnylarizt079.b-cdn.net
 kvyt-daysclickcampaignnance.cloud
 kvyt13yil.com
+kvyt890909244.duckdns.org
 kvytbasvurumonlineonline.net
 kvytbsvrs.ezua.com
 kvytbsvrutrd.cloud
@@ -59588,6 +59603,7 @@ mektupyazsana.com
 meladze-concerts.com
 melancia.xyz
 melarion.site
+melekcicekcilik.com
 melekekosa.click
 melekoomekas.redirectme.net
 melekosaks.xyz
@@ -60394,6 +60410,7 @@ mhssrrrahas.site
 mhssrrrdhas.site
 mhsssraa.cfd
 mhsssraa.rest
+mhsssraa.sbs
 mhsssrassa.live
 mhsssrassb.live
 mhsssrassc.live
@@ -63052,6 +63069,7 @@ nbjewkmsb.net
 nbjuklemeseansi.net
 nbr-knk.com
 nbrknk.com
+nbrknkaglrcd.duckdns.org
 nbrrtipirre.site
 nbtci-eczane.club
 nbtci-eczane.life
@@ -63833,6 +63851,7 @@ nfcslvitgibiseyretxd.net
 nfctionsoveeignty.top
 nfcwxyincislmrkz.com
 nfddftgtr.net
+nfdgdfsdvds.duckdns.org
 nfdoeq.top
 nfectiouscora.top
 nfeeondesise.top
@@ -74477,6 +74496,7 @@ rafaelcimxd.duckdns.org
 rafaelcnm.ccwu.cc
 rafaeldyixb.duckdns.org
 rafaeldykisn.duckdns.org
+rafaelinko.online
 rafaelinyo.cc.cd
 rafaeloskr.cc.cd
 rafaelreklam.sbs
@@ -77150,6 +77170,7 @@ ruhsuzpanel2.shop
 ruhsuzpanel2.site
 ruhsuzpanel2.website
 ruhsuzpanel3.website
+ruhsuzpanel3.world
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
@@ -82872,6 +82893,7 @@ sllbyp.top
 sllcorrelate.top
 sllymultiteral.top
 slmburdageldns.shop
+slmmmmbbbrrdsasd.duckdns.org
 slmncakacana.shop
 slmndicd.de
 slmyskrdamnka.net
@@ -84803,6 +84825,7 @@ srandxuvkd.net
 src-mistress-submitted-operational.trycloudflare.com
 srcn.online
 srdansanrabigbrda.shop
+srddddasdasd12.duckdns.org
 srdgdnoktsnsa.duckdns.org
 srg-online.online
 srgasdasd.click
@@ -97816,6 +97839,7 @@ vqrban.tokyo
 vqwrf.cn
 vrandvula647.click
 vrbtek.top
+vrdagrytglu.duckdns.org
 vrelastonid.digital
 vrengim.blogspot.com
 vrenodakilu.info
@@ -102526,6 +102550,8 @@ xn--yeniylaozelkampanyakatilim-online-d6e.live
 xn--yildizli-rnler-osbb.com.tr
 xn--yilmaz-ticaret-ile-rn-detayi-k7cb.com
 xn--yklememerkezinn-zvb.net
+xn--yucuslar-skbb.shop
+xn--yucuslar182-yzbb.shop
 xn--yukseldoedvp-7mc.app
 xn--yurtickargo-tcb.com
 xn--zdsadsadasdsad-gjb.com
@@ -104637,6 +104663,7 @@ zelunovrax.capital
 zelus-checker.cfd
 zelus.icu
 zeluspanel.art
+zeluspanel.online
 zelvanto.xyz
 zelvio.cfd
 zelvorrry.com
