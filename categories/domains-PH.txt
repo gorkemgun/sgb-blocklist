@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105099
-# Last change: 2026-10-05 01:00:11 UTC (sync mode: delta)
+# Records: 105127
+# Last change: 2026-10-05 07:08:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -191,6 +191,7 @@
 101-aralikozel.online
 101-bugun.shop-mobil-tr.com
 101-bugune-ozel-extra-mobilde-sepet-indirimi-tr.store-plus.online
+101-bugune-ozel-mobil-alisveris-extra-indirimleri-tr.shopmax-tr.online
 101-bugune-ozel-sadece-online-sepet-indirimleri-tr-mobil.sepetim-tr.online
 101-cepte-sadece-online-ozel-sepet-indirimleri-mobilde-tr-extra.elektro-tr.online
 101-com-trs1.com
@@ -216,12 +217,15 @@
 101-extra-bugune-ozel-online-alisveris-sepet-mobil-indirimi-tr.cepinde.online
 101-extra-bugune-ozel-online-mobil-sepet-indirimleri-tr.magaza-mobil.online
 101-extra-mobil-bugune-ozel-indirim-sepeti-cepte-alisveris-tr.bilgicep-tr.online
+101-extra-mobil-indirimli-urunler-sadece-bugune-ozel-tr.hemenkap.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
+101-extra-mobil-sadece-bugune-ozel-indirim-sepeti-tr.shopping-online.online
 101-extra-mobil-sadece-bugune-ozel-indirimli-alisveris-sepette.extramarket-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
+101-extra-mobil-sadece-bugune-ozel-shop-indirim-tr.hemensiparis.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
@@ -273,10 +277,12 @@
 101-kasimozel.com.tr
 101-klimaozel.com.tr
 101-kstra.s3.eu-north-1.amazonaws.com
+101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
+101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
 101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
@@ -286,6 +292,7 @@
 101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
 101-sadece-bugune-ozel-alisveris-sepeti-indirimleri-tr.storesmobil-tr.online
 101-sadece-bugune-ozel-extra-indirim-alisverisi-tr.marketjet.online
+101-sadece-bugune-ozel-extra-mobil-indirim-sepeti-tr.onlinesiparis.online
 101-sadece-bugune-ozel-extra-sepet-alisveris-indirimi-tr.market-extra.online
 101-sadece-bugune-ozel-indirimli-sepet-mobile-ozel-extra-tr.sepetjet.online
 101-sadece-bugune-ozel-mobil-alisveris-sepeti-tr.online-store-tr.online
@@ -8121,12 +8128,14 @@ araba-cekilisi-paribu.mywire.org
 araba-cekilisi.com
 araba-cekilisi.live
 araba-cekilisi.online
+araba-cekilisim.link
 araba-cekilisim.online
 araba-cekilisin.online
 araba-cekilisisizinicinkampanya.com
 araba-kazanma-sansi.online
 araba-paribu.com
 arabacekilis.com
+arabacekilis.link
 arabacekilisfirsatisizlerlehemenkatil.space
 arabacekilisi.ml
 arabacekilisi.online
@@ -28693,6 +28702,7 @@ dynamoforged.pro
 dynastyvibration.top
 dynatoki.digital
 dynavo.site
+dynexly.com
 dynorise.com
 dynorman.com
 dynotatattaas.lol
@@ -49390,6 +49400,7 @@ istanbulkartbasvur.web.app
 istanbulkartbasvuru.lol
 istanbulkartbasvuru.pro
 istanbulkartbasvuru.xyz
+istanbulkartbasvurutr.com
 istanbulkartbelgim.xyz
 istanbulkartbelgimm.xyz
 istanbulkartcanb.xyz
@@ -69691,6 +69702,7 @@ pazar-kampanya-a101de.com
 pazar-sabahit.com
 pazar101.net
 pazar152.com
+pazarama-hemen-siparis.com
 pazarama.bireyselalim.com.tr
 pazarama.bireyselcim.com.tr
 pazarama.bireyselhizmetleriniz.com.tr
@@ -69713,6 +69725,7 @@ pazarama.ilanda-sepetim-1099.com
 pazarama.ile-e-islemlerde.com.tr
 pazarama.ile-islemlerdeyim.com.tr
 pazarama.ile-sepet.com.tr
+pazarama.ile-siparisiniz.com.tr
 pazarama.islemcepte.com
 pazarama.islemlerle.com.tr
 pazarama.jetsiparislerim.com
@@ -69725,10 +69738,17 @@ pazarama.odeme-onay-1282.com
 pazarama.odeme-onay-1283.com
 pazarama.odeme-onay-1284.com
 pazarama.odeme-onay-1285.com
+pazarama.odeme-onay-1286.com
+pazarama.odeme-onay-1287.com
+pazarama.odeme-onay-1288.com
+pazarama.odeme-onay-1289.com
+pazarama.odeme-onay-1290.com
 pazarama.onayda-sepet-7186.com
 pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
 pazarama.satiskontrol.com
+pazarama.sepetinizde.com.tr
+pazarama.siparishizi.com
 pazarama.siparisim-onay-1923.com
 pazarama.siparispanelim.com
 pazaramabireyselsatis.online
@@ -70454,6 +70474,7 @@ pillquest.top
 pillsibling.top
 piloko-hulukuerede.lol
 pilotgear.top
+pilouyguredesa.lol
 pilvcsanada.shop
 pinar-vakfl.com.tr
 pinarvakfl.com.tr
@@ -77779,6 +77800,7 @@ sahibinden-get.mobilservisleriniz-5.sbs
 sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
 sahibinden-get.servisepetin-10.sbs
+sahibinden-get.servisepetin-15.sbs
 sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
@@ -78357,6 +78379,7 @@ sahibinden.online-app.com.tr
 sahibinden.online-hizmetlerin.com.tr
 sahibinden.online-odeme.com.tr
 sahibinden.online-pysecure.com
+sahibinden.online-satislari-burada.com
 sahibinden.online-secure-alim.com.tr
 sahibinden.online-servisin.com.tr
 sahibinden.online-sites.net
@@ -85392,6 +85415,7 @@ stellar-stable-faith.top
 stellardockd.top
 stellarforge.store
 stellarhaven.store
+stellarko.com
 stellarvibe.online
 stemelk3.com
 stempudding.top
@@ -101017,6 +101041,9 @@ www-avis-com-tr.translate.goog
 www-avisleotokirala.online
 www-aylik-katalog-tr.com
 www-aylik-katalog-tr.xyz
+www-ayricalik-tb-cepte.myonlineportal.ch
+www-ayricaliklarla-dolutb.myonlineportal.ch
+www-ayricalikli-t-on.myonlineportal.ch
 www-basvurumerkezi2023giris.com
 www-basvurumerkezivatandasportalsorgulamaform-2021.com
 www-basvurumerkezivatandasportalsorgulamaformu-2021.com
@@ -104330,6 +104357,7 @@ zabprtwice.pro
 zabyna.com
 zachemescho.com
 zacka.site
+zaderipioligifdere.lol
 zadese-deresederepi.lol
 zaedesederepilokihop.lol
 zafemuc.com
