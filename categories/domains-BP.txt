@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259240
-# Last change: 2026-10-05 07:08:13 UTC (sync mode: delta)
+# Records: 259262
+# Last change: 2026-10-05 16:06:44 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -1808,6 +1808,7 @@
 103.mayisdetayklar.com
 1032565896fearl.com
 10398bn4899392g2834.cyou
+10429129512.duckdns.org
 104blockchain.ml
 10524-2024.net
 10527.cloud
@@ -82795,6 +82796,7 @@ efescann.fixip.org
 efesengul.online
 efesfinans.online
 efeskenwez.net
+efesko.online
 efesogar.fixip.org
 efewfge.net
 effecthubs.shop
@@ -84171,6 +84173,7 @@ ekimfirsatlarini-yakala.com
 ekimfirsatleranolympus.net
 ekimflrsatlari.com
 ekimflrsatlari.store
+ekimflrsatlariburada.com
 ekimflrsatlariburdakiwsynxmolpet.sbs
 ekimflrsatlarikacmazwsynx.com
 ekimflrsatlarikacmiyo.com
@@ -96530,6 +96533,7 @@ frstlarmznsageldnz.giize.com
 frstlarrkmpnyaasbsvrr1231516.info
 frstlarrkmpnyassiibsvrremeklii.art
 frstlarrmerkziiprmsynnbsvrr.art
+frstlarrprmsnykmpnya193219.pro
 frstlarrrkmpnyabprmsynnbsvr.info
 frstlarrrkmpnyabprmsynnbsvr.live
 frstlartukenmkuzere1o1.com
@@ -114712,6 +114716,7 @@ hazinetrgirisuktr.com
 hazinetrgovuktr.com
 hazinetrukgirisdev.com
 hazinettgovuk.com
+hazineuzlasma.com
 hazinevemaliye.net
 hazinevemaliye.org
 hazinevemaliyebakani.xyz
@@ -116366,6 +116371,8 @@ hemenfirsatlarhizlicsatinalmalsin.com.tr
 hemenfirsatlarhizlicsatinalmalsin.online
 hemenfirsatlarhizlicsatinalmalsin.xyz
 hemenfirsatlarikacirmadangelmelisin.duckdns.org
+hemenfirsatlarikacirmadanhizlicadavran.info
+hemenfirsatlarikacirmadanhizlicadavran.site
 hemenfirsatlarikacirmadansatinalmalisin.com.tr
 hemenfirsatlarmarketimde.com.tr
 hemenfirsatlarmarketimde.online
@@ -147653,6 +147660,7 @@ kdasldkad348ldksld.sbs
 kdfgkd-brdn.mooo.com
 kdfkfdskdfskgm.net
 kdfslaxczmn.net
+kdgkdlgldg.com
 kdih.top
 kdinasiddethayir.ml
 kdkhgss.com
@@ -149008,6 +149016,7 @@ kilometrenizisorgulayingencler.web.app
 kilometrenizogrenin.web.app
 kilometrenizsmdican.web.app
 kilometrenlesorgu.web.app
+kilometreogrendetay.web.app
 kilometreogrenin.cfd
 kilometreoline.web.app
 kilometreonay.web.app
@@ -149031,6 +149040,7 @@ kilometresorguacansikilir.web.app
 kilometresorguacimaz.cfd
 kilometresorguacimaz.web.app
 kilometresorgubayiltan.cfd
+kilometresorgubayinz.web.app
 kilometresorgucunuzs.web.app
 kilometresorgudomaltan.cfd
 kilometresorgudurumu.web.app
@@ -150591,6 +150601,7 @@ kmpnyaasonfirsaattbsvrr.online
 kmpnyabasvurckls.live
 kmpnyabasvurckls.pro
 kmpnyabasvurckls.site
+kmpnyabasvurrrprmsyn1786985.info
 kmpnyabasvursssprmsynn.art
 kmpnyabasvursssprmsynn.info
 kmpnyabasvursssprmsynn.pro
@@ -162586,6 +162597,7 @@ mobilden-cepte.my-homeip.net
 mobilden-edvlt-kartlari-iadeler.ml
 mobilden-gir.my-homeip.com
 mobilden-sube.com
+mobilden.internet-subesi.site
 mobilden.my-homeip.com
 mobilden.site
 mobilden2025.duckdns.org
@@ -167430,6 +167442,7 @@ nbnbxcvnxnbvnx1.lol
 nbnbxcvnxnbvnx1.sbs
 nbncadestektr.com
 nbnlrdnhngsinialrsnmtlolrsn.digital
+nbnvjdasd.shop
 nbnz3.com
 nborcplakatakibi.info
 nbpparibas.com
@@ -167445,6 +167458,7 @@ nbtyukleme.22web.org
 nbul.me
 nbviiisel.net
 nbvnsnbsnb.net
+nbvsmckdk.shop
 nbwfasfgw.blogspot.com
 nbwh4qzdfjr0.click
 nbwkdxwac.click
@@ -168414,6 +168428,7 @@ nffivvxggmm.net
 nfflasrandevvlm.net
 nfgkkhkhgkgjssdjd.net
 nfhgisisis.net
+nfhkcndks.shop
 nfissnsaudu.net
 nfisususrandsu.net
 nfivakiletim.net
@@ -170601,6 +170616,7 @@ nvrndvu.net
 nvrndvum.com
 nvrnmnbvasdm.net
 nvrsadaswqe.blogspot.com
+nvrsndebsvr.click
 nvrsndvularjdsjka.net
 nvrss.blogspot.com
 nvrtryc267.click
@@ -189413,6 +189429,7 @@ ptttavm-odemelermm.com
 ptttavm.online
 ptttavmesatis.com
 ptttavmhgsyukle.com
+ptttavmkmhgsorgula.com
 ptttavmsorgulasana.com
 ptttavmxx-hizliodemelerrr.com
 ptttc.xyz
@@ -206355,6 +206372,7 @@ sizeozelfirsatlarikacirmadanhemenal.com.tr
 sizeozelfirsatlarikacirmadanhemenal.online
 sizeozelfirsatlarikacirmadanhemenal.xyz
 sizeozelfirsatlariyapikredi.tk
+sizeozelflrsatlar.com
 sizeozelgiris2021subesi.com
 sizeozelgiris202lsubesi.com
 sizeozelguncelhizmetllericin.net
@@ -207308,6 +207326,7 @@ sndbnlrdrpymcbkglgtt.cfd
 sndbrdasngeldnasd.icu
 sndbrdnartksmgndrme.cfd
 sndbrdngmnkpmlsin.icu
+sndbsvrhmnsmd.click
 sndbsvrrbrdnnn.art
 snde-alsvrslrde.com
 snde-hemenbasvurkmpanyasiburada.com
@@ -207327,10 +207346,12 @@ sndekmuczl.com
 sndekmuczl.xyz
 sndenglckhrsyykle.mooo.com
 sndeodmemglsn.net
+sndermbasvr.duckdns.org
 sndgl1brdaksmz0fgm1.com
 sndglbuuczlklara.mooo.com
 sndgldoopslas.shop
 sndleglizmr.net
+sndmncbhsj.shop
 sndnoncfsrstkcrmzsnkzan.online
 sndnyanbzbfdlkbldk.cfd
 sndnynahrkstefarkliyrlr.cfd
@@ -240138,6 +240159,7 @@ www-aracrandevumuayene.com
 www-art-cepte-tvb.myonlineportal.ch
 www-as-cepte-tb.myonlineportal.ch
 www-avr-cep-web.myonlineportal.ch
+www-ayricalik-t-on.myonlineportal.ch
 www-basvuru-garntbqnk.name.tr
 www-basvuru-iadenizcime.com
 www-basvuru-iadesii.com
