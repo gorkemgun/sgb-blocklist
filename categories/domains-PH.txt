@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105217
-# Last change: 2026-10-05 22:42:22 UTC (sync mode: full)
+# Records: 105221
+# Last change: 2026-10-06 03:03:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -49328,6 +49328,7 @@ istanbulbakiyeyuklecnnet.vercel.app
 istanbulbakyecim.com
 istanbulbasvuru.lol
 istanbulbasvuru.xyz
+istanbulbasvurubelgimkart.xyz
 istanbulbasvurukart.lol
 istanbulbasvurukart.xyz
 istanbulbbelllgim.xyz
@@ -57446,6 +57447,7 @@ m-o-b-i-l1131.duckdns.org
 m-obilet.uk
 m-papara.com
 m-pttavm.com
+m-rndvual.com
 m-sahihinden.com.tr
 m-sso-s-suite-trzor.webflow.io
 m-start-ledger-autth.webflow.io
@@ -87085,6 +87087,7 @@ t0kiedevlet2025.giize.com
 t0kievvbaasvurularim.com
 t0klevlriprjekontevilk.online
 t1o1comtr.online
+t2265newdne.com
 t3-tr4m2rs-h2.com
 t31.xyz
 t33ci6o.boyacentury.cn
@@ -94540,6 +94543,7 @@ ugolok-durova.ru
 ugrassdurrrchppburda.blogspot.com
 ugrlusbesndyzbiz.cfd
 ugrlusbesndyzbiz.online
+ugrsbebirincisi.duckdns.org
 ugrsdrhdi.blogspot.com
 ugstaging2.com
 uguogashdashdhashd923asda.click
