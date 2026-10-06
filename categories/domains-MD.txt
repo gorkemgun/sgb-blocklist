@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66029
-# Last change: 2026-10-05 22:42:22 UTC (sync mode: full)
+# Records: 66034
+# Last change: 2026-10-06 10:26:32 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15158,6 +15158,7 @@ capooo.zapto.org
 caprocessingbofaedd.ddns.net
 capsltop3.pw
 capsnit.com
+capsysnet.vg
 captain1.zapto.org
 captainmore.duckdns.org
 captchacdn.com
@@ -16273,6 +16274,7 @@ ciitinsss.hopto.org
 ciitzenobs9.duckdns.org
 ciko77.hopto.org
 cilegux.ga
+ciliabula.cc
 cilittdise.com
 cilmwgll.duckdns.org
 cilysitma.com
@@ -24992,6 +24994,7 @@ freepanel.site
 freerarupdate.hopto.org
 freeruruq9aiojagj.ddns.net
 freesalas.duckdns.org
+freesas.info
 freeseathere.com
 freespin1.duckdns.org
 freespinsg.duckdns.org
@@ -48195,6 +48198,7 @@ regpodcasts.com
 regreg.xyz
 regsvchst.com
 regsways.top
+regularisation-free.info
 regulation-amendes.ddns.net
 reham2022.ddns.net
 rehaz1.ddns.net
@@ -49473,6 +49477,7 @@ s1.jqueryclick.com
 s1.megawoc.com
 s10.bigcdn.cc
 s101.hopto.org
+s1181402.ha026.t.mydomain.zone
 s1479xx8.duckdns.org
 s14rhu5uu.duckdns.org
 s15odogn5.duckdns.org

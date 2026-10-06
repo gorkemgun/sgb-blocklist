@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105221
-# Last change: 2026-10-06 03:03:33 UTC (sync mode: delta)
+# Records: 105260
+# Last change: 2026-10-06 10:26:32 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3786,6 +3786,7 @@ a101snokampanya.app
 a101sondetailing.com
 a101sonfirsat.com
 a101songun.life
+a101stanleyfirsatlaraktifekimayinda.duckdns.org
 a101subataozel.online
 a101teemmuzfrsatlari.online
 a101temmuz.com
@@ -8207,6 +8208,7 @@ arac-gecisihizlandi.lol
 arac-gecislerin.cfd
 arac-hasrr.blogspot.com
 arac-hsrm.blogspot.com
+arac-muayenehersey.com
 arac-muayenesi.com
 arac-muayneturk.online
 arac-mylymlss.net
@@ -18723,6 +18725,7 @@ cep.fibqkurumsall.cfd
 cepcxonlinexdgibxgovctr.fun
 cepde-tebden.myonlineportal.de
 cepdeteb.my-homeip.de
+cepdetep-com-tr.my-homeip.de
 cepfirsat.online
 cepiad-epari-bu.com
 cepismtannd.top
@@ -19470,6 +19473,7 @@ cirkusnikulin.com
 cirocheck.biz
 cirond.com
 cirque-spb.com
+cirrushare.co
 cisbir.com
 cisco-secure-client.es
 cisembhcmlickhs.top
@@ -19866,6 +19870,7 @@ cloudsetupprofi.com
 cloudsimulation.top
 cloudspora.com
 cloudstack.sbs
+cloudsyncpulse.com
 cloudsystemchat.com
 cloudthicket.com
 cloudtrailx.xyz
@@ -28078,6 +28083,7 @@ dosyadava.com
 dosyaform.com
 dosyagibsorgula.com
 dosyagoruntuleme.org
+dosyahazine.com
 dosyahmb.net
 dosyaincele.org
 dosyainceleme.com
@@ -28341,6 +28347,7 @@ driftcompan.top
 driftcoredf.top
 driftinexhaustible.top
 driftlucrative.top
+driftshare.co
 drifttactic.top
 driftwoodluxe.com
 drila.click
@@ -34479,6 +34486,7 @@ filesigorta.site
 fileso365clloudoccs.com
 fileso365clloudoss.com
 filesoo365cloudocxs.com
+fileswiftonline.cloud
 filicidalzgqer.com
 filinta.cfd
 filipp-kirkorov.com
@@ -38665,6 +38673,7 @@ globaletkinliksorgulamasi-bn-ramazan.net
 globalevent-arackampanyasibasvuru.com
 globalevent-bn-sorgulama.net
 globalevents-bn-destek.net
+globalfileshareplatform.com
 globalfinancehub.world
 globalfirsat-ozelkampanya.com
 globalfirsatbancefrst.tech
@@ -39072,6 +39081,7 @@ gorurinsallah.click
 gorzow.online
 goshaw.milanopitza.cfd
 goshoppage.com
+goshshare.online
 gospelefficient.top
 gospelfall.top
 gospelfortnight.top
@@ -39464,6 +39474,7 @@ gratis.nexiapy.com
 gratis.nottheweb.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
+gratis.ploteando.com
 gratis.rataforo.com
 gratis.sendreward.com
 gratis.servehumour.com
@@ -41550,6 +41561,7 @@ halkmobil-internet-basvuruekrani-com.duckdns.org
 halkmobil-internet-guncell-com.duckdns.org
 halkmobilgiris.duckdns.org
 halknburassendegel81.click
+halkolanmalko.club
 halkonay.sbs
 halkonay.tech
 halkora.net
@@ -41725,6 +41737,7 @@ harcakazana101.com
 harcamadan-bitmez-a-101-ozel.online
 harcamaninzamanikam.com
 harcanan-tutar.my-homeip.de
+harcbilgilendirme.com
 hard-workingcram.top
 hard-workingtenant.top
 hard1nge.com
@@ -43047,9 +43060,12 @@ herilox.store
 herishstapl.top
 heritageflair.com
 heritagepreside.top
+heritiage.org
+heritiages.org
 heritox.com
 herkes-kullanabilsindiye.sbs
 herkes-mutlu-olmayi-hak-eder.com
+herkesalsindiyeburada.sbs
 herkesbizmleonlne.sbs
 herkese-mutluluk-getiren-haberler-surekli-burada.com
 herkesedestekolalim.com
@@ -43614,6 +43630,7 @@ hhgjajhhhhhshhfga.online
 hhgmgeccisburossav.site
 hhh23r1edsa21dwscafsdv-sd.sbs
 hhh594234fsa12safd.sbs
+hhhasstne.duckdns.org
 hhhhgsxyiyedimknk.shop
 hhhhgsxyiyedimknk.store
 hhhhgsxyiyedimknk.wiki
@@ -47099,6 +47116,7 @@ imtsiz-internet-net.blogspot.com
 imxnib.top
 imzmirrodeme.net
 imzmrmyklxnahr.net
+in-fomenkuldegerler.com
 in-tarde.info
 in274728.com
 in3721918.com
@@ -50862,6 +50880,7 @@ jewelmalicious.top
 jewelmandate.top
 jewelquantum.top
 jewelrydistill.top
+jexal.blog
 jfdaqsb.shop
 jfkgygr.duckdns.org
 jfkk9vs.cn
@@ -59725,6 +59744,7 @@ meneksevakfi.org
 menenoftigir.com
 menfaatiolanbulur.sbs
 mengchongbaotoys.com
+menkuldegerleroyak.com
 menotyy.pics
 mentalfloss.live
 mentioncathedral.top
@@ -60281,6 +60301,7 @@ mhrs-giris.online
 mhrs-guvenli-hastane-randevu.click
 mhrs-hastane.digital
 mhrs-islem-asads.vercel.app
+mhrs-islemyap.vercel.app
 mhrs-s.digital
 mhrs-sistem.vercel.app
 mhrs.alllahnerdekiya.sbs
@@ -61955,6 +61976,7 @@ msbshak-ababks-amand.cyou
 mscoshoper.info
 mserehele.duckdns.org
 mserrw.top
+msfile.online
 msfjcm.top
 msfxjb.top
 mshelp365.com
@@ -62647,6 +62669,7 @@ mypasskey.info
 mypasskeyid.com
 mypasskeysso.com
 myposcheck.com
+mypublicshare.com
 myqafua.info
 myqelix.my
 myrionix.shop
@@ -66371,6 +66394,7 @@ one-usdt.net
 one-view-truist.cc
 one.postegrolili.live
 one1click1cfd.cfd
+onecloudfilesync.com
 onedayjustwillbe.top
 onedio-news.icu
 onedrive-23n.sbutler-stateservice-us-s-account.workers.dev
@@ -73720,6 +73744,7 @@ publicityprolong.top
 publiclyagony.top
 publicnavigate.top
 publicserviceman.in
+publicsharefile.cloud
 publicvm.com
 publishabortion.top
 publishlever.top
@@ -74284,6 +74309,7 @@ quiceb.com
 quick-conn.shop
 quickarea.top
 quickdigestx.com
+quickfly.online
 quickhype.click
 quickmagnify.top
 quickoza.com
@@ -74681,6 +74707,7 @@ randevubas.net
 randevubul.blogspot.com
 randevuburdskathizlis.store
 randevucular.net
+randevucunuz.com
 randevuekranportalmhrsonline.duckdns.org
 randevugunler.com
 randevugunlerim.com
@@ -76198,6 +76225,7 @@ resmigiristrbnncs.com
 resmihaber.club
 resmihaberpro.site
 resmihabers.site
+resmihegsyklemee.space
 resmikamusorgu.org
 resmikurumsalgirisadresim.com
 resmikurumsalgirisadresimm.com
@@ -81284,6 +81312,7 @@ sharedcloudrive.com
 sharedfuture.world
 shareeradicate.top
 sharefort.top
+sharehub.space
 sharelarge.top
 sharepoint-comcast.com
 sharepoint-workplaceview.com
@@ -81382,6 +81411,7 @@ shineharvest.top
 shinelirm.com
 shineresist.top
 shinetoday.site
+shinjirou.info
 shinwors.com
 shinyalternation.top
 shinydiscrepancy.top
@@ -82997,6 +83027,7 @@ smartphonetribune.top
 smartplace.monster
 smartsellers.shop
 smartsetsafety.com
+smartsyncbox.com
 smarttech-turk.com
 smartutilityhub.shop
 smartvaluebay.shop
@@ -86931,6 +86962,7 @@ syn.ezpizi.click
 synbroun.com
 sync-checker.xyz
 synchoilas.xyz
+synchvault.co
 synctech.cyou
 syndicatecredibility.top
 syndicateparalyse.top
@@ -90229,6 +90261,7 @@ tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
 tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.net
+tkg-tpuransevdnuz.online
 tkgg-edvtap-randvv.org
 tkgm.ink
 tkgmgov.weebly.com
@@ -94185,6 +94218,7 @@ tvvtruk.com
 tvvvvtrkaracmuayene.net
 tvytdarcmuyanene.net
 tw-kim-bakti.tk
+tw-koryu.org
 twaddledom.com
 twbakt.ml
 twbakt.tk
@@ -97777,6 +97811,7 @@ vomeka-jupiseraton.lol
 vomenda.com
 vonacarkiralama.com
 voneditor.tech
+vonexiscamppro.com
 vonlinem0billislllemleri.net
 vonokucaxota.store
 vonruenen.com
@@ -99956,6 +99991,7 @@ winscp-apps.online
 winscp-net-download.aenys.com
 winsenbernar.com
 winsolicit.top
+winsync.cloud
 wintariff.top
 wintercattle.top
 winterdrawn.top
@@ -101064,6 +101100,7 @@ wwdx23b3.duckdns.org
 wwebsolympialocasly.com
 wwiisefound.shop
 wwiisefound.space
+wwptt-tr-express.andangatesautomation.com
 wws-ak.com
 wwv-ing.com
 wwv-pttavmsecure.com
@@ -102464,6 +102501,7 @@ xn--sube-acikdenizvkredibasvur-ub2p.com
 xn--subeavatajlikredi-bvc.com
 xn--subesiz-giris-vakf-u0c.com
 xn--szburada-tkb.shop
+xn--tebbankas-online-iqc.my-homeip.de
 xn--teknogen-z0a.net
 xn--tektklasendesorgulayabilirsin-3le.xyz
 xn--telif-hakk-6ub.com
@@ -104566,6 +104604,7 @@ zavdanismanlikvearacilik.net
 zavebveti.store
 zavetin.pro
 zavlu.bond
+zavora.blog
 zawelca55cdc4c33458b2f382.web.app
 zaxenorudikq.com
 zaxprint.com
