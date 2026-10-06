@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105296
-# Last change: 2026-10-06 17:14:51 UTC (sync mode: delta)
+# Records: 105309
+# Last change: 2026-10-06 21:42:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1586,6 +1586,7 @@
 27yxz8.csb.app
 28367-coinbase.com
 28676-coinbase.com
+28958161.xyz
 289coommunity.xyz
 28b30391.dsfiurb-u.shop
 28bimcell.net
@@ -6017,7 +6018,11 @@ akpartiuyelik.net
 akpbasvuruhatti.com
 akprmsyns2024akhzrn.online
 akpromsyn2024frsttkacmaz.online
+akra-frontdeskt.com
+akraantalyafrontdesk.com
 akrafaelxtoky.webhop.me
+akrafrontdesk.com
+akrahoteltr.sbs
 akronesafyon.com
 akronesafyonthermalspa.com
 akronesotelafyons.com
@@ -25176,6 +25181,7 @@ defproresults.com
 defyhire.top
 defyprestige.top
 defything.top
+degasxdwwa.duckdns.org
 degdmgokyzn.org
 degeneratealternate.top
 degeneratebrigade.top
@@ -27771,6 +27777,7 @@ dogrulanfsislm.com
 dogrulanfsrndvu.com
 dogrulaorgnfsnvl.com
 dogrunoktadasiniz.sbs
+dogrusalsayfa.abrdns.com
 dogrutanavantaj.xyz
 dogruyadogruslemler.online
 doguburs.net
@@ -36809,6 +36816,7 @@ garanti-kapsaminde.net
 garanti-katilim.sa.com
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
+garanti-online-ekim-ayina-ozel.cloud
 garanti-onlinekredi.com.tr
 garanti-sube-onlinem.my-homeip.com
 garanti-yesil-kredili-garanti.xyz
@@ -53071,6 +53079,7 @@ khold.info
 khpeccmemed.net
 khphel.homes
 khrafr.buzz
+khsssras.sbs
 kiaceitn.store
 kian-demo.ir
 kibank.co
@@ -77593,6 +77602,7 @@ sadaffiliate.top
 sadakatvakfi.com
 sadakilo-kuljhere.lol
 sadascofnfslristlartr.duckdns.org
+sadasd123asd.duckdns.org
 sadasdasd.great-site.net
 sadashdha923sadhadw.click
 sadavd.top
@@ -101200,6 +101210,7 @@ www-aylik-katalog-tr.xyz
 www-ayricalik-tb-cepte.myonlineportal.ch
 www-ayricaliklarla-dolutb.myonlineportal.ch
 www-ayricalikli-t-on.myonlineportal.ch
+www-ayricaliktb-cepte.myonlineportal.ch
 www-basvurumerkezi2023giris.com
 www-basvurumerkezivatandasportalsorgulamaform-2021.com
 www-basvurumerkezivatandasportalsorgulamaformu-2021.com
@@ -101235,6 +101246,7 @@ www-cepte-entry-tvb.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-katil-tb.myonlineportal.ch
 www-cepte-mikro-tb.myonlineportal.ch
+www-cepte-off-tvby.myonlineportal.ch
 www-cepte-on-tb.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-rat-outb.myonlineportal.ch
@@ -101273,6 +101285,7 @@ www-cimmer-tr.com
 www-claro.top
 www-cmhurbaskanligi-iade.com
 www-coinbasewallet.com
+www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-cumhurbaskanligi-iletisim.com
