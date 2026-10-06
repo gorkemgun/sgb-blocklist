@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66034
-# Last change: 2026-10-06 10:26:32 UTC (sync mode: delta)
+# Records: 66038
+# Last change: 2026-10-06 17:14:51 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10892,6 +10892,7 @@ asddfsdfs.ddns.net
 asdeas.duckdns.org
 asdf.zapto.org
 asdfabgzaasd.top
+asdfafadafg.online
 asdfghjkl5555.ddns.net
 asdfghjklzxcvbnm.ddns.net
 asdfghjklzxcvbnm.zapto.org
@@ -20863,6 +20864,7 @@ drhzn.zapto.org
 drilmaop.hopto.org
 driqfmtvfwnnjltb.com
 drius.aefrant.com
+drivegoogel.cam
 driver.ckbs.onestopfile.co.kr
 drivernetuk.info
 driveroftheworld.hopto.org
@@ -26735,6 +26737,7 @@ goodshitlol.hopto.org
 goodsportlife101.fun
 goodvnca.ddns.net
 goog1eupdate.com
+googelmeet.online
 googiemanager.com
 googl-6c11f.web.app
 googlcom.ddns.net
@@ -37657,6 +37660,7 @@ meeti12.hopto.org
 meeting.bulletmailer.net
 meetingapp.site
 meetinke.com
+meetonline.cam
 meetroomonlin1925.w3spaces.com
 meets-gooie.com
 meetyoursoulmate.life

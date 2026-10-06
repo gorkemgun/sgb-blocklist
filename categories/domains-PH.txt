@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105260
-# Last change: 2026-10-06 10:26:32 UTC (sync mode: delta)
+# Records: 105296
+# Last change: 2026-10-06 17:14:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -509,6 +509,8 @@
 12212111455447885588952225591.duckdns.org
 1222222222994949388.webredirect.org
 1222233122455666512255991.xyz
+1222233122455666512255995.xyz
+1222233122455666512255997.xyz
 12229828189122.duckdns.org
 122562652500.xyz
 122562656334.info
@@ -1403,6 +1405,7 @@
 2151261.xyz
 215215151.xyz
 215466.xyz
+2156124.xyz
 216-9-224-134.plesk.page
 2161262754754325.buzz
 216321465421.store
@@ -8200,6 +8203,7 @@ arabulucumerkezi.org
 arac--muayturk.online
 arac-2txtxc-muaynem-trvtudktr.net
 arac-bakiye.lol
+arac-detay-bakiyelerin.lol
 arac-dolum2.xyz
 arac-dolum3.xyz
 arac-dolum5.xyz
@@ -9160,6 +9164,7 @@ asdqwdmvkfvkf.com
 asdqweqweqw.shop
 asdqwzxksdq.net
 asdsaafas.oceruh.net
+asdsacas.duckdns.org
 asdsad213safsad.com
 asdsadascascsx.net
 asdsadasdquez.net
@@ -10873,6 +10878,7 @@ b2lcllelonye.com
 b2nmsql.net
 b2nnl.net
 b2nzll.net
+b2ro.com
 b3130432.yst.coinbase-com.info
 b360y0b.cn
 b36cname.site
@@ -12596,6 +12602,7 @@ beklenenkampanyasizlerle.cloud
 beklenensezongeldisizlerle.com
 bekleyerasdmwe.net
 bekofirsatmagazasi.xyz
+bekosepeti.com
 bekrani.net
 bekranin.net
 belastingdiensi.top
@@ -13120,6 +13127,7 @@ bilgelikdoluyaslar.com
 bilgi-cepte.online
 bilgi-devlet.com
 bilgi-home.club
+bilgi-ilan-tr.online
 bilgi-islem.xyz
 bilgi-mobil-shop-ozel-tr.click
 bilgi-portali.com.tr
@@ -27698,6 +27706,7 @@ docview.cloud
 docxxdoct.goodbreadtrucklng.com
 dodgeunprecedented.top
 dodocuks.duckdns.org
+dodododoooo.duckdns.org
 dodohesap.net
 doeda.fun
 doeligible.top
@@ -28006,6 +28015,7 @@ dooberlimo.com
 doomdilute.top
 doomoppression.top
 doonduu.com
+doooomm.duckdns.org
 door111.network
 doorencyclopedia.top
 doorgovcommunity.com
@@ -32318,6 +32328,7 @@ eturkiyeiadeler.online
 eturkiyek12.tech
 eturkiyesosyalgov.tech
 eturkiyesosylgov.site
+etwioqgp.flypgs.de
 eu-blochdance.shop
 eu-central-8stagecomboweb8.aws.inst.coinbase-com.info
 eu-nesine.com
@@ -36796,6 +36807,7 @@ garanti-hizmetleri.com
 garanti-investing.mrqz.to
 garanti-kapsaminde.net
 garanti-katilim.sa.com
+garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
 garanti-onlinekredi.com.tr
 garanti-sube-onlinem.my-homeip.com
@@ -41788,6 +41800,7 @@ harmoniouspatriotism.top
 harmonsorgu.rf.gd
 harmonyconcession.top
 harmonyincorporate.top
+harmttlessly.info
 harnessarbitrate.top
 haroldbeizaga.com
 harotoxilewnihsn.net
@@ -42718,6 +42731,7 @@ hemenalisvrismagaza.online
 hemenall.click
 hemenalnsanra.net
 hemenaluyguna101.online
+hemenapaortal.lol
 hemenaracbakim.blogspot.com
 hemenarackirala.online
 hemenarackiralama.online
@@ -43852,6 +43866,7 @@ hizli-denizkatilimv2acikdeniz.com
 hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
+hizli-gecis-bayi.lol
 hizli-gecisetkitkyatirm.web.app
 hizli-gecsektityklemek.web.app
 hizli-geri-yukleme-ekrani.store
@@ -44377,6 +44392,7 @@ hmnislemonlniesonuc.net
 hmnislmeonkt.net
 hmnislmeonktar.net
 hmnislmknat.net
+hmnislmkntaos.net
 hmnislmkntlasi.net
 hmnislmnkatnas.net
 hmnislmnkns.net
@@ -60413,6 +60429,7 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssraca.cyou
+mhssraca.website
 mhssracb.cyou
 mhssracb.rest
 mhssracb.sbs
@@ -66525,6 +66542,7 @@ onlinacenta365.online
 online-0zel.sninix.space
 online-1-0-1.com.tr
 online-182.cfd
+online-7d4x-garantibbva.ro-actualizare.com
 online-aidat-odemetr.dev
 online-aidat.site
 online-aidatlar-geriodeme-portal.tk
@@ -66659,6 +66677,7 @@ online-sipariss-firsatlarii1033.b-cdn.net
 online-sok.com.tr
 online-sorgu-ekrani.cfd
 online-sozlesme-islemleri.com
+online-sozlesme.e-islem-hizmet.com
 online-t-o-k-i-bsrv.com
 online-takip-yurticikargo.com
 online-teknossa.com
@@ -76830,6 +76849,7 @@ rndvvmerk.net
 rndvwxhkxmetiszile.net
 rndvzhudsmurebus.store
 rnews.culturalviscera.com
+rnfs432ad52323fdsa2.icu
 rngdnnnnnn.xyz
 rngmedia.es
 rnicrosoft.com
@@ -76845,6 +76865,7 @@ rnvtkxwslqpe.sa.com
 rnwl-stay.com
 rnxdvunvlonlinve.net
 ro-7.org
+ro-actualizare.com
 roadcatastrophe.top
 roadetctre.xin
 roadrepesie.top
@@ -76981,6 +77002,7 @@ rosahall-ticket.ru
 rosahall-tickets.ru
 rosahotel.world
 roscoff.net
+roseboxcicek.com
 rosemerge.top
 roseslot.top
 roshanpackages.store
@@ -77201,6 +77223,7 @@ ruhsuzpanel2.site
 ruhsuzpanel2.website
 ruhsuzpanel3.website
 ruhsuzpanel3.world
+ruhsuzpanel4.world
 ruhsuzpanel5.site
 ruhsuzpanel6.site
 ruhsuzpanel7.site
@@ -77885,6 +77908,7 @@ sahibinden-get.mobilsepetlerim1.com
 sahibinden-get.mobilsepetlerimservis.online
 sahibinden-get.mobilsepetlerimtrservisin.online
 sahibinden-get.mobilsepetllerservisim.online
+sahibinden-get.mobilservis-25.sbs
 sahibinden-get.mobilservisin-25.sbs
 sahibinden-get.mobilservisin-37.sbs
 sahibinden-get.mobilservisin-55.sbs
@@ -80155,6 +80179,7 @@ sekermenkulglobal.com
 sekerotokiralama.biz
 sekerotokiralamaa.xyz
 sekertr.com
+sekeryatirimenkul.com
 sekolemaka.online
 seksekekesek101.com
 sektorecoktumoccccistediginkadarusomathahaha.dev
@@ -80760,6 +80785,7 @@ serioustoil.top
 seritakipci.com
 serkanbas57.sbs
 serkancx.duckdns.org
+serkandanismanlik.sbs
 sermayehaber.info
 sermayehaber.org
 sermayehub.world
@@ -86651,6 +86677,7 @@ suqortamnet.xyz
 suratfilo.com
 suratkargo.xyz
 suratkargomnerede.com
+suratkargotakip.com
 surayyabrand.com
 sure-courier.com
 surecrawl.top
@@ -90974,6 +91001,7 @@ toplukonut7812492112.vercel.app
 toplukonut8879772196.vercel.app
 toplukonut9812492112.vercel.app
 toplukonutaonline.com
+toplukonutaptdetayli.vercelapi.com
 toplukonutbaby.vercel.app
 toplukonutbaff.vercel.app
 toplukonutbalk.vercel.app
@@ -95480,6 +95508,7 @@ uyap.edu.pl
 uyap.portal-vatandas.com
 uyapadalet.org
 uyapadliye.org
+uyapbdk.com
 uyapbildirim.com
 uyapbilisim.com
 uyapceza-uzlasma.com
@@ -97811,6 +97840,7 @@ vomeka-jupiseraton.lol
 vomenda.com
 vonacarkiralama.com
 voneditor.tech
+vonexis-camp-pro.com
 vonexiscamppro.com
 vonlinem0billislllemleri.net
 vonokucaxota.store
@@ -101159,6 +101189,7 @@ www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
 www-as-ayricalik-teb.myonlineportal.ch
 www-as-cepte-ontb.myonlineportal.ch
+www-as-cptb-ont.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
 www-at-ayricalik-tb.myonlineportal.ch
@@ -101191,6 +101222,7 @@ www-cep-on-tb.myonlineportal.ch
 www-cepdetep-com-tr.my-homeip.de
 www-cepdetep-com.myonlineportal.ch
 www-cepl-tvb-dolu.myonlineportal.ch
+www-cept-tb-on.myonlineportal.ch
 www-ceptb-ayricalik-on.myonlineportal.ch
 www-cepte-a-101.xyz
 www-cepte-acc-tvb.myonlineportal.ch
@@ -101202,6 +101234,7 @@ www-cepte-de-tb.myonlineportal.ch
 www-cepte-entry-tvb.myonlineportal.ch
 www-cepte-frst-sync.myonlineportal.ch
 www-cepte-katil-tb.myonlineportal.ch
+www-cepte-mikro-tb.myonlineportal.ch
 www-cepte-on-tb.myonlineportal.ch
 www-cepte-only.myonlineportal.ch
 www-cepte-rat-outb.myonlineportal.ch
@@ -101218,6 +101251,7 @@ www-cepte-vsync-ac.myonlineportal.ch
 www-cepte-vsync-tb.myonlineportal.ch
 www-cepte-wb-tb.myonlineportal.ch
 www-cepte-web-tb.myonlineportal.ch
+www-ceptede-tb-ayricalik.myonlineportal.ch
 www-ceptekapida-marketin.com
 www-ceptetb-repstr.myonlineportal.ch
 www-cepteteb-com-tr-basvuru.my-homeip.de
@@ -102375,6 +102409,7 @@ xn--nufusvvatandaslik-hy7i.net
 xn--numaratasma-7zb.com
 xn--nvbnfssrndv-0zb.net
 xn--nvirandevuklklk-llc.net
+xn--nvirandevutrkaymakamlk-6ld.com
 xn--nvsidemdaskcl-mmb.net
 xn--nvv-ft-s9a.net
 xn--olmadsizsiz-3zb.net
@@ -104526,6 +104561,7 @@ zaman0gldi1yarri0siyo-7.com
 zamanauygundenizle2023.com
 zamandegerlendirme.online
 zamanformu.org
+zamangeldi.abrdns.com
 zamangldiyarrisiyo.com
 zamanhayatdeniz20203.com
 zamanhost.com

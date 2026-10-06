@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259275
-# Last change: 2026-10-06 10:26:32 UTC (sync mode: delta)
+# Records: 259294
+# Last change: 2026-10-06 17:14:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2272,6 +2272,7 @@
 12211455441554555889892.xyz
 122121222222221.duckdns.org
 1222233122455666512255993.xyz
+1222233122455666512255996.xyz
 12234593-2353987.com
 122411-43434-33.cloud
 122432324232423.click
@@ -7868,6 +7869,7 @@
 493-basvurularim.art
 493716.cloud
 4943iadesi.ml
+4945176468564184486.duckdns.org
 49492914912.com
 49494944-11232.cloud
 49498489488449.duckdns.org
@@ -9779,6 +9781,7 @@
 78-85-89-74-252.cfd
 78-966-54-95.cfd
 78112351235.cfd
+781976296.cloud
 7829346792392765982439237.app
 782y376280ki327.icu
 783410583.cloud
@@ -28589,6 +28592,7 @@ asdhasdva.click
 asdhashdfasf.com
 asdhashdh99000ashdhasdasd.click
 asdhashdhas2asdahsd827sad.click
+asdhashdhashd88238sadh.click
 asdhashdhashdahsdk6.site
 asdhashdhashdhasdhsb877.site
 asdhashdhashdhashdhashdhashdhask2.click
@@ -62309,6 +62313,7 @@ cvbdas.html-5.me
 cvbyukleme.22web.org
 cvcfdsadv-vvdvtytt.org
 cvcsvd2cc.cloud
+cvcvdfc3143.click
 cvd-evde-eaidat.com
 cvdd-formm.tk
 cvdelvt-vdt.com
@@ -62361,6 +62366,7 @@ cxjyuet.cn
 cxkxmdteiv.top
 cxmamrkt43.com
 cxmartresimrkt32.com
+cxmcnmxcmn.com
 cxmka2c-2asponsor-11dan.cloud
 cxniepxp7.storage.googleapis.com
 cxrrefour-sa.dvrlists.com
@@ -95938,6 +95944,7 @@ fluxivo1.sbs
 fluxparlor.com
 fly-pegasus.com
 fly.bug-hen.com
+flygtrmcs.com
 flyhgsz.com
 flying-defog.ink
 flynzohubs.site
@@ -97744,6 +97751,7 @@ garanti-kredi-online-basvuru.cloud
 garanti-kredi-sistemi-online.cloud
 garanti-kredi-sistemi.cloud
 garanti-kredi-sistemileri.cloud
+garanti-kredi-uzmani.cloud
 garanti-kredi.cloud
 garanti-kredi.online
 garanti-kredi.vercel.app
@@ -102502,6 +102510,7 @@ ggrnrsdsdskfsk2024.shop
 ggrnticepsbebasvur.com
 ggrnttiibssvr.my-homeip.net
 ggrnttssd.cfd
+ggrrrnnttii-bbvvbbaaa.sbs
 ggrrrrrrrrrrbbbvaaaac.com
 ggrsftsjsafsfa.shop
 ggrssdfsasxsafsaads.com.tr
@@ -149048,6 +149057,8 @@ kilometresorguacimaz.cfd
 kilometresorguacimaz.web.app
 kilometresorgubayiltan.cfd
 kilometresorgubayinz.web.app
+kilometresorgucu.web.app
+kilometresorgucubayinz.web.app
 kilometresorgucunuzs.web.app
 kilometresorgudomaltan.cfd
 kilometresorgudurumu.web.app
@@ -153881,6 +153892,7 @@ kurumbowl.com
 kurumceza.org
 kurumdovizacikdenizbank.com
 kurumfaturaode.com
+kurumkamu.org
 kurumlar-bankalar-kart-ucret-kesintileri-gov.xyz
 kurumlar.site
 kurumlardawebonline.net
@@ -191801,6 +191813,7 @@ qww-google.com
 qww-papara.com
 qww-papara.tk
 qwwqqwqwqwqwxaxa.xyz
+qwwqwqwqqw.duckdns.org
 qwxcqec.duckdns.org
 qwyuxzhbjewqpwqflgsdsd.life
 qx-pttgov.top
@@ -197157,6 +197170,7 @@ sahibinden-param-guvende.31-210-39-247.plesk.page
 sahibinden-param-guvende.35-158-174-245.plesk.page
 sahibinden-param-guvende.aktuel-urunleri.sa.com
 sahibinden-param-guvende.app
+sahibinden-param-guvende.bilgi-ilan-tr.online
 sahibinden-param-guvende.co
 sahibinden-param-guvende.com
 sahibinden-param-guvende.com.tr
@@ -200821,6 +200835,7 @@ sdjfkhsdfhjdas.net
 sdjhjzdnsfrs.xyz
 sdjkakjdhaskjsa.net
 sdjnsanjdjnsdjns.de
+sdjsjererkds.shop
 sdjzdnhwadnsfrs.xyz
 sdjzdnsfrs.xyz
 sdkafhasfjsajgfsgahfhsa.wiki
@@ -234369,6 +234384,7 @@ vbburasibskakcmahd.com.tr
 vbcheck-onlineislemler.com
 vbcluy.help
 vbcn768347.click
+vbcnks.shop
 vbcnmds.click
 vbcxss.html-5.me
 vbdfhjafsnfasf.xyz
@@ -236131,6 +236147,7 @@ vmobilsubevibi.com
 vmthgsavbilsis.sbs
 vnajgumonculeag.info
 vnbnxlz.xyz
+vncmslsds.click
 vndkdibvcuuvdeme.net
 vndulas627.click
 vnebank.xyz
@@ -240171,7 +240188,9 @@ www-aracmuayenerandevu.com
 www-aracrandevumuayene.com
 www-art-cepte-tvb.myonlineportal.ch
 www-as-cepte-tb.myonlineportal.ch
+www-asc-on-tb.myonlineportal.ch
 www-avr-cep-web.myonlineportal.ch
+www-ayicalikla-dolu-tbc.myonlineportal.ch
 www-ayricalik-t-on.myonlineportal.ch
 www-basvuru-garntbqnk.name.tr
 www-basvuru-iadenizcime.com
