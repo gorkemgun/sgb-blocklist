@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105506
-# Last change: 2026-10-07 16:35:15 UTC (sync mode: delta)
+# Records: 105523
+# Last change: 2026-10-07 22:02:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1386,6 +1386,7 @@
 2112323232.cloud
 21158-coinbase.com
 2121124555555441554445991.xyz
+212114551221455122452245590.xyz
 2121454457788785522591.duckdns.org
 212224252.cloud
 2124552556555690.duckdns.org
@@ -1604,6 +1605,7 @@
 29195-coinbase.com
 2927def4.dj-hd5kfu.shop
 29291-guestcheck.com
+29299124124.com
 293184.store
 293712.website
 293842.site
@@ -6083,6 +6085,7 @@ aksizle.online
 aksjaodhslfjsoj.click
 akssigorta.site
 aksuw2.duckdns.org
+akszvm-gaedphsd-hredsggdsp.sbs
 akt-ue-l-uru-nle-r.com
 akt.24eylulcom.art
 aktarim-hizmetleri.site
@@ -11021,6 +11024,7 @@ badmintonsynthesis.top
 badpropeller.top
 badsfghsadasdds.gleeze.com
 baelandworld.com
+bafbolta.duckdns.org
 bafd7a50.gfwisd-235.shop
 bafkreiaddfngryv3zb3f4ed22nnrt4bmdvyzluozw3texrixwbypvyfxau.ipfs.dweb.link
 bafkreiah6ev4oo7szmxrdqw6dlhhpd5qybdzogkafe6jhatdmtqncbxkku.ipfs.dweb.link
@@ -44579,6 +44583,7 @@ hockeymaternal.top
 hockeynickname.top
 hockypresents.com
 hodefmenst.duckdns.org
+hodekemenstler.duckdns.org
 hodenserholse.com
 hodenstler.duckdns.org
 hodeslerkest.duckdns.org
@@ -60562,7 +60567,10 @@ mhsscfsrsa11.sbs
 mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
+mhssraca.buzz
 mhssraca.cyou
+mhssraca.monster
+mhssraca.online
 mhssraca.skin
 mhssraca.website
 mhssracb.cyou
@@ -77073,6 +77081,7 @@ rockheartede.com
 rockriddle.world
 rockscanner.digital
 rocksegregation.top
+rodddcycyrgttskym.live
 roddddybdrydln.shop
 roddddybdrydlnnn.shop
 rodfilokiralama.com
@@ -78241,6 +78250,7 @@ sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
+sahibinden-param-guvende.tr-urun-detayi.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
 sahibinden-param-guvendesiparis.teknosaturuncugunler.com.tr
@@ -85084,6 +85094,7 @@ srntrsrsesdanismanlik.blogspot.com
 srntrstnsdanismanlik.blogspot.com
 srnykrndlasrabkle.com
 sronsistanbul.shop
+srrddasdasdasdsa.duckdns.org
 srrgla.net
 srrsewqsgqdaqnismanlik.blogspot.com
 srrsewqsgqrsaqnismanlik.blogspot.com
@@ -86605,6 +86616,7 @@ sunucukoruma.com
 sunucukoruma.xyz
 suokoy.top
 suortertrilli.top
+suottr.sbs
 suoyiwomeiyoushuozainichengzaiwoxiaodengbei.top
 super-ecz.club
 super-ecz.life
@@ -88770,6 +88782,7 @@ tebdevasbuvurular.site
 tebdijitalhediyem.com
 tebecekilis.net
 tebedevlet.kisalink.cc
+tebefes.site
 tebefeso.bounceme.net
 tebefsykh.abrdns.com
 tebfinansfx.com
@@ -88779,6 +88792,7 @@ tebli-cepte-mobile.myonlineportal.ch
 tebligbayi.com
 tebligceza.com
 tebpageinternet.my-homeip.com
+tebpromo.site
 tebsolansod.co
 tebsubat.kisalink.cc
 tebtedtektikbasvurularimonline.click
@@ -92765,6 +92779,7 @@ trjamer-dyson.com
 trjfmrgvrg.net
 trk20mb.herokuapp.com
 trkaflsdkckode.net
+trkamubirim.org
 trkara.nicepage.io
 trkaraca.cfd
 trkaraca.club
@@ -101573,6 +101588,7 @@ www-subesi2019yenilendik.cf
 www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
 www-tbb-org-tr.translate.goog
+www-tbstatus-cpte.myonlineportal.ch
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
 www-teb-com-tr-basvuru-iade.my-homeip.de
@@ -103053,6 +103069,7 @@ y4nln4riy4su4n4uzprof.duckdns.org
 y4nlndir4deincirl4yimknk.duckdns.org
 y4nsmsars.sbs
 y515.com
+y55ggxrndvs.com
 y5hdcf.icu
 y6n2z8w5t1k7.sbs
 y6ntzhj.cn

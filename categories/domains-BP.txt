@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259309
-# Last change: 2026-10-07 16:35:15 UTC (sync mode: delta)
+# Records: 259310
+# Last change: 2026-10-07 22:02:07 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -216317,6 +216317,7 @@ teb-2019kampanya.ml
 teb-2019kampanya.tk
 teb-2019ozelkampanya.com
 teb-91yil.com
+teb-bank-promosyon-emekli.myonlineportal.ch
 teb-bank-subesi-tr.com
 teb-bank.com
 teb-banka.com
