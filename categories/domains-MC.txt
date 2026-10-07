@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41455
-# Last change: 2026-10-06 10:26:32 UTC (sync mode: delta)
+# Records: 41462
+# Last change: 2026-10-07 08:45:55 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3222,6 +3222,7 @@ almostfbodydecker.cihuzulozu.workers.dev
 alnjm.ddns.net
 alnms555.ddns.net
 aloha.fekeigawy.com
+alohapages.pp.ua
 alomemurbey.surf
 alonesad.com
 aloofdorm.icu
@@ -7843,6 +7844,7 @@ child97.xyz
 childlesscatlady.today
 childporn.uno
 chillers.com.ar
+chillplace.pp.ua
 chimarem.duckdns.org
 chimneysweepdetroit.com
 chimpanzee235235.xyz
@@ -17731,6 +17733,7 @@ img.spoolsv.net
 img.tipinfolist.site
 img.wisepops.co
 imgcache.cloudservicesdevc.tk
+imgcdn1.com
 imgfil.com
 imgincapsula.com
 imging.site
@@ -34004,6 +34007,7 @@ sutrablin.club
 sutsyiekha.casa
 suvbxln.com
 suvkoqz.com
+suwaccqi.com
 suxebm.space
 suxfi.com
 suzannahhogg54.xyz
@@ -36387,6 +36391,7 @@ ukqaxthic.com
 ukr-netfilediscdownloadapplication.ru
 ukraina-drp.ddns.net
 ukraine-news.ddns.net
+ukrainerada.top
 ukrainianworldcongress.info
 ukremail.com
 ukrinform-share.net
@@ -39220,6 +39225,7 @@ wwerenbvb.store
 wwfygid.biz.id
 wwmal.com
 wwrc9.ngoox.com
+wwstifsteel.com
 wwsxcpl.shop
 wwt-chi.vercel.app
 wwtalk-app.com
@@ -41422,6 +41428,7 @@ zxlfsnkvr.com
 zxmdwqarf.com
 zxntbhqwe.com
 zxonazxc.com
+zxopfds.com
 zxqapwfnk.com
 zxqycxppw.com
 zxscbbg.xyz

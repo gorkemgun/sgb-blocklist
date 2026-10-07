@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259298
-# Last change: 2026-10-06 21:42:27 UTC (sync mode: delta)
+# Records: 259301
+# Last change: 2026-10-07 08:45:55 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -13943,6 +13943,7 @@ abuse45nb.66ghz.com
 abuse45nb.is-best.net
 abuseatmayadevamet.click
 abuxexor.com.tr
+abuzbiirharcabitmez.duckdns.org
 abuzerkomurcu.top
 abuzerkomurcu0.top
 abuzerkomurcu1.top
@@ -147827,6 +147828,7 @@ kellykusiaklaw.net
 kelmox.click
 kelnttkart.com
 kelpersx.click
+kelskonis.co
 kelsomgir.pw
 kelthira.digital
 keltiras.site
@@ -216361,6 +216363,7 @@ teb-destekcomtr.tk
 teb-dogrulama-promosyonlar.duckdns.org
 teb-e-mobil.online
 teb-e-mobil.site
+teb-emeklilik-promosyon-mobil.myonlineportal.de
 teb-emeklisin.my-homeip.de
 teb-esube.com
 teb-esube.ga

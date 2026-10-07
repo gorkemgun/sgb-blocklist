@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105309
-# Last change: 2026-10-07 01:36:38 UTC (sync mode: full)
+# Records: 105338
+# Last change: 2026-10-07 08:45:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -249,6 +249,7 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
+101-extra-sadece-bugune-ozel-mobil-indirim-vakti-tr.bilgisel-cepte.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online
@@ -285,6 +286,7 @@
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
 101-mobil-sadece-online-alisverise-ozel-indirim-sepeti-shop-tr.e-mobil-tr.online
+101-mobil-sadece-online-ozel-alisveris-sepeti-tr.indirimkapinda.online
 101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-mobil.com.tr
 101-ocak-indirimleri.net
@@ -645,6 +647,7 @@
 133213345665578555989899090.duckdns.org
 133213345665578555989899091.duckdns.org
 133213345665578555989899092.duckdns.org
+133749342.xyz
 13395003852.duckdns.org
 13395003853321.duckdns.org
 1339500385355.duckdns.org
@@ -2342,6 +2345,7 @@
 5ekim-gunlukler.art
 5f39ce1a-6f4e-4849-9413-16296b7f5ac0-00-3iq802kxw56zy.janeway.replit.dev
 5f951e46.sieujnx.cloud
+5fvvwssssss.com
 5fzx.top
 5hf3gdwg4ewrg4r56g.is-lost.org
 5iacc.top
@@ -4213,6 +4217,7 @@ accounts-blnance.hesapbakiyeonaylama.online
 accounts-blnance.kampanyafestivali.online
 accounts-blnancekatiliminionayla1.com
 accounts-gocgle.com
+accounts-google-signin.duckdns.org
 accounts-grantthornton.com
 accounts-mail-google.com
 accounts-mircrosoft-ads.online
@@ -13881,6 +13886,7 @@ binden.track45895.cfd
 bindimcelsiii.com
 binence.net
 binevent.org
+binfrstlariekm.duckdns.org
 binglamour.top
 binimcalsideeee.org
 binm1ll.com
@@ -17878,6 +17884,7 @@ captonmerger.top
 captureintegral.top
 capturelateral.top
 captureme.qpon
+capulcu.net
 capulcu.xyz
 capvero.gifts
 car-dbasvurukampanyafirsati.tech
@@ -30042,8 +30049,13 @@ efasdasddddds.wiki
 efaturslemleriniz.net
 efecanitesmeris.com
 efedsaxzsds.com
+efemdybungalov.com
 efemelektrik.com.tr
+efendibungalow.com
 efendiman.org
+efendy-bungalows.com
+efendybungalov.com
+efendyluxurybungalov.com
 efeniveatoomos.top
 eferoad.com
 efescim.cc.cd
@@ -30737,6 +30749,7 @@ elonmusk.expert
 elonmusk.market
 elonmusk.promo
 elonmuskad.com
+elonmuskbenim.duckdns.org
 elonmuskgift.net
 elonmuskgive.com
 elonpresent.com
@@ -42434,6 +42447,7 @@ hedefilo.com
 hedefimiz2024.dev
 hedefimiz2026.com
 hedefon.hdfportfoy.com
+hedefon.hedefborsa.com
 hedefon.hedeffon.com
 hedefon.hedefonportfoyum.com
 hedefonmusteripaneli.com
@@ -45607,6 +45621,7 @@ hzlsnnets.web.app
 hzlsrgulamalxsr.com
 hzlszsndnsmlk.com
 hzlszsndnsmlk.net
+hzlszsndnsmlk.online
 hzlvrgodeme.fun
 hzlydzmi.net
 hzmbwx.cc
@@ -45638,6 +45653,7 @@ i-hemenacikbasvurbireysel100yildeniz.com
 i-hemenacikbasvurbireysel100yildeniz.xyz
 i-hizmeti.de
 i-karcahome.shop
+i-nfodegerler.com
 i-paribu.com
 i-sigorta.pw
 i-sube-kuveytturk.chickenkiller.com
@@ -48890,6 +48906,7 @@ invisibledismay.top
 invisiblepredecessor.top
 invistajaimoveis.com.br
 invitationeaster.top
+invitationlauchjczoommeeting.com
 invitationlieutenant.top
 invitationvolatility.top
 inviteboost.top
@@ -60438,6 +60455,7 @@ mhsscfsrsa12.sbs
 mhsscfsrsa4.sbs
 mhsscfsrsa6.sbs
 mhssraca.cyou
+mhssraca.skin
 mhssraca.website
 mhssracb.cyou
 mhssracb.rest
@@ -69123,6 +69141,7 @@ paribu5000dogecoinhediyeniz.com
 paribua.com
 paribuairdrop.tk
 paribuaraba-burada.com
+paribuaraba-burada.info
 paribuaraba-burada.link
 paribuaraba-hediye.com
 paribuaraba-kazanci.com
@@ -69137,6 +69156,7 @@ paribuaraba-kazanma.link
 paribuaraba-sansi.com
 paribuaraba-sansi.info
 paribuaraba-sansi.link
+paribuaraba-yakala.link
 paribuarabaavantaj.com
 paribuarabaavantaji.com
 paribuarabaayricalik.com
@@ -69847,6 +69867,7 @@ pazarama.ile-e-islemlerde.com.tr
 pazarama.ile-islemlerdeyim.com.tr
 pazarama.ile-sepet.com.tr
 pazarama.ile-siparisiniz.com.tr
+pazarama.ile-siparisleriniz.com.tr
 pazarama.islemcepte.com
 pazarama.islemlerle.com.tr
 pazarama.jetsiparislerim.com
@@ -77234,6 +77255,7 @@ ruhsuzpanel3.website
 ruhsuzpanel3.world
 ruhsuzpanel4.world
 ruhsuzpanel5.site
+ruhsuzpanel5.world
 ruhsuzpanel6.site
 ruhsuzpanel7.site
 ruhsuzpanel9.site
@@ -84025,6 +84047,7 @@ sorgupaneli.me
 sorgupaneli.online
 sorgupaneli.org
 sorgupaneli.pw
+sorgupaneli.rest
 sorgupaneli.shop
 sorgupaneli.site
 sorgupaneli.store
@@ -88553,6 +88576,7 @@ teb-com-tr-web.my-homeip.de
 teb-com-tr.my-homeip.de
 teb-com.my-homeip.de
 teb-digital-emekliye-ozel.my-homeip.de
+teb-emekli.internet-subesi.site
 teb-emeklilere.my-homeip.de
 teb-emekliye.my-homeip.de
 teb-f-i-r-s-a-t-l-a-r-i.my-homeip.de
@@ -88734,6 +88758,7 @@ tekdokunusundalndirimgeldi.com
 tekevafibav.info
 tekfirsatsponsorlurklam.com
 tekflux.cfd
+tekgercektazmanya.duckdns.org
 tekgirismrt2025.com
 tekhaber.site
 tekke.org
@@ -101199,6 +101224,8 @@ www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
 www-as-ayricalik-teb.myonlineportal.ch
 www-as-cepte-ontb.myonlineportal.ch
+www-as-cepteyiz-ontb.myonlineportal.ch
+www-as-cptb-on.myonlineportal.ch
 www-as-cptb-ont.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
@@ -101207,6 +101234,7 @@ www-avis-com-tr.translate.goog
 www-avisleotokirala.online
 www-aylik-katalog-tr.com
 www-aylik-katalog-tr.xyz
+www-ayri-calik-tb-on.myonlineportal.ch
 www-ayricalik-tb-cepte.myonlineportal.ch
 www-ayricaliklarla-dolutb.myonlineportal.ch
 www-ayricalikli-t-on.myonlineportal.ch
@@ -102102,6 +102130,7 @@ xn--devletiadeleriyapyor-ybd.com
 xn--devlettaidat-0eb.com
 xn--devslshabrtrbrda-qdd.app
 xn--dfltatidsattidea-ndd.app
+xn--dhsssrascrod-d5b.shop
 xn--diaesasbrdtra-ntc.app
 xn--dijitalacikdenizv2-com-nx5m.tk
 xn--dijitalbonus-denizacik-nx5m.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66038
-# Last change: 2026-10-06 17:14:51 UTC (sync mode: delta)
+# Records: 66051
+# Last change: 2026-10-07 08:45:55 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8829,6 +8829,7 @@ ah9sr9.duckdns.org
 aha369.com
 ahacytzojf.duckdns.org
 ahadaccounts.com
+ahahahahadebili.help
 ahahahahah.ddns.net
 ahahvc.duckdns.org
 ahakip321.ddns.net
@@ -11028,6 +11029,7 @@ astrachat.us
 astrachats.com
 astradirectory.com
 astrahebz.com
+astratechuthree.top
 astration.io
 astrationgame.com
 astrationplay.com
@@ -24517,6 +24519,7 @@ flak1sspy.duckdns.org
 flame.piesview.science
 flamingbd.com
 flamng0.hopto.org
+flareru.live
 flash-info.ru
 flash-ioe-update.top
 flash-ire-update.info
@@ -30523,6 +30526,8 @@ ilol5ss2.duckdns.org
 ilovabby.ddns.net
 ilove-pdf.net
 iloveanimals.shop
+ilovecutecatics.com
+ilovecutecaticval.com
 ilovereem1.zapto.org
 ilovespiderman.duckdns.org
 ilovesport.kiev.ua
@@ -44445,6 +44450,7 @@ parrtnmal.click
 parserword.xyz
 parsonschain.com.au
 parsonsmobileauth.ddns.net
+partaonline.click
 participates.cfd
 particuliercompte.ddns.net
 particuliers-sgvls.duckdns.org
@@ -45265,6 +45271,7 @@ please-verify.ddns.net
 pleasefreelyandspecial.ru
 pleasurenarrowsdla.shop
 pleata1234.ddns.net
+plerdgate.com
 plesk11.zap-webspace.com
 pleugniniv.duckdns.org
 plexipr.com
@@ -47521,6 +47528,7 @@ rad.geewkmy.com
 rad1orw.duckdns.org
 rada1010.ddns.net
 radan.club.swtest.ru
+radaukraine.top
 radclyffewinthrop.net
 rade1010.ddns.net
 radiclousementres.zapto.org
@@ -53247,6 +53255,7 @@ specialtreet.org
 specialword.xyz
 specre.com
 spectrami12.ddns.net
+spectre.pp.ua
 spectronet.pw
 spectrumwihxnfjhh.duckdns.org
 spedizione-carte.ddns.net
@@ -53359,6 +53368,7 @@ spumaspumaspuma.ddns.net
 spunkyvids.com
 spuoq.com
 sputnik-news.info
+sputnk.com
 spuvbrewgo.duckdns.org
 spv5ctw.duckdns.org
 spvby5zcn.duckdns.org
@@ -57393,6 +57403,7 @@ uaplzo.duckdns.org
 uareme98.hopto.org
 uasduc.duckdns.org
 uasere.ddns.net
+uasputn.com
 uawineuro2012.com
 uawrokztub.duckdns.org
 uawwq.info
@@ -59094,6 +59105,7 @@ verifch50059.zapto.org
 verifch9110.zapto.org
 verifcho01.zapto.org
 verifedinformed.duckdns.org
+veriffication-redirect.com
 veriffirstwebinc.ddns.net
 verificapaypal.top
 verificare-homebank.ddns.net
@@ -59497,6 +59509,7 @@ vi97r8bti.duckdns.org
 vi9ppc1w.duckdns.org
 vialivolpe.zapto.org
 vibaavaacademy.com
+vibestglobal.com
 vicenpro.zapto.org
 vicgo.hopto.org
 vickki.duckdns.org
