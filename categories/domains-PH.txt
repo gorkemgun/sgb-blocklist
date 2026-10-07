@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
 # Records: 105309
-# Last change: 2026-10-06 21:42:27 UTC (sync mode: delta)
+# Last change: 2026-10-07 01:36:38 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -29497,7 +29497,6 @@ ebayshop.help
 ebddkvsvr.de
 ebebebebek.xyz
 ebebek-store.ir
-ebebek.nivo.com.tr
 ebebekonline.shop
 ebeldegeneratio.top
 ebelgemerkezi.org
@@ -41104,6 +41103,7 @@ haberler-turkei-today.online
 haberler.dyndns.tv
 haberler.sizde.com.akbadonerd.click
 haberler.today
+haberler10978.sbs
 haberler112233.shop
 haberler11237489.sbs
 haberler11278945.shop
