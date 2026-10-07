@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105338
-# Last change: 2026-10-07 08:45:55 UTC (sync mode: delta)
+# Records: 105506
+# Last change: 2026-10-07 16:35:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1774,6 +1774,7 @@
 3415254462.cloud
 341957735.cloud
 341c4324zs.duckdns.org
+34232579.xyz
 34234325231321.com
 342f99a1.jdhuwoskz.cloud
 3432wqewqr211421.cfd
@@ -2763,6 +2764,7 @@
 82d4310c.ns-u629df.shop
 83216-coinbase.com
 8328c2e8.dj-hd5kfu.shop
+83434563.xyz
 83527153281.click
 83718173628291737181719192.com
 837613-coinbase.com
@@ -4191,6 +4193,7 @@ account-mircrosoft-ads.com
 account-onay-binance.one
 account-onay.me
 account-storage-limits.com
+account-sync-data.com
 account-verification323910.fun
 account-verification581029.online
 account.bhance-tr.net
@@ -4911,6 +4914,8 @@ addssanonymous.top
 addssopasskey.com
 addventory.com
 addyourpasskey.com
+adeccohr-calendly.com
+adeccohr-jobs.com
 aded.click
 adembademyemisniyebizegetirmemis.duckdns.org
 adenbaba.online
@@ -5113,6 +5118,7 @@ adroitsoft.tech
 adrslerteklr.sbs
 adrwgtyawhdj-awgtadfgtwhdj.sbs
 ads-adversitingb.com
+ads-claude-beta.com
 ads-giris-hediye-kupon.com
 ads-microsoft.bewears.com
 ads-microsoft.click
@@ -5122,6 +5128,7 @@ ads-microsoft.online
 ads-microsoft.shop
 ads-mlcrosft.com
 ads-semrush.com
+ads-team-openai.com
 ads.active-page-policy.cfd
 ads.msicrosoft.com
 ads.pageverifybusiness.cfd
@@ -5131,6 +5138,7 @@ adsaara.sbs
 adsadburadanhemenalve.digital
 adsadburadanhemenalvesa.digital
 adsbusinesscampaingscoupons.com
+adsclaudeback-production.up.railway.app
 adsclick.me
 adsd33fdsf.nicepage.io
 adsedse-dereceve.lol
@@ -5144,6 +5152,7 @@ adsl.evdeinternetkampanyasi.net
 adsmanager.click
 adsmanagers.click
 adsmicro.exchangefastex.cloud
+adsmistral.com
 adsometric.com
 adsov.coinbase-com.info
 adspayment-support.com.tr
@@ -5181,6 +5190,8 @@ adversityappal.top
 adversitymeticulous.top
 adversradition.top
 advertising-bing.site
+advertising-chatgpt.com
+advertising-gemini.com
 advertising-mlcrosoft.org
 adverts2023.online
 advisablestunning.top
@@ -5513,8 +5524,10 @@ ahorratelaferia.com
 ahsqsqsq-goldberg.217-195-202-19.plesk.page
 ahuh.dravencia.sbs
 ahunvascn.net
+ai-ads-platform.com
 ai-baykar.com
 ai-baykar.nl
+ai-brand-safety.com
 ai-culinary.com
 ai-doublemintvip.com
 ai-global.news
@@ -7694,6 +7707,13 @@ antennequation.top
 anteslim.com
 antheriq.com
 anthige.top
+anthropic-ads-beta.com
+anthropic-ads-marketing.com
+anthropic-ads.com
+anthropic-beta-ads.com
+anthropic-crm-1.com
+anthropic-sponsored.com
+anthropicadsback.onrender.com
 antiaggressionist.com
 antibioticcynical.top
 antibioticeed.top
@@ -7952,6 +7972,7 @@ applaudinvalid.top
 applaudunification.top
 applauseoverflow.top
 applauseunify.top
+apple-career.com
 apple-login-imaps.com
 apple-sucuentareptinfrmes.com
 apple-thailand.co
@@ -10959,6 +10980,9 @@ bacheloroutfit.top
 bachelorstout.top
 bachelorsymphony.top
 backcollarlip.com
+backend-j02u.onrender.com
+backend-production-6d75.up.railway.app
+backend-tg0j.onrender.com
 backend.com.coinbase-com.info
 backend.vmfuiojitnlb.es
 backfact.top
@@ -11085,6 +11109,7 @@ bakanlariibulmamerrkezii.net
 bakanliktanonayli.online
 bakartech.com
 bakbmskzmxl.com
+bakbrdannlrvarrvd.lol
 bakcreative.pics
 bakebureaucrat.top
 bakedistortion.top
@@ -11428,6 +11453,7 @@ bassaksigorta.com.tr
 bassescalation.top
 bassfishinelectronics.top
 bassfort.top
+bassslyyyrz.duckdns.org
 bassvrnzbzldv.cfd
 bassvuru.site
 bassvurun.site
@@ -12893,6 +12919,11 @@ besyuzbinkonutbasvuru.com
 besyuzbinsosyalkonut.com
 bet-ter-electr.org
 bet.panel.market
+beta-anthropic.com
+beta-chatgpt.com
+beta-gemini-ads.com
+beta-manus.com
+beta-perplexity.com
 beta.zaaf.cloud
 betacheck.pro
 betanow.xyz
@@ -16906,6 +16937,7 @@ burakapp-78ebd453f21b.herokuapp.com
 burakegitim.org
 buralar-sana-gore.shop
 buralarda-kotuyum.it.com
+buralardanbilginialabilirsin.com
 buralardayiz.com.tr
 buralardinrimlerbitemdi.online
 buralardndbnsjdjfuoksnm.website
@@ -17083,6 +17115,7 @@ bushporcelain.top
 busine.cfd
 businesinvest.com
 business-account-15781759289.web.app
+business-gemini.com
 business-latch.info
 business-poste.top
 business-request-review127989.web.app
@@ -18144,6 +18177,8 @@ career-tesla.com
 careerhypocritical.top
 careerpredictto.space
 careerpulsynk.xyz
+careers-appointment.com
+careers-interview.com
 careers-openai.com
 careers-snapshot-mixed-referrals.trycloudflare.com
 careers.com.pk
@@ -18918,6 +18953,7 @@ cezadosyasorgu.org
 cezaesorgu.net
 cezagecislerin.info
 cezagovtr.org
+cezahazine.com
 cezahukukudosya.com
 cezainceleme.com
 cezainfaz.org
@@ -19102,11 +19138,19 @@ chat-gpt-online-pc.com
 chat-gpt-pc.online
 chatcabbage.top
 chatexemption.top
+chatgpt-advertise.com
+chatgpt-advertisement.com
+chatgpt-beta.com
+chatgpt-brief.com
+chatgpt-briefing.com
 chatgpt-codex-app.gitlab.io
 chatgpt-codex-lm.gitlab.io
 chatgpt-go.online
+chatgpt-monday-brief.com
 chatgpt.build
 chatgpt4beta.com
+chatgptadsback-production.up.railway.app
+chatgptadsback.onrender.com
 chatgptc.io
 chatgptdetectors.com
 chatprism.icu
@@ -19653,11 +19697,22 @@ classotokiralama.com
 classrevival.top
 classroomaide.top
 classroomswap.top
+claude-ads-beta.com
+claude-ads-invitations.com
+claude-ads-portal.com
+claude-ads.ai
+claude-advertisement.com
+claude-advertisers.ai
+claude-advertisers.com
 claude-app-new.gitlab.io
+claude-beta-invite.com
+claude-beta.com
 claude-code-app.gitlab.io
 claude-code-update.squarespace.com
 claude-desktop-lm.gitlab.io
 claude-desktop.gitlab.io
+claudeadsback-production-67c1.up.railway.app
+claudeadsback-production.up.railway.app
 claudeapp.gitlab.io
 claudecode-desktop.gitlab.io
 claudecode-developers.squarespace.com
@@ -21375,6 +21430,7 @@ confirm-in.com
 confirm-info28040.world
 confirm-instegram-user.tr-tc.com
 confirm-it-guest2341.world
+confirm-payments.com
 confirm-reserv19941.cfd
 confirm-reservation-id4781.com
 confirm-reservation-id5439.com
@@ -24228,6 +24284,7 @@ curriculumtopic.top
 curseconcede.top
 cursiane.com
 cursor-8ced8a.gitlab.io
+cursor-ads.com
 curtailrectification.top
 curtainaristocratic.top
 curveail.top
@@ -24771,6 +24828,7 @@ davadosyasorgula.org
 davadurum.org
 davaeavukat.org
 davaesorgu.org
+davahazine.com
 davalayap.com
 davalidosyam.com
 davamerkezi.org
@@ -27957,6 +28015,7 @@ domannawlmyrmrr.duckdns.org
 domatesfabrikasi.cfd
 domatisc.ink
 domdomindominotorettoangel.net
+domdomomoo.duckdns.org
 domenight.top
 domepoised.top
 domesticplausible.top
@@ -28392,6 +28451,7 @@ dripstyle.bond
 driptempo.top
 driv.memerax.com
 drive-mofa-account-downlaod-folder-production.up.railway.app
+drive-mofa-account-download-folder-production.up.railway.app
 drive-roketsans-com-tr-account-files.netlify.app
 drivemyfile.com
 drivenarrow.com
@@ -29939,6 +29999,7 @@ edlvllrlere-govturkiye.com
 edlvtkardaidatlariniziabiba.xyz
 edobimcell.com
 edomkal.online
+edosyabdk.com
 edosyaburo.com
 edosyacbs.org
 edosyaceza.com
@@ -30567,6 +30628,7 @@ elcxoa.co
 eldengelenler.click
 elderly-remove-corners-transition.trycloudflare.com
 elderrecur.top
+eldoria.blog
 eldranz.com
 electioncompress.top
 electivegalaxy.top
@@ -31656,6 +31718,7 @@ environmentexotic.top
 environmentfling.top
 environmentsubtlety.top
 environmentwrestle.top
+envirraandevu.com
 envisagecelebrity.top
 envisageenvelop.top
 envoyoppression.top
@@ -31736,6 +31799,7 @@ eportalceza.com
 eportaldava.com
 eportaldosya.com
 eportalgirislerr.com
+eportalhazine.org
 eportaliadelerizamani.com
 eportalkamu.org
 eportalmasak.com
@@ -31974,6 +32038,7 @@ escapelesss.com
 esclvrt-sdt.com
 escobar34.com
 escobarcheck.site
+escrow-ads.com
 escrowaccepted.com
 escueladecinemza.com.ar
 esdefdvvt-sdvtt.com
@@ -34286,6 +34351,7 @@ ferlokia.store
 fernasburs.site
 fernharbor.store
 ferraraferreira.adv.br
+ferrari-invite.com
 ferrymalignant.top
 ferrysynthetic.top
 fertileduty.top
@@ -35584,6 +35650,7 @@ flrsatlarikacirmamakicin.duckdns.org
 flrsatlarkapinakadargeldi-sendeal.com
 flrsatlarla1-0-1-lndlrlmleri.online
 flrsatlaronline.com
+flrsatsokhepberaber.lol
 flrstlmdslmflf.duckdns.org
 flrstlrkacirmayi30hzrn.xyz
 flrstnburda.shop
@@ -37666,9 +37733,23 @@ gelveal.club
 gelvebasinial.duckdns.org
 gelyenifirsat.net
 gemememhasereilaclama.site
+gemimi-ads.com
+gemini-ads-ai.com
+gemini-ads-invite.com
+gemini-ads-team.com
+gemini-ads.ai
+gemini-advertisers.com
+gemini-beta-invitations.com
+gemini-beta-invites.com
 gemini-btc.com
 gemini-btc.net
 gemini-btc.org
+gemini-business.com
+gemini-google-ads.com
+gemini-invitation.com
+gemini-invitations.com
+geminiback-5j1n.onrender.com
+geminiback-production.up.railway.app
 geminilive.org
 geminim-loginn.webflow.io
 gemnvuilosgiz.webflow.io
@@ -37762,6 +37843,7 @@ genkinfy.es
 genkinfy.info
 genkinfy.us
 genkingroup.info
+gennini-ads.com
 gennora.shop
 gennora.site
 gennora.store
@@ -39045,6 +39127,7 @@ goofy-bassi.194-163-174-222.plesk.page
 googieaccount.top
 googiedrivers.com
 googl-6c11f.firebaseapp.com
+google-ads-sync.com
 google-analytiks.com
 google-link.my-homeip.de
 google-play-cards.tk
@@ -39507,6 +39590,7 @@ gratis.nottheweb.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
 gratis.ploteando.com
+gratis.raspberrydevice.com
 gratis.rataforo.com
 gratis.sendreward.com
 gratis.servehumour.com
@@ -41211,6 +41295,7 @@ haberler64348.shop
 haberler6555343.shop
 haberler6723236.sbs
 haberler73421.shop
+haberler73452.sbs
 haberler7452523.shop
 haberler78413289.sbs
 haberler787534.sbs
@@ -48905,6 +48990,7 @@ invisibledeplore.top
 invisibledismay.top
 invisiblepredecessor.top
 invistajaimoveis.com.br
+invitation-anthropic.com
 invitationeaster.top
 invitationlauchjczoommeeting.com
 invitationlieutenant.top
@@ -51231,6 +51317,7 @@ jurisdictionsarcastic.top
 jurly.bond
 jurnaqiv.live
 jusl3.top
+just-cooperation-production-f159.up.railway.app
 just-giris-web.casa
 justarena.top
 justchapel.top
@@ -51935,6 +52022,7 @@ kamudosyaportal.org
 kamudosyatakip.org
 kamuduyuru.bns-vio.site
 kamuesorgu.org
+kamuhazine.com
 kamuilan.org.tr
 kamuinfaz.com
 kamuinfaz.net
@@ -55300,6 +55388,7 @@ latirostraly.info
 latitudeautonomous.top
 latitudelawsuit.top
 latitudemedieval.top
+lattafasturkiye.com
 lattercoral.top
 lauagsndbfud.top
 laughclub.lol
@@ -55474,6 +55563,8 @@ leaguepreoccupied.top
 leaguethrift.top
 leakcheck.pro
 leakekibi.com
+leaks-entry.com
+leaksentry-security.com
 leandelerklande.duckdns.org
 leanflattery.top
 leanhose.top
@@ -56094,6 +56185,7 @@ linguisticdwelling.top
 linguisticscompassion.top
 linguisticstf.top
 link-dolapapp.com
+link-mcc.com
 link-pa.com
 link-sabihinden.com
 link.dolapilesiparis.com
@@ -56365,6 +56457,7 @@ lll0lese3was.duckdns.org
 llleras23qw.duckdns.org
 lllinoistollwayc.top
 llllizmrmxxll.net
+llllllllllll111111.com
 lllllllllllllllllll.net
 lllllllllllllllllllllllllllll.online
 llllllllllllllllllllllllllllllllllllllllllllllllll.site
@@ -58430,6 +58523,7 @@ mangaarthoteltokyo.com
 mangalium.com
 mangaltara.click
 mangettinationalpark.com
+mango-back.onrender.com
 mango-cleopatrapg.com
 mangodemo.shop
 mangonothing.top
@@ -58515,9 +58609,16 @@ manufacturercardinal.top
 manulasimkrt.net
 manulaskrt.net
 manumission.cloudnestde.com.de
+manus-meta.im
+manus2back-production.up.railway.app
 manusai.sbs
+manusback-bahk.onrender.com
+manusback-production.up.railway.app
+manusback.onrender.com
+manusbymeta.com
 manuscriptalleviation.top
 manuscriptcensus.top
+manusmeta.im
 manusriptdiidend.top
 manycatholic.top
 manycynicism.top
@@ -59240,6 +59341,7 @@ maze-abstracted-catboat.glitch.me
 mazeargueconnectdeliver.com
 mazi-web.myonlineportal.ch
 mb952ja9hgujk3.store
+mbackend-mdye.onrender.com
 mbafwnds.com
 mbcyx.icu
 mbenzmersddd.net
@@ -59290,6 +59392,11 @@ mcafilo.com
 mcare.co.in
 mcbgvsbcos.ytyukai.cn
 mcbnxh.homes
+mcc-account-sync.com
+mcc-invitation.com
+mcc-safety.com
+mcc-security.com
+mcc-verification.com
 mccallagenvyinc.com
 mccmure.com
 mcdlhayat.org
@@ -60060,6 +60167,7 @@ metam4sk.online
 metamaask-extensiona.webflow.io
 metamaaskwalletxtension.webflow.io
 metamakswlleteextension.webflow.io
+metamanus.im
 metamasaklogine.webflow.io
 metamascalogin.webflow.io
 metamask-io.ga
@@ -60478,6 +60586,7 @@ mhssrrrdhas.site
 mhsssraa.cfd
 mhsssraa.rest
 mhsssraa.sbs
+mhsssras.sbs
 mhsssrassa.live
 mhsssrassb.live
 mhsssrassc.live
@@ -61599,6 +61708,7 @@ monarsikutonin.blogspot.com
 monat-verif.world
 monazero.site
 monboutiquehotel.icu
+monday-brief-claude.com
 mondayindirimonline.com
 mondergo-id2463.world
 mondialrellay.live
@@ -62365,6 +62475,8 @@ muscularcommend.top
 muscularevoke.top
 muscularhiernation.top
 muscularvideo.top
+museads.ai
+museadsback-production.up.railway.app
 musefocus.pl
 musepiece.pl
 musescene.pl
@@ -64041,6 +64153,8 @@ nihhathatipoglu.com
 nihilvoluptate.com
 nihtlyconteract.top
 nikafk244.com
+nikear.onrender.com
+nikehr-jobs.com
 nikemall.tw
 niketyy.info
 nikogdaboudou.net
@@ -64229,6 +64343,7 @@ nltalnakmama.net
 nltalntalnal.net
 nltaman.net
 nltkammt.net
+nltkkamats.net
 nltkmamt.net
 nltknam.net
 nltknant.net
@@ -65168,6 +65283,7 @@ nvirandevubilgilendirmetrcan.blogspot.com
 nvirandevucan.xyz
 nvirandevucunuz.online
 nvirandevucunuzz.online
+nvirandevuekrakodeme.online
 nvirandevuhizmetleriniz.online
 nvirandevular.com
 nvirandevular.xyz
@@ -67242,7 +67358,10 @@ open-mindedoutrage.top
 open-mindedwhereby.top
 open-sea-club.com
 open-sea-space.com
+openai-ads.ai
+openai-advertisers.com
 openai-pc-pro.online
+openaiadsteam.com
 openarackiralama.com
 openarvion.store
 openbankcard.ru
@@ -69794,14 +69913,19 @@ paylasimdurumum.com
 paylist-push-ppc.com
 paylist-push-seo.com
 paylist-push-work.com
+payment-confirm.com
+payment-confirmation.com
+payment-confirmations.com
 payment-id0098722.com
 payment-id34234.com
 payment-mobile.shop
 payment-ssget.com
+payment-sync.com
 payment-vignetten.icu
 paymentalleviate.top
 paymentclap.top
 paymentregret.top
+payments-sync.com
 payments-thesilverlining.com
 paymentweb-ch.com
 paynector.com
@@ -70246,6 +70370,9 @@ perpetualdreadful.top
 perpetualthing.top
 perpetuatespaghetti.top
 perplexbotanical.top
+perplexity-advertising.com
+perplexity-beta-ads.com
+perplexity-beta.com
 perplexity-platform.gitlab.io
 perplexityrecur.top
 perplexpanelofficial.sorgupanel.net
@@ -72155,6 +72282,7 @@ prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynnkmpnyaabsv2569858477.online
 prmsynnkmpnyabsvrrrsnfrstlarr.info
+prmsynnkmpnyyybasvr254178.pro
 prmsynnnkmpnyaabasvrrr147852.pro
 prmsynnnkmpnyrrsonffrstlar.info
 prmsynnnkmpnyrrsonffrstlar.pro
@@ -74814,6 +74942,7 @@ randomglow.top
 randomradiator.top
 randomunlockvoyagefrog.com
 randomvolatility.site
+randoomom.duckdns.org
 randtapv.online
 randuman.webredirect.org
 randv-kontlr-etmek-m.web.app
@@ -75580,6 +75709,7 @@ refuge-coinbase.com
 refugeeconverse.top
 refugeglossary.top
 refugetreasury.top
+refund-advertisers.com
 refund-booking-goninurbansuite.com
 refund-mygov.com
 refundadversary.top
@@ -77764,6 +77894,7 @@ safestorages-coinbase.com
 safesurf.world
 safetourismgoturkiye.com
 safety-languag-gr-web.myonlineportal.ch
+safety-mcc.com
 safetyagencyservice.com
 safetydocsgateway.com
 safetyevasion.top
@@ -77960,6 +78091,7 @@ sahibinden-get.rservsleriniz.com
 sahibinden-get.ru.com
 sahibinden-get.servisepetin-10.sbs
 sahibinden-get.servisepetin-15.sbs
+sahibinden-get.servisepetin-20.sbs
 sahibinden-get.servisinguvenli-25.sbs
 sahibinden-get.servisinguvenli-60.sbs
 sahibinden-get.servisinguvenli-65.sbs
@@ -79590,6 +79722,7 @@ scdelndirmlera1o1.mooo.com
 scdeneme321.tk
 scdlcerkl3x1l2xc43x2.cyou
 scdqwl.help
+scegl.sceglilapuglia.com
 scenarust.top
 scenebatter.top
 scenerival.top
@@ -80080,9 +80213,11 @@ securesender-ntsuitesafemail.com
 securesession-coinbase.com
 secureupdateamazonapps.dynnamn.ru
 securing-coinbase.com
+security-ads.com
 security-binance-destek.net
 security-binance-may.net
 security-bireysel-hizmet.com.tr
+security-mcc.com
 security-password.casa
 security-sahibinden.com
 security-sahibindenparamguvende-org.cf
@@ -80381,6 +80516,7 @@ seminarindustry.top
 seminerbursdestek.online
 semiolomar.top
 semmitsyuisa.info
+semrush-ai.com
 semrush-auth.com
 semrush-dos.com
 semrush-pro.click
@@ -80389,6 +80525,8 @@ semrush-seo.com
 semrush.click
 semrush.tech
 semrush.works
+semrushads-ai.com
+semrushback.onrender.com
 semrussh.sbs
 sen-gelmezsen-olmaz.com
 sen-gelmezsen.com
@@ -84663,6 +84801,7 @@ sponsor.cf
 sponsorblackmail.top
 sponsorcekilisler.online
 sponsordijitalrnobilislernapp.space
+sponsored-gemini.com
 sponsorilanvar.online
 sponsorlu---cekilis.online
 sponsorlu---cekilisi.online
@@ -87020,7 +87159,24 @@ symptommobilize.top
 syn.domainclx.biz
 syn.ezpizi.click
 synbroun.com
+sync-account-invite.com
+sync-account.com
+sync-ads-account.com
+sync-ads.com
+sync-billing.com
+sync-business.com
 sync-checker.xyz
+sync-mcc-account.com
+sync-mcc-data.com
+sync-mcc-team.com
+sync-payment.com
+sync-payments.com
+sync-tiktok.com
+syncgadsback.onrender.com
+syncgoogleadsback-production-6100.up.railway.app
+syncgoogleadsback-production-cde6.up.railway.app
+syncgoogleadsback-production.up.railway.app
+syncgoogleadsback.onrender.com
 synchoilas.xyz
 synchvault.co
 synctech.cyou
@@ -87847,6 +88003,7 @@ talebinizialtyapigonderiniz48.urlnames.xyz
 taleconviction.top
 talehome.top
 taleju-boutique.com
+talent-louisvuitton.com
 talentbymetaal.vercel.app
 talentconstituent.top
 talented-friendly-price.glitch.me
@@ -87995,6 +88152,7 @@ tapu-randevu.net
 tapu-randevumsu-tkgm-e-devlet.vercel.app
 tapu.ink
 tapu.lat
+tapu.surf
 tapu1.shop
 tapu11.shop
 tapu12.shop
@@ -88059,6 +88217,7 @@ tarihrandab.net
 tarihsizvalibaba.duckdns.org
 tarimarketcep.cfd
 tarimbirlikmarket.com
+tarimkoop.com
 tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
 tarimkooperatifmarkette.cfd
@@ -88143,6 +88302,7 @@ tauruspro.org
 tautan-instagram-qrz.com
 tautan-instagram-qtz.com
 tautan-instagram-qxz.com
+tauzakyollarda.click
 tavaevsn.net
 tavaevsyn.xyz
 tavbazro.xyz
@@ -88185,6 +88345,7 @@ tazeurunlerguvenlialisverisadresin.cfd
 tb0jx31.cn
 tb3vq2q.cn
 tbaccesonline.com
+tbackend-production-39ca.up.railway.app
 tbasvuruyap.com
 tbbccmmr-1014.ga
 tbbccmmr-1038.ga
@@ -89516,6 +89677,7 @@ tesanka.net
 tescillisorgu.com.tr
 tesegexyunis-001-site1.ftempurl.com
 tesisler-rehbering-todays.myonlineportal.eu
+tesla-careerapplication.com
 tesla-promote.com
 tesla-usdt.com
 tesla-x2.cc
@@ -93071,6 +93233,7 @@ trustedengagement.de
 trustedgoods.shop
 trusteecommemoration.top
 trusteeconsolation.top
+trustfee.club
 trustgiftwall.tk
 trustindpilot.in.net
 trustivefinance.com
@@ -94110,6 +94273,7 @@ tuvturk-muayne.shop
 tuvturk-sorgul4m4-alaxninizmu4yne.net
 tuvturk-sorgul4m4-alaxninvisfldks.net
 tuvturk-sse.digital
+tuvturk.adblickgranos.com
 tuvturk.gac.gov.lr
 tuvturk.sendreward.com
 tuvturk.site
@@ -95579,6 +95743,7 @@ uyapforex.com
 uyapgiris.com
 uyapgov.org
 uyapguncel.vercel.app
+uyaphazine.com
 uyapkontrol.com
 uyapkurumportal.netlify.app
 uyapmaliye.com
@@ -95723,6 +95888,7 @@ uzlasmadosyatr.com
 uzlasmadosyauyap.org
 uzlasmaegm.org
 uzlasmaemaliye.org
+uzlasmahazine.com
 uzlasmasorgu.com
 uzlasmasorgulayalim.com
 uzlasmasorgunuz.com
@@ -96907,6 +97073,7 @@ verification-id9319412.com
 verification-life-h0me.com
 verification-life-h0me.rest
 verification-page.xyz
+verification-security.com
 verification12415-booking.com
 verification394.rest
 verificationacces.com
@@ -104837,6 +105004,7 @@ zerfano.com
 zeriio.com
 zernadoviku.com
 zernixo.sbs
+zero39172-391920.onrender.com
 zeroferoadsd.net
 zerogiris-turkeygovtri.com
 zerogirisi-turkeygovtri.com
