@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105523
-# Last change: 2026-10-07 22:02:07 UTC (sync mode: delta)
+# Records: 105532
+# Last change: 2026-10-08 02:00:18 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11154,6 +11154,7 @@ balancevegetation.top
 balashian.tk
 balashiha-icearena.com
 balbazar-e-binnceglobal.b-cdn.net
+balbolma.duckdns.org
 balcarfilo.com
 balcarsfilo.com
 balconycaption.top
@@ -15957,6 +15958,8 @@ braztsf.com
 braztsg.com
 braztsk.com
 brcanvla.com
+brcnsfdasbdgx.art
+brcnsfdasdg.art
 brdaalsengslegh.com
 brdafrsalarnfaydnlacrfsa.cfd
 brdamhrsarandvlrmz.sbs
@@ -36947,6 +36950,7 @@ garanticekilis.online
 garanticepteonaybasvurulari-onaycep.vercel.app
 garantiden-kredi-firsati.sbs
 garantidenkredin.b-cdn.net
+garantidestek.cloud
 garantiemekliniz.com
 garantiemkli.com
 garantieytli.com
@@ -39788,6 +39792,7 @@ grntdeneme.tk
 grnte.com
 grntibba.duckdns.org
 grntibca.cf
+grntibsvrhmn.art
 grntikampanyasi.org.tr
 grntikmpnya.com.tr
 grntikredibasvru.net
@@ -52308,6 +52313,7 @@ karayoluborcunuzsorgula.ddnsgeek.com
 karayolubrcodehgss.ddnsgeek.com
 karbaykar.com
 karbuzz.com
+karcaekimgnleri.com
 karcatncrekapinda.top
 karceryerialamdangitme.shop
 kardanaydinlk.blogspot.com
@@ -76748,6 +76754,7 @@ rezidanspro.online
 rezmigazetegov408.b-cdn.net
 rfbuc.com
 rfdws3sdgt19gsd24gsd7cd.sbs
+rfes42432423erwdfa1312df.icu
 rffwsw.top
 rfjxnfqeqf0.storage.googleapis.com
 rfs-tickets.com
@@ -104413,6 +104420,7 @@ you5790.com
 youcars.com.tr
 youcars.xyz
 youdungoofed.com
+youflora.xyz
 youfloradsan.xyz
 youlabuy.ru
 youngconverge.top
@@ -104561,6 +104569,7 @@ yuksekdagindumani.co
 yuksekurum-sistemleri.net
 yukselen-sevincli-haberler-yanina-geldi.com
 yukumar643.xyz
+yullink.cloud
 yungbucksbbq.com
 yuntuoutdoorbackpack.cc
 yunuscheck.online
