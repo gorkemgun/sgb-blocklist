@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105599
-# Last change: 2026-10-08 16:33:33 UTC (sync mode: delta)
+# Records: 105626
+# Last change: 2026-10-08 22:08:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -154,6 +154,7 @@
 10-temmuzsabah.com
 10.bireyseldestek.xyz
 100000101001111.duckdns.org
+10001kacmazfirsatlar.duckdns.org
 1000354057700012.cloud
 1000iphone.cfd
 1000tldestekk.com
@@ -162,7 +163,9 @@
 10010101-33342-1111.cloud
 1001bufirsatdunyasi.duckdns.org
 1001firsatdunyasi.duckdns.org
+1001firsatlarkacmaz.duckdns.org
 1001incifirsatlar.com
+1001kampanyakcmz.duckdns.org
 10020003020077.webredirect.org
 100510202050000.net
 100bimcell.net
@@ -1391,6 +1394,7 @@
 21158-coinbase.com
 2121124555555441554445991.xyz
 212114551221455122452245590.xyz
+212114551221455122452245591.xyz
 2121454457788785522591.duckdns.org
 212224252.cloud
 2124552556555690.duckdns.org
@@ -2926,6 +2930,7 @@
 94c2b7a6.dsfiurb-u.shop
 94fcea1f.asajadd8nds.com.cn
 95.169.80.34.bc.googleusercontent.com
+9519519519519519.click
 9521487prmsynnnbsvrrkmpnyasnfrrstr.info
 9521487prmsynnnbsvrrkmpnyasnfrrstr.online
 95463visitor.com
@@ -6716,6 +6721,7 @@ alisverisbulutu2024.com
 alisverisdunydamdasongun.com.tr
 alisverisdyson.online
 alisverisepetin-13.sbs
+alisverisepetislem-15.sbs
 alisverisfirsatlari.click
 alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
@@ -8495,6 +8501,7 @@ aracmuayenesorgulamalar.com
 aracmuayenetabiki.blogspot.com
 aracmuayenetuvturkrehberi.com
 aracmuayenex.com
+aracmuayenexcvx.com
 aracmuayenexxcc.net
 aracmuayeneyaptir.sbs
 aracmuaynalhemen.uk
@@ -9273,6 +9280,7 @@ asgaarasa.click
 asgadsgah.art
 asgadsqew.sbs
 asgafasdad222d.wiki
+asgar7z777ggg.duckdns.org
 asgard-cokie-sg.myonlineportal.ch
 asgard-cup.ru
 asgardastannefretedyorum.duckdns.org
@@ -12804,6 +12812,7 @@ beniherkesmutlusanar.sa.com
 beniidsnnme.org
 benim-basvur-bireysel-formu-online.ml
 benim-resim-sayfam.kampanya-basvuru-sayfa.xyz
+benim-teb-bankam.myonlineportal.at
 benimadimkenankamberseninlegoruscez.com
 benimevim-t-o-k-i-bsrv.com
 benimhikayeminkahramani.com
@@ -15992,6 +16001,7 @@ brdnbrangtmtsneeee.com
 brdnbrlrgcblrs.com
 brdngdrsnorya.mooo.com
 brdnmhsrvdl182.click
+brdnrvalcnsnrabn.lol
 brdnsalsmndnmnsmdn.com
 brdnsnkzclsyrzz.com
 brdnsnrbedasdytasd.ignorelist.com
@@ -26586,6 +26596,7 @@ dhjk2nlkflfdjk.top
 dhl-tr.top
 dhl.de-yiore.store
 dhsssrasc.shop
+dhsssrasc.site
 dhsssrasc.xyz
 dhxhasdhasdisadasdjswqehasd.net
 dhxim2d.cn
@@ -28574,6 +28585,7 @@ dshjfdf.oss-cn-hongkong.aliyuncs.com
 dsiuhfraosd.click
 dsjfkdsfsf.com
 dsjkgfdfjgkf.hopto.org
+dsjndfjsdkfsf.com
 dskflkaksldklcasx123x12.cfd
 dskfndsflks.com
 dski33destroy.top
@@ -30515,6 +30527,9 @@ ekgsigorta.com
 ekhaber.club
 ekim-cumafrsti.com
 ekimayifinssmanlar.info
+ekimayifinssmanlar.info.tr
+ekimayifinssmanlar.net
+ekimayifinssmanlar.org.tr
 ekimayifirsatkampanyasibnance.tech
 ekime-ozel-bunus-kampanyasi.ml
 ekimeozel-basvurukampanyafirsatibance.tech
@@ -33750,6 +33765,7 @@ facebo0k.online
 facebok.cx
 facebok.one
 facebokmedia-appeal-copyright-10000089748673.com
+facebook--signupzzzzzzzzzzzzzhu.ph
 facebook-login-login.blogspot.com
 facebook-login-osaka10014.com.ph
 facebook-problems103.ml
@@ -42440,6 +42456,7 @@ hdflolink.cloud
 hdfportfoy.com
 hdggmq.top
 hdiclckeregdlmbrbr.mooo.com
+hdiglvrbnrvdde.lol
 hdirwanda.org
 hdjgmd.top
 hdjtmz.top
@@ -44015,6 +44032,7 @@ hizli-denizkatilimv2acikdeniz.com
 hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
+hizli-gecis-bakiye-yukle.web.app
 hizli-gecis-bakiye-yukleme.web.app
 hizli-gecis-bayi.lol
 hizli-gecisetkitkyatirm.web.app
@@ -54452,6 +54470,7 @@ kpssd.com
 kpssosymsss.net
 kpusnenvcg.buzz
 kqlfae.top
+kqmodehizmeler.baby
 kqndjrncjencrkndkeejfe.online
 kqndjrncjencrkndkejfe.com.tr
 kqtwhy.top
@@ -60434,6 +60453,7 @@ mhigcb.com
 mhjr-s.com
 mhkasdmk34734awdzg.com
 mhkasdmk3474578f.com
+mhkhkdfhkdfla.duckdns.org
 mhlasdkrnd.com
 mhldkrsd.com
 mhldsahlads.com
@@ -64111,6 +64131,7 @@ nfkvixkcivxrrt.blogspot.com
 nflrxandexu.net
 nfmsmnsmnd.net
 nfmtmt.top
+nfnchxsza.com
 nfsadshusranwr.net
 nfsaedwazxcqwe.net
 nfsblgnsdamzer.net
@@ -67212,6 +67233,7 @@ onlineozelfirsat.shop
 onlineozelfirsatlar.com.tr
 onlineozelfirsatlarda.com.tr
 onlineozelfiyat.com.tr
+onlineozelindirim-101.com
 onlineozelindirim.website
 onlineozelindirimdakikalari.com
 onlineozelsel.blogspot.com
@@ -77524,6 +77546,7 @@ rustyamplification.top
 rutex.com.tr
 ruthlessaesthetics.top
 ruthlessappal.top
+ruthlessosint.byethost12.com
 ruuhsuzpanel.cyou
 ruuolfsson.com
 ruvix.qpon
@@ -78039,6 +78062,7 @@ saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
 sagotravel.com.tr
 sahabet671.com.tr
+sahabinden.cc
 sahane-bir-teklif-sizlere-geldi-diz-coktu.com
 sahane-firsatlarin.com
 sahane-gunun-son-gunu-bugun-gidiyor-geldi-sana.net.tr
@@ -88418,6 +88442,7 @@ tays.sayatatata.xyz
 tayyipbabaaidxt.net
 tazecicek.net.tr
 tazeurunlerguvenlialisverisadresin.cfd
+tazmanyax.duckdns.org
 tb0jx31.cn
 tb3vq2q.cn
 tbaccesonline.com
@@ -103526,6 +103551,7 @@ ydfshans.click
 ydjjja.clicks.mlsend.com
 ydkyazkllmaaspettelnldlrm.com
 ydmccek.theworkpc.com
+ydmuzmanli.site
 ydmydm.online
 ydndnasld.com
 ydntmr.top
@@ -105348,6 +105374,7 @@ zmirimizlesinsnde.net
 zmnaak.help
 zmrdedoldurduk.net
 zmrdeglsndeonlinx.net
+zmrfdkdfdk.online
 zmrkaryklmen.net
 zmrmizlegelbzlerle.net
 zmskartleyukle.net

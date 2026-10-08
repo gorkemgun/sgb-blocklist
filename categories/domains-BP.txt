@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259321
-# Last change: 2026-10-08 16:33:33 UTC (sync mode: delta)
+# Records: 259343
+# Last change: 2026-10-08 22:08:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -99478,6 +99478,7 @@ garantikredi.ltd
 garantikredi.misecure.com
 garantikredi.online
 garantikredial.com
+garantikrediara.cloud
 garantikredibasvur.online
 garantikredibasvurr.vercel.app
 garantikredibasvuru.duckdns.org
@@ -120860,6 +120861,8 @@ hhhttpmarktalisalisgrouptr.com
 hhhxgggssss--yuklemeler.blogspot.com
 hhhzlcasrgulama.click
 hhhzlicasrrggg.click
+hhizli-gecis-bakiye-yukle.web.app
+hhizli-gecis-bakiye-yukleme.web.app
 hhizlicasorgula.click
 hhizliveguvenimserviceds.com
 hhizmet.com
@@ -120981,6 +120984,8 @@ hihimihititiynti.site
 hiibekredimfaizsizzs.com.tr
 hiiizligecislerm.net
 hiizgadc.cfd
+hiizli-gecis-bakiye-yukle.web.app
+hiizli-gecis-bakiye-yukleme.web.app
 hiizli-islemleri-ogshgs.com
 hiizlihizmetgirisi-basvurmamerkezi.com
 hiizlislem.xyz
@@ -121246,7 +121251,20 @@ hizli-finans.info
 hizli-firsat-baslasi.b-cdn.net
 hizli-firsat.online
 hizli-form.online
+hizli-gcsetiketbaksieyklry.web.app
 hizli-gec.app
+hizli-gecis-baakiye-yukleme.web.app
+hizli-gecis-bakiye-yukle1.web.app
+hizli-gecis-bakiye-yukle2.web.app
+hizli-gecis-bakiye-yukle3.web.app
+hizli-gecis-bakiye-yuklecan.web.app
+hizli-gecis-bakiye-yukleme.netlify.app
+hizli-gecis-bakiye-yukleme1.web.app
+hizli-gecis-bakiye-yukleme2.web.app
+hizli-gecis-bakiye-yukleme3.web.app
+hizli-gecis-bakiye-yuklemecan.web.app
+hizli-gecis-bakiye-yuklemetr.web.app
+hizli-gecis-bakiye-yukletr.web.app
 hizli-gecis-ihlali.shop
 hizli-gecis-ist.shop
 hizli-gecis-sistemi.app
@@ -121947,6 +121965,7 @@ hizligecinbakiyesi.web.app
 hizligecirmehgs.com
 hizligecis-devletodemeler.gq
 hizligecis-devletyukleme.gq
+hizligecis-hgsbkysleyklemescan.netlify.app
 hizligecis-hizligecissistemi.ga
 hizligecis-hizliigecissistemi.ga
 hizligecis-hizlligecisssistemi.ga
@@ -129875,6 +129894,7 @@ imdsnuvya.net
 imdtr.com
 imediseta.net
 imedurumsxrgulama.ru
+imei-kayitbasvuru.com
 imei-sorgula.com.tr
 imei-tescil.com
 imeidurumsorgula.com
@@ -194402,6 +194422,7 @@ rockvault.shop
 rocky-bolbao.cfd
 rockzone.icu
 rodaxabedrnfy.life
+rodiwasherecandan.com
 rodney.store
 roe.efeoyundasal.click
 roe10.duckdns.org
@@ -223970,6 +223991,7 @@ trendyol.lat
 trendyol.manuel-alim.net
 trendyol.mobil-servis.store
 trendyol.mobilsepetlerimtrservisin.online
+trendyol.mobilservisler-37.sbs
 trendyol.mobilservisler-61.sbs
 trendyol.odemeler-ilanlarim.com.tr
 trendyol.online-alisverisler.com.tr
