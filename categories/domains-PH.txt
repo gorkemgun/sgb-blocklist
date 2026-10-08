@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105532
-# Last change: 2026-10-08 02:00:18 UTC (sync mode: full)
+# Records: 105551
+# Last change: 2026-10-08 09:04:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -160,6 +160,7 @@
 1001.aldinaldinkapinda.com
 100101001000001.cloud
 10010101-33342-1111.cloud
+1001firsatdunyasi.duckdns.org
 1001incifirsatlar.com
 10020003020077.webredirect.org
 100510202050000.net
@@ -6326,6 +6327,7 @@ akutelfirsat.com
 akutelurunler.xyz
 akveton.store
 akyatidrimverc.vercel.app
+akyatirim.info
 al-a101.online
 al-app.com.tr
 al-hemen.com.tr
@@ -9261,6 +9263,7 @@ asfwetsfzsv.blogspot.com
 asfwqffwqwfqwfdsa.com
 asg12q1gasgasdg.net
 asgaarasa.click
+asgadsgah.art
 asgadsqew.sbs
 asgafasdad222d.wiki
 asgard-cokie-sg.myonlineportal.ch
@@ -13174,6 +13177,7 @@ bilgi-cepte.online
 bilgi-devlet.com
 bilgi-home.club
 bilgi-ilan-tr.online
+bilgi-ilan.online
 bilgi-islem.xyz
 bilgi-mobil-shop-ozel-tr.click
 bilgi-portali.com.tr
@@ -19948,6 +19952,7 @@ cloudnewsdaily.sa.com
 cloudpkm.com
 cloudplead.top
 cloudrash.top
+cloudrichlink.shop
 cloudsetupprofi.com
 cloudsimulation.top
 cloudspora.com
@@ -36451,6 +36456,7 @@ fruitfulskull.top
 fruitfulwood.top
 fruitradiation.top
 fruitta.com
+frullam-nemo.com
 frustrateassertion.top
 frustrateecosystem.top
 frustratehygienic.top
@@ -37675,6 +37681,7 @@ gelekterferherdet.online
 gelenadlikamsiz.online
 gelenaldingeldinhaftanin.online
 gelende.online
+gelengecenalsindiye.sbs
 gelenindirimleriz.com
 gelenkarlariteslmim5-5sim.com
 gelenler-alir-iyilikler-hep-bize-gelir-gecer.com
@@ -43844,6 +43851,7 @@ hilalkuru121.tk
 hilallisubesndyzz.duckdns.org
 hilalydv.com
 hilantius.info
+hiley.com.tr
 hilfecenter-direkt.info
 hilifetimes.xyz
 hillbaffle.top
@@ -44137,6 +44145,7 @@ hizlifinansyeriniz.xyz
 hizlifirsatlarmobil.xyz
 hizlifirsatlarsizinlebirliksetehemenalmalisin.xyz
 hizligcsonlinode82.duckdns.org
+hizligecis-hgsbkysleyklemes.netlify.app
 hizligecis-mobil.web.app
 hizligecis.gay
 hizligecis.sg-host.site
@@ -44452,6 +44461,7 @@ hkvdestekci.net
 hkxiu.com
 hl-k-b-kkk-kr.space
 hlakbca.boyacentury.cn
+hlakolanmalko.cfd
 hlfksdms.sbs
 hlfxlglendg.net
 hlgpjv.cc
@@ -45204,6 +45214,7 @@ hsbenc.top
 hsbunc.top
 hsc-international.com
 hsdexdw.net
+hsdgmfsodg.art
 hsdhggssyukleemee.net
 hseterf.web.app
 hsfgmslmgsflhs.net
@@ -48589,6 +48600,7 @@ inter-bouw.eu
 inter-news.online
 inter-sol.homes
 interac-payment.net
+interact-stating-battle-seniors.trycloudflare.com
 interactevacuate.top
 interactioncripple.top
 interactivebrokers-home.com
@@ -62350,6 +62362,7 @@ muchdubious.top
 muchpact.top
 muchsports.site
 muchtent.top
+mucilaginoeeus.info
 mucuxolab.digital
 mudcapyarmor.com
 muddydoctrine.top
@@ -74026,6 +74039,7 @@ puritycatholic.top
 purityicon.top
 purityquery.top
 puritysegregate.top
+purlearn.top
 purposedisperse.top
 purposefulembark.top
 purposefulnoteworthy.top
@@ -75873,6 +75887,7 @@ reklampilot.site
 reklamsitesi.click
 reklat.loveslife.biz
 rekllamb-basvrum.com
+rekokekosserrt.sbs
 rektason.app
 rektcheck.rf.gd
 rektefeye.net
@@ -77402,6 +77417,7 @@ ruhsuzpanel3.world
 ruhsuzpanel4.world
 ruhsuzpanel5.site
 ruhsuzpanel5.world
+ruhsuzpanel6.shop
 ruhsuzpanel6.site
 ruhsuzpanel7.site
 ruhsuzpanel9.site
@@ -97160,6 +97176,7 @@ verify553441card-booking.com
 verify6132guest-booking.com
 verify746185-booking.com
 verifyaccesspoint.com
+verifyaccount-google.com
 verifybadgescenter.com
 verifybook-booking.com
 verifycard-agoda.com
@@ -101614,6 +101631,7 @@ www-teb-com-tr-promosyon-basvuru.my-homeip.de
 www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
+www-teb-com-tr.internet-subesi.site
 www-teknos-a.com.tr
 www-telegram.com
 www-telegram.org
@@ -105499,6 +105517,7 @@ zynhostinginden.gq
 zynibvruu00.click
 zynibvruu90.click
 zyntharioxcrypt.com
+zyntify.com
 zypharionvect.org
 zypherlax.com
 zyr0hgs.tech
