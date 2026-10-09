@@ -1,9 +1,12 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Cyber Attack (Port Scan, Brute Force etc.) (CA)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=CA
-# Records: 173
-# Last change: 2026-09-29 02:01:41 UTC (sync mode: full)
+# Records: 180
+# Last change: 2026-10-09 16:19:21 UTC (sync mode: delta)
 1-free-reward.netlify.app
 6465522534.cloud
+98aiblog.com
+98aicai.com
+98aicode.com
 a101markt.kampanyalialisveris.com
 aa.olixa.p-e.kr
 ai.hyyeo.p-e.kr
@@ -38,6 +41,7 @@ blue-verified-bluetick-badges.vercel.app
 bluetick-opportunity-for-creators-badge.vercel.app
 bvlcklklkvclk.com
 c.65a9b4549d87a.digital
+c0cc.cc
 cfn.fejyhy.com
 cfn.fenamu.com
 cfn.jackpotmastersdanske.com
@@ -114,6 +118,7 @@ kampanyalialisveris.com
 kjfhu9io4yu3r908790poi34jrhtuipo0934urikld.pages.dev
 ledger.setuptransactioncheck.com
 lifetime-blue-tick.netlify.app
+linkedinns.net
 logicnode.digital
 mc-tr.site
 milosh-solibella-0dcio.sgttommy.workers.dev
@@ -133,6 +138,7 @@ ny.ofkhv.life
 on.ktspace.p-e.kr
 online-kampanyalari-girisweb.com
 oollyyooouwgggy.appspot.com
+outlook3650.com
 owa.apmmacleans.ca
 permanent-bluetick.netlify.app
 permanent-reward-03.netlify.app
@@ -175,3 +181,4 @@ warrantycredi.com.tr
 xl-hsygodsinmler.shop
 xn--giriimcihabercilertrkiye-etc27w.dev
 your-eligible-verified-badge-opportunity.vercel.app
+youtubecard.com

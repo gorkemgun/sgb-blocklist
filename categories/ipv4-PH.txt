@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip&desc=PH
-# Records: 554
-# Last change: 2026-10-05 22:42:22 UTC (sync mode: full)
+# Records: 555
+# Last change: 2026-10-09 16:19:21 UTC (sync mode: delta)
 1.32.249.20
 1.32.249.143
 1.32.253.30
@@ -422,6 +422,7 @@
 185.39.207.152
 185.43.222.242
 185.45.193.85
+185.53.179.128
 185.78.76.254
 185.80.129.110
 185.80.130.149
