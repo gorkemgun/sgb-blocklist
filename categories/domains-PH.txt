@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105757
-# Last change: 2026-10-09 16:19:21 UTC (sync mode: delta)
+# Records: 105774
+# Last change: 2026-10-09 21:43:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -938,6 +938,7 @@
 18-2-rnvlrdanbrda.com
 18-219-65-232.plesk.page
 18012024.com
+1808nett.xyz
 1817.dadjaneelse.live
 182-alo.com
 182-hatti.com
@@ -2220,6 +2221,7 @@
 50g.vf32.xyz
 50prbkoin.tk
 50xun9d.cn
+50yilaycicekzeytinyag.online
 50yilozelzeytinyagaycicek.online
 51-158-243-62.plesk.page
 5115151.duckdns.org
@@ -16167,6 +16169,7 @@ brighttrend.shop
 brighttventture.shop
 brightupdates.info
 brika.surf
+brilliancefragment.shop
 brilliancesalon.top
 brillianceslack.top
 brilliantbrisk.top
@@ -16732,6 +16735,7 @@ bufrssztlr-kcamxasynii.net.tr
 bufursatlarlaberarbar.cfd
 bufy-web-lyt.myonlineportal.ch
 bugaotokiralama.online
+bugecemisafirinim.duckdns.org
 bugevacuate.top
 bugjfd.help
 bugnmarktindrmde.xyz
@@ -18533,6 +18537,7 @@ caylclicimakinlere.com
 caymakineleri.com
 caysponsorlari.online
 caytarifleri.sbs
+cayyemekleri.evyemekleritarifleri.lol
 cazipfirsatlar-a101.fun
 cb087844.dj-hd5kfu.shop
 cb10101010101010132010199331.com
@@ -18892,6 +18897,7 @@ ceptesokindirimlifirsatlar.com
 ceptesokindirmleri.online
 ceptesoklarile.online
 ceptesokmarketfirsat.online
+ceptesokmarklrt.lol
 ceptesubemdeniz.xyz
 ceptesubemdenizgemisi.xyz
 cepteteb-com-tr.my-homeip.de
@@ -29337,6 +29343,7 @@ e-pttawm.store
 e-pttmobil.org
 e-ramazan.com
 e-ran-dlev-u.app
+e-rndval.cfd
 e-rsndevu.xyz
 e-satin-alim.com.tr
 e-satisim.com.tr
@@ -37031,8 +37038,10 @@ garantiimenkuldegerler.com
 garantiimobilegirissefes.chickenkiller.com
 garantikkredim.wixsite.com
 garantikrediler.cloud
+garantikredim.cloud
 garantikredimbasvur.vercel.app
 garantikredinizherzaman.com
+garantikredirehberi.cloud
 garantili-islemlerim-bireysel-com.webredirect.org
 garantili.bbvagirisbillgilersorug.site
 garantilibonus-online-hizmetleri2023.line.pm
@@ -38771,6 +38780,7 @@ glblbinnceeiadesi.net
 glbldstekekibi.net
 glbrdanrvdlansn.lol
 glbrdrvalsn.com
+glbunuvrhdors.duckdns.org
 gld1aldv0indrim-5.com
 gldn-1-aldn-0-zamni-1.com
 gldnmask.com
@@ -41282,6 +41292,7 @@ haberler10978.sbs
 haberler112233.shop
 haberler11237489.sbs
 haberler11278945.shop
+haberler114561.sbs
 haberler123143.sbs
 haberler12342.shop
 haberler12343.sbs
@@ -44939,6 +44950,7 @@ honejestrer.duckdns.org
 honejsatery.duckdns.org
 honejsterheyr.duckdns.org
 honejsterkestler.click
+honemkslerkter.duckdns.org
 honeshadrteker.duckdns.org
 honesjterlarser.duckdns.org
 honeskdefeter.duckdns.org
@@ -53790,6 +53802,7 @@ klgfmsnn2ksla.top
 klieuenant.top
 klima-firsatlari101.com
 klima-qjbnvlck.cloud
+klimacinizgeldidrpppyok.com
 klimafirsatikaciirma.com
 klimafirsatinikacirma.com
 klimaguncel-firsat.site
@@ -53823,6 +53836,7 @@ klmtresrgulamasuat.firebaseapp.com
 klmtresrgulamasuat.web.app
 klntkltnkltnklt.net
 klofrox.net
+klomensta.duckdns.org
 klometresrgulamacomptt.duckdns.org
 klomtresorgulamayapburdagovptt.duckdns.org
 klopastasv.vercel.app
@@ -66297,6 +66311,7 @@ odulkampanyasisizlericin2024.cloud
 odulverenkampanyalar.cloud
 odxexmenklek.net
 oecoress.click
+oefiratturkmhrsde.ffio.site
 oeglyurzi.boyacentury.cn
 oeoeo2020201z.duckdns.org
 oerdemkerdsads.xyz
@@ -67344,6 +67359,7 @@ onlineozelindirim.website
 onlineozelindirimdakikalari.com
 onlineozelsel.blogspot.com
 onlineozelsepet.shop
+onlineozldantexx.ct.ws
 onlinepaketleme.com
 onlinepaketyukleme.com.tr
 onlineparamguvende-secure.com
@@ -95654,6 +95670,7 @@ urunal.gq
 urunalim.com
 urunapp.com.tr
 urunapp.net
+urunbitmedengerekeniyapanlar.sbs
 urundetayi.com
 urunguvende.online
 urunguvenli-al.com
