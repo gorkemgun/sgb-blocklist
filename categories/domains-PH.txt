@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105626
-# Last change: 2026-10-08 22:08:34 UTC (sync mode: delta)
+# Records: 105627
+# Last change: 2026-10-09 02:14:20 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30528,6 +30528,7 @@ ekhaber.club
 ekim-cumafrsti.com
 ekimayifinssmanlar.info
 ekimayifinssmanlar.info.tr
+ekimayifinssmanlar.me
 ekimayifinssmanlar.net
 ekimayifinssmanlar.org.tr
 ekimayifirsatkampanyasibnance.tech
