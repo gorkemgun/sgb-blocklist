@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105627
-# Last change: 2026-10-09 02:14:20 UTC (sync mode: full)
+# Records: 105671
+# Last change: 2026-10-09 09:14:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -515,7 +515,9 @@
 12212111455447885588952225590.duckdns.org
 12212111455447885588952225591.duckdns.org
 1222222222994949388.webredirect.org
+1222233122455666512255990.xyz
 1222233122455666512255991.xyz
+1222233122455666512255994.xyz
 1222233122455666512255995.xyz
 1222233122455666512255997.xyz
 1222233122455666512255999.xyz
@@ -612,6 +614,7 @@
 1255665988451698992.duckdns.org
 126-62777-1.online
 126.hearabold.live
+1271772882038.duckdns.org
 127253-ledger.com
 127483127984312971891.cloud
 1274883050699.duckdns.org
@@ -13198,6 +13201,7 @@ bilgi-ilan.online
 bilgi-islem.xyz
 bilgi-mobil-shop-ozel-tr.click
 bilgi-portali.com.tr
+bilgi-sepeti.online
 bilgi-sorgulaonline.b-cdn.net
 bilgi-vkf.club
 bilgiadresi.bns-vio.space
@@ -13283,6 +13287,7 @@ bilgis-tr.online
 bilgisayfam.link
 bilgisayfasi.net
 bilgisayffam.net
+bilgisel-cepte.online
 bilgiselislem.xyz
 bilgiselkayt.com
 bilgisorgu.org
@@ -15983,6 +15988,7 @@ brcanvla.com
 brcnsfdasbdgx.art
 brcnsfdasdg.art
 brdaalsengslegh.com
+brdaerns.cyou
 brdafrsalarnfaydnlacrfsa.cfd
 brdamhrsarandvlrmz.sbs
 brdamhrsrandvlrmz.sbs
@@ -19804,11 +19810,13 @@ clearshaven.com
 clearthghinking.pro
 cleartransient.top
 clearultra.top
+clearupix.com
 clearwave.buzz
 cleeverss.com
 clemsons-edu-school.com
 clemsons-edu-schools.com
 clenvira.store
+cleptesolkmalkretler.lol
 clergyauditing.top
 clericalarmour.top
 clericaldiscreet.top
@@ -42659,6 +42667,7 @@ hefelfeguystr.duckdns.org
 hegesecim.com
 hegesegunduz.com
 hegeseodemelr.com
+hegeseodemesi.vercel.app
 hehbimcell.com
 height-investments.info
 heightanalogy.top
@@ -44033,8 +44042,21 @@ hizli-denizkatilimv2acikdeniz.com
 hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
+hizli-gecis-baakiye-yukleme.netlify.app
 hizli-gecis-bakiye-yukle.web.app
+hizli-gecis-bakiye-yukle21.web.app
+hizli-gecis-bakiye-yukle22.web.app
+hizli-gecis-bakiye-yukle23.web.app
 hizli-gecis-bakiye-yukleme.web.app
+hizli-gecis-bakiye-yukleme10.web.app
+hizli-gecis-bakiye-yukleme11.web.app
+hizli-gecis-bakiye-yukleme12.web.app
+hizli-gecis-bakiye-yukleme13.web.app
+hizli-gecis-bakiye-yukleme4.web.app
+hizli-gecis-bakiye-yukleme5.web.app
+hizli-gecis-bakiye-yukleme6.web.app
+hizli-gecis-bakiye-yukleme8.web.app
+hizli-gecis-bakiye-yukleme9.web.app
 hizli-gecis-bayi.lol
 hizli-gecisetkitkyatirm.web.app
 hizli-gecsektityklemek.web.app
@@ -47855,6 +47877,7 @@ indirimkacmaz.online
 indirimkampanya.shop
 indirimkampanyasi.org
 indirimkapinda.net.tr
+indirimkapinda.online
 indirimkuponu.fun
 indirimler-a101.net
 indirimler-a101.satisim-14.site
@@ -47908,6 +47931,7 @@ indirimsizcikmayin.xyz
 indirimsonaralikkacirma.com
 indirimsonfrsttxx.duckdns.org
 indirimsubatortalari.cfd
+indirimtakip.online
 indirimvakti101.online
 indirism-firssat-kampasnya-haftsasi-tusm-hsafta-boysunca757.aktulefirsatin.net
 indiriumburda-1o1.com.tr
@@ -48427,6 +48451,7 @@ instagram-copyrights-supports.tk
 instagram-copyrightt-safe.ml
 instagram-from-meta.ml
 instagram-removecopyright.com
+instagram-rosy-alpha.vercel.app
 instagram-secure.com
 instagram-security-team.com.tr
 instagram-sikayetin.merkez-tr.com.tr
@@ -48951,6 +48976,7 @@ invaluableprop.top
 invaork.top
 invariablyhand.top
 invariablystatute.top
+invarlikdegerler.com
 invasivelottery.top
 invasivewarranty.top
 inventbe.top
@@ -49101,6 +49127,7 @@ io-start-traezor.webflow.io
 io-trezoor-start.webflow.io
 io-trrezor-start.webflow.io
 iochange.top
+iocrist.online
 ioerhby.pages.dev
 iohnz.com
 iohub.sbs
@@ -49664,6 +49691,8 @@ istanbulkartbasvuru.xyz
 istanbulkartbasvurutr.com
 istanbulkartbelgim.xyz
 istanbulkartbelgimm.xyz
+istanbulkartbelgimtr.lol
+istanbulkartbelgimtr.xyz
 istanbulkartcanb.xyz
 istanbulkartcanbaba.xyz
 istanbulkartcimx.net
@@ -51276,6 +51305,7 @@ jp-login.bsnotespublication.com
 jp.tsity.com
 jpbmvwk.shop
 jpgcqy.xyz
+jpslidefin.com
 jqp5ia0.cn
 jr30lux.cn
 jrakkj.help
@@ -52157,6 +52187,7 @@ kapida-9x7k2mqz.sbs
 kapida-a-1-0-1.store
 kapida-ac1e5c-3cr8ssd-6a85.com.tr
 kapida-astryn.cfd
+kapida-bk3m-8sn3k.sbs
 kapida-bondify.bond
 kapida-hafta-siparis.com.tr
 kapida-haftalikx.com.tr
@@ -59716,6 +59747,7 @@ medievvert.top
 medikal-haberler.info
 medineden.online
 medioraglos.info
+medioran.com
 medirokofail.top
 medishelps.xyz
 medisx.com
@@ -61523,6 +61555,7 @@ mobilonlinebasvurugiris.ml
 mobilonlinedogrulavarlikservice.online
 mobils-cep.online
 mobilsafariozel.cloud
+mobilsde.online
 mobilsepetalim-10.online
 mobilsepetalim-20.online
 mobilsepetalim-40.sbs
@@ -62913,6 +62946,7 @@ myqelix.my
 myrionix.shop
 myrionix.site
 myrionix.store
+myrkava.com
 myrs-rndv-syfsi.duckdns.org
 myrsrndvuualinnn.duckdns.org
 myrulecontroldone.com
@@ -70326,6 +70360,7 @@ peopleradiator.top
 peoplesservicz.com
 peopletemptation.top
 pepe-cekilis.com
+pepe-cekilis.info
 pepe-cekilisim.com
 pepecekilisim.com
 pepkgovi.top
@@ -73317,6 +73352,7 @@ pttavm.get-alisveris-ilan.com.tr
 pttavm.guvenli-odeme-hizmetleri.com
 pttavm.guvenlihizmet.online
 pttavm.guvenliislem.net
+pttavm.gvnliodeme.com
 pttavm.hazirsepet.info.tr
 pttavm.hizli-islem.online
 pttavm.ilan-alisverisi-sepeti.com
@@ -78139,6 +78175,7 @@ sahibinden-get-paramguvende.xyz
 sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.alisverisepetin-14.sbs
 sahibinden-get.alisverisepetin-15.sbs
+sahibinden-get.alisverisepetislem-15.sbs
 sahibinden-get.alisverisepetler-10.sbs
 sahibinden-get.alisverisinsepet-16.sbs
 sahibinden-get.alisverisinsepet-18.sbs
@@ -83463,6 +83500,7 @@ sndenbnlaraglbrdanal.shop
 sndesbvrhmn.click
 sndeyakalahmn.duckdns.org
 sndgle101-dn1al.com
+sndkkfrslarrkmpnyaabasvrr25413698.info
 sndkkfrslarrkmpnyaabasvrr25413698.pro
 sndkkfrslarrkmpnyaabasvrr748596.online
 sndkkfrslarrkmpnyaabasvrr748596.pro
@@ -88671,6 +88709,7 @@ tckmaliyesorgulama.com
 tcksorgu.org
 tckuyap.org
 tckuzlasma.org
+tclklimadropluyorum.com
 tcmahkeme.net
 tcmalisorgu.net
 tcmalisorgu.org
@@ -88846,6 +88885,7 @@ teb-f-i-r-s-a-t-l-a-r-i.my-homeip.de
 teb-guncel-cekilis2022.net
 teb-ilekazananlar.com
 teb-mobil.internet-subesi.site
+teb-online-mobil-emekli.my-homeip.net
 teb-son-basvurutr.com
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
@@ -90241,6 +90281,7 @@ thunderousperpetual.top
 thusarbitrate.top
 thussponge.top
 thy-filo.com
+thy2023gununde.duckdns.org
 thyeco.arabamuayenesi.xyz
 thyeco.com
 thyiletisim.net
@@ -96024,6 +96065,7 @@ uzmanwebtasarimi.online
 uzmnlarlagecsnde.net
 uzunlaryaniyoraramizda.co
 uzwsmm.top
+uzygroup.net
 uzzbcfa.cn
 v-dyson.com.tr
 v-ergiijiniod3xl.net
@@ -101682,7 +101724,9 @@ www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
 www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
+www-tb-lgn-ayrica.myonlineportal.ch
 www-tbb-org-tr.translate.goog
+www-tbcpt-on-tvb.myonlineportal.ch
 www-tbstatus-cpte.myonlineportal.ch
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de

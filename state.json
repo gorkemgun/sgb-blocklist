@@ -1,39 +1,39 @@
 {
   "layout": 3,
-  "last_run": "2026-10-09 02:14:20",
+  "last_run": "2026-10-09 09:14:30",
   "last_full": "2026-10-09 02:14:20",
-  "last_mode": "full",
-  "date_gte": null,
-  "newest_record_date": "2026-10-08 21:59:54.521885",
+  "last_mode": "delta",
+  "date_gte": "2026-10-08 20:14:20",
+  "newest_record_date": "2026-10-09 08:34:48.127257",
   "fetched": {
-    "domain": 473629,
-    "url": 6927,
-    "ip": 15662,
-    "ip6": 6,
+    "domain": 63,
+    "url": 0,
+    "ip": 2,
+    "ip6": 0,
     "ip6net": 0
   },
   "counts": {
-    "domains.txt": 473584,
+    "domains.txt": 473641,
     "urls.txt": 6927,
-    "ipv4.txt": 15662,
+    "ipv4.txt": 15664,
     "ipv6.txt": 6,
     "ipv6net.txt": 0,
-    "url-list.txt": 496179,
+    "url-list.txt": 496238,
     "domains-from-urls.txt": 3305
   },
   "category_counts": {
-    "categories/domains-BP.txt": 259343,
+    "categories/domains-BP.txt": 259355,
     "categories/domains-CA.txt": 173,
-    "categories/domains-MC.txt": 41462,
+    "categories/domains-MC.txt": 41463,
     "categories/domains-MD.txt": 66053,
     "categories/domains-MI.txt": 184,
     "categories/domains-MU.txt": 759,
-    "categories/domains-PH.txt": 105627,
+    "categories/domains-PH.txt": 105671,
     "categories/ipv4-BP.txt": 105,
     "categories/ipv4-CA.txt": 923,
-    "categories/ipv4-MC.txt": 9547,
+    "categories/ipv4-MC.txt": 9548,
     "categories/ipv4-MD.txt": 477,
-    "categories/ipv4-MI.txt": 3991,
+    "categories/ipv4-MI.txt": 3992,
     "categories/ipv4-MU.txt": 65,
     "categories/ipv4-PH.txt": 554,
     "categories/ipv6-MC.txt": 6,
@@ -45,17 +45,20 @@
     "categories/urls-PH.txt": 272
   },
   "delta_vs_previous": {
-    "domains_added": 1,
+    "domains_added": 57,
     "domains_removed": 0
   },
   "changed_files": [
+    "categories/domains-BP.txt",
+    "categories/domains-MC.txt",
     "categories/domains-PH.txt",
+    "categories/ipv4-MC.txt",
+    "categories/ipv4-MI.txt",
     "domains.txt",
+    "ipv4.txt",
     "url-list.txt"
   ],
-  "skipped": {
-    "domain": 4
-  },
+  "skipped": {},
   "api": "https://siberguvenlik.gov.tr/api/address/index",
   "generator": "scripts/sgb_sync.py"
 }
