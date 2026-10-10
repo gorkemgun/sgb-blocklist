@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105802
-# Last change: 2026-10-10 08:34:50 UTC (sync mode: full)
+# Records: 105851
+# Last change: 2026-10-10 15:25:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4040,6 +4040,7 @@ abandonsob.top
 abandonvehicle.top
 abanthotel.com.tr
 abasara.cc
+abb-az.vip
 abb84e01.ieybfs7j447b.org.cn
 abbeyroadrecruitment.com
 abbreviatiovelocity.top
@@ -6004,6 +6005,7 @@ akilbileet.net
 akilgehcesi.online
 akilli-kobi.com
 akilliadim.online
+akillicepmarket.com
 akillikrtbiletim.net
 akillikura.lol
 akilliodememonline.net
@@ -7763,6 +7765,7 @@ anubispro.duckdns.org
 anubispro.online
 anubiss.live
 anvaatm.cn
+anvbckaslsasdc.shop
 anvc.me
 anveriadigital.com
 anvtwkw5bx57.icu
@@ -13033,6 +13036,7 @@ beyaztakip.com
 beyaztakip.net
 beygirogluumm.dnsup.net
 beyinlazim.sbs
+beylikduzualbaveteriner.pro
 beylikduzusubekmpn.duckdns.org
 beymenplay.com
 beyogluoil.com
@@ -13046,6 +13050,7 @@ bezosfree.info
 bfa0771e.sieujnx.cloud
 bfbmarket.com
 bfbmarkets.net
+bfhsdfsbdfbsf.shop
 bfixao.com
 bflo.coinbase-com.info
 bfnindirimsezon.cfd
@@ -15338,6 +15343,7 @@ bntrnnrcnonline-girisitr.com
 bntrrewardpushsreward.vercel.app
 bntrsosyalmedyassvx.vercel.app
 bntrsponsorlu.com
+bntrurls.duckdns.org
 bnturkeygiris.info
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.store
 bnturkeykriptovarlikalimsatimplatformuanonimsirketi.xyz
@@ -17283,6 +17289,7 @@ bv1icceeellli.com
 bv1znmnb.ml
 bva-bsvrs.lat
 bva-customer.sbs
+bva-promotion.sbs
 bva-request.shop
 bva-web.shop
 bvaagrndsclmon1linecetbasvurmrs.net
@@ -18562,6 +18569,7 @@ cbsdava.com
 cbsgib.org
 cbv7364376.online
 cbvcxcxzx.tk
+cbznsbkazxc.shop
 cc-bsvral.com
 cc-checker.art
 ccaanli-sohbet.com
@@ -20099,6 +20107,7 @@ cntrersaide.top
 cntrversupresion.top
 cnvvca.help
 cnvvca.homes
+cnxmnsz.shop
 co-confirm-reserve.com
 co-ekstra.shop
 co.coinbase-com.info
@@ -28059,6 +28068,7 @@ dolummaxi.xyz
 dolumpaneli.xyz
 dolumvezne.xyz
 dolunaydemirel.com
+dolunaypin.com
 doma-main.servingintel.com
 domaartfoundation.com
 domainbendd23.biz
@@ -28600,6 +28610,7 @@ dsfcslfcksllkslcdadcas.sbs
 dsfdg.sbs
 dsfggfdfdgfdg.duckdns.org
 dsfjsjfsfs.com
+dsfnfdfdfdsjdkf.shop
 dsfsdjh342sdjhsdf.sbs
 dsfsdsafnmn.net
 dsgaewfwefew.duckdns.org
@@ -28620,6 +28631,7 @@ dslsvdvtl-svvt.com
 dsmdkwdw.sbs
 dsmdwnqkdw.sbs
 dsni33ffonline.top
+dsnjfjkvsjvjksdsvd.shop
 dsor33tasset.top
 dsou33ndrecall.top
 dsptebuist.top
@@ -30530,6 +30542,7 @@ ek-haber.club
 ekalkndestek.pro
 ekampanyayabasvurubireyselformuozel.line.pm
 ekamu.org
+ekamubdk.com
 ekamubilisim.com
 ekamubirimi.com
 ekamucbs.com
@@ -32071,6 +32084,7 @@ eruptionhostage.top
 eruptionillicit.top
 eruptlubrication.top
 eruptonce.top
+erwqmsdsds.shop
 eryamanodin.wiki
 es-d-5476003920260404-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 es-pacemento.com
@@ -35641,6 +35655,7 @@ flizever.com
 flk-ipfs.xyz
 flkfgd.net
 fllfg00.cn
+flncbxmnss.shop
 flnkiralama.com.tr
 flo-ks.com
 flo-stores.com
@@ -37004,6 +37019,7 @@ garantibbva-giris.life
 garantibbva-paramguvende.com
 garantibbva.abrdns.com
 garantibbva.cepsubelerim.com
+garantibbva.duckdns.org
 garantibbva.owline.com
 garantibbva.subessiz.net
 garantibbva2020.com
@@ -40845,6 +40861,7 @@ gvislemenuleritemsill.com
 gvncekm.sa.com
 gvnclk.bilgiekranin.net
 gvncllk.bilgiekranim.net
+gvncmdjslas.shop
 gvnelerdesnew.duckdns.org
 gvnli.store
 gvnlibsvcerm.buzz
@@ -43297,6 +43314,7 @@ herkese-mutluluk-getiren-haberler-surekli-burada.com
 herkesedestekolalim.com
 herkesepandemi.club
 herkeseyardimvar.com
+herkesfaydalanabilsindiyeyapilanseyler.sbs
 herkesfirsatibulsun.sbs
 herkesindirimibulsun.sbs
 herkesinfirsaturunleri.xyz
@@ -43867,6 +43885,7 @@ hhizli-gecis-bakiye-yukle23.web.app
 hhizli-gecis-bakiye-yukleme18.web.app
 hhizli-gecis-bakiye-yukleme271.web.app
 hhizli-gecis-bakiye-yukleme272.web.app
+hhizli-gecis-bakiye-yukleme273tr.web.app
 hhizliislem.net
 hhizservs.click
 hhizservslr.click
@@ -43939,6 +43958,7 @@ hiizli-gecis-bakiye-yukle23.web.app
 hiizli-gecis-bakiye-yukleme18.web.app
 hiizli-gecis-bakiye-yukleme271.web.app
 hiizli-gecis-bakiye-yukleme272.web.app
+hiizli-gecis-bakiye-yukleme273tr.web.app
 hiizsfe.cfd
 hiizsfe.cyou
 hijackcatholic.top
@@ -44092,8 +44112,10 @@ hizli-denizkatilimv2acikdeniz.com
 hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
+hizli-garanti-kredi.cloud
 hizli-gecis-baakiye-yukleme.netlify.app
 hizli-gecis-baakiye-yukleme272.web.app
+hizli-gecis-baakiye-yukleme273tr.web.app
 hizli-gecis-bakiye-yukle.web.app
 hizli-gecis-bakiye-yukle21.web.app
 hizli-gecis-bakiye-yukle212.web.app
@@ -44146,7 +44168,17 @@ hizli-gecis-bakiye-yukleme272tr.web.app
 hizli-gecis-bakiye-yukleme2731.web.app
 hizli-gecis-bakiye-yukleme2732.web.app
 hizli-gecis-bakiye-yukleme2733.web.app
+hizli-gecis-bakiye-yukleme27331.web.app
+hizli-gecis-bakiye-yukleme27332.web.app
+hizli-gecis-bakiye-yukleme27333.web.app
+hizli-gecis-bakiye-yukleme2733can.web.app
+hizli-gecis-bakiye-yukleme2733tr.web.app
 hizli-gecis-bakiye-yukleme273tr.web.app
+hizli-gecis-bakiye-yukleme273tr1.web.app
+hizli-gecis-bakiye-yukleme273tr2.web.app
+hizli-gecis-bakiye-yukleme273tr3.web.app
+hizli-gecis-bakiye-yukleme273trcan.web.app
+hizli-gecis-bakiye-yukleme273trtr.web.app
 hizli-gecis-bakiye-yukleme28.web.app
 hizli-gecis-bakiye-yukleme4.web.app
 hizli-gecis-bakiye-yukleme5.web.app
@@ -44721,6 +44753,7 @@ hmnsadngfdb.mooo.com
 hmnsatinalmaninsirasi.xyz
 hmnsdhhs.com
 hmnsigorte.net
+hmnypdx.art
 hmobil-islemler.net
 hmogdcemeyap.org
 hmrc-taxrefund.online
@@ -46445,6 +46478,7 @@ id73727181.shop
 id738201010.world
 id73820112.live
 id743-hotel.cfd
+id74824.cfd
 id749684.com
 id7559391876.world
 id758224.top
@@ -47426,6 +47460,7 @@ imsak-vakiflari.site
 imsak-yardmi.site
 imsakvakfi.site
 imskavakfi.site
+imthenightmareyounamed.sbs
 imtsiz-internet-net.blogspot.com
 imxnib.top
 imzmirrodeme.net
@@ -49248,6 +49283,7 @@ ipfs.algonode.xyz
 ipgzfuk.tw
 iphnea1o1.net
 iphone-tr.com
+iphoneal.com
 iphonehediyesi.click
 iphonepc.group
 iplatformcheck.store
@@ -49346,6 +49382,7 @@ isbak-ekampanya-bireysel-basvur.ml
 isbak-ekampanya-ebasvuru-birey.ml
 isbak-yilbasi-ozel-900tl-basvur-online.yeniyilsuprizkampanya-ozel.tk
 isbak.online
+isbak.sbs
 isbank-basvuru.vercel.app
 isbank-jobs.cds.link
 isbank-kampanya.vercel.app
@@ -55432,6 +55469,7 @@ lahsfz.top
 laidatiadelerimonlneil.fun
 laimafderfoil.top
 laismxj98skd342fcx.cfd
+lakalakalklakak.shop
 lakearmor.cn
 lakeaudit.top
 lakeland-gov.net
@@ -59654,6 +59692,7 @@ mdpxmd.top
 mdramtheatre.com
 mdrdml.top
 mdsfhfgsr.com
+mdshgsdg.art
 mdsmdfskdfskdfks.net
 mdsrmm.top
 mdtlmw.top
@@ -82823,6 +82862,7 @@ siparis-kayit.com.tr
 siparis-market-ptt-avm.online
 siparis-olustur-223031.com
 siparis-olustur.online
+siparis-onay-7268.com
 siparis-onay-tr.online
 siparis-onayi.online
 siparis-onayim.online
@@ -83169,6 +83209,7 @@ skatteetatei.top
 skbkjacmazvl.com
 skdapersmbfrstkpidaucrtszkrgfrsti.tech
 skde.top
+skdkasdasda.shop
 skechers-turkey.com
 skechers-turkiye.com.tr
 skechesturkey.com
@@ -84337,6 +84378,7 @@ sorguapileri-tc.onrender.com
 sorguaracim.net
 sorgubirim.org
 sorgubirimi.com
+sorgubirimi.org
 sorguceza.net
 sorgucom.fun
 sorgucom.pw
@@ -88671,6 +88713,8 @@ tbpromo.ccwu.cc
 tbtokyo.cc.cd
 tbtrkaskrs.net
 tbturkiye.com
+tbxkpwqf-asdgkpqwdag-wdqpgdshds.cfd
+tbxkpwqf-asdgkpqwdag-wdqpgdshds.sbs
 tc-cimergovtr.com
 tc-e-b-basvuru-katilim.forumu.tc
 tc-merkezbankasi.com
@@ -88996,6 +89040,7 @@ teb-com-tr-emekliyeozel.my-homeip.de
 teb-com-tr-internet-emeklilik.my-homeip.de
 teb-com-tr-internet-subesi.my-homeip.de
 teb-com-tr-mobil-onayli.myonlineportal.ch
+teb-com-tr-promo.internet-subesi.site
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.internet-subesi.site
@@ -98197,6 +98242,8 @@ vnkrltkrlkgtr.net
 vnoti.sbs
 vnrsales.com
 vnsdfdnsfsndgbsdggd.wiki
+vnxhanxzas.shop
+vnxmcndmx.com
 vnxrin.buzz
 vnzjgi.homes
 vocabularyascribe.top
@@ -101668,6 +101715,7 @@ www-aktue-a-101-tr.online
 www-aktue-a-101-tr.xyz
 www-alisversx-guvenlrx-odemex.com.tr
 www-alisversx-guvenlrx-odemex.xyz
+www-altb-cpt-ayricalik.myonlineportal.ch
 www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
 www-as-ayricalik-teb.myonlineportal.ch
@@ -105592,6 +105640,7 @@ zoom2023.com
 zoom2024.online
 zoom4usinvite.space
 zoombottin.com
+zoomcares.zoom.us.ikd3.mjid.web.id
 zoominvite-us09web-user08b.pages.dev
 zoominviteus1.pages.dev
 zoommify.com
