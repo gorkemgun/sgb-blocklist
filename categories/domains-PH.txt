@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105774
-# Last change: 2026-10-09 21:43:35 UTC (sync mode: delta)
+# Records: 105779
+# Last change: 2026-10-10 01:46:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2044,6 +2044,7 @@
 43435445456.vercel.app
 4344441223156.cloud
 434939359349594395.blogspot.com
+434gssg.giize.com
 4352304200.net
 43534211.shop
 435676787873.cloud
@@ -14202,6 +14203,7 @@ biskletciniz-geldiy-ll.cfd
 bislem.net
 bismillahkaliteyehosgeldiniz.duckdns.org
 bisopinulgen.top
+bissell-turkiye.com
 bist.youthside.co
 bistbobette.site
 bistress.sbs
@@ -36970,6 +36972,7 @@ garanti-hizmetleri.com
 garanti-investing.mrqz.to
 garanti-kapsaminde.net
 garanti-katilim.sa.com
+garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
 garanti-online-ekim-ayina-ozel.cloud
@@ -37706,6 +37709,7 @@ geldikistedostum2.cfd
 geldikistedostum4.cfd
 geldikvegitmeyecegizdedik.com
 geldiniz-bunlari-gormeden-gitmeden-hic-olmaz.online
+geldivegidiceksadecezaman.sbs
 geldkgdyrz101.click
 geldrstensldm.xyz
 gelecegelojistik.online
@@ -101648,6 +101652,7 @@ www-as-cepte-ontb.myonlineportal.ch
 www-as-cepteyiz-ontb.myonlineportal.ch
 www-as-cptb-on.myonlineportal.ch
 www-as-cptb-ont.myonlineportal.ch
+www-ast-cpt-ayricalik.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
 www-at-ayricalik-tb.myonlineportal.ch
