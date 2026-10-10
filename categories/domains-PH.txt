@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105779
-# Last change: 2026-10-10 01:46:49 UTC (sync mode: delta)
+# Records: 105802
+# Last change: 2026-10-10 08:34:50 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6851,7 +6851,6 @@ allgenmaret.top
 allgoodscenter.shop
 allianceforfreedominter.com
 alliancesymphony.top
-allianzim.la
 allianztr.com
 allinclusiveroyale.com
 alllaaahkafayiyicm.net
@@ -37003,6 +37002,7 @@ garantibbbvvaaa.com
 garantibbca.cc
 garantibbva-giris.life
 garantibbva-paramguvende.com
+garantibbva.abrdns.com
 garantibbva.cepsubelerim.com
 garantibbva.owline.com
 garantibbva.subessiz.net
@@ -38831,6 +38831,7 @@ global-eventsizinicinkampanya.com
 global-firsatkampanyasiburada.tech
 global-kampanya-katilim.com
 global-kampanyabasvurularinihemenyap.com
+global-mfa.com
 global-myhelpcenter.ml
 global-ozelfirsatlar.com
 global-paribu.com
@@ -39669,6 +39670,7 @@ gratis.gscmec.com
 gratis.homelinux.net
 gratis.is-a-caterer.com
 gratis.is-a-geek.com
+gratis.iynsed.com
 gratis.jonestonic.com
 gratis.kasihinfo.com
 gratis.kywestfest.com
@@ -43863,6 +43865,8 @@ hhhhgsxyiyedimknk.wiki
 hhizli-gecis-bakiye-yukle22.web.app
 hhizli-gecis-bakiye-yukle23.web.app
 hhizli-gecis-bakiye-yukleme18.web.app
+hhizli-gecis-bakiye-yukleme271.web.app
+hhizli-gecis-bakiye-yukleme272.web.app
 hhizliislem.net
 hhizservs.click
 hhizservslr.click
@@ -43933,6 +43937,8 @@ hiizggecd.cyou
 hiizli-gecis-bakiye-yukle22.web.app
 hiizli-gecis-bakiye-yukle23.web.app
 hiizli-gecis-bakiye-yukleme18.web.app
+hiizli-gecis-bakiye-yukleme271.web.app
+hiizli-gecis-bakiye-yukleme272.web.app
 hiizsfe.cfd
 hiizsfe.cyou
 hijackcatholic.top
@@ -44087,6 +44093,7 @@ hizli-devam.com.tr
 hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
 hizli-gecis-baakiye-yukleme.netlify.app
+hizli-gecis-baakiye-yukleme272.web.app
 hizli-gecis-bakiye-yukle.web.app
 hizli-gecis-bakiye-yukle21.web.app
 hizli-gecis-bakiye-yukle212.web.app
@@ -44126,6 +44133,20 @@ hizli-gecis-bakiye-yukleme24.web.app
 hizli-gecis-bakiye-yukleme25.web.app
 hizli-gecis-bakiye-yukleme26.web.app
 hizli-gecis-bakiye-yukleme27.web.app
+hizli-gecis-bakiye-yukleme2711.web.app
+hizli-gecis-bakiye-yukleme2712.web.app
+hizli-gecis-bakiye-yukleme2713.web.app
+hizli-gecis-bakiye-yukleme271can.web.app
+hizli-gecis-bakiye-yukleme271tr.web.app
+hizli-gecis-bakiye-yukleme2721.web.app
+hizli-gecis-bakiye-yukleme2722.web.app
+hizli-gecis-bakiye-yukleme2723.web.app
+hizli-gecis-bakiye-yukleme272can.web.app
+hizli-gecis-bakiye-yukleme272tr.web.app
+hizli-gecis-bakiye-yukleme2731.web.app
+hizli-gecis-bakiye-yukleme2732.web.app
+hizli-gecis-bakiye-yukleme2733.web.app
+hizli-gecis-bakiye-yukleme273tr.web.app
 hizli-gecis-bakiye-yukleme28.web.app
 hizli-gecis-bakiye-yukleme4.web.app
 hizli-gecis-bakiye-yukleme5.web.app
@@ -44267,6 +44288,7 @@ hizlicasatinalhemensendebirlikteyiz.store
 hizlicasatinalhemensendebirlikteyiz.xyz
 hizlicasrtvs-b4a0fd6049fe.herokuapp.com
 hizlicatrmrr.net
+hizlicicekci.org
 hizlicicektr.online
 hizlicocuklariz.com
 hizlidabizimle.blogspot.com
@@ -77235,6 +77257,7 @@ rnews.culturalviscera.com
 rnfs432ad52323fdsa2.icu
 rngdnnnnnn.xyz
 rngmedia.es
+rnhrs-hastnrandvklylastiac.web.app
 rnicrosoft.com
 rnitsubishielectric.com
 rnlolbab.duckdns.org
