@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105907
-# Last change: 2026-10-10 20:07:03 UTC (sync mode: delta)
+# Records: 105912
+# Last change: 2026-10-10 23:36:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3508,6 +3508,7 @@ a101.cumartesifrager.com
 a101.cumartesipirss.com
 a101.detayli-dergi.com
 a101.dijitalbayim.com
+a101.dpdns.org
 a101.e-alisverislertr.xyz
 a101.esepetiniz.com.tr
 a101.feresse4.net
@@ -41331,6 +41332,7 @@ haberler12348.shop
 haberler1234813.sbs
 haberler123499.sbs
 haberler1235634122.sbs
+haberler124221.sbs
 haberler1245321.shop
 haberler12531.sbs
 haberler125421.sbs
@@ -56123,6 +56125,7 @@ lessonstaple.top
 lesswatt.top
 letconsecutive.top
 letgo-m.com
+letgo-sigorta.co
 letgo.get-satisofisim.com.tr
 letgo.guvenlialsvers.com
 letgo.kurumsal-get-ilan.com.tr
@@ -94561,6 +94564,7 @@ turuncukasimavantajlari.ml
 turuncutakipci.com
 turuncutakipci.net
 turuncutakipci.org
+turvearacbakim.site
 turvelocity.autos
 turview.com
 turzeek.com
@@ -103470,6 +103474,7 @@ yadojapan.com
 yadqwedqwe.cc.dvrlists.com
 yafpuo87b87.icu
 yaga9b286ae2c101-endpoint.com
+yaglardanson.online
 yagmaci-stlardang.cfd
 yagmurdamla.com
 yagyudum.online
