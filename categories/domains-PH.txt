@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105940
-# Last change: 2026-10-11 05:54:46 UTC (sync mode: delta)
+# Records: 105956
+# Last change: 2026-10-11 12:58:49 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1194,6 +1194,7 @@
 1o1yazindrmlerfrstlarbir.duckdns.org
 1paf1lacebasket.top
 1ptbkx.xdk8ax.cn
+1qwd9s99.click
 1reklammetaonline.cfd
 1savboa.wixsite.com
 1scdacdx123c123x12312.cfd
@@ -37005,6 +37006,7 @@ garanti-katilim.sa.com
 garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
+garanti-nakit-destek.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garanti-onlinekredi.com.tr
 garanti-sube-onlinem.my-homeip.com
@@ -37032,6 +37034,7 @@ garantibasvurcepte.duckdns.org
 garantibbbvvaaa.com
 garantibbca.cc
 garantibbva-giris.life
+garantibbva-kredi.abrdns.com
 garantibbva-paramguvende.com
 garantibbva.abrdns.com
 garantibbva.cepsubelerim.com
@@ -43902,6 +43905,7 @@ hhhhgsxyiyedimknk.wiki
 hhizli-gecis-bakiye-yukle22.web.app
 hhizli-gecis-bakiye-yukle23.web.app
 hhizli-gecis-bakiye-yukleme18.web.app
+hhizli-gecis-bakiye-yukleme269.web.app
 hhizli-gecis-bakiye-yukleme271.web.app
 hhizli-gecis-bakiye-yukleme272.web.app
 hhizli-gecis-bakiye-yukleme2733.web.app
@@ -43980,6 +43984,7 @@ hiizggecd.cyou
 hiizli-gecis-bakiye-yukle22.web.app
 hiizli-gecis-bakiye-yukle23.web.app
 hiizli-gecis-bakiye-yukleme18.web.app
+hiizli-gecis-bakiye-yukleme269.web.app
 hiizli-gecis-bakiye-yukleme271.web.app
 hiizli-gecis-bakiye-yukleme272.web.app
 hiizli-gecis-bakiye-yukleme2733.web.app
@@ -44143,6 +44148,7 @@ hizli-e-ticaret.com.tr
 hizli-f-923-a-101.shop
 hizli-garanti-kredi.cloud
 hizli-gecis-baakiye-yukleme.netlify.app
+hizli-gecis-baakiye-yukleme269.web.app
 hizli-gecis-baakiye-yukleme272.web.app
 hizli-gecis-baakiye-yukleme2733.web.app
 hizli-gecis-baakiye-yukleme273333.web.app
@@ -44191,7 +44197,14 @@ hizli-gecis-bakiye-yukleme265.web.app
 hizli-gecis-bakiye-yukleme266.web.app
 hizli-gecis-bakiye-yukleme267.web.app
 hizli-gecis-bakiye-yukleme269.web.app
+hizli-gecis-bakiye-yukleme2691.web.app
+hizli-gecis-bakiye-yukleme2692.web.app
+hizli-gecis-bakiye-yukleme2693.web.app
+hizli-gecis-bakiye-yukleme269can.web.app
+hizli-gecis-bakiye-yukleme269tr.web.app
 hizli-gecis-bakiye-yukleme27.web.app
+hizli-gecis-bakiye-yukleme270.web.app
+hizli-gecis-bakiye-yukleme2710.web.app
 hizli-gecis-bakiye-yukleme2711.web.app
 hizli-gecis-bakiye-yukleme2712.web.app
 hizli-gecis-bakiye-yukleme2713.web.app
@@ -55054,6 +55067,7 @@ ksiyt3wmdupp.icu
 kskarena.com
 kskexpress-tickets.ru
 kskksmksorgladpadisahi.web.app
+kslinkuzm.click
 kslinkuzm.sbs
 ksltlink.xyz
 ksmorgulamak.com
@@ -77657,6 +77671,7 @@ rrqbh7n.cn
 rrrecords-ppc.com
 rrrecords-promo.com
 rrrhrsnrdnsda123123.duckdns.org
+rrrrdsareelklk123.duckdns.org
 rrrrrddddyyyy.duckdns.org
 rs-media-ln.top
 rs1jg8t.cn
@@ -96259,6 +96274,7 @@ uypsorgum.online
 uypsorgum.xyz
 uysalsigorta.net
 uyumluteknolojikidnrimler.com.tr
+uyuzcangg.dpdns.org
 uz-y-group.com
 uzaktanhemen.abrdns.com
 uzaktankayit.abrdns.com
