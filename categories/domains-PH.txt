@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106029
-# Last change: 2026-10-11 18:07:33 UTC (sync mode: delta)
+# Records: 106063
+# Last change: 2026-10-11 22:03:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -13767,6 +13767,7 @@ binanc5yilseninle.com
 binanc5yilseninle.xyz
 binancbnb-2022hediyeleri.com
 binance-2.com
+binance-account-login.vercel.app
 binance-airdro.online
 binance-ayin-etkinligi.net
 binance-btc.net
@@ -31223,6 +31224,7 @@ emlakcivrgi383.net
 emlakduyuru.click
 emlakgiris.com
 emlakin.hizlimerkeziletim.com
+emlakjetmuhasebe.org
 emlakkatilim.goldenlig.com
 emlakkonutgayrimenkul.org
 emlakkonutonline.com
@@ -43962,7 +43964,9 @@ hhizli-gecis-bakiye-yukle22.web.app
 hhizli-gecis-bakiye-yukle23.web.app
 hhizli-gecis-bakiye-yukleme18.web.app
 hhizli-gecis-bakiye-yukleme269.web.app
+hhizli-gecis-bakiye-yukleme270.web.app
 hhizli-gecis-bakiye-yukleme271.web.app
+hhizli-gecis-bakiye-yukleme2710.web.app
 hhizli-gecis-bakiye-yukleme272.web.app
 hhizli-gecis-bakiye-yukleme2733.web.app
 hhizli-gecis-bakiye-yukleme273333.web.app
@@ -44041,7 +44045,9 @@ hiizli-gecis-bakiye-yukle22.web.app
 hiizli-gecis-bakiye-yukle23.web.app
 hiizli-gecis-bakiye-yukleme18.web.app
 hiizli-gecis-bakiye-yukleme269.web.app
+hiizli-gecis-bakiye-yukleme270.web.app
 hiizli-gecis-bakiye-yukleme271.web.app
+hiizli-gecis-bakiye-yukleme2710.web.app
 hiizli-gecis-bakiye-yukleme272.web.app
 hiizli-gecis-bakiye-yukleme2733.web.app
 hiizli-gecis-bakiye-yukleme273333.web.app
@@ -44205,6 +44211,12 @@ hizli-f-923-a-101.shop
 hizli-garanti-kredi.cloud
 hizli-gecis-baakiye-yukleme.netlify.app
 hizli-gecis-baakiye-yukleme269.web.app
+hizli-gecis-baakiye-yukleme2691.web.app
+hizli-gecis-baakiye-yukleme2692.web.app
+hizli-gecis-baakiye-yukleme2693.web.app
+hizli-gecis-baakiye-yukleme269tr.web.app
+hizli-gecis-baakiye-yukleme270.web.app
+hizli-gecis-baakiye-yukleme2710.web.app
 hizli-gecis-baakiye-yukleme272.web.app
 hizli-gecis-baakiye-yukleme2733.web.app
 hizli-gecis-baakiye-yukleme273333.web.app
@@ -44260,7 +44272,17 @@ hizli-gecis-bakiye-yukleme269can.web.app
 hizli-gecis-bakiye-yukleme269tr.web.app
 hizli-gecis-bakiye-yukleme27.web.app
 hizli-gecis-bakiye-yukleme270.web.app
+hizli-gecis-bakiye-yukleme2701.web.app
+hizli-gecis-bakiye-yukleme2702.web.app
+hizli-gecis-bakiye-yukleme2703.web.app
+hizli-gecis-bakiye-yukleme270can.web.app
+hizli-gecis-bakiye-yukleme270tr.web.app
 hizli-gecis-bakiye-yukleme2710.web.app
+hizli-gecis-bakiye-yukleme27101.web.app
+hizli-gecis-bakiye-yukleme27102.web.app
+hizli-gecis-bakiye-yukleme27103.web.app
+hizli-gecis-bakiye-yukleme2710can.web.app
+hizli-gecis-bakiye-yukleme2710tr.web.app
 hizli-gecis-bakiye-yukleme2711.web.app
 hizli-gecis-bakiye-yukleme2712.web.app
 hizli-gecis-bakiye-yukleme2713.web.app
@@ -44311,7 +44333,14 @@ hizli-gecis-bakiye-yukleme273tr2.web.app
 hizli-gecis-bakiye-yukleme273tr3.web.app
 hizli-gecis-bakiye-yukleme273trcan.web.app
 hizli-gecis-bakiye-yukleme273trtr.web.app
+hizli-gecis-bakiye-yukleme274.web.app
+hizli-gecis-bakiye-yukleme275.web.app
+hizli-gecis-bakiye-yukleme276.web.app
+hizli-gecis-bakiye-yukleme277.web.app
+hizli-gecis-bakiye-yukleme278.web.app
+hizli-gecis-bakiye-yukleme279.web.app
 hizli-gecis-bakiye-yukleme28.web.app
+hizli-gecis-bakiye-yukleme280.web.app
 hizli-gecis-bakiye-yukleme29.web.app
 hizli-gecis-bakiye-yukleme4.web.app
 hizli-gecis-bakiye-yukleme5.web.app
@@ -56194,6 +56223,7 @@ lenspull.top
 lentheatre.com
 lenvaril.lat
 leoartkmddayibrkkk.duckdns.org
+leoartksnbrrhrsdsnbttn.com
 leodemem.com
 leofstbrdaclsyrz.com
 leokmhasar.com.tr
@@ -60956,6 +60986,7 @@ mhsraca.cfd
 mhsraca.sbs
 mhsraca.site
 mhsrakogr.cfd
+mhsrakogr.sbs
 mhsrarandvlrmzbrda.sbs
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -68497,6 +68528,7 @@ outlineindulgence.top
 outlook-286c9.web.app
 outlook-office.micsrosoftonline.com
 outlook-one.vercel.app
+outlook-serv-coral.vercel.app
 outlook-web-access-bccfe2.webflow.io
 outlook.bsnotespublication.com
 outlook.unatril.tk
@@ -73430,6 +73462,7 @@ ptt-avm-sorgulama.firebaseapp.com
 ptt-avm-sorgulama.web.app
 ptt-avm.alhizli.shop
 ptt-avm.alimservisin.sa.com
+ptt-avm.alisverisinsepet-19.sbs
 ptt-avm.e-sepethizmet.online
 ptt-avm.elektronikalimlarin.com.tr
 ptt-avm.elektronikservis.sa.com
@@ -77518,6 +77551,7 @@ roddddybdrydln.shop
 roddddybdrydlnnn.shop
 rodfilokiralama.com
 rodheslesson.online
+rodininbabasiyim.duckdns.org
 rodney.lat
 rodrodrodrodmusic.com
 rodyskryrzzbgnn.duckdns.org
