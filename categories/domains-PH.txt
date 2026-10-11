@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 105912
-# Last change: 2026-10-10 23:36:33 UTC (sync mode: delta)
+# Records: 105940
+# Last change: 2026-10-11 05:54:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8495,9 +8495,18 @@ aracmuayenedetaylar.com
 aracmuayeneflxyaqsvc.net
 aracmuayeneflyas.net
 aracmuayenehemen.com
+aracmuayenehiizmeti.blogspot.com
 aracmuayenehizmeti.blogspot.com
+aracmuayenehizmeti2.blogspot.com
+aracmuayenehizmeti3.blogspot.com
+aracmuayenehizmetican.blogspot.com
 aracmuayenehizmetiniz.blogspot.com
+aracmuayenehizmetiniz1.blogspot.com
+aracmuayenehizmetiniz2.blogspot.com
+aracmuayenehizmetiniz3.blogspot.com
+aracmuayenehizmetiniztr.blogspot.com
 aracmuayenehizmetins.blogspot.com
+aracmuayenehizmetitr.blogspot.com
 aracmuayenekayit.com
 aracmuayenelerim.com
 aracmuayenemal.com
@@ -43896,6 +43905,8 @@ hhizli-gecis-bakiye-yukleme18.web.app
 hhizli-gecis-bakiye-yukleme271.web.app
 hhizli-gecis-bakiye-yukleme272.web.app
 hhizli-gecis-bakiye-yukleme2733.web.app
+hhizli-gecis-bakiye-yukleme273333.web.app
+hhizli-gecis-bakiye-yukleme27333tr.web.app
 hhizli-gecis-bakiye-yukleme2733can.web.app
 hhizli-gecis-bakiye-yukleme2733tr.web.app
 hhizli-gecis-bakiye-yukleme273tr.web.app
@@ -43972,6 +43983,8 @@ hiizli-gecis-bakiye-yukleme18.web.app
 hiizli-gecis-bakiye-yukleme271.web.app
 hiizli-gecis-bakiye-yukleme272.web.app
 hiizli-gecis-bakiye-yukleme2733.web.app
+hiizli-gecis-bakiye-yukleme273333.web.app
+hiizli-gecis-bakiye-yukleme27333tr.web.app
 hiizli-gecis-bakiye-yukleme2733can.web.app
 hiizli-gecis-bakiye-yukleme2733tr.web.app
 hiizli-gecis-bakiye-yukleme273tr.web.app
@@ -44132,6 +44145,7 @@ hizli-garanti-kredi.cloud
 hizli-gecis-baakiye-yukleme.netlify.app
 hizli-gecis-baakiye-yukleme272.web.app
 hizli-gecis-baakiye-yukleme2733.web.app
+hizli-gecis-baakiye-yukleme273333.web.app
 hizli-gecis-baakiye-yukleme2733can.web.app
 hizli-gecis-baakiye-yukleme2733tr.web.app
 hizli-gecis-baakiye-yukleme273tr.web.app
@@ -44173,6 +44187,10 @@ hizli-gecis-bakiye-yukleme21.web.app
 hizli-gecis-bakiye-yukleme24.web.app
 hizli-gecis-bakiye-yukleme25.web.app
 hizli-gecis-bakiye-yukleme26.web.app
+hizli-gecis-bakiye-yukleme265.web.app
+hizli-gecis-bakiye-yukleme266.web.app
+hizli-gecis-bakiye-yukleme267.web.app
+hizli-gecis-bakiye-yukleme269.web.app
 hizli-gecis-bakiye-yukleme27.web.app
 hizli-gecis-bakiye-yukleme2711.web.app
 hizli-gecis-bakiye-yukleme2712.web.app
@@ -44196,8 +44214,16 @@ hizli-gecis-bakiye-yukleme27332.web.app
 hizli-gecis-bakiye-yukleme27333.web.app
 hizli-gecis-bakiye-yukleme273331.web.app
 hizli-gecis-bakiye-yukleme273332.web.app
+hizli-gecis-bakiye-yukleme2733321.web.app
+hizli-gecis-bakiye-yukleme2733323.web.app
+hizli-gecis-bakiye-yukleme273332tr.web.app
 hizli-gecis-bakiye-yukleme273333.web.app
+hizli-gecis-bakiye-yukleme2733333.web.app
+hizli-gecis-bakiye-yukleme273333can.web.app
 hizli-gecis-bakiye-yukleme27333tr.web.app
+hizli-gecis-bakiye-yukleme27333tr3.web.app
+hizli-gecis-bakiye-yukleme27333trcan.web.app
+hizli-gecis-bakiye-yukleme27333trtr.web.app
 hizli-gecis-bakiye-yukleme2733can.web.app
 hizli-gecis-bakiye-yukleme2733can1.web.app
 hizli-gecis-bakiye-yukleme2733can2.web.app
@@ -77860,6 +77886,7 @@ s-guveniliralisveris.com
 s-guvenilirodeme.com
 s-guvenli-odeme.com.tr
 s-guvenli-ticaret-ile-alisveris.site
+s-guvenlimuhasebeodeme.com
 s-guvenlimuhasebeodemebirimi.com
 s-guvenlimuhasebeodemenoktasi.duckdns.org
 s-guvenliodeme.alisveristr.com.tr
@@ -103094,6 +103121,7 @@ xn--sanalguvenlidemeadresiniz-9rc.online
 xn--savclkuzlatrma-8fcbg04f.my.canva.site
 xn--sbnaneidaesbrd-uzc.dev
 xn--secure-sahbinden-jqc.com.tr
+xn--sekerportfy-0fb.com
 xn--sendebizdenalhaberi-8wd.net
 xn--sendegiriyap-dnc.app
 xn--sendekatlbizegaaranetem-vqd.net
