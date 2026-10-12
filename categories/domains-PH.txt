@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106073
-# Last change: 2026-10-12 01:22:36 UTC (sync mode: delta)
+# Records: 106125
+# Last change: 2026-10-12 09:19:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3755,6 +3755,7 @@ a101market.app
 a101market.duckdns.org
 a101market.fun
 a101market.magazazincirim.com
+a101market.netlify.app
 a101market.online
 a101market.org
 a101market.shop
@@ -6632,6 +6633,7 @@ algebrajelly.top
 algel.click
 algelonikolistanlar.shop
 algitfirrsatlardakal.cfd
+algolab-trading.pages.dev
 algor-form.site
 alguvendekal.click
 alguvendekal.xyz
@@ -24507,6 +24509,7 @@ cxkxjb.homes
 cxlegion.cloud
 cxlegion.online
 cxlegion.website
+cxrteizsorgu.duckdns.org
 cxzssd.nichesite.org
 cy4na.shop
 cy74914.tmweb.ru
@@ -38221,6 +38224,7 @@ getbadge-case2343531.online
 getboldique.com
 getbusiness-invest.com
 getbusy.sbs
+getcartablets.shop
 getcellexa.shop
 getceon.store
 getclouddoc.com
@@ -40591,6 +40595,7 @@ gununfirsatiburada.com
 gununfirsatlari.com
 gununfirsatlarindan.online
 gununfirsatlarindeyiz.com
+gununhaberleri.online
 gununvizyonu.com
 gunvetarih.app
 gunwonder.top
@@ -43979,7 +43984,10 @@ hhizli-gecis-bakiye-yukleme273333.web.app
 hhizli-gecis-bakiye-yukleme27333tr.web.app
 hhizli-gecis-bakiye-yukleme2733can.web.app
 hhizli-gecis-bakiye-yukleme2733tr.web.app
+hhizli-gecis-bakiye-yukleme27342.web.app
 hhizli-gecis-bakiye-yukleme273tr.web.app
+hhizli-gecis-bakiye-yukleme281.web.app
+hhizli-gecis-bakiye-yukleme282.web.app
 hhizliislem.net
 hhizservs.click
 hhizservslr.click
@@ -44060,7 +44068,10 @@ hiizli-gecis-bakiye-yukleme273333.web.app
 hiizli-gecis-bakiye-yukleme27333tr.web.app
 hiizli-gecis-bakiye-yukleme2733can.web.app
 hiizli-gecis-bakiye-yukleme2733tr.web.app
+hiizli-gecis-bakiye-yukleme27342.web.app
 hiizli-gecis-bakiye-yukleme273tr.web.app
+hiizli-gecis-bakiye-yukleme281.web.app
+hiizli-gecis-bakiye-yukleme282.web.app
 hiizsfe.cfd
 hiizsfe.cyou
 hijackcatholic.top
@@ -44228,7 +44239,10 @@ hizli-gecis-baakiye-yukleme2733.web.app
 hizli-gecis-baakiye-yukleme273333.web.app
 hizli-gecis-baakiye-yukleme2733can.web.app
 hizli-gecis-baakiye-yukleme2733tr.web.app
+hizli-gecis-baakiye-yukleme27342.web.app
 hizli-gecis-baakiye-yukleme273tr.web.app
+hizli-gecis-baakiye-yukleme281.web.app
+hizli-gecis-baakiye-yukleme282.web.app
 hizli-gecis-bakiye-yukle.web.app
 hizli-gecis-bakiye-yukle21.web.app
 hizli-gecis-bakiye-yukle212.web.app
@@ -44321,6 +44335,12 @@ hizli-gecis-bakiye-yukleme27333tr.web.app
 hizli-gecis-bakiye-yukleme27333tr3.web.app
 hizli-gecis-bakiye-yukleme27333trcan.web.app
 hizli-gecis-bakiye-yukleme27333trtr.web.app
+hizli-gecis-bakiye-yukleme27334.web.app
+hizli-gecis-bakiye-yukleme27335.web.app
+hizli-gecis-bakiye-yukleme27336.web.app
+hizli-gecis-bakiye-yukleme27337.web.app
+hizli-gecis-bakiye-yukleme27338.web.app
+hizli-gecis-bakiye-yukleme27339.web.app
 hizli-gecis-bakiye-yukleme2733can.web.app
 hizli-gecis-bakiye-yukleme2733can1.web.app
 hizli-gecis-bakiye-yukleme2733can2.web.app
@@ -44333,6 +44353,14 @@ hizli-gecis-bakiye-yukleme2733tr2.web.app
 hizli-gecis-bakiye-yukleme2733tr3.web.app
 hizli-gecis-bakiye-yukleme2733trcan.web.app
 hizli-gecis-bakiye-yukleme2733trtr.web.app
+hizli-gecis-bakiye-yukleme27340.web.app
+hizli-gecis-bakiye-yukleme27341.web.app
+hizli-gecis-bakiye-yukleme273411.web.app
+hizli-gecis-bakiye-yukleme273412.web.app
+hizli-gecis-bakiye-yukleme27342.web.app
+hizli-gecis-bakiye-yukleme273421.web.app
+hizli-gecis-bakiye-yukleme273422.web.app
+hizli-gecis-bakiye-yukleme27343.web.app
 hizli-gecis-bakiye-yukleme273tr.web.app
 hizli-gecis-bakiye-yukleme273tr1.web.app
 hizli-gecis-bakiye-yukleme273tr2.web.app
@@ -44347,6 +44375,20 @@ hizli-gecis-bakiye-yukleme278.web.app
 hizli-gecis-bakiye-yukleme279.web.app
 hizli-gecis-bakiye-yukleme28.web.app
 hizli-gecis-bakiye-yukleme280.web.app
+hizli-gecis-bakiye-yukleme2801.web.app
+hizli-gecis-bakiye-yukleme2802.web.app
+hizli-gecis-bakiye-yukleme2803.web.app
+hizli-gecis-bakiye-yukleme280tr.web.app
+hizli-gecis-bakiye-yukleme2811.web.app
+hizli-gecis-bakiye-yukleme2812.web.app
+hizli-gecis-bakiye-yukleme2813.web.app
+hizli-gecis-bakiye-yukleme281can.web.app
+hizli-gecis-bakiye-yukleme281tr.web.app
+hizli-gecis-bakiye-yukleme2821.web.app
+hizli-gecis-bakiye-yukleme2822.web.app
+hizli-gecis-bakiye-yukleme2823.web.app
+hizli-gecis-bakiye-yukleme282can.web.app
+hizli-gecis-bakiye-yukleme282tr.web.app
 hizli-gecis-bakiye-yukleme29.web.app
 hizli-gecis-bakiye-yukleme4.web.app
 hizli-gecis-bakiye-yukleme5.web.app
@@ -46957,6 +46999,7 @@ ikinci-el-sepetim.com.tr
 ikinci-el-sifir-alisveris-ilan.xyz
 ikinciel-siparis.com
 ikincielguvenli.xyz
+ikincielsatis.com
 ikincietap.vercelserver.com
 ikjlrb.top
 iknowaustinhom.com.tr
@@ -52091,6 +52134,7 @@ kakashiw.net
 kakunlgvn.webflow.io
 kal-go.com
 kalahuno.com
+kalakaldimdyorbirbasisma.sbs
 kalan-sahalarda-biz-gorev-yapacagiz.com
 kalbimdesen.online
 kalbimizgeldik.com.tr
@@ -55668,6 +55712,7 @@ lalelisubeeylulayiindirimleri.com.tr
 lalelisubeeylulindirimleri.online
 lalelisubsndyzbizler.duckdns.org
 lalezarbotanik.live
+lalezarte346655ter.duckdns.org
 lalkrere.com
 lalodgevictoria.world
 lalyhuodae.com
@@ -57245,6 +57290,7 @@ loncarr.com
 london-borough.com
 london-elektro-market.com
 londra.hopto.org
+lonekasmeter.duckdns.org
 lonelinebizarre.top
 lonelinesssponge.top
 lonelydeviation.top
@@ -74411,6 +74457,7 @@ pueedusstaff.unaux.com
 pufyna.com
 puigov.vip
 pujakumari.duckdns.org
+pulharc.com
 pullcoup.pics
 pullsurround.top
 pulpsenior.top
@@ -80509,6 +80556,7 @@ secretiveopaque.top
 secretivepanoramic.top
 secretowner.top
 secretya2.site
+secsepete.com
 secssanderoperat.com
 sectegro.com
 sectionclamp.top
@@ -83381,6 +83429,7 @@ sizlericinolanseyler.sbs
 sizlericinsizlerle.net
 sizlerininicburadayiz.click
 sizlerinistedigi.shop
+sizleristersinizdebizleryapmazmiiyiz.sbs
 sizlerlebuyuyoruz.com.tr
 sizlerlehadihemenfirst.sbs
 sizlerlehg.xyz
@@ -83919,6 +83968,7 @@ snoyreteve.top
 snrayklmelerhgs.cfd
 snrlsaydcakm.cfd
 snrmfxko.cn
+snrszkmp.loseyourip.com
 snryklendrdnhgs.cfd
 snsgtrkidaebrdaal.app
 snstk-indrm-frst.online
@@ -89651,6 +89701,7 @@ teknosaonline.shop
 teknosaturuncufirsat.shop
 teknosavergisiz.com
 teknoslakmpanya.net
+teknsoa.shop
 tekoas.com
 tekowave.click
 tekpos.html-5.me
@@ -94947,6 +94998,7 @@ tvtthsdterrd.net
 tvttrassers.net
 tvttrkalnm.net
 tvtur-k.net
+tvturandevusu.cfd
 tvturk.sbs
 tvturkdxn.net
 tvturklen-tr.net

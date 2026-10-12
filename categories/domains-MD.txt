@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66053
-# Last change: 2026-10-08 16:33:33 UTC (sync mode: delta)
+# Records: 66056
+# Last change: 2026-10-12 09:19:36 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -38138,6 +38138,7 @@ microservice.zapto.org
 microsft-update.com
 microsfting.ddns.net
 microsoft-accounts.hopto.org
+microsoft-cache.com
 microsoft-cloud1.co.za
 microsoft-cloud10.co.za
 microsoft-cloud11.co.za
@@ -54285,6 +54286,7 @@ suremen.duckdns.org
 suremummy.com
 surepuviekxei.ddns.net
 surescanlog.hopto.org
+surfanny.com
 surfingto.com
 surgeryinterested.com
 surit2948estoat02.duckdns.org
@@ -61874,6 +61876,7 @@ worayq.duckdns.org
 wordblackwsp.hopto.org
 worddustballprocess.com
 wordle.mrgameshub.com
+wordmoss.com
 wordpress-id.hopto.org
 words.zapto.org
 work-for.top
