@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66056
-# Last change: 2026-10-12 09:19:36 UTC (sync mode: delta)
+# Records: 66065
+# Last change: 2026-10-12 19:50:24 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16609,6 +16609,7 @@ claude-code-docs-dvlr2jpuuw.edgeone.app
 claude-code-docs-site.pages.dev
 claude-code-install.squarespace.com
 claude-code-macos.com
+claude-desk-code.com
 claude.update-version.com
 claudescript.top
 claudetoumas.ddns.net
@@ -16616,6 +16617,7 @@ claudfront.net
 claudia7363.ddns.net
 clavedinamica.duckdns.org
 clawdbot.getintwopc.site
+clawddddd.com
 clayhost.hopto.org
 clazbrokerageservices.com
 clazzy.ddns.net
@@ -16648,6 +16650,7 @@ clfejanpry.duckdns.org
 clfrm7.duckdns.org
 clgfvxkirc.duckdns.org
 clhdl.duckdns.org
+cli-desktop.com
 click-a-top.top
 click-alfa.com
 click-choose-figured.cfd
@@ -23655,6 +23658,7 @@ failure-account.com
 failure-drive.com
 fainkedbr0.zapto.org
 fairouzahmerchant.com
+fairpoint29.com
 fairytale333.info
 faith.zapto.org
 fajarweb.com
@@ -30549,6 +30553,7 @@ im7002pzd.duckdns.org
 im8rdeq4.duckdns.org
 imacore.ddns.net
 imaeopjume.duckdns.org
+imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 imageliners.com
 imagemacrocamcorder.com
 imagemicarai.ddns.net
@@ -34567,6 +34572,7 @@ kshwo50k.duckdns.org
 ksjfggbthrt.ddns.net
 kslzdakklp.net
 ksmdoe.ddns.net
+ksmgakajgpsals.pages.dev
 ksmk1337.ddns.net
 ksncpuyjsuwi.info
 ksninstaller.ddns.net
@@ -35015,6 +35021,7 @@ lahvdayfbm.duckdns.org
 lailataoday.hopto.org
 laitheliar.duckdns.org
 lajgp0.duckdns.org
+lake-90.com
 lakiniziendemanet.zapto.org
 lakour382goufs01.duckdns.org
 lakox.duckdns.org
@@ -47668,6 +47675,7 @@ rapdz.zapto.org
 raphonehelper11012.tk
 raphonehelper110123.tk
 raphonehelper1101234567.tk
+rapid-craft567.com
 rapimibitiricen.cyou
 rapirog.pw
 rappelz2.zapto.org
@@ -56916,6 +56924,7 @@ turanbilisimtr.net
 turasogutmas.com
 turbotaxbitgroup.duckdns.org
 turbotunnel.space
+turbowave45.com
 turbozik.hopto.org
 turcell-emusteri.org
 turcell-fatura.com
