@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106189
-# Last change: 2026-10-12 19:50:24 UTC (sync mode: full)
+# Records: 106194
+# Last change: 2026-10-13 02:03:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -43392,6 +43392,7 @@ heraldinsulate.top
 heraldrelish.top
 heranbirfirsatbuyaz.net
 herangelmek.duckdns.org
+heranheryerde-ekstra.com
 heranimated.top
 heravakfi.org.tr
 herbaldegeneration.top
@@ -46169,6 +46170,7 @@ hzlrandvv-webtp.space
 hzlsigortamburdaatr.com.tr
 hzlsnnets.web.app
 hzlsrgulamalxsr.com
+hzlsstmlndaaarserrn.com
 hzlszsndnsmlk.com
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
@@ -49951,6 +49953,7 @@ istanbulbakiye.site
 istanbulbakiyecim.com
 istanbulbakiyeyuklecnnet.vercel.app
 istanbulbakyecim.com
+istanbulbaskart.online
 istanbulbasvuru.lol
 istanbulbasvuru.xyz
 istanbulbasvurubelgimkart.xyz
@@ -57352,6 +57355,7 @@ longsketch.top
 longstab.top
 longsubordination.top
 longturksword.top
+lonshjaertmenst.duckdns.org
 loogii--leedgarlive.webflow.io
 lookappropriation.top
 lookfrown.top
@@ -82115,6 +82119,7 @@ sharespace-link-360b265f3942.herokuapp.com
 shariaxpress.com
 sharing-belge.fr
 sharing-weblooks-394039902939console-39940030broker.mos.ap-southeast-2.sufybkt.com
+sharkninija.com
 sharkquery.top
 sharkturkiye.com
 sharped.top
