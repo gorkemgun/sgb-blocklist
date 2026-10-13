@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 474407
-# Last change: 2026-10-13 17:37:36 UTC (sync mode: delta)
+# Records: 474437
+# Last change: 2026-10-13 22:50:43 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2306,6 +2306,7 @@
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepet-indirimleri.storego-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.indirimtakipte.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
+101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online
 101-mobil-extra-sadece-bugune-ozel-indirimler-tr.shops-mobil.online
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online
@@ -3790,6 +3791,7 @@
 1123432421323.cloud
 11234jkhfkujhs.site
 11234jkhfkujhs.top
+1124111123.com
 11241garant.duckdns.org
 11243242524324423.com
 112445325.life
@@ -7413,6 +7415,7 @@
 1o1haziranfrsaattlar.com
 1o1hemenkapida.duckdns.org
 1o1hemenkapiyagetirdi.com
+1o1hftyldzlr.click
 1o1hmnkapilarinizda.com
 1o1hzlicafodemelernz.com
 1o1hzlicaspetlerinizde.com
@@ -11965,6 +11968,7 @@
 312241222111422245225891.xyz
 312241222111422245225892.xyz
 312241222111422245225893.xyz
+312241222111422245225894.xyz
 31231231251321-1213.cloud
 312312321321.cloud
 31231313.duckdns.org
@@ -67977,6 +67981,7 @@ bedavapanel2.site
 bedavapanel2026.cyou
 bedavapanel4.site
 bedavapanelariyorum.world
+bedavapanelciniz.website
 bedavapanelhizmetleri.website
 bedavapanelhizmetleri.world
 bedavapanelimizyeniden.gt.tc
@@ -68515,6 +68520,7 @@ belsis.art
 belsis.buzz
 belsis.click
 belsis.ink
+belsis.live
 belsis.lol
 belsis.online
 belsis.sbs
@@ -96920,6 +96926,7 @@ careffouersa.com
 careffour.sa.com
 careffourr.sa.com
 careffoursa.care
+careffoursa.vercel.app
 careffuoersa.com
 careffuoersa.vercel.app
 careffuorsa.com
@@ -104813,6 +104820,7 @@ cleomeoftb.info
 clepdhunt.duckdns.org
 clepmedic.com
 clepteslnmarlkreetler.com
+clepteslookmarkletlrler.com
 cleptesolkmalkretler.lol
 cler.madagent.cc
 cler1ft.hopto.org
@@ -150072,6 +150080,7 @@ ekstramarket.duckdns.org
 ekstramarketindirimlerinde.net.tr
 ekstramarketo.duckdns.org
 ekstraonlinefirsatlarinda.net.tr
+ekstraonlineindirim-101.com
 ekstraozelurunleri.shop
 ekstraramrket.duckdns.org
 ekstrayazfirsatlarinda.net.tr
@@ -172989,6 +172998,7 @@ frstatkampanyasisnbt.duckdns.org
 frstbirgundekapinda.shop
 frstbradasmdi.duckdns.org
 frstbrda.site
+frstbrdaaa.shop
 frstbrdabnqkowkxdlk.click
 frstbuakbuda.gen.tr
 frstbukpnizaglyr.com
@@ -173005,9 +173015,12 @@ frsthmnkplirnizageldi.com
 frstiniz-burada.com
 frstkapindasizlerde.shop
 frstkcmzindrm.info.tr
+frstkkklamnaa.com
+frstkklmn.com
 frstkmpggh.net.tr
 frstkmpgrntbbvx.com.tr
 frstkmpgrntssdasa.com.tr
+frstkmpnysans.shop
 frstkpidageliyrhmn.com
 frstkpnda1oo1s.store
 frstksfskfsmofsjgsksfjsgskgfsjqkwejwkewlqdwlqkfksa.online
@@ -173063,6 +173076,7 @@ frstlrkcrlmzhmnsndykla.online
 frstlrkmpnyssbsvrrrprmoo.info
 frstlrkmpnyssbsvrrrprmoo.live
 frstlrnengzlgunleriyle.com
+frstlrnsmdjs.shop
 frstlrprsmynnkmpny.art
 frstlrprsmynnkmpny.pro
 frstlrrbsvvrrrprsmynnn.click
@@ -173292,6 +173306,7 @@ fsqnbmkr.vercel.app
 fsrcxtaninda.top
 fsrltrlburdadfa.sbs
 fsrsattadaasoxta.space
+fsrtbrdaaa.shop
 fsrtllrtmlakmnpylragcklma.online
 fss-app.live
 fssdewrwerdcwcvvffwefew.space
@@ -173911,6 +173926,7 @@ fuyulokere-badazede.xyz
 fuyvspto.com
 fuz1a6h.duckdns.org
 fuzulevbasvurum.com
+fuzulyatirimholding.com
 fuzulyatirimi.com
 fuzzy-quill-condition.glitch.me
 fuzzypawspet.store
@@ -194917,6 +194933,7 @@ haberler411235.sbs
 haberler41289.sbs
 haberler421352.shop
 haberler4215434.sbs
+haberler42213.sbs
 haberler432432.shop
 haberler4422424.shop
 haberler443198.sbs
@@ -254027,6 +254044,7 @@ katanacheck.store
 katanachecker.fun
 katanachecker.online
 katananestwate.com
+katarfalan.duckdns.org
 katarinacheck.online
 katbesi.net
 katch.ne.jp
@@ -284090,6 +284108,7 @@ mhmhhmhmhrsbsvbvvs.click
 mhmhmhmhmrnvds-brd-mobil.web.app
 mhmhrsrnfdrndvs.online
 mhmngr6usp1gu7r2hi.biz
+mhmrmermrems.duckdns.org
 mhmrmnsnzlere.com
 mhmrmrmrmss.online
 mhmrmsannsm.org
@@ -284367,6 +284386,7 @@ mhsraaggwd.site
 mhsraca.cfd
 mhsraca.sbs
 mhsraca.site
+mhsrakog.lol
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -284376,6 +284396,7 @@ mhsrakogr.cyou
 mhsrakogr.sbs
 mhsrarandvlrmzbrda.sbs
 mhsrasras.duckdns.org
+mhsrhrmhmrms.duckdns.org
 mhsrrandvu.com
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -284928,6 +284949,7 @@ migros-sanalmarketim.vercel.app
 migros-sanalmarketin.vercel.app
 migros-stanley.hasmwasd.click
 migros-tr.club
+migros-tr.com
 migros.cc
 migros.ekstra.pro
 migros.ekstra.site
@@ -289242,6 +289264,7 @@ mobilservisler-3.sbs
 mobilservisler-34.sbs
 mobilservisler-35.sbs
 mobilservisler-38.sbs
+mobilservisler-39.sbs
 mobilservisler-49.sbs
 mobilservisler-51.sbs
 mobilservisler-53.sbs
@@ -297640,6 +297663,7 @@ nbvbsd.mom
 nbvbwe.monster
 nbviiisel.net
 nbvipolkaniyat.net
+nbvndhxnsj.shop
 nbvnsnbsnb.net
 nbvnwnettyvss.ddns.net
 nbvriadnekvkdlkdkflsd.net
@@ -303307,6 +303331,7 @@ nrp5l3v.duckdns.org
 nrplydepostach.ddns.net
 nrpprramwa.us
 nrq.shoppysy.fun
+nrrhrsctyylnmase.com
 nrs2wjke0t2vz9.com
 nrsoh.com
 nrstability.org
@@ -320159,6 +320184,7 @@ palmiyesultanbungalow.org
 palmiyesultans.com
 palmiyesultans.org
 palmiyesultansilivri.com
+palmiyesultn.com
 palmpredominant.top
 palmsgalsr.bio
 palmtlxz.club
@@ -343461,7 +343487,6 @@ qnbsfinansbank.com
 qnbsfinansliramazan.xyz
 qnbsfinasbn.com
 qnbsfinasbnk.com
-qnbsigorta-com.drp-dev.com
 qnbsizekazandiriyor.com
 qnbsizineseriniz.duckdns.org
 qnbsizlerebasvurum.xyz
@@ -379561,6 +379586,7 @@ soksokdaucuz.com.tr
 soksokdaucuz.net.tr
 soksokgiris.xyz
 soksokguncel.xyz
+soksoksok.com.tr
 soksoksokdahadasok.click
 soksonfirsatlarim.xyz
 soksubatayifirsati.xyz
@@ -391850,6 +391876,7 @@ sys666.ddns.net
 sysalevlilkkredisimi.online
 sysanalyticweb.com
 sysank.com
+sysbasvurular.com
 sysbinder.xyz
 sysbreaker.duckdns.org
 syscom.com.skies.tw
@@ -399563,6 +399590,7 @@ tentwentyoctoberhjhjj.com
 tenurenutrient.top
 tenureoffspring.top
 tenzerofive.buzz
+teogevo.site
 teoghehofuuxo.su
 teoglionrandevu.org
 teom125asfkasf.xyz
@@ -406093,6 +406121,7 @@ tptf.cloud
 tptf.fund
 tpthgss.com
 tptlttmjrjgf.site
+tptptptptppa.duckdns.org
 tptrborsa.com
 tptrhisse.com
 tptrpl.com
@@ -428268,6 +428297,7 @@ vanityfeminine.top
 vanitysafeguard.top
 vankapetkavanis4.pw
 vankaremix.ddns.net
+vankedileri.kedi-baklicisi.shop
 vanmagnitude.top
 vannisteroy.cf
 vanonsunna.xyz
@@ -436968,6 +436998,7 @@ web-akbank.lat
 web-akbank.one
 web-akbank.site
 web-akmobilsubesi.xyz
+web-alisveriskapinda.sbs
 web-alisverissiparis.sbs
 web-amazon-prime-verification.com
 web-amazon.zapto.org
@@ -459622,8 +459653,6 @@ yapikredikobimmtr.com
 yapikredikoc.com
 yapikredikolayadres.tk
 yapikredikredikartiborcsorgulama.com
-yapikredikripto.com
-yapikredikripto.com.tr
 yapikredikurulum.com
 yapikredil.com
 yapikredileri.com
@@ -471562,6 +471591,7 @@ ziraatbankizmir.com
 ziraatbankk.com
 ziraatbankkampanyaislemlerim.com
 ziraatbankkampanyalarimizz.com
+ziraatbankkasi.sbs
 ziraatbankl.com
 ziraatbankloginn.net
 ziraatbanklogintr.net
