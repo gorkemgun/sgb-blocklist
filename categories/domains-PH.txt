@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106398
-# Last change: 2026-10-14 18:40:51 UTC (sync mode: delta)
+# Records: 106409
+# Last change: 2026-10-14 22:20:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -16856,6 +16856,7 @@ bufirsatkacmazsendehemenkatil.site
 bufirsatlarkacmazhemnbasvursende.tech
 bufirsatsizinlehemenbasvur.tech
 bufirsatsizlereozel.tech
+bufirstbirkeregelir.giize.com
 bufirstikacirmax101.online
 bufiyatakcmz.duckdns.org
 bufiyatkcmzkmpny.duckdns.org
@@ -17075,6 +17076,7 @@ bunuarayanburada.sbs
 bunuencoksenisters.sbs
 bunuhemeniste.sbs
 bunun-iicin-variz.shop
+bunusendegormelisin.sbs
 buphkahapsa.net
 buqegoi.info
 burada-her-sey-zamaninda.com
@@ -41540,6 +41542,7 @@ haberler1425123.shop
 haberler142536231.shop
 haberler1436542.sbs
 haberler14534925.shop
+haberler15123424.sbs
 haberler1542334.shop
 haberler154313.sbs
 haberler1564568.sbs
@@ -43729,6 +43732,7 @@ hftasonufirsatlarisimdii.com
 hftbr1d0kcmaz10glal.com
 hftc10kcmaz1brdahgl.com
 hftn-indrim-hzmetleri-a101de.com
+hftnyldzlbrada.click
 hftortasindrmelrbrda101.com
 hfts1brd0nglal10cmz.com
 hfts1brd0nglal1cmz.com
@@ -47305,6 +47309,7 @@ ilanlarim-get.com
 ilanlarim-m.com.de
 ilanlarimode.online
 ilanlarimode.shop
+ilanlarin-hemen-burada.com
 ilanlarinburada.com
 ilanlarinmobilde.com
 ilanlarmobil.com.de
@@ -60978,6 +60983,7 @@ mgnetekinc.com
 mgnkrgxtkple.com
 mgrosshzlrannn.online
 mh-r-al-randv-simdi-hemence.duckdns.org
+mh-rdvzmni.cfd
 mh-rs.182iletisim.click
 mh.cicekcihizli.sbs
 mh1rsf0rm123.com
@@ -65093,6 +65099,7 @@ nnmnnm.ru
 nnmsdkalemrskmf.net
 nnnerfbdg2ef-wsdaghagsfs.sbs
 nnnvsbbonlne.net
+nnnvvsdsdrttyreeertty.com
 nnnvvvksvrmtg.net
 nnpubbatch.shop
 nnu4l.top
@@ -80172,6 +80179,7 @@ sanuzu.cn
 sanvo.cyou
 sanzumanigcsakn.net
 saotykaso.xyz
+sapancaevleri.xyz
 sapancarosebungalov.net
 sapaos.shop
 sapdfsaodfsadl.online
@@ -91541,6 +91549,7 @@ togg-nato-ozel-cekilis.space
 togg-nato-ozel-cekilis.xyz
 togg-satisi.cfd
 togg.101kapimda.com
+togg.bar
 togg.best
 togg.cc
 togg.live
@@ -91548,7 +91557,9 @@ togg.lol
 togg.onsatisbasvur.com
 togg.pro
 togg.satisonbasvuru.com
+togg.top
 togg.website
+togg.wiki
 togg.zuzzuu.com
 togg2026.com
 togg2026.xyz
