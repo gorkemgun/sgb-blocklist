@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip&desc=BP
-# Records: 105
-# Last change: 2026-08-05 15:30:44 UTC (sync mode: delta)
+# Records: 106
+# Last change: 2026-10-14 13:47:07 UTC (sync mode: delta)
 2.58.85.92
 5.180.155.91
 13.59.49.242
@@ -31,6 +31,7 @@
 45.94.31.170
 45.94.31.224
 45.141.151.71
+45.142.142.237
 45.151.143.11
 45.155.69.166
 52.28.131.77

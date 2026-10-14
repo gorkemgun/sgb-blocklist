@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259479
-# Last change: 2026-10-13 22:50:43 UTC (sync mode: full)
+# Records: 259494
+# Last change: 2026-10-14 13:47:07 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -13677,6 +13677,7 @@ aaa101aaaaa1001aaaa.com
 aaa116.brightvista.cfd
 aaa313131.org
 aaaaa101aaaaa101.com
+aaaaaaaaa1.sbs
 aaaaaaaaaaaaaaaaaaa.duckdns.org
 aaaaaaacccccckkkkddddnnnzz.com
 aaaaaaaccccckkkkddddnnnnzzz.click
@@ -27591,6 +27592,7 @@ aracrandevularimax.net
 aracrandevum.ga
 aracrandevum.tk
 aracrandevumweb.com
+aracrandevuolusturun.govt.hu
 aracrandevusorgu.com
 aracrandevusu.rip
 aracrandevutrk.com
@@ -28190,6 +28192,7 @@ arorayedekparcasatisi.com
 arorayedekparcatr.com
 aroxservices.xyz
 arrabasigorta.site
+arracrndvual.govt.hu
 arractrmkmm.net
 arrayconect.com
 arrbkiralama.xyz
@@ -32715,6 +32718,8 @@ basvrpromlar.click
 basvrpromlar25.click
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
+basvrrkmpnyaprmsynn.info
+basvrrkmpnyaprmsynn.pro
 basvrrprmsynnnnkmpnyaa.info
 basvrrprmsynnnnkmpnyaa.live
 basvrrprmsynnnnkmpnyaa.pro
@@ -38732,6 +38737,7 @@ bilgilendirme-kararduyurusutr.com
 bilgilendirme-merkezi.sbs
 bilgilendirme-platformu.com
 bilgilendirme-resmiodemelerhemengiris.site
+bilgilendirme-sepeti.online
 bilgilendirme-trxx.xyz
 bilgilendirmeamaclikurulansitemizdir.eth3.me
 bilgilendirmearayuzu.abrdns.com
@@ -91459,6 +91465,7 @@ facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook-login-usa-ny.com.ph
 facebook-login-verify.ph
+facebook-loginalert.ph
 facebook-loginassist.com.ph
 facebook-loginhasty.ph
 facebook-update-verify-now.ph
@@ -125415,6 +125422,7 @@ hukukkarayollari.in
 hukuklukislem.in
 hukukodeme.xyz
 hukukodemebirimi.com
+hukukportal.org
 hukuksalislem.in
 hukukservishgs.com
 hukukservisleri-govtr.ga
@@ -135585,6 +135593,7 @@ ispandora.net
 isparibu.com
 ispark-islem.blogspot.com
 ispark-islem.com
+isparkborcode.govt.hu
 isparkodemelerm.net
 isparkonlineislemler.online
 isparta-saglik.xyz
@@ -161515,6 +161524,7 @@ mistoreonlinealisveris.online
 mistymgir.pw
 mistyrose-butterfly-685715.hostingersite.com
 miswarte.cloud
+misyonmenkul.com
 misyontrade.com
 misyonyatirimmenkuldegerler.com
 mitas.space
@@ -202503,6 +202513,7 @@ sepetim-tr.com
 sepetim-tr.com.tr
 sepetim1o1brda.sbs
 sepetimanindakapimda.com.tr
+sepetimde-tr.online
 sepetimdealisveris.online
 sepetimdealisveris.shop
 sepetimdealisveris.site
@@ -216566,6 +216577,7 @@ teb-kampanyalarim.com
 teb-kartaidat.com
 teb-katilim-sube-tr.com
 teb-kosonline.com
+teb-mobil.mobil-bankacilik.site
 teb-mobil.site
 teb-mobilfirsatlarr.com
 teb-mobilgiris.tk
@@ -216648,6 +216660,7 @@ tebaidathizmetleri.com
 tebakonline.net
 tebankasi.com
 tebankasim.com
+tebarrak.cfd
 tebb-grsslr.com
 tebbaank.com
 tebbank.rf.gd
@@ -239973,6 +239986,7 @@ wwgecisleri.22web.org
 wwgecisleri.ml
 wwgecisyukleww.sg-host.com
 wwgecisyukleww1.sg-host.com
+wwgovturk.yaminabysabrina.de
 wwhalkbankmobil.com
 wwhalkbankparaf.com
 wwhalkbanksizinle.com
@@ -258949,6 +258963,7 @@ zlorvantisahub.world
 zlraat-blreysel-giris-online.com
 zlraat-blreysel-online.com
 zlraat-online.com
+zlraatbankaslal.icu
 zlraatonlinefirsatnoktalar.xyz
 zlraatonlinefirsatnoktan.xyz
 zlsvkvvdvt-dvtre.com
