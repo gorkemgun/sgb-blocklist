@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259494
-# Last change: 2026-10-14 13:47:07 UTC (sync mode: delta)
+# Records: 259503
+# Last change: 2026-10-14 18:40:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -35045,6 +35045,7 @@ basvurunuzuonaylayandi.urlbee.icu
 basvurunuzutamamlayalim.net
 basvurunuzutamamlayin.site
 basvurunuzuyapabilirsiniz.urlbee.help
+basvurunuzyapiliyor.sbs
 basvurunworldyapikredi.com
 basvurunyapi-kredi.com
 basvurunyapikredi.com
@@ -45574,6 +45575,7 @@ birimhost.com
 birimiz-tabanca-birimiz-kursun.mooo.com
 birimmali.org
 birimmaliye.org
+birimportal.org
 birimvergi.org
 birinizhepimiz156.com
 birislemim.com
@@ -58966,6 +58968,7 @@ cicekcigledx.com.tr
 cicekcihizli.xyz
 cicekcikaan.com.tr
 cicekcim.biz
+cicekcirafa33.sbs
 cicekduk.com
 cicekdunyalari.xyz
 cicekdunyam.shop
@@ -91460,6 +91463,7 @@ facebook-giris.ml
 facebook-google.top
 facebook-help-lnstagram.cf
 facebook-helper.xyz
+facebook-login-checker.ph
 facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
 facebook-login-login-extra.ph
@@ -91478,6 +91482,7 @@ facebookhelpsupport.com
 facebookhizmetlerim.com
 facebooklogin-facebook.com
 facebooklogin-industrial-info.ph
+facebookloginanimal.com.ph
 facebookloginapparel.com.ph
 facebookloginapponline.ph
 facebookloginconfirm-au.com.ph
@@ -109149,6 +109154,7 @@ haberler123.shop
 haberler1230149.shop
 haberler123243.sbs
 haberler123531234.shop
+haberler1236324.sbs
 haberler1242123561.sbs
 haberler1245343.shop
 haberler132423.sbs
@@ -199525,6 +199531,7 @@ sahibinndenguvenliodeme.xyz
 sahibinndenparamguvennde.com
 sahibinsden.com
 sahibintr.net
+sahibirdenguvnde.com
 sahibiyiz.sbs
 sahibjnden-get-pay.com
 sahibjnden-guvenli-ode.com
@@ -210287,6 +210294,7 @@ sosyalyardim-1000tl.com
 sosyalyardim-e-a-v-m-p-t-t.shop
 sosyalyardim-pandemi.cf
 sosyalyardim-pandemi.com
+sosyalyardim.duckdns.org
 sosyalyardim.ga
 sosyalyardim.gq
 sosyalyardim.ml
@@ -228161,6 +228169,7 @@ turkiyeisbankasi.website
 turkiyeisbankasi.websites.co.in
 turkiyeisbankasii.com
 turkiyeisbankasikartaidat.com
+turkiyeisbankasiyatirimprogrami-biz-3398i.pages.dev
 turkiyeisbankasiyatirimprogrami-pro.pages.dev
 turkiyeisbankasiyatirimprogrami.pro
 turkiyeisbankasl.com

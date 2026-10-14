@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106362
-# Last change: 2026-10-14 13:47:07 UTC (sync mode: delta)
+# Records: 106398
+# Last change: 2026-10-14 18:40:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -239,6 +239,7 @@
 101-extra-mobil-sadece-online-bugune-ozel-indirim-alisveris.sepetx.online
 101-extra-mobil-sadece-online-bugune-ozel-indirimler-sepette-tr.alisverix.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
+101-extra-mobil-sadece-online-ozel-alisveris-indirimi-tr.online
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
 101-extra-online-ozel-indirim-alisveris-sepeti-mobil-ozel-tr.eceptra-tr.online
@@ -791,6 +792,7 @@
 14745155571.duckdns.org
 14745155571455.webredirect.org
 14765-coinbase.com
+1477852kmnpnyaaprmsynnbasvrrr.click
 1477852kmnpnyaaprmsynnbasvrrr.online
 1478c237.lopdl7d.cn
 147d13e5.hwqwwrh.com.cn
@@ -1764,6 +1766,9 @@
 312241222111422245225892.xyz
 312241222111422245225893.xyz
 312241222111422245225894.xyz
+312241222111422245225896.xyz
+312241222111422245225897.xyz
+312241222111422245225898.xyz
 312455455589992.duckdns.org
 312455455589993.duckdns.org
 3125123.uk
@@ -1967,6 +1972,7 @@
 365onlinesigorta.com
 365onlinesigortakasko.com
 369201v-coinbase.com
+369852147prssvbsvrrkmphnyaa.info
 3698547onlinnbsvrrkmpnyaaprmsynn.pro
 369854snffrstlrrrkmpnyabasvrrkrdi.pro
 369bbea7.dsfiurb-u.shop
@@ -2769,6 +2775,7 @@
 7kgg157.cn
 7level.cloud
 7m2b9k6x3s8qfh4nva.sbs
+7mvpq2rxk9.cfd
 7n5axtn.shop
 7nl.gw2-c79ci-cwcasersail11.virtualail08.na1.coinbase-com.info
 7ocakkapmanyasim.com.tr
@@ -2886,6 +2893,7 @@
 88a8a89a98a8a9.net
 891244.xyz
 89304-coinbase.com
+89339912834.sbs
 89375-coinbase.com
 894561235864132.sbs
 8954.click
@@ -17448,6 +17456,7 @@ bvoyjh.top
 bvrdunz40.click
 bvrknt10.click
 bvsucurisda20000.tech
+bvva-application.sbs
 bvvdbdbdbsbmx.sbs
 bvz.sgesn.top
 bw2m3cel.com
@@ -24265,6 +24274,7 @@ cska-kassy.ru
 cska-ticketsstore.com
 cskacskakxxz.net
 csklvsklvkskcskx.net
+csmonestler.duckdns.org
 csnisf.cc
 cspagtssnkmpnya.duckdns.org
 csperagustosayikmpny.duckdns.org
@@ -30255,6 +30265,7 @@ eduv.icu
 edv-basvurudavetiyesi.com.tr
 edv-basvurudavetiyesi.xyz
 edv-hesaponay.online
+edv-mhrndval.com
 edv-tap-ravportal.com
 edv-tapuonlinerandvusu.com
 edvaegitimkurumu.net
@@ -32037,6 +32048,7 @@ eportalgirislerr.com
 eportalhazine.org
 eportaliadelerizamani.com
 eportalkamu.org
+eportalmaliye.org
 eportalmasak.com
 eportalonlinebasvuruformu.com
 eportalsorgu.org
@@ -32605,6 +32617,7 @@ etlikitap.club
 etlikitap.online
 etlikitap.site
 etmrsmrnszpzr.net
+etnist.com
 etoki.net
 etoki.org
 etraderx.in
@@ -35531,6 +35544,7 @@ firstdecide.top
 firstdrivehill.com
 firstdunyasi101lekapinda.com
 firstglossary.top
+firstgunlrikcmz.duckdns.org
 firstkampnyalari101lekasmda.com
 firstla101lekapida.com
 firstlar-sonkpda.site
@@ -36668,6 +36682,7 @@ frstlar-heran-burada.com
 frstlaricnsongunlr1o1.xyz
 frstlarmkampanyam.shop
 frstlarrkmpnyassiibsvrremeklii.click
+frstlarrprmsnykmpnya193219.info
 frstlarrrkmpnyabprmsynnbsvr.pro
 frstlarrsonnnkmpnyaaa968574123.online
 frstlarrsonnnkmpnyaaa968574123.pro
@@ -40659,6 +40674,8 @@ guneydogusigorta.com.tr
 guneydogusigorta.net.tr
 guneydogusigorta.org.tr
 guneymedya.site
+guneymoto.com
+guneymotor.com
 guneyyardimvakfi.com
 gungorkurumu.com
 gungoryrdmkurumu.com
@@ -50608,6 +50625,7 @@ itrastcepitellogin.webflow.io
 itrastkcepital-logiin.webflow.io
 itraustceptllogin.webflow.io
 itrestcapitalloginsd.webflow.io
+itrgarant.win
 itrostcepiitallogin.webflow.io
 itrostceptitillogxn.webflow.io
 itrrostcapittal-login.webflow.io
@@ -52050,6 +52068,7 @@ kacmazfirsatlarburada.com
 kacmazhafta-a101.online
 kacmazzindirimlerlebufirsat.site
 kacmzfirsatlars1md1onlineozel.com
+kacrmafirsti1001.duckdns.org
 kacsklx1jkl23kxklsadcas13x12.click
 kacsklx1jkl23kxklsadcas13x12.sbs
 kacyirilmayacakaksamalisverisi.cfd
@@ -57135,6 +57154,7 @@ lnftkriptoyenilenencepsube.com
 lnktab.net
 lnktanra.net
 lnktans.net
+lnlenktaknans.net
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
 lnnnnl.club
@@ -57500,6 +57520,7 @@ losehum.top
 losemonth.top
 loseorwin.co
 losereconciliation.top
+loskaert.duckdns.org
 losr066.site
 lostbuy8.quest
 lostdark.xyz
@@ -58057,6 +58078,7 @@ lydinamics.org
 lydnamic.com
 lydnamic.org
 lydnamicedu.com
+lygyaou.com
 lyhpgi.click
 lykinex404.online
 lymiqa.com
@@ -59870,6 +59892,7 @@ maxisccl.my
 maxisccla.lol
 maxisfonyonetimi.com
 maxisgsyatirim.com
+maxisyatirimtr.com
 maxkirala.online
 maxkiralamahizmeti.online
 maxkiralamaoto.online
@@ -61135,6 +61158,7 @@ mhrsrandevuportalimizzx.duckdns.org
 mhrsrandevusisteminiza.duckdns.org
 mhrsrandevutr.com
 mhrsrandevutr.net
+mhrsrandevutronline.com
 mhrsrandevuvatandaslarimizin.duckdns.org
 mhrsrandvlrmzbrasi.sbs
 mhrsrarandvlrmbrda.sbs
@@ -64762,6 +64786,7 @@ ngdance.fun
 nghyfd.cc
 ngklaslg.net
 ngo-turkey.com
+ngofirsatttt.duckdns.org
 ngorogo.com
 ngoview.com
 ngz4sq.boyacentury.cn
@@ -67482,6 +67507,7 @@ online-servis.de
 online-servis.shop
 online-servisin.com.tr
 online-setrms.top
+online-shoptrx.online
 online-siparis-sepeti.com.tr
 online-siparis-sistemi.com
 online-siparis-zamani.app
@@ -75411,6 +75437,7 @@ rafata3131acsldjcklk1j3x12.cfd
 rafatafakitap123x545x.shop
 rafatafatufatifa41x12313.shop
 rafatafax123213z123.sbs
+rafateb.space
 rafatebx1j23jx123z123.cfd
 rafatfitkx213123v5c.shop
 rafflebnnancegiris.site
@@ -89672,6 +89699,7 @@ tek71voa.tw
 teka1o1.com
 tekbasvuru.abrdns.com
 tekbirlikfonu.com
+tekcihazlaraktivasyonlinki.duckdns.org
 tekdoknstaevneglecek.com
 tekdokunus.club.gidatas.com
 tekdokunus.website
@@ -89926,6 +89954,7 @@ tektiklasepetinizde.me
 tektiklasiqortayaptir.com.tr
 tektiklasponsorlureklam.com
 tektiklasponsorlureklamm.com
+tektikonlinehizmet.site
 tektklaalsveriskpndaa.com
 tektqlspsrlrqlamsnde.com
 tektusunabakacak.com
@@ -91517,6 +91546,7 @@ togg.cc
 togg.live
 togg.lol
 togg.onsatisbasvur.com
+togg.pro
 togg.satisonbasvuru.com
 togg.website
 togg.zuzzuu.com
@@ -102353,6 +102383,7 @@ www-ibb-system-tr.blogspot.com
 www-indirim-a101-i.com.tr
 www-indirim-firsatlri-name-tr.com
 www-indrm-katalog-tr.com
+www-infotb-cepte-ayrica.myonlineportal.ch
 www-internetsubesi-qnbfinansbankan-con.tk
 www-is-kampanyakatilim-basvuru.cf
 www-iscep-songun-destek.ml
@@ -102362,6 +102393,7 @@ www-ivd-vezneniz.blogspot.com
 www-kamuspott.blogspot.com
 www-kapitb-web-tb.myonlineportal.ch
 www-karcher.com
+www-kariyertb-cepte-web.myonlineportal.ch
 www-keyword-planner-com.squarespace.com
 www-kgm-gov-tr.translate.goog
 www-kredikartiaidata-iadebasvur.com
@@ -104897,6 +104929,7 @@ yildizlibahceligunler.chickenkiller.com
 yildora-venkupali.lol
 yildora.live
 yildzkampnya-yeni.online
+yildzurunlerkampanysi.duckdns.org
 yilgunturizmseyahatacentasi.com
 yilin-basinda-sepete-ekle.shop
 yilinenucuzu.com.tr
@@ -105029,6 +105062,7 @@ yldzdrngi.com
 ylememkxdee.net
 ylexdn.click
 ylgecisonhgskarayollariniz.duckdns.org
+ylhgkj.com
 yllcumacente.site
 ylvaronquessia.my
 ylylkrtzl.net
@@ -106056,6 +106090,7 @@ zircartel.tr
 zirdijital-kampanya.sbs
 zireluxa.gifts
 zirex.bond
+zirgames.site
 zirindfc.cfd
 zirkalex.mom
 ziros.xyz
@@ -106345,6 +106380,7 @@ zyxeha.site
 zyydawc.com
 zzbqjpio.xdk8ax.cn
 zzcheck.fun
+zzcv777.site
 zzg0.top
 zzindex.com
 zzindex.fun
