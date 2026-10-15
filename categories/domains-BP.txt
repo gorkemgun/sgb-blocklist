@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259505
-# Last change: 2026-10-15 07:30:46 UTC (sync mode: delta)
+# Records: 259519
+# Last change: 2026-10-15 13:29:04 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -959,6 +959,7 @@
 101-mobil-sadece-bugune-ozel-indirim-fiyatlari-cepte-tr.sepetbilgisi.online
 101-mobil-sadece-online-ozel-firsatlar-tr.online
 101-mobil-tr.com
+101-mobilde-extra-sadece-bugune-ozel-alisveris-indirimi-tr.extraplus-tr.online
 101-mobilde-sadece-bugune-ozel-sepet-indirimleri-tr.mobilsepet-tr.online
 101-mobilde-sadece-online-mobile-ozel-indirim-sepeti-tr.e-extra-tr.online
 101-nisan-indirimleri.com
@@ -48928,6 +48929,7 @@ bn-2022-trgiriscepsad.ertenler.club
 bn-ancetriadefirsati.net
 bn-araba-cekilisim.online
 bn-arabacekilisi.com
+bn-arabacekilisi.online
 bn-arabacekilisim.online
 bn-basvur-simdi.xyz
 bn-basvuru-checkevent.net
@@ -49157,6 +49159,7 @@ bnaonlinegiristr.com
 bnaozelbuhaftaindrmler.site
 bnaozelindirimlerbuhafta.site
 bnaozelmbuhafta101.site
+bnarabacekilisi.online
 bnarabacekilisin.com
 bnarceasedele.shop
 bnarcertrbasvru.com.tr
@@ -50300,6 +50303,7 @@ bntogg.com
 bntonlinedestektr.com
 bntr-5435439513245123421.com
 bntr-5435439513245123421.xyz
+bntr-arabacekilisi.online
 bntr-logintr.click
 bntr-sponsorlugiris2.cfd
 bntr-xrpbasvuru.com
@@ -50321,6 +50325,8 @@ bntrambn.click
 bntranbn.click
 bntrapp.com
 bntrappk.vercel.app
+bntrarabacekilis.online
+bntrarabacekilisi.online
 bntrasbn.click
 bntravbn.click
 bntrbasvuru.com
@@ -118985,6 +118991,7 @@ hgsbakiyeyuklme.web.app
 hgsbakiyeyuklmeanlik.web.app
 hgsbakiyeyuklmei.web.app
 hgsbakiyeyuklucenmitrptt.com
+hgsbakiykleme.web.app
 hgsbakiyukle.com
 hgsbakiyukleme.com
 hgsbakiyukleme.org
@@ -121230,6 +121237,7 @@ hizlformdolduredvlt.ml
 hizlgbcesiicc.com
 hizlgecisbakiyedoldurma.web.app
 hizlgecisbakiyeyukleme.web.app
+hizlgecisistembakiyesi.web.app
 hizlgrs-aks.mofe-ns.click
 hizli--basvur.site
 hizli-acikdenizbireyselkredibasvurugiris.click
@@ -154051,6 +154059,7 @@ kurumlartr.com
 kurummobil-ptt.com
 kurumodemeleri.co.uk
 kurumodemeleri.ml
+kurumportal.org
 kurumsal-akbank.com
 kurumsal-alim.com.tr
 kurumsal-denizdovizbank.com
@@ -158441,6 +158450,7 @@ maliyehazinebakanliktrtr963.com
 maliyehazinebakanliktrtr9637.com
 maliyehazinebakanliktrtr9639.com
 maliyehazineiadeetr1.com
+maliyehazinesorgu.com
 maliyehazinevatandasportal.com
 maliyehukuk.org
 maliyeidariceza.org
@@ -161208,6 +161218,7 @@ mhrsrandevuekranlarimizdirr.duckdns.org
 mhrsrandevuhekim.duckdns.org
 mhrsrandevularinizbasladi.duckdns.org
 mhrsrandevum.net
+mhrsrandevumtr.com
 mhrsrandevumuolustur.site
 mhrsrandevunburadan.com
 mhrsrandevunburadan.duckdns.org
@@ -185068,6 +185079,7 @@ pqrm5.sbs
 pqttxtc7p0i.storage.googleapis.com
 pqvagirisonizlemenugapptr.space
 pqworxzpvqwkfpadsofqw.guru
+pr-arabacekilisi.online
 pr-ii-bu-aa.xyz
 pr0b4yi.is-best.net
 pr0st0br0.info
@@ -185099,6 +185111,7 @@ pramguvnde-satsahbinden-com.ml
 prandrix.com
 pranel.click
 prantiygzor.duckdns.org
+prarabacekilisi.online
 pratik-akbankkredi.github.io
 pratik-basvurum.cfd
 pratik-basvurum.sbs
@@ -238766,6 +238779,7 @@ websubayrntllrninu1.xyz
 websubayrntllrninu6.xyz
 websubayrntllrnizi4.xyz
 websubayrntlrimizin09.xyz
+websubayrntlrimizirstl4.xyz
 websubayrntlrir09.xyz
 websubayrntlrminbz3.xyz
 websubayrntlrminl4.xyz

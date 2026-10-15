@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66069
-# Last change: 2026-10-14 18:40:51 UTC (sync mode: delta)
+# Records: 66083
+# Last change: 2026-10-15 13:29:04 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8068,6 +8068,7 @@ accounts-limited.com
 accounts-security.com
 accounts-verification.support
 accounts.customer-session.site
+accounts.natrlyi.com
 accounts.pavingcapital.com
 accounts.service-verification.site
 accountseculite.hopto.org
@@ -15278,6 +15279,7 @@ castrologs.xyz
 castropoolx.info
 castrorat.zapto.org
 casyl18k.duckdns.org
+catalog-update-unix-systems.servehttp.com
 catalyst-pro.lat
 catalystexperience.com
 catapeebisk.ddns.net
@@ -15451,6 +15453,7 @@ cdmwsm.cn
 cdn-content.cc
 cdn-jquery.com
 cdn-js.com
+cdn-redhatupdate.serveftp.com
 cdn-resources.duckdns.org
 cdn-staging.livechat-files.com
 cdn-xhr.com
@@ -26786,8 +26789,11 @@ google-updata.tk
 google-update.site
 google-updater.duckdns.org
 google.autheticathor.com
+google.centerhoti.com
 google.com-apk-6712qw123asd8awf7.site
 google.com.d-dns.co
+google.morelessty.com
+google.natrlyi.com
 google.poultrymiddleeast.com
 google.reset-account.com
 google.sneaws.com
@@ -32598,6 +32604,7 @@ jmizz.zapto.org
 jmjcusznnray.net
 jmjm.bounceme.net
 jml7t03j.duckdns.org
+jmlh.morelessty.com
 jmmyykvuzz.ddns.net
 jmo-set8retryu1.zapto.org
 jmo3d23ux.duckdns.org
@@ -38164,11 +38171,13 @@ microsoft-msteams.com
 microsoft-office.solutions
 microsoft-qqq1332019.net
 microsoft-security.host
+microsoft-service-manager.serveftp.com
 microsoft-support.servehttp.com
 microsoft-support.zapto.org
 microsoft-teams.top
 microsoft-tool.com
 microsoft-visualstudiocode.com
+microsoft-ws-updates.serveftp.com
 microsoft.dumb1.com
 microsoft.update.flash.com.se
 microsoft.updatemeltdownkb7234.com
@@ -51753,6 +51762,7 @@ servicesupportamazon2updateaccountinfo.duckdns.org
 servicesupportg0.hopto.org
 servicesupports.ddns.net
 servicetechnic.hopto.org
+serviceupdate.dynns.com
 serviceups-colis.ddns.net
 serviceverif.ddns.net
 serviceverifyaurh.ddns.net
@@ -54559,6 +54569,7 @@ systemconfigfeb.duckdns.org
 systemdeveloper2.ddns.net
 systeme64.zapto.org
 systemhelpr.com
+systeminfo.dynns.com
 systemlocksecureappl3.duckdns.org
 systemofwin.duckdns.org
 systemspaid.ddns.net
@@ -54568,6 +54579,7 @@ systemupdate.info
 systes-mobility.lisx.ru
 systineupdate415.hopto.org
 systm.ddns.net
+sysupdate.serveftp.com
 syszdcn.duckdns.org
 syugm9xor.duckdns.org
 syutflujni.duckdns.org
@@ -61497,6 +61509,8 @@ windows-kernel.in
 windows-microsoft.zapto.org
 windows-team.zapto.org
 windows-updata.tk
+windows-update-server-microsoft.servehttp.com
+windows-update-ws.servehttp.com
 windows-update.hopto.org
 windows-updates.com
 windows-updates.network
