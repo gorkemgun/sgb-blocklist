@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41469
-# Last change: 2026-10-13 17:37:36 UTC (sync mode: delta)
+# Records: 41486
+# Last change: 2026-10-15 18:20:30 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -4126,6 +4126,7 @@ array.myftp.biz
 arresy.cf
 arrivalchampion.com
 arriveoxpzxo.shop
+arrow-berry-gem.pages.dev
 arrow-click.info
 arrowlchat.com
 arroyo.glucologhealth.com
@@ -4282,6 +4283,7 @@ asfkoasf215.xyz
 asfsafjnk21251.xyz
 asgaage.pw
 asggh554tgahhr.pw
+ashen-drift-stone.pages.dev
 ashkill.ddns.net
 ashraf622004.hopto.org
 ashrat.000webhostapp.com
@@ -7218,6 +7220,7 @@ cart.gotdns.com
 cartatrantap.com
 cartegoogleplau.ddns.net
 cartolabrasil.com
+cartoonmines.com
 cartoonplayer.com
 cartransportdubai.com
 carve842.xyz
@@ -10737,6 +10740,7 @@ doare-assets.s3.sa-east-1.amazonaws.com
 doaska22sd.com
 dobbeltclic.com
 dobecdn.ru
+dobeqnesmot.cc
 dobetrix.ru
 doboudix1024.mywire.org
 doc-imagehub.info
@@ -14053,6 +14057,7 @@ forzamaguire.ga
 forzamaguire.ml
 forzamaguire.tk
 fosbv.com
+fosetya.shop
 fossillargeiw.shop
 fostinjec.today
 fosurfosur.xyz
@@ -15286,6 +15291,7 @@ go.uqauv.cn
 go0gie.com
 goaau.space
 goahezsrw.com
+goalods.lol
 goals1in.xyz
 goasoftwarecompany.com
 goatcr7.duckdns.org
@@ -16762,6 +16768,7 @@ hiydra.club
 hiyo19tv.com
 hizmetcinizhazir.site
 hj.fawea.de
+hjazfioe.surf
 hjdlk.com
 hjffd.icu
 hjfvle.com
@@ -17040,9 +17047,11 @@ hostys.ddns.net
 hotblowup.com
 hotbooks.xyz
 hotboy01.ddns.net
+hotcname.help
 hotdiamond777.loginto.me
 hotdogspaghetti123.xyz
 hotdroid-apps.pm
+hotejka.ink
 hotel123.kistionst.com
 hotelboard.org
 hotelkrome.com
@@ -17061,6 +17070,7 @@ hotkillmail9sddcc.ddns.net
 hotmail-monitor.com
 hotnewrumor.com
 hotnotepad.com
+hotns.rest
 hotspot.accesscam.org
 hotticketsale.com
 houari1987.ddns.net
@@ -24944,6 +24954,7 @@ nehirhasereyesonilaclama.site
 nehyam.com
 neighborhoodfeelsa.fun
 neighborhub.net
+neihite.cc
 neilmurphy.ddns.net
 neilnicholas123.xyz
 nein.ddns.net
@@ -27813,6 +27824,7 @@ ping.ynrkone.top
 pingconnect.net
 pingvinic1998.dynu.net
 pinkboii.ddns.net
+pinkfels.shop
 pinkgoat.com
 pinkipinevazzey.pw
 pinkss19.com
@@ -32948,6 +32960,7 @@ sokha2soho.site
 sokingscrosshotel.com
 sokoltech.ir
 solananetworkinstance.info
+solar-cloud-branch.pages.dev
 solarrayes.com
 solartrackingsystem.net
 solarwindturbine.site
@@ -33199,6 +33212,7 @@ spkdeutshnewsupp.com
 splashstoreofficial.com
 splinter.ddns.net
 split4365.xyz
+splittous.com
 splitwise.xyz
 spm.best
 spmdc.xyz
@@ -35779,6 +35793,7 @@ triticumos.ru
 tritum.gruposenhordobonfim.org
 triunzlpa.com
 trixie.freemyip.com
+trixsolvesxa.shop
 trkcl10gbxx.com
 trkolaykazanclars.com
 trksllcaee.com
@@ -36843,6 +36858,7 @@ usa-careers.com
 usa-online-degree-29o.bond
 usa.4jrb7xn8rxsn8o4lghk7lx6vnvnvazva.com
 usa.fitcalcbmi.com
+usa.on1xvpn.com
 usaa-bank.net
 usaa-unlock.com
 usaa-unlock.net
@@ -41451,6 +41467,7 @@ zygosis55.xyz
 zygvsbfu.com
 zyiexezl.biz
 zyke.link
+zylvantrexor.lol
 zync-stream.com
 zynu5yk6y7lunconh07r9.0pifi4.ru
 zyphernk95.ddns.net
