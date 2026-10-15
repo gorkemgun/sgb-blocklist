@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106626
-# Last change: 2026-10-15 18:20:30 UTC (sync mode: delta)
+# Records: 106636
+# Last change: 2026-10-15 22:24:05 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -558,6 +558,7 @@
 1222233122455666512255997.xyz
 1222233122455666512255999.xyz
 122224457999989999089091.xyz
+122224457999989999089092.xyz
 12229828189122.duckdns.org
 12239928837727.servecounterstrike.com
 122562652500.xyz
@@ -9540,6 +9541,7 @@ asncxbyaaasdanala.65735677234232.sbs
 asncxbyaaasdanala.84651894561645111.sbs
 asncxbyaaasdanala.849561564486510.sbs
 asncxbyaaasdanala.84965148651.sbs
+asncxbyaaasdanala.86456816843568.sbs
 asncxbyaaasdanala.8796451654165333.sbs
 asncxbyaaasdanala.8889655532144.sbs
 asncxbyaaasdanala.89465489421.sbs
@@ -13423,6 +13425,7 @@ bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirmemm.netlify.app
 bilgilendirmerehberi.web.app
+bilgilendirmesler.date
 bilgilennyolgecis.netlify.app
 bilgilennyolgeciss.netlify.app
 bilgilennyollgeciss.netlify.app
@@ -37591,6 +37594,7 @@ garmentcoast.top
 garmentdistill.top
 garmentsquad.top
 garmirrrlekfen.com
+garnatibbva.ro
 garnelis.icu
 garnreklm.com
 garntbbv500bntlkredalhmntkla.net
@@ -38125,6 +38129,7 @@ gelveal.club
 gelvebasinial.duckdns.org
 gelyenifirsat.net
 gemememhasereilaclama.site
+gemgovrmn.web.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -43841,6 +43846,7 @@ hftortasindrmelrbrda101.com
 hfts1brd0nglal10cmz.com
 hfts1brd0nglal1cmz.com
 hftsolgne10n1brd-akmpya.com
+hftyldzhmnl.shop
 hftyldzlrdikmpn.click
 hftz-pzrm-frstm.com
 hfuteducn.wordpress.com
@@ -47969,6 +47975,7 @@ inapptap.xyz
 inat-boxpro.com.tr
 inat-boxtv.com.tr
 inat-tvi.sbs
+inatboxapk.tools
 inatlaboxx.com
 inatsobox.net
 inatur-card.info
@@ -61147,6 +61154,7 @@ mhgsrlasttga.icu
 mhgsrtasttga.icu
 mhgtheatre.ru
 mhherkesrs.com
+mhhhrrrrs.duckdns.org
 mhhmmhrs.app
 mhhrdw.com
 mhhres.dns.navy
@@ -61298,6 +61306,7 @@ mhrsrandevuhizmetlerinizonlinebasvuru.com
 mhrsrandevular.com
 mhrsrandevumerkezi.myshopify.com
 mhrsrandevumtr.club
+mhrsrandevumtr.net
 mhrsrandevun.com
 mhrsrandevunx.blogspot.com
 mhrsrandevuportalimizz.duckdns.org
@@ -92696,6 +92705,7 @@ tr-tr-rtfacebook.com
 tr-trdyson.com
 tr-twitter-online.com
 tr-url.store
+tr-urun-detayi.online
 tr-urun-siparisi.com
 tr-var.sa.com
 tr-veriftyaccntmbl.me
