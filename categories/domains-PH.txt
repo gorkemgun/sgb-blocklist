@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106409
-# Last change: 2026-10-14 22:20:02 UTC (sync mode: delta)
+# Records: 106416
+# Last change: 2026-10-15 07:30:46 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1547,6 +1547,7 @@
 24512512.work
 24515-2525.xyz
 24523512.xyz
+245635566nett.xyz
 245891251.sbs
 2458967sonfrstlarrkmpnyaasa.info
 24612-20114.xyz
@@ -30574,6 +30575,7 @@ egxfqoru.formester.com
 egypthelp.online
 egyptivo.com
 ehadysvbassa.com
+ehazine.org
 ehazineceza.com
 ehazinedava.com
 ehazinedosya.com
@@ -41525,6 +41527,7 @@ haberler12348.shop
 haberler1234813.sbs
 haberler123499.sbs
 haberler1235634122.sbs
+haberler124114.sbs
 haberler124221.sbs
 haberler1245321.shop
 haberler12531.sbs
@@ -52524,6 +52527,7 @@ kampanyaliaracavi.org.tr
 kampanyaliaracavi.xyz
 kampanyalieylulgunleriyakinda.com.tr
 kampanyalifilo.com.tr
+kampanyaligunlerim.xyz
 kampanyalii-lndirim-firsatlarii.online
 kampanyaliiindirimfirsati.com.tr
 kampanyaliiindirimfirsati1.com.tr
@@ -54467,6 +54471,7 @@ kmpnyyyfrstlarrrbsvrsss.live
 kmppyybsvuuurrrprmsynn.live
 kmpratiksorgu.com
 kmpratiksorgu.web.app
+kmpsndehmn.click
 kmpttsrg.cfd
 kmpusulasi.web.app
 kmpya1br0da1kcmazx.com
@@ -61073,6 +61078,7 @@ mhr2srandv5larnzi.duckdns.org
 mhrandevugov.net
 mhrasd432734jnsdf.duckdns.org
 mhrefshemenrndv.ice.lol
+mhremhmsdfksdfkasfa.duckdns.org
 mhreseranedeual.net
 mhrfivems.lol
 mhriberazonle.icu
@@ -61173,6 +61179,7 @@ mhrsrarandvzlrmmhrsbrda.sbs
 mhrsrndsjlvsv.com
 mhrsrndvislmlerin.online
 mhrsrndvr.blogspot.com
+mhrsrtrandevu.com
 mhrsrx2ndevuh3zmetleriniz45012.com
 mhrsrxn3devuuhxzm3tleri45732.com
 mhrss-aps.online
