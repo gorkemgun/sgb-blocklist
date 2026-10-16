@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106657
-# Last change: 2026-10-16 12:32:25 UTC (sync mode: delta)
+# Records: 106676
+# Last change: 2026-10-16 17:28:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8357,6 +8357,7 @@ arabroutes.com
 arabsigortayenii.xyz
 arabulucukontrol.org
 arabuluculukegm.org
+arabuluculukmaliye.org
 arabulucumerkezi.org
 arac--muayturk.online
 arac-2txtxc-muaynem-trvtudktr.net
@@ -9757,6 +9758,7 @@ atatv44check.net
 atavilla.com
 atayatirim.online
 atayatirimortakligi.com
+atayatirimtr.com
 ataytportfoy.com
 atchfulvoca.top
 atcounterfeit.top
@@ -11737,6 +11739,7 @@ basvurdududap.website
 basvurdududapp.com
 basvurdududapp.website
 basvurdular2025.info
+basvurdunmubugun.cyou
 basvurdunyasi.shop
 basvurevlikredin.asyanfinans.com
 basvurform.xyz
@@ -30833,6 +30836,7 @@ ekipcheck.com.tr
 ekipportal.tr
 ekle-tr.online
 eklenti.org
+eklmayiburadaozel.com
 eklmflrsatlari.com
 eklmozellflrsatllar.com
 eklmtermosflrstaerlar.com
@@ -36781,6 +36785,7 @@ frstbradasmdi.duckdns.org
 frstbrdaaa.shop
 frsthemngelsn.shop
 frsthmnbrdna.shop
+frsthmnsendcvd.shop
 frstkkklamnaa.com
 frstkklmn.com
 frstkmpnysans.shop
@@ -36860,6 +36865,7 @@ fsdfsvfn.net
 fsfsasfan.net
 fsocietyclub.com
 fsrtbrdaaa.shop
+fsrthepsn.shop
 fss-app.live
 fssu.link
 fstbnk-xyz.cdn.ampproject.org
@@ -38651,6 +38657,7 @@ ghasiqortam.com.tr
 ghassociates.co.in
 ghfdkljgklf1.top
 ghfnerbqwebqwebythrn.click
+ghhmnnnbvc.art
 ghighestrisk.top
 ghjasdhasd.net
 ghjklds.b-cdn.net
@@ -43848,6 +43855,7 @@ hftasnoickmpya10n1burda.com
 hftasonubizle.net
 hftasonufirsatlarisimdii.com
 hftbr1d0kcmaz10glal.com
+hftbrdasmd.click
 hftc10kcmaz1brdahgl.com
 hftn-indrim-hzmetleri-a101de.com
 hftnyldzlbrada.click
@@ -48032,6 +48040,7 @@ incidentalzealous.top
 incidentalzip.top
 incidentcoalition.top
 incidentdeduce.top
+inciravm.com
 inckisntc.top
 inclinationabrest.top
 inclinationgenre.top
@@ -54561,6 +54570,7 @@ kmpny.2023araclar.xyz
 kmpny1o1brd.com
 kmpnyaaaaprsmnynbsvrrr.info
 kmpnyaaavasvrrrusofnrsalari.online
+kmpnyaabasvruprmsynn19756.pro
 kmpnyaabsvrasdas103321.online
 kmpnyaabsvrr12531.online
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
@@ -59080,6 +59090,7 @@ maliye-sorusturma.com
 maliye-uyapgiris.com
 maliye-uyapsorusturma.com
 maliye-vezne.com
+maliye.gov.ct.tr
 maliye.info
 maliyebildirim.com
 maliyebirim.org
@@ -59760,6 +59771,7 @@ masablakon-buradas-aldisnad-aldn.shop
 masadmabshwnsw4as-4.website
 masaisun.com
 masaj-militariresidence.ro
+masak-gov.com
 masak.ai
 masakadliye.org
 masakbilgi.com
@@ -65272,6 +65284,7 @@ nnhukuk.com
 nnmnnm.ru
 nnmsdkalemrskmf.net
 nnnerfbdg2ef-wsdaghagsfs.sbs
+nnnn345474.site
 nnnvsbbonlne.net
 nnnvvsdsdrttyreeertty.com
 nnnvvvksvrmtg.net
@@ -79053,6 +79066,7 @@ sahibinden-get.sipariis.com.tr
 sahibinden-get.siparisguvende.com
 sahibinden-get.tr
 sahibinden-get.urunal.fun
+sahibinden-get.urundetay-sepet-10.sbs
 sahibinden-get.urunuguvenli-al.com
 sahibinden-getal.shop
 sahibinden-getilan.e-guvenislemler.online
@@ -80021,6 +80035,7 @@ sahibindensecurepay.ru.com
 sahibindensecurity.cf
 sahibindensigorta.click
 sahibindensigorta.com
+sahibindensigorta.quest
 sahibindensigortaodemesi.com
 sahibindensozlesmeodemeleri.dedyn.io
 sahibindensparamguvenl.com
@@ -81620,6 +81635,7 @@ sendgrid.aws-us5.com
 sendigniter.com
 sendjoinbeforethejanuaryoffer.cloud
 sendlivofse.xyz
+sendreward.com
 sene-basinda-yuzbirde-yeni-firsatlar.shop
 senelhgsodme.net
 senelturk.blogspot.com
@@ -88070,6 +88086,7 @@ switchnutrition.top
 switchpoint.top
 switmobnzaswetrak.net
 switzel.com
+swolink.cloud
 swordglamor.top
 swqlink.net
 swsfsadfas.net
@@ -96867,6 +96884,7 @@ uygunalisverlerler.rest
 uygunarabakiralama.com.tr
 uygunarackirala.com.tr
 uyguncasiqortalarim.com.tr
+uyguncep.online
 uygunfaizlioran.bns-vio.site
 uygunfatura.net
 uygunfirsat.net
@@ -102626,6 +102644,7 @@ www-hediye-20gb-internet.com
 www-help-coinbase.com
 www-help-gemini.com
 www-help-lnstagram.tk
+www-helptb-cepte-ayrica.myonlineportal.ch
 www-hemenogren-ucretsiz.com
 www-iade.com
 www-iadelerfinansmerkezim2021.mermerfatihlerimde.com

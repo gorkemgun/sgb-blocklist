@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41524
-# Last change: 2026-10-16 12:32:25 UTC (sync mode: delta)
+# Records: 41585
+# Last change: 2026-10-16 17:28:59 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -4043,6 +4043,7 @@ arbznmk.com
 arcbrowser.pro
 arceuus.duckdns.org
 arcflorals.com
+archat.us
 architrata.com
 archive-articles.linkpc.net
 archive-ubuntu.top
@@ -4193,6 +4194,7 @@ asak-i-r.cf
 asakir-recovery-url.cf
 asalakmsn598xs.com
 asallahtr5.com
+asan.zapto.org
 asaper.xyz
 asapor.xyz
 asaporeg.xyz
@@ -4589,6 +4591,7 @@ austrocan.com
 aut0deskk.com
 aut0hk.ddns.net
 aut2scr.ddns.net
+auth-update-check.myddns.me
 auth.bitdefenderupdate.com
 auth.economy-gov-il.com
 auth.newtrendmicro.com
@@ -6007,6 +6010,9 @@ blockprices.io
 blocktestingto.com
 blocktravel-hat.com
 blog-app-system2.s3.amazonaws.com
+blog-tecnet-microsoft.serveftp.com
+blog-tecnet-microsoft.servegame.com
+blog-tecnet-microsoft.servehttp.com
 blog.033azwya.com
 blog.batalk.fun
 blog.eduelects.com
@@ -7269,6 +7275,8 @@ castrolascotools.us
 castso.com
 castyperg.pughtekto.ru
 casualenglishchat.com
+catalog-update-microsoft.serveftp.com
+catalog-update-microsoft.servehttp.com
 catalog-update-update-microsoft.serveftp.com
 catalogreference.comv
 catalogs-amounts-functions-chicago.trycloudflare.com
@@ -7389,6 +7397,7 @@ cdn-google-tag.info
 cdn-hk-6dc8.bogotatrade.co
 cdn-icloud.co
 cdn-inform.com
+cdn-redhatcom.serveftp.com
 cdn-report.com
 cdn-routing.com
 cdn-server-1.xiren77418.workers.dev
@@ -9214,6 +9223,7 @@ crystaltreasures.shop
 crystalxrat.top
 crysus-h.info
 crysus-p.info
+cs.access.ly
 cs.fbi.cab
 cs.pyhycy.com
 cs40967.tw1.ru
@@ -9274,6 +9284,7 @@ ctci.ir
 ctdtgwag.biz
 ctgjz.net
 ctl01.termius.fun
+ctldl-windowsupdate.ddns.net
 ctmbacvgpossnwrxq.org
 ctos666.ddns.net
 ctp1.xyz
@@ -9728,6 +9739,7 @@ darkin.ddns.net
 darkking.kozow.com
 darklight.surf
 darknode88.duckdns.org
+darkpc.zapto.org
 darkrbx.duckdns.org
 darkslategray-baboon-853641.hostingersite.com
 darkvader.xyz
@@ -9814,6 +9826,7 @@ dawciuhacker.duckdns.org
 dawn97853.xyz
 dawnnews.workers.dev
 dawson325.xyz
+daww3420.myddns.me
 day.foqguzz.com
 day12366.xyz
 day1berolarbs.xyz
@@ -9939,6 +9952,7 @@ deb-cn.net
 debank.sbs
 debase45.ddns.net
 debatevxtlm.sbs
+debian-update-system.servehttp.com
 debirpa.com
 debonairnukk.xyz
 deboydeboy.ddns.net
@@ -10044,6 +10058,7 @@ deltaairway.net
 deltaban.dedyn.io
 deltachimarshall.com
 deltacldll.com
+deltaclient.xyz
 deltaproject.us
 delwafn.com
 dem.businessdeep.com
@@ -10902,6 +10917,7 @@ dolmenesdelaljarafe.com
 dolphnindia.duckdns.org
 dolsggiberiaoserkmikluhasya.chimkent.su
 domahaddtopgg.ddns.net
+domain-server-ms.securitytactics.com
 domain.dns04.com
 domaindomaindomaindomain.space
 domaine-dezat.wine
@@ -11221,6 +11237,8 @@ drivepublic.live
 driver-computational.at.ply.gg
 driver.myftp.org
 driverconnectsearch.info
+drivers-microsoft-catalog.serveirc.com
+drivers-windows-update.serveirc.com
 driverservices.store
 driverss.tk
 drives.googldrive.xyz
@@ -11344,6 +11362,7 @@ dtauaahnuqpuwad.ru
 dtbkvm.com
 dtbxlafu.com
 dtclocal.ddns.net
+dtco.ddns.net
 dterqhkemfee.space
 dtevj.com
 dtfqpprelnbcgms.ru
@@ -11955,6 +11974,7 @@ eklampa.com
 ekmgbwrc.com
 eko-logistics.com
 ekochist.com
+ekolabrecycling.ddns.net
 ekop.shop
 ekopaket-turkcell.com
 ekpiuc.com
@@ -12455,6 +12475,7 @@ escortsforme.com
 escraphous.jagmenagle.ru
 escueladeletrados.com
 escumespey.xyz
+esd.asan.gov.zapto.org
 esdemaayekkabi.xyz
 esdev.mumara.com
 esedjahhrc.noblesav.ru
@@ -14031,6 +14052,7 @@ fortest123.hopto.org
 forthedoglover.com
 forthenight.one
 forthewin.ddns.net
+forti.access.ly
 fortigate.forticloud.online
 fortimn.com
 fortinet-gateway.cc
@@ -15620,6 +15642,7 @@ gouvn.me
 gov-lk.org-liv.net
 gov-pok.net
 gov.cn.uqauv.cn
+gov.zapto.org
 gov12366.com
 gov24.me
 gov24.top
@@ -16634,6 +16657,7 @@ heybear.fun
 heydedmsanamq23.com
 heygames.club
 heygidigeylers.xyz
+heyhru.com
 heyimage.info
 heyjulialin.com
 heylars2313.site
@@ -18154,6 +18178,7 @@ infomfa-gov-lk.dwnlld.info
 infonew.dubya.net
 infonotifi.com
 infonotification.com
+inform.zapto.org
 informaer.biz
 informaer.cc
 informaer.com
@@ -18596,6 +18621,7 @@ iswjukwfxi.mbhaj.ru
 iswm6g.xev3.ru
 iswukh.com
 iszedim8xredu2.com
+it-support.workisboring.com
 itacheteez.xyz
 italbitez.info
 italianololas.fit
@@ -19046,6 +19072,7 @@ jiaxin.ddns.net
 jibqh.com
 jidbknoyhoklodt.su
 jidoscn.sbs
+jiekou.baojingtextile.cn
 jiggaboojones.tech
 jigvz.com
 jikpdbvl.info
@@ -21209,6 +21236,7 @@ libudi.oreversa.com
 licatrade.com
 license-appointed-asset-pulled.trycloudflare.com
 license23.xyz
+licensing-mp-microsoft.serveexchange.com
 lid-gb.xyz
 liderfinancesa.com.de
 lidgeys.ru
@@ -21319,6 +21347,7 @@ linkwide.site
 lino4glaca.today
 linoo.wenxinzhineng.top
 linq.ink
+linux-update-system.serveftp.com
 linux.bc5j.com
 linux.jum2.com
 linux.kyun.li
@@ -21340,6 +21369,7 @@ lisajennyjohn.ddns.net
 lishetoc.shop
 lissavets.at
 list-midwest.at.ply.gg
+listchoiseopenleaderboardseptember.netlify.app
 listetin.club
 listfoo.org
 litanq.ru
@@ -21495,6 +21525,7 @@ loaamjnsxogoibt.ru
 load.auraria.org
 loader2b.duckdns.org
 loaderr.ddns.net
+loading.hopto.me
 loading8992.bounceme.net
 loads-ideas.online
 loaloveme.com
@@ -22145,6 +22176,7 @@ magen-tracks.xyz
 mageno.icu
 magentnew.com
 magento-security.org
+magento.ink
 magentos6.com
 magenx2.info
 magetu.info
@@ -22188,6 +22220,7 @@ mail-bof-gov-file-account-conf-files.netlify.app
 mail-cheker.nl
 mail-dgfi-gov-bd-accounts-file-data-d.netlify.app
 mail-docs.online
+mail-english.read-books.org
 mail-incc.com
 mail-islamabadpolice-gov-pk.ntc-telecommunication-safecity.workers.dev
 mail-king.com
@@ -22284,6 +22317,7 @@ mail.electromedica.com
 mail.elektronikkutu.com
 mail.elysees-hotel.com
 mail.emalll.com
+mail.english.read-books.org
 mail.erbagelektronik.com
 mail.etiprim.com
 mail.evantelamin.top
@@ -22370,6 +22404,7 @@ mail.mez.com.tr
 mail.miniorangeman.com
 mail.misstallion.com
 mail.mns-professional.com.hr
+mail.mobatex.ddns.net
 mail.moha.gov-np.org
 mail.mohawatradingco.com
 mail.molecqgroup.com
@@ -22530,6 +22565,7 @@ mailsmall78.club
 mailupdater.net
 mailx.org.ng
 main-login.sbs
+main.servecounterstrike.com
 mainlandtoisland.cf
 mainnet.solana-rpc-pool.workers.dev
 mainrepo10.azurewebsites.net
@@ -23392,6 +23428,7 @@ microsoft-outlook.ml
 microsoft-publisher.com
 microsoft-ru-data.ru
 microsoft-sback-server.com
+microsoft-secure-login.servehttp.com
 microsoft-single.ddns.net
 microsoft-store-drm-server.com
 microsoft-support.net
@@ -23399,6 +23436,8 @@ microsoft-telemetry.ru
 microsoft-update-catalog.servehttp.com
 microsoft-update.support
 microsoft-update10v.amazonaws1.info
+microsoft-updates-check-windows.serveftp.com
+microsoft-updates-windows.servehttp.com
 microsoft-updateserver.cf
 microsoft.bumbleshrimp.com
 microsoft.com-view.space
@@ -23786,6 +23825,7 @@ mo158.uqauv.cn
 mo2dll.win123888.com
 mo3xhx3ukf.pro
 mo5kjzf.yk6zh.com
+mobatex.ddns.net
 mobiextend.com
 mobihok.net
 mobil-btk-dijital-subem.ml
@@ -24254,6 +24294,7 @@ msutdedouhrvlipw.com
 msvhost.com
 mswinhostsvc.net
 mswinsoftupdload.design
+msws-updates.ddns.me
 mszwybd.com
 mtcpmpm.com
 mtcprogram.com
@@ -25569,6 +25610,7 @@ noip12344.ddns.net
 noiprat.ddns.net
 noiptt123.myddns.me
 noipxnice.hopto.org
+noir.black
 noiress.xyz
 noirlegacy-panel-1.website
 noise.wildernesshydr8.com
@@ -25834,6 +25876,7 @@ ntp.sysupdates.org
 ntpc-co.com
 ntrbg.com
 ntrysted.com
+ntservicepack-update-microsoft.serveftp.com
 ntservicepack.com
 ntvsy.com
 ntxlg.com
@@ -30041,6 +30084,7 @@ renabic.com
 renaj2.ddns.net
 renavnsc.com
 rendacars.xyz
+render-984.pages.dev
 rendfiles.top
 rendinfo.shop
 rendvault.fashion
@@ -30074,6 +30118,8 @@ replace457.xyz
 replacedoxcjzp.shop
 repo-centos-webstatic-world.securitytactics.com
 repo-centos-webtatic.serveftp.com
+repo-ubuntu-webstatic-world.securitytactics.com
+repo-webtatic-server.servehttp.com
 report436.xyz
 reportbox0.duckdns.org
 reportservicefuture.website
@@ -31619,6 +31665,7 @@ security-check-l2j4.com
 security-check-u8a6.com
 security-confirmation.help
 security-surveillance-cameras-42345.bond
+security-updates-microsoft.servehttp.com
 security.bpfi.digital
 security.digital-ua.digital
 security.rebirth-network.su
@@ -32574,6 +32621,7 @@ sitesafecdn.hopto.org
 sitescope.today
 sithchibb.com
 sitheadrest.top
+sitin.ai
 sitioconectado.com
 sitttieeegitt.site
 situge.top
@@ -33351,6 +33399,7 @@ srsmwpeesh.biz
 sruhsuirghurhgud.net
 srushtiweddings.com
 srv.activesetting.com
+srv.corehost.ddns.net
 srv37746.hosted-by-eurohoster.org
 srvrfontsdrive.xyz
 srxy123.is-a-geek.com
@@ -33969,11 +34018,14 @@ suportecrowdstrike.com
 suportelove.ddns.net
 supple.terdpo.com
 supply-deputy.at.ply.gg
+support-center-freeexchange.ddns.net
+support-center.serveexchange.com
 support-cloud.life
 support-maill.info
 support-onion.club
 support-recoverycustomers.services
 support-securitymail.email
+support-service-update.serveftp.com
 support-ymail-team.online
 support-zoom.us
 support.firewallsupportservers.com
@@ -35465,6 +35517,7 @@ tonmtq.pics
 tony.scriptdemo.top
 tonymaris7342.ddns.net
 tool.zjtool.top
+toolbox.ddns.net
 toolkitapi.xyz
 tools.usersway.net
 toorisugita.ru
@@ -36216,6 +36269,7 @@ tzqjp.com
 tzrlchjis.com
 tzxc3441.xyz
 u.cbu.net
+u.ddns.me
 u.lewd.se
 u.piii.net
 u.raidmedia.com.cn
@@ -36666,6 +36720,7 @@ update-help.com
 update-kaspersky.workers.dev
 update-microsoft.space
 update-now.org
+update-service-host.serveftp.com
 update-symantec.com
 update-teams.live
 update-windows-security.tk
@@ -36762,6 +36817,7 @@ upfqangse.net
 upfsijy.com
 upgrade.ibmlotus.net
 upgrade.newtrendmicro.com
+upgrade.securitytactics.com
 upgrade1linkedin.ddns.net
 upgradegoogle.duckdns.org
 upgradesrv.890m.com
@@ -38713,6 +38769,7 @@ whzducx.com
 wi2ns.com
 wi88w99xo9zlt.life
 wiae5.marioadvisory.my.id
+wibu-bau-bawang.online
 wicall.ir
 wickedneatr.sbs
 widda1.ddns.net
@@ -38792,7 +38849,9 @@ windows-software-downloads.com
 windows-software-updates.cc
 windows-software-updates.com
 windows-update-catalog.serveftp.com
+windows-update.damnserver.com
 windows-updater.com
+windows-updates-check.ddns.net
 windows-wsus-en.com
 windows.cc
 windows.envisionfonddulac.net
@@ -39299,6 +39358,7 @@ www-edevletpandemiyardim-tr.net
 www-edevletpandemiyardim.net
 www-erd-gov-lk.dwnlld.info
 www-erd-gov-lk.nic-svc.net
+www-mfa-gov-tm.dynns.com
 www-microsoftsads.com
 www-mlcrosoft.com
 www-myaccounts-support.000webhostapp.com
@@ -39431,6 +39491,7 @@ www.hawaiiislandmidweek.com
 www.hbjkjc.com
 www.hcsscj.ga
 www.heilongyk.top
+www.helloharmonyos.com
 www.hirokawaunso.co.jp
 www.holidayacrestreefarm.com
 www.homeadditon.com
