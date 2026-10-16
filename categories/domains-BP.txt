@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259523
-# Last change: 2026-10-15 22:24:05 UTC (sync mode: delta)
+# Records: 259528
+# Last change: 2026-10-16 07:15:47 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -57645,6 +57645,7 @@ cepqnbwebsubee.com
 ceprnobilislernistrapp.online
 ceps-e-aktarim-ve-dagitma-tr.com
 ceps-yapikredi.com
+cepsatis-tr.online
 cepservisuygulamam.com
 cepservisuygulamasi.com
 cepservisyukle.com
@@ -160195,6 +160196,7 @@ mediamagaza.online
 mediamarkt-kasim-indirimleri.com
 mediamarkt.firsatlar.shop
 mediamarkt.guvenli-hizmet.online
+mediamarkt.mobil-jet-hizmet.online
 mediamrket.com
 mediantake.info
 mediaora.xyz
@@ -183261,6 +183263,7 @@ pazaraksm56.com
 pazaraktulerrin.click
 pazaralanindayiz.cfd
 pazaralisverisy.com
+pazarama-bireysel-siparisim.com
 pazarama-com-tr.shopsites.shop
 pazarama-com.hizli-guvenli-satin-alim.online
 pazarama-firsaturunleri.com
@@ -187595,6 +187598,7 @@ pttavm-annelergunu.com
 pttavm-arac-sorgulama.web.app
 pttavm-arackilometresorgulama.web.app
 pttavm-arackmsorgulayiniz.web.app
+pttavm-bireysel-siparis.com
 pttavm-bireysel.com
 pttavm-bireyselilan-adresiniz.com
 pttavm-bireyselonline.com
@@ -192001,6 +192005,7 @@ qwwqwqwqqw.duckdns.org
 qwxcqec.duckdns.org
 qwyuxzhbjewqpwqflgsdsd.life
 qx-pttgov.top
+qx7rv2m9.cfd
 qxdenizbank.com
 qxdw-qdxe-fdqgefw.space
 qy-pttgov.top
