@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106705
-# Last change: 2026-10-16 21:16:51 UTC (sync mode: delta)
+# Records: 106708
+# Last change: 2026-10-16 23:42:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17077,6 +17077,7 @@ bumuhugude-reteredese.lol
 bumuhugudeferesede.lol
 bumuhugudereteyse-daerede.lol
 bumuhugudereteyse.lol
+bumuhuguferede-desedede.lol
 bumukemmelbayramfirsatlariaslakacmaz.xyz
 bumukulude-tuyuretese.lol
 bunamasa.cc
@@ -34472,6 +34473,7 @@ fb36660.site
 fbaa-ktlm.online
 fbavarlikmenkul.com
 fbegcc.top
+fbfnsdhcn.click
 fbiabn-svbbesinv1knpanylarinb784.b-cdn.net
 fbid81e3a9b4d520.sbs
 fbidgarantim5465048004506.me
@@ -41644,6 +41646,7 @@ haberler.today
 haberler10978.sbs
 haberler112233.shop
 haberler11237489.sbs
+haberler1124414.sbs
 haberler11278945.shop
 haberler114561.sbs
 haberler123143.sbs
