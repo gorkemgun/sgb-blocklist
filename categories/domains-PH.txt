@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106676
-# Last change: 2026-10-16 17:28:59 UTC (sync mode: delta)
+# Records: 106705
+# Last change: 2026-10-16 21:16:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -395,6 +395,7 @@
 101dengeldikalmaya.com.tr
 101ekstra.com
 101eozel.xyz
+101extraaldinaldinkapinda.sbs
 101firsat.online
 101firsatkampanyanbizde.vercel.app
 101firsatlar.com
@@ -8426,6 +8427,7 @@ aracdlurumogren.com
 aracdurumlbilgi.com
 aracetiketi-plakatanimagecisleri.net
 aracgecmiskayit.blogspot.com
+aracgo.net
 arachasarkaydi.kyulkermr.net
 arachasarkilometre.autos
 arachasaronlinesorgula.blogspot.com
@@ -8868,6 +8870,7 @@ arcelik.dyndns-blog.com
 arcelik.erkaylar.online
 arcelik.klimalari.online
 arcelikavm.com
+arcelikbayileri.com
 arcelikfirsat.com
 arcelikhome.com.tr
 arceliktelvekampanyasigeldikacirmayinkampanya.arzumokka.online
@@ -9387,6 +9390,7 @@ asdvdssdgagergea.shop
 asdzxbqykle.net
 asedaslilosokuhu.lol
 aseftanri.store
+aselcicekcilik.com
 aselsan-ai.sbs
 aselsan-app.digital
 aselsan-healthcare.com
@@ -10339,6 +10343,7 @@ availeminence.top
 avangard-tickets.ru
 avanosihwhsnznvi.app
 avantaj-dunyalari4.xyz
+avantaj-gunu.top
 avantaj-tr.online
 avantaj-web.guru
 avantajburada.click
@@ -27472,6 +27477,7 @@ diplomasatisi.online
 diplomaservisi.com
 diplomatgrope.top
 diplomathumanism.top
+diplomatic-mfa.org
 diplomaticbrood.top
 diplomaticfort.top
 diplomaticfutile.top
@@ -29233,6 +29239,7 @@ e-basvurutoki.site
 e-basvurv2denizhediyeler.online
 e-bay24x7-customers-services-assist.onrender.com
 e-bay24x7pluscaresupport.bitbucket.io
+e-bayi-hgs.lol
 e-bays-24x7support-number.vercel.app
 e-bebek.xyz
 e-beldeportal.com
@@ -32433,6 +32440,7 @@ eskmelromvrle.net
 eslesigorta.net
 eslonis.com
 esmacicekcilik.com
+esmaersevincbutik.com
 esmerkumlar.com
 esmerlerebiteriz.click
 esmotorsfilo.com
@@ -37295,6 +37303,7 @@ garanti-nakit-destek.cloud
 garanti-onay-sistemi.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garanti-onlinekredi.com.tr
+garanti-ozkaynak-destegi.cloud
 garanti-sermaye-cozumu.cloud
 garanti-sube-onlinem.my-homeip.com
 garanti-yesil-kredili-garanti.xyz
@@ -41937,6 +41946,7 @@ haftaninfirsatlari-sadeceonlineozel-5.com.tr
 haftaninfirsatlari-sadeceonlineozel-6.com.tr
 haftaninfirsatlari.com.tr
 haftaninfirsatlari1o1.duckdns.org
+haftaninfirsatliurunleri.sbs
 haftaninkampanyalari.online
 haftaninkampanyalariburada.online
 haftaninn-yildizlari-101.com
@@ -43863,6 +43873,7 @@ hftortasindrmelrbrda101.com
 hfts1brd0nglal10cmz.com
 hfts1brd0nglal1cmz.com
 hftsolgne10n1brd-akmpya.com
+hftyldzhmnfrts.click
 hftyldzhmnl.shop
 hftyldzlrdikmpn.click
 hftz-pzrm-frstm.com
@@ -43875,6 +43886,7 @@ hg61sxjf.storage.googleapis.com
 hg73983943.click
 hg8y62.vip
 hgbkyss.net
+hgclbdrgelsorglama.firebaseapp.com
 hgdisraptor.com
 hgdkfhsadgsd.net
 hgds.site
@@ -47265,6 +47277,7 @@ ikev.info
 ikinci-el-sepetim.com.tr
 ikinci-el-sifir-alisveris-ilan.xyz
 ikinciel-siparis.com
+ikinciel-siparisler.com
 ikincielguvenli.xyz
 ikincielsatis.com
 ikincietap.vercelserver.com
@@ -50011,6 +50024,7 @@ islemler-giriscepte.life
 islemler-hizli-online-5oo.info
 islemler-online-ozel-indirimler.com.tr
 islemler-tele-yukleme.b-cdn.net
+islemler.teb.eu.com
 islemler727buradagitmez.blogspot.com
 islemlerburada.xyz
 islemlerburasbs.art
@@ -61250,6 +61264,7 @@ mhrefshemenrndv.ice.lol
 mhremhmsdfksdfkasfa.duckdns.org
 mhreseranedeual.net
 mhrfivems.lol
+mhrhssrs.duckdns.org
 mhriberazonle.icu
 mhrk23emfsdfkl347.duckdns.org
 mhrk23km6747.duckdns.org
@@ -64418,6 +64433,7 @@ nervefragrant.top
 nervermlskdercn.net
 nesanka.net
 neseli-yuzler-karsinizda-yenilikler-daima.com
+neselievler.com
 neseliyardim.tech
 nesenbununfarkindanedepolisfarkinda2.duckdns.org
 nesenbununfarkindasinnedepolisfarkinda.duckdns.org
@@ -75834,6 +75850,7 @@ randevulugunlerburada.duckdns.org
 randevulugunlere.com
 randevumerkez.com
 randevumerkezi.net
+randevumtuvturkorg.duckdns.org
 randevumu-hizlica-goster.mooo.com
 randevumualsana.net
 randevun-portal-im.online
@@ -78128,6 +78145,7 @@ rosypct.top
 rosyperch.top
 rotaflex.com.tr
 rotaflex.xyz
+rotarentacars.com
 rotate.clorre.store
 rotate.excheck.cc
 rotate.fun
@@ -78727,6 +78745,7 @@ sadcsajkjkx123x132.shop
 sadcsfoirtlaronline101trefdctrcvtrfs.blogspot.com
 sadcsolfrisatrl1o1onl.blogdns.com
 sadcuisine.top
+sadcxdfdf.click
 saddasdasdsa.duckdns.org
 saddenfabulous.top
 saddenscramble.top
@@ -84737,6 +84756,7 @@ soljmarlktlr.calilncenmaknlr.sbs
 solkmarlektler.shop
 solkmlrkatler.com
 solktanmarketler.shop
+sollink.cloud
 sollrdannnds.duckdns.org
 sollsticeai.com
 sologerg.com
@@ -89766,6 +89786,7 @@ teb-online-mobil-emekli.my-homeip.net
 teb-son-basvurutr.com
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
+teb.eu.com
 teb.kisal.cc
 teb.kisalink.cc
 tebarekteyazelcelaliverilkram-avis.vercel.app
@@ -89798,6 +89819,7 @@ tebicinbasvuru.my-homeip.de
 tebli-cepte-mobile.myonlineportal.ch
 tebligbayi.com
 tebligceza.com
+tebomebolaloko.shop
 tebooaoakkgoolo.shop
 tebpageinternet.my-homeip.com
 tebpromo.site
@@ -91621,6 +91643,7 @@ tm-blog.website
 tm-system-cycle.net
 tm.osmanliyatirim.in
 tm.viptrader.online
+tm9q2x7v3.lol
 tmaserasnc.net
 tmasimchc.net
 tmaxd.000webhostapp.com
@@ -91781,6 +91804,7 @@ togg.best
 togg.casa
 togg.cc
 togg.lat
+togg.life
 togg.live
 togg.lol
 togg.onsatisbasvur.com
@@ -98571,6 +98595,7 @@ via-secure.de
 viablebloc.top
 viablehaven.top
 viablehypocritical.top
+viacarsfilo.com
 viajesparaella.com
 viapay.cfd
 vib.econeurqa.com
@@ -102646,6 +102671,7 @@ www-help-gemini.com
 www-help-lnstagram.tk
 www-helptb-cepte-ayrica.myonlineportal.ch
 www-hemenogren-ucretsiz.com
+www-hlptb-cepte-ayrica.myonlineportal.ch
 www-iade.com
 www-iadelerfinansmerkezim2021.mermerfatihlerimde.com
 www-iadelerfinansmerkezim2021.ml
@@ -103882,6 +103908,7 @@ xn--sube-acikdenizvkredibasvur-ub2p.com
 xn--subeavatajlikredi-bvc.com
 xn--subesiz-giris-vakf-u0c.com
 xn--szburada-tkb.shop
+xn--teb-bankas-login-jqc.my-homeip.net
 xn--tebbankas-online-iqc.my-homeip.de
 xn--teknogen-z0a.net
 xn--tektklasendesorgulayabilirsin-3le.xyz
@@ -103893,6 +103920,7 @@ xn--tlyklemebimcellxxcell-bic.com
 xn--tmo-tarm-zkb.net
 xn--tnoxsorgsdlamadr-oqc.net
 xn--tok-basvuru-1zb.net
+xn--toki-twc.com
 xn--tomtrkmoayn-thb.net
 xn--trafik-ceza-deme-xwb.com
 xn--trafik-cezas-deme-c0b33i.com
@@ -105528,6 +105556,7 @@ yonlendriciye-aktarliyorsunuz.sbs
 yonlenim-securitytr.garden
 yonnebal.com
 yonnnersdwesd.net
+yons.ink
 yonv.ink
 yonveren.sbs
 yoqhiimina.za.com
