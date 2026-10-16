@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41486
-# Last change: 2026-10-15 18:20:30 UTC (sync mode: delta)
+# Records: 41524
+# Last change: 2026-10-16 12:32:25 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -953,6 +953,7 @@
 3z.nu
 3zer0.com
 4-u.wtf
+4.ddns.me
 40031.co
 404.008php.com
 404.300bt.com
@@ -1201,6 +1202,7 @@
 5z.pm
 6-1321729461.cos.ap-guangzhou.myqcloud.com
 6-express.ch
+6.ddns.me
 6001dc.ddns.net
 6006.secpert.com
 6006.upupdate.cn
@@ -1335,6 +1337,7 @@
 6z98os.id597.link
 6zs1njbw.ml
 7-eleven-hr.com
+7.ddns.me
 701273316.dfgqdsd.ru
 704911833.dfgqdsd.ru
 706526125.dfgqdsd.ru
@@ -2297,6 +2300,7 @@ adlliran-ir.ml
 adllirani.ml
 adllliran.ml
 adlvanced-ip-scanner.com
+adm-govuz.com
 adm01010.ddns.net
 admarkam1.com
 admi2fib4exit.com
@@ -3015,6 +3019,7 @@ alanadimipandiklemesene.com
 alanavieira.online
 alansandle2ni.website
 alarabiye.net
+alashsec.hopto.me
 alayanizikitabinismokakao.club
 alayinizamaloakaliyter.club
 albahasereilaclamasi.site
@@ -3171,6 +3176,7 @@ allcallpush02.com
 allcallpush09.com
 allcallpush12.com
 allcallpush15.com
+allcloudindex.com
 allcompanycenter.com
 allcracks.org
 alldus-servicenow.com
@@ -5293,6 +5299,7 @@ bbrz.ilz840.com
 bbs.topigsnorsvin.com.ec
 bbs.trumproot.com
 bbs.uqauv.cn
+bbsteknoloji.com
 bbtplus.com
 bbvoyage.com
 bbw.fushing.org
@@ -7262,6 +7269,7 @@ castrolascotools.us
 castso.com
 castyperg.pughtekto.ru
 casualenglishchat.com
+catalog-update-update-microsoft.serveftp.com
 catalogreference.comv
 catalogs-amounts-functions-chicago.trycloudflare.com
 catalogs.dailydownloads.net
@@ -8821,6 +8829,7 @@ cordellvalentine.com
 cordinex.io
 corecloudfileshare.xyz
 coredeal2.vercel.app
+corehost.ddns.net
 corelib.hopto.org
 coremailxt5mainjsp.com
 coretelin.ml
@@ -11636,6 +11645,7 @@ easydriverservice.com
 easyentry.vip
 easyfwdr.digital
 easyjoy.me
+easyllms.xyz
 easyman.ddns.net
 easymarketing101.com
 easyonestartpdf.com
@@ -12013,6 +12023,7 @@ elegelhg.watch
 elejoi11vt.top
 elektraal.duckdns.org
 elektrikabidesi.b-cdn.net
+elementsplugin.duckdns.org
 elementzone.shop
 elemterekeyfe.com
 elephant.zzux.com
@@ -12211,6 +12222,7 @@ enginedeligonul5.com
 engineeringrssfeed.azurewebsites.net
 engineeringssfeed.azurewebsites.net
 english-breakfast.xyz
+english.read-books.org
 englishdialoge.xyz
 englishdict.xyz
 englishedu-online.com
@@ -13557,6 +13569,7 @@ file-share-every-fun.com
 file-share.officeweb.live
 file-share.works
 file-zilla-projectt.org
+file.archat.us
 file.onedrivecloud.store
 file.wonderbackup.com
 fileaccesscenter.com
@@ -15640,6 +15653,7 @@ gprmkht.com
 gpsamsterdamqroup.com
 gpt4chrome.live
 gpt4summary.ink
+gptbot.sytes.net
 gptc.m1m1mapi.com
 gptdetector.live
 gptforads.info
@@ -16904,6 +16918,7 @@ hoguyum.com
 hoieva2gl9tzx.life
 hokkoriidol.com
 holarty.com
+holdboost.store
 holdf.com
 holdmem.dbhubspi.com
 holdonz.pics
@@ -17799,6 +17814,7 @@ inam.ddns.net
 inastra.online
 inblensa.ddns.net
 inbox-admin.site
+inboxsession.info
 inboxsync.org
 inc.graceneufville.com
 incapable214.xyz
@@ -18694,6 +18710,7 @@ iyft.net
 iyglxtoeoutpksn.com
 iyibirsaglikicinsosyalmasafekoru.online
 iylqvmygkw.duckdns.org
+iymkjuzymkapovrntoxy.supabase.co
 iyrcnlotju.org
 iywhite.com
 iywlrfgao.com
@@ -20158,6 +20175,7 @@ kirlwfkydz.ephotose.ru
 kirmizibaliknaber.info
 kirmizibasliklikizinammmm.com
 kirmizibeyazfiltre.com
+kiro.cheap
 kirpassucuk.site
 kirraadd444.top
 kirute.com
@@ -22491,6 +22509,9 @@ mailerdaemon.info
 mailerdaemon.online
 mailgoogle.info
 mailinfo-bh.com
+mailkeyboard.com
+maill.ddns.net
+maill.loginto.me
 mailmofagovmm.mofa.email
 mailnavybd.govpk.net
 mailnavymilbd.govpk.net
@@ -22604,6 +22625,7 @@ manage-facetimeidms.datastatistics.nl
 manage.biteupdates.site
 manageadservice.com
 managebrown.weebly.com
+managedkafka.heyhru-server.cloud.goog
 managedkv.com
 managementdirector.com
 manager-encrypt-support-account.42web.io
@@ -23281,6 +23303,7 @@ mgmsclkyu.biz
 mgmt.studerandson.us
 mgrjsopf.com
 mgrvnwtaqrzsdrv.org
+mgsend.org
 mgtezvhip.com
 mgud2xd.ddns.net
 mgw.mobi
@@ -23373,6 +23396,7 @@ microsoft-single.ddns.net
 microsoft-store-drm-server.com
 microsoft-support.net
 microsoft-telemetry.ru
+microsoft-update-catalog.servehttp.com
 microsoft-update.support
 microsoft-update10v.amazonaws1.info
 microsoft-updateserver.cf
@@ -23595,6 +23619,7 @@ mirka-sg.com
 mirlescesa.xyz
 miromirion.ddns.net
 mirotalk.net
+mirror-centos-vault.serveftp.com
 misbahbravo79.xyz
 misc-elliott-mouth-leading.trycloudflare.com
 misc-pili-qos-report.qiniuapi.com
@@ -24174,6 +24199,7 @@ msdntoolkit.com
 msdosnline.com
 mse.theworkpc.com
 msedeapi.net
+msedge-api-cdp-microsoft.serveftp.com
 msf-console.com
 msf-edge.com
 msfre.top
@@ -24647,6 +24673,7 @@ n79ye83au4268.com
 n8.ahnlabinc.com
 n877o.0unpol.com
 n8n-license-validator.onrender.com
+n8nbot.sytes.net
 n98erejcf9t.com
 n9back366.stream
 n9zph.lw8opi.com
@@ -24765,6 +24792,7 @@ narudina.com
 narujiapo.com
 narutoanimes.com
 naruton016.ddns.net
+naryncity.kg
 narzieo9.beget.tech
 nas231.duckdns.org
 nasabinasabiyiiii.cyou
@@ -30044,6 +30072,8 @@ repiong.info
 repjyrpuqfhmqyi.su
 replace457.xyz
 replacedoxcjzp.shop
+repo-centos-webstatic-world.securitytactics.com
+repo-centos-webtatic.serveftp.com
 report436.xyz
 reportbox0.duckdns.org
 reportservicefuture.website
@@ -34641,6 +34671,7 @@ tele-latino.com
 tele-sync.opik.net
 telecom.longvn.net
 telecom.manlish.net
+telecommand-telemetry-microsoft.servehttp.com
 telecomoperatinggoodnewserverfortransfersecurefileinternatioanl.ydns.eu
 telecomwl.com
 teledomn.quest
@@ -34733,6 +34764,7 @@ terane.ml
 terane.tk
 tercard.com
 tercih-senin12.net
+terea.serveexchange.com
 terex199221.xyz
 tericathwayake.xyz
 term-restore-satisfied-hence.trycloudflare.com
@@ -38734,6 +38766,7 @@ winautordr.kozow.com
 winautordr.ydns.eu
 winchecking.com
 wincloudservice.com
+wincorpupdates.com
 wind.windmilldrops.com
 wind0ws.ddns.net
 wind0ws.kz
@@ -38748,14 +38781,17 @@ windous.kz
 windowallclean.com
 windows-10-update-assistant.com
 windows-app.store
+windows-config-update.myddns.me
 windows-downloads-app.com
 windows-msg-as.live
 windows-patch.ml
 windows-patch.tk
 windows-rars.shop
+windows-rms.servehttp.com
 windows-software-downloads.com
 windows-software-updates.cc
 windows-software-updates.com
+windows-update-catalog.serveftp.com
 windows-updater.com
 windows-wsus-en.com
 windows.cc
@@ -38787,6 +38823,7 @@ windowssystem.ddns.net
 windowssystem32.ddns.net
 windowstap.duckdns.org
 windowstearns.com
+windowsupdate-microsoft-com.servehttp.com
 windowsupdate.me
 windowsupdate.s.llnwi.net
 windowsupdate.sytes.net
@@ -40312,6 +40349,7 @@ yanardunya06.com
 yanarimsana.com
 yancommato.com
 yancy.ddns.net
+yandex-cloud.ddns.me
 yandex.hopto.org
 yandimsana.com
 yandx-online.cloud

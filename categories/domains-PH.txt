@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106649
-# Last change: 2026-10-16 07:15:47 UTC (sync mode: full)
+# Records: 106657
+# Last change: 2026-10-16 12:32:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6894,6 +6894,7 @@ allahivergi.net
 allahkurtarsin-dostumguvercin34.cloud
 allahnzpara.net
 allahtapu.xyz
+allahvar1.duckdns.org
 allaniziyereindirrimlan.site
 allardsdb.com
 allareasbnnance.monster
@@ -9255,6 +9256,7 @@ arxsdmuynesrvlerinex.net
 arzssrtwt.com
 arzumbaharindirimi.com.tr
 arzumindirimww.duckdns.org
+arzumindrimszznlex.com
 arzummaknneindrm.com
 arzumokka.online
 arzumtblenn.com
@@ -27807,6 +27809,7 @@ divispower.chelseasosa.com
 divorcechalk.top
 divorcediesel.top
 divorcestoop.top
+divpre.top
 dixugoz.com
 diyanetadak.com
 diyanetelleri.org
@@ -45136,6 +45139,7 @@ hlznarandvlar.com
 hlzrndlsa.com
 hm91vy.xdk8ax.cn
 hmansahsmnashamnsahmnsahmashns99.space
+hmbdosya.org
 hmbgovtr.info
 hmbkxcbv.art
 hmbmaliye.org
@@ -80924,6 +80928,7 @@ secbrowsingate.com
 secbrowsingsystems.com
 seccure-sahibinden.com
 secessderoper-rsvaids.com
+secgeldiavm.com
 sechure-sahhibimnden-com-param-guvendeodeme-yap.tk
 seciliurunlerdesinirlisayii.sbs
 secimdenonce.net
@@ -85814,6 +85819,7 @@ sponsorlu-91.online
 sponsorlu-95.online
 sponsorlu-96.online
 sponsorlu-98.online
+sponsorlu-ads.online
 sponsorlu-cekilis.online
 sponsorlu-cekilisler-paribu.live
 sponsorlu-cekilisler.live
@@ -92196,6 +92202,7 @@ toplu-gecisler.store
 toplu-gecisler.xyz
 toplu-konut-idaresi-basvurunuzu.vercel.app
 toplu-konut-idaresi-basvurusu.vercel.app
+toplu-konut.com
 toplu-konut.gravitycl.app
 toplu-konut.sbs
 toplubloklar.vercelserver.com
@@ -101297,6 +101304,7 @@ winnerexpect.top
 winnermilestone.top
 winnersarcastic.top
 winnertreasure.store
+winnerzo.com
 winnewmobilephone.store
 winredirect.com
 winride.gifts
