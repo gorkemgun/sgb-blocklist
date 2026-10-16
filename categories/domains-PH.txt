@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106636
-# Last change: 2026-10-15 22:24:05 UTC (sync mode: delta)
+# Records: 106641
+# Last change: 2026-10-16 01:25:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11911,6 +11911,7 @@ basvurulariniaslasman.sbs
 basvurularinitamamlar.sbs
 basvurulariniz.myonlineportal.de
 basvurulariniz.sbs
+basvurularinla.logwayaceite.cfd
 basvurulariyap.net
 basvurularkabulceteleem.com
 basvurularkampanyafirsatibance.tech
@@ -19059,6 +19060,7 @@ ceptegirisinizdecebinizde.b-cdn.net
 ceptehaziranozel.shop
 ceptehizlimenulerss.store
 ceptehizlinakit.nettc.cc
+cepteindirim.org
 ceptemarketimsok.com
 ceptemarketsanal101.xyz
 ceptemarketsokkampanya.site
@@ -41702,6 +41704,7 @@ haberler4422424.shop
 haberler443198.sbs
 haberler45171154.sbs
 haberler452344.sbs
+haberler453108794.sbs
 haberler4561.sbs
 haberler456289.sbs
 haberler463221.sbs
@@ -53443,6 +53446,7 @@ kdnkmq.top
 kdpnmq.top
 kdprmn.top
 kdpwmz.top
+kdsskdgks-kdgssgk-dsghfhdssd.icu
 kdtrmh.top
 kdtsms.top
 kdtzml.top
@@ -91744,6 +91748,7 @@ togg-satisi.cfd
 togg.101kapimda.com
 togg.bar
 togg.best
+togg.casa
 togg.cc
 togg.live
 togg.lol
