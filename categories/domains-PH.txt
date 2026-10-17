@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106748
-# Last change: 2026-10-17 19:30:41 UTC (sync mode: delta)
+# Records: 106762
+# Last change: 2026-10-17 22:24:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9367,6 +9367,7 @@ asdhjhjdasfhj.net
 asdkamzjcsj.net
 asdkatilimlarniz2023.com
 asdkfe3daf.duckdns.org
+asdkjfrnwjfe.duckdns.org
 asdklkjasjfa.com
 asdklmklwqmklm34637.duckdns.org
 asdkmi.mom
@@ -19042,6 +19043,7 @@ cepfirsat.online
 cepiad-epari-bu.com
 cepismtannd.top
 cepkotnroykleme.net
+ceplte-sok.lol
 cepltesolkmalrktl.lol
 cepnumaratasima.com
 ceppptesokklarli.online
@@ -19152,6 +19154,7 @@ ceremonydenounce.top
 ceremonypoise.top
 ceremonyweariness.top
 cerencans.duckdns.org
+cereretede-serederete.lol
 ceretese-derersede.lol
 cerinor.com
 cermoldeef.com
@@ -37322,6 +37325,7 @@ garanti-onay-sistemi.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garanti-onlinekredi.com.tr
 garanti-ozkaynak-destegi.cloud
+garanti-parasal-cozum.cloud
 garanti-sermaye-cozumu.cloud
 garanti-sube-onlinem.my-homeip.com
 garanti-yesil-kredili-garanti.xyz
@@ -41709,6 +41713,7 @@ haberler2025.tk
 haberler2153212.com
 haberler2223399.sbs
 haberler223522.sbs
+haberler23142135.sbs
 haberler231542423.online
 haberler23232.shop
 haberler233434123.shop
@@ -43963,6 +43968,7 @@ hgs-bakiyeyukleme.com
 hgs-bl.com
 hgs-dolumbayisi-hizmetleri.tk
 hgs-doolum-ptt.fun
+hgs-e-bayi.lol
 hgs-epttavm-bakiyesi3.ml
 hgs-hausmeisterservice.de
 hgs-hemengirisimiyapipbakiyemiyukluyorum.tk
@@ -47528,6 +47534,7 @@ ile-kolay-odeme-kismi.com
 ile-netalisverisimiz.com.tr
 ile-ode.fun
 ile-odeme-yonetim.com
+ile-odemeyi-tamamlayin.com
 ile-odeyin.fun
 ile-onay-ilan.com
 ile-onay-sepete.com
@@ -55102,6 +55109,7 @@ koprugecis.2kool4u.net
 kopruluislemler.com
 kopruotoyol-odeme-sorgulama.ga
 koprusigorta.site
+kopukluj.hali-yiklamasi.lol
 koranixul.com
 koravelo.sbs
 korayhegese.arabamuayenesi.xyz
@@ -61362,6 +61370,7 @@ mhrsmlxmxl.com
 mhrsmsmhsxzwshshn.net
 mhrsmsxlm.com
 mhrsonlinebasvuru.duckdns.org
+mhrsonlnesd.sbs
 mhrsortakgiris.co.vu
 mhrsportalvatandasgiris.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
@@ -61433,6 +61442,7 @@ mhsraca.sbs
 mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
+mhsrakog.sbs
 mhsrakoga.biz
 mhsrakoga.lol
 mhsrakoga.sbs
@@ -75894,6 +75904,7 @@ randevunevei.online
 randevunilosm.online
 randevunlms.online
 randevunoktasi.com
+randevuntuvturkorg.duckdns.org
 randevunualsirabeklemeyeartikson.net
 randevunubelirle.com
 randevununkolay.com
@@ -85899,6 +85910,7 @@ sponsorlu-cekilisler-paribu.live
 sponsorlu-cekilisler.live
 sponsorlu-cekilisler.online
 sponsorlu-firsat.online
+sponsorlu-firsatlar.online
 sponsorlu-icerik.name.tr
 sponsorlu-kura.online
 sponsorlu-market.xyz
@@ -95454,6 +95466,7 @@ tuvturksyeni.com
 tuvturktoog.com
 tuvturkummuayene.net
 tuvturkunuz.net
+tuvturkx.com
 tuvturkyt.com
 tuvturkyys.com
 tuvturrk-muayene.com.tr
@@ -105204,6 +105217,7 @@ yikildiikti.xyz
 yikiliyodnyamaskindann.click
 yil-snu-flrstlri-a1-01den.cfd
 yil68ozelvkf.com
+yilandaginakaryagmisbabus.com
 yilbasi-firsatlari.name.tr
 yilbasi-mujdesi-denizuyelere.ml
 yilbasi-mujdesi-denizuyelere.tk
