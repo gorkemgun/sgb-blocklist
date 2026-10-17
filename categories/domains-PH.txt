@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106727
-# Last change: 2026-10-17 09:27:11 UTC (sync mode: full)
+# Records: 106736
+# Last change: 2026-10-17 13:46:37 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -229,6 +229,7 @@
 101-extra-mobil-indirimli-urunler-sadece-bugune-ozel-tr.hemenkap.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-shop-indirimleri.uygundepo.online
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
 101-extra-mobil-sadece-bugune-ozel-cep-indirimleri-tr.cepsel-viptr.online
 101-extra-mobil-sadece-bugune-ozel-cepte-indirim-sepeti-tr.eshops-mobile.online
@@ -6604,6 +6605,7 @@ aldinaldinkampanyaliredmiyeri.cfd
 aldinaldinkampanyaliredmiyerleri.cfd
 aldinaldinkampanyaliredmiyerleri.sbs
 aldinaldinkapinda.com
+aldinaldinkapinda.sbs
 aldinaldinkatalog.club
 aldinaldinonline.com.tr
 aldinaldinramazan.shop
@@ -31231,6 +31233,7 @@ emajartjournal.com
 emakihabar24.lovable.app
 emaleblunder.top
 emaliasliye.com
+emaliuyap.com
 emaliyebildirim.org
 emaliyebtk.com
 emaliyecbs.org
@@ -33083,6 +33086,7 @@ everyinit.com
 everykampanyabasvurusugoodmorning.net
 everythingfort.top
 everywhereyacht.top
+evetsizdegelinn.sbs
 evevetrdyg-0112s.online
 evex1pagevip.cfd
 evgeniy-grishkovets.com
@@ -61417,6 +61421,7 @@ mhsraaggwd.site
 mhsraca.cfd
 mhsraca.sbs
 mhsraca.site
+mhsrakog.cyou
 mhsrakog.lol
 mhsrakoga.biz
 mhsrakoga.lol
@@ -74167,6 +74172,7 @@ pttavm-oto-kontrol.firebaseapp.com
 pttavm-oto-kontrol.web.app
 pttavm-s.bireysel-satis.com.tr
 pttavm-siparis.ile-guvenlice-web-tr.com
+pttavm-siparisim.ile-guvenlice-web-tr.com
 pttavm.alisveris-secure-odeme.com
 pttavm.alisverishazir.com.tr
 pttavm.alisverisiimguvenliisatis.com.tr
@@ -74227,6 +74233,7 @@ pttavm.sepetkontrol.com.tr
 pttavm.sepette-tr.com
 pttavm.shop
 pttavm.siparis-onay-7269.com
+pttavm.siparis-onay-7712.com
 pttavm.siparis-onayli-115520.com
 pttavm.siparis-onayli-115522.com
 pttavm.siparisguvencesi.com.tr
@@ -77968,6 +77975,7 @@ rndvalmazmni.cfd
 rndvalvode.cfd
 rndvdanismanlik.org
 rndvhziemstlrlndmr.store
+rndvklyal.cfd
 rndvpassport.b-cdn.net
 rndvu-nvi.org
 rndvualim-7f474132cba2.herokuapp.com
@@ -79080,6 +79088,7 @@ sahibinden-get.mobilservisler-64.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
+sahibinden-get.mobilservisler-82.sbs
 sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-14.sbs
 sahibinden-get.mobilservisleriniz-16.sbs

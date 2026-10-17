@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 475080
-# Last change: 2026-10-17 09:27:11 UTC (sync mode: full)
+# Records: 475093
+# Last change: 2026-10-17 13:46:37 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2122,6 +2122,7 @@
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-firsati-tr.hesaplishop-tr.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirimi.avantajvar-tr.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-shop-indirimleri.uygundepo.online
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
 101-extra-mobil-sadece-bugune-ozel-cep-indirimleri-tr.cepsel-viptr.online
 101-extra-mobil-sadece-bugune-ozel-cepte-indirim-sepeti-tr.eshops-mobile.online
@@ -42947,6 +42948,8 @@ aldinaldin101tr.store
 aldinaldin101turkey.online
 aldinaldin101turkiye.online
 aldinaldin1453.duckdns.org
+aldinaldin1454.duckdns.org
+aldinaldin1455.duckdns.org
 aldinaldin15ekimozel.com
 aldinaldin1o1firsat.com
 aldinaldin21aralik.shop
@@ -43133,6 +43136,7 @@ aldinaldinkapidafrsat1o1.com
 aldinaldinkapinda-101.shop
 aldinaldinkapinda.com
 aldinaldinkapinda.org
+aldinaldinkapinda.sbs
 aldinaldinkatalog.biz
 aldinaldinkatalog.click
 aldinaldinkatalog.club
@@ -97550,6 +97554,7 @@ carrefrsaonline.cfd
 carreftoursa.store
 carrefuorasonline.cfd
 carrefuorsa-alisveris.online
+carrefuorsa.sbs
 carrefurosa.online
 carrefxouur-0nline.duckdns.org
 carrefxur-sa.dvrlists.com
@@ -151246,6 +151251,7 @@ emakverg.blogspot.com
 emaleblunder.top
 emaliasliye.com
 emalidosyasorgu.com
+emaliuyap.com
 emaliye-aidat.ml
 emaliye.com
 emaliye.net
@@ -159446,6 +159452,7 @@ evet-dedik-iletisimaktar-hizmetleri.sbs
 evetabi.click
 evetandascumhurbaskanligi.net
 evetgercektenoyle.click
+evetsizdegelinn.sbs
 eveverify.com
 evevetrdyg-0112s.online
 evevevelvelllllve.net
@@ -277841,6 +277848,7 @@ maliportaltr.org
 malirandevu.com
 malisorgu.net
 malisorgu.org
+malisorgulama.com
 malisorgulama.org
 malisorgusistem.com
 malisorgutc.org
@@ -284794,6 +284802,7 @@ mhsraaggwd.site
 mhsraca.cfd
 mhsraca.sbs
 mhsraca.site
+mhsrakog.cyou
 mhsrakog.lol
 mhsrakoga.biz
 mhsrakoga.buzz
@@ -337813,6 +337822,7 @@ pttavm-sepette.com
 pttavm-siparis.com
 pttavm-siparis.ile-guvenlice-web-tr.com
 pttavm-siparisim.com
+pttavm-siparisim.ile-guvenlice-web-tr.com
 pttavm-tr.com
 pttavm-tramer-km-sorgu.web.app
 pttavm-urun.com
@@ -338120,6 +338130,7 @@ pttavm.siparis-guvenliodeme.com
 pttavm.siparis-olustur-223031.com
 pttavm.siparis-olustur-223037.com
 pttavm.siparis-onay-7269.com
+pttavm.siparis-onay-7712.com
 pttavm.siparis-onay-guvende.com
 pttavm.siparis-onayli-115520.com
 pttavm.siparis-onayli-115521.com
@@ -352670,6 +352681,7 @@ rndvdanismanlik.org
 rndvdesesrbrda.net
 rndvhziemstlrlndmr.store
 rndvhziemtlrlndmr.store
+rndvklyal.cfd
 rndvlahzmetler.com
 rndvmhrsalmlsnbr.cfd
 rndvmix.b-cdn.net
@@ -357630,6 +357642,7 @@ sahibinden-get.mobilservisler-64.sbs
 sahibinden-get.mobilservisler-66.sbs
 sahibinden-get.mobilservisler-70.sbs
 sahibinden-get.mobilservisler-71.sbs
+sahibinden-get.mobilservisler-82.sbs
 sahibinden-get.mobilservisler-84.sbs
 sahibinden-get.mobilservisler-89.sbs
 sahibinden-get.mobilservisleriniz-11.sbs
