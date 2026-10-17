@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106708
-# Last change: 2026-10-16 23:42:00 UTC (sync mode: delta)
+# Records: 106713
+# Last change: 2026-10-17 04:35:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1413,6 +1413,7 @@
 2026evfirsati.sbs
 2026guncelsorgular.life
 2026ilkevim.com.tr
+2026kasim2026.click
 2026konutbasvurum.sbs
 2026olympics.shop
 2026tr.xyz
@@ -19033,6 +19034,7 @@ cepfirsat.online
 cepiad-epari-bu.com
 cepismtannd.top
 cepkotnroykleme.net
+cepltesolkmalrktl.lol
 cepnumaratasima.com
 ceppptesokklarli.online
 cepsel-viptr.online
@@ -38669,6 +38671,7 @@ ghassociates.co.in
 ghfdkljgklf1.top
 ghfnerbqwebqwebythrn.click
 ghhmnnnbvc.art
+ghhmnnnvc.art
 ghighestrisk.top
 ghjasdhasd.net
 ghjklds.b-cdn.net
@@ -63801,6 +63804,7 @@ mzlofalolpia.com
 mzlslal-mxlsal-mxlsla.cfd
 mzlslal-mxlsal-mxlsla.sbs
 mzxkpwqf-sagkpqwdag-wkqpgdshds.icu
+mzxkpwqf-sagkpqwdag-wkqpgdshds.top
 mzzmrglelesenlelehmn.net
 n-ational-australia-online.com
 n-i-s-a.net
@@ -78355,6 +78359,7 @@ ruhsuzpanel2.website
 ruhsuzpanel3.website
 ruhsuzpanel3.world
 ruhsuzpanel3169.world
+ruhsuzpanel3250.website
 ruhsuzpanel4.world
 ruhsuzpanel4458.world
 ruhsuzpanel5.site
