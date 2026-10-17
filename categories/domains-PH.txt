@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106713
-# Last change: 2026-10-17 04:35:33 UTC (sync mode: delta)
+# Records: 106727
+# Last change: 2026-10-17 09:27:11 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17739,6 +17739,7 @@ cabukherkseburdaaldnsendegelal.info
 cacacaa.dravencia.sbs
 cacacax.click
 cacavavacq.duckdns.org
+cacbolokoloabobo.cyou
 cactuscarbon.top
 cactusentry.com
 cadirdunyasii.store
@@ -36800,6 +36801,7 @@ frsthmnbrdna.shop
 frsthmnsendcvd.shop
 frstkkklamnaa.com
 frstkklmn.com
+frstkmpny.shop
 frstkmpnysans.shop
 frstlar-heran-burada.com
 frstlaricnsongunlr1o1.xyz
@@ -36822,6 +36824,7 @@ frstlrrrsnnnkmpnyaabsvrrkred.info
 frstlrrrsnnnkmpnyaabsvrrkred.pro
 frstlrrsonnbsvrrkmpnyaa965849.online
 frstmbssgfgs.blogspot.com
+frstmlkklcsd.shop
 frsttlari-kacrmaaa-klmaci.com
 frsttlrrrkmpnyaabsvrrrrsonnnn.online
 frsttlsnbsvrrkmponyaa128549.online
@@ -43385,6 +43388,7 @@ hemenislemnoktasnin.net
 hemenislemosnutlktaktan.blogspot.com
 hemenislmatknas.net
 hemenislmkntokas.net
+hemenislmnktasia.net
 hemenislmokntai.net
 hemenislntknaslna.net
 hemenislslsonucsb.online
@@ -45218,6 +45222,7 @@ hmnismlntans.net
 hmnkgshgv.com
 hmnkhfhdfbc.com
 hmnkmpnyabrdaa.xyz
+hmnkmpsnde.shop
 hmnknlrnasn.net
 hmnkpiya1o1.com
 hmnkytolbsvrbrada.com
@@ -53598,6 +53603,7 @@ kelmixon.surf
 kelmorath.shop
 kelmoxi.buzz
 kelmoxi.forum
+kelsjfskds.shop
 kelspar.shop
 kelunixor.com
 kelvinchecker.duckdns.org
@@ -54443,6 +54449,7 @@ kloupfenst.pro
 klourfin.com
 klowtron.com
 klpcomarlabasvuru.com
+klsamdass.shop
 klsdakel.duckdns.org
 klsmamaa-amsma-amdmsa.cfd
 klsorgalk.com
@@ -67130,6 +67137,7 @@ ofkarayolugecsonle.com
 ofkedoluptasiyorken.click
 ofredstyle.top
 ofs-l-istatistik.myonlineportal.ch
+ofsfdfsdfdsffvvs.shop
 oftenpuzzle.top
 oftentimessceptical.top
 oftentimessensation.top
@@ -74291,6 +74299,7 @@ pttawmkmsorgulamam.shop
 pttawmshgs.com
 pttayak.top
 pttbak.com
+pttbakiye.vercel.app
 pttbazaar.online
 pttbgov.xyz
 pttbi.xyz
@@ -89827,6 +89836,7 @@ tebicinbasvuru.my-homeip.de
 tebli-cepte-mobile.myonlineportal.ch
 tebligbayi.com
 tebligceza.com
+teboagoo.sbs
 tebomebolaloko.shop
 tebooaoakkgoolo.shop
 tebpageinternet.my-homeip.com
@@ -91634,6 +91644,7 @@ tlr-finans.com
 tlsademelerinizsleyim.net
 tlsdowwkeler.net
 tltfllffglyn.shop
+tltlankan.net
 tltlllglyn.shop
 tlttlfglyn.shop
 tlyklmlrmm.org
@@ -102615,6 +102626,7 @@ www-cepte-web-tb.myonlineportal.ch
 www-ceptede-tb-ayricalik.myonlineportal.ch
 www-ceptekapida-marketin.com
 www-ceptetb-repstr.myonlineportal.ch
+www-cepteteb-ayricalik.my-homeip.de
 www-cepteteb-com-tr-basvuru.my-homeip.de
 www-cepteteb-com-tr-firsatlar.my-homeip.de
 www-cepteteb-com-tr-promosyon.my-homeip.de
@@ -106461,6 +106473,7 @@ zmrdeglsndeonlinx.net
 zmrfdkdfdk.online
 zmrkaryklmen.net
 zmrmizlegelbzlerle.net
+zmrskdjasfd.shop
 zmskartleyukle.net
 zmvevj.cc
 zo34vtors.com
@@ -106512,6 +106525,7 @@ zorakelim.sbs
 zorakichecker.com.tr
 zorakichecker.online
 zoralunix.cyou
+zoraptly.com
 zorat.store
 zoraxta.com
 zoreek.store
