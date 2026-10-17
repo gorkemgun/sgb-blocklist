@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106746
-# Last change: 2026-10-17 17:16:00 UTC (sync mode: delta)
+# Records: 106748
+# Last change: 2026-10-17 19:30:41 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -381,6 +381,7 @@
 101aktuelfirsatlarikapindacomtr.vercel.app
 101aktuelmarketleri.com
 101alcn3.com
+101aldinextrakapidan.sbs
 101alimlariburadanyapiliyor.cfd
 101alimlariburadanyapiliyor.sbs
 101alisveris.com
@@ -63289,6 +63290,7 @@ muhugilipolisedere.club
 muhugudu-polililili.lol
 muhugudueresede-afderese.lol
 muhuguferedeliseli.lol
+muhugufu-reteyeuy.lol
 muhyvau.com
 muiipaiydiplent.top
 mujdecicek.com
