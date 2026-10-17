@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106736
-# Last change: 2026-10-17 13:46:37 UTC (sync mode: delta)
+# Records: 106746
+# Last change: 2026-10-17 17:16:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -300,6 +300,7 @@
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
+101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
@@ -1415,6 +1416,7 @@
 2026guncelsorgular.life
 2026ilkevim.com.tr
 2026kasim2026.click
+2026kasim2026onayli.duckdns.org
 2026konutbasvurum.sbs
 2026olympics.shop
 2026tr.xyz
@@ -9214,6 +9216,7 @@ artikdahagucluyuz.xyz
 artikherkessinsende.net
 artikherskdsedsd.net
 artikkatildiburdaherkescabukbak76.site
+artikyalanyokye.sbs
 artilleryparish.top
 artilleryshepherd.top
 artintolight.com
@@ -17000,6 +17003,7 @@ buhayatbenicokyordu6.click
 buhu-guhuludese.lol
 buhugereteyesede.lat
 buhugu-hurehugedere.lol
+buhugugu-fefererede.lol
 buhulukuge-redetpioli.lol
 buhuyutr-deresedere.lol
 build-making-global.net
@@ -25540,6 +25544,7 @@ degerodaklari.com
 degerodasi.com
 degerplatformu.com
 degerska.ml
+degilmii.sbs
 degisen-bisey-yok-derin-hayatinizin-gorup-gelecaksin.com
 degisen-yok-hala-ayni-hisler-devam-ediyor.com
 degisim-kredi.com
@@ -31233,6 +31238,7 @@ emajartjournal.com
 emakihabar24.lovable.app
 emaleblunder.top
 emaliasliye.com
+emalidosya.com
 emaliuyap.com
 emaliyebildirim.org
 emaliyebtk.com
@@ -42576,6 +42582,7 @@ havalimanikralama.com.tr
 havalimaniotokirala.net
 havalisdwsd.net
 havas6666.com
+havaxistis.online
 havenaffiliate.top
 havenaura.click
 havenaurasprings.com
@@ -44763,6 +44770,7 @@ hizlialimservisi.com.tr
 hizlialisverimizde.space
 hizlialisverislerim.com
 hizlialisverismerkezisadecea101de.duckdns.org
+hizlianlikserilkampanyalarimburada.xyz
 hizliaracadreseteslimat.online
 hizliaracbzdolabi.xyz
 hizliaracinikirala.com
@@ -53196,6 +53204,7 @@ kartimdeniz-2023.net
 kartistanbul.org
 kartkapisi.com
 kartpazar-d23aj13.web.app
+kartulisuperi.duckdns.org
 kartyuklemehizmetinizz.net
 kartyyklleme.net
 karun-vakfi.com
@@ -74092,6 +74101,7 @@ ptt.govsm.homes
 ptt.homes
 ptt.mobilservisi-1.com
 ptt.mobilservisler-34.sbs
+ptt.mobilservisler-75.sbs
 ptt.qzpe.top
 ptt.rfumy.icu
 ptt.rfumy.qpon
