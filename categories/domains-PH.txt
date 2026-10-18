@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106795
-# Last change: 2026-10-18 14:40:15 UTC (sync mode: delta)
+# Records: 106833
+# Last change: 2026-10-18 18:10:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2745,6 +2745,7 @@
 7767.click
 777563224.cloud
 777571654821651165651.tech
+7777775456.sbs
 7777sdsdsnsdsaym.com
 77979797997.cloud
 77bby721223132.duckdns.org
@@ -6492,6 +6493,7 @@ albaycheck.shop
 albayquery.space
 albkrtkr4.app
 alboilehizli.com
+albox-tr.online
 albrk71.app
 albrktk2.app
 albrktr14.app
@@ -13115,6 +13117,7 @@ bestfirstimpression.za.com
 bestgasp.top
 besthaber.online
 besthurl.top
+bestiemovie.com
 bestindfinte.top
 bestlocaldominators.com
 bestofpetrol.com
@@ -23364,6 +23367,7 @@ cookbook-closure-formal-weed.trycloudflare.com
 cookeroutletstore.shop
 cookglamorous.top
 cookie-whitelist.com
+cookiecraftr.com
 cooknest.cyou
 cooknickname.top
 cookpolytechnic.top
@@ -24636,6 +24640,7 @@ cvdlvt-cvet.com
 cveacontandes-menagerss.com
 cvfgghvccvcv.com
 cvnsin.click
+cvnsjduclss.shop
 cvnvcncmdcv.net
 cvoksc4b1kc4b1nkafamkarskson.art
 cvs32sx.click
@@ -29629,6 +29634,7 @@ e-sepetiniz.com.tr
 e-servis-app.com
 e-servisde-sorgu.com
 e-servisler-sorgu-1.com
+e-servisler10.sbs
 e-sigorta.xyz
 e-sigortamnet.com
 e-sinav.net
@@ -36127,6 +36133,7 @@ fmhzus.top
 fmqklx.help
 fmrpsp.top
 fmrvpn.net
+fmvncjdljs.shop
 fnaveg.cc
 fnbm.top
 fndynqh.com
@@ -36138,6 +36145,7 @@ fnter.sanss.site
 fntj.top
 fntk.top
 fntn.top
+fnvbcndjs.click
 foamarray.top
 foamdad.top
 foaminaugurate.top
@@ -36443,6 +36451,7 @@ forumsceptical.top
 forumtariff.top
 forumyilsonu-bireyselkampanya-basvur.ml
 forundel.com
+forv.ink
 forvar-d.my-homeip.de
 forvard.best
 forvard.site
@@ -36814,6 +36823,7 @@ frsatlarikacirmaynl.duckdns.org
 frsatlarnizayaginiza.xyz
 frsattt-site.s3.eu-north-1.amazonaws.com
 frscrfrsnline.cfd
+frsmvndjslsk.shop
 frst-ksm-snstklarkpnda.online
 frst77kmp.xyz
 frstbradasmdi.duckdns.org
@@ -41678,6 +41688,7 @@ haberler11237489.sbs
 haberler1124414.sbs
 haberler11278945.shop
 haberler114561.sbs
+haberler121135.sbs
 haberler123143.sbs
 haberler12342.shop
 haberler12343.sbs
@@ -48546,6 +48557,7 @@ indirimi-pzri-aldim-101de.com
 indirimiletisim.com
 indirimimgelirsimdsii.com
 indirimin-pazzar-haftasin-101de.com
+indirimindirimyz.duckdns.org
 indiriminmarketi-a1o1.net
 indirimintamsaati.com
 indirimisikacimria.shop
@@ -50109,6 +50121,7 @@ isletmekredimerkezi.com
 islmleriniz.online
 islmlernnizz.online
 islmnghnssn.net
+islmnktansmta.net
 islmnktnas.net
 islmrkznbrdacno.com
 islmrkznktcnflysvc.com
@@ -54324,7 +54337,9 @@ kitsumc.com
 kitsuper.top
 kittenattend.top
 kittenclient.top
+kittensmp.com
 kittypanel.xyz
+kittyscrafts.com
 kitund.icu
 kiucoqiunlog.webflow.io
 kivex.sbs
@@ -54487,6 +54502,7 @@ klsdakel.duckdns.org
 klsmamaa-amsma-amdmsa.cfd
 klsorgalk.com
 klsraimk.com
+kltkasadwq.blogspot.com
 kludarevop.gifts
 klv1kl3k1c31x231x123x12.xyz
 klxkdsmdjxjx.net
@@ -56222,6 +56238,7 @@ latirostraly.info
 latitudeautonomous.top
 latitudelawsuit.top
 latitudemedieval.top
+latria.casa
 lattafasturkiye.com
 lattercoral.top
 lauagsndbfud.top
@@ -58327,6 +58344,7 @@ lywax.online
 lywipya1.click
 lyxgonu.website
 lyxulu.site
+lz77311.site
 lzdlpw.top
 lzdq6btw.cn
 lzlsmleriqzl.online
@@ -61189,6 +61207,7 @@ meydanbizde.club
 meydancicekci.com
 meyetrherwallret.com
 meyvanto.com
+meyve-soyca.shop
 mezcalbank.com
 meztruedv.icu
 mfa-gocbil.org
@@ -61465,6 +61484,7 @@ mhsrakoga.sbs
 mhsrakogr.cfd
 mhsrakogr.cyou
 mhsrakogr.sbs
+mhsraog.buzz
 mhsrarandvlrmzbrda.sbs
 mhsrhrmhmrms.duckdns.org
 mhsrrekaliya.site
@@ -61558,6 +61578,7 @@ microsoft-online.hoyadar723.workers.dev
 microsoft-web-8479f7.webflow.io
 microsoft365-secure.login6.com
 microsoft365intermsorg.weebly.com
+microsoft365sub.digital
 microsoft365suite.com
 microsoftadmiin.com
 microsoftadversiting.cloud
@@ -61959,6 +61980,7 @@ mivarahotels.com
 mivaraluxuryhotel.com
 mivaraluxuryhotels.com
 mivccz.top
+mivoracraft.com
 mivoxel.com
 mixadreseteslim.online
 mixadversity.top
@@ -63382,6 +63404,7 @@ muqcch7.cn
 muqzug.homes
 murahea.com
 muratapp.app
+muratbozbenbozmam.duckdns.org
 muratsimsekyasamtarzi.shop
 murderdisperse.top
 murderouscognitive.top
@@ -64611,6 +64634,7 @@ netkoruma-kredibasvur.cfd
 netlabs.site
 netlurex.com
 netmtvode.online
+netnokta1o1.org
 netplatform.com.tr
 netpulsex.shop
 netqpvmnjy.lat
@@ -72038,6 +72062,7 @@ plaveient.store
 plavton.com
 plaxenorudi.digital
 play-rghr.igplatform.net
+play.kitsumc.com
 playboicartii.click
 playerallergic.top
 playercollision.top
@@ -73008,6 +73033,7 @@ premierfrantically.top
 premierglacier.top
 premiershatter.top
 premisetribe.top
+premium-firsatlar.online
 premium.mercyy.net
 premium.rotate.icu
 premiumarac.net
@@ -78314,6 +78340,7 @@ rr6uis6.cn
 rragano.com
 rragano.com.tr
 rrandevunutkp.online
+rreeksksxs.shop
 rreewardingccorrp.site
 rresurs.com
 rrewtloginrezrrlog.webflow.io
@@ -78389,6 +78416,7 @@ rubbishelastic.top
 rubbishpredominant.top
 rubin-kassa.com
 rubsyndrome.top
+rubycraftsmpmc.com
 rubyhorace1.cn
 ructin.com
 rudavii.store
@@ -78430,6 +78458,7 @@ ruhsuzpanel6.site
 ruhsuzpanel7.site
 ruhsuzpanel7.world
 ruhsuzpanel9.site
+ruhsuzpanelq.wendicraft.site
 ruinousatrocious.top
 ruinouseminent.top
 ruinousfriction.top
@@ -84630,6 +84659,7 @@ softetal.com
 softethng.top
 softex.cyou
 softgap.top
+softiecraft.com
 softivo.digital
 softkiralikarac.net.tr
 softpilotx.digital
@@ -84828,6 +84858,7 @@ soliveprolprsp.click
 solixup.com
 soljmarlktlr.calilncenmaknlr.sbs
 solkmarlektler.shop
+solkmce-pte.lol
 solkmlrkatler.com
 solktanmarketler.shop
 sollink.cloud
@@ -86646,6 +86677,7 @@ starrydevastating.top
 starryhaven.org
 starryinnumerable.top
 starrymedieval.top
+starrysmp.com
 starrystreamers.info
 starshard.site
 starshoplotuskatilim82.site
@@ -88137,6 +88169,7 @@ sweeprobust.top
 sweepstakesbnnannce.space
 sweepstakespin.com
 sweetchaseonly.click
+sweetcraftsmp.com
 sweetdream.world
 sweetjeopardise.top
 sweetminority.top
@@ -89711,6 +89744,7 @@ tctbbmhazineekapigovtr67363.com
 tctbbmtrhazinegovtr9.b-cdn.net
 tctrbm8.com
 tctrtbmhazinewislerigovtr987.com
+tcvatandas.org
 tcxvrmersxrogu.net
 tdaquand.top
 tdb.ittrecc.com
@@ -96606,6 +96640,7 @@ urunalim.com
 urunapp.com.tr
 urunapp.net
 urunbitmedengerekeniyapanlar.sbs
+urundetay-sepet-15.sbs
 urundetayi.com
 urunguvende.online
 urunguvenli-al.com
@@ -101171,6 +101206,7 @@ wevertowns.com
 wevolity.com
 wewdffg.com
 weworkhard.xyz
+wewrskksd.shop
 wewssnat.com
 wexad11.000webhostapp.com
 weysg.com.tr
@@ -104336,6 +104372,7 @@ yagdaydm.world
 yaglardanson.online
 yagmaci-stlardang.cfd
 yagmurdamla.com
+yagyagyag.site
 yagyudum.online
 yahoo-mail-bc375a.webflow.io
 yahooirak.coinbase-com.info
@@ -104696,6 +104733,7 @@ ydfshans.click
 ydjjja.clicks.mlsend.com
 ydkyazkllmaaspettelnldlrm.com
 ydmccek.theworkpc.com
+ydmla.live
 ydmuzmanli.site
 ydmydm.online
 ydndnasld.com

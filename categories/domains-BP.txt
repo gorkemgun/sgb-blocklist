@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259606
-# Last change: 2026-10-18 14:40:15 UTC (sync mode: delta)
+# Records: 259647
+# Last change: 2026-10-18 18:10:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -12550,6 +12550,7 @@ a101harcaharcabitmez.up.railway.app
 a101harcaharcabitmez.xyz
 a101harcaharcabitmezs.blogspot.com
 a101harcaharcabitmezz.com
+a101harcaharcabitttmez.xyz
 a101harcaharcabtmez.com
 a101harcaharcamutluluk.duckdns.org
 a101harcakampanya.com
@@ -43712,6 +43713,7 @@ bir-damla-mutluluk.net
 bir-devletdestekleri.com
 bir-islem.mywire.org
 bir-o-yana-bir-bu-yana-yatma-saskin-crds.com
+bir-sigortam-nas-check-20261018.birsigortam-net-tr.workers.dev
 bir-yukleme.22web.org
 biraasat.tr-ziraatbank.com
 biractoglu.com
@@ -47800,6 +47802,7 @@ blnance-basvuru.info
 blnance-basvuru.store
 blnance-kampanyakatilimi.com
 blnance-kampanyakatilimi.online
+blnance.click
 blnance.com.tr
 blnancebasvurhemensimdi.com
 blnancebasvurusuhemenkatil.duckdns.org
@@ -86814,6 +86817,7 @@ enpara-hazirankampanyasi-com.ml
 enpara-hazirankampanyasi-com.tk
 enpara-hediye-2019.com
 enpara-hediyeler.com
+enpara-hediyeler.ph
 enpara-hediyeleri.com
 enpara-hediyem.com
 enpara-hediyeniz.com
@@ -87011,6 +87015,7 @@ enparahediyeleriniz.com
 enparahediyen.com
 enparahediyeniz.com
 enparahediyenle.com
+enparahediyenle.ph
 enparahediyenvar.com
 enparahediyeonayi.com
 enparahuge.xyz
@@ -91485,8 +91490,10 @@ facebook--com.ml
 facebook--login-report.ph
 facebook--login-security.ph
 facebook--login-session.ph
+facebook--update-available.ph
 facebook-change-password.com
 facebook-confirm-login.com.ph
+facebook-confirm-message.com.ph
 facebook-giris.cf
 facebook-giris.ml
 facebook-google.top
@@ -91498,13 +91505,18 @@ facebook-login-guide.com.ph
 facebook-login-login-extra.ph
 facebook-login-no-logino-com.ph
 facebook-login-page-secure.ph
+facebook-login-paris-lyon.com.ph
 facebook-login-usa-ny.com.ph
 facebook-login-verify.ph
 facebook-loginalert.ph
 facebook-loginassist.com.ph
 facebook-loginhasty.ph
+facebook-password-reset-new-password-confirm.ph
+facebook-update-team-verify.ph
 facebook-update-verify-now.ph
 facebook-update.info
+facebook-verification-system-alert.com.ph
+facebook-verification-system-confirm-verify.ph
 facebook-verification-system-verify.com.ph
 facebook.evsahibibasvuru.com
 facebookappealcase1848848888.web.app
@@ -91514,15 +91526,27 @@ facebookhizmetlerim.com
 facebooklogin-bank-xyz.ph
 facebooklogin-distribution.com.ph
 facebooklogin-facebook.com
+facebooklogin-fashion.com.ph
 facebooklogin-government.ph
+facebooklogin-help-beta.ph
 facebooklogin-industrial-info.ph
+facebooklogin-industrial-mu.com.ph
+facebooklogin-info-delta-gamma.ph
 facebooklogin-medical-lmn.ph
+facebooklogin-medical.ph
+facebooklogin-pets.ph
+facebooklogin-za-zone.ph
 facebookloginaccess-tr.com.ph
+facebookloginambulance.com.ph
 facebookloginanimal.com.ph
 facebookloginapparel.com.ph
 facebookloginapponline.ph
+facebookloginbase.org.ph
 facebookloginconfirm-au.com.ph
+facebooklogindaily.com.ph
 facebookloginepsilon.com.ph
+facebookloginf.com.ph
+facebookloginfaiths.com.ph
 facebookloginfamilyfair.com.ph
 facebookloginfamilyfuns.net.ph
 facebookloginfilms.com.ph
@@ -91540,20 +91564,28 @@ facebookloginlal.net.ph
 facebookloginlam.com.ph
 facebookloginlan.com.ph
 facebookloginlan.net.ph
+facebookloginlawfirms.com.ph
 facebookloginlawyer.com.ph
 facebookloginonlinelegal.com.ph
 facebookloginparty.com.ph
+facebookloginrenew.com.ph
 facebookloginreset-login.com.ph
 facebookloginretail.com.ph
+facebookloginsecure.com.ph
+facebookloginsparkartph.com.ph
 facebookloginsparkdeal.net.ph
+facebookloginsparkstream.com.ph
 facebookloginsparktrends.com.ph
 facebookloginspool.ph
 facebookloginsstore.com.ph
 facebookloginstable.com.ph
+facebookloginstream.org.ph
 facebookloginstreamline.com.ph
 facebookloginstrends.net.ph
 facebookloginuser.com.ph
+facebookloginzonebe.com.ph
 facebookloginzonebr.com.ph
+facebookloginzonebu.com.ph
 facebookloginzonenz.com.ph
 facebookupdate2.com
 facebookxl.com
@@ -123975,6 +124007,7 @@ hmnyklheg.com
 hmnzitakpzietzkicki.com
 hmokknktverprxymi.com
 hmosters.com.tr
+hmpsiburada.ph
 hmroevslvdr.com
 hmsevoslvdrglrskr.com
 hmsndslbsvrl.com
@@ -125156,6 +125189,7 @@ hsgyuklemesibizdensorulur.com
 hsgz-p.xyz
 hsgzemlkcrsvcznem.net
 hsgzinc.com
+hshshsgsghshs.eu.cc
 hshshshshshshs.net
 hshshwjjdhd.ru.com
 hshshwjjdhd.sa.com
@@ -159291,11 +159325,17 @@ markoislemleri.com
 markoislemleri.org
 markosistem.net
 markosistem.org
+marksajndspencer.com.ph
+marksancspencer.com.ph
+marksanddpencer.com.ph
 marksandspencer-login.ph
 marksandspencer1.online
 marksandspencermall.top
 marksandspencershop.top
 marksandspencervip.top
+marksandspencsr.com.ph
+marksandspeners.com.ph
+marksandzspencer.com.ph
 marksansspencer.com.ph
 markt.sadohgsz.art
 marktfrstllariylayniengncs.sa.com
@@ -232370,6 +232410,7 @@ vakifbank.unaux.com
 vakifbank049kredi.co.vu
 vakifbank200tlbonus.xyz
 vakifbank2019giris.com
+vakifbank2019web.com.ph
 vakifbank2022.cf
 vakifbank2022cekilis.org
 vakifbank2022yilbasicomtr.co.vu
