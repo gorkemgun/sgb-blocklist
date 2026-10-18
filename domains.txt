@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 475254
-# Last change: 2026-10-18 18:10:34 UTC (sync mode: delta)
+# Records: 475263
+# Last change: 2026-10-18 20:50:30 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16381,6 +16381,7 @@
 5510010101555.duckdns.org
 551165144.com
 551214124231231232.duckdns.org
+5512344445556667.sbs
 5515151.xyz
 551769com.com
 551787.xyz
@@ -24201,6 +24202,7 @@ a101-aktuel-urun.org
 a101-aktuel-urunler.com.tr
 a101-aktuel-urunler.top
 a101-aktuel.com
+a101-aktuel.netlify.app
 a101-aktuel.online
 a101-aktuel.xyz
 a101-aktuelaralikindirimler.net
@@ -88211,6 +88213,7 @@ brandasticdata.com
 brandbewilder.top
 brandbuckit.ml
 brandclearrance.com
+brandefense.co
 brandenelde.com
 branderdrolxnxxx102.ddns.net
 brandexops.com
@@ -99181,6 +99184,7 @@ cehennem93.zapto.org
 cehennemiyasiyoz251.com
 cehibgtona.duckdns.org
 cehjikcbqq.duckdns.org
+cehte-som.lol
 cei0wpcf.duckdns.org
 ceifadordecontason.duckdns.org
 ceikiliszirat.click
@@ -143758,6 +143762,7 @@ edavabildirim.org
 edavabilgi.org
 edavacbs.org
 edavadosyalarim.org
+edavadosyam.org
 edavahukuk.org
 edavainfaz.org
 edavakazan.ml
@@ -195209,6 +195214,7 @@ haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
 haberler12564.sbs
+haberler1269315.sbs
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
@@ -234202,6 +234208,7 @@ isbake.online
 isbakforum-basvur-online900tl.ml
 isbakhediyelerimiz.com
 isbakinl.site
+isbaknagtia.com
 isbakredim.org
 isbaks.com
 isbaksi-tr.com
@@ -352842,6 +352849,7 @@ rndvuhzlalsmd.com
 rndvuhzmetleri.net
 rndvuhzxmetial.net
 rndvulimonunuz.lat
+rndvulrhzlica.cfd
 rndvumak.b-cdn.net
 rndvumkabul.b-cdn.net
 rndvumkabul.net
@@ -357842,6 +357850,7 @@ sahibinden-get.u-guvenlialisveris.sa.com
 sahibinden-get.urun-al.fun
 sahibinden-get.urunal.fun
 sahibinden-get.urundetay-sepet-10.sbs
+sahibinden-get.urundetay-sepet-15.sbs
 sahibinden-get.urunuguvenli-al.com
 sahibinden-get.urunuguvenli-al.fun
 sahibinden-get.vercel.app

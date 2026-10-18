@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106833
-# Last change: 2026-10-18 18:10:34 UTC (sync mode: delta)
+# Records: 106839
+# Last change: 2026-10-18 20:50:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2359,6 +2359,7 @@
 54854386534.cloud
 5489769546346845673245.cfd
 5510010101555.duckdns.org
+5512344445556667.sbs
 5515151.xyz
 552-trcark-15256363.cloud
 55255be3.gfwisd-235.shop
@@ -16140,6 +16141,7 @@ brand-newhypocrite.top
 brand.coinbase-com.info
 brandasticdata.com
 brandbewilder.top
+brandefense.co
 brandenelde.com
 brandexops.com
 brandgrowthsolutions.site
@@ -18888,6 +18890,7 @@ cedqrkq.storage.googleapis.com
 cedyhuu.com
 cee-essentials.webflow.io
 cehennem.online
+cehte-som.lol
 ceilingexcerpt.top
 cejx3ah.ytyukai.cn
 cekbinbesyuzduman.com
@@ -41706,6 +41709,7 @@ haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
 haberler12564.sbs
+haberler1269315.sbs
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
@@ -49937,6 +49941,7 @@ isbak-ekampanya-ebasvuru-birey.ml
 isbak-yilbasi-ozel-900tl-basvur-online.yeniyilsuprizkampanya-ozel.tk
 isbak.online
 isbak.sbs
+isbaknagtia.com
 isbank-basvuru.vercel.app
 isbank-jobs.cds.link
 isbank-kampanya.vercel.app
@@ -78053,6 +78058,7 @@ rndvualim13-b4e4f60df35c.herokuapp.com
 rndvucunuz.net
 rndvuhizmetim.org
 rndvuhzlalsmd.com
+rndvulrhzlica.cfd
 rndvunuzuayirin.com
 rndvunv.net
 rndvunvialdiyatik.net
