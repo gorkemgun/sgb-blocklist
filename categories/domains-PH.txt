@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106762
-# Last change: 2026-10-17 22:24:02 UTC (sync mode: delta)
+# Records: 106766
+# Last change: 2026-10-18 01:07:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -26408,6 +26408,7 @@ descriptivesentiment.top
 descriptiveslack.top
 desdaycavas.top
 desentupidora.pro.br
+deserbet.link
 deserdeelersenlogatsikintiyok.vercel.app
 deserdeler.vercel.app
 deserdelersenlogatsikintiyook.vercel.app
@@ -51499,6 +51500,7 @@ izsacvvgncel.net
 izsmz.online
 izstxvmhzlxygl.net
 iztannbulpazargunu.net
+iztaoawqw.blogspot.com
 iztleasmekanikcifirsati.blogspot.com
 iztoaofsa.blogspot.com
 iztodgds.blogspot.com
@@ -85909,6 +85911,7 @@ sponsorlu-cekilis.online
 sponsorlu-cekilisler-paribu.live
 sponsorlu-cekilisler.live
 sponsorlu-cekilisler.online
+sponsorlu-etkinlik.online
 sponsorlu-firsat.online
 sponsorlu-firsatlar.online
 sponsorlu-icerik.name.tr
@@ -101558,6 +101561,7 @@ wohkfexui.cam
 wokula.com
 wolarc.com
 wolfchecker.pro
+wollink.cloud
 wolvesfc.com.au
 womako.com
 womanalso.top
