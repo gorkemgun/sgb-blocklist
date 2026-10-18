@@ -2721,6 +2721,7 @@
 101extraaldinaldinkapinda.sbs
 101extracebinde.shop
 101extrakampanyalari.online
+101extrakapidanaldinaldin.sbs
 101extramarketimyudumyag.cfd
 101eylul-gozluk.cloud
 101eylulmarket.com
@@ -25683,6 +25684,7 @@ a101isbasvuru.org
 a101isimkani.com
 a101isimleriss.com
 a101j.com
+a101jethiziyla.ct.ws
 a101k.sponsorkampanya.com
 a101k.sponsorlukampanyacumaistor.com
 a101k.sponsorlukampanyacumarsistome.com
@@ -124959,6 +124961,7 @@ des-tek-pan-demi-sosyal.com
 des-tekbasvurukapsami.com
 des-tekhaber.website
 des-tekhizmetbas-vuru.com
+des199.site
 des2021-tek-al.42web.io
 desa-tr.com
 desaakanisamazo.ddns.net
@@ -139014,6 +139017,7 @@ e-devlettbasvuru-iade.com
 e-devlettbmmduyurugovtr.com
 e-devlettbmmgovtr.com
 e-devlettc.com
+e-devlettc.netlify.app
 e-devlette-iade-bildirimi-tr.com
 e-devlette-iade-web-grs-govtr.com
 e-devlette-iade.com
@@ -151071,6 +151075,7 @@ elraian.com
 elrapisokarino.top
 elrationalosansa.top
 elrayesbada.ddns.net
+elriaplay.com
 elrifeno.com
 elrisaleegitimder.org
 elrisaleegitimdernegi.com
@@ -162660,9 +162665,13 @@ facebookhelpsupport.com
 facebookhizmetlerim.com
 facebookismetanow.com
 facebooklog.duckdns.org
+facebooklogin-bank-xyz.ph
+facebooklogin-distribution.com.ph
 facebooklogin-facebook.com
 facebooklogin-government.ph
 facebooklogin-industrial-info.ph
+facebooklogin-medical-lmn.ph
+facebookloginaccess-tr.com.ph
 facebookloginadmin.blogspot.com
 facebookloginanimal.com.ph
 facebookloginapparel.com.ph
@@ -162672,8 +162681,10 @@ facebookloginepsilon.com.ph
 facebookloginfamilyfair.com.ph
 facebookloginfamilyfuns.net.ph
 facebookloginfilms.com.ph
+facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
+facebookloginfriends-anime.com.ph
 facebookloginlabd.com.ph
 facebookloginlabe.com.ph
 facebookloginlabe.net.ph
@@ -162691,6 +162702,8 @@ facebookloginreset-login.com.ph
 facebookloginretail.com.ph
 facebookloginsparkdeal.net.ph
 facebookloginsparktrends.com.ph
+facebookloginspool.ph
+facebookloginsstore.com.ph
 facebookloginstable.com.ph
 facebookloginstreamline.com.ph
 facebookloginstrends.net.ph
@@ -246703,6 +246716,7 @@ juzdanburda.cloud
 juzdanfirsatlari.click
 juzdanfirsatlarim.click
 juzdanikurdum.com
+juzdanileode.com
 juzdanisibizde.com
 juzdanjimnerede.click
 juzdanjimnerede.sa.com
@@ -259056,6 +259070,7 @@ kitlefonlamahaber.com
 kitoavib.duckdns.org
 kitoramusarim.run
 kitspecial.top
+kitsumc.com
 kitsuper.top
 kittbuzz.com
 kittenattend.top
@@ -268409,6 +268424,7 @@ lavieseraconte.com
 lavilid.memerax.com
 laviniapaketleme.info
 lavinladicosikolattesite.site
+lavinyacicek.com.tr
 lavishadversary.top
 lavishking.ddns.net
 lavishunification.top
@@ -273912,6 +273928,7 @@ ltkstlksltsltlstlsltlnm.net
 ltl56.com
 ltlly.com
 ltlnlanlaatnlanlana.net
+ltltkamhen.net
 ltltttrmbllonllineislllemmenugiris.net
 ltmblncetra.info
 ltmblncetrap.xyz
@@ -281505,6 +281522,7 @@ mcdlvrt-vdrt.com
 mcdn.ga
 mcdonaldspromo.site
 mcdpwmachineylpdn.com
+mcebasvuru.netlify.app
 mceenzie.sbs
 mcefticbimslne.com
 mcehonline-48303.portmap.io
@@ -284838,6 +284856,7 @@ mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
 mhsrakog.sbs
+mhsrakog.skin
 mhsrakoga.biz
 mhsrakoga.buzz
 mhsrakoga.lol
@@ -285413,6 +285432,7 @@ migros.ekstra.site
 migros.elevateinnovatepro.com
 migros.it.com
 migros.tc
+migrosanal.github.io
 migrosanalmarket.space
 migroscom.org
 migrosdenizkampanyalari.com
@@ -285950,6 +285970,7 @@ miniklanssstoezya.ru
 minikme.cyou
 minikpatiler.xyz
 minilec.kulsofttech.com
+minilomiafile.giize.com
 minimalderailment.top
 minimalive.digital
 minimalreputable.top
@@ -295286,6 +295307,7 @@ muzedunyasi.com
 muzegezi.click
 muzegezi.com
 muzegezide.com
+muzehayalim.com
 muzehayati.com
 muzehizmet.click
 muzeislem.click
@@ -350825,6 +350847,7 @@ resmi-basvuru.com
 resmi-cmer-tbmm-gov-tr.com
 resmi-devlet-aidat.org
 resmi-dijitalhayat.xyz
+resmi-dogrulama.online
 resmi-dyson.com.tr
 resmi-e-geliridaresibakanligi.xyz
 resmi-edevlet-iadeler.com
@@ -368834,6 +368857,7 @@ sepette-urunum.com.tr
 sepette101.online
 sepette1o1indirimi.great-site.net
 sepettea101firsati.online
+sepetteal.online
 sepettealisverishizmeti.com
 sepettealisverisim.com
 sepettebukadar.com
@@ -372417,6 +372441,7 @@ sibbasha.duckdns.org
 siber.zapto.org
 siberaffetmez.com.tr
 siberdusunce.org.tr
+siberinanasinisiken.webredirect.org
 siberistanbul.net
 siberistanbul.org
 sibernetikveevrenselakilliyonetimi.xyz
@@ -393981,6 +394006,7 @@ takip-islemleri.online
 takip-islemlleri.click
 takip-kargo.net
 takip-kontrol.online
+takip-merkezi.vercel.app
 takip-mesafesi.ink
 takip-portali.web.app
 takip-sistemi.com.tr
@@ -397484,6 +397510,7 @@ tebbireyselislem.com
 tebbireyselislemler.com
 tebbireyselsube-tr.com
 tebbireyselsube.ml
+tebbireyselsube2018.com.ph
 tebbmb.cfd
 tebbneselen.com
 tebbnkclqgrsmnxqzlsdleqq.click
@@ -424230,6 +424257,7 @@ utydu21541.com
 utyglini.com
 utyrhgfhtujyhrgef.com
 utyus.icu
+uu-whatsapp.com
 uu.blackboard.rres.me
 uu0bn92.duckdns.org
 uu1mvyjqf.duckdns.org
@@ -425134,6 +425162,7 @@ uyvgmijcth.duckdns.org
 uywejtalfpluttk.ru
 uywjepopqnod.website
 uyyolgecisinizodeee.duckdns.org
+uz-whatsapp.com
 uz-y-group.com
 uz18qx0epne3e7cg.net
 uz4mmx1p.duckdns.org
@@ -432611,6 +432640,7 @@ vibiyilsonuceklisi.gq
 viblano.click
 vibopart.ddns.net
 viborna.xyz
+vibram-turkiye.com
 vibramturkey.com
 vibrant-leakey.20-121-132-39.plesk.page
 vibrant-mendeleev.13-95-87-58.plesk.page
@@ -446407,6 +446437,7 @@ www-coinsbitsite-platform.gq
 www-coinsbitsite-platform.ml
 www-coinsbitsite-platform.tk
 www-commbankalert.ddns.net
+www-coms-cpte-tb.myonlineportal.ch
 www-copyrightlnstagram.cf
 www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
@@ -458491,6 +458522,7 @@ yagap9.duckdns.org
 yagarservisbab.net
 yagbayrami.online
 yagbilgilendirme.cf
+yagdaydm.world
 yagetkinligikarfour.online
 yagfirsat-sokta.org.tr
 yagfirsatlari-sxnalmxrket-migr0s.shop

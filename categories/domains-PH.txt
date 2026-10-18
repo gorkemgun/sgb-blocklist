@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106776
-# Last change: 2026-10-18 11:16:08 UTC (sync mode: full)
+# Records: 106795
+# Last change: 2026-10-18 14:40:15 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3774,6 +3774,7 @@ a101indirimfirsatlari.hostingoncloud.in
 a101indirimkisfirsatlarikapinda.vercel.app
 a101indirimkodu.com.tr
 a101indirimlifirsatlarcom.xyz
+a101jethiziyla.ct.ws
 a101k.sponsorkampanya.com
 a101k.sponsorlukampanyalarimcuma.com
 a101kampany.online
@@ -26385,6 +26386,7 @@ dervisogullarihome.tk
 deryaegitim.com.tr
 deryaegitim.org
 derzhavainfo.cyou
+des199.site
 descendconvict.top
 descendfraudulent.top
 descendindulge.top
@@ -31191,6 +31193,7 @@ eloquentstationery.top
 eloquentsubsistence.top
 elpetronline.xyz
 elpyatirim.com
+elriaplay.com
 elsavora.us
 elseammunition.top
 elsedazzle.top
@@ -52141,6 +52144,7 @@ juventus.work.gd
 juveromas.store
 juvtr.store
 juxtor.sbs
+juzdanileode.com
 juzzdankredjts.cbu.net
 jvbomzwbhaedeihch.qsewjn.icu
 jvibe.buzz
@@ -54316,6 +54320,7 @@ kitecatastrophic.top
 kitecruise.top
 kiteextinction.top
 kitspecial.top
+kitsumc.com
 kitsuper.top
 kittenattend.top
 kittenclient.top
@@ -56243,6 +56248,7 @@ lavetonat.store
 lavilid.memerax.com
 laviniapaketleme.info
 lavinladicosikolattesite.site
+lavinyacicek.com.tr
 lavishadversary.top
 lavishunification.top
 lavoavetin.store
@@ -58089,6 +58095,7 @@ ltfcev.top
 ltgxo.buzz
 ltheatre.com
 ltlnlanlaatnlanlana.net
+ltltkamhen.net
 ltnnowlc.com
 ltrbinance.click
 ltrbinance.com
@@ -61451,6 +61458,7 @@ mhsraca.site
 mhsrakog.cyou
 mhsrakog.lol
 mhsrakog.sbs
+mhsrakog.skin
 mhsrakoga.biz
 mhsrakoga.lol
 mhsrakoga.sbs
@@ -61618,6 +61626,7 @@ migros-sanalmarket.vercel.app
 migros-tr.com
 migros.elevateinnovatepro.com
 migros.tc
+migrosanal.github.io
 migroscom.org
 migrosextra-ramazanozel.vercel.app
 migroshediye.club
@@ -61777,6 +61786,7 @@ miniaturestipulation.top
 minicorporation1991.com
 minikekosistemler.pro
 minikgrowth.mom
+minilomiafile.giize.com
 minimalderailment.top
 minimalreputable.top
 minimiseassorted.top
@@ -63539,6 +63549,7 @@ muzedunyasi.com
 muzegezi.click
 muzegezi.com
 muzegezide.com
+muzehayalim.com
 muzehizmet.click
 muzeislem.click
 muzekapisi.click
@@ -77382,6 +77393,7 @@ resmen-bunun-hizlisina-buzamana-denkk-gelmez.top
 resmi-a101.com
 resmi-basvuru.com
 resmi-dijitalhayat.xyz
+resmi-dogrulama.online
 resmi-guncel-bilgi.com
 resmi-kampanya.online
 resmi.mybayi.online
@@ -81935,6 +81947,7 @@ sepette-ilanlar-9812.com
 sepette-ode.com
 sepette-onayli.com.tr
 sepette1o1indirimi.great-site.net
+sepetteal.online
 sepettealisverishizmeti.com
 sepettefrstkacmaz.duckdns.org
 sepetteguvenlihizmet.com
@@ -82909,6 +82922,7 @@ sianetwork.site
 sianzi.top
 siasky.net
 siberdusunce.org.tr
+siberinanasinisiken.webredirect.org
 siberistanbul.net
 sibernetikveevrenselakilliyonetimi.xyz
 siberpanel.rf.gd
@@ -96835,6 +96849,7 @@ utterunification.top
 uttervaccinate.top
 uttspetrolofisi.com
 utwjyi.top
+uu-whatsapp.com
 uuauq.cn
 uucuzluklarburadabitemz.xyz
 uuieywueuriw.appspot.com
@@ -97028,6 +97043,7 @@ uypsorgum.xyz
 uysalsigorta.net
 uyumluteknolojikidnrimler.com.tr
 uyuzcangg.dpdns.org
+uz-whatsapp.com
 uz-y-group.com
 uzaktanhemen.abrdns.com
 uzaktankayit.abrdns.com
@@ -98669,6 +98685,7 @@ vibeolskemd.net
 vibesignal.cfd
 vibezone.cyou
 viborna.xyz
+vibram-turkiye.com
 vibramturkey.com
 vibratetoil.top
 vibrationwharf.top
@@ -102694,6 +102711,7 @@ www-cimmer-tr.com
 www-claro.top
 www-cmhurbaskanligi-iade.com
 www-coinbasewallet.com
+www-coms-cpte-tb.myonlineportal.ch
 www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
@@ -104314,6 +104332,7 @@ yadojapan.com
 yadqwedqwe.cc.dvrlists.com
 yafpuo87b87.icu
 yaga9b286ae2c101-endpoint.com
+yagdaydm.world
 yaglardanson.online
 yagmaci-stlardang.cfd
 yagmurdamla.com
