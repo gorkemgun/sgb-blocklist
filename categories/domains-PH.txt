@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106766
-# Last change: 2026-10-18 01:07:55 UTC (sync mode: delta)
+# Records: 106767
+# Last change: 2026-10-18 05:58:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -56711,6 +56711,7 @@ levisimdelevisim.com
 levispiiitiitii.com
 levissx.club
 levitating.app
+levoitsturkiye.com
 levsbacs.com
 levsvalix31.com
 levtakiple.fun
