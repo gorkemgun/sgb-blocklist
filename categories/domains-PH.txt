@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106767
-# Last change: 2026-10-18 05:58:57 UTC (sync mode: delta)
+# Records: 106776
+# Last change: 2026-10-18 11:16:08 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3366,6 +3366,7 @@ a1-001-dnflratsar-yli.cfd
 a1-82rvdnalbrdan.org
 a1.dravencia.sbs
 a100.martfirsat.org
+a10001firstlari.giize.com
 a1001.online
 a100111aa101110202.duckdns.org
 a1001firsatlari.online
@@ -6002,6 +6003,7 @@ akapimda.info.tr
 akapimizdan.online
 akapindan.website
 akapinizda.info.tr
+akaryakithesaplama.com
 akasigorta.com.tr
 akaycicekcilik.com
 akaylar.com
@@ -7847,6 +7849,7 @@ antibioticcynical.top
 antibioticeed.top
 antibioticlofty.top
 antibot-meta.com
+antibot-test.lol
 anticipateillicit.top
 anticipateingenuity.top
 anticipationesthetics.top
@@ -32291,6 +32294,7 @@ erenokyaltirak5.sbs
 erenokyaltrakdoland.click
 erenokyaltrk.com.tr
 erenokyaltrk.online
+erewafefasd12321sfdsa.cfd
 erforum-guzelkampanya-basvur-online.kampanya-basvuru-sayfa.xyz
 ergerenactmen.top
 ergnbhvggrda.wiki
@@ -46958,6 +46962,7 @@ id44752.info
 id4523.com
 id452345881.world
 id455512201.world
+id45780.com
 id45780021.live
 id46098.info
 id4677687.live
@@ -77378,6 +77383,7 @@ resmi-a101.com
 resmi-basvuru.com
 resmi-dijitalhayat.xyz
 resmi-guncel-bilgi.com
+resmi-kampanya.online
 resmi.mybayi.online
 resmiaccountssgirisbnnteklifler.com
 resmibasvuru.sa.com
@@ -80911,6 +80917,7 @@ sczsksw.cn
 sdadsadsadadadsbbbmmmcelll444www.net
 sdadvt-dcvdvtt.com
 sdafadsfafsdfsdfpaket.org
+sdafewaegdvsa23rdsfa.cfd
 sdag32o32ggds.net
 sdaqraswqa.site
 sdasdsadasda.tk
@@ -81602,6 +81609,7 @@ senbenbizsimditamam.online
 senbensirasiradevam.online
 senbensizeryecen.online
 senbnademdnmmvgzl.com
+senbunualmayidusun.sbs
 senburdaheprahatta.com
 sencerdernegi.com
 sencrfdenall.cfd
@@ -102624,6 +102632,7 @@ www-braun-tr.com
 www-braun.net
 www-braun.org
 www-brauntr.com
+www-browsertb-ayrica.myonlineportal.ch
 www-cebte-taraf-tb.myonlineportal.ch
 www-cebteteb-emeklim.my-homeip.de
 www-cebteteb-promosyonu-com.my-homeip.de
