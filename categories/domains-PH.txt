@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106839
-# Last change: 2026-10-18 20:50:30 UTC (sync mode: delta)
+# Records: 106840
+# Last change: 2026-10-18 23:18:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -83612,6 +83612,7 @@ sinceritygroove.top
 sinceritytance.top
 sindraline.info
 sindravaface.info
+sinegolimisayu.giize.com
 sinemadestekyetki.ml
 sinemavetelevizyonprojelerigozlemi.xyz
 sinemcicek.com
