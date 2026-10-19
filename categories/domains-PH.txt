@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106979
-# Last change: 2026-10-19 17:31:13 UTC (sync mode: full)
+# Records: 106994
+# Last change: 2026-10-19 22:25:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3783,6 +3783,7 @@ a101hesapligunler.online
 a101heyecanli.xyz
 a101hizlimarket.duckdns.org
 a101hizmet.com
+a101hizmetayinda.duckdns.org
 a101hobihadi.com
 a101iiletisim.com
 a101iletiisim.com
@@ -7187,6 +7188,7 @@ altinfikirler.com
 altinkalplerim.com
 altinkup.b-cdn.net
 altinova.live
+altinovainsaat.net
 altinpproje.com
 altinpuan2360.com
 altinrehberi.org
@@ -16386,6 +16388,7 @@ brigadescrap.top
 brightbulletin.site
 brightchoiceacademy.com
 brightconcept.site
+brightcornerlab.online
 brightenconsul.top
 brightenimpetus.top
 brightenmurmur.top
@@ -37378,6 +37381,7 @@ garanti-bonus-islemler-com.mayddns.com
 garanti-borc-cozumu.cloud
 garanti-btce-planlama.cloud
 garanti-finans-basvuru.cloud
+garanti-finansal-destek.cloud
 garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-hizmetleri.com
 garanti-investing.mrqz.to
@@ -38242,6 +38246,7 @@ gelyenifirsat.net
 gemememhasereilaclama.site
 gemgovrmn.my.id
 gemgovrmn.web.id
+gemgovrnm.biz.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -41744,6 +41749,7 @@ haberler112233.shop
 haberler11237489.sbs
 haberler1124414.sbs
 haberler11255126423.sbs
+haberler1126423.sbs
 haberler11278945.shop
 haberler114561.sbs
 haberler121135.sbs
@@ -50158,6 +50164,7 @@ islemlerineozelaidatiade.net
 islemlerinizeburdandevamedin.yyuyy.com
 islemleriniziburdanyapin.click
 islemlerinizzzizz.sbs
+islemlerinmobil-14.sbs
 islemleriyonet.de
 islemlerkm.org
 islemlerleyonlenme.blogspot.com
@@ -53706,6 +53713,7 @@ kelen.talk4fun.net
 kelenedekeme.net
 kelesj.help
 kelfene.net
+keliminekio.giize.com
 kelkalicaz.xyz
 kellas12x.dns.navy
 kellas5432x.dns.navy
@@ -61539,7 +61547,10 @@ mhrsyenihemen.blogspot.com
 mhrszrndwoo.net
 mhrtg1gdg16dd15.fun
 mhrzsrndwoo.net
+mhsagh.autos
 mhsagh.cfd
+mhsagh.cyou
+mhsagh.fun
 mhsaraktiv.uk
 mhsdfbavbsd.art
 mhsdfbcxvbsd.art
@@ -69920,6 +69931,7 @@ panels.fun
 panelsorgu.buzz
 panelsorgu.space
 panelsorgu.xyz
+panelsorgu1.world
 panelugutd.online
 panelvan.ciko-cdn.site
 panelyakuza1.online
@@ -78554,6 +78566,7 @@ ruhsuzpanel2.site
 ruhsuzpanel2.website
 ruhsuzpanel3.website
 ruhsuzpanel3.world
+ruhsuzpanel3120.click
 ruhsuzpanel3169.world
 ruhsuzpanel3250.website
 ruhsuzpanel4.world
@@ -91809,6 +91822,7 @@ tkno-sa.info
 tknok.com
 tknosa-clubum.com
 tknsa-club.com.tr
+tkoiasngfsafs.cfd
 tkokshop.com
 tkpedishzmtin.online
 tkphizmtnz.online
@@ -100105,6 +100119,7 @@ web-btcturkpro.com
 web-cimer-kamu-hizmetleri.com
 web-crypto-issue-com.webflow.io
 web-devletsosyalyardimuygulamasi.com
+web-dijitalkampanya.sbs
 web-dolap.com
 web-dyson.com.tr
 web-edevletturkiyegovtr.tk
