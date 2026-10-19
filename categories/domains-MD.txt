@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66083
-# Last change: 2026-10-15 13:29:04 UTC (sync mode: delta)
+# Records: 66086
+# Last change: 2026-10-19 17:31:13 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -10215,7 +10215,9 @@ apec.zapto.org
 apenasumcarasozinho.hopto.org
 apethorpevillage.co.uk
 apex.herosms.ai
+apexaccs.org
 apexcv.ddns.net
+apexfdn.xyz
 apexit.yachts
 apfuhariqeuxu.ddns.net
 apgii.duckdns.org
@@ -53847,6 +53849,7 @@ stonisi.news
 stoppaycardco.ddns.net
 stoppaymentcom.ddns.net
 storage-cloud.ddns.net
+storage-data.com
 storage.hubpage.cloud
 storage.stgbssint.com
 storagge-gets.hopto.org
