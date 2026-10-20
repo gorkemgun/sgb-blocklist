@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107003
-# Last change: 2026-10-20 07:40:12 UTC (sync mode: delta)
+# Records: 107020
+# Last change: 2026-10-20 13:36:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6734,6 +6734,7 @@ alhadisaglikliyasa.xyz
 alharbi.com.tr
 alhaydibunlari.com.tr
 alhaydibunlari.online
+alhoceima-rentcar.com
 alhyels.shop
 alhykdnleryalan.net
 alhyokaslanias.net
@@ -16386,6 +16387,7 @@ brieflio.info
 brieflume.com
 briefzone.xyz
 brigadescrap.top
+brightaccess.top
 brightbulletin.site
 brightchoiceacademy.com
 brightconcept.site
@@ -28551,6 +28553,7 @@ dosyaincele.org
 dosyainceleme.com
 dosyaislemlerim.com
 dosyakapisi.com
+dosyakontrol.net
 dosyalar.org
 dosyalar.turkiyemaliye.org
 dosyalarim.conjugaizen.com
@@ -32905,6 +32908,7 @@ europetourtravels.link
 europetourtravels.world
 europetrustwave.de
 euroservise.com
+eurosophia.eu
 eurostar-booking.info
 eurostyleltd.az
 eurotripway.tours
@@ -45161,8 +45165,10 @@ hizmeti-s.com
 hizmetiadeprtl.de
 hizmetiaesorgu.online
 hizmetiaesorgu.site
+hizmetimizaktiftaklaci.myshopify.com
 hizmetin-tr.com.tr
 hizmetiniz-online.com
+hizmetinizdeyiz9.sbs
 hizmetinkalitesi-garantisi.shop
 hizmetinkalitesi-vurgusu.shop
 hizmetinonay.app
@@ -45282,6 +45288,7 @@ hlznarandvlar.com
 hlzrndlsa.com
 hm91vy.xdk8ax.cn
 hmansahsmnashamnsahmnsahmashns99.space
+hmbdosya.net
 hmbdosya.org
 hmbgovtr.info
 hmbkxcbv.art
@@ -48090,6 +48097,7 @@ imxnib.top
 imzmirrodeme.net
 imzmrmyklxnahr.net
 in-fomenkuldegerler.com
+in-foyatirimhesap.com
 in-tarde.info
 in274728.com
 in3721918.com
@@ -48881,6 +48889,7 @@ infocryptoweb.com
 infodestek.blog
 infodocitsolution.com
 infofinansmenkul.online
+infofinansmenkultr.com
 infoformdata.com
 infofucktory.it
 infogatestorage.com
@@ -54610,6 +54619,7 @@ km-durumsorgulama.web.app
 km-hizmetimiz.com
 km-ogren.firebaseapp.com
 km-sorg.blogspot.com
+km-sorgbrdaglsnsuz.web.app
 km-sorgu-avmptt.firebaseapp.com
 km-sorgu-avmptt.web.app
 km-sorgulamsi-7e8ab56334bc.herokuapp.com
@@ -55331,6 +55341,8 @@ kpssd.com
 kpssosymsss.net
 kpusnenvcg.buzz
 kqlfae.top
+kqmodehizm.store
+kqmodehizm.study
 kqmodehizmeler.baby
 kqndjrncjencrkndkeejfe.online
 kqndjrncjencrkndkejfe.com.tr
@@ -55965,6 +55977,7 @@ kuzeymenkuldegerleras.com
 kuzeymenkulgroup.com
 kuzeymenkultr.com
 kuzeyportfoymenkuldegerler.com
+kuzeyportfoytr.com
 kuzeyportfoyyonetim.com
 kuzeytr.com
 kuzeyvakfi.com
@@ -61557,6 +61570,7 @@ mhsagh.buzz
 mhsagh.cfd
 mhsagh.cyou
 mhsagh.fun
+mhsagh.sbs
 mhsaraktiv.uk
 mhsdfbavbsd.art
 mhsdfbcxvbsd.art
@@ -61589,6 +61603,8 @@ mhsrakogr.sbs
 mhsraog.buzz
 mhsrarandvlrmzbrda.sbs
 mhsrhrmhmrms.duckdns.org
+mhsroda182.cyou
+mhsroda182.makeup
 mhsrogren.org
 mhsrrekaliya.site
 mhsrrekaliyb.site
@@ -89261,6 +89277,7 @@ taksici-e45ef.web.app
 taksim-net.ink
 taksimegider.online
 taksip-islemler1.click
+taksitlievbasvuru.com
 taktakkimo.net
 taktaskltadasnas.net
 taktik-operational.ink

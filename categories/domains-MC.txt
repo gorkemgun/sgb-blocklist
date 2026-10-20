@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41587
-# Last change: 2026-10-19 10:50:43 UTC (sync mode: delta)
+# Records: 41595
+# Last change: 2026-10-20 13:36:13 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -6633,6 +6633,7 @@ btloxcyrok.info
 btlpua.com
 btltan.ooguy.com
 btmob.xyz
+btrf36.cc
 bttnusa.com
 btumhy.com
 btvapp.net
@@ -24296,6 +24297,8 @@ msvhost.com
 mswinhostsvc.net
 mswinsoftupdload.design
 msws-updates.ddns.me
+msxf.info
+msxfweb.net
 mszwybd.com
 mtcpmpm.com
 mtcprogram.com
@@ -25016,6 +25019,7 @@ nefesaliyicedolunaybugece.com
 nefosferta.com
 nefteparkstroy.ru
 nefxvkbit.com
+negana.cc
 negiquhwcx.duckdns.org
 negligence7785.xyz
 negmari.com
@@ -29806,6 +29810,7 @@ rdp2021.duckdns.org
 rdppath.com
 rdsjwu.com
 rdtmpawmbpmsfeq.cn
+rdwv03.cc
 rdxgsk.com
 re32ff5game.com
 reach457.xyz
@@ -30714,6 +30719,7 @@ rtesky2033.com
 rtflxpdj.com
 rtghas.com
 rtgsgr543w.hopto.org
+rthvrq.cc
 rti.cargomanbd.com
 rtmbjxqbrpkmuio.cn
 rtmcsync.com
@@ -38962,6 +38968,7 @@ wixkh.com
 wiz121.ddns.net
 wiz2019.ddns.net
 wizard-individual-intervals-franklin.trycloudflare.com
+wizardexpensive.com
 wizardmagik.best
 wizatoberegisterd4.com
 wiznon.ddns.net
@@ -40854,6 +40861,7 @@ yozgathasereyesonilaclamaci.site
 yperfakeverse.xyz
 ypgnotc.com
 ypham-japan.shop
+ypnfeo.cc
 yporoororo.xyz
 ypp-studio.com
 ypqfdxh.com

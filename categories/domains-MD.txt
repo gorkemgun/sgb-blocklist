@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66086
-# Last change: 2026-10-19 17:31:13 UTC (sync mode: full)
+# Records: 66121
+# Last change: 2026-10-20 13:36:13 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8915,6 +8915,7 @@ ai51chw66.duckdns.org
 ai7wzovlc.duckdns.org
 ai8em1jpz.duckdns.org
 aiaeufaeheuxo.su
+aiagentmi.com
 aias344.xyz
 aibfv.com
 aicha03.zapto.org
@@ -8944,6 +8945,7 @@ ailecalismavesoyalguvenkil.ezyro.com
 ailehizmetleri-sosyaldestekprojesi.tk
 ailevecalisma-gov-tr-tr-tr-haberler-bakan-selcuk-gss.ga
 ailevesosyalhizmetler-onlinedestekbasvuru.com
+ailingk.xyz
 ailx618.duckdns.org
 ailypnhp.com
 aimazon.co-jp-kau45iqf2b9w.buzz
@@ -9593,6 +9595,7 @@ amazonverif.zapto.org
 amazonvoucher12.com
 amazvjapan.zapto.org
 amberlinajdecorzcom.hopto.org
+ambitopv.com
 ambrosineburgundy.net
 amcjkiz7asklgaga.zapto.org
 amcscomputer.com
@@ -10178,6 +10181,7 @@ aol98.hopto.org
 aolemahus.zapto.org
 aolkqujlnw.duckdns.org
 aomacamada.ddns.net
+aomei.storage-data.com
 aomkigdaon.duckdns.org
 aone.ddns.net
 aonxyksgsy.duckdns.org
@@ -15792,6 +15796,7 @@ chaiba4242.zapto.org
 chainsawclinic.com
 chainthorn.com
 chainventures.co.uk
+chainvex.cam
 chaiqbanik.ddns.net
 chaiqzzbaink.ddns.net
 chairkey.xyz
@@ -17076,6 +17081,7 @@ coinbaseverifypltyr.hopto.org
 coinbasewalletwithdrawlethereum.duckdns.org
 coinbidders.com
 coindmarket.com
+coingateai.com
 coingotrade.com
 coinhive.com
 coinnbaseupdatee.ddns.net
@@ -18068,6 +18074,7 @@ csjumytnng.duckdns.org
 csk-bip-lubelskie.pl
 cskl44y25.duckdns.org
 csl4cn.duckdns.org
+cslt168.com
 cslxeqcgqlxp.xyz
 csm7q66n.duckdns.org
 csmkwrcqf.net
@@ -18466,6 +18473,7 @@ cwgrighkw.duckdns.org
 cwlopebofg.duckdns.org
 cwltepwfnx.duckdns.org
 cwlz1h8yw.duckdns.org
+cwmk.eu.cc
 cwni61uo.com
 cwnlg.duckdns.org
 cwnmcrzlth.com
@@ -19472,6 +19480,7 @@ defejjwjwj.duckdns.org
 defender-update.com
 defenderup64.ddns.net
 defgwvniqa.duckdns.org
+defimoxx.top
 definitionen.de
 definitivechiropractic.ca
 deflaut.ddns.net
@@ -22498,6 +22507,7 @@ enehjuiol.ddns.net
 enelonlinerecoverbillingivnvoice.duckdns.org
 energycoffe.org
 energyhappy.ddns.net
+energyleasing88.com
 energysolutioncom.cf
 energysolutioncom.ga
 eneriexbaba.duckdns.org
@@ -23931,6 +23941,7 @@ fdp2cen.duckdns.org
 fdqfftlyfg.duckdns.org
 fdqqdddcch.duckdns.org
 fdrmdtkphx.duckdns.org
+fdsdgrixj.uk.cc
 fdsfsddfs.zapto.org
 fdsomundo.ddns.net
 fdsss.ddns.net
@@ -25908,6 +25919,7 @@ ge0pr3afr.duckdns.org
 ge12.ddns.net
 ge5wlfvz.duckdns.org
 gearbestgym.ddns.net
+geblic.xyz
 gebmwxtpqp.duckdns.org
 gecavspkhy.duckdns.org
 gecbaqolji.duckdns.org
@@ -25977,6 +25989,7 @@ genjustu.hopto.org
 genko.hopto.org
 genteatsss.com
 gentexman37.xyz
+gentle.best
 gentradings007.duckdns.org
 genuineuser.ddns.net
 genyiv.duckdns.org
@@ -27443,6 +27456,7 @@ gvzdzb29.duckdns.org
 gw-sogou.com.cn
 gw.denonia.xyz
 gw110w0.duckdns.org
+gw162.online
 gw1e57.duckdns.org
 gw9bo6wbev.ru
 gwapo.hopto.org
@@ -30593,6 +30607,7 @@ imco.sa
 imdad7.ddns.net
 imdragon10003.ddns.net
 imembers1st.duckdns.org
+imepki.com
 imf130.duckdns.org
 imf61221.ddns.net
 img.microtoo.info
@@ -32031,6 +32046,7 @@ j8d5xdwt.duckdns.org
 j8dl19k.duckdns.org
 j8gu5q.duckdns.org
 j8k8kl8nn6dcsfg69.duckdns.org
+j8l8.my
 j8loyrqh4.duckdns.org
 j8m75h8jx.duckdns.org
 j8njytkukyu.duckdns.org
@@ -32415,6 +32431,7 @@ jgppivgntdds.xyz
 jgq3w0n.duckdns.org
 jgrjotsfdx.duckdns.org
 jgrszdohhm.duckdns.org
+jgsbdrd.cc
 jgsrigedbx.ddns.net
 jgtmrvohkurphgbbx.me
 jgttkqnfms.duckdns.org
@@ -33384,6 +33401,7 @@ k9sqadc59.duckdns.org
 k9town.duckdns.org
 ka-mu-sosyaldestek.net
 ka-mu-zorunlu-yayin.com
+ka376.online
 ka4cy76.duckdns.org
 kaahbphp.duckdns.org
 kababmachatu.xyz
@@ -34626,6 +34644,7 @@ kubatayberkklavye00.com
 kuberlayardilautanamz.duckdns.org
 kubylfdjpl.duckdns.org
 kucmew9q.duckdns.org
+kucoiins.cam
 kucsas4.com
 kudakilautanbersama.ddns.net
 kudalxkvyy.duckdns.org
@@ -38511,6 +38530,7 @@ mjjgdurqom.duckdns.org
 mjjjcp.duckdns.org
 mjlu0y.duckdns.org
 mjo1ejodinox.org
+mjoh.eu.cc
 mjot.pw
 mjqmqtadfk.duckdns.org
 mjrakksbpm.duckdns.org
@@ -43387,6 +43407,7 @@ operator-20gb-1000dk-hediyeleri-basvuru.ml
 operator-20gb-1000dk-hediyeleri-basvuru.tk
 operator-20gb-destek.com
 operator-ziraatbank-dijital-20gb-1000dk-hediyeleri.ml
+operator.beauty
 operatordestekleri20-gbinternet.com
 operatordestekleri20gb-yukle.tk
 operatordesteklericimer.com
@@ -46041,6 +46062,7 @@ promiseskept.top
 promocliq.com
 promoreclame.nl
 promoterst.xyz
+promotion.storage-data.com
 promotrans54185.ddns.net
 promoweb.co.id
 promsortirovochnie.com
@@ -49285,6 +49307,7 @@ rugiomyh2vmr.com
 rugju.duckdns.org
 ruhi8pj.duckdns.org
 ruhsuzpanel8.site
+ruhzy.top
 ruisi.fr
 rulepipe-breakfast.com
 rumahsia.com
@@ -49576,6 +49599,7 @@ s4edi8e.duckdns.org
 s4hc4y.duckdns.org
 s4hrti.duckdns.org
 s4is2fw.duckdns.org
+s4kyn.com
 s4p93seh.duckdns.org
 s4qw2r.duckdns.org
 s4utjyub2.duckdns.org
@@ -51490,6 +51514,7 @@ serv-apple.ddns.net
 serv-apple4353.ddns.net
 serv-cloud23.ddns.net
 serv-cmd2384.duckdns.org
+serv.oss-cn-hongkong.aliyuncs.com
 serv0er040denied292.ddns.net
 serv0er404frail0.ddns.net
 serv1.hopto.org
@@ -51862,6 +51887,7 @@ sevre6712.ddns.net
 sew0tg7.duckdns.org
 sewedioqehaqh.ddns.net
 sex-19.net
+sexgirltiktok.cam
 sexizer.com
 sexkisok.ru
 sexotry.ddns.net
@@ -51924,6 +51950,7 @@ sfs33bl.duckdns.org
 sft327frn.duckdns.org
 sft36537.duckdns.org
 sft3nxzd.duckdns.org
+sftlr.com
 sfvdvtqjhr.duckdns.org
 sfvlu71z.duckdns.org
 sfxlom.net
@@ -52507,6 +52534,8 @@ sitepalace.com
 sitepref.xyz
 siterkaserimdani.uno
 sitestory.xyz
+sitmarks.xyz
+sitmarx.site
 sito276.zapto.org
 sitonyourface.ddns.net
 sitourementrees.zapto.org
@@ -56761,6 +56790,7 @@ truwqyjwgy.duckdns.org
 trvstfare.duckdns.org
 trvy6jf3vp.com
 trwhjjqhvq.duckdns.org
+trx-exchange.com
 try-try1.duckdns.org
 try.ciela.co
 try.ucr.news
@@ -60582,6 +60612,8 @@ walletgear.org
 walletloginverify.duckdns.org
 wallets-storeee2.ddns.net
 walletsafety.ddns.net
+walletsecurity.dev
+walletsecuritypro.cam
 walletverify.ddns.net
 walljuiceback.com
 wallkedsleeoi.shop
@@ -62910,6 +62942,7 @@ xbrdpruuxi.duckdns.org
 xbrugxxcpmuv.online
 xbsezlmaha.loan
 xbshxbshxshbg.net
+xbsti.com
 xbw2s87ev.duckdns.org
 xbxbxbt.ddns.net
 xbzfovnund.xyz
@@ -64558,6 +64591,7 @@ yonderdim.com
 yongyap.com
 yonkoayoub.ddns.net
 yonkzwqnvs.duckdns.org
+yookme.cc
 yoonaa.zapto.org
 yoonog.org
 yopmail.zapto.org
@@ -65863,6 +65897,7 @@ zsyl9nl.duckdns.org
 zszinhyosz.pe.hu
 zszsko.at
 zszsyota.duckdns.org
+zt171.eu.cc
 zt2tyyn.duckdns.org
 zt76vs.duckdns.org
 zt7zpqv.duckdns.org
