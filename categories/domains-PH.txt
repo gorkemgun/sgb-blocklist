@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106994
-# Last change: 2026-10-19 22:25:01 UTC (sync mode: delta)
+# Records: 106999
+# Last change: 2026-10-20 01:52:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1872,6 +1872,7 @@
 33558854455500552366.cloud
 3386f734.ieybfs7j447b.org.cn
 33eq8.oquvzop.es
+33italia.ponte33.it
 33vvv444.site
 33x311mm74.duckdns.org
 34-tramer.org
@@ -38247,6 +38248,7 @@ gemememhasereilaclama.site
 gemgovrmn.my.id
 gemgovrmn.web.id
 gemgovrnm.biz.id
+gemgovrnm.my.id
 gemimi-ads.com
 gemini-ads-ai.com
 gemini-ads-invite.com
@@ -39669,6 +39671,7 @@ googlemap-tr.info
 googlemeet.pro
 googlemeet98ty.pages.dev
 googlenames.top
+googlepixel.abrdns.com
 googleplay.thisgiftcards.com
 googleplaygiftcard.net
 googleplaygiftcards.ga
@@ -61548,6 +61551,7 @@ mhrszrndwoo.net
 mhrtg1gdg16dd15.fun
 mhrzsrndwoo.net
 mhsagh.autos
+mhsagh.buzz
 mhsagh.cfd
 mhsagh.cyou
 mhsagh.fun
@@ -89264,6 +89268,7 @@ taktsaltaskltamadma.net
 taktvvtsiyiigggdd.online
 takuripo.com
 takvimlerdogruyugosteriyor.sbs
+takvimlerrek.sbs
 talderanio.info
 taleb-btc.info
 talebimonlineolustur.com
