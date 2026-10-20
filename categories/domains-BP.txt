@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259670
-# Last change: 2026-10-20 01:52:17 UTC (sync mode: delta)
+# Records: 259674
+# Last change: 2026-10-20 07:40:12 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -91582,6 +91582,7 @@ facebookloginparty.com.ph
 facebookloginrenew.com.ph
 facebookloginreset-login.com.ph
 facebookloginretail.com.ph
+facebookloginsafe.com.ph
 facebookloginsecure.com.ph
 facebookloginsparkartph.com.ph
 facebookloginsparkdeal.net.ph
@@ -147873,6 +147874,7 @@ kaznaclihediyalerin.com
 kaznakazna1o1frsati.duckdns.org
 kaznaldnaldna1o1.duckdns.org
 kazokanakcokzok.net
+kazticaret.com
 kazzanndirann-firsatlar.online
 kbank.pro
 kbank.vip
@@ -149566,6 +149568,7 @@ kingsale8.space
 kingsallivan.top
 kingstress.ru
 kingwebhelp.cfd
+kinoranx.com
 kinsana.cc
 kiodeme.22web.org
 kioinim.com
@@ -210006,6 +210009,7 @@ sorgupaneli.info
 sorgupaneli.ph
 sorgupaneli.vip
 sorgupaneli.xyz
+sorgupaneli1.click
 sorgupaneli1.xyz
 sorgupaneliguvenli.store
 sorgupanelim.com

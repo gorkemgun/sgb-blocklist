@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 106999
-# Last change: 2026-10-20 01:52:17 UTC (sync mode: delta)
+# Records: 107003
+# Last change: 2026-10-20 07:40:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37392,6 +37392,7 @@ garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
 garanti-nakit-destek.cloud
+garanti-odeme-sistemi.cloud
 garanti-onay-sistemi.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garanti-onlinekredi.com.tr
@@ -61551,6 +61552,7 @@ mhrszrndwoo.net
 mhrtg1gdg16dd15.fun
 mhrzsrndwoo.net
 mhsagh.autos
+mhsagh.best
 mhsagh.buzz
 mhsagh.cfd
 mhsagh.cyou
@@ -84080,6 +84082,7 @@ sizhepinizbiztek.com
 sizhesapalmayadevamedinhahaha-f9dc42b4ea1b.herokuapp.com
 sizi-mutlu-edecek-kampanya-budur.com
 sizidegorecegizmi.net
+sizin-siparisleriniz.com
 sizindegelin.net
 sizindunyanizahosgeldiniz.blogspot.com
 sizinhayat.club
@@ -96071,6 +96074,7 @@ ucleusdirector.top
 ucndasanbrg.cfd
 ucret-onlin-ode-gecisicin.xyz
 ucretligecrsportali.org
+ucretsiz-umre-firsatlarimiz.sbs
 ucretsizkatilim.online
 ucretsizsahibinden.com
 ucretsiztwitterhizmetleri.top
