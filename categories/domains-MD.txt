@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66121
-# Last change: 2026-10-20 13:36:13 UTC (sync mode: delta)
+# Records: 66146
+# Last change: 2026-10-20 18:29:48 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2826,6 +2826,7 @@
 30z98b6q.duckdns.org
 30zjw9.duckdns.org
 30zk79k9.duckdns.org
+310ijpo06dd-ijsxcfu.org
 31312iij7.duckdns.org
 31337.hk
 313dxp8bz.duckdns.org
@@ -3277,6 +3278,7 @@
 3kr86fn.duckdns.org
 3kreehg35.duckdns.org
 3kv6bl.duckdns.org
+3kxw2pjsb5hgq24t5qb.cc
 3kyw1u.duckdns.org
 3l182wzy.duckdns.org
 3l4r46v.duckdns.org
@@ -3294,6 +3296,7 @@
 3lirauzakta.net
 3lj7gy3y.duckdns.org
 3lkdc4yxodalcpm.ddns.net
+3ll.im
 3loshhhh.ddns.net
 3lospolloshermanos.zapto.org
 3lrjalbb4.duckdns.org
@@ -6334,6 +6337,7 @@
 875cqkx.duckdns.org
 8763321445633211.duckdns.org
 8767564563453434.duckdns.org
+877k.org
 8787.hopto.org
 878e4n1y.duckdns.org
 879lsc2xe.duckdns.org
@@ -6532,6 +6536,7 @@
 8in26oz.duckdns.org
 8ipjx2e.duckdns.org
 8ira9w.duckdns.org
+8itk5k-3n302ot5eo.store
 8iuanqijo.duckdns.org
 8ivxvgius.duckdns.org
 8iweh7b.duckdns.org
@@ -6545,6 +6550,7 @@
 8j8brv49n.duckdns.org
 8j8grp6fa.duckdns.org
 8jfna416x.duckdns.org
+8jh2oinahnr4rntb4vj80ayy.app
 8jj3rfs.duckdns.org
 8jk8fn23e.duckdns.org
 8jlhro.duckdns.org
@@ -6580,6 +6586,7 @@
 8ld3e0.duckdns.org
 8lk8vz.duckdns.org
 8lkp75t.duckdns.org
+8ll.im
 8lltpmxzh.duckdns.org
 8llu30.duckdns.org
 8lrml8r.duckdns.org
@@ -7764,6 +7771,7 @@ abmjarwpobg650w.ddns.net
 abmonpoulcmoulouts.duckdns.org
 abmsrnvcwr.duckdns.org
 abn-omgeving.ddns.net
+abn3l8febkskxmce0tat6ide.store
 abnamro-security.com
 abnamroupdate.hopto.org
 abnbonlineaccesdata.zapto.org
@@ -8321,6 +8329,7 @@ addd222.hopto.org
 addendumtheshall.net
 addis.buzz
 additionalinfo.hopto.org
+addlabelorg.com
 addnow.zapto.org
 addobefilevx.ddns.net
 addons.news
@@ -8917,6 +8926,7 @@ ai8em1jpz.duckdns.org
 aiaeufaeheuxo.su
 aiagentmi.com
 aias344.xyz
+aiask0912.com
 aibfv.com
 aicha03.zapto.org
 aicienou.zapto.org
@@ -11422,6 +11432,7 @@ autrequiredinsensitivity.com
 autsedpurgaammer.com
 autt02-citzehnss.hopto.org
 autu-no.ddns.net
+auukk.com
 auvboiuqkcxsuhngb.me
 auwqbcjbxu.duckdns.org
 auwvamzxon.duckdns.org
@@ -14790,6 +14801,7 @@ c2hhcmtlzdq5cg9qqkk.top
 c2jqkqw.duckdns.org
 c2mykp.duckdns.org
 c2pss8v4z.duckdns.org
+c2uge9o8jb9b8dk1ty84q56.org
 c2w37wa.duckdns.org
 c2w678qlslkb76ibgdq63pm.ddns.net
 c2ycign.duckdns.org
@@ -15263,6 +15275,7 @@ cashacacheex.website
 cashap.hopto.org
 cashbankmoney.ru
 cashburg.ru
+cashbus.org
 casher777soft.pw
 cashinlab.ddns.net
 cashleproblem.com
@@ -23464,6 +23477,7 @@ f2zood.duckdns.org
 f33fje.duckdns.org
 f3aswg6ef.duckdns.org
 f3cl3pk31.duckdns.org
+f3dlvbk5edo5s57.icu
 f3ebu93c.duckdns.org
 f3feri.duckdns.org
 f3goz4f.duckdns.org
@@ -24636,6 +24650,7 @@ flux.smshero.co
 flvmx2tw.duckdns.org
 flxreverseconfig.zapto.org
 flydown.hopto.org
+flyfun.cc
 flyken.ddns.net
 flymyboy.zapto.org
 flyoutside.com
@@ -25218,6 +25233,7 @@ fuckoffmf.ddns.net
 fuckthat.ddns.net
 fuckwaleed.zapto.org
 fud2026.com
+fudervzvb.com
 fudjehjnobgcqfxuj.net
 fudrat1.zapto.org
 fudvirus.zapto.org
@@ -29579,6 +29595,7 @@ hun-tingtonupdate06.hopto.org
 hunbabe.com
 hunbmyfreeha.ddns.net
 huncho.ddns.net
+huncvkov9.icu
 hunfld.ddns.net
 hungerbeg6.ddns.net
 hungeria.zapto.org
@@ -30515,6 +30532,7 @@ ikofcuiow.net
 ikozypybrufanav.cc
 ikram55555.ddns.net
 ikrolhcaii.duckdns.org
+ikspanceem.xyz
 ikstrade.co.kr
 ikth30.duckdns.org
 ikuj2t5fu.duckdns.org
@@ -32988,6 +33006,7 @@ jsfjaf.duckdns.org
 jsh7q4da.duckdns.org
 jsimg.zapto.org
 jsjldnxk25.com
+jskdljk.top
 jslink.zapto.org
 jslmvsvgxu.duckdns.org
 jsmgaxfmehmrvtmuv.net
@@ -37912,6 +37931,7 @@ messironaldo.duckdns.org
 messkennedycaptain.com
 mestrecdt.hopto.org
 mesuco.com
+met2ndsiu8k.icu
 meta-acncentr7362am.duckdns.org
 meta-alrts-prtcted.duckdns.org
 meta-app-helps.duckdns.org
@@ -38005,6 +38025,7 @@ mewt.us
 mewyfckrvbusrsc9344.hopto.org
 mexe5ni.duckdns.org
 mexepiw953.hopto.org
+mexico-cashpay-test.s3.dualstack.mx-central-1.amazonaws.com
 mexkjdp.duckdns.org
 mexstat128.com
 mexwrdvcyvbi.xyz
@@ -45297,6 +45318,7 @@ playerkbbiotechnology.com
 playestore.net
 playfire.online
 playground.sofacrib.accountant
+playios.net
 playmarketonline.com
 playnadieta.com
 playnet.ddns.net
@@ -56427,6 +56449,7 @@ tpc1dt.duckdns.org
 tpdzkl.duckdns.org
 tpeaxuqnks.duckdns.org
 tpekxn1s.duckdns.org
+tpkcosbs.info
 tpkezugavs.duckdns.org
 tpkiokfplc.org
 tplgbykeba.duckdns.org
@@ -58919,6 +58942,7 @@ vaoz.hopto.org
 vap1x1w.duckdns.org
 vardinogo.ddns.net
 varozandi.top
+vartn8iau6vpk.org
 vasfagah.ru
 vashadvokat.in.ua
 vassabgg.pw
@@ -60510,6 +60534,7 @@ w7salt7r.duckdns.org
 w7wljpje.duckdns.org
 w7z59sp.duckdns.org
 w83f10ojs6axe8w.ddns.net
+w83lfokwwmqoyo0r.info
 w85l6q0p.duckdns.org
 w86ox87ar.duckdns.org
 w87urn7g.duckdns.org

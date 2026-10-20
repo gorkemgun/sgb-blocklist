@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107020
-# Last change: 2026-10-20 13:36:13 UTC (sync mode: delta)
+# Records: 107058
+# Last change: 2026-10-20 18:29:48 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1491,6 +1491,7 @@
 2132132111111.cloud
 21323123.cyou
 21323123.icu
+213786745345.sbs
 213weq12eqweq.blogspot.com
 21455452222255899891.duckdns.org
 21455452222255899894.duckdns.org
@@ -2169,6 +2170,7 @@
 452145632563256255.duckdns.org
 452172.sbs
 45235362.cloud
+453546545434.sbs
 454219-24423.cloud
 454347.com
 45444879445.cloud
@@ -3308,6 +3310,7 @@ a-101onlinesiparis.com
 a-101onlinetiklaal.online
 a-101saligdffff.com
 a-101xaxakapinda.com
+a-1o1-market-stanley-aktif-indirimi.opik.net
 a-1o1-online.net
 a-1o1.bufirsatlarkacmaz.net
 a-1o1.co
@@ -3756,6 +3759,7 @@ a101deki.com
 a101den.com
 a101denemelinkicom.pl.tl
 a101efsanekasimfirsati.com
+a101ekimayistanleyfirsati.gleeze.com
 a101ekstra.site
 a101ekstraa.xyz
 a101elaletleri.com.tr
@@ -7599,6 +7603,7 @@ ancontemplative.top
 and-akv-ask.myonlineportal.ch
 and-anp-andric.myonlineportal.ch
 and5.org
+andalamandddna.453546545434.sbs
 andanimtion.top
 andansiparisa.sbs
 anddaxloggn.webflow.io
@@ -11611,6 +11616,7 @@ barvikha-luxury-village.ru
 barzag.2kool4u.net
 bas-vur-alanyazim.cloud
 basagie.com
+basakcicekcilik.com.tr
 basaksigorta.net.tr
 basakykleme.22web.org
 basariajansi.online
@@ -11731,6 +11737,7 @@ basuvurularinellekrdisi.link
 basuvurun.net
 basvarsun.net
 basvr-kampnya-ebiresforum-com.ml
+basvr-time2.top
 basvr.fun
 basvrhesaplikredin.xyz
 basvrl-istlem.icu
@@ -12819,6 +12826,7 @@ bedg7q.cn
 bedirhanbertugkayavergi.net
 bedpotsofacloseup.com
 bedstels.com
+beebbebe.duckdns.org
 beefharassment.top
 beefmarblekangaroomatrix.com
 beefprosecution.top
@@ -18816,6 +18824,7 @@ cbpzsxxiv.acessoeditoracao.com.br
 cbsceza.com
 cbsdava.com
 cbsgib.org
+cbstalimat.com
 cbsuyap.com
 cbv7364376.online
 cbvcxcxzx.tk
@@ -18954,6 +18963,7 @@ cekilis-paribu.com
 cekilis-sans.online
 cekilis-subemobildenizonay.com
 cekilis1.lat
+cekilisbasvuru.online
 cekilisbinance.com
 cekilisbitmez7.sbs
 cekilisbitmez8.sbs
@@ -26877,6 +26887,7 @@ dflihdr.top
 dflihtd-giseotoyoletiket.is-best.net
 dfmc.com.cn
 dfmonster.duckdns.org
+dfranco.eng.br
 dfro33zenliar.top
 dfsdvtt-dvvvtl.com
 dfskjgfdasasja.net
@@ -29032,6 +29043,7 @@ dunyahaber365.sbs
 dunyainsanvakfi.com
 dunyakatilimsigorta.net
 dunyapaketleme.com
+dunyaportfoy.com
 dunyaptt.net
 dunyavakfi.com
 dunyayolu.org
@@ -30986,6 +30998,7 @@ ekrani.net
 ekranigiris.sbs
 ekranii.net
 ekraninizaktif-ogrenmesikolay.sbs
+ekranlar-aclyr.cfd
 ekranmhrsvatandasbasvuru.duckdns.org
 ekranportalmhrsgirisvatandas.duckdns.org
 ekredimi.com
@@ -35568,6 +35581,7 @@ firsatkapida-1-0-1.store
 firsatkapida-101.com
 firsatkapida-101.site
 firsatkapida-geldi.shop
+firsatkapindaaldinaldinextram.com
 firsatkapisibasladi.com.tr
 firsatkataloglari.net
 firsatkatkat.pro
@@ -37386,6 +37400,7 @@ garanti-bonus-islemler-com.mayddns.com
 garanti-borc-cozumu.cloud
 garanti-btce-planlama.cloud
 garanti-finans-basvuru.cloud
+garanti-finansal-danismanlik.cloud
 garanti-finansal-destek.cloud
 garanti-formu-kampanya-bizde-var-basvur-online.ml
 garanti-hizmetleri.com
@@ -37405,6 +37420,7 @@ garanti-parasal-cozum.cloud
 garanti-portfoy-yonetimi.cloud
 garanti-sermaye-cozumu.cloud
 garanti-sube-onlinem.my-homeip.com
+garanti-yatirim-destek.cloud
 garanti-yesil-kredili-garanti.xyz
 garanti.3w17.com
 garanti.giris-anlik-internetimm.online
@@ -38477,6 +38493,7 @@ geryangro.com
 geryednukaktarim2024.cfd
 geryedonkislemlerniz.cfd
 gesemo.com
+gesende.duckdns.org
 gesitline-reverv.com
 gesmik.com
 gest-guvenli-islemle-al.com.tr
@@ -39455,6 +39472,7 @@ gnclwebten1.com
 gncxdldfzl-onllinemrfkktxfirssllryla.click
 gncxdlfzl-onllinemrfkktxfirsllryla.xyz
 gndelikcfsmrkettt.cfd
+gndr.ink
 gnetworkstart.click
 gnlaoprs.click
 gnlceliznice1.com
@@ -41151,6 +41169,7 @@ guvenlianindaodeme.com
 guvenliapp.ru.com
 guvenliasliveris-yap.com
 guvenlibasvuru.com
+guvenlibasvuru.online
 guvenlidenetim.org
 guvenlidogrulama.online
 guvenlieticaret.com
@@ -41239,6 +41258,7 @@ guvenlodemeyontemi.com
 guvenlrnvcn.net
 guvennliodeme.online
 guvenodemeyap.com
+guvenotoydkpr.netlify.app
 guvensigortaciniz.org.tr
 guvensigortakasko.net.tr
 guvensigortaniz.com
@@ -41322,6 +41342,7 @@ gwbv-rbrh-nhg.space
 gwelecco.com
 gwrpfjx.life
 gwsignup-one.vercel.app
+gwslink.cloud
 gwxidb.cyou
 gx5.a3jb4ob55b1uk2wr.fun
 gx6fto0.cn
@@ -44894,6 +44915,7 @@ hizlibasvurlarinolustur.cloud
 hizlibasvurtamamlan.cloud
 hizlibasvuru.ml
 hizlibasvuru.net
+hizlibasvuru.online
 hizlibasvuru.tk
 hizlibasvurukampanyasi.online
 hizlibasvurukanalikonut.cfd
@@ -45358,6 +45380,7 @@ hmnltknas.net
 hmnltnasna.net
 hmnmasnmasnmas2811mmnasas.site
 hmnnknltasn.net
+hmnnrdvual.cfd
 hmnntkans.net
 hmnntlnasa.net
 hmnrndvalzc.com
@@ -49576,6 +49599,7 @@ internet-ozel.online
 internet-paketleri.org
 internet-satis.club
 internet-sinirsizkampanya.com
+internet-subesi-cepteteb.my-homeip.de
 internet-teb-entry.my-homeip.de
 internet-telekom.com
 internet-vodafonered.com
@@ -51055,6 +51079,7 @@ ivgdairesi-hx.com
 ivgemlakevergy.net
 ivggrx-vrgc.net
 ivgmobil.com
+ivgportal.com
 ividgrsler.b-cdn.net
 ivivportal.com
 ivmehmtroot.com
@@ -54535,6 +54560,7 @@ klavli.site
 klavuzchecker.com.tr
 klavuzchecker.xyz
 kldkcndnordas.shop
+klehrera.duckdns.org
 klenarovitu.mom
 klenarovituq.com
 klenderadmsnevllh.shop
@@ -57762,6 +57788,7 @@ logticalcondence.top
 logunledgar-live.webflow.io
 logunz-ledgarlive.webflow.io
 logworld.live
+lohukugede-suresede.lol
 loii.top
 loikaslopus.info
 loklolleode.net
@@ -61603,6 +61630,7 @@ mhsrakogr.sbs
 mhsraog.buzz
 mhsrarandvlrmzbrda.sbs
 mhsrhrmhmrms.duckdns.org
+mhsroda182.click
 mhsroda182.cyou
 mhsroda182.makeup
 mhsrogren.org
@@ -65443,6 +65471,7 @@ nlsustrvslostra.com
 nltakamasm.net
 nltalklmatar.net
 nltalnakmama.net
+nltalnalsn.net
 nltalnkamsa.net
 nltalntalnal.net
 nltaman.net
@@ -69105,6 +69134,7 @@ otoplusaracal.com
 otoplusaracim.com
 otoplusaraclar.com
 otopluss.site
+otoplussatis.com
 otorentacartr.com
 otorentmax.online
 otoritem.pro
@@ -69198,6 +69228,7 @@ outlook-serv-coral.vercel.app
 outlook-web-access-bccfe2.webflow.io
 outlook.bsnotespublication.com
 outlook.unatril.tk
+outlook365livee.dothome.co.kr
 outlookfurious.top
 outlookmicrosoftonline.com
 outlookmonth.top
@@ -76126,6 +76157,7 @@ randomvolatility.site
 randoomom.duckdns.org
 randtapv.online
 randuman.webredirect.org
+randumanduman.co
 randv-kontlr-etmek-m.web.app
 randvcerlas.net
 randvhsziemtsd.store
@@ -76830,6 +76862,7 @@ refa.thetupaus.com
 refec7.com
 refer.health
 referansdegerlendirme.com
+referansdunyamportfoy.com
 referansgirisi.com
 referansmenkuldeger.com
 referansportal.online
@@ -77124,6 +77157,7 @@ remedialloom.top
 remediallubricate.top
 remedyaggregate.top
 remedydepreciation.top
+remekehe.duckdns.org
 rememberproofread.top
 remembersuperintendent.top
 remeza.uz
@@ -86309,6 +86343,7 @@ sqcytjjh.xdk8ax.cn
 sqfepjvmrd.xyz
 sql-omnicrosoft365.com
 sql.vecedoo.online
+sqlglink.cloud
 sqlhubzz.com
 sqoirtateklifi.com.tr
 sqoirtateklifi.xyz
@@ -89267,6 +89302,7 @@ takipvip.com
 takipwold.gq
 takipyildizi.pro
 takisleriyigider.online
+taklaciguvercinsevenlerdernegi.myshopify.com
 taklefoam.top
 taklidimduzene.click
 takltakltmasvdasb.com
@@ -97983,6 +98019,7 @@ vb-dijital-vb.tk
 vb-dijital.net
 vb-tanupdate.de
 vbcapitalizm.live
+vbcdjsnsm.click
 vbcncmpoejkwh8siok.pages.dev
 vbdigitalweb.net
 vbfdwdvt-scvt.com
@@ -102834,6 +102871,7 @@ www-ast-cpt-ayricalik.myonlineportal.ch
 www-async-cebte.myonlineportal.ch
 www-async-cebteteb.myonlineportal.ch
 www-at-ayricalik-tb.myonlineportal.ch
+www-atbde-ayricalik-dunyasi.myonlineportal.ch
 www-avis-com-tr.translate.goog
 www-avisleotokirala.online
 www-aylik-katalog-tr.com
