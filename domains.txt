@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 475602
-# Last change: 2026-10-20 18:29:48 UTC (sync mode: full)
+# Records: 475610
+# Last change: 2026-10-20 22:20:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -50473,6 +50473,7 @@ aracikonumagetir.online
 aracilehizligecxslerim.me
 aracilehizligecxslerim.online
 aracilehizligecxslerim.site
+aracim360-kilo-metre-detay.web.app
 aracimadreseteslim.xyz
 aracimadresimde.xyz
 aracimadresimdeolurmu.store
@@ -101047,6 +101048,7 @@ cepteteb-esube.my-homeip.de
 cepteteb-giris.com
 cepteteb-global.com
 cepteteb-iade.com
+cepteteb-internet.my-homeip.de
 cepteteb-internetsubem.com
 cepteteb-kampanya.com
 cepteteb-kazan.com
@@ -129535,6 +129537,7 @@ dijitalweb-sipariskapida.sbs
 dijitalweb-siparisver.sbs
 dijitalweb-talepler.sbs
 dijitalweb-ziraatbireysel.com
+dijitalweb-ziraatbireysel.sbs
 dijitalweb-ziraatbireyselgiris.com
 dijitalweb-ziraatbireyselinternet.sbs
 dijitalweb-ziraatgiris.com
@@ -194429,6 +194432,7 @@ h-otellibertas.com
 h-otelsdateupidata.com
 h-pttgov.top
 h-r-ca-h-a-r-ca-bitmez.com
+h-rndal.cfd
 h-sikayeetvar.com
 h-sikayeetvar.ml
 h-sikayet.merkez.ru.com
@@ -231759,6 +231763,7 @@ internet-sanalsube.com
 internet-satis.club
 internet-sinirsizkampanya.com
 internet-sponsor-mobil-tr-cep.online
+internet-sube-cepteteb.my-homeip.de
 internet-sube-garanti.com
 internet-sube-giris.com
 internet-sube-katilimlari.xyz
@@ -329905,6 +329910,7 @@ pinebod.com
 pinedisposition.top
 pinegore.com
 pineist.com
+pinekoskim.giize.com
 pineloop.top
 pineloseesrae.com
 pinepathway.com
@@ -358788,6 +358794,7 @@ sahibinden-param-guvende.aktuel-urunleri.sa.com
 sahibinden-param-guvende.app
 sahibinden-param-guvende.bilgi-ilan-tr.online
 sahibinden-param-guvende.bilgi-ilan.online
+sahibinden-param-guvende.bilgi-urundetayi.online
 sahibinden-param-guvende.co
 sahibinden-param-guvende.co.uk
 sahibinden-param-guvende.com
@@ -359027,6 +359034,7 @@ sahibinden-paramguvende.guvenliservis.com.tr
 sahibinden-paramguvende.hizli-tr.com.tr
 sahibinden-paramguvende.hizmet-online.com.tr
 sahibinden-paramguvende.hizmetler-tr.com.tr
+sahibinden-paramguvende.ilan-detayi-tr.online
 sahibinden-paramguvende.ilan-getonay.online
 sahibinden-paramguvende.ilan-hizmetim.online
 sahibinden-paramguvende.ilan-hizmetin.online

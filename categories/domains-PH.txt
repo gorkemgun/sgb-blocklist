@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107058
-# Last change: 2026-10-20 18:29:48 UTC (sync mode: full)
+# Records: 107063
+# Last change: 2026-10-20 22:20:51 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -8500,6 +8500,7 @@ aracihasrsorgkaydi.net
 aracihsrsorglaman.net
 aracikonumagetir.online
 aracilehizligecxslerim.site
+aracim360-kilo-metre-detay.web.app
 aracimadreseteslim.xyz
 aracimadresimde.xyz
 aracimadresimdeolurmu.store
@@ -19185,6 +19186,7 @@ cepteteb-emekli.myonlineportal.de
 cepteteb-emekliye.my-homeip.de
 cepteteb-emekliyle.my-homeip.de
 cepteteb-esube.my-homeip.de
+cepteteb-internet.my-homeip.de
 cepteteb-tr-3yil-ozel.com
 ceptetebden.my-homeip.de
 ceptetebdeniz.my-homeip.de
@@ -41393,6 +41395,7 @@ h-ostalsupedate.com
 h-oteldujardincloudz.com
 h-otellibertas.com
 h-otelsdateupidata.com
+h-rndal.cfd
 h-sok.com.tr
 h-sys-baglan.gq
 h-trsikayet.merkezleri.ru.com
@@ -49599,6 +49602,7 @@ internet-ozel.online
 internet-paketleri.org
 internet-satis.club
 internet-sinirsizkampanya.com
+internet-sube-cepteteb.my-homeip.de
 internet-subesi-cepteteb.my-homeip.de
 internet-teb-entry.my-homeip.de
 internet-telekom.com
@@ -71926,6 +71930,7 @@ pinarvakfl.site
 pinchslitary.top
 pinedisposition.top
 pineist.com
+pinekoskim.giize.com
 pineloop.top
 pinepathway.com
 pinflour.com
