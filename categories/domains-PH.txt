@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107187
-# Last change: 2026-10-21 18:42:02 UTC (sync mode: full)
+# Records: 107208
+# Last change: 2026-10-21 22:24:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5293,6 +5293,7 @@ adsd33fdsf.nicepage.io
 adsedse-dereceve.lol
 adsense-word.com
 adsgod.app
+adshiziyakala.cfd
 adsl-internet-basvuru-net.blogspot.com
 adsl-internet-kampanya-net.blogspot.com
 adsl.aboneligi.net
@@ -10607,6 +10608,7 @@ aviskiralamalar724.site
 aviskiralikaraba.com
 aviskiralikaracfilosu.online
 aviskiraoto.online
+aviskocturkiye.com
 aviskurumsalotokoc.com
 avislearackirala.ml
 avislearackiralama.ml
@@ -13340,6 +13342,7 @@ bhance-tr.net
 bhangra.cfd
 bhcsngulu.net
 bhegese.arabamuayenesi.xyz
+bhfbvbfg.click
 bhhbbm.buzz
 bhj549e.cn
 bhjclld.net
@@ -17089,6 +17092,7 @@ buhayatbenicokyordu6.click
 buhu-guhuludese.lol
 buhugereteyesede.lat
 buhugu-hurehugedere.lol
+buhugude-refeteresede.lol
 buhugugu-fefererede.lol
 buhulukuge-redetpioli.lol
 buhuyutr-deresedere.lol
@@ -24727,6 +24731,7 @@ cuzdar774.site
 cv19aidatinnialedekall.org
 cv3434c.click
 cvasdsaddvt-dcdvt.com
+cvbngdfvc.com
 cvbnmbbj.click
 cvd19-aidatmerkezi.com
 cvdlvt-cvet.com
@@ -37455,6 +37460,7 @@ garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.cloud
 garanti-odeme-sistemi.cloud
 garanti-onay-sistemi.cloud
 garanti-online-ekim-ayina-ozel.cloud
@@ -37928,6 +37934,7 @@ gblock4aiwell-being.top
 gblock4aiworldwide.shop
 gblock4alinitiative.shop
 gbmwdu.top
+gbncbnds.shop
 gboo4gboo.workers.dev
 gbp-gathering-meaningful-atomic.trycloudflare.com
 gbrightenclosure.top
@@ -43296,6 +43303,7 @@ helen-template.webflow.io
 helenderlerdermece.online
 helfeguystr.duckdns.org
 helicoptercustody.top
+helinemioki.duckdns.org
 hellembrox.info
 hello-vrchat.net
 hellobelieve.top
@@ -50739,6 +50747,7 @@ istdeser.shop
 istdeserli.net
 istdolum.net
 istealisveris.site
+istecep.my-homeip.de
 istedidikleriniz.shop
 istedigimolucakcnkndnolmasn.net
 istedigimsigorta.com.tr
@@ -51869,6 +51878,7 @@ jcshannonpasharepoint.pages.dev
 jdbgmf.top
 jdcrml.top
 jddrms.top
+jdfsakdkasd.shop
 jdgpmw.top
 jdgrmz.top
 jdhfgfdsascvs.net
@@ -56902,6 +56912,7 @@ letgo.tr-ilanimiz.com
 letgo.tr-ilanlarim.com
 letgo.web-islemleriniz.com
 letgoilan.com
+letgomuhasebe.com
 letgosiparis.com.tr
 lethasonuc.xyz
 lethasorgu.com
@@ -61671,6 +61682,7 @@ mhsagh.buzz
 mhsagh.cfd
 mhsagh.cyou
 mhsagh.fun
+mhsagh.rest
 mhsagh.sbs
 mhsaraktiv.uk
 mhsdfbavbsd.art
@@ -64514,6 +64526,7 @@ ndqymy.top
 ndrrmb.top
 ndrxmh.top
 ndsakjndska.net
+ndsandsajdjsad.shop
 ndsfsdmn.net
 ndshkn.homes
 ndsmlfsnmmn.net
@@ -65252,6 +65265,7 @@ nfgtdk.help
 nfhc8zp6dl.ml
 nfhvu87348348.click
 nfivsnsursnsu.net
+nfjdsfdsfsdsanfn.shop
 nfkvixkcivxrrt.blogspot.com
 nflrxandexu.net
 nfmsmnsmnd.net
@@ -78699,6 +78713,8 @@ rufaho.com
 rugeihrgf.info
 rugglitter.top
 rughurt.top
+ruhsuzbaskanilework.click
+ruhsuzhizmetleri.click
 ruhsuzpanel.cyou
 ruhsuzpanel.ink
 ruhsuzpanel.life
@@ -78730,7 +78746,9 @@ ruhsuzpanel6.site
 ruhsuzpanel7.site
 ruhsuzpanel7.world
 ruhsuzpanel9.site
+ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
+ruhsuzsistem1.click
 ruinousatrocious.top
 ruinouseminent.top
 ruinousfriction.top
@@ -98068,6 +98086,7 @@ vatandasaiade-gov-tr.com
 vatandasbasvuru-turkeygovtr.com
 vatandasdestek.com
 vatandasdestekprogrami.net
+vatandasgiris.org
 vatandasgirisekranimhrsonlinegirisimiz.duckdns.org
 vatandasgirsmhrslersx.mtvleyi2026s.xyz
 vatandashanem.com
@@ -98137,6 +98156,7 @@ vb-tanupdate.de
 vbcapitalizm.live
 vbcdjsnsm.click
 vbcncmpoejkwh8siok.pages.dev
+vbcndjsmsk.shop
 vbdigitalweb.net
 vbfdwdvt-scvt.com
 vbfoxi.top
@@ -104772,6 +104792,7 @@ yanindayimgulumsetirim.net
 yanitlama-grs.garden
 yanlarusturacanotaskes.xyz
 yanlzhayatzorbdegelbanasorbekan81.info
+yanmandar.com
 yanparglobal.com
 yantar-kassa.com
 yaodsr.cn
