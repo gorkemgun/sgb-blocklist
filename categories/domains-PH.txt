@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107063
-# Last change: 2026-10-20 22:20:51 UTC (sync mode: delta)
+# Records: 107066
+# Last change: 2026-10-21 01:39:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -19121,6 +19121,7 @@ cepte-eylul.com.tr
 cepte-eylul.info.tr
 cepte-eylul.name.tr
 cepte-eylul.net.tr
+cepte-inter.my-homeip.de
 cepte-islemleriminz-garanti.duckdns.org
 cepte-klima.xyz
 cepte-shop-tr.online
@@ -80935,6 +80936,7 @@ saysimultaneous.top
 sayslaughter.top
 saysteward.top
 saysyndrome.top
+sazan.city
 sazanyakala.click
 sbaigecspotika.net
 sbb.xstarx-drmlerxx-fxrxsxt.online
@@ -96242,6 +96244,7 @@ uhlkg.cn
 uhoa5gd.cn
 uhtsong.com
 uhufudure-resederete.lol
+uhugudere-redeteye.lol
 uhukalami.duckdns.org
 uhxndh.homes
 ui-wire.com

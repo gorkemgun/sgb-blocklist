@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 475610
-# Last change: 2026-10-20 22:20:51 UTC (sync mode: delta)
+# Records: 475613
+# Last change: 2026-10-21 01:39:07 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -100461,6 +100461,7 @@ cepte-hediye20gb.epizy.com
 cepte-ile-sok-kapida.duckdns.org
 cepte-indirim.sa.com
 cepte-indirimler.top
+cepte-inter.my-homeip.de
 cepte-isbank-online-bonus-tr.cf
 cepte-isbank-online-bonus-tr.ws
 cepte-isbank.com
@@ -364100,6 +364101,7 @@ saytjshyf.biz
 sayyfgahswhaqon.cn
 sayzemlv.hopto.org
 saza-safa.blogspot.com
+sazan.city
 sazanyakala.click
 sazcbcxe-eaqqdcwts-desdfcs.cyou
 sazdqypg.com
@@ -421510,6 +421512,7 @@ uhsp7o.duckdns.org
 uhsuewv.duckdns.org
 uhtsong.com
 uhufudure-resederete.lol
+uhugudere-redeteye.lol
 uhuhedeb.org
 uhukalami.duckdns.org
 uhvyvnkuue.xyz
