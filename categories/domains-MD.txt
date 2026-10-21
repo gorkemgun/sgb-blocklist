@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66146
-# Last change: 2026-10-20 18:29:48 UTC (sync mode: full)
+# Records: 66148
+# Last change: 2026-10-21 13:52:14 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9603,6 +9603,7 @@ amazontocapchatorecoverify.duckdns.org
 amazonupdate.zapto.org
 amazonverif.zapto.org
 amazonvoucher12.com
+amazonyt.com
 amazvjapan.zapto.org
 amberlinajdecorzcom.hopto.org
 ambitopv.com
@@ -64713,6 +64714,7 @@ youtub.app
 youtube-test.zapto.org
 youtube.gr.live
 youtube.voto
+youtubechannelverification.com
 youtubesyncapi.com
 youtubevideos.ddns.net
 youtubewatch.co
