@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259697
-# Last change: 2026-10-20 22:20:51 UTC (sync mode: delta)
+# Records: 259707
+# Last change: 2026-10-21 07:44:18 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -10987,6 +10987,7 @@ a-1-0-1-online-ozel.com
 a-1-0-1-sadece-online-ozel-mobil-indirimler-sepette-tr.bilgis-tr.online
 a-1-0-1-snl-mrkt.cfd
 a-1-0-1-snl-mrkt.online
+a-1-0-1-stanleyindirimleri.duckdns.org
 a-1-0-1-tr.com
 a-1-0-1-tr.net
 a-1-0-1-yildizhafta.net
@@ -28434,6 +28435,8 @@ asbbnmay-asstnanh-absbaa.sbs
 asbfaasooslode.net
 asbmkfirsatalreview.com
 asc-bnetkinliksorgulamalari.net
+asc-yukleme.22web.org
+asc40yukleme.22web.org
 asc8yukleme.22web.org
 ascakcl123x123c.click
 ascakcl123x123c.xyz
@@ -91521,6 +91524,7 @@ facebook-login-no-logino-com.ph
 facebook-login-page-secure.ph
 facebook-login-paris-lyon.com.ph
 facebook-login-problem.ph
+facebook-login-secure-page.ph
 facebook-login-usa-ny.com.ph
 facebook-login-verify.ph
 facebook-login-webinar-za.ph
@@ -165088,6 +165092,7 @@ mshandebu1.sbs
 mshandebu23.sbs
 mshandebu28.sbs
 mshandebu31.sbs
+mshrhizlislemler.online
 mshrmlmskmmm.net
 msi-utns.com
 mskglobal.ltd
@@ -187526,6 +187531,7 @@ ptt-trar.top
 ptt-trc.top
 ptt-trendyol.com.ph
 ptt-trgov-tr.top
+ptt-trgov.eu.cc
 ptt-trgov.top
 ptt-trgov.xyz
 ptt-trj.top
@@ -222161,6 +222167,7 @@ tr-maxi-garanticep.com
 tr-maxiscep.com
 tr-medevlet-aidatt-bilgi-basvuru-sorgu-ekran.tk
 tr-medevlet-aidatt-bilgi-basvuru-sorgu-ekranim.tk
+tr-medevlet-aidatt-iade-bilgi-sorgu-ekran.ph
 tr-medevlet-aidatt-iade-bilgi-sorgu-ekran.tk
 tr-mercedes-benztr.com
 tr-merkezbanka.com
@@ -250758,6 +250765,7 @@ yapikrediworld-subesi.com
 yapikrediworld-yilbasida.tk
 yapikrediworld-yukleyintr.com
 yapikrediworld.com
+yapikrediworld.com.ph
 yapikrediworld.ooo
 yapikrediworld.tk
 yapikrediworld1.com
@@ -251236,6 +251244,7 @@ yaptiklarimzcrfrsda.online
 yaptimodemem.com
 yaptiryaptiryap.duckdns.org
 yaptklarmaytrmakln.com
+yapuikredisubesigiris.com.ph
 yapyapyap.vercel.app
 yaqifredimobile.click
 yaqiikredii.com
@@ -256082,6 +256091,7 @@ yurtici-gonderinerede.web.app
 yurtici-kargo-takip.com
 yurtici-kargo.guvenli-hizmet.online
 yurtici-kargo.ilanlar-secure.com
+yurtici-kargo.islemlerinmobil-14.sbs
 yurtici-kargotra.com
 yurtici-kibris.com
 yurticibelediye.rest

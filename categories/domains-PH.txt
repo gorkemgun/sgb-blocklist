@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107066
-# Last change: 2026-10-21 01:39:07 UTC (sync mode: delta)
+# Records: 107099
+# Last change: 2026-10-21 07:44:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -585,6 +585,7 @@
 1222412541225452255890.duckdns.org
 12229828189122.duckdns.org
 12239928837727.servecounterstrike.com
+12245112245542224554254591.xyz
 122562652500.xyz
 122562656334.info
 122562656478.info
@@ -1438,6 +1439,7 @@
 2026ilkevim.com.tr
 2026kasim2026.click
 2026kasim2026onayli.duckdns.org
+2026konut-tok-i.duckdns.org
 2026konutbasvurum.sbs
 2026olympics.shop
 2026tr.xyz
@@ -3310,6 +3312,7 @@ a-101onlinesiparis.com
 a-101onlinetiklaal.online
 a-101saligdffff.com
 a-101xaxakapinda.com
+a-1o1-hizmet-ekim-stanley-termoslari.duckdns.org
 a-1o1-market-stanley-aktif-indirimi.opik.net
 a-1o1-online.net
 a-1o1.bufirsatlarkacmaz.net
@@ -5626,6 +5629,7 @@ ahbetatlim.click
 ahbp.org
 ahbsp.org
 ahbva.pt
+ahdeferete-sedeteye.lol
 ahdsx-devltrctc.com
 aheahppeas.com
 ahefi.com
@@ -13082,6 +13086,7 @@ benstoun.com
 benteknoloji.org
 bentyx.pro
 benumuduemuber.net
+benweg.com
 benyenbasladmszdegelhabd87.info
 benzalphthalide.com
 benzbimcell.com
@@ -17013,6 +17018,7 @@ buguncizgisi.com
 buguncografya.com
 bugundebirlikte.com
 bugundefteri.com
+bugundenhazirl.duckdns.org
 bugundenmutluaa.com
 bugundenmutluannnnnlar.com
 bugune-ozel-urunler-mobilde-tr.online
@@ -29045,6 +29051,7 @@ dunya-hediyemobildeniz.com
 dunyahaber365.sbs
 dunyainsanvakfi.com
 dunyakatilimsigorta.net
+dunyamportfoy.com
 dunyapaketleme.com
 dunyaportfoy.com
 dunyaptt.net
@@ -39484,6 +39491,7 @@ gnmmpq.top
 gnntttttttttt.net
 gnornamb.com
 gnsigorta.com.tr
+gnvkmslms.shop
 gnzbvvxbsvur.dynv6.net
 go-procoinwhu.top
 go.0010v.lol
@@ -40412,6 +40420,7 @@ growthwall.click
 growtrailz.com
 growtura.lat
 growwithusnetflx.com
+grprmognri.cfd
 grrandventure.site
 grs724.com.tr
 grsz1rtark.cfd
@@ -41778,6 +41787,7 @@ haberler.sizde.com.akbadonerd.click
 haberler.today
 haberler019315.sbs
 haberler10978.sbs
+haberler111211123.sbs
 haberler112233.shop
 haberler11237489.sbs
 haberler1124414.sbs
@@ -45192,6 +45202,7 @@ hizmetiadeprtl.de
 hizmetiaesorgu.online
 hizmetiaesorgu.site
 hizmetimizaktiftaklaci.myshopify.com
+hizmetimizcalisiyor.com
 hizmetin-tr.com.tr
 hizmetiniz-online.com
 hizmetinizdeyiz9.sbs
@@ -45388,12 +45399,14 @@ hmnnrdvual.cfd
 hmnntkans.net
 hmnntlnasa.net
 hmnrndvalzc.com
+hmnrndvubrda.cfd
 hmnrvdal182.org
 hmnsadngfdb.mooo.com
 hmnsatinalmaninsirasi.xyz
 hmnsdhhs.com
 hmnsigorte.net
 hmnypdx.art
+hmnypsanb.art
 hmobil-islemler.net
 hmogdcemeyap.org
 hmrc-taxrefund.online
@@ -46611,6 +46624,7 @@ i-hemenacikbasvurbireysel100yildeniz.com
 i-hemenacikbasvurbireysel100yildeniz.xyz
 i-hizmeti.de
 i-karcahome.shop
+i-mhrdnal.cfd
 i-nfodegerler.com
 i-paribu.com
 i-sigorta.pw
@@ -53796,6 +53810,7 @@ kendiicinkendinizebiriyilikyapin.com.tr
 kendim-icin-dijital.net
 kendimlehepsorunumvar.click
 kendinehas.click
+kendinicin.abrdns.com
 kendiniziburadagaarraanntileyin.net
 kendinizicinkendinizebiriyilikyapin.com.tr
 kendinizservice.shop
@@ -64389,6 +64404,7 @@ nc-vi.net
 ncaptcha-meta.com
 nccecnnvjjgr.net
 nccvxiiodmler.com
+ncfncmd.shop
 nchobro-2k43.4everland.app
 nclermkelsomedin.net
 ncm-invest.com
@@ -68695,6 +68711,7 @@ optionlabs.store
 options-zmyra-klg.myonlineportal.ch
 optixauvex.us
 optlatitude.top
+optronza.com
 optryvo.com
 opttill.top
 opuaera.com
@@ -78001,6 +78018,7 @@ rhymedream.com
 rhythmicspectrum.top
 rhythmora.com
 rhythmza.com
+rhythova.com
 ri5iqfti.cn
 ribape.top
 ribboncrate.top
@@ -78234,6 +78252,7 @@ rndvucunuz.net
 rndvuhizmetim.org
 rndvuhzlalsmd.com
 rndvulrhzlica.cfd
+rndvumrs.cfd
 rndvunuzuayirin.com
 rndvunv.net
 rndvunvialdiyatik.net
@@ -82998,6 +83017,7 @@ shoppromising.top
 shops-mobil.online
 shops-trendtr.online
 shops24.top
+shopsal.online
 shopsetrms.top
 shopsites.shop
 shopster.courses
@@ -85710,6 +85730,7 @@ sourcenebula.org
 sourceowl.top
 sourcepoised.cn
 sourdemographic.top
+south-shoulder-tags-construct.trycloudflare.com
 southeasternerosive.top
 southeasternpropeller.top
 southeasternsolicitor.top
@@ -86114,6 +86135,8 @@ sponsor-cekilisi.online
 sponsor-cekilisin.online
 sponsor-cekilisler.online
 sponsor.cf
+sponsorbasvuru.online
+sponsorbasvurusu.online
 sponsorblackmail.top
 sponsorcekilisi.online
 sponsorcekilisler.online
@@ -86178,6 +86201,7 @@ sponsorlu-reklamlari.online
 sponsorlu-tanitim.com.tr
 sponsorlu.click
 sponsorlu.online
+sponsorlubasvuru.online
 sponsorlubsvru.xyz
 sponsorlubsvru2.xyz
 sponsorlucekilisi.online
@@ -87557,6 +87581,7 @@ sube-kuvytbasvurusorgulamagiris.space
 sube-matriksmenkulkiymetler.com
 sube-matriksyatirim.com
 sube-pari.com
+sube.anadolumenkulyatirim.com
 sube.basvurumfirsatlariylaguzel.xyz
 sube.denizbasvuralarimizkontrolde.xyz
 sube.denizbasvurkontrolde.xyz
@@ -89955,6 +89980,7 @@ tddd2023-kmpnyl.xyz
 tddnmd.top
 tdds.info
 tddsmp.top
+tdfcvdcxs.click
 tdfpmw.top
 tdgames.com
 tdgzmc.top
@@ -98903,6 +98929,7 @@ vflf69f.boyacentury.cn
 vfsglobalss.xyz
 vfsglobalturkey.com
 vfsqlobel.com
+vfsrandevu.net
 vfuco.com.au
 vge2dborcsrguodeme.net
 vgeq.top
@@ -99089,6 +99116,7 @@ vionaarackiralama.com
 vip-02.fit
 vip-04.fit
 vip-10.fit
+vip-etkinlik.online
 vip-j12.work
 vip-j13.work
 vip-l45.work
@@ -99524,6 +99552,7 @@ vortexharbor.com
 vortexium.live
 vortexmaulder.pro
 vortexstream.online
+vortexza.com
 vortiqon.site
 voschho.com.tr
 voteeither.top
@@ -103023,6 +103052,7 @@ www-iade.com
 www-iadelerfinansmerkezim2021.mermerfatihlerimde.com
 www-iadelerfinansmerkezim2021.ml
 www-ibb-system-tr.blogspot.com
+www-imp-tb-cepte.myonlineportal.ch
 www-indirim-a101-i.com.tr
 www-indirim-firsatlri-name-tr.com
 www-indrm-katalog-tr.com
@@ -105682,6 +105712,7 @@ yklemeyapbnce.net
 yklemlrhzlicaypin.cfd
 ykleodekylesmdi.cfd
 ykleodmehgs.cfd
+ykleozmnhgsde.cfd
 yklesmddeme.cfd
 yklesrglhgs.cfd
 yklmayiz.net
@@ -106052,6 +106083,7 @@ yudumyag.site
 yudumyumdu6.dns.navy
 yugosadgsagdgasd92sadh23s.click
 yuhiguhajusi.store
+yuhujukulu-dereteye.lol
 yuk6le.blogspot.com
 yukac.online
 yukafilorent.com
@@ -106534,6 +106566,7 @@ zenithpointd.top
 zenithwin661.info
 zenitorizon.com
 zenkora2.sbs
+zenmoreko.com
 zeno-place.ink
 zenorium.com
 zenpast.com
