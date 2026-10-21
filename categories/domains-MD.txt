@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66148
-# Last change: 2026-10-21 13:52:14 UTC (sync mode: delta)
+# Records: 66146
+# Last change: 2026-10-21 18:42:02 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17372,7 +17372,6 @@ confdel.zapto.org
 conferencefreckewl.shop
 conferx.live
 confhz.space
-config-panel.frge.io
 config.allmusikcollection.com
 config.collectionmpmusic.xyz
 config.mpcloudcollection.xyz
@@ -48986,7 +48985,6 @@ robloxrat.zapto.org
 robo-claim.site
 robo51.info
 roborobonsnsnn.net
-robot-876.frge.io
 robot9999.ddns.net
 robotic-toys.com
 robsacks.com
