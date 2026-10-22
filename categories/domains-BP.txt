@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259732
-# Last change: 2026-10-21 22:24:30 UTC (sync mode: delta)
+# Records: 259733
+# Last change: 2026-10-22 01:34:06 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -253278,6 +253278,7 @@ yenitcmmbiad-esistemi.com
 yenitekflis-buradsa-aldin-aldin.shop
 yenitekliflerburadsasd.store
 yeniticaret.xyz
+yenitokibasvuru.online
 yenitokibasvurum.sbs
 yenitrednler.online
 yenitrednler.store
