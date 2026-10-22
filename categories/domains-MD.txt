@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66146
-# Last change: 2026-10-21 18:42:02 UTC (sync mode: full)
+# Records: 66147
+# Last change: 2026-10-22 07:39:53 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -24384,6 +24384,7 @@ findomest-visitearea-activati.duckdns.org
 fineezer665.hopto.org
 finehax.ddns.net
 finessebitcoin.duckdns.org
+fingercakes4sale.store
 finglassafetyforum.ie
 finishniece.net
 finnigans.org.uk

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107210
-# Last change: 2026-10-22 01:34:06 UTC (sync mode: delta)
+# Records: 107242
+# Last change: 2026-10-22 07:39:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -333,6 +333,7 @@
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-indirimleri.genel-indirim-tr.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-tr.trendyl-mobil-tr.online
+101-mobil-extra-sadece-online-ozel-indirimler-tr.shopspay.online
 101-mobil-extra-sadece-online-ozel-sepette-alisveris-tr.cepte-al.online
 101-mobil-online-extra-indirimler-sadece-bugune-ozel-tr.shopping-tr.online
 101-mobil-sadece-bugune-ozel-extra-indirim-sepeti-cep.trendy-shop-tr.online
@@ -2548,6 +2549,7 @@
 65161131651lll55645.duckdns.org
 651651981556.click
 6516545465465456.info
+65168551658600.duckdns.org
 6519846598165151615615615.cloud
 652323232.cloud
 652432431.net
@@ -2905,6 +2907,7 @@
 843290239.com
 845223-ledger.com
 8455630456652.click
+846135483558348.duckdns.org
 8464536433.cloud
 8468535135153351.duckdns.org
 84784815354.sbs
@@ -2928,6 +2931,7 @@
 867534243.net
 8688865456.cloud
 8688885646546.cloud
+869124124.xyz
 87-248-157-101.plesk.page
 87-248-l57-l0l.plesk.page
 87157-coinbase.com
@@ -2936,6 +2940,7 @@
 87532.store
 8754.click
 876654465.net
+876854651534486.duckdns.org
 87894564854.com
 8795949222-11.cloud
 87984651321321.duckdns.org
@@ -6037,6 +6042,7 @@ ak-sizinle-herzaman.com
 ak-tu-el-ur-un-ler.com
 ak-yaz-kampanya.blogspot.com
 ak3z.top
+ak890909244.duckdns.org
 ak9frstim-moonsf.online
 akacik.net
 akadem1-61.g-service.ru
@@ -9482,6 +9488,7 @@ aselsanprogrami.com
 aselsansystems.com
 aselsantrade.com
 aselsanyat.xyz
+aselsanyatirim.com
 asemblyt.pics
 asentislabs.shop
 asesoriasbg.com
@@ -15016,6 +15023,7 @@ blesswhen.top
 blesturadimq.com
 blesxemcell.net
 blfasci.top
+blgalbrdan.duckdns.org
 blimcsdadsqyklee.org
 blind227.boutique
 blindwrench.top
@@ -16837,6 +16845,7 @@ btcturkpro-web.com
 btcturkprogiristr.net
 btcturkripto.info
 btcturktogg.com
+btcturkts.cc
 btcturkturkiye.com
 btcturlk-pro.com
 btcwin.org
@@ -17724,6 +17733,7 @@ bydaoto.com
 bydauototurkiye.com
 bydfiexchange.live
 bydsatinal.site
+byedubaicenter.duckdns.org
 byequx.pics
 byhcanykc.net
 byimmonster.org
@@ -19989,6 +19999,7 @@ cjghnb555.duckdns.org
 cjtwvdmmegj.xdk8ax.cn
 ckitu.online
 ckjfgo.top
+ckksslslwl.click
 ckles-hmns-kazannns-tkla-al.site
 ckls-heeemeeen-kaznnnnn-tklaaa.site
 ckls-hmeen-kazaaaan-tklaa.site
@@ -28600,6 +28611,8 @@ dosyagibsorgula.com
 dosyagoruntuleme.org
 dosyahazine.com
 dosyahmb.net
+dosyaincele.com
+dosyaincele.net
 dosyaincele.org
 dosyainceleme.com
 dosyaislemlerim.com
@@ -31367,6 +31380,7 @@ emaleblunder.top
 emaliasliye.com
 emalidosya.com
 emaliuyap.com
+emaliyebdk.com
 emaliyebildirim.org
 emaliyebtk.com
 emaliyecbs.org
@@ -32707,6 +32721,7 @@ esube.hedefonportfoyum.com
 esube.my-homeip.com
 esube.osmnlportfoy.com
 esubeceptetebkrediv2.co
+esubedunya.com
 esubeinfonline.com
 esubeinfoyatirim.com
 esubem-teb.my-homeip.de
@@ -40403,6 +40418,7 @@ grntibsvrhmn.art
 grntikampanyasi.org.tr
 grntikmpnya.com.tr
 grntikredibasvru.net
+grntm.com
 grntprsmynnkmpnyaabsvrr.info
 grnttam.com
 grnttbbkredibasvurr.net
@@ -42674,6 +42690,7 @@ hastaneisleriogren.cfd
 hastanekayit.duckdns.org
 hastanelerinizbilgi.com
 hastanelerle.uk
+hastanelersizinle.shop
 hastanem.uk
 hastaneminkolayi.duckdns.org
 hastaneminkontrolu.cfd
@@ -45382,6 +45399,7 @@ hmbmasak.org
 hmbsorgu.net
 hmbsorgu.org
 hmbveznedar.com
+hmbveznedar.org
 hmdnmfdd.com
 hmeensin-snouc.net
 hmeetstlrerasl.top
@@ -54991,6 +55009,7 @@ kmsrgoulamayaphemngovnecat.web.app
 kmsrgouszyaphemenyeniefe.web.app
 kmsrgoylamayapgovpt.web.app
 kmsrlgmasdjm.click
+kmsroglamahizmttimiz.web.app
 kmsroglamayapgodfocds.com
 kmsrogslyaphemengovpttvrex.web.app
 kmsrogulamahizmetinizz.web.app
@@ -57793,6 +57812,7 @@ login.mcrsftsvm-app.digital
 login.mcrsftsvm-app.live
 login.mcrsftsvoice-mail.cloud
 login.mercycheck.cloud
+login.mfa-diplomatic.com
 login.microsecurity.us
 login.microsofttclicks.live
 login.microstoff.xyz
@@ -59355,6 +59375,7 @@ malescorn.top
 malespectacular.top
 malibirim.com
 malibirim.org
+malibirimi.org
 maliborc.org
 malicction.top
 malicioussegregate.top
@@ -61079,6 +61100,10 @@ meridizo.com
 meridyenfinans.com
 merirasdigital.site
 merirasgrowth.site
+meritbetcasinogiris.icu
+meritbetgirisguncel.icu
+meritbetguncelcasino.icu
+meritbethizligiris.icu
 meritsabit.online
 meritsbuisness.com
 merjoup.com
@@ -62706,6 +62731,7 @@ mobilxxiademgovv1v1tr.live
 mobilyamerkezi.shop
 mobilyamerkezitr.shop
 mobilyapikredigirisi.com
+mobilyatasarimfuarlari.com
 mobjldenizim.net
 moblaxia.shop
 moblie-septislem.com
@@ -65143,6 +65169,7 @@ newunveils.online
 newwave-tickets.ru
 newwavesochi.com
 newwsixth-yearspecial-campaign.net
+newwy3-dolores76.sbs
 newyearandcampaignjanuary.cloud
 newyearbilet.com
 newyearcircus.ru
@@ -75560,6 +75587,7 @@ qiyewto.bond
 qjvbtn.top
 qkemiskkd.top
 qkhcdt.cyou
+qkjwejkqwq1231.duckdns.org
 qkyqhe.top
 qkysjo.cyou
 qliitewjoing.pro
@@ -77120,6 +77148,7 @@ rehber-dusunce-lik.myonlineportal.eu
 rehber.randevubilgi.it.com
 rehberlikvearastirmamerkezi.com.tr
 rehbermobil.site
+rehbetapuu.digital
 rehearsalplaintiff.top
 rehearsalsalutation.top
 rehearsealloy.top
@@ -80029,6 +80058,7 @@ sahibinden.mobilsepetin-tr.online
 sahibinden.mobilservisleri.com
 sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
+sahibinden.odeme-onay-1283.com
 sahibinden.odeme-tamamla.com
 sahibinden.odeme-yap.com.tr
 sahibinden.odemelerin-guvenli.com.tr
@@ -80196,6 +80226,7 @@ sahibinden.siparishizliver.com
 sahibinden.siparisim-guvende.online
 sahibinden.siparislerim.net
 sahibinden.siparisver-hemen.com
+sahibinden.sizin-sepetiniz.com.tr
 sahibinden.ss-secure-pay.com
 sahibinden.ss-securepayment.com
 sahibinden.success-app.net
@@ -90245,6 +90276,7 @@ tebdeburdabasvuru.my-homeip.de
 tebdecep-emekli.myonlineportal.ch
 tebdecepsube.com
 tebdedenndenekredilerini.site
+tebden-basvuru.mobil-bankacilik.site
 tebdeonlinebasvurlarimylk.site
 tebdevasbuvurular.site
 tebdijitalhediyem.com
