@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66147
-# Last change: 2026-10-22 07:39:53 UTC (sync mode: delta)
+# Records: 66171
+# Last change: 2026-10-22 13:51:01 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -6758,6 +6758,7 @@
 8xusgsl.duckdns.org
 8xuzdx.duckdns.org
 8xy4v7nw.duckdns.org
+8xzlyusic3.localto.net
 8y343mbc.duckdns.org
 8y695bvcw.duckdns.org
 8y9adiw.duckdns.org
@@ -9269,6 +9270,7 @@ alexiscorp.com
 alexkreeger.com
 alexsandr33.ddns.net
 alfa1000.zapto.org
+alfa30.giize.com
 alfabankhack.ddns.net
 alfamexgdl.com
 alfasig.ddns.net
@@ -9532,6 +9534,7 @@ amakc9.duckdns.org
 amama.hopto.org
 amamuels.duckdns.org
 aman-authconfig.ddns.net
+amandabennette.freeddns.org
 amantrogen.zapto.org
 amaonzw-k.ddns.net
 amaoznejptcoin.zapto.org
@@ -12939,6 +12942,7 @@ bielsistemas.duckdns.org
 bienesraicesenelsalvador.duckdns.org
 bienvenido360.hopto.org
 bienvenidosnewyork.com
+biesmanscars.biz
 bieventsinbut.com
 bif.zapto.org
 bifrost-jordan.zapto.org
@@ -16064,6 +16068,7 @@ chekpointaccount-24.duckdns.org
 chelbi.zapto.org
 cheleseafc82.info
 chellor.cfd
+chember4osc.ydns.eu
 chemes.eu
 chenstravelconsulting.com
 cherir.zapto.org
@@ -26136,6 +26141,7 @@ gewerbeverein-auggen.de
 gewf7klh.duckdns.org
 gewinnspiel-sachsenhausen.de
 gewrgrkaid.duckdns.org
+geyvklsxge.localto.net
 gezakunbyxj.kz
 gezegendunyasi.com
 gf18ylsxk23vqnkhwva.ddns.net
@@ -26479,6 +26485,7 @@ glavpojdfde.com
 glazed-client.com
 glcloudservice.com
 glcpq6u238u0ml1judu.ddns.net
+gldbrt.com
 glechel775verfy.zapto.org
 glencon.at
 glendoradrivingandtraffic.com
@@ -31858,6 +31865,7 @@ ixa112.duckdns.org
 ixahovkj5630ov5jqde.ddns.net
 ixawzg9.duckdns.org
 ixchlwu.info
+ixcube.ddns.net
 ixcvc6y0gls2wjivqvo.ddns.net
 ixfhwuyy9.duckdns.org
 ixg0grq4s430eh7.ddns.net
@@ -33736,6 +33744,7 @@ kdvbowkpsm.duckdns.org
 kdvcua4vs.duckdns.org
 kdwpuju8wts8g6slups8w65.ddns.net
 kdxahx.duckdns.org
+kdxnrjbjlg.localto.net
 kdzsz3.duckdns.org
 kdzvwlfczx.duckdns.org
 ke3ig5thpq.com
@@ -34264,6 +34273,7 @@ klaurdjqogwufkmnt.org
 klaustrofebia.ru
 klavenass.com
 klczrmtbcu.duckdns.org
+kleenghjah.com
 klexxon.hopto.org
 kleyoib.duckdns.org
 klf64h.duckdns.org
@@ -35284,6 +35294,7 @@ leaflookgt.zapto.org
 leagueofbot.ddns.net
 leagueoflegendee.zapto.org
 leagueofnjrat.ddns.net
+leanna.ydns.eu
 leanwithme.xyz
 leapconfig.com
 leapindy.com
@@ -35980,6 +35991,7 @@ log-ing.ddns.net
 log-navvyfcu.duckdns.org
 log.bestrongerlouder.com
 log.osloger.biz
+logbox.hopto.org
 loggerderts.tk
 loggin-accountamazoneqmwoee.duckdns.org
 loggin-accountamazonprimethpnewk.duckdns.org
@@ -40515,6 +40527,7 @@ nanacor.ddns.net
 nanatatatnnana.us
 nancycemt1225.ddns.net
 nandos.hopto.org
+nanejaojmnas.duckdns.org
 nanetsdeb.com
 nangsihistory.vip
 nani-king.zapto.org
@@ -41091,6 +41104,7 @@ newerra.duckdns.org
 newexperience.com.br
 newfandultimati.cc
 newfoodas.top
+newforsiruisadd.ydns.eu
 newfuture.hopto.org
 newgensedd.ddns.net
 newgenseddserver.ddns.net
@@ -41282,6 +41296,7 @@ ngentotloanjingssss.zapto.org
 ngewkwvgxa.duckdns.org
 ngfbmo.duckdns.org
 ngfcp27.duckdns.org
+ngfjhrdtge-51083.portmap.host
 ngg02ak.duckdns.org
 ngheaqmiqp.duckdns.org
 nginxp.hopto.org
@@ -41357,6 +41372,7 @@ nicecolns.com
 nicehache.info
 niceonase.com
 niceonesa.net
+niceports.shop
 nicesearches.com
 nickdns77.duckdns.org
 nickelauttehregiosnffr.duckdns.org
@@ -51557,6 +51573,7 @@ server-details.ddns.net
 server-device.hopto.org
 server-updateinfo0s.hopto.org
 server-walletscb.ddns.net
+server.activeworkshops.com
 server.bovine-mena.com
 server001verinfo.ddns.net
 server01tymyvnc.ddns.net
@@ -52530,7 +52547,9 @@ siorxlrkrwcinnrfqo.info
 siowhacker1952.zapto.org
 sipajetli.host
 siperet.host
+sirius.surpasstools.com
 siriusmd99.zapto.org
+siruvise.ydns.eu
 sisiinno.tech
 sisinfo.ddns.net
 sisoretartian.000webhostapp.com
@@ -54367,6 +54386,7 @@ surfingto.com
 surgeryinterested.com
 surit2948estoat02.duckdns.org
 surrealzxc.co.za
+surveillance.1qq.cam
 surveycashbox.com
 survice440.ddns.net
 survivalandcrossfitness.com
@@ -55215,6 +55235,7 @@ tcovhfixx.info
 tcp.zapto.org
 tcp2dnq3.duckdns.org
 tcpandemidestekuygulamasi03.com
+tcpchujwdupepolicji123-40502.portmap.host
 tcr82.zapto.org
 tcs.zapto.org
 tcsb-aktivasyon20gb-tanimlama.com
@@ -59122,6 +59143,7 @@ venmoauth.hopto.org
 venmoauthorization.hopto.org
 venom123.zapto.org
 venom2023.duckdns.org
+venom5555-39989.portmap.host
 venomcontroler.hopto.org
 venomghost.hopto.org
 venomia.ddns.net
@@ -59912,6 +59934,7 @@ vmlayuqlvm.duckdns.org
 vmlo5fyz.duckdns.org
 vmnvzrpyfr.duckdns.org
 vmo0wyav.duckdns.org
+vmobqlunsw.localto.net
 vmpukffvfj.duckdns.org
 vmqmrjp.com
 vmrologdej.duckdns.org
@@ -60419,6 +60442,7 @@ w0yosnhm.duckdns.org
 w10msizse2003.ddns.net
 w10pwng1.duckdns.org
 w10y62.duckdns.org
+w122411-64886.portmap.host
 w12j5cj.duckdns.org
 w13ouhmih.duckdns.org
 w16fbse4.duckdns.org
