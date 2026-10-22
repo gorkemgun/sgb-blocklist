@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107367
-# Last change: 2026-10-22 18:35:02 UTC (sync mode: delta)
+# Records: 107376
+# Last change: 2026-10-22 22:23:44 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6277,6 +6277,7 @@ aktfbnsgirisleri.com
 aktfburd.shop
 aktfburda.sbs
 aktfeyxlulxdrmxlrm.com.tr
+aktflercdnbers.giize.com
 aktiel.agustocuma.com
 aktiel.aktuelpersembefirsatlari.com
 aktif-basvuru-yapiceplionay.vercel.app
@@ -11530,6 +11531,7 @@ bancaunicredit.cloud
 bancetrbsvruaktif.com
 bandageepel.top
 bandageunprecedented.top
+bandanaman.465154865486516.sbs
 bandcampmusicalbumsseo.com
 bandcamponlinemusicmkt.com
 bandcampwebplayer.com
@@ -41286,6 +41288,8 @@ guvenlialisticari.com.tr
 guvenlialisverim-sahibinden.com
 guvenlialisveris-get.com
 guvenlialisveris-odeme.com
+guvenlialisveris-odeme.info
+guvenlialisveris-odeme.online
 guvenlialisveris-online.com
 guvenlialisveris-sitesi.online
 guvenlialisverisburada.xyz
@@ -46693,6 +46697,7 @@ hzligvnlebzlesn.net
 hzlikmpanyalardasin.blogspot.com
 hzliotodagecshizmeti.net
 hzlirandevlarr.com
+hzlirndal.com
 hzlirndvualmkckn.net
 hzlislemlrnktasi.com
 hzlitahsilat.com
@@ -53389,6 +53394,7 @@ karbuzz.com
 karcaekimgnleri.com
 karcatncrekapinda.top
 karceryerialamdangitme.shop
+karcher-tr.com
 kardanaydinlk.blogspot.com
 kardasticaret.com
 kardelenbursum.com
@@ -79303,6 +79309,7 @@ sadeolnsew.net
 sadeoscmslfirsatlartftrybtgh.blogspot.com
 sadeosolsprisatlaybftrk112.blogspot.com
 sadeosolsprisatlaybftrk112111.blogspot.com
+saderete-teredesede.lol
 sadertipilohigerese.club
 sadesconfirsatlartvbht.blogspot.com
 sadesconfsirsatlartr.blogdns.com
@@ -82195,6 +82202,7 @@ sendlivofse.xyz
 sendreward.com
 sene-basinda-yuzbirde-yeni-firsatlar.shop
 senekolimal.online
+senekolimal.sbs
 senelhgsodme.net
 senelturk.blogspot.com
 senesonu-900tlkampanya-basvur-online.kampanya-basvuru-sayfa.xyz
@@ -103344,6 +103352,7 @@ www-onsatis.xyz
 www-pandemi-aidatsorgu.org
 www-papara-tr.com
 www-pirantech.com
+www-pmtb-cepte-door.myonlineportal.ch
 www-profilekimlerbakiyor.tk
 www-profilime-bakanlar-kimler-com.tk
 www-profilimekimler-bakmis-com.tk
