@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107508
-# Last change: 2026-10-23 18:24:59 UTC (sync mode: delta)
+# Records: 107523
+# Last change: 2026-10-23 22:16:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -438,6 +438,8 @@
 101geldikapida.com
 101harcaharcabitmez2.online
 101hemenkapilarinizdasizinle.ptt-gonderitakip.com
+101hizlialisverishizmeti.duckdns.org
+101hizlikapinda.com
 101hizlimarketleri.online
 101hizlisepet.online
 101hizmeti-17temmuz.xyz
@@ -2990,6 +2992,7 @@
 8888888000000004.cloud
 8889553311.duckdns.org
 88a8a89a98a8a9.net
+88dhabr9s.com
 891244.xyz
 89304-coinbase.com
 89339912834.sbs
@@ -11609,6 +11612,7 @@ bankruptcybout.top
 bankruptcysubordinate.top
 bankruptradiate.top
 bankuraniu.top
+bannedfromserv.sbs
 bannercheck.top
 bannernavigate.top
 banneroccur.top
@@ -17689,6 +17693,7 @@ bvrdunz40.click
 bvrknt10.click
 bvsucurisda20000.tech
 bvva-application.sbs
+bvvbfgvb.click
 bvvdbdbdbsbmx.sbs
 bvz.sgesn.top
 bw2m3cel.com
@@ -30505,6 +30510,7 @@ edevletturkiyeiadekapisigovtr.com
 edevletuyap-veri.com
 edevletuzlasma.org
 edevletv2.endlosstr.com
+edevletvatandasgiris.org
 edevletweb-2020.com
 edevletweb-girisgovtr.app
 edevletyeniliklerigeliridaremde2021cep.com
@@ -30841,6 +30847,7 @@ eglaili.tk
 egm-gov.my.id
 egm-gov.web.id
 egm-serec.net
+egm.govern.my.id
 egmbilisim.com
 egmbirim.org
 egmbull.one
@@ -36028,6 +36035,7 @@ fixturededicate.top
 fixturesceptical.top
 fixturka2.com
 fixxedlab.com
+fiyatinigorunceinanamayacaksin.xyz
 fiyatinikarsilastirmalar.xyz
 fiyatlardakisihirlikdegisimiburada.cfd
 fiyuukurye.com
@@ -41990,6 +41998,7 @@ haberler124114.sbs
 haberler124221.sbs
 haberler1245321.shop
 haberler12531.sbs
+haberler125323.sbs
 haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
@@ -46764,6 +46773,7 @@ hzlirandevlarr.com
 hzlirnad.cfd
 hzlirndal.cfd
 hzlirndal.com
+hzlirndvlr.cfd
 hzlirndvualmkckn.net
 hzlislemlrnktasi.com
 hzlitahsilat.com
@@ -69163,6 +69173,7 @@ orqiwiaa.cn
 orrelatelawsui.top
 orrespondingarmo.top
 orsankerean.ezgateway.net
+orsenminalar.giize.com
 orsignify.top
 orsnvsyty.net
 ortaak-odee.tk
@@ -78951,6 +78962,7 @@ ruhsuzpanel1.sbs
 ruhsuzpanel1.site
 ruhsuzpanel1.website
 ruhsuzpanel10.site
+ruhsuzpanel2.click
 ruhsuzpanel2.shop
 ruhsuzpanel2.site
 ruhsuzpanel2.website
@@ -89476,6 +89488,7 @@ tabsvrnz.net
 tabsvrsnsz.net
 tabu.bastonstudio.com
 tabu.thetupaus.com
+tabupta.duckdns.org
 tacadi1159.site
 tacdsardatopsznolsun58.click
 tackle-play.com
@@ -105937,6 +105950,7 @@ yidingyaobaodan.top
 yieldterrain.top
 yieldup.ch
 yifxea.click
+yigebaciko.shorts.gy
 yigitegitimkultur.net
 yigitegitimvakfi.net
 yigitkulturegitim.org
@@ -106016,6 +106030,7 @@ yildizlarveteknolojikmedeniyetler.xyz
 yildizlibahceligunler.chickenkiller.com
 yildora-venkupali.lol
 yildora.live
+yildzfirstdunyasi.duckdns.org
 yildzkampnya-yeni.online
 yildzurunlerkampanysi.duckdns.org
 yilgunturizmseyahatacentasi.com
