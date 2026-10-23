@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107428
-# Last change: 2026-10-23 07:37:17 UTC (sync mode: delta)
+# Records: 107443
+# Last change: 2026-10-23 13:31:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -557,6 +557,7 @@
 120200000000034445.duckdns.org
 120219292929388.webredirect.org
 120298573000294.webredirect.org
+1204010259.click
 120sd3.cn
 1211122211112.duckdns.org
 121231231313145451.blogspot.com
@@ -16273,6 +16274,7 @@ brandolim.com
 brandora.blog
 brandsonseller.com
 brandtemporal.top
+brandvexoria.com
 brandwave.top
 brandydistil.top
 brandyhum.top
@@ -19344,6 +19346,7 @@ ceska-post-a.blog
 ceskapostaec.top
 ceskapostapy.click
 cessdtv.com
+ceste-slok.lol
 cesurio.com
 cesyasa.click
 cetethrem.com
@@ -32570,6 +32573,7 @@ eruptlubrication.top
 eruptonce.top
 erwqmsdsds.shop
 eryamanodin.wiki
+erybotabe.com
 es-d-5476003920260404-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 es-pacemento.com
 es-placements.com
@@ -46723,6 +46727,7 @@ hzligvlivrgiodemexin.net
 hzligvnlebzlesn.net
 hzlikmpanyalardasin.blogspot.com
 hzliotodagecshizmeti.net
+hzlirand.cfd
 hzlirandevlarr.com
 hzlirndal.cfd
 hzlirndal.com
@@ -60276,6 +60281,7 @@ maskmethalogns.webflow.io
 maskproofread.top
 maskulenshow.duckdns.org
 maslak-1453cahidepalazzo.xyz
+maslakofficebye.duckdns.org
 masoylasendehizlicagec.net
 maspiodaonmb.icu
 mass.gov-cuod.shop
@@ -62277,6 +62283,7 @@ mirverlleknim.com
 mirzanyapi.com
 mirzato.pro
 mirzonrrlekfen.com
+misafirdogrulama.com
 miscoloration.com
 miserableirritation.top
 miserableult.top
@@ -63447,6 +63454,7 @@ mrrmsmrsrndnv.com
 mrs-saglik.com
 mrsbhais.online
 mrsbhais.xyz
+mrsrndvuhzlial.top
 mrssaglik.com
 mrvelleverage.top
 mryetherwallet.com
@@ -64326,6 +64334,7 @@ naeznaemloda.duckdns.org
 nafnaklerqeawas.net
 nafselaerasa.net
 naftolinne.com
+nagbadbadg.duckdns.org
 nahis.online
 naidistortio.top
 nailabnormal.top
@@ -65905,6 +65914,7 @@ nopanel-36672.top
 nopanel-37472.top
 nopanel-440001.top
 nopanel-453465.top
+nopanel-466335.top
 nopanel-564732.top
 nopanel-66235.top
 nopanel-723462.top
@@ -66133,6 +66143,7 @@ noventia.info
 novetra.store
 novexaril.org
 novexavas.pro
+novges.com
 novgorod-basket.ru
 novikarex.capital
 noviro.xyz
@@ -78908,6 +78919,7 @@ ruhsuzpanel6.site
 ruhsuzpanel7.site
 ruhsuzpanel7.world
 ruhsuzpanel9.site
+ruhsuzpanelhizmetlerim.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
 ruhsuzsistem1.click
@@ -80129,6 +80141,7 @@ sahibinden.id17038.com
 sahibinden.id46088.com
 sahibinden.id51452.cfd
 sahibinden.id53131.cfd
+sahibinden.id64827.cfd
 sahibinden.id72662.cfd
 sahibinden.ilan-aktif.com.tr
 sahibinden.ilan-al-ode.com.tr
@@ -85686,6 +85699,7 @@ sorgu.world
 sorgu.wtf
 sorgu.xyz
 sorgu1.site
+sorgu3169.site
 sorguadalet.org
 sorguadli.org
 sorguadliye.net
@@ -94485,6 +94499,7 @@ trizoriologin.webflow.io
 trizratfrfs.cfd
 trjaario-start.webflow.io
 trjamer-dyson.com
+trjdsh2151adf.duckdns.org
 trjfmrgvrg.net
 trk20mb.herokuapp.com
 trkaflsdkckode.net

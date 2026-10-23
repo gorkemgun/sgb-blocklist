@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259775
-# Last change: 2026-10-23 07:37:17 UTC (sync mode: delta)
+# Records: 259794
+# Last change: 2026-10-23 13:31:06 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -3504,6 +3504,7 @@
 182-onlines.fun
 182-webhati.com
 182-website.com
+18218219219219.bounceme.net
 1822-mehares.com
 1824345355535.cloud
 18256262660.xyz
@@ -6710,6 +6711,7 @@
 321846656498.cloud
 321981651985616532.net
 321l231ll212323219.shop
+321x232321.duckdns.org
 32221x3de332.duckdns.org
 322323232.duckdns.org
 32257657358356133.com
@@ -10571,6 +10573,7 @@
 9166.site
 9171268.duckdns.org
 91732486.com
+91829172182.duckdns.org
 91895911.com
 9189994211-1.cloud
 91910403031-11.cloud
@@ -56360,6 +56363,7 @@ carrefoursafirsat.com
 carrefoursafirsat.shop
 carrefoursafirsatindirim.shop
 carrefoursafirsatlardunyasi.com
+carrefoursafirsatlariniz991.duckdns.org
 carrefoursaharamidere.com
 carrefoursaharamidere.net
 carrefoursaharamidere.org
@@ -85178,6 +85182,7 @@ emaliye.com
 emaliye.net
 emaliye.org
 emaliyecezasorgulama.org
+emaliyedosya.com
 emaliyegovtr23.com
 emaliyegovtr252.com
 emaliyegovtr253.com
@@ -90676,6 +90681,7 @@ evrenismecis.duckdns.org
 evrenkrepal.net
 evrensel.name.tr
 evrenselamcanm.duckdns.org
+evrensorgupaneli.click
 evrensorgupaneli.online
 evrenyardimerkezi.tech
 evrixaapp.shop
@@ -91538,7 +91544,9 @@ facebook-login-instant-es.com.ph
 facebook-login-instant-hk.com.ph
 facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
+facebook-login-instant-vn.com.ph
 facebook-login-login-extra.ph
+facebook-login-login-nz-asia.com.ph
 facebook-login-myanmar-intl.com.ph
 facebook-login-no-logino-com.ph
 facebook-login-page-secure.ph
@@ -91590,6 +91598,7 @@ facebooklogindaily.com.ph
 facebookloginepsilon.com.ph
 facebookloginf.com.ph
 facebookloginfaith.com.ph
+facebookloginfaithdance.com.ph
 facebookloginfaiths.com.ph
 facebookloginfamilyfair.com.ph
 facebookloginfamilyfuns.net.ph
@@ -109322,6 +109331,7 @@ haberler.sizde.com.solanamolana.click
 haberler.win
 haberler103342.shop
 haberler112123.sbs
+haberler116423.sbs
 haberler1212151.sbs
 haberler122746.sbs
 haberler123.shop
@@ -131767,6 +131777,7 @@ instagramhikaye.tk
 instagramhizmetler.com
 instagramhizmetlerim.live
 instagramlogin910.blogspot.com
+instagramloginhelpteaminfoteam.ph
 instagramm.net
 instagrammer.ml
 instagrammm.com
@@ -154042,6 +154053,7 @@ kuftra.com
 kufurbazhaydo.com
 kufurherseyserbest.net
 kugfcerdsa.click
+kugogogosahdahs99sad.lol
 kugupastanemanavgat.online
 kuhgoplikvo.click
 kuhlotdelsl.net
@@ -157890,6 +157902,7 @@ m-enubasvurusukayitbilgilerin.online
 m-enukayitbasvuruisbilgilerim.online
 m-enutemmuzgirslemleri.online
 m-erkezbankasi.com
+m-facebook-update-help.com.ph
 m-firsatmobildenizde.com
 m-fr-trfacebook.com
 m-g3yes-tk.cdn.ampproject.org
@@ -159423,6 +159436,7 @@ marksajndspencer.com.ph
 marksancspencer.com.ph
 marksanddpencer.com.ph
 marksandspancer.com.ph
+marksandspencer-airnewzealand-icc.com.ph
 marksandspencer-login.ph
 marksandspencer1.online
 marksandspencerhrvatska.com.ph
@@ -167531,6 +167545,7 @@ nabizsensin.wuaze.com
 nabsali-aldin-aldin.cfd
 nabsali-aldin-aldin.cyou
 nabsali-aldin-aldin.icu
+nabsbahala-ladnwnaha-dhgdf.sbs
 nacasada.site
 nacrysol.com
 nadaeqa.net
@@ -170149,6 +170164,7 @@ nv-ix6diyaxainanim.net
 nv-mac-try.net
 nv-nakavt-l.blogspot.com
 nv-nfs-system.net
+nv-online.click
 nv-randevular.info
 nv-randevum.info
 nv-system-docs.net
@@ -216848,6 +216864,7 @@ teb-online-cep-tr.com
 teb-online-giris-tr.com
 teb-online-giris.tk
 teb-online-islem-merkezi.com
+teb-online.duckdns.org
 teb-onlinecep-bireysel-tr.com
 teb-onlineceptekampanyam.duckdns.org
 teb-onlinesubesi-cepte-tr.com
@@ -217130,6 +217147,7 @@ tebmarifetlihesap.com
 tebmobil-com-tr.tk
 tebmobil-islemlergov.life
 tebmobil.co.vu
+tebmobil.duckdns.org
 tebmobil.my-homeip.net
 tebmobilaktivasyon-v1.tk
 tebmobilaktivasyon-v2.tk
@@ -217152,6 +217170,7 @@ tebmobilkredi.my-homeip.de
 tebmobilsube.werte.win
 tebmobilsubem.com
 tebmobilsubemcep.ml
+tebnetinden-girislerim.duckdns.org
 tebobeba.duckdns.org
 tebonlinebanka.tk
 tebonlinebankacilik.com
