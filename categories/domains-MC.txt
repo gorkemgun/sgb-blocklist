@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41601
-# Last change: 2026-10-22 07:39:53 UTC (sync mode: delta)
+# Records: 41605
+# Last change: 2026-10-23 18:24:59 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -10326,6 +10326,7 @@ dftyuqnfjnnhpqocm.org
 dfuewe.icu
 dfuykhndfkhjdfnkdfhbdfkjhdbhkf.com
 dfvzfvd.help
+dfwioeiofwr.info
 dfwuhhmaqg.brianmira.ru
 dfxvsbljmrgpgnb.cn
 dgaef.com
@@ -14716,6 +14717,7 @@ gastdigit.quest
 gaswingassistance.com
 gatcachesec.com
 gate-io-xyz.xyz
+gate.dfwioeiofwr.info
 gate.uhuioo.cf
 gatemaden.space
 gateway-yahoo.com
@@ -20288,6 +20290,7 @@ kjxd.xyz
 kjysstpll.org
 kka5c.marioanalytics.my.id
 kkbuex.xyz
+kkeyyou.cc
 kkftodesk101.top
 kkftodesk102.top
 kkftodesk104.top
@@ -33094,6 +33097,7 @@ soma1q-46620.portmap.io
 somaplast.cf
 somaplast.ga
 somatoka51hub.net
+somelitersofblood.pw
 somipt.ymsqs.ru
 somniosus.xyz
 somolinosstrategies.com
