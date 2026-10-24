@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107528
-# Last change: 2026-10-24 05:58:01 UTC (sync mode: delta)
+# Records: 107538
+# Last change: 2026-10-24 11:10:41 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -327,6 +327,7 @@
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
+101-extra-sadece-online-ozel-cep-alisveris-sepet-bilgileri-tr.plus
 101-extra-sadece-online-ozel-indirim-alisveris-sepette.cepindeki-indirim.online
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
@@ -31070,6 +31071,7 @@ ekimayifinssmanlar.net
 ekimayifinssmanlar.org.tr
 ekimayifirsatkampanyasibnance.tech
 ekimayiflrsatlarl.com
+ekimdekacirilmamali.sbs
 ekime-ozel-bunus-kampanyasi.ml
 ekimeozel-basvurukampanyafirsatibance.tech
 ekiminbufirsatinlakacirmayin.online
@@ -42005,6 +42007,7 @@ haberler125421.sbs
 haberler125423.sbs
 haberler1256236.shop
 haberler12564.sbs
+haberler12644.sbs
 haberler1269315.sbs
 haberler1278945.shop
 haberler1283432.shop
@@ -46811,6 +46814,7 @@ hzrn25bayramhediyesi.net
 hzrn26aldnaldndevkmpnya.net
 hzrnayiherzamanyay.online
 hzrnayninurnllri-ynigncll.net
+hzrnd.cfd
 hzrnnfrstklmaaa.com
 hzrnxfirsstllrda-onlnyni.net
 hzrpnl.online
@@ -78571,6 +78575,7 @@ rndvualmrse.cfd
 rndvucunuz.net
 rndvuhizmetim.org
 rndvuhzlalsmd.com
+rndvuhzlmisnce.cfd
 rndvulrhzlica.cfd
 rndvumrs.cfd
 rndvunuzuayirin.com
@@ -86155,6 +86160,7 @@ soyguncheck.online
 soykanbutik.fun
 soykanchecker.com
 soykun.icu
+soylebisaat.duckdns.org
 soylemektencekinmeyinbunlari.net
 soylevv.net
 soypir.top
@@ -90477,6 +90483,7 @@ teb-2019basvurutr.com
 teb-ayrica.my-homeip.de
 teb-bankas-login.my-homeip.com
 teb-basvurtr.com
+teb-basvuru.mobil-bankacilik.site
 teb-com-tr-emekli-sayfasi.my-homeip.de
 teb-com-tr-emekli.myonlineportal.at
 teb-com-tr-emekliyeozel.my-homeip.de
@@ -90487,6 +90494,7 @@ teb-com-tr-promo.internet-subesi.site
 teb-com-tr-web-firsatlari.my-homeip.de
 teb-com-tr-web.my-homeip.de
 teb-com-tr.internet-subesi.site
+teb-com-tr.mobil-bankacilik.site
 teb-com-tr.my-homeip.de
 teb-com.internet-subesi.site
 teb-com.my-homeip.de
@@ -94247,6 +94255,7 @@ trendyol.jeabynews.com
 trendyol.korayturk.com
 trendyol.lol
 trendyol.mobilservisin-24.sbs
+trendyol.mobilservisler-77.sbs
 trendyol.my
 trendyol.online-store.top
 trendyol.services
@@ -96275,6 +96284,7 @@ tvuturkaracmuane.web.app
 tvvrndev.shop
 tvvtrkaarcmysn.net
 tvvtruk.com
+tvvtrzzrrrserndvs.space
 tvvvvtrkaracmuayene.net
 tvytdarcmuyanene.net
 tw-kim-bakti.tk
