@@ -1,28 +1,28 @@
 {
   "layout": 3,
-  "last_run": "2026-10-23 22:16:03",
-  "last_full": "2026-10-22 22:23:44",
-  "last_mode": "delta",
-  "date_gte": "2026-10-23 12:24:59",
-  "newest_record_date": "2026-10-23 21:44:19.024276",
+  "last_run": "2026-10-24 00:48:52",
+  "last_full": "2026-10-24 00:48:52",
+  "last_mode": "full",
+  "date_gte": null,
+  "newest_record_date": "2026-10-24 00:09:58.034857",
   "fetched": {
-    "domain": 97,
-    "url": 0,
-    "ip": 0,
-    "ip6": 0,
+    "domain": 476252,
+    "url": 6927,
+    "ip": 15820,
+    "ip6": 6,
     "ip6net": 0
   },
   "counts": {
-    "domains.txt": 476206,
+    "domains.txt": 476207,
     "urls.txt": 6927,
     "ipv4.txt": 15820,
     "ipv6.txt": 6,
     "ipv6net.txt": 0,
-    "url-list.txt": 498959,
+    "url-list.txt": 498960,
     "domains-from-urls.txt": 3305
   },
   "category_counts": {
-    "categories/domains-BP.txt": 259801,
+    "categories/domains-BP.txt": 259802,
     "categories/domains-CA.txt": 180,
     "categories/domains-MC.txt": 41605,
     "categories/domains-MD.txt": 66171,
@@ -45,8 +45,8 @@
     "categories/urls-PH.txt": 272
   },
   "delta_vs_previous": {
-    "domains_added": 16,
-    "domains_removed": 0
+    "domains_added": 3,
+    "domains_removed": 2
   },
   "changed_files": [
     "categories/domains-BP.txt",
@@ -54,7 +54,9 @@
     "domains.txt",
     "url-list.txt"
   ],
-  "skipped": {},
+  "skipped": {
+    "domain": 4
+  },
   "api": "https://siberguvenlik.gov.tr/api/address/index",
   "generator": "scripts/sgb_sync.py"
 }

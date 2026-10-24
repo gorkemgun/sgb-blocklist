@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 476206
-# Last change: 2026-10-23 22:16:03 UTC (sync mode: delta)
+# Records: 476207
+# Last change: 2026-10-24 00:48:52 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -87680,7 +87680,6 @@ borsahaber.world
 borsahaberler.online
 borsahaberleri.info
 borsahaberleri.world
-borsahedef.app
 borsahedef.pages.dev
 borsahediyeleriii.com
 borsahub.net
@@ -206179,6 +206178,7 @@ hemenkolaycagelsenizessad.com
 hemenkolaycaglsnenzse.com
 hemenkontoryukle.com
 hemenkontrolet.xyz
+hemenkontrolsagla.abrdns.com
 hemenkonturbixmcellyukle.net
 hemenkred.ezyro.com
 hemenkredi.site
@@ -266266,7 +266266,6 @@ kurbantakipdestek.online
 kurbanvergisi.net
 kurbasvurkazan.life
 kurbnbyrmiozlkrca.com
-kurcala.net
 kurchine.com
 kurd.zapto.org
 kurdakurd.zapto.org
@@ -355022,6 +355021,7 @@ ruhsuzpanel9.site
 ruhsuzpanelhizmetlerim.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
+ruhsuzpanelvsusom.click
 ruhsuzsistem1.click
 ruhumsokakgibiolduguyerde.blogspot.com
 ruhzy.top
@@ -383164,6 +383164,7 @@ sorgupanel.store
 sorgupanel.xyz
 sorgupanel1.name.tr
 sorgupanel33.click
+sorgupanelcileri.click
 sorgupanelciniz.com.tr
 sorgupanelciniz.world
 sorgupanelhizli.site

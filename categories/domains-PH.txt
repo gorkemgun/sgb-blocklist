@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
 # Records: 107523
-# Last change: 2026-10-23 22:16:03 UTC (sync mode: delta)
+# Last change: 2026-10-24 00:48:52 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -16087,7 +16087,6 @@ borsa.bitci.com.froggysureste.com
 borsa.xn--bitc-oza.com
 borsaci.site
 borsagundemi.media
-borsahedef.app
 borsahedef.pages.dev
 borsahediyeleriii.com
 borsahub.net
@@ -43751,6 +43750,7 @@ hemenkiralikaraban.com.tr
 hemenkiralikaracim.com.tr
 hemenkmaraba.com
 hemenkmsrg.com
+hemenkontrolsagla.abrdns.com
 hemenlanlsatnas.net
 hemenlslemlerlelersin.net
 hemenmakek.cfd
@@ -56090,7 +56090,6 @@ kurasiztokim.sbs
 kurasorgu.com
 kurbanbayramkredifirsat.net
 kurbandageldi.cfd
-kurcala.net
 kurdhack.page.tl
 kurdyolu2.net
 kurex.cyou
@@ -78983,6 +78982,7 @@ ruhsuzpanel9.site
 ruhsuzpanelhizmetlerim.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
+ruhsuzpanelvsusom.click
 ruhsuzsistem1.click
 ruinousatrocious.top
 ruinouseminent.top
