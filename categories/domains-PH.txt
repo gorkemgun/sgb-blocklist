@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107523
-# Last change: 2026-10-24 00:48:52 UTC (sync mode: full)
+# Records: 107528
+# Last change: 2026-10-24 05:58:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -416,6 +416,7 @@
 101alimlariburadanyapiliyor.sbs
 101alisveris.com
 101alisverisredmiburasi.sbs
+101anindafirsatyakala.duckdns.org
 101aonlinesatinal-shop.preview-domain.com
 101bayramfirsatseninlebaslar.vercel.app
 101bayramkampanyasitvleri.vercel.app
@@ -545,6 +546,7 @@
 11130059322882.webredirect.org
 111300593882.ooguy.com
 11164211116644355.duckdns.org
+111hizligiris.duckdns.org
 112-365-22-145.com
 1123344225566112.duckdns.org
 1124111123.com
@@ -556,6 +558,7 @@
 1126betturkey.com
 11284684682741116-verify.net
 112acilkiyafetler.com
+112hizligiris.duckdns.org
 113912-coinbase.com
 1145456225.cloud
 11472-coinbase.com
@@ -49435,6 +49438,7 @@ insightfularrogance.top
 insightfulcoconut.top
 insightfulcontemplate.top
 insightfulsubtlety.top
+insights.herbital.online
 insightsforconsultancy.com
 insistblush.top
 insistenceaftermath.cn
@@ -79569,6 +79573,7 @@ saglikuygulamasi5.com
 saglkgnlerderndvalnyrz.click
 saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
+saglkrnd.cfd
 sagotravel.com.tr
 sahabet.press
 sahabet671.com.tr
