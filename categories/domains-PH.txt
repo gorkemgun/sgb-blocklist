@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107591
-# Last change: 2026-10-24 20:55:14 UTC (sync mode: delta)
+# Records: 107593
+# Last change: 2026-10-24 23:19:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -37620,6 +37620,7 @@ garanti-kredi-basvurusu.cloud
 garanti-kredi-firsati-ekim-ayina-ozel.cloud
 garanti-krediye-basvur.sbs
 garanti-nakit-destek.cloud
+garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
 garanti-odeme-sistemi.cloud
 garanti-onay-sistemi.cloud
@@ -43450,6 +43451,7 @@ hegesecim.com
 hegesegunduz.com
 hegeseodemelr.com
 hegeseodemesi.vercel.app
+hegwgsaagl.giize.com
 hehbimcell.com
 height-investments.info
 heightanalogy.top
