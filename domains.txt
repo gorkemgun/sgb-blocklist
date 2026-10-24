@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 476277
-# Last change: 2026-10-24 14:36:45 UTC (sync mode: delta)
+# Records: 476300
+# Last change: 2026-10-24 18:12:17 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17616,6 +17616,7 @@
 6161616161.duckdns.org
 6161616324.duckdns.org
 616166145456-2025.xyz
+6164252151zsf.duckdns.org
 616571056.cloud
 616601725.cloud
 61662542.cloud
@@ -25038,6 +25039,7 @@ a101.haziranayininfirsatlari.com.tr
 a101.haziranayininfirsatlarii.com.tr
 a101.haziranindirimlerin.online
 a101.hizli-kampanya.online
+a101.hizlifirsatim.com
 a101.hizligiriss.com
 a101.homes
 a101.hopto.org
@@ -46845,6 +46847,7 @@ analogueradiate.top
 analogyation.top
 analogycontingent.top
 analogydispatch.top
+analwithablond.xyz
 analysecriterion.top
 analysethorn.top
 analyseuprising.top
@@ -98649,6 +98652,7 @@ cbrw.ru
 cbryt.buzz
 cbsceza.com
 cbsdava.com
+cbsdosya.com
 cbseferberlik20gb.com
 cbsgib.org
 cbsinfaz.com
@@ -138287,6 +138291,7 @@ e-devlet.cf
 e-devlet.click
 e-devlet.cn.com
 e-devlet.co
+e-devlet.de
 e-devlet.dev
 e-devlet.duckdns.org
 e-devlet.evlilikkredibasvuru.com
@@ -162971,6 +162976,8 @@ facebook-login-check-meta.ph
 facebook-login-checker.ph
 facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
+facebook-login-help-de.com.ph
+facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
 facebook-login-in-eg.com.ph
 facebook-login-in-ru.com.ph
@@ -162984,10 +162991,13 @@ facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
 facebook-login-instant-vn.com.ph
 facebook-login-ireland-cork.com.ph
+facebook-login-lisbon.com.ph
 facebook-login-login-extra.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
+facebook-login-new-york.com.ph
 facebook-login-no-logino-com.ph
 facebook-login-osaka10014.com.ph
 facebook-login-page-secure.ph
@@ -163084,6 +163094,7 @@ facebookloginlabe.net.ph
 facebookloginlabg.com.ph
 facebookloginlabg.net.ph
 facebookloginlabz1.com.ph
+facebookloginlakezx.net.ph
 facebookloginlal.com.ph
 facebookloginlal.net.ph
 facebookloginlam.com.ph
@@ -195318,6 +195329,7 @@ haber1453.shop
 haber1453.site
 haber1453.website
 haber15132.sbs
+haber151462.sbs
 haber156.club
 haber156.online
 haber156.site
@@ -216213,6 +216225,7 @@ hnbdfasgva.net
 hnbdv374367.click
 hnbffbyfwjscsxp.ru
 hnc0lnwztn.hopto.org
+hndgfxbas.duckdns.org
 hndjckm-kdjcja-5g7hdj-ldkmkc-hydg.rf.gd
 hndkgercsler.net
 hndmfgnyuklemler.net
@@ -220652,6 +220665,7 @@ hzl-yonsz-bni.store
 hzl72r.duckdns.org
 hzlagasf.net
 hzlagecmk.net
+hzlalrndeuv.cfd
 hzlalsverskampanya.xyz
 hzlalsverskapnda.com
 hzlanmaknk.net
@@ -270150,6 +270164,7 @@ letbaablclmoutsin.duckdns.org
 letcalneeveng.com
 letconsecutive.top
 letgo-alim.net
+letgo-cuzdanimguvende.online
 letgo-guvenliodeme-noktasi-hizmetleri-com.line.pm
 letgo-guvenliodeme-noktasi-hizmetlerim-com.line.pm
 letgo-guvenliodeme.com
@@ -338813,6 +338828,7 @@ pttavm.ilan-mobilde.com
 pttavm.ilan-satin-al.com.tr
 pttavm.ilan-satisi-hizli.com.tr
 pttavm.ilan-sepetimde.com
+pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanda-sepetim-1097.com
 pttavm.ilanda-siparislerim.com
 pttavm.ilanhizmetlerim.com.tr
@@ -355920,6 +355936,7 @@ s-paramguvende-sahibinden.com
 s-paramguvende-sahibinden.tk
 s-paramguvende-sahibininden.com
 s-paramguvende.42web.io
+s-paramguvende.bilgi-urundetayi.online
 s-paramguvende.cf
 s-paramguvende.co
 s-paramguvende.com
@@ -376719,6 +376736,7 @@ siparistakippttavm.cfd
 siparistakippttavm1.cfd
 siparistakippttavmde.cfd
 siparistakippttavmde1.cfd
+siparisteslimati.com
 siparistnym.online
 siparisurunpay.online
 siparisver-guvenli.com
@@ -381894,6 +381912,7 @@ sonfirsatlarburda.shop
 sonfirsatlareylul.name.tr
 sonfirsatlareylul.net.tr
 sonfirsatlareylul.org.tr
+sonfirsatlarihemenyakala.xyz
 sonfirsatlarikacirma.duckdns.org
 sonfirsatlarikacirmaadansatinal.com.tr
 sonfirsatlarikacirmaadansatinal.online
@@ -395138,6 +395157,7 @@ takiplerinnizzzii.za.com
 takiplerinnizzziim.ru.com
 takiplerinnizzziim.sa.com
 takipliyoz.fun
+takipmali.org
 takipmerkezi.org
 takipmerkezim.ga
 takipnumaram.com.tr
@@ -420149,6 +420169,7 @@ tvtrkmynexx.duckdns.org
 tvtrkodeme.blogspot.com
 tvtrkodemeleri.blogspot.com
 tvtrkodemesi.blogspot.com
+tvtrkogren.org
 tvtrkrandevu.blogspot.com
 tvtrkrandevu.net
 tvtrkrandevuualma.com
@@ -427447,6 +427468,7 @@ vakif-e-subeonlllinegirsisllem.tk
 vakif-egiris-dogrulama.net
 vakif-elosmaniye.xyz
 vakif-en.com
+vakif-erken-onay.duckdns.org
 vakif-esubem.xyz
 vakif-firsatlari.ml
 vakif-firsatlarla-kampanyalar.best
@@ -449746,6 +449768,7 @@ www-surfshark.com
 www-sync-ceptedir.myonlineportal.ch
 www-t-eknosa.com.tr
 www-t0gg.net
+www-tamtb-cepte-screen.myonlineportal.ch
 www-tb-cepte-coms.myonlineportal.ch
 www-tb-customer-web.myonlineportal.ch
 www-tb-lgn-ayrica.myonlineportal.ch

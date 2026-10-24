@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107577
-# Last change: 2026-10-24 14:36:45 UTC (sync mode: delta)
+# Records: 107590
+# Last change: 2026-10-24 18:12:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2550,6 +2550,7 @@
 61355xf6771d2.duckdns.org
 616121.xyz
 6161616161.duckdns.org
+6164252151zsf.duckdns.org
 61662542.cloud
 61835-coinbase.com
 61851-coinbase.com
@@ -3695,6 +3696,7 @@ a101.haftanin-urunleri.com.tr
 a101.haftaninyildizlari.org
 a101.haziranayininfirsatlarii.com.tr
 a101.hizli-kampanya.online
+a101.hizlifirsatim.com
 a101.hizligiriss.com
 a101.ilan-sepetlerimiz-burada.com
 a101.indirimfirsatlari.pro
@@ -7618,6 +7620,7 @@ analogueradiate.top
 analogyation.top
 analogycontingent.top
 analogydispatch.top
+analwithablond.xyz
 analysecriterion.top
 analysethorn.top
 analyseuprising.top
@@ -18956,6 +18959,7 @@ cbookindate.com
 cbpzsxxiv.acessoeditoracao.com.br
 cbsceza.com
 cbsdava.com
+cbsdosya.com
 cbsgib.org
 cbsinfaz.com
 cbstalimat.com
@@ -41875,6 +41879,7 @@ haber1453.shop
 haber1453.site
 haber1453.website
 haber15132.sbs
+haber151462.sbs
 haber156.club
 haber156.online
 haber156.site
@@ -45650,6 +45655,7 @@ hmxxhkxsz-hizliodemelerpttavm.com
 hn16ekp.ytyukai.cn
 hnaolangnleremynym.shop
 hnbdfasgva.net
+hndgfxbas.duckdns.org
 hndqiuebgibuiwqdhr.cyou
 hnezkh.help
 hngsnbxdnssn.org
@@ -46780,6 +46786,7 @@ hzhssowopx.blogspot.com
 hzhygw.cn
 hzl-gvnl-ynlndrz.cc.dvrlists.com
 hzl-siprs-olustr.cfd
+hzlalrndeuv.cfd
 hzlalsverskapnda.com
 hzlbsvrlr-tokl.com
 hzld-brnd-yap.mooo.com
@@ -74792,6 +74799,7 @@ pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilan-getsecure.com
 pttavm.ilan-hizmet.com.tr
 pttavm.ilan-satisi-hizli.com.tr
+pttavm.ilan-sepetlerimiz-buradan.com
 pttavm.ilanda-sepetim-1097.com
 pttavm.ilanlar-aktif.com.tr
 pttavm.ilanlar.com.pl
@@ -79187,6 +79195,7 @@ s-paramguvende-mobile-odeme.com
 s-paramguvende-n.com
 s-paramguvende-online-alisveris.online
 s-paramguvende-online-alisveris.xyz
+s-paramguvende.bilgi-urundetayi.online
 s-paramguvende.e-alisveristicaret.net
 s-paramguvende.get-alisveris.com
 s-paramguvende.hizmet-tr.com.tr
@@ -84341,6 +84350,7 @@ siparisonayla.online
 siparisonaylama.xyz
 siparissepeti.click
 siparistakippttavmde.cfd
+siparisteslimati.com
 siparisver-hemen.com
 siparisver.net.tr
 siparisverafyon.com
@@ -89735,6 +89745,7 @@ takiplerci.top
 takipleriniz.vip
 takiplerinnizzziim.sa.com
 takipliyoz.fun
+takipmali.org
 takipnumaram.com.tr
 takiprank.online
 takips.fun
@@ -96277,6 +96288,7 @@ tvtrklegothems.net
 tvtrkmafylari.duckdns.org
 tvtrkmrndvu.net
 tvtrkmtv.net
+tvtrkogren.org
 tvtrkrnvdmlrm.com
 tvtrksals.xyz
 tvtrksalyal.xyz
@@ -103561,6 +103573,7 @@ www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
 www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
+www-tamtb-cepte-screen.myonlineportal.ch
 www-tb-cepte-coms.myonlineportal.ch
 www-tb-customer-web.myonlineportal.ch
 www-tb-lgn-ayrica.myonlineportal.ch
