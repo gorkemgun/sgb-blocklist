@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107621
-# Last change: 2026-10-25 09:52:16 UTC (sync mode: delta)
+# Records: 107636
+# Last change: 2026-10-25 14:25:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -296,6 +296,7 @@
 101-extra-sadece-bugune-ozel-alisveris-sepeti-indirim-tr.cepsatis-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.360-mobil-pro.com
+101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cde7444.site
 101-extra-sadece-bugune-ozel-alisveris-shop-bilgileri-cepte.magazada.site
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
@@ -321,6 +322,7 @@
 101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online
 101-extra-sadece-bugune-ozel-online-alisveris-indirim-sepeti-tr.links36.online
 101-extra-sadece-bugune-ozel-online-alisveris-mobil-sepeti-tr.kisalt085.online
+101-extra-sadece-bugune-ozel-online-alisveris-sepeti-tr.bur90807.site
 101-extra-sadece-bugune-ozel-online-alisveris-shop-tr.expres-tr.online
 101-extra-sadece-bugune-ozel-online-indirim-alisveris-sepette.expert-shop.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
@@ -341,6 +343,7 @@
 101-extra-sadece-online-bugune-ozel-alisveriste-indirim.shps-cep.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
+101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
@@ -17661,6 +17664,7 @@ buyuk-indirim.nisan-kampany.com
 buyuk-indirim.zamanlari.com
 buyuk-kampanyagunleri-geri-geldi.shop
 buyukabanthoteli.com
+buyukbabacan.net
 buyukfirsatlarkacilirmazhaftasonualdinaldin.com
 buyukkampanyaa.com
 buyukotelabant.com
@@ -17693,6 +17697,7 @@ bvaagrndsclmon1linecetbasvurmrs.net
 bvadagrndsclmon1linecetbasvrs.net
 bvasdrrad-e.net
 bvbngfvdfdckuj.top
+bvc3456.site
 bvcbcftcmhfg.blogspot.com
 bvclkvckll.net
 bvhsllclvl.com
@@ -26832,6 +26837,7 @@ detailedvaccine.top
 detailings.click
 detailnominal.top
 details-reform.com
+detailsarrival.com
 detailsconfirm.world
 detainfoa.top
 detainskim.top
@@ -31026,6 +31032,7 @@ eighthrepress.top
 eightypredecessor.top
 eikamet-sigorta.com
 eikampanya-bireyselformu900tl-basvur-com.ml
+eikimfirstlari.hizlifirsatim.com
 eincun.top
 einfazceza.com
 einfazceza.org
@@ -44280,6 +44287,7 @@ hftnyldzlbrada.click
 hftortasindrmelrbrda101.com
 hfts1brd0nglal10cmz.com
 hfts1brd0nglal1cmz.com
+hftsnkcrmzfirs.duckdns.org
 hftsolgne10n1brd-akmpya.com
 hftyldzhmnfrts.click
 hftyldzhmnl.shop
@@ -53808,6 +53816,7 @@ katkidabulunuyoruz.site
 katlanabilirmasasandalye.com
 katlanabilirmasasandalyetakimi.com
 katlburdaherkesmerkez4.click
+katlg1001helbi.duckdns.org
 katmanli.org
 kaudng.cn
 kavanovat.com
@@ -60278,6 +60287,7 @@ martibutik.tech
 martin-hotelprague.com
 martindirimleriilegeldia1o1.online
 martinhotel-prague.com
+martiniguston.giize.com
 martkampanysi.cfd
 martp-ttfirsatlari.cfd
 martsigortasi.site
@@ -61434,6 +61444,7 @@ mersiniyilikor.net
 mersinturktelekom.com
 mertdanisma321.duckdns.org
 mertenemege.online
+mertiyungl.duckdns.org
 merv34i43i2ds.wiki
 mervd12-af.space
 mervedenizbukulmez.online
@@ -66030,6 +66041,7 @@ nopanel-36672.top
 nopanel-37472.top
 nopanel-440001.top
 nopanel-453465.top
+nopanel-463125.top
 nopanel-466335.top
 nopanel-564732.top
 nopanel-66235.top
@@ -97138,6 +97150,7 @@ updata.net.cn
 updatacloudz.com
 update-for-today.com
 update-gb.top
+update-guest.com
 update-id4687915.com
 update-id5684915.com
 update-id5684955.com
@@ -105053,6 +105066,7 @@ xzmirimisilemler.net
 xzmrdeglxdn.net
 xzmrderandvvuuodemelerinz.net
 xzmrdexsnbz.net
+xzmvxzmavsk-xzmvkzxda-dssafkas.sbs
 xzmxrxmh1zlyklee35.net
 xzokw.com
 xzpwxgtagutg.boyacentury.cn
@@ -106813,6 +106827,7 @@ z7775sa.site
 z7elljx.cn
 z87014.site
 z8ieuu8.cn
+z98333z.site
 za-post-word.top
 za1xd80.cn
 zaaf.cloud

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 476353
-# Last change: 2026-10-25 09:52:16 UTC (sync mode: delta)
+# Records: 476372
+# Last change: 2026-10-25 14:25:25 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2198,6 +2198,7 @@
 101-extra-sadece-bugune-ozel-alisveris-sepeti-indirim-tr.cepsatis-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-indirimi-mobil.ceptakip-tr.online
 101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.360-mobil-pro.com
+101-extra-sadece-bugune-ozel-alisveris-sepeti-tr.cde7444.site
 101-extra-sadece-bugune-ozel-alisveris-shop-bilgileri-cepte.magazada.site
 101-extra-sadece-bugune-ozel-alisveris-shop-market-indirimi-tr.shops-cep-mobil.online
 101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
@@ -2231,6 +2232,7 @@
 101-extra-sadece-bugune-ozel-online-alisveris-indirimi-tr.bilgi-cepte.online
 101-extra-sadece-bugune-ozel-online-alisveris-mobil-sepeti-tr.kisalt085.online
 101-extra-sadece-bugune-ozel-online-alisveris-sepet-indirimleri.mobilsde.online
+101-extra-sadece-bugune-ozel-online-alisveris-sepeti-tr.bur90807.site
 101-extra-sadece-bugune-ozel-online-alisveris-shop-tr.expres-tr.online
 101-extra-sadece-bugune-ozel-online-indirim-alisveris-sepette.expert-shop.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
@@ -2264,6 +2266,7 @@
 101-extra-sadece-online-bugune-ozel-mobil-indirim-sepeti-tr.online-plus.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-bugune-ozel-sepet-indirimleri-tr.magazada-shop.online
+101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
 101-extra-sadece-online-ozel-alisveris-mobil-extra-shop-tr.bilgi-mobil-tr.online
@@ -91774,6 +91777,7 @@ buhaftakampanyalaria101com.xyz
 buhaftakampanyalarimiz-bitmiyor.shop
 buhaftakampanyam.com.tr
 buhaftakatologs.sbs
+buhaftakatologyildizlari.sbs
 buhaftalarbuurunler.com
 buhaftamatkapindirimde.xyz
 buhaftamatkapsponsorluindirimde.xyz
@@ -93528,6 +93532,7 @@ buyuk-kampanyalarim-yaza-ozel.com
 buyuk-web-giris.my-homeip.com
 buyukabanthoteli.com
 buyukaktuelagustoskampanyalari.com
+buyukbabacan.net
 buyukbaliklaratarimolta.click
 buyukbankasi.com
 buyukcampanya.click
@@ -93714,6 +93719,7 @@ bvblmiccell.com
 bvbngfvdfdckuj.top
 bvbvbva128282828992.duckdns.org
 bvbvbva28282828992.duckdns.org
+bvc3456.site
 bvcbcftcmhfg.blogspot.com
 bvcdv23123.duckdns.org
 bvceelim.com
@@ -126158,6 +126164,7 @@ detailings.click
 detailnominal.top
 details-netflix.ddns.net
 details-reform.com
+detailsarrival.com
 detailsconfirm.world
 detailsislem.22web.org
 detainfoa.top
@@ -149537,6 +149544,7 @@ eikametrandevusu.com
 eikametrandevusu.tk
 eikampanya-bireyselformu900tl-basvur-com.ml
 eikampanya-bireyselformu900tl-online-com.ml
+eikimfirstlari.hizlifirsatim.com
 eikpl.com
 eilanpttavm.com
 eilatocare.com
@@ -208269,6 +208277,7 @@ hftsn1ubrd0kcmaz1.com
 hftsnb1rdackm0gzgel1.com
 hftsng1ldbr0dakmpyna1.com
 hftsnggncel10n1kmya.com
+hftsnkcrmzfirs.duckdns.org
 hftsnunaozelkcmzkmpnyasndionline.com
 hftsognu1-01brda.com
 hftsolgne10n1brd-akmpya.com
@@ -208683,6 +208692,7 @@ hgs-bakiyeyukle.com
 hgs-bakiyeyukle.me
 hgs-bakiyeyukleme.com
 hgs-bakiyeyuklemesi.com
+hgs-bakye-yuklme.art
 hgs-bayi-dolum.tk
 hgs-bayi-yukleme.tk
 hgs-bayi3d.xyz
@@ -255391,6 +255401,7 @@ katlakatlaparalarikatla.net
 katlanabilirmasasandalye.com
 katlanabilirmasasandalyetakimi.com
 katlburdaherkesmerkez4.click
+katlg1001helbi.duckdns.org
 katlhmnkamp.space
 katliam.app
 katlimtalebiniz.org
@@ -280638,6 +280649,7 @@ martin11.hopto.org
 martinaljnoob.hopto.org
 martindirimleriilegeldia1o1.online
 martinhotel-prague.com
+martiniguston.giize.com
 martiniidex.top
 martinman99.hopto.org
 martinmathis12.xyz
@@ -284239,6 +284251,7 @@ merter.network
 mertgibiflash.com
 merthamurc.duckdns.org
 mertitakotara.top
+mertiyungl.duckdns.org
 mertkalix.duckdns.org
 mertkurumlari.com
 mertltd.site
@@ -303867,6 +303880,7 @@ nopanel-37472.top
 nopanel-440001.top
 nopanel-453465.top
 nopanel-455325.top
+nopanel-463125.top
 nopanel-466335.top
 nopanel-564732.top
 nopanel-623463.skin
@@ -364488,6 +364502,7 @@ savasbaslasin.clars-tz.xyz
 savblooling29.xyz
 savc-children.com
 savciliketutani.org
+savcilikevrak.org
 savcilikevrakdava.org
 savcilikhukum.org
 savciliktr.org
@@ -383323,6 +383338,7 @@ sorgupanelim.com.tr
 sorgupanelim.xy
 sorgupanelim.xyz
 sorgupanelimapi.atspace.tv
+sorgupanelimvarbe.click
 sorgupanelleri.com.tr
 sorgupanelllll.tk
 sorgupanelmeb.gq
@@ -423487,6 +423503,7 @@ update-chrome.realgodad.workers.dev
 update-completo.com
 update-for-today.com
 update-gb.top
+update-guest.com
 update-health-service.azurewebsites.net
 update-help.com
 update-id4687915.com
@@ -459214,6 +459231,7 @@ xzmrmmmxrizx.net
 xzmrxdekxso.net
 xzmrxdesinbzle.net
 xzmryklptrnla.net
+xzmvxzmavsk-xzmvkzxda-dssafkas.sbs
 xzmxerdevrxdn.net
 xzmxirimizegelsnde.net
 xzmxmrdevrxdn.net
@@ -470859,6 +470877,7 @@ z8x4r2t7b1n9q0m5y6v3p2w8.com.tr
 z8zcwb4i.duckdns.org
 z930q5p.duckdns.org
 z96nt2c.duckdns.org
+z98333z.site
 z992u.revc0.com
 z99909930m.click
 z99sadhasdhashdhasz0z9sad.click
