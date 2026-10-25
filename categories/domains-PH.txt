@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107642
-# Last change: 2026-10-25 18:26:01 UTC (sync mode: delta)
+# Records: 107664
+# Last change: 2026-10-25 21:51:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2260,6 +2260,7 @@
 4615265236523.xyz
 46164sdnsdsmsdnsds.com
 462423534543654.cloud
+463712341432.sbs
 46564234.net
 4679877663563673456.click
 46816841685416854181.com
@@ -12745,6 +12746,7 @@ bbvahaziran2022bonusu.ml
 bbvahaziranbonusu.ml
 bbvahazirandanbonus.ml
 bbvahaziraninbonusu.ml
+bbvaislemler.duckdns.org
 bbvalimitlerin.net
 bbvamayisdanbonus.ml
 bbvaongaranti.com
@@ -12947,6 +12949,7 @@ bedavasorgu2026.site
 bedavasorgula.com
 bedavasorgupaneli.xyz
 bedavasorgupaneliniz.site
+bedavatelegramsorgu.click
 bedavatwitterhizmetleri.top
 bedavatwittertakipci.top
 bedavva15gb.epizy.com
@@ -13340,6 +13343,7 @@ bethsouthorn.com
 betokaitakck123xk12k3lx132.cfd
 betorafaj1c21lx32l1kz312.cfd
 betparibu.app
+betparibu.ooo
 betparibu.site
 betparibu174.com
 betparibu182.com
@@ -36445,6 +36449,7 @@ fnter.sanss.site
 fntj.top
 fntk.top
 fntn.top
+fnvbcndcx.shop
 fnvbcndjs.click
 foamarray.top
 foamdad.top
@@ -37630,6 +37635,7 @@ garanti-bonus-islemler-com.duia.ro
 garanti-bonus-islemler-com.mayddns.com
 garanti-borc-cozumu.cloud
 garanti-btce-planlama.cloud
+garanti-butce-yonetimi.click
 garanti-finans-basvuru.cloud
 garanti-finans-portali.cloud
 garanti-finans-portali.lol
@@ -41237,6 +41243,7 @@ gusiche.com.tr
 guspostea.top
 gusstcompline-regrv.com
 gustastubea.net
+gustonaleyi.giize.com
 gustreverv-comlp.com
 gutagony.top
 gutcordial.top
@@ -43256,6 +43263,7 @@ hctxhl.help
 hcu6ubizt.icu
 hcynsi.top
 hd3r5z.cyou
+hdbnyaprcamsnncnbnlr.rest
 hdcgmq.top
 hdcsmq.top
 hdcsmy.top
@@ -45612,6 +45620,7 @@ hmn-basvurbizekatilkmpyanasi.com
 hmnasantasns.net
 hmnbasvrkrdgrnt.lol
 hmnbnlaraglsnde.com
+hmnbrdafrstkpn.shop
 hmnbsdbsd.art
 hmnbsvr.site
 hmnbsvranlk.art
@@ -50506,6 +50515,7 @@ islemlerinizeburdandevamedin.yyuyy.com
 islemleriniziburdanyapin.click
 islemlerinizzzizz.sbs
 islemlerinmobil-14.sbs
+islemlerinmobil-15.sbs
 islemleriyonet.de
 islemlerkm.org
 islemlerleyonlenme.blogspot.com
@@ -55933,6 +55943,7 @@ kreikenlogin.webflow.io
 kreiptocomlogin.webflow.io
 krekaneilogin.webflow.io
 krekcenlogin.webflow.io
+krekdsfsdcvncmndjf.shop
 krelastonui.icu
 krelmora.com
 kremfoldat.info
@@ -56129,6 +56140,7 @@ kuhugug-redesede.lol
 kuinnlogon.webflow.io
 kukkoinlogeen.webflow.io
 kukllohicoinlog.webflow.io
+kukluhguhuderesede.lol
 kukoinlloggon.webflow.io
 kukoinnlguin.webflow.io
 kukoinnlogen.webflow.io
@@ -79057,6 +79069,7 @@ ruhsuzpanel2.site
 ruhsuzpanel2.website
 ruhsuzpanel3.website
 ruhsuzpanel3.world
+ruhsuzpanel31.click
 ruhsuzpanel3120.click
 ruhsuzpanel3169.world
 ruhsuzpanel3250.website
@@ -85118,6 +85131,7 @@ snathffhfchable.com
 snbdfejkonslkindfklvnjsoijdnflkmdkfljniofds.vip
 snbenmcokckardfas80.click
 snbnlarbrdanalmdnkrl.shop
+snbrdanalcnbselyer.lat
 snbrdanmrhsrvdal.lol
 sncbakalke.click
 sncksancak.org
@@ -98566,6 +98580,7 @@ vbrdmcokpzxol.com
 vbsbe.club
 vbsbe.net
 vbvbngfgger.com
+vbvgfvbb5.click
 vbxb.cn
 vbzxgs.help
 vc231mmm343.duckdns.org
@@ -102548,6 +102563,7 @@ wozbtcfunds-joinpromotion.com
 wp.storebh.com.br
 wpbasket.co.il
 wpfrst.lol
+wpllink.cloud
 wplusoriginal.com
 wplvsp.top
 wpp101firsattttarex.xyz
@@ -103522,6 +103538,7 @@ www-e-devlet.ml
 www-edevlet-bireyselbasvurum.org
 www-edevlet-portali-tr.tk
 www-enpara-com.ga
+www-esube-cepteb.my-homeip.de
 www-etkitb-cepte-ayrica.myonlineportal.ch
 www-evdentrafikislemleri.blogspot.com
 www-facebook.com.tr
@@ -103592,6 +103609,8 @@ www-mercedes-benz.online
 www-merkezbankasi-aidat-iadeleri-gov.gq
 www-netflix-com.tk
 www-netflix-ramazan-com.tk
+www-niptb-cepte-ayrica.myonlineportal.ch
+www-npstb-cepte-tb.myonlineportal.ch
 www-nufrdnvu459-com-tr.blogspot.com
 www-o.shop
 www-obilet.uk
@@ -104809,6 +104828,7 @@ xn--subeavatajlikredi-bvc.com
 xn--subesiz-giris-vakf-u0c.com
 xn--szburada-tkb.shop
 xn--teb-bankas-login-jqc.my-homeip.net
+xn--tebbankas-online-giri-sgd48h.my-homeip.com
 xn--tebbankas-online-iqc.my-homeip.de
 xn--teknogen-z0a.net
 xn--tektklasendesorgulayabilirsin-3le.xyz
@@ -107386,6 +107406,7 @@ zmrdedoldurduk.net
 zmrdeglsndeonlinx.net
 zmrfdkdfdk.online
 zmrkaryklmen.net
+zmrkcalss.shop
 zmrmizlegelbzlerle.net
 zmrskdjasfd.shop
 zmskartleyukle.net
@@ -107587,6 +107608,7 @@ zxkxxentttkxxartttodemeler.net
 zxmrdemrttxndrmlerinikxcirma.net
 zxmxmgvnl.net
 zxncbnmabcn.net
+zxnvhvxz-vdskdsgpeq-asxzvas.sbs
 zxoolifeso.info
 zxsiqom.com.tr
 zxvzxvkjzs.net
