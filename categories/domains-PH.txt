@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107636
-# Last change: 2026-10-25 14:25:25 UTC (sync mode: delta)
+# Records: 107642
+# Last change: 2026-10-25 18:26:01 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -668,6 +668,7 @@
 123456780.tk
 12351235.sa.com
 12351561.click
+1235616345234.sbs
 123567343646.cloud
 1237546878764524.buzz
 12378978954.buzz
@@ -45562,6 +45563,7 @@ hkxiu.com
 hl-k-b-kkk-kr.space
 hlakbca.boyacentury.cn
 hlakolanmalko.cfd
+hleknaknr.net
 hlfksdms.sbs
 hlfxlglendg.net
 hlgpjv.cc
@@ -54713,6 +54715,7 @@ kirhwf.top
 kirknazhizlitodeme.com
 kirkorlarnaylo.online
 kirksekiz099altayert.online
+kirlenmekguzeldir.net
 kirmizi-ecz.club
 kirmizi-ecz.life
 kirmizibalikgoldevergisi.net
@@ -78735,6 +78738,7 @@ rodddcycyrgttskym.live
 roddddybdrydln.shop
 roddddybdrydlnnn.shop
 rodfilokiralama.com
+rodgttenskm.cfd
 rodheslesson.online
 rodininbabasiyim.duckdns.org
 rodney.lat
@@ -103612,6 +103616,7 @@ www-sahibinden-w.com.tr
 www-sahibinden.com
 www-sekerbank68yil.com
 www-sizlericinburadayizvatandasportalbasvurugiris.com
+www-sube-cepteteb.my-homeip.de
 www-subesi2019yenilendik.cf
 www-suptb-extend-ayrica.myonlineportal.ch
 www-sync-ceptedir.myonlineportal.ch
@@ -103660,6 +103665,7 @@ www-toki-gov-tr.icu
 www-toki-gov-tr.shop
 www-toki-gov-tr.store
 www-toki-gov-tr.xyz
+www-tooltb-accuary-cepte.myonlineportal.ch
 www-tracepte-tb-ayrica.myonlineportal.ch
 www-tracetb-cepte-ayrica.myonlineportal.ch
 www-trafikamuspotu.blogspot.com
