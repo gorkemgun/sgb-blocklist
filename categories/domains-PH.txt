@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107593
-# Last change: 2026-10-24 23:19:59 UTC (sync mode: delta)
+# Records: 107621
+# Last change: 2026-10-25 09:52:16 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -109,6 +109,7 @@
 0devrgi.com
 0faiz-garanti-kredin.replit.app
 0faizservisi.com
+0faizsonfirsat.com
 0fdba029e6a5-endpoint.com
 0fzj64.cn
 0h1t1zuy1e9yrs8w1usc.jamescare.cfd
@@ -237,6 +238,8 @@
 101-extra-mobil-online-ozel-indirim-kuponlari-tr.indirimkuponu.online
 101-extra-mobil-online-ozel-urunler-alisveris-sepet-bilgisi-tr.cebinizde-sepet.online
 101-extra-mobil-online-ozel-urunler-alisveris-sepet-bilgisi-tr.sepet-bilgilendirmesi.online
+101-extra-mobil-online-ozel-urunler-sh.trendsepeti.online
+101-extra-mobil-online-ozel-urunler-shop-sepet-bilgisinde-tr.trendsepeti.online
 101-extra-mobil-online-sadece-bugune-ozel-sepet-indirimi-tr.shop
 101-extra-mobil-online-shop-ozel-alisveris-urun-sepetleri-tr.trendbuy-tr.online
 101-extra-mobil-online-shop-ozel-alisveris-urun-sepetleri-tr.trendlytr.site
@@ -253,8 +256,11 @@
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
+101-extra-mobil-sadece-bugune-ozel-online-shop-alisveris-cep-tr.e-sepets-tr.online
+101-extra-mobil-sadece-bugune-ozel-online-urun-sepeti-tr.indirimsepeti.site
 101-extra-mobil-sadece-bugune-ozel-shop-indirim-tr.hemensiparis.online
 101-extra-mobil-sadece-online-bugune-ozel-indirim-alisveris.sepetx.online
+101-extra-mobil-sadece-online-bugune-ozel-indirim-sepette-tr.blod334115.site
 101-extra-mobil-sadece-online-bugune-ozel-indirimler-sepette-tr.alisverix.online
 101-extra-mobil-sadece-online-bugune-ozel-sepet-indirimi-tr.hemen-tr.online
 101-extra-mobil-sadece-online-ozel-alisveris-indirimi-tr.online
@@ -313,6 +319,8 @@
 101-extra-sadece-bugune-ozel-mobil-shop-urunleri-sepette-tr.buys-shop.site
 101-extra-sadece-bugune-ozel-mobil-urun-indirim-sepetleri-tr.trend-cepte.site
 101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online
+101-extra-sadece-bugune-ozel-online-alisveris-indirim-sepeti-tr.links36.online
+101-extra-sadece-bugune-ozel-online-alisveris-mobil-sepeti-tr.kisalt085.online
 101-extra-sadece-bugune-ozel-online-alisveris-shop-tr.expres-tr.online
 101-extra-sadece-bugune-ozel-online-indirim-alisveris-sepette.expert-shop.online
 101-extra-sadece-bugune-ozel-online-indirim-sepeti-tr.shopstr.online
@@ -342,6 +350,7 @@
 101-extra-sadece-online-ozel-indirimli-alisveris-sepette-mobil.sepetss-tr.online
 101-extra-sadece-online-ozel-mobil-alisveris-indirimleri-sepete.ekle-tr.online
 101-extra-sadece-online-ozel-mobil-indirim-sepeti-tr.services
+101-extra-sadece-online-ozel-shop-urun-bilgileri-alisveris.bilgiselshopier.site
 101-extra-sadece-online-sepet-ozel-indirim-shop-mobilde-tr.cepsel-tr.online
 101-eylulurunleri.shop
 101-haftanin-firsatlari-dyson-com.duckdns.org
@@ -354,14 +363,17 @@
 101-kstra.s3.eu-north-1.amazonaws.com
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
+101-mobil-extra-bugune-ozel-online-alisveris-cep-sepeti-tr.trendbox-tr.online
 101-mobil-extra-bugune-ozel-sepet-indirimi-mobilde-tr.ceptiko.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimi-cepte-tr.marketx-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-tr.e-sepets.online
+101-mobil-extra-sadece-bugune-ozel-indirim-online-alisverisde.mix-shop.online
 101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online
+101-mobil-extra-sadece-bugune-ozel-shop-alisveris-cepte-indirim.extremcep.site
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-indirimleri.genel-indirim-tr.online
 101-mobil-extra-sadece-online-ozel-alisveris-sepeti-tr.trendyl-mobil-tr.online
 101-mobil-extra-sadece-online-ozel-indirimler-tr.shopspay.online
@@ -5732,6 +5744,7 @@ ahmetkafalarcancan.net
 ahmetkerimcanatbalata.digital
 ahmetmurat.top
 ahmetramer.blogspot.com
+ahmetredstone.duckdns.org
 ahmettv.net
 ahmetvefikvakfi.com
 ahmhoc.click
@@ -13127,6 +13140,7 @@ benchmedication.top
 benchporcelain.top
 bencloud.tk
 bendegilbizdemeliyiz.sbs
+bendenaldiginiziyerinekoyun.sbs
 bendenalgel.biz.tr
 bendendensendengelsedkesgec5.ink
 bendenkorkmasan10.vip
@@ -14403,6 +14417,7 @@ bireykampanyali-yilsonu-ozel-obline.ga
 bireysel-aciksubev2denizbank.online
 bireysel-basvuru-aidatiadesi.com
 bireysel-basvuru-destek-kampanyalar.xyz
+bireysel-cepte.my-homeip.de
 bireysel-ebak-basvuru-formu-online.ml
 bireysel-egiris.com.tr
 bireysel-hediyemobildenizgiris.com
@@ -17603,6 +17618,7 @@ buttgetcim.xyz
 buttgrim.top
 buttonaffirmative.top
 butunindirimlerburada.click
+butunumutlarimibendenaldin.sbs
 butunurunlerdekikampanyafirsati.cfd
 buucuncu.sbs
 buuygun.club
@@ -44045,6 +44061,7 @@ herkes-kullanabilsindiye.sbs
 herkes-mutlu-olmayi-hak-eder.com
 herkesalsindiyeburada.sbs
 herkesbizmleonlne.sbs
+herkesburdasendebasgelartk81.click
 herkese-mutluluk-getiren-haberler-surekli-burada.com
 herkesedestekolalim.com
 herkesepandemi.club
@@ -55962,6 +55979,7 @@ kron1kcheckers.cf
 kroningcslurkin.net
 krontoroplastoraforti.net
 krostel.best
+krowbaba.b-cdn.net
 krowileparalarikatla.xyz
 krrakenelogin.webflow.io
 krs-izeltas.dnsup.net
@@ -65884,6 +65902,7 @@ nnnn345474.site
 nnnvsbbonlne.net
 nnnvvsdsdrttyreeertty.com
 nnnvvvksvrmtg.net
+nnnzchrsertesrter.buzz
 nnpubbatch.shop
 nnu4l.top
 nnussft.boyacentury.cn
@@ -68219,6 +68238,8 @@ online-basvuru.xyz
 online-bilgisi.online
 online-bireysel-hizmetlerimiz.com
 online-ceptelefon-elektronik-paramguvende-pro-sahibinden.com
+online-cepteteb.myonlineportal.de
+online-ceptetebde.my-homeip.de
 online-cimer-iade.b-cdn.net
 online-computer.online
 online-devletodememgiris.tk
@@ -68328,6 +68349,7 @@ online-sok.com.tr
 online-sorgu-ekrani.cfd
 online-sozlesme-islemleri.com
 online-sozlesme.e-islem-hizmet.com
+online-sozlesme.r-onayllservishizmeti.com
 online-t-o-k-i-bsrv.com
 online-takip-yurticikargo.com
 online-teknossa.com
@@ -69221,6 +69243,7 @@ orrelatelawsui.top
 orrespondingarmo.top
 orsankerean.ezgateway.net
 orsenminalar.giize.com
+orsenminlra.duckdns.org
 orsignify.top
 orsnvsyty.net
 ortaak-odee.tk
@@ -85605,6 +85628,7 @@ son2023-hizlisipariskampanya.shop
 son2026indirimleri101.biz
 son26adetkalanize32tas.blogspot.com
 sonajans24.net
+sonbaharfirsati.abrdns.com
 sonbaharfirsatibance.tech
 sonbahrfirsatlarii.com
 sonbasvurutalepformu2022.ml
@@ -89922,6 +89946,7 @@ tapkopulu.online
 tapkorsandep.online
 tapkoshbes.online
 tapkovdns.online
+taplrksd.web.app
 tapp-wweeb.com
 tapprandevum.click
 taprananivume.online
@@ -103462,6 +103487,7 @@ www-coinbasewallet.com
 www-comment-tb-ayrica.myonlineportal.ch
 www-comms-ayricalik-tbde.myonlineportal.ch
 www-coms-cpte-tb.myonlineportal.ch
+www-convtb-cepte-ayrica.myonlineportal.ch
 www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
@@ -103574,6 +103600,7 @@ www-sahibinden.com
 www-sekerbank68yil.com
 www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-subesi2019yenilendik.cf
+www-suptb-extend-ayrica.myonlineportal.ch
 www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
 www-tamtb-cepte-screen.myonlineportal.ch
@@ -106605,6 +106632,7 @@ yuksekurum-sistemleri.net
 yukselen-sevincli-haberler-yanina-geldi.com
 yukumar643.xyz
 yullink.cloud
+yungalamrtii.duckdns.org
 yungbucksbbq.com
 yunhaskse.duckdns.org
 yuntuoutdoorbackpack.cc
