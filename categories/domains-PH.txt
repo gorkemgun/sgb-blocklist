@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107670
-# Last change: 2026-10-26 06:20:31 UTC (sync mode: full)
+# Records: 107698
+# Last change: 2026-10-26 14:20:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1104,6 +1104,7 @@
 182iletisim.cfd
 182iletisim.cyou
 182iletisim.xyz
+182internet.com
 182lrdnbrdarvdbk.store
 182onlinee.com
 182websp.com
@@ -2166,6 +2167,7 @@
 3w1ya0.cfd
 3x2x1c34bg4xwsa2.duckdns.org
 3x3xppp3p0x02302.sbs
+3y4gqeafga.opik.net
 4-206-201-117.plesk.page
 4-231-237-0.plesk.page
 4.appearspacex.de
@@ -5372,6 +5374,7 @@ adsd33fdsf.nicepage.io
 adsedse-dereceve.lol
 adsense-word.com
 adsgod.app
+adshgsdah.art
 adshiziyakala.cfd
 adsl-internet-basvuru-net.blogspot.com
 adsl-internet-kampanya-net.blogspot.com
@@ -8813,6 +8816,7 @@ aracmuayenesorgulamalar.com
 aracmuayenetabiki.blogspot.com
 aracmuayenetuvturkrandevu.com
 aracmuayenetuvturkrehberi.com
+aracmuayenetvtrk.com
 aracmuayenex.com
 aracmuayenexcvx.com
 aracmuayenexxcc.net
@@ -12101,6 +12105,7 @@ basvurularacld.sbs
 basvurularaile150hizmet.com
 basvurularailegenc.com.tr
 basvurularbasladi500.com
+basvurularevler.com
 basvurularhediyesayfasipaributeknoloji-com.tk
 basvurulari-1.sbs
 basvurularimakbbde.website
@@ -12946,6 +12951,7 @@ bedavapanelhizmetleri.website
 bedavapanelimizyeniden.gt.tc
 bedavasorgu.org
 bedavasorgu.site
+bedavasorgu2026.online
 bedavasorgu2026.site
 bedavasorgula.com
 bedavasorgupaneli.xyz
@@ -35034,6 +35040,7 @@ ferdeneke.online
 feresse4.net
 fereveniht.info
 fergatplaras.com
+ferhatgelbanaat.duckdns.org
 ferigaporas.click
 ferlesscheck.store
 ferlokia.store
@@ -39527,6 +39534,7 @@ gliungoo.xyz
 gllbaltencentfirsatbasvuruusizlerle.online
 gllkrj.top
 glmentuncfirsat.duckdns.org
+glmentuncfirst.giize.com
 gloalsacrd.top
 glob-lbn-btrteknoloji.net
 global-basvurukampanyasiyap.com
@@ -43268,6 +43276,7 @@ hcu6ubizt.icu
 hcynsi.top
 hd3r5z.cyou
 hdbnyaprcamsnncnbnlr.rest
+hdbrdanrvalsnbrdn.sbs
 hdcgmq.top
 hdcsmq.top
 hdcsmy.top
@@ -45589,6 +45598,7 @@ hlldrymbrdansnz.duckdns.org
 hlloo-wallet.webflow.io
 hlmnket.net
 hlnkaemntlanas.net
+hlnkamsta.net
 hlp4969465.com
 hlqa1l5j7l52.icu
 hlsgcodee.net
@@ -50833,6 +50843,7 @@ istanbulkartinaykle.com
 istanbulkartislem.lol
 istanbulkartislem.xyz
 istanbulkartnakiye.bsvrislm.com
+istanbulkartonline.online
 istanbulkartonline.xyz
 istanbulkartr.xyz
 istanbulkartrandevu.xyz
@@ -56482,6 +56493,7 @@ l1sl.top
 l1v8k2q5r9w6.sbs
 l2dsacswcxxxe.lol
 l3-69-l02-l59.plesk.page
+l5ehhssejzm7lyhh.freeddns.org
 l8-l33-220-72.plesk.page
 l899cf.csb.app
 la-falise-hotel.today
@@ -59836,6 +59848,7 @@ malowzx.sbs
 malpracticebarometer.top
 malracticantena.top
 malroe.benimekipaksicagiriyomtaksi.net
+maltaadalari.duckdns.org
 maluakphp.com
 malumhaber.club
 malumhaber.online
@@ -61463,6 +61476,7 @@ mersiniyilikor.net
 mersinturktelekom.com
 mertdanisma321.duckdns.org
 mertenemege.online
+mertiyungalaa.duckdns.org
 mertiyungl.duckdns.org
 merv34i43i2ds.wiki
 mervd12-af.space
@@ -61516,6 +61530,7 @@ meta-itiraz-formu.tk
 meta-marketing-violation-57093.web.app
 meta-nofitication-setting.ubpages.com
 meta-spy365.com
+meta-support.online
 meta-telifkanali.ml
 meta.forbusinessuser.xyz
 meta.user-support-business.cfd
@@ -61909,6 +61924,7 @@ mhrsmlxmxl.com
 mhrsmsmhsxzwshshn.net
 mhrsmsxlm.com
 mhrsonlinebasvuru.duckdns.org
+mhrsonlinerandevutr.com
 mhrsonlnesd.sbs
 mhrsortakgiris.co.vu
 mhrsportalvatandasgiris.duckdns.org
@@ -68791,6 +68807,7 @@ onlineveznea.xyz
 onlineveznedanisman.com
 onlinevitrini.com.tr
 onlineyaninda.com.tr
+onlineyedeparcacin.com
 onlineyolcu360.co
 onlineyolcu360.com
 onlineyonlendirmeaktarim.site
@@ -74843,6 +74860,7 @@ pttavm.bireyselalsat.com.tr
 pttavm.bireyselodeme.com.tr
 pttavm.canlisiparis.com.tr
 pttavm.cfd
+pttavm.com.siparis-olustur.com
 pttavm.devletteguvenli.com
 pttavm.eniyifirsati.com.tr
 pttavm.get-alisveris-ilan.com.tr
@@ -74893,6 +74911,7 @@ pttavm.sepetim-get-odeme.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepette-tr.com
 pttavm.shop
+pttavm.siparis-olustur.com
 pttavm.siparis-onay-7269.com
 pttavm.siparis-onay-7712.com
 pttavm.siparis-onayli-115520.com
@@ -79218,6 +79237,7 @@ s-getsatis.site
 s-guvende.alimlarin-tr-online.com.tr
 s-guvenden.com
 s-guvendes.online
+s-guvendesigortaodemeleri.duckdns.org
 s-guveniliralisveris.com
 s-guvenilirodeme.com
 s-guvenli-odeme.com.tr
@@ -79634,6 +79654,7 @@ sagligakavusmakicinbiradim.digital
 saglik-182.com
 saglik-bakanligi-sikayetleri.online
 saglik-mrs1.xyz
+saglik-rnd.cfd
 saglik.co.vu
 saglik1.site
 saglikbakanligi-asi.com
@@ -84344,6 +84365,7 @@ siparis-alim.com
 siparis-baglantisi-kisa-link.com
 siparis-cekme.pages.dev
 siparis-geldi.com
+siparis-get-servis.online
 siparis-hizliislem.com
 siparis-hizliislemler.com
 siparis-kapida.app
@@ -84910,6 +84932,7 @@ sliyteye-aktrlar.com
 slkayetvar.rf.gd
 slkmalkretler.shop
 slkmalrkelr.shop
+slkmalrktin.lol
 sllbyp.top
 sllcorrelate.top
 sllymultiteral.top
@@ -85879,6 +85902,7 @@ sorgu.world
 sorgu.wtf
 sorgu.xyz
 sorgu1.site
+sorgu3131.click
 sorgu3169.site
 sorguadalet.org
 sorguadli.org
@@ -90652,6 +90676,7 @@ tebelandos.cfd
 tebfinansfx.com
 tebhediye-basvuru-iphone2022.net
 tebicinbasvuru.my-homeip.de
+tebinternetbankasi.duckdns.org
 tebli-cepte-mobile.myonlineportal.ch
 tebligbayi.com
 tebligceza.com
@@ -99318,6 +99343,7 @@ verniga.pics
 verodmehzmt.net
 verolumi.pro
 verporttt.com
+verryadsfree.lat
 versacezone.fun
 versaillia.com
 versatileabnor.top
@@ -99385,6 +99411,7 @@ vesselbusiness.top
 vesselcore.top
 vesselreassurance.top
 vestcarfilo.com
+vestel-ai.net
 vestelbayileri.com
 vestelmall.top
 vestelonlinemagaza.com
@@ -103545,6 +103572,7 @@ www-edevlet-bireyselbasvurum.org
 www-edevlet-portali-tr.tk
 www-enpara-com.ga
 www-esube-cepteb.my-homeip.de
+www-esube-cepteteb.my-homeip.de
 www-etkitb-cepte-ayrica.myonlineportal.ch
 www-evdentrafikislemleri.blogspot.com
 www-facebook.com.tr

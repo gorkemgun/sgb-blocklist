@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41605
-# Last change: 2026-10-23 18:24:59 UTC (sync mode: delta)
+# Records: 41612
+# Last change: 2026-10-26 14:20:40 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -6308,6 +6308,7 @@ bos24-online.com
 boschetar.ddns.net
 bose.kittyechopages.net
 bossindah4oos3.site
+bossprotect.com
 bosstan027.beget.tech
 bostondynamlcs.com
 bostonhome.services
@@ -8244,6 +8245,7 @@ cloud-server.store
 cloud-start.at
 cloud-storage.live
 cloud-sync.org
+cloud-update.live
 cloud.anofrio.com
 cloud.autodiscovar.com
 cloud.awsxtd.com
@@ -22990,6 +22992,7 @@ mccormlckna.com
 mceenzie.sbs
 mcehonline-48303.portmap.io
 mcgpswqf.com
+mcgrawney.com
 mci-consultant.id
 mcicrosoft.com
 mckinseya.sbs
@@ -32965,6 +32968,7 @@ snopoccbtt.duckdns.org
 snowcrash.website
 snowcraymar.com
 snoweeanalytics.com
+snowgirl.zki.lol
 snpkfhd.com
 snuggleapplicationswo.fun
 snukerukeutit.org
@@ -33528,6 +33532,7 @@ stablestrainnose.com
 stablewindowsapp.com
 stachmentsuprimeresult.com
 stackapt.com
+stackpathcloud.com
 stacstocuh.quest
 stacymckinney768.xyz
 stadium-fresh.online
@@ -34289,6 +34294,7 @@ sysnod.duckdns.org
 sysrtyvbncv.ddns.net
 systechbd.com
 system-services.site
+system-strategy.org
 system.updatecheck.store
 system323232.duckdns.org
 system64-serves.duckdns.org
@@ -35950,6 +35956,7 @@ trugomen.copinasultanbolimansire.io
 trugonmennil.luminisconsultoria.io
 truistcommercialbank.live.rhinoswiftdelivery.live
 trujanel.gruposenhordobonfim.net
+trulitesupport.com
 trump.ddns.net
 trumpetrofnky.xyz
 trumphotel.net
