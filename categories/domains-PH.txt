@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107664
-# Last change: 2026-10-25 21:51:23 UTC (sync mode: delta)
+# Records: 107668
+# Last change: 2026-10-26 00:26:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30908,6 +30908,7 @@ egmgov.biz.id
 egmgov.web.id
 egmgovre.biz.id
 egmgovre.my.id
+egmgovren.my.id
 egmmali.org
 egmmlbul.net
 egmmm.online
@@ -36451,6 +36452,7 @@ fntk.top
 fntn.top
 fnvbcndcx.shop
 fnvbcndjs.click
+fnvbcndjs.shop
 foamarray.top
 foamdad.top
 foaminaugurate.top
@@ -39731,6 +39733,7 @@ gnmmpq.top
 gnntttttttttt.net
 gnornamb.com
 gnsigorta.com.tr
+gnvbfjdns.shop
 gnvhfjncd.shop
 gnvkmslms.shop
 gnzbvvxbsvur.dynv6.net
@@ -90657,6 +90660,7 @@ tebomebolaloko.shop
 tebooaoakkgoolo.shop
 tebpageinternet.my-homeip.com
 tebpromo.site
+tebresmiiii.duckdns.org
 tebsolansod.co
 tebsubat.kisalink.cc
 tebtedtektikbasvurularimonline.click
