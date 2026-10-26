@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107698
-# Last change: 2026-10-26 14:20:40 UTC (sync mode: delta)
+# Records: 107737
+# Last change: 2026-10-26 20:33:12 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2279,6 +2279,7 @@
 47859632prmsynnbsvrrkmpnyyyy.online
 47859632prmsynnbsvrrkmpnyyyy.pro
 47962.adistu.ro
+4812183513hizlcsmler-aracm360ptavm.online
 482901v-coinbase.com
 48512365482451615.duckdns.org
 48756.site
@@ -2688,6 +2689,7 @@
 699yudumturkiyecay.me
 69p98pz.cn
 6acsdjasdcaksxkl12k3lx123.cfd
+6adsbhad.duckdns.org
 6agustossiparislerinden.cloud
 6agustss.duckdns.org
 6b40b612.ns-u629df.shop
@@ -5570,6 +5572,7 @@ afterhourssac.net
 afterplausible.top
 afterpm.com
 afullcopo.life
+afyondanvekilime.online
 aga.bulktakipci.com
 agabe.sbs
 agaclabs.com
@@ -11867,6 +11870,7 @@ basuvurularin.net
 basuvurularinellekrdisi.link
 basuvurun.net
 basvarsun.net
+basvor.sbs
 basvr-kampnya-ebiresforum-com.ml
 basvr-time2.top
 basvr.fun
@@ -14125,6 +14129,7 @@ binance-stc.com
 binance-support-check-event.net
 binance-support-check-events.net
 binance-tanitimgirisformu2022-mobil.com
+binance-team.com
 binance-team.tech
 binance-tr-girislr.vercel.app
 binance-trade.com
@@ -14164,6 +14169,7 @@ binancecekilisi.com
 binancedeals.com
 binancedeals.net
 binancedencokozelhediyeler.ml
+binancedigitalltd.com
 binancedogehmmediye.vercel.app
 binancedogrulamacauntlogin.line.pm
 binancedrop.org
@@ -16092,6 +16098,8 @@ bootiva.shop
 bootrise.top
 bootsexpert.net
 bootstra.net
+bopaje7148.site
+bopaje7148.space
 bopaje7148.store
 boqwncx-akdakmpnsa.online
 boraligunlerburada.com.tr
@@ -19445,6 +19453,7 @@ cevrimici-web.my-homeip.com
 cevrimicionline1o1.net
 cewondesystemns.com
 cewopoujoa.com
+cexaca1409.site
 ceyhunturizm.com
 ceyizlife.com
 ceza-bilgilendirme.com
@@ -24674,6 +24683,7 @@ cufdenwyirgzgx.com
 cugarmachine.com
 cugeredesede-sederese.lol
 cugufuerede-sederese.lol
+cugufuewdwereresede.lol
 cuhugu-gufiderese.lol
 cuinbbsewltxtsn.webflow.io
 cuisinecapsule.top
@@ -27323,6 +27333,7 @@ digitall-login.website
 digitallinks.space
 digitallinksite.site
 digitalmediacotr.net
+digitalmeyislemenu.work.gd
 digitalname1.site
 digitalname4.site
 digitalname5.site
@@ -30435,6 +30446,7 @@ edevlet.gen.tr
 edevlet.gov-tr.tech
 edevlet.info.tr
 edevlet.multidium.com
+edevlet.netlify.app
 edevlet.odemekayit.site
 edevlet.site
 edevlet.tcvatandas.org
@@ -32560,6 +32572,7 @@ ercanbaba.com
 ercanvinc.shop
 ercapnlistnb.com
 erd4power.sbs
+erdalozcan.com
 erdasgasmfsa.wiki
 erde-rederesedere.lol
 erdekerefergete.online
@@ -35113,6 +35126,7 @@ fgydao.top
 fgynfgi.buzz
 fh3.us
 fh6rnajjsmalyurqvxjimv6tbu-ac4c6men2g7xr2a-www-isbank-com-tr.translate.goog
+fhdgfdgdfg.shop
 fhgsk.net
 fhhthgw.com
 fhjfkv.top
@@ -37627,6 +37641,7 @@ garant-imackgirs.online
 garant-kampanyasube.pro
 garant-kred-500bintl-hemen-tikla-firsat.net
 garantbasvru.net
+garantbvatr.com
 garanterentacar.com.tr
 garanterentacar.ga
 garanthmn.art
@@ -38140,6 +38155,7 @@ gboo4gboo.workers.dev
 gbp-gathering-meaningful-atomic.trycloudflare.com
 gbrightenclosure.top
 gbva500binkredihemenal.net
+gbvyturn.shop
 gbwfwg.com
 gbwtibz.cn
 gbxsya.top
@@ -45599,6 +45615,7 @@ hlloo-wallet.webflow.io
 hlmnket.net
 hlnkaemntlanas.net
 hlnkamsta.net
+hlnktans.net
 hlp4969465.com
 hlqa1l5j7l52.icu
 hlsgcodee.net
@@ -46353,6 +46370,7 @@ hsbank.co
 hsbbciu.top
 hsbc-central.com
 hsbc-com.tk
+hsbcbank-finance.com
 hsbcnc.top
 hsbcrewards-homesa.info
 hsbcrewards-homesb.info
@@ -50409,6 +50427,7 @@ isbxnkqrsitr.xyz
 iscamvbul.net
 iscemxirb4ky3m.net
 iscep-maximum-giris.cf
+iscep.bugunsizeozel.cfd
 iscep.firsatbildirimileri.online
 isceple.firsatbildirimileri.xyz
 isceponay.xyz
@@ -52006,6 +52025,7 @@ izzzmimdlm.net
 izzzmirfhvkarddt.com
 izzzmirrtcge.com
 izzzmrxmdebyksehirhalkxndrmleri.net
+j3slshb7ef.ipv64.net
 j565656.click
 j5cfcb4.cn
 j67cwc9.cn
@@ -55893,6 +55913,7 @@ kredibasvuruonaymerkezi.net
 kredibasvuruonline.com.tr
 kredicozummerkezi.info
 kredidenizim.com
+kredifirsatstatusu.com
 kredihesaplamaakbank.blogspot.com
 kredihesaplamagaranti.blogspot.com
 kredihesaplamahalkbank.blogspot.com
@@ -58235,6 +58256,7 @@ lordansangeldks.sbs
 lordcanvas.top
 lordfilo.com
 lordinfrastructure.top
+lordoftherings.cfd
 lordwin.xyz
 lorenfilokiralama.com
 lorenvibek.top
@@ -62696,6 +62718,7 @@ mobil-cep-online-tr.site
 mobil-cep-ozel.online
 mobil-cep.online
 mobil-cepte.myonlineportal.de
+mobil-cepteteb.my-homeip.de
 mobil-deniz-com-esube.duckdns.org
 mobil-deniz-com-promossyon-giris.duckdns.org
 mobil-deniz-com-promosyonum-cepte.loseyourip.com
@@ -64554,6 +64577,7 @@ nannykii.xyz
 nanofrontier.capital
 nantcompassionate.top
 napasmash.store
+napaw40848.world
 napcondolence.top
 napkinshorthand.top
 napkinsubject.com
@@ -67305,6 +67329,7 @@ oaremulate.top
 oarrecipe.top
 oasisepin.com
 oasymbasvurun.net
+oatahwed.shop
 oath-trezoer-hrd.webflow.io
 oatrnity.top
 oauth--can-sso--kucoin--h.webflow.io
@@ -70295,6 +70320,7 @@ palmiyesultan.cc
 palmiyesultan.forum
 palmiyesultan.net
 palmiyesultan.uk
+palmiyesultanb.uk
 palmiyesultanbungalov.org
 palmiyesultans.com
 palmpredominant.top
@@ -75913,6 +75939,7 @@ qliitewjoing.pro
 qmartelyx.xyz
 qmenkul.com
 qmenkuldegerler.com
+qmnasdn.click
 qmonest.duckdns.org
 qmsiqorta.site
 qmwnenawbmdnsbdmqw.net
@@ -76219,6 +76246,7 @@ qwlandmerxa.online
 qwoafyhhxx1.net
 qwodxz.top
 qwoois.ml
+qwqeqeqweq.shop
 qwrqwrqwr.net
 qwrtybvc.sbs
 qwwetwegtsdgsdg.blogspot.com
@@ -76811,6 +76839,7 @@ rdqdxv.thansharpthis.top
 rdqfmd.top
 rdrandvu.net
 rdrgo4.cyou
+rdsjcnc1.click
 rdzzmg.top
 re-checkid2455.world
 re-confirmationstay.com
@@ -84414,6 +84443,7 @@ siparisinizguvende.com
 siparisinkapnda.shop
 siparisinzsepetinde.click
 siparislergelir.org
+siparislerim-onayli-127447.com
 siparislerimonline.com
 siparislerin28bucuk.cloud
 siparislerindehizli18bucuk.cloud
@@ -85926,6 +85956,7 @@ sorgucum.de
 sorgucumeryem.com.tr
 sorgudava.net
 sorgudenetim.org
+sorgudosya.net
 sorgueceza.com
 sorguekrani.org
 sorguemaliye.com
@@ -96184,6 +96215,7 @@ tutturdum.club
 tutturdum.online
 tutturdum.site
 tutturdum.xyz
+tutyrncjcn.shop
 tuuwttukr.govt.hu
 tuv-arac-muane.net
 tuv-iis.digital
@@ -97485,6 +97517,7 @@ usauk7.xyz
 usbdestekleyenbuzdolab.cfd
 usc1.contabostorage.com
 uscryptorelief.com
+usdgsdgsd.shop
 usdt-wallet.us
 usdtaccount.com
 usdtusa.com
@@ -99820,6 +99853,7 @@ vitaminpropeller.top
 vitez-hockey.com
 vitix.click
 vitocass.descarga-mg.co
+vitrincicek.com
 viva5005.com.tr
 vivabilet.ru
 vivalafocaccia.com
@@ -104722,6 +104756,7 @@ xn--myethrwallet-seb.com
 xn--mzedtiairik-thb60k.net
 xn--mzmrkart-skb.com
 xn--nabznagrehaberidmi-j3b09i61a.net
+xn--nadrgold-e2a.com
 xn--naktbahis652-34b.com
 xn--nastonyasn-dcb57j.net
 xn--ncrrancvucum-24b.net
@@ -105065,6 +105100,7 @@ xvmucli.tw
 xvwt.com
 xvxvxjvxjvj.net
 xwbportlgov.site
+xwdhwse8ql.route64.de
 xwfnyb.top
 xwhite1.ga
 xwhite2.ga
@@ -106628,6 +106664,7 @@ yrkuoc.buzz
 yrl1best.blogspot.com
 yrqwvevbjcfv.es
 yrwyhh.top
+ys2egt1hal.ooguy.com
 ysbismakinalari.com
 yselp.com
 yshkab.help
@@ -106646,6 +106683,7 @@ ytfzhe.homes
 ytkslmashnyhhamalklnsbbdgnlka18965.store
 ytm-pltfzone.com
 ytm-trdinvest.com
+ytnvhfdk.com
 ytodaktirgarage34.duckdns.org
 ytrrrartkkkuzymynnbnn.duckdns.org
 ytrsdsndsn-ytrseresrsr.com
@@ -107445,6 +107483,7 @@ zmrmizlegelbzlerle.net
 zmrskdjasfd.shop
 zmskartleyukle.net
 zmvevj.cc
+zmxzcnemds.shop
 zo34vtors.com
 zoandl-ikeytr-bzakl.com
 zodmerli.gifts
