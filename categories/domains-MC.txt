@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41612
-# Last change: 2026-10-26 14:20:40 UTC (sync mode: delta)
+# Records: 41645
+# Last change: 2026-10-27 13:17:34 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -2781,6 +2781,7 @@ ai.qianxing.co
 ai.wenxinzhineng.top
 aiadgenerator.app
 aiahyhhchgushex.ru
+aiarmor.website
 aicalica.duckdns.org
 aicoin-app.co
 aicovhxl.com
@@ -4377,6 +4378,7 @@ assetsreserve.com
 assicurati-con-linear.online
 assignment54789.xyz
 assignmenthelptoday.com
+assis-programupdate.top
 assistance.uz
 assistcustody.xyz
 assisted-living-11607.bond
@@ -9772,6 +9774,7 @@ data-dv.live
 data-lifeguard-diagnostic-for-windows.com
 data-microsoft.services
 data-sob-gov-bd.live-co.org
+data-sys-seq.top
 data.applockkeep.xyz
 data.dropboxbeta.com
 data.horoscopedaily.xyz
@@ -9795,6 +9798,7 @@ datahog.su
 datalarcim.com
 datalytica.su
 datamarketplace.net
+datamons.org
 dataplane.theyardservice.com
 datasend.linkpc.net
 datasheet.fun
@@ -12829,6 +12833,7 @@ experience-improvement.com
 experiment.pw
 experimental-tech.com
 experimentalideas.today
+expertassist.top
 expertswebservices.com
 explainvees.sbs
 explicithe.one
@@ -14967,12 +14972,16 @@ gestionadocs.me
 gestisciweb.com
 get-app-data1.xyz
 get-carrot-zoom.com
+get-help.top
 get-icons.ddns.net
+get-info-check.top
 get-license2.com
 get-location.com
 get-location.net
 get-mactech.com
 get-midjourney.site
+get-sys-info.top
+get-upd-sys.top
 get.easyhrservicesm.workers.dev
 get.storagesync.biz
 getavatar.top
@@ -15011,8 +15020,11 @@ getstockprice.info
 getstylify.com
 getsupdated.info
 getsupportsservices.azurewebsites.net
+getsysmonitor.top
+getsystembridge.top
 getthishasg.live
 gettinfo.com
+gettingheadfromduckysmom.st
 gettogether.quest
 gettranslate.ir
 gettravelright.com
@@ -15360,6 +15372,7 @@ goddess19.com
 godfelix.ddns.net
 godismine.duckdns.org
 godofdoge.com
+godofthunder.st
 gods6of6egypt.xyz
 godsmenu323.xyz
 godsplan12.xyz
@@ -18200,6 +18213,7 @@ informatioshopname.ru
 infoshoutout.com
 infosystemsllc.com
 infoterkiinii.xyz
+infoupdate-it.top
 infra-telemetry.com
 ing-homebankinfo.icu
 ing.tunus.ru
@@ -18628,6 +18642,8 @@ iswjukwfxi.mbhaj.ru
 iswm6g.xev3.ru
 iswukh.com
 iszedim8xredu2.com
+it-assistant.top
+it-seccontrol.top
 it-support.workisboring.com
 itacheteez.xyz
 italbitez.info
@@ -24213,6 +24229,7 @@ ms-office.services
 ms-offices.com
 ms-server-default.com
 ms-sql-auth.com
+ms-system-check.top
 ms-team-ping.com
 ms-team-ping1.com
 ms-team-ping10.com
@@ -25371,6 +25388,7 @@ niboshiyahonpo.com
 nic-svc.net
 nice-goods.online
 nice-protect.com
+niceer.net
 nicepliced.live
 nicerypx.com
 niceties7.xyz
@@ -28695,6 +28713,7 @@ programrevolution503.weebly.com
 programs.edlester.com
 programsbookss.com
 programseeget.info
+programupdate-assis.top
 progressiq.net
 progressive453453.xyz
 progressiveweba.z13.web.core.windows.net
@@ -29036,6 +29055,7 @@ pyajwkkntjskeoq.su
 pyatiticdigt.shop
 pyflbcxgiubuplj.cn
 pyijwbnc.com
+pymons.is
 pymuestnwo.info
 pyoheekfkbwh.info
 pypi-get.com
@@ -31387,6 +31407,7 @@ scammers66000.ddns.net
 scammerslammer.ddns.net
 scammertest.ddns.net
 scammingnigger.ddns.net
+scan-updseq.top
 scan.aquasecurtiy.org
 scan.rebirthltd.dev
 scan.rebirthltd.top
@@ -31566,6 +31587,7 @@ seb66r9g5.itersonso.xyz
 sebmillington854.site
 seburage.com
 seburax.com
+sec-check-it.top
 sec-safe-dc.info
 sec-t2.fainerkern.ru
 sec.opsecurity1.art
@@ -33017,7 +33039,9 @@ sofiaschulz.com
 sofiavergara.duckdns.org
 sofny.com
 soft-feather-7807.0x.cloudflare-workers.workers.dev
+soft-network.top
 soft-out1.aqgj.cn
+soft-program.top
 soft-storage.com
 soft.appofficeapp.co
 soft.rippleserveruns.workers.dev
@@ -34031,6 +34055,7 @@ supernews.instanthq.com
 supershopt-short.com
 supersuit.site
 supertop2.duckdns.org
+supertrap.net
 superyou.zapto.org
 superyupp.fun
 supfoundrysettlers.us
@@ -34284,6 +34309,7 @@ syracuse-seeks-wilson-row.trycloudflare.com
 syrmoe.com
 syrtime.me
 sys-tools.cfd
+sys-update-check.top
 sys.688.org
 sys.traceroute.vip
 sysbinder.xyz
@@ -34690,6 +34716,7 @@ technoads.pw
 technocometsolutions.com
 technologyenterdo.shop
 techpowerup-gpu-z.com
+techrelay.top
 techrulez.xyz
 techspherxe.top
 techsprouts.com
@@ -36724,6 +36751,7 @@ upalbsg.com
 upbc.pro
 upbckwsdyfaruzevwskx.dns.army
 upbeat-water-13533.pktriot.net
+upd-check-soft.top
 upd-domain-goloro.com
 upd.re
 upd10a.com
@@ -36745,6 +36773,7 @@ update-kaspersky.workers.dev
 update-microsoft.space
 update-now.org
 update-service-host.serveftp.com
+update-software.top
 update-symantec.com
 update-teams.live
 update-windows-security.tk
@@ -36832,6 +36861,7 @@ updchecking.sytes.net
 updlnrzis.com
 updpcn.online
 updsql.me
+updsysseq.top
 upecllysxmsfbso.ru
 upeg-system-app.com
 upempaxtcubmndh.su
@@ -37480,12 +37510,14 @@ verelemalaarunee.cyou
 verg55g.gb.net
 vergaespanola.site
 vergiborc.com
+verifcontrol-update.top
 verification-salesforce.com
 verificationsbycapcha.center
 verificationservice.online
 verifieer-gegevens.com
 verifieer-nu.com
 verifikations.ru
+verifsec-update.top
 verify-office-outlook.com
 verify-publisher.azurewebsites.net
 verify-safeguard.top
@@ -39147,6 +39179,7 @@ workere.site
 workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
+workerstats.net
 workhard.shop.swtest.ru
 workout.pictures
 workrabota112.site

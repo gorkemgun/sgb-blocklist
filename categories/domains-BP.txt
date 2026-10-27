@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259904
-# Last change: 2026-10-27 06:21:26 UTC (sync mode: full)
+# Records: 259917
+# Last change: 2026-10-27 13:17:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -17790,6 +17790,7 @@ agtysxrostikinxdrimxleridns.com
 agtyukle1.22web.org
 aguasgdgasgdg888asw.click
 aguaspoav.vercel.app
+aguga293sadashdasdsaww.click
 agurhanesfa.vercel.app
 agusstsozlklmmsokktn.com
 agustafirsatlarim.com
@@ -57548,6 +57549,7 @@ cepanahtarkampanya.com
 cepanahtarkampanyasi.com
 cepanahtaryukle.com
 cepaninda.sbs
+cepapsdpasd.duckdns.org
 cepayarlari.com
 cepbakiyeyukle.com
 cepbank-direkt.com
@@ -57660,6 +57662,7 @@ cepledirekal.com
 ceplicepgirisi.com
 cepmaxideboluklar.com
 cepmobhizmetr.click
+cepmobil-teb.my-homeip.de
 cepmobilesubem.com
 cepmobilgaranti.duckdns.org
 cepmobilprb-giris2022.com
@@ -58404,6 +58407,7 @@ cepteteb-kampanya.com
 cepteteb-kazan.com
 cepteteb-kazanmavakti.com
 cepteteb-merkeziislemler.my-homeip.de
+cepteteb-mobil-bankacilik.my-homeip.de
 cepteteb-mobil-giris.com
 cepteteb-mobil.ml
 cepteteb-mobilsube-com-tr.tk
@@ -58515,6 +58519,7 @@ cepteteeb.com
 ceptetelefon.com
 ceptetelefonun.site
 ceptetepp.com
+cepteteteb-cepteteb.duckdns.org
 ceptetlyuklemefirsatlari.com
 ceptetrfirsat.biz.tr
 ceptetrfirsat.net.tr
@@ -106660,6 +106665,7 @@ guncelhizlihikaye.com
 guncelhizliyuklemeler.sg-host.com
 guncelhizmetler.xyz
 gunceliade.sg-host.com
+guncelicerigimiz.abrdns.com
 guncelidurumlar.com
 guncelidurumunuz.com
 guncelindirimler-sepetim.cloud
@@ -109232,6 +109238,7 @@ haber366ttr.sbs
 haber369.com
 haber40.club
 haber41533.sbs
+haber451875.sbs
 haber456.com
 haber456.shop
 haber456.xyz
@@ -156186,6 +156193,7 @@ liliykleme.net
 lilnest.mom
 lilokokobilmem.click
 lilolopilkedefersede.xyz
+liloluhederesederete.lol
 limanzon.com
 lime-shark-267615.hostingersite.com
 limestonelumen.site
@@ -163052,6 +163060,7 @@ mobilcepte.sbs
 mobilceptecebim.tk
 mobilceptenindir.com
 mobilceptesubemiz.net
+mobilcepteteb.my-homeip.de
 mobilcepuygulama.com
 mobilcepv2deniz.org
 mobilcimerdestek.com
@@ -167755,6 +167764,7 @@ nanoweb.club
 nanoyo.info
 nantibot.eu
 nap.ingbank.group
+napaw40849.cfd
 napicaksin.app
 napisen.blogspot.com
 napolyongrup.fun
@@ -185406,6 +185416,7 @@ pragrd.xyz
 pragrg.xyz
 pragrj.xyz
 pragrm.xyz
+prairiepomes.com
 prakendeindirimal.com
 pralixi.sbs
 pramguvende.com
@@ -200185,6 +200196,7 @@ salioglen9-5.com
 salionline-gun.com
 salionline-siparis.com
 salionlineislemler.com
+saliozel.cfd
 saliozel101yakala.com
 saliozelindrm.com
 saliramazangunu.com
@@ -217272,6 +217284,7 @@ tebmobilsubem.com
 tebmobilsubemcep.ml
 tebnetinden-girislerim.duckdns.org
 tebobeba.duckdns.org
+tebomebolo.cfd
 tebonlinebanka.tk
 tebonlinebankacilik.com
 tebonlinebasvur.0fees.us

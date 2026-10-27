@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107748
-# Last change: 2026-10-27 06:21:26 UTC (sync mode: full)
+# Records: 107805
+# Last change: 2026-10-27 13:17:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -372,6 +372,7 @@
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-tr.e-sepets.online
+101-mobil-extra-sadece-bugune-ozel-asveris-indirimleri-tr.e-shopta-mobils-tr.online
 101-mobil-extra-sadece-bugune-ozel-indirim-online-alisverisde.mix-shop.online
 101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip
@@ -8811,6 +8812,7 @@ aracmuayenerandevu.b-cn.net
 aracmuayenerandevum.com
 aracmuayenerandevumerkezi.com
 aracmuayenerandevumm.com
+aracmuayenerandevumtr.com
 aracmuayenerandevun.online
 aracmuayenerandevutescil.xyz
 aracmuayenesiservisi.com
@@ -9552,6 +9554,7 @@ asdqasasfasfafa.com
 asdqwdmvkfvkf.com
 asdqweqweqw.shop
 asdqwzxksdq.net
+asdrweqffdaads.duckdns.org
 asdsaafas.oceruh.net
 asdsacas.duckdns.org
 asdsad213safsad.com
@@ -15528,6 +15531,7 @@ bnace-events.com
 bnaceretr.com.tr
 bnactiv18169879.cloud
 bnactivitestrcampway.cloud
+bnadmvec.giize.com
 bnadna.xyz
 bnafd246.duckdns.org
 bnagirisbasvurutr.com
@@ -19454,6 +19458,7 @@ cevrimici-web.my-homeip.com
 cevrimicionline1o1.net
 cewondesystemns.com
 cewopoujoa.com
+cex9fo17tyc4glmylk.live
 cexaca1409.site
 ceyhunturizm.com
 ceyizlife.com
@@ -19467,6 +19472,7 @@ cezaborcu.com
 cezadavadosyalarim.com
 cezadavam.com
 cezadosya.net
+cezadosyabilgi.com
 cezadosyalari.com
 cezadosyasimaliye.com
 cezadosyasorgu.org
@@ -19835,6 +19841,7 @@ chip-von.com
 chipmanconsulting.com
 chipstory.top
 chk.wtf
+choclatey.org
 chocolatebarometer.top
 chocolatehockey.top
 choiceformidable.top
@@ -23752,6 +23759,7 @@ corporate-microsoft.com
 corporate-okta.com
 corporatecelebrity.top
 corporatecomf.online
+corporateitservicellc.onmicrosoft.com
 corporatesinvitation.com
 corporation-dynamics.com
 corporationdisperse.top
@@ -31022,6 +31030,7 @@ ehmver.online
 ehomedxy.net
 ehsfld.top
 ehsrsrgx.net
+ehukukdava.com
 ehukukdava.org
 ehukukgov.org
 ehukuksorgu.org
@@ -31399,6 +31408,7 @@ elevencleanse.top
 elevencosmetic.top
 elevensalmon.top
 eleverelim.net
+elhsls3sj7heebf.ipv64.net
 elicitendow.top
 elicitprosperity.top
 elifimeasigim.net
@@ -31551,8 +31561,10 @@ emaleblunder.top
 emaliasliye.com
 emalidosya.com
 emalievrak.com
+emaliportal.com
 emalitalimat.com
 emaliuyap.com
+emaliuzlasma.com
 emaliyebdk.com
 emaliyebildirim.org
 emaliyebtk.com
@@ -32478,6 +32490,7 @@ eportaliadelerizamani.com
 eportalkamu.org
 eportalmaliye.org
 eportalmasak.com
+eportalmasak.org
 eportalonlinebasvuruformu.com
 eportalsorgu.org
 eportaluzlasma.com
@@ -43645,10 +43658,17 @@ helpcaseid10.cfd
 helpcenter-amazon.com
 helpdepreciation.top
 helpdesk-apple.com
+helpdesk-call.com
 helpdesk-gemini.com
 helpdesk-google.com
 helpdesk-icloud.com
+helpdesk-s1x.com
+helpdesk-support-office-3.com
+helpdesk-support-office-4.com
+helpdesk-support-us-ny.com
+helpdesk-support-us3.com
 helpdeskowa.at.ua
+helpdeskteam365.onmicrosoft.com
 helpearthquake.com
 helperanalytics.ru
 helperlivesbacks.ml
@@ -43688,6 +43708,7 @@ helsinkim.com
 helsoki.com
 helwmgsl.sbs
 helytra.com
+hemasnlaknsata.blogspot.com
 heme-sn-sonuc.net
 hemeins-nsonuc.net
 hemeisnan-sonu.net
@@ -45634,8 +45655,10 @@ hmbgovtr.info
 hmbkxcbv.art
 hmbmaliye.org
 hmbmasak.org
+hmbportal.com
 hmbsorgu.net
 hmbsorgu.org
+hmbuyap.com
 hmbveznedar.com
 hmbveznedar.org
 hmdnmfdd.com
@@ -50583,6 +50606,7 @@ islespotlight.top
 isletme-kredimerkezi.com
 isletmedestegi.com
 isletmekredimerkezi.com
+islmhizliaa.net
 islmleriniz.online
 islmlernnizz.online
 islmnghnssn.net
@@ -51261,17 +51285,22 @@ it-garda.com
 it-room24.com
 it-rooms24.com
 it2ua.com
+itadmin922.onmicrosoft.com
 italypayments.site
 itanbulkarttlyukleme-kasimindirim.ga
 itbugreportbeta.com
 itcfit.com
+itcoreportal.onmicrosoft.com
 itcsgw.top
+itdeskassist.com
 itejui.com
 itemconceive.top
 itemelaborately.top
 itemput.top
+itendpoint365.onmicrosoft.com
 itgatestorage.com
 itgreatwilltheynow.top
+ithelpplus42.onmicrosoft.com
 ithmorak.com
 itibardestek.com
 itinfogate.com
@@ -54038,6 +54067,7 @@ ke3ntk3rt.net
 kebulaflare.com
 kebuvyy.com
 kecs66415.site
+ked2l10tklevhcukbe.live
 kedicik.app
 kedicik.club
 kedicik.live
@@ -56243,6 +56273,7 @@ kurumgecisodeavodesi.xyz
 kurumhukuk.org
 kurumiadeportaliniz.com
 kurumlarinresmigirisadresii.com
+kurummahkeme.org
 kurummali.org
 kurumodemeleri.co
 kurumsaiweb.co
@@ -56508,6 +56539,7 @@ kzongfd.bo5wfb0f9.top
 kzsngcj.cn
 kzydnv.org
 kzyihayat.org
+kzymenkuldegerler.com
 l----web-ledgerlive.webflow.io
 l-arena.com
 l-hgs.com
@@ -59246,16 +59278,21 @@ maidnegligent.top
 maienklante.pro
 maiiller.webflow.io
 maijeans.top
+mail-alsongroup-comupodatemailfbhjvssdnregklreighlknvlire1.pages.dev
 mail-chimpservices.com
 mail-ex-onmicrosoft.com
 mail-exch-offd365-us21-mrosfst.com
 mail-exch-us21-app02-omn0sft365-off-svr.com
 mail-for-guest.com
 mail-lastpass.com
+mail-mofept-gov-pk-proposaluodatetokoria546hvghkdfgjhbhjdv.pages.dev
+mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 mail-mx-onmicrosoft.com
 mail-ominicrosft-leadership.com
 mail-omnicrosroft-exch.com
 mail-owa-secured-realm.herokuapp.com
+mail-paknavy-gov-pk-chi.vercel.app
+mail-pmad-gov-pk-online.pages.dev
 mail-reply-a-onmicrosoft.com
 mail-reply-c-onmicrosoft.com
 mail-reply-e-onmicrosoft.com
@@ -59860,6 +59897,7 @@ maliyevergi.com
 maliyevergiformu.com
 maliyevezne.com
 maliyevezne.org
+maliyeveznedar.online
 maliyeveznedar.org
 maliyeveznedartalepformu.com
 mall.greydermalls.com
@@ -60426,6 +60464,7 @@ masaktc.net
 masaktrmobilbinance1.duckdns.org
 masakuyap.org
 masakvezne.com
+masakvezne.online
 masakveznedar.com
 masakveznetalepformu.com
 masalarinkampanyasi.xyz
@@ -60480,6 +60519,7 @@ massageoffspring.top
 massak.com.tr
 masseightok.top
 massfat.top
+massgravel.net
 massiveevaporate.top
 massu.cfd
 mastelefonia.com
@@ -60828,6 +60868,9 @@ mcafilo.com
 mcare.co.in
 mcbgvsbcos.ytyukai.cn
 mcbnxh.homes
+mcbumaliye.com
+mcbumaliye.site
+mcbumaliye.xyz
 mcc-account-sync.com
 mcc-invitation.com
 mcc-safety.com
@@ -65241,6 +65284,8 @@ netvanta.digital
 netw.loveslife.biz
 netwise.inkalexservices.space
 netwise.live
+networkadmin797.onmicrosoft.com
+networkadmin916.onmicrosoft.com
 networkartifact.top
 networkcasual.top
 networkcondolence.top
@@ -74951,6 +74996,7 @@ pttavm.siparis-onay-7712.com
 pttavm.siparis-onayli-115520.com
 pttavm.siparis-onayli-115522.com
 pttavm.siparisguvencesi.com.tr
+pttavm.siparisini-olustur.com
 pttavm.siparisweb.net
 pttavm.tamamla-sipars.com
 pttavm.tedarigin-guvenlisi.com
@@ -80094,6 +80140,7 @@ sahibinden-paramguvende.tr-alisverisler.net
 sahibinden-paramguvende.tr-alisverislerin.net
 sahibinden-paramguvende.tr-gets-siparislerim.online
 sahibinden-paramguvende.tr-onlinodeme.sa.com
+sahibinden-paramguvende.tr-siparisget.online
 sahibinden-paramguvende.xn--breysel-rfb.com.tr
 sahibinden-paramguvenli.alisverisintr.com.tr
 sahibinden-paramguvenli.alisverislerin.com.tr
@@ -88669,6 +88716,7 @@ support4turkeynow.asia
 support4turkeynow.com
 support75441.live
 supportadministrator.onmicrosoft.com
+supportagentonline.onmicrosoft.com
 supportbadge.com
 supportcenterassistanss.com
 supportchromestore.com
@@ -88677,6 +88725,8 @@ supportcopyright-contact.ml
 supportcopyrightinfringement.tk
 supportcrosoft.com
 supportdilute.top
+supportedge33.onmicrosoft.com
+supportedge39.onmicrosoft.com
 supportedlocationmap.com
 supportercaptive.top
 supporterelasticity.top
@@ -88951,6 +89001,7 @@ swellilliterate.top
 swenzy.quapin.online
 swenzy.xyz
 swenzydev.prtcl.icu
+swhllxdeselqh8w.dns64.de
 swiftcampaignbnnannce.website
 swiftcart.cyou
 swiftglo.com
@@ -90136,6 +90187,7 @@ tarihrandab.net
 tarihsizvalibaba.duckdns.org
 tarimarketcep.cfd
 tarimbirlikmarket.com
+tarimkoop.app
 tarimkoop.com
 tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
@@ -90808,6 +90860,7 @@ techrovia.online
 techsavvy.website
 techsec.xyz
 techsolutionsworld.xyz
+techsupport2337.onmicrosoft.com
 techtinker.fyi
 techtonica-finance.fun
 techtonics.fun
@@ -92050,6 +92103,7 @@ threadeconiliatin.top
 threat-coinbase.com
 threatcenterofreaserch.com
 threatenpermeate.top
+threatpro.onmicrosoft.com
 threemandate.top
 threemonopolize.top
 threepilgrimage.top
@@ -92470,6 +92524,7 @@ tkkg-edvtapkonv.online
 tkkkiibasvrr.net
 tkkoop.vercel.app
 tkkoopjet.com
+tkkooponline.vercel.app
 tkksgabasvuru.work
 tkktkktkklnsslnkknn.com
 tkktktklaspsrlurklm.com
@@ -105488,6 +105543,7 @@ yasinatasoyholding.net
 yasinbabaproo.net
 yasinbabaprooo.net
 yasinbabo.online
+yasinbulutgot.duckdns.org
 yasoguh.xyz
 yasyeye.dreamhosters.com
 yatialis.com
@@ -107062,6 +107118,7 @@ zarzurtiki-raprapsada.lol
 zasede-redereteyere.lol
 zasede-zaderete.xyz
 zasedepilokihidfere.lol
+zasederetesedepiloho.lol
 zasedereteyere-sedereteye.lol
 zaurevionyzhub.world
 zauubslru-byyzaz-a1e01-rkatxe.lol

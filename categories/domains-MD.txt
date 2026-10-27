@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66171
-# Last change: 2026-10-22 13:51:01 UTC (sync mode: delta)
+# Records: 66183
+# Last change: 2026-10-27 13:17:34 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8330,6 +8330,7 @@ addd222.hopto.org
 addendumtheshall.net
 addis.buzz
 additionalinfo.hopto.org
+additionalver.com
 addlabelorg.com
 addnow.zapto.org
 addobefilevx.ddns.net
@@ -13946,6 +13947,7 @@ botdiscord.ddns.net
 botduke.ug
 botduke1.ug
 botil.zapto.org
+botlesscucks.st
 botne.zapto.org
 botnet-nguyentuan.ddns.net
 botnet.zapto.org
@@ -14909,6 +14911,7 @@ c8201834f811h.net
 c843u4o.duckdns.org
 c84526.duckdns.org
 c84c8098.com
+c85grt98sd.com
 c861.hopto.org
 c862uo.duckdns.org
 c87pwjitanejkhk6qf1nwhm.ddns.net
@@ -17970,6 +17973,7 @@ cryptersandtools.minhacasa.tv
 cryptflux.info
 cryptmyexe.pw
 crypto-2233.ddns.net
+crypto-insider.top
 crypto-loot.com
 crypto-stroe.cc
 cryptoban.ddns.net
@@ -19482,6 +19486,7 @@ deepseeksol.com
 deepseekt.org
 deepseektrump.xyz
 deepthinkingroom.ddns.net
+deepveindrilling.com
 deepweb212.duckdns.org
 deesharitouristhub.com
 deevo.ddns.net
@@ -28237,6 +28242,7 @@ hddico.hopto.org
 hddshack3.ddns.net
 hdeguqlrmx.duckdns.org
 hdfc.pp.ru
+hdfdsi84j3h.top
 hdflxayxxn.duckdns.org
 hdfooonijy.duckdns.org
 hdfullvideoizle12432.site
@@ -35119,6 +35125,7 @@ landofhyrule.com
 landscapeuganda.com
 languensuk.host
 langverfis0.ddns.net
+lanhd6549tdhse.top
 lankystocks.com
 lanomi.ddns.net
 lanova9.zapto.org
@@ -35377,6 +35384,7 @@ leospeedvi.ddns.net
 leotest.zapto.org
 lepeov.duckdns.org
 lepra.zapto.org
+leqdger.click
 leqg5s.duckdns.org
 lerarabidinc.ru
 leravindatone.top
@@ -37250,6 +37258,7 @@ manteivsetting.ga
 manual.newphoneapp.com
 manualpl.ddns.net
 manualreaderpro.com
+manulfie.click
 manxingmema.hopto.org
 manxzas12.duckdns.org
 manymoney67.ddns.net
@@ -40864,6 +40873,7 @@ nessn.duckdns.org
 nestlecompany.pro
 nesttnv.duckdns.org
 nesupcli.com
+neswnsssn.click
 neszmely.eu
 net-auth-verification.duckdns.org
 net-flixservice.hopto.org
@@ -49344,6 +49354,7 @@ rugar.duckdns.org
 rugiomyh2vmr.com
 rugju.duckdns.org
 ruhi8pj.duckdns.org
+ruhsuzpanel41.click
 ruhsuzpanel8.site
 ruhzy.top
 ruisi.fr
@@ -61730,6 +61741,7 @@ wire.mtcc.me
 wirelessaccountxfin.duckdns.org
 wirelessdrive.zapto.org
 wireropehoist.in
+wirexsorgu.gt.tc
 wiri84.hopto.org
 wis96nkl.duckdns.org
 wisetoolz.com
