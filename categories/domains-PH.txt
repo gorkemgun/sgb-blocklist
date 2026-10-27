@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107744
-# Last change: 2026-10-27 00:30:57 UTC (sync mode: delta)
+# Records: 107748
+# Last change: 2026-10-27 06:21:26 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -13139,6 +13139,7 @@ belsis.site
 belsis.store
 belsis.xyz
 belsis1.world
+belsis2.world
 beltglacier.top
 beltmealmusic.com
 beltturkey785.com
@@ -50433,6 +50434,7 @@ iscep-maximum-giris.cf
 iscep.bugunsizeozel.cfd
 iscep.ekimozel.cfd
 iscep.firsatbildirimileri.online
+iscep.salicep.cfd
 isceple.firsatbildirimileri.xyz
 isceponay.xyz
 iscepstr-mobil.click
@@ -58388,6 +58390,7 @@ lsgg54e8ye.shop
 lsmr-lyklmeyapknkxm.net
 lssc-canada.ca
 lsscol.com
+lssjhhbelf3se7.any64.de
 lstanblues.shop
 lstanbul-kartiiin.net
 lstanbul.tech
@@ -104216,6 +104219,7 @@ xlinmensadhas3cx3.cfd
 xlizmirim.org
 xljxjxljxjx.net
 xljxljjxjx.net
+xll8sdhqewwhse.eth64.de
 xlliur.top
 xloaukk.cn
 xlog.city
