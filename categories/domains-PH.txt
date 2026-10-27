@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107737
-# Last change: 2026-10-26 20:33:12 UTC (sync mode: delta)
+# Records: 107744
+# Last change: 2026-10-27 00:30:57 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -28177,6 +28177,7 @@ dlov33epredominate.top
 dloxmkx.cn
 dlpjgs.top
 dlscord.org
+dlsdksdl.click
 dlt34tennessee.space
 dman33ualfascinating.top
 dmarisbayhotelresort.com
@@ -37719,6 +37720,7 @@ garantibbva.abrdns.com
 garantibbva.cepsubelerim.com
 garantibbva.duckdns.org
 garantibbva.owline.com
+garantibbva.pro
 garantibbva.subessiz.net
 garantibbva2020.com
 garantibbvacepsubesi-mobilislem.ph
@@ -42107,6 +42109,7 @@ haberler142536231.shop
 haberler1436542.sbs
 haberler14534925.shop
 haberler15123424.sbs
+haberler15132.sbs
 haberler1542334.shop
 haberler154313.sbs
 haberler1564568.sbs
@@ -50428,6 +50431,7 @@ iscamvbul.net
 iscemxirb4ky3m.net
 iscep-maximum-giris.cf
 iscep.bugunsizeozel.cfd
+iscep.ekimozel.cfd
 iscep.firsatbildirimileri.online
 isceple.firsatbildirimileri.xyz
 isceponay.xyz
@@ -70326,6 +70330,7 @@ palmiyesultans.com
 palmpredominant.top
 palmsgalsr.bio
 palmtlxz.club
+palmyesultan.com
 palsenan.net
 palvetin.org
 pamautialsonge.top
@@ -80019,6 +80024,7 @@ sahibinden-param-guvende.siparis-onayla.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
+sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-urun-detayi.online
 sahibinden-param-guvende.urunodeme-tr.online
 sahibinden-param-guvende.urunodemetr.online
@@ -85290,6 +85296,7 @@ so-callednomination.top
 so-calledportfolio.top
 so-calledspicy.top
 so-giveaway.com
+so-kekimayiozel-sepet.com
 so-logii-ledgarlive.webflow.io
 so-n11kepadresim.com
 so-sui-auth.webflow.io
