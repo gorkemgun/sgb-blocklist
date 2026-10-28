@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107918
-# Last change: 2026-10-28 13:04:42 UTC (sync mode: full)
+# Records: 107974
+# Last change: 2026-10-28 18:53:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -115,6 +115,7 @@
 0h1t1zuy1e9yrs8w1usc.jamescare.cfd
 0h4os5h.cn
 0hwbd95.cn
+0ia.site
 0jzlgfa.cn
 0kgydw0.cn
 0lala-hom.rest
@@ -130,6 +131,7 @@
 0pti.top
 0qa.us
 0qzi7uk.cn
+0rl.link
 0rtakislem.net
 0t32tggh3-gewg2312ewefkewgweelwqds.sbs
 0th7i8jn.storage.googleapis.com
@@ -2485,6 +2487,7 @@
 554960.com
 55500055.net
 555553263.cloud
+55676353546.sbs
 556haber.club
 556haber.online
 556haber.site
@@ -3051,6 +3054,7 @@
 89339912834.sbs
 89375-coinbase.com
 894561235864132.sbs
+8945646489.sbs
 8954.click
 8965412358.cloud
 89685655523.cloud
@@ -5457,6 +5461,7 @@ adwfgw.s.gy
 adwords-accounts.online
 adx12dxadxq22x1.sbs
 aecgvc.buzz
+aeeum.com
 aehnbk.click
 aejofa.cn
 aek8gnr.cn
@@ -5634,6 +5639,7 @@ agoda-live.live
 agodvturkiye.online
 agodvturkiye.site
 agonusy.online
+agorasupersters.com
 agotteref.net
 agr-avs-apt.myonlineportal.ch
 agrajiltd.co.tz
@@ -6299,6 +6305,7 @@ akpartii.xyz
 akpartilorgtr.com
 akpartiuyelik.net
 akpbasvuruhatti.com
+akportfoy-bi.pages.dev
 akprmsyns2024akhzrn.online
 akpromsyn2024frsttkacmaz.online
 akra-frontdeskt.com
@@ -9962,6 +9969,7 @@ atamobilya.com.tr
 atanibibulursamalahini.sbs
 atarpacific.com
 atasoyawsdaw.net
+atat.ink
 atatcheck.online
 atatcheck.site
 atateknoloji.org
@@ -12829,6 +12837,7 @@ bdarybrewery.top
 bdbgmz.top
 bdbtmb.top
 bdbxmy.top
+bdchc.com
 bdcmmk.top
 bddcmy.top
 bddgmr.top
@@ -12983,6 +12992,7 @@ bedavapanel2026.cyou
 bedavapanel4.site
 bedavapanelhizmetleri.website
 bedavapanelimizyeniden.gt.tc
+bedavapanelvarlan.click
 bedavasorgu.org
 bedavasorgu.site
 bedavasorgu2026.online
@@ -13468,6 +13478,7 @@ bformtrk.top
 bfrayrdmkrumu.com
 bfrstxswqd-dstkle.online
 bfrszkampcfrs.cfd
+bfxcl.buzz
 bg-eventramazan.net
 bgailin.net
 bgfnhnertbwerbweq.sbs
@@ -19376,7 +19387,9 @@ cepteindirim.org
 ceptemarketimsok.com
 ceptemarketsanal101.xyz
 ceptemarketsokkampanya.site
+ceptemobil.my-homeip.de
 ceptemobildeyiz.my-homeip.de
+ceptemobile.my-homeip.de
 ceptemobili.my-homeip.de
 ceptemobilim.my-homeip.de
 cepten-ayricaliklar.my-homeip.de
@@ -26025,6 +26038,7 @@ denemetestislemlerimiz.shop
 denemeyevarim.com
 denemsbn.click
 denemssle.byethost5.com
+deneyclass.linkpc.net
 deneyeceksinkardes.com
 deneyelimduyuruya.net
 deneyimifirsatlarintadinabkasen.cfd
@@ -30277,6 +30291,7 @@ eburs.net
 ebvliyna3.net
 ebvliyna4.net
 ebvliyna7.net
+ebydz.buzz
 ec.coinbase-com.info
 ec2-15-160-46-80.eu-south-1.compute.amazonaws.com
 ec2-18-196-232-0.eu-central-1.compute.amazonaws.com
@@ -31071,6 +31086,7 @@ ehliytsorgusayfasi.xyz
 ehmnngrisbasvradrsi.com
 ehmo1948.online
 ehmver.online
+ehnlrhs33ndsel.any64.de
 ehomedxy.net
 ehsfld.top
 ehsrsrgx.net
@@ -32531,6 +32547,7 @@ eportaldava.com
 eportaldosya.com
 eportalgirislerr.com
 eportalhazine.org
+eportalhukuk.com
 eportaliadelerizamani.com
 eportalkamu.org
 eportalmaliye.org
@@ -36196,6 +36213,7 @@ fjhgdjhfdhffdf.net
 fjiright.info
 fjlkvo.bond
 fjomkc.top
+fjpqc.com
 fjqrp.cn
 fjunmedi.info
 fk2ag.info.tr
@@ -37021,6 +37039,7 @@ freebybtc.com
 freechecker.online
 freechecker.xyz
 freecoinbase.org
+freedata-giveaway.com
 freedoctrine.top
 freedomgiveaway.net
 freedommobilize.top
@@ -38785,6 +38804,7 @@ gerdelerdesess.duckdns.org
 gerdenleawkelr.duckdns.org
 gerdesglouds.com
 gerdmoller.com
+gere6677.site
 gereatas.nicepage.io
 gereginebasvurbugun.site
 gerherendeber.net
@@ -39277,6 +39297,7 @@ giris-paribu.site
 giris-paribu.website
 giris-sahibinden9632659.com
 giris-secim-kampany.sbs
+giris-sekermenkul.pro
 giris-tr-link-iadeler.biz
 giris-turkiye-gov-tr-portal-giris-com.rf.gd
 giris-turkiye-gov-tr-vatandas.rf.gd
@@ -41343,6 +41364,7 @@ gusiche.com.tr
 guspostea.top
 gusstcompline-regrv.com
 gustastubea.net
+gustavomartinz.duckdns.org
 gustavopelnikanli.duckdns.org
 gustonaleyi.giize.com
 gustreverv-comlp.com
@@ -41736,6 +41758,7 @@ gytcuj.buzz
 gytikal.store
 gyxaza.site
 gyysadsfsa.com.tr
+gyzhu.com
 gzesqd.top
 gzipinteraction.com
 gzl-gzl-ndrm-brd-glal-brdn.top
@@ -42219,6 +42242,7 @@ haberler274556.sbs
 haberler298451.sbs
 haberler311422.sbs
 haberler311748.shop
+haberler323534.com
 haberler3262343.sbs
 haberler332348.shop
 haberler33544.sbs
@@ -52429,6 +52453,7 @@ jilproxenex.store
 jinchinkun.top
 jinenciwan8.xyz
 jinliujin1.com
+jinminghe.com
 jinrijinquwenhuidezhenghao.top
 jinsystem.online
 jintdom.top
@@ -52808,6 +52833,7 @@ k7-oslo.com
 k748368.click
 k7asdhahsdhashdahsdhahsd.click
 k7qgstpns.storage.googleapis.com
+k7x2q9v5m3.lol
 k8qzv1mxt4nry7wpl2hfiii.click
 k8v2m9q4x1z7.cfd
 k8y1b.my
@@ -53032,6 +53058,7 @@ kahramanindiirmler.com.tr
 kahramankrtbayi.net
 kahvaltisefasi.buzz
 kahveciguvercin.myshopify.com
+kahvedunyasigift.com
 kahveix.com
 kahvemakinasial.xyz
 kahvemekani.com
@@ -54604,6 +54631,7 @@ khsssras.sbs
 kiaceitn.store
 kian-demo.ir
 kibank.co
+kibriscicekmarket.com
 kickboxgroup.info
 kidbeyond.top
 kiddust.top
@@ -56592,6 +56620,7 @@ kytrplastik.com.tr
 kyulkermr.net
 kyvaronedge82.com
 kywsvs.top
+kyywl.com
 kyzihayat.org
 kz-cosmos.ru
 kz-mir.com
@@ -57298,6 +57327,7 @@ lesbianpasser-by.top
 lesbiantrivial.top
 lesgeltes.duckdns.org
 lesigorta.net
+lesoiranlunn.info
 less-fin-ai.com
 lessdegenerate.top
 lessdissident.top
@@ -57393,6 +57423,7 @@ leyladanismanlik.sbs
 leyleyleycu.com
 lezkkfra.duckdns.org
 lezn.loveslife.biz
+lfbbn.buzz
 lflix.neocities.org
 lftkiph.asia
 lg-confirimedn-notices.com
@@ -60161,6 +60192,7 @@ manusriptdiidend.top
 manycatholic.top
 manycynicism.top
 manyenclose.top
+manypeople.cfd
 manyrefute.top
 manyscrutinize.top
 maoysguzh.xyz
@@ -65151,6 +65183,7 @@ nejwsmkbs.net
 nekadsdralto.top
 nelerdeshanewds.duckdns.org
 nelik.click
+nelminoska.giize.com
 nelokoz.top
 neloree.com
 nelsonpaketleme.info
@@ -66099,6 +66132,7 @@ nnffiggvmm.net
 nnhukuk.com
 nnmnnm.ru
 nnmsdkalemrskmf.net
+nnmyd.com
 nnnerfbdg2ef-wsdaghagsfs.sbs
 nnnn345474.site
 nnnvsbbonlne.net
@@ -66751,6 +66785,7 @@ nv1selrandevsal.net
 nv1serandevusalsna.net
 nv1srandevsal.net
 nv2diyaxainanim.net
+nv4r8z1p6.lol
 nv6diyaxainanim.net
 nvaevesen.net
 nvaisdnflaskdxasd.net
@@ -71711,6 +71746,7 @@ paypal-secure.xyz
 paypal.xn--confirm-my-account-7ya.com
 paypalyardimvakfi.com
 paypara.tk
+paypayvibe.com
 payppall-confrimation-account-limit.com
 payqislemmerkezi.com
 payrolappaeent.top
@@ -75932,6 +75968,7 @@ q378373.click
 q3ea64.cn
 q4x9n2v7m1k6.cfd
 q5oed8l.cn
+q6z1t4x8n2.lol
 q7m2v9x4b6n8.cfd
 q7m2z9k4t1p8.cfd
 q7x2m9r5b1t8n0y4p6v3w2z1.com.tr
@@ -76143,6 +76180,7 @@ qoudsjejdjsndj.com.tr
 qovpul.top
 qoys7nu62.supersurvey.com
 qpcdtli.cn
+qpmvt.bus2z
 qprnqg.top
 qq4jfgv5h.supersurvey.com
 qq8o24.xdk8ax.cn
@@ -78596,6 +78634,7 @@ rffwsw.top
 rfjxnfqeqf0.storage.googleapis.com
 rfs-tickets.com
 rfumy.qpon
+rfzqw.com
 rg28btk.cn
 rgfshh.lqqhwm.cn
 rgkgum.top
@@ -79413,6 +79452,7 @@ s-guvenli-odeme.com.tr
 s-guvenli-ticaret-ile-alisveris.site
 s-guvenlimuhasebeodeme.com
 s-guvenlimuhasebeodemebirimi.com
+s-guvenlimuhasebeodemebirimi.duckdns.org
 s-guvenlimuhasebeodemeleriniz.duckdns.org
 s-guvenlimuhasebeodemenoktaniz.duckdns.org
 s-guvenlimuhasebeodemenoktasi.duckdns.org
@@ -81283,6 +81323,7 @@ sanayeminedebilirim.sbs
 sanayitr.info
 sanballat.live
 sancak.dev
+sancak2.cfd
 sancakbilisim.net.tr
 sancakcheck.online
 sancakcheck1.net
@@ -81751,6 +81792,7 @@ scootkey.xyz
 scopecommoran.top
 scopecorrosion.top
 scopeyn.com
+scorefree-data.com
 scorejudiciary.top
 scornasylum.top
 scornfoe.top
@@ -82825,6 +82867,7 @@ sepetin-cepte.net.tr
 sepetinburada.click
 sepetinde-ucuzluk-kapinda.shop
 sepetindealisvers.com
+sepetindeonline.shop
 sepetineekle.click
 sepetingunleri.com
 sepetinizde.com.tr
@@ -84685,6 +84728,7 @@ sistemdehemen.de
 sistemden-sorgula-ve-ogren.sbs
 sisteme-giris.biz
 sistemeallll.shop
+sistemer.sbs
 sistemi.moonfruit.com
 sistemimmerkez.net
 sistemin.nicepage.io
@@ -87167,6 +87211,7 @@ ssfklrkcmkzmmtmrmskflrkmkmcmz.site
 ssgde.webflow.io
 ssh.156953coinbase.com
 sshibindrnprvgmgvndrx.net
+sshlw.com
 ssigortaci.site
 ssigortan.site
 ssiiggortamnet.com.tr
@@ -89770,6 +89815,7 @@ t70qurh.cn
 t718zra.cn
 t748383.click
 t74909303.click
+t7q4x1n8v3.lol
 t8tgrws.boyacentury.cn
 t90141296286.p.clickup-attachments.com
 t9b5r2x8m6q1n0y7p4v3w2z5.com.tr
@@ -90830,6 +90876,7 @@ teb-online-mobil-emekli.my-homeip.net
 teb-son-basvurutr.com
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
+teb.com.de
 teb.eu.com
 teb.kisal.cc
 teb.kisalink.cc
@@ -92854,6 +92901,7 @@ togethernet.site
 togfinans.com
 togg-arac-finansmani.com
 togg-finans-kredim.com
+togg-finansman.com
 togg-hizlisiparis.xyz
 togg-kredim.com
 togg-nato-ozel-cekilis.space
@@ -94710,6 +94758,7 @@ trendyolyilbasihediyesi.com
 trendyoxl.com
 trennndy.com
 trentyolcilginkasim.com
+trentyolgift.com
 trenuxalo.org
 treoozrlogin.webflow.io
 tresiq10.sbs
@@ -97041,7 +97090,9 @@ uldgdestek.org
 ulkebakisi.com
 ulkeizleri.com
 ulkepanorama.com
+ulker-eidgift.com
 ulkerbayramhediye.com
+ulkerfestive.com
 ulkesesleri.com
 ulketakip.com
 ulkeyansimasi.com
@@ -97245,6 +97296,7 @@ unifyzealous.top
 unigate.cc
 unilateralcredential.top
 unilateralstagger.top
+unimarc-gifts.com
 unin.icu
 uninalloy.top
 uninterruptedperformance.de
@@ -103939,6 +103991,7 @@ www-trendyolexpress.com
 www-trezor-suite.webflow.io
 www-trezor-suitte.webflow.io
 www-turkcell.com
+www-tvbde-nerede-ayrica.myonlineportal.ch
 www-twitterbussines-tr.tk
 www-twittter.com
 www-twt-twitter-com.tk
@@ -105235,6 +105288,7 @@ xsceig.buzz
 xsdelx.top
 xsghsodmemd.net
 xshhqabyss2.vip.ssk.ynwp.coinbase-com.info
+xsjyt.buzz
 xslpanel.net
 xsorgshzmt.com
 xstarx-drmlerxx-fxrxsxt.com.tr
@@ -107097,6 +107151,7 @@ z34777.site
 z3ratvv.cfd
 z4m8p2x7k1n9v5q3r6t0.sbs
 z4q7k1m8v3p9.lol
+z4t8n2v6q1.lol
 z4uk0d.cn
 z4w7q2m9k6p1.cfd
 z6e43e5886fe-endpoint.com
@@ -107771,6 +107826,7 @@ zqkirkkatharine.cn
 zqkobb.cn
 zqnjxkvlmprtdwhc.sbs
 zr-tr.my-homeip.com
+zr8v3n6t1.lol
 zraatbnktr.online
 zraatbreysekred.online
 zraatnaktdstekks.online
