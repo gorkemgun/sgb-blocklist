@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259941
-# Last change: 2026-10-28 05:50:25 UTC (sync mode: delta)
+# Records: 259928
+# Last change: 2026-10-28 13:04:42 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -40,6 +40,7 @@
 0000000001.shop
 00000000039.shop
 000000000girisyap.online
+0000000055555.duckdns.org
 000000008.cloud
 00000100001.shop
 000001010010104.cloud
@@ -5437,6 +5438,7 @@
 222322332.cloud
 22232522500212.duckdns.org
 22234111.duckdns.org
+22245112245542224554254594.xyz
 2228876238-6774344.com.tr
 2228876238-6774344.xyz
 2228876238-6774346.xyz
@@ -16599,7 +16601,6 @@ acikgirisokyanusbank.net
 acikgirisyapsponsorlu94329324.com
 acikgirshediyebaslat.net
 acikgise.xyz
-acikgundem.cyou
 acikhizmetler.xyz
 acikhizmetlerjcjkdenizde.online
 acikhzliakbankgiris.tk
@@ -17021,7 +17022,6 @@ activityislem.22web.org
 activitys-profileaccount.com
 actorgrowz.com
 actorhashem.com
-actoriax.info
 actstepzz.com
 acudususucu.site
 acunilicali.cfd
@@ -55715,7 +55715,6 @@ calnexohubs.store
 calnexolabs.shop
 calnexolabs.site
 calnexolabs.store
-calnora.vu
 calorryn.com
 calrdsavrdkmmstam.click
 calthorix.shop
@@ -72835,7 +72834,6 @@ dranitimraniti.site
 dranpox.pics
 drasnova.com
 dratasilsese.site
-dravelion.com
 dravencia.sbs
 dravionix.pro
 dravixhq.site
@@ -97037,7 +97035,6 @@ fursatabufaura.cfd
 fursatasrasizlere.cfd
 fursatuararabur.cfd
 fursaturl.sbs
-furstinger.com
 fursutlarara.cfd
 fury-fiso.com
 fusatasfraa.cfd
@@ -102110,7 +102107,6 @@ gesdgddsgtebbekofirsatlari.cloud
 gesii-baglariinda.space
 gest-guvenli-islemle-al.online
 gest-guvenli-islemle-al.xyz
-gestrak-basavtr.cfd
 get--sahibinden.com.tr
 get-alisveris-sahibinden.com
 get-alisverislerin.com.tr
@@ -137547,7 +137543,6 @@ istlmstndldf.com
 istlnablvlkart.com
 istlnbkjwx.vip
 istlnbulkart.tk
-istlnlnkrtld.com
 istlnsalntasmamta.net
 istlnx.online
 istltnbllkartl.com
@@ -143458,6 +143453,7 @@ kampanya.website
 kampanya.world
 kampanya.za.com
 kampanya101-siparis.net
+kampanya101.click
 kampanya101.com
 kampanya101.shop
 kampanya101.theworkpc.com
@@ -156204,7 +156200,6 @@ lililillixxxizmrmxx.net
 lililliliililllilililiiliiliiilili4.blogspot.com
 lililliliililllilililiilililiiiiilil4.blogspot.com
 lililliliililllilililiilililiiilili4.blogspot.com
-lilipoliposideferszede.xyz
 liliykleme.net
 lilnest.mom
 lilokokobilmem.click
@@ -156456,7 +156451,6 @@ lixdepo.gifts
 lixev.cyou
 lixgooda.gifts
 lixland.net
-lixmelya.gifts
 lixshopu.com
 liyarhodes435.xyz
 lizarebenok.online
@@ -159096,7 +159090,6 @@ manbntrs.info
 mand3kka.xyz
 mandalatayde.com
 mandalina.space
-mandatumo.com
 mandnandmamfmabsn-1.site
 mandt.html-5.me
 manecarfilo.com
@@ -169804,7 +169797,6 @@ novapolitia.com
 novarilla.vu
 novarise.cyou
 novaro.gifts
-novasignal.site
 novastres.com
 novento.cfd
 novfase.com
@@ -183371,7 +183363,6 @@ paulbatesministries.com
 pauperess.com
 paveint.store
 paveloriduk.gifts
-paventa.vu
 pavibu.com
 pavnas.com
 pavorimex.com
@@ -192084,7 +192075,6 @@ qoloxo.click
 qoloyo.click
 qori-space.ink
 qoriva.click
-qorlyva.xyz
 qornas.com
 qornazek.com
 qornila.click
@@ -194706,7 +194696,6 @@ riveroakbank.online
 riviararwa.xyz
 rivluma.com
 rivonpvypi.com
-rivoraq.vu
 rivy-g-r-n-l.my-homeip.de
 rixoria.xyz
 riyadgo.com
@@ -194974,7 +194963,6 @@ ronnterial.com
 ront.synergize.co
 roofank.com
 roofproo.com
-roomlinee.com
 roomoblige.top
 roomvend.homes
 roomypilar.world
@@ -195189,7 +195177,6 @@ ruthenor.com
 ruthgreenrtg.live
 rutinlerin.name.tr
 ruvana.org
-ruxbuyra.gifts
 ruxdevol.gifts
 ruxmagaz.gifts
 ruxstoro.com
@@ -197155,6 +197142,7 @@ sahibinden-get.urun-al.fun
 sahibinden-get.urundetay-sepet-15.sbs
 sahibinden-get.urunuguvenli-al.fun
 sahibinden-get.vercel.app
+sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-get.yazindirimleri.net
 sahibinden-get3dodeme.gq
 sahibinden-get3dodeme.tk
@@ -230420,6 +230408,7 @@ ulkecegel.com.tr
 ulkehizmetlerikampanya.com
 ulkeincelemesi.com
 ulkeizleme.com
+ulkerbayramkampanya.com
 ulkeregitimvakfi.org
 ulkerodeme.tk
 ulkjxmnzxopr32rx.cfd
@@ -236936,7 +236925,6 @@ vopdulso.site
 vopy1io.storage.googleapis.com
 vorhsgz.xyz
 vorleksy.com
-vormexaro.com
 vornaqix.com
 vornelli.site
 vornuqel.buzz
@@ -259543,7 +259531,6 @@ zorhayathikayelerindenson.xyz
 zorimavul.com
 zorlamayinsansinizi324.cfd
 zorlivex.sbs
-zorlivo.vu
 zorlu-energy.com
 zorlu-vakfi-destek.site
 zorlu-vakfi-egitime-destek.site
