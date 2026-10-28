@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107974
-# Last change: 2026-10-28 18:53:34 UTC (sync mode: delta)
+# Records: 107979
+# Last change: 2026-10-28 23:16:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -67374,6 +67374,7 @@ nwr.xo.je
 nwsccrf.duckdns.org
 nwsli24.xyz
 nwyftr.top
+nwylw.com
 nxcv-onds.b-cdn.net
 nxdr-rndvularaln.net
 nxietyartiller.top
@@ -71582,6 +71583,7 @@ passwordthermal.top
 passwordurinate.top
 pastabenevolent.top
 pastacanavari.duckdns.org
+pastacibul.click
 pastadeplore.top
 pastalita-cake.xyz
 pastaprestigious.top
@@ -79315,6 +79317,7 @@ ruhsuzpanel7.site
 ruhsuzpanel7.world
 ruhsuzpanel9.site
 ruhsuzpanelhizmetlerim.click
+ruhsuzpanelimizbirtane.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
 ruhsuzpanelvsusom.click
@@ -90431,6 +90434,7 @@ tavsanciksorgupaneli.site
 tavsanciksorgupaneli.website
 tavsiyeediyorum.club
 tavsiyeediyorum.xyz
+tavuk-dunyasi.qpon
 tavzilo.gifts
 tawh0bd.cn
 tawheedzone.com
@@ -91297,6 +91301,7 @@ teksenbilisimn.com
 teksenvakfi.com
 teksenvakfi.net
 teksoksiparisi.cloud
+tektiklahizlihizmet.site
 tektiklakapinagelicek.com
 tektiklaramazanindirmleri.click
 tektiklasepetinde.me
