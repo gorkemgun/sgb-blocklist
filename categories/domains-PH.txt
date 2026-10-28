@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107854
-# Last change: 2026-10-27 19:27:33 UTC (sync mode: delta)
+# Records: 107874
+# Last change: 2026-10-28 05:50:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5463,6 +5463,7 @@ aerospire.site
 aerotecisag.com
 aerovater.com
 aerowingsglobal.store
+aertyudmmd.com
 aestheticerect.top
 aesytr1.live
 aesytr1.pro
@@ -20580,6 +20581,7 @@ cnfrm-booking.com
 cngresearch.com
 cnhls.com.cn
 cnksahquaz.live
+cnmdjmncv.click
 cnmnw.com.cn
 cnn-turk-emekliye-mujde.tk
 cnncell.com
@@ -28178,6 +28180,7 @@ dklsendungsverfolgung.com
 dkm-express.com
 dkposteanord.cc
 dksfsdfsd.shop
+dksjfjkdsjfksdjkf.com
 dksxqgfstrlr.ytyukai.cn
 dkvtheatre.com
 dkvvdvt-evct.com
@@ -28302,6 +28305,7 @@ dnzsmndncklizeerfasd.net
 dnztransport.com
 dnzubksaf.xyz
 dnzzkarayolugecisborcodemem.duckdns.org
+dnzzzzzzzz.duckdns.org
 doadis.com
 doaodeme.com
 doavoc.help
@@ -29158,6 +29162,7 @@ dsdsdsdssd.sbs
 dsfbhtusdrtbr.sbs
 dsfcslfcksllkslcdadcas.sbs
 dsfdg.sbs
+dsfdsfdsfkkke.com
 dsffgvccxv.com
 dsfggfdfdgfdg.duckdns.org
 dsfjsjfsfs.com
@@ -39049,6 +39054,7 @@ gfhnertwerbw.click
 gfhnwerbtqwebq.click
 gfhsfdghdfghjd.com
 gfinancingstart.shop
+gfjjhlkgfhj.duckdns.org
 gfkdosgsdgdasg.online
 gflsjdq.cn
 gfnuw.top
@@ -39793,6 +39799,7 @@ gnmmpq.top
 gnntttttttttt.net
 gnornamb.com
 gnsigorta.com.tr
+gnvbfhnbs.shop
 gnvbfjdns.shop
 gnvhfjncd.shop
 gnvkmslms.shop
@@ -40796,6 +40803,7 @@ gsystemaigroundwork.shop
 gsystemainegotiator.shop
 gsystemaiside.shop
 gt0nllinegirisstr.net
+gta6ciktigibi.duckdns.org
 gtakip.xyz
 gtantilia.info
 gtbks2.cn
@@ -41306,6 +41314,7 @@ gusiche.com.tr
 guspostea.top
 gusstcompline-regrv.com
 gustastubea.net
+gustavopelnikanli.duckdns.org
 gustonaleyi.giize.com
 gustreverv-comlp.com
 gutagony.top
@@ -41646,6 +41655,7 @@ gvncekm.sa.com
 gvnclk.bilgiekranin.net
 gvncllk.bilgiekranim.net
 gvncmdjslas.shop
+gvndyc.shop
 gvnelerdesnew.duckdns.org
 gvnli.store
 gvnlibsvcerm.buzz
@@ -42156,6 +42166,7 @@ haberler17427.sbs
 haberler17723.sbs
 haberler18932.sbs
 haberler2025.tk
+haberler212213.sbs
 haberler2153212.com
 haberler2223399.sbs
 haberler223522.sbs
@@ -45775,6 +45786,7 @@ hnbdfasgva.net
 hndgfxbas.duckdns.org
 hndqiuebgibuiwqdhr.cyou
 hnezkh.help
+hnfhcmdjm.com
 hngsnbxdnssn.org
 hngstyuklemler.com
 hnjtry.top
@@ -47211,6 +47223,7 @@ ibjsri.top
 ibkrt-yklm.net
 ibmquantify.com
 ibovelidarsdsa.online
+ibrarali565758.site
 ibssrii-yklee.net
 ibstnbl.net
 ibttbkrrttyklmeeee.com
@@ -52432,6 +52445,7 @@ jnfxh.com
 jngrbg.click
 jnhbjkadfnsdfjkl.top
 jnhjuds.click
+jnkdsnfkdsfjks.com
 jnkhfbdjk12.top
 jnogou.top
 jnrtatorrrss.xyz
@@ -63006,9 +63020,11 @@ mobilhizmetalimlar.com
 mobilhizmetiniz.com
 mobilhizmetlerim1.sbs
 mobilhizmetservisleri-net-com-port-com-sip-hizmet-self-net.net
+mobili-cepteteb.my-homeip.de
 mobili.my-homeip.com
 mobilia.my-homeip.com
 mobiliadebasvuruformedvlt.ml
+mobilim-cepteteb.my-homeip.de
 mobilin85yillinaaozelkampanya.com
 mobilinbankasi-akbank.ph
 mobilisbank.gq
@@ -85882,6 +85898,7 @@ songunkampanyasi.com
 songunler.shop
 songunlerdefirsatlaribitmez.my
 songunlerdefirsatlaribitmez.sbs
+songunlerdeyiz.cfd
 songunlerikacirma2025.autos
 songunlerikacirma2025.motorcycles
 songunsstok100aldin.com
@@ -90811,6 +90828,7 @@ tebfinansfx.com
 tebhediye-basvuru-iphone2022.net
 tebicinbasvuru.my-homeip.de
 tebinternetbankasi.duckdns.org
+tebinternetsube.top
 tebli-cepte-mobile.myonlineportal.ch
 tebligbayi.com
 tebligceza.com
@@ -104411,6 +104429,7 @@ xn--asdpofgkewdsofja101-t5c.com
 xn--asfalsfanma-l9a5r79c.net
 xn--asfgidenglstrtcmr-2jd.app
 xn--asfiasfalnaaislda-4zb30rdaj.net
+xn--asfo322km-xpb.shop
 xn--asjdoasdjsadsda-blc.xyz
 xn--atakenthalkalvergi-q0c.net
 xn--atansghuz-ypb.xyz
@@ -105458,6 +105477,7 @@ yapkredisupport.zendesk.com
 yaplkredlsubem.duckdns.org
 yaprakdkr1ynmz.com
 yaprakyoncavakfi.site
+yapskazxp-afsafkasp-safkdasksaf.sbs
 yapskazxp-afsafkasp-safkdasksaf.top
 yapsorgu.online
 yapt1gnbosyormmsayessnd.net
