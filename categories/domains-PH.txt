@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107998
-# Last change: 2026-10-29 10:05:55 UTC (sync mode: delta)
+# Records: 108035
+# Last change: 2026-10-29 16:57:13 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9563,6 +9563,7 @@ asdfsdfsdgdf.duckdns.org
 asdfsdfwsdf.duckdns.org
 asdfsdsfd.duckdns.org
 asdfsfdsdf.duckdns.org
+asdfvdzfad.art
 asdgasha.art
 asdgg3e23g32gg32.com
 asdghbvdasha.art
@@ -18906,6 +18907,8 @@ casefb814915-uzsa.vercel.app
 casefb921134-lflp.vercel.app
 cash-business.top
 cash-revenue.xyz
+cashappewallet.com
+cashappredeem.com
 cashassortment.top
 cashforjunkcartampa.com
 cashieralienation.top
@@ -28223,6 +28226,7 @@ dkposteanord.cc
 dksfsdfsd.shop
 dksjfjkdsjfksdjkf.com
 dksxqgfstrlr.ytyukai.cn
+dktrgeldi.duckdns.org
 dkvtheatre.com
 dkvvdvt-evct.com
 dkyatirimmenkul.com
@@ -29967,6 +29971,7 @@ e-ran-dlev-u.app
 e-rndval.cfd
 e-rndval.com
 e-rsndevu.xyz
+e-sahibinden.ile-sepetten-islem.com
 e-satin-alim.com.tr
 e-satisim.com.tr
 e-sbm-ortak-veri-modeli-dogrulama-360.netlify.app
@@ -31067,6 +31072,7 @@ ehazinetcbmtrgovtr1221.tk
 ehazinetrtriade21.tk
 ehazineuyap.com
 ehazineuzlasma.com
+ehdiparfumerer.duckdns.org
 ehdybsvrakmi.com
 ehegese.arabamuayenesi.xyz
 ehehehheheheehheeheheheheehe.info
@@ -38455,7 +38461,9 @@ gecisodemesistemler.info
 gecisodemesistemleri.info
 gecisonline.arabamuayenesi.xyz
 gecisportalihxgs.net
+gecisrehberogrenhsg.web.app
 gecisrsodeme.net
+geciss-bakymizzs.art
 geciss-isslem.com
 gecisscezasiodeavv.icu
 gecissorgu-webkgm.icu
@@ -42246,6 +42254,7 @@ haberler26734554.sbs
 haberler274556.sbs
 haberler298451.sbs
 haberler311422.sbs
+haberler311534.com
 haberler311748.shop
 haberler323534.com
 haberler3262343.sbs
@@ -43964,6 +43973,7 @@ hemenkmsrg.com
 hemenkontrolsagla.abrdns.com
 hemenlanlsatnas.net
 hemenlslemlerlelersin.net
+hemenltakns.at
 hemenmakek.cfd
 hemenmayissokfirsatibasvurusu.live
 hemenn-kapinizza-tesliim.com.tr
@@ -46486,6 +46496,7 @@ hrzmnfrstlrburda.com
 hsabahlaryuklemeleriinzz.com
 hsarlikmsorgu.blogspot.com
 hsb.menkulcuzdan.com
+hsb.menkulvcuzdan.com
 hsbacua.top
 hsbank.co
 hsbbciu.top
@@ -54914,6 +54925,7 @@ kirmizicicek2.pro
 kis-kampanyasi-size-ait.com
 kisa-edinim.guru
 kisa-links-mobil.duckdns.org
+kisa-links.site
 kisaa1o1defiyatlariyi.duckdns.org
 kisaalink.duckdns.org
 kisakampanyasepeti.club
@@ -55257,6 +55269,7 @@ kmnpyaabsvrrfrsttsonnn36528.pro
 kmogren-durumbilgi.firebaseapp.com
 kmogren-durumbilgi.web.app
 kmogren-kmbilgilendirici.firebaseapp.com
+kmogren-kmbilgilendirici.web.app
 kmogren-sorgulamaci.firebaseapp.com
 kmogren-sorgulamaci.web.app
 kmogretici-bilgilendiriciler.firebaseapp.com
@@ -55761,6 +55774,7 @@ kookokookokookokokokokkoooo.site
 koolpandaz.com
 kooltukfasf.xyz
 kooperatif21.online
+kooperatifjet.app
 kooperatifmarket.online
 kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
@@ -56751,6 +56765,7 @@ lalezarte346655ter.duckdns.org
 lalkrere.com
 lalodgevictoria.world
 lalyhuodae.com
+lamba.cepre-soj.shop
 lambartillery.top
 lambloop.top
 lambvulgar.top
@@ -57272,6 +57287,7 @@ lekbelffenzon.com
 lekimo.info
 lekozoin.com
 lekzenntrale.com
+lel9ehesswfkuhyw.dns64.de
 lelelevis.app
 lelelevis.com
 lelfoles.wordpress.com
@@ -57799,6 +57815,7 @@ liraenerjiplat.com
 liraplatform.com
 liraplatformdigi-tr.com
 liratechenergy-tr.com
+liravo.gifts
 lirayukle.org
 lirshine.com
 lisans.cloud
@@ -58415,6 +58432,7 @@ lorenvibek.top
 lorevantpoint.top
 lorevixa.gifts
 loribarker.ca
+lorinex.gifts
 lorivan.gifts
 loroparqlue.com
 lorowexo.org
@@ -62113,6 +62131,7 @@ mhrsmsxlm.com
 mhrsonlinebasvuru.duckdns.org
 mhrsonlinerandevutr.com
 mhrsonlnesd.sbs
+mhrsoqowr.sbs
 mhrsortakgiris.co.vu
 mhrsportalvatandasgiris.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
@@ -63830,6 +63849,7 @@ mshotel-reservation.com
 msiparisinizi-tamamla.com
 msk-concert.com
 mskhksmkrltkrmrmmm.com
+msoaq.buzz
 msofficesign.com
 msonlinecenter.com
 mspasskey.com
@@ -66767,6 +66787,7 @@ nuvoriax.site
 nuvqaro.xyz
 nuvqera.gifts
 nuvrix.cyou
+nuvsello.gifts
 nuvsepti.gifts
 nuvshopro.tr
 nuw0rk.workers.dev
@@ -70502,7 +70523,9 @@ palmiyesultan.net
 palmiyesultan.uk
 palmiyesultanb.uk
 palmiyesultanbungalov.org
+palmiyesultanrezervasyon.com
 palmiyesultans.com
+palmiyesulttan.com
 palmpredominant.top
 palmsgalsr.bio
 palmtlxz.club
@@ -72009,6 +72032,7 @@ pelikansubesi.com.tr
 pelinkanaykl.giize.com
 pellvora.cc
 peltatifid.com
+pelvingundeliksa.giize.com
 pelyba.shop
 pembridgepalacehotel.world
 pembridgepalacehotel2025.world
@@ -75114,6 +75138,7 @@ pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
 pttavm.odemeli-ticaret.com
 pttavm.odemem.com.tr
+pttavm.online-satislari-burada.com
 pttavm.onlinedogrulama.com
 pttavm.resmisatis.com.tr
 pttavm.saticimerkezi.com
@@ -75122,6 +75147,7 @@ pttavm.satisim.info.tr
 pttavm.satisim.net.tr
 pttavm.satismerkezi.shop
 pttavm.sepet-onay.com.tr
+pttavm.sepete-ekle.com
 pttavm.sepetim-get-odeme.com
 pttavm.sepetkontrol.com.tr
 pttavm.sepette-tr.com
@@ -76446,6 +76472,7 @@ qwwetwegtsdgsdg.blogspot.com
 qxrpq.brztnek.es
 qxubea.top
 qxxobh.cc
+qyhgf.com
 qynykj.com.cn
 qyqjmh.top
 qytojuo.com
@@ -79408,6 +79435,7 @@ ruvix.qpon
 ruwixo.info
 ruxmaglo.gifts
 ruxshopi.gifts
+ruxvenda.gifts
 ruxvendro.com
 ruzgarlagez.net
 ruzgaryardimdernegi.tech
@@ -79608,6 +79636,7 @@ s2lovam.com
 s2ver.online
 s3177.site
 s3caccverifisubmit.xyz
+s3rehnhlles3d8n.iot64.de
 s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
 s45fbsg.com
@@ -80030,6 +80059,7 @@ sahibinden-get.hementeslimatlar.com
 sahibinden-get.ilanjet-hizmetler.com
 sahibinden-get.ile-odeyin-tr.com
 sahibinden-get.ileodeme.com
+sahibinden-get.ileservishzmetleri.sbs
 sahibinden-get.islem-guvende.online
 sahibinden-get.islemlerinmobil-13.sbs
 sahibinden-get.islemlerinmobil-17.sbs
@@ -81197,6 +81227,7 @@ salealert.vu
 saleba9.shop
 saleetitoer.top
 salendaro.click
+salero.gifts
 salesmanappeasement.top
 salesmancockpit.top
 saletrendyol.com
@@ -83455,6 +83486,7 @@ sgkprimiade.com
 sgkprmborcsorgulahzmeti.net
 sgksorgulama.us
 sgktesviksorgulama.info
+sglik-rhber.cfd
 sgno.top
 sgorta.cloud
 sgortaafter.online
@@ -91841,6 +91873,7 @@ terrosotruffles.com
 terstmo.net
 tertiarydwe.top
 tertiaryparasite.top
+tertmryugmjkty.sbs
 tertsiute-official.webflow.io
 terxurhardwewllte.webflow.io
 terzhardwer-help.webflow.io
@@ -92964,6 +92997,7 @@ togghizlikayit.com
 togghizlisatis.cfd
 toggkazan.com
 toggkredim.net
+toggmobilite.com
 toggodeme.online
 toggonkayit.com.tr
 toggonsatis.com.tr
@@ -93515,6 +93549,7 @@ toremerianbester.com
 torgarrrlekzon.com
 torkasaq.gifts
 torkbilisim.com.tr
+torkrama.gifts
 torlekklinl.com
 torlekktorzon.com
 torlekttraval.com
@@ -96696,6 +96731,7 @@ twaddledom.com
 twbakt.ml
 twbakt.tk
 twc-texas-gov.us
+twcdwf.com
 tweaks.icu
 tweedepols.com
 tweetools.net
@@ -99848,6 +99884,7 @@ vigobensenoxx.duckdns.org
 vigormomentous.top
 vigorous-gould.37-148-209-114.plesk.page
 vigorsoothe.top
+vihhy.buzz
 viilnius.lt
 viixzhsldndu3dx3e.click
 vijeeshkumar.com
