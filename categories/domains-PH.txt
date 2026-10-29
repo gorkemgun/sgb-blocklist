@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 107979
-# Last change: 2026-10-28 23:16:07 UTC (sync mode: delta)
+# Records: 107998
+# Last change: 2026-10-29 10:05:55 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2625,6 +2625,7 @@
 64524325235.net
 6453verifycard-booking.com
 6454325534.net
+6454845.xyz
 645623423432.net
 64565443.net
 6466665465.cloud
@@ -13462,6 +13463,7 @@ beymenplay.com
 beyogluoil.com
 beyondintricacy.top
 beyondyeah.com
+beytikebap.duckdns.org
 bezahlen-c.com
 bezahlung-ch.de
 bezos.xyz
@@ -16553,6 +16555,7 @@ brfour.com
 brfprimepoultryexporters.com
 brgninvesttr.com
 brgnmenkulsermaye.com
+brhfs.buzz
 briaydawe.net
 briberyconcurrent.top
 bribestatic.top
@@ -29271,6 +29274,7 @@ duckcrawl.top
 duckdonaldearn.com
 duckduckdcqc.duckdns.org
 ducks.ajolotec.com
+ducksngdcccc.com
 dudicyqehama.top
 dueail.top
 dugeme.com
@@ -34970,6 +34974,7 @@ fdsdmj.top
 fdsjfksdjfsdf.com
 fdsjkjsdfsd.shop
 fdsjvgbkfdkbfdjgfd.tumile.app
+fdsmfndsfnsd.shop
 fdswmb.top
 fdszmd.top
 fdtpmc.top
@@ -46552,6 +46557,7 @@ hssrasrgsorg.shop
 hssrctrmmc.net
 hssrkydssd.site
 hssrsrkyddd.click
+hsswkllufw9yeeh.udp64.de
 hssxshsyukle.xyz
 hst1gkasm0gkla1sd.com
 hstanerandevm.com
@@ -53585,6 +53591,7 @@ kapitalined.cfd
 kapitalix.capital
 kapitall.space
 kapiya-yonlendin.shop
+kaplmb-stnal.myshopify.com
 kaplumbaga-satin-al.myshopify.com
 kaplumbaga-satinal.myshopify.com
 kaplumbagaci.com
@@ -55007,6 +55014,7 @@ kkbfdanismanlik.com
 kkbsistem.xyz
 kkbvezne.xyz
 kkbzve.top
+kkdldsnfds.shop
 kkdomainfearles.com
 kkent-krsn.tk
 kkevrenlrkislem.click
@@ -57949,6 +57957,7 @@ lkdfgjlkdgsjlk.net
 lkdskejrf.shop
 lkfa.top
 lkjhgfdsazxcvbnmqwertyu.store
+lkklaooapaaa.shop
 lklentodemen.net
 lkllkllkllkllklkllkk.net
 lkmanjslaqa.com
@@ -60998,6 +61007,7 @@ mcrsfts-passwdupdate.com
 mcycevre.com
 mczwdx.click
 md-mec.com
+mdafnbeace.giize.com
 mdagjygdh.webflow.io
 mdasd-saddwd.net
 mdbhmk.top
@@ -62116,6 +62126,7 @@ mhrsrandevular.com
 mhrsrandevumerkezi.myshopify.com
 mhrsrandevumtr.club
 mhrsrandevumtr.net
+mhrsrandevumtr.org
 mhrsrandevun.com
 mhrsrandevunx.blogspot.com
 mhrsrandevuonline.com
@@ -65823,6 +65834,7 @@ ngofirsatttt.duckdns.org
 ngorogo.com
 ngoview.com
 ngz4sq.boyacentury.cn
+ngzzw.com
 nh0re4.cyou
 nh2s.top
 nhc-newsjp.com
@@ -69547,6 +69559,7 @@ oselyaonline.com
 osertsamersx.net
 oseucsddi.cfd
 osheman45.sambal.web.id
+oshikaplan.giize.com
 osintpanel.xyz
 osixmals.com
 oskeyconnect.com
@@ -72934,6 +72947,7 @@ plllrrrdssaaasssss.homes
 plllrrrdssaaasssss.monster
 plmilliyetxb.com
 plnkvavxvx.net
+plnsungurlar.giize.com
 plolastasv.vercel.app
 plomby.org
 plomvex.xyz
@@ -79846,6 +79860,7 @@ safetystorage-coinbase.com
 safetyvault-coinbase.com
 safevault-coinbase.com
 safewallet-coinbase.com
+safezmnhmn.net
 safjafjsafjfassafjkasfjk.duckdns.org
 safksafsafkjasfjkfssssfasafasafkj.com
 saflapfsalfsafksamfsmak.com.tr
@@ -81409,6 +81424,7 @@ sanvo.cyou
 sanzumanigcsakn.net
 saotykaso.xyz
 sapancaevleri.xyz
+sapancakonaklamarehberim.com
 sapancarosebungalov.net
 sapaos.shop
 sapdfsaodfsadl.online
@@ -104003,6 +104019,7 @@ www-twt-twitter-com.tk
 www-uzaktanislem.blogspot.com
 www-vakifbankcekilishediye.com
 www-vakifbankcekilishediyeler2022.com
+www-voltbde-cepte-ayrica.myonlineportal.ch
 www-web-cept-tb.myonlineportal.ch
 www-yapi-kredi-cekiliskatilim.gq
 www-yapikredi-cekilisworld.tk
@@ -107715,6 +107732,8 @@ zmirimizlegeldn.net
 zmirimizlesingelbzle.net
 zmirimizlesinsnde.net
 zmnaak.help
+zmr4343cknazm.com
+zmrakska.shop
 zmrdedoldurduk.net
 zmrdeglsndeonlinx.net
 zmrfdkdfdk.online
