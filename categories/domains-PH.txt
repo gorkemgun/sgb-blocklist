@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108035
-# Last change: 2026-10-29 16:57:13 UTC (sync mode: full)
+# Records: 108044
+# Last change: 2026-10-29 21:50:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12182,6 +12182,7 @@ basvurumdenizde.denizozel.209-38-246-220.plesk.page
 basvurumerkeizma.cloud
 basvurumerkezim.com
 basvurumerkezim.site
+basvurumevler.com
 basvurumfirsatguvende.xyz
 basvurumfirsatlariylaguzel.xyz
 basvurumkabuledilsinodulumafterneversaynevernowoman.net
@@ -27004,6 +27005,7 @@ dev.wyoming.coinbase-com.info
 dev2022.ml
 dev7129.d2qmcnsgj0y7oj.amplifyapp.com
 devamediyoruzbasvurla.sbs
+devamet1o1.click
 devamgez.net
 devapp.digital
 devasatemmuzzflrsatlarii.com
@@ -60780,6 +60782,7 @@ mavi-hafta-indirimleri-a1o1de.shop
 mavi-indirimm-101deim.com
 mavi-tik-instagram.tk
 mavibetul.space
+mavibeyazskorlar.click
 mavideniz.my-homeip.com
 mavietin.org
 mavijeanes.com
@@ -61511,6 +61514,7 @@ menenoftigir.com
 menfaatiolanbulur.sbs
 mengchongbaotoys.com
 menkuldegerleroyak.com
+menkulvcuzdan.com
 menotyy.pics
 mensweariuunners.info
 mentalfloss.live
@@ -70242,6 +70246,7 @@ pa-rlbukampayalarlhediye.com
 pa.parliam-tara.xyz
 pa00kx8.cn
 pa1o1.net
+paanzi.tools
 paariibu.com
 pacepoke.top
 pacificdocumentagency.com
@@ -73061,6 +73066,7 @@ pocket-link17.co
 pocket-link2.co
 pocket-link3.co
 pocket-link4.co
+pocolink.com
 poczta-polska.cc
 poczta.outsec.pl
 pod-bean-data.com
@@ -80061,6 +80067,7 @@ sahibinden-get.ile-odeyin-tr.com
 sahibinden-get.ileodeme.com
 sahibinden-get.ileservishzmetleri.sbs
 sahibinden-get.islem-guvende.online
+sahibinden-get.islemlerin-sepet-10.sbs
 sahibinden-get.islemlerinmobil-13.sbs
 sahibinden-get.islemlerinmobil-17.sbs
 sahibinden-get.jethizmetin2-ru.online
@@ -84918,6 +84925,7 @@ sizhepinizbiztek.com
 sizhesapalmayadevamedinhahaha-f9dc42b4ea1b.herokuapp.com
 sizi-mutlu-edecek-kampanya-budur.com
 sizidegorecegizmi.net
+sizin-sepetleriniz.com.tr
 sizin-siparisleriniz.com
 sizindegelin.net
 sizindunyanizahosgeldiniz.blogspot.com
@@ -105640,6 +105648,7 @@ yapuresi-lodanome.lol
 yaqivekredit.com
 yar55sgs.epizy.com
 yarakanan.my-homeip.com
+yaralarapatchgibizehirliduman.lol
 yarastmasdwei.net
 yardbachelor.top
 yardbhop.top
