@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108044
-# Last change: 2026-10-29 21:50:02 UTC (sync mode: delta)
+# Records: 108047
+# Last change: 2026-10-30 01:59:25 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -12980,6 +12980,7 @@ bedava10gbinternetyap.com
 bedava10gbkazan.site
 bedava13.great-site.net
 bedava18gb.great-site.net
+bedava1sorgucunuz2026.click
 bedava40.xyz
 bedavagb.wixsite.com
 bedavagbpaketleri.com
@@ -43102,6 +43103,7 @@ havaist.dev
 havaist.org
 havaistislem.ist
 havaististnbl.com
+havaistxbilet.online
 havaistxnbul.com
 havale-gonderici.com
 havale-gonderim.com
@@ -79348,6 +79350,7 @@ ruhsuzpanel2.click
 ruhsuzpanel2.shop
 ruhsuzpanel2.site
 ruhsuzpanel2.website
+ruhsuzpanel26.click
 ruhsuzpanel3.website
 ruhsuzpanel3.world
 ruhsuzpanel31.click
