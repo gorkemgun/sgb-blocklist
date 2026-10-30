@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41645
-# Last change: 2026-10-28 13:04:42 UTC (sync mode: full)
+# Records: 41648
+# Last change: 2026-10-30 15:58:34 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -6241,6 +6241,7 @@ bongocat.ddns.net
 boniboneshaliyikamacisi.site
 bonimoni.xyz
 bonisa.ir
+bonto.io
 bonusny428.weebly.com
 bonventre39.duckdns.org
 bonzaibommm.surf
@@ -11397,6 +11398,7 @@ dubacaj.com
 dubai-ae0043.cashcloudservices.com
 dubaipoit.com
 dubaipoliauey.top
+dubaitechnicalservice.ae
 dubay.duckdns.org
 dubby2021.duckdns.org
 dubem.top
@@ -35651,6 +35653,7 @@ tortoisgfe.top
 tosals.ink
 tosdv.com
 tosisenintl.ml
+total-sitevv.lol
 total-slovenia-news.net
 totalbusinesnetworkforinternationalwordfiletransfer.ydns.eu
 totalcaremedcenter.azurewebsites.net

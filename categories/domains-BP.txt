@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 259971
-# Last change: 2026-10-30 01:59:25 UTC (sync mode: delta)
+# Records: 259981
+# Last change: 2026-10-30 15:58:34 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -8369,6 +8369,7 @@
 532652352104521.shop
 53265437635435.com
 53292910052502.shop
+53298528959812.sbs
 53322258356312.com
 534158753.istanbul
 53423.cloud
@@ -35534,6 +35535,7 @@ basvurzsr.com.tr
 basvurzsr.cyou
 basvurzsr.xyz
 basvutrruresmibnncs.com
+basvvurrkmnpyaprmsyn3189.info
 basvvurtooki.sa.com
 basvvuru-ieademerkezi-edevlet.com
 basvvuruacikdenizv2denizbank.co.vu
@@ -58029,6 +58031,7 @@ cepte.sok-ucuz-marketler.top
 cepte.sok-ucuzfirsatly.xyz
 cepte.sok-ucuzluk.com
 cepte.sokhep-ucuz.top
+cepte.teb.com.se
 cepte1001.icu
 cepte101.online
 ceptea1o1.online
@@ -98570,6 +98573,7 @@ garantibankasiucretsizkartkredibasvuruyap.vercel.app
 garantibankasiyeniyilcom.tk
 garantibankassi.epizy.com
 garantibankasubesi.com
+garantibankbbv.vercel.app
 garantibankbbva.biz
 garantibankbbva.info
 garantibankbbva.net
@@ -174562,6 +174566,7 @@ online.siparis-olustur-101-klima.com
 online.siparis-olustur-101-klima.online
 online.sube-akmenkulkiymetler.com
 online.superhizli-basvuru.top
+online.teb.com.se
 online.tk-garantigroup.com
 online1-islemleriniz-aktariniz.online
 online101.online
@@ -192484,6 +192489,7 @@ rafaelcimx.online
 rafaeldyidenqz.duckdns.org
 rafaelkizlareler.sbs
 rafaelokralinyoo34.sbs
+rafaeltokyotebmeb.sbs
 rafaelxleokralinyo34.sbs
 rafahsgfafda1.sbs
 rafalardakisonurunler.online
@@ -230751,6 +230757,8 @@ urbanpathz.com
 urbanpixel.live
 urbantrailblaze.store
 urbanview.site
+urebanned.icu
+urebanned.sbs
 uredemrandevuhizmeti.com
 uretenhalkbank.com
 ureticidenevinize.xyz
@@ -234399,6 +234407,7 @@ vakkkkkkkkktrf.site
 vakko-online.top
 vakko-sale.top
 vakko-tr.top
+vakkof1.vercel.app
 vakkoonline.top
 vakktabnkpny.ml
 vakkvakvkass1.com
@@ -249636,6 +249645,7 @@ yapianindaiade.com
 yapiavantaj-onlinemobiilgiris-aktivasyon.vercel.app
 yapibanksube.com
 yapibasvuru-78ozelbmwx3.com
+yapibasvuru.sbs
 yapibasvuruonlinewebsubesilogin.com
 yapibayramda.com
 yapibayramfirsati-size.com
