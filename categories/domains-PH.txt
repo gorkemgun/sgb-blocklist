@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108304
-# Last change: 2026-10-30 15:58:34 UTC (sync mode: delta)
+# Records: 108321
+# Last change: 2026-10-30 20:51:27 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1607,6 +1607,7 @@
 22222111111.cloud
 22222222222.online
 22222365426.cloud
+2223144.sbs
 2223232323153.cloud
 22245112245542224554254590.xyz
 22245112245542224554254591.xyz
@@ -6611,6 +6612,7 @@ akutelurunler.xyz
 akveton.store
 akyatidrimverc.vercel.app
 akyatirim.info
+akyquiz.site
 al-a101.online
 al-app.com.tr
 al-hemen.com.tr
@@ -32820,6 +32822,7 @@ ermsdna3.net
 ernegttkobzeglmedi.mooo.com
 ernexis.site
 ernexishq.store
+ernh8h3ss5ln3hlde.eth64.de
 ernsmm.org
 erobasvuruozelactivasyontrbinance.jumpingcrab.com
 erodekidney.top
@@ -40642,6 +40645,7 @@ gratis.paperbacksins.com
 gratis.ploteando.com
 gratis.raspberrydevice.com
 gratis.rataforo.com
+gratis.ruffson.com
 gratis.sendreward.com
 gratis.servehumour.com
 gratis.simplysweetcakesoc.com
@@ -47163,6 +47167,7 @@ hzlsnnets.web.app
 hzlsrgulamalxsr.com
 hzlsstmlndaaarserrn.com
 hzlszsndnsmlk.com
+hzlszsndnsmlk.info
 hzlszsndnsmlk.net
 hzlszsndnsmlk.online
 hzlvrgodeme.fun
@@ -56292,6 +56297,7 @@ krelmora.com
 kremfoldat.info
 kremlcup.com
 kremlin-kassa.com
+kremlinpalacehotel.com
 kremorman.org
 krendelvox.info
 krenta.gifts
@@ -67262,6 +67268,7 @@ nvirandevularinizz.online
 nvirandevularinizz.site
 nvirandevumal.net
 nvirandevumklklsdas.net
+nvirandevumvar.online
 nvirandevuncep.com
 nvirandevuonline.xyz
 nvirandevuservisii.com
@@ -68451,6 +68458,7 @@ onay-acikdenizkredihizlibasvurulari.fun
 onay-acikdenizkredihizlibasvurulari.space
 onay-guvenli-param-odeme.xyz
 onay-limit.xyz
+onay-mobilden111.com
 onay-mobildenizv2basvuru.com
 onaycebbbsubedeniiz.net
 onayda-sepet-7180.com
@@ -69778,6 +69786,7 @@ osksmlgkms.cfd
 oslddjb.buzz
 oslocheck.com.tr
 osmangazivakfi.com.tr
+osmankinaliye.giize.com
 osmanli.cv
 osmanlicuzndldoman.com
 osmanlikatilim.com
@@ -76506,6 +76515,7 @@ quantorra.art
 quantovexhub.com
 quantrexapisystems.ct.ws
 quantrin.com
+quantsystemai.academy
 quanttivise.com
 quanttrobot.com
 quantum-ai.link
@@ -82608,6 +82618,7 @@ sekabet0566.com
 sekamimarlik.com.tr
 sekerbank2020katilimform.com
 sekerbank68yil.com
+sekerbankfinance.com
 sekercapital.com
 sekerimpanc.cfd
 sekerliayran.xyz
@@ -89340,6 +89351,7 @@ svbseloxsali.co
 svdkburdasznrdsnz.icu
 svdkbzbrdyksnzslers.shop
 svdklerdenlardansadas.shop
+svdksvldksnkz.xyz
 svdlaryrklerdens.xyz
 svdlrdabgnlrdsbz.shop
 svdlyrklerdenbyzsrgn.lol
@@ -89348,6 +89360,8 @@ svdlyrklerdenbyzzzz.duckdns.org
 sveeigtysrsive.top
 svetlana-zaharova.com
 svglilryntc.com
+svglmymnlymbnsd.shop
+svglmymnlymbnsd.xyz
 svip-45.top
 svip-48.top
 svip-51.top
@@ -92979,6 +92993,8 @@ tkoopmarket.app
 tkpedishzmtin.online
 tkphizmtnz.online
 tkpisleminzz.online
+tkrbkupasionline.com
+tkrbonline.com
 tkribasvuru-lexacan.work
 tkrknhbk.net
 tkrmsrd.click
@@ -95008,6 +95024,7 @@ trendyolhediyeceki.xyz
 trendyolhedyebakiye.co.vu
 trendyoli.click
 trendyolindirim.xyz
+trendyolj.com
 trendyolkampanya.ga
 trendyolkupon.com
 trendyoll.info
