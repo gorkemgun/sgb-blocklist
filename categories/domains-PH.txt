@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108047
-# Last change: 2026-10-30 01:59:25 UTC (sync mode: delta)
+# Records: 108060
+# Last change: 2026-10-30 08:43:06 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9776,6 +9776,7 @@ asncxbyaaasdanala.894734547864156.sbs
 asncxbyaaasdanala.9479845619688.sbs
 asndansdnas.blogspot.com
 asndatadsad.blogspot.com
+asnjfjnwddq.duckdns.org
 asockco.com
 asons.top
 asoscar.com
@@ -32705,6 +32706,7 @@ eriklisubesiekimindirimi.com.tr
 eriklisubesikasimindirimi.xyz
 erikliyardimvakfi.com
 erilenerji.biz
+erin17047.softr.app
 erisim-web-tr-link.net
 erisimin.online
 erisimin.website
@@ -43429,6 +43431,7 @@ hdhmnbrdanlcbkk.lol
 hdiclckeregdlmbrbr.mooo.com
 hdiglbrdanbnakzndr.lol
 hdiglvrbnrvdde.lol
+hdimhsglkrndev.cfd
 hdirwanda.org
 hdjgmd.top
 hdjtmz.top
@@ -43655,6 +43658,7 @@ heiressbenevolence.top
 heiresshenceforth.top
 heirtopple.top
 heismebktaltara.net
+hejsakf.duckdns.org
 heladosyomyom.com
 helalfinansman-bilgilendirmeamaclikurulansitemizdir.eth3.me
 helax.duckdns.org
@@ -47234,6 +47238,7 @@ iasdcvrt-svddvt.com
 iasedsed.com
 iasedvt-sdvttt.com
 iatatsorgula.dev
+iayps.com
 ib-bikarcahome.shop
 ib00745.site
 ibafl.buzz
@@ -50735,6 +50740,7 @@ islmrkznktsibrada.net
 islmrkznktsicno.com
 islmrkzqwtlasibast.net
 islmtkpetmnislminiz.online
+islmtlaknsan.net
 islmvlcrqwt2312ttfff.com
 isln-taknasn.net
 isln-taknsjmaasn.net
@@ -56667,6 +56673,7 @@ kzsngcj.cn
 kzydnv.org
 kzyihayat.org
 kzymenkuldegerler.com
+kzytrade.com
 kzytrading.com
 l----web-ledgerlive.webflow.io
 l-arena.com
@@ -62077,6 +62084,7 @@ mhrlww.com
 mhrmhrdsmsd.click
 mhrmhrdsmsdd.click
 mhrmhrdsmsdxdd.click
+mhrndvumhsglk.cfd
 mhrnmslrdnmzsaniz.mooo.com
 mhrnsndvlrmnazsd.giize.com
 mhroasppnl.shop
@@ -79919,6 +79927,7 @@ sagligakavusmakicinbiradim.digital
 saglik-182.com
 saglik-bakanligi-sikayetleri.online
 saglik-mrs1.xyz
+saglik-rhbr.cfd
 saglik-rnd.cfd
 saglik.co.vu
 saglik1.site
@@ -79960,6 +79969,7 @@ saglikuygulamasi2.com
 saglikuygulamasi3.com
 saglikuygulamasi4.com
 saglikuygulamasi5.com
+saglk-rhberim.cfd
 saglkgnlerderndvalnyrz.click
 saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
@@ -94486,6 +94496,7 @@ trbinanceaccauntlogin.ml
 trbinancebaikyeteyitsistemleri.line.pm
 trbinrance.net
 trbirim.org
+trbirimadli.org
 trblasvxzmblda.net
 trblnance.store
 trbn-939525235.com
@@ -102702,6 +102713,7 @@ wliqyd.top
 wlletr-ledgeur.webflow.io
 wllter--ledgre-live.webflow.io
 wlnvwg.cyou
+wlopt.com
 wlsepaqua.com
 wlsepbyte.com
 wlsepnano.com
@@ -107141,6 +107153,7 @@ yusufsepet.com
 yutnertbwervw.click
 yutricl.kargoi.top
 yuurewardslbs.ink
+yuuzuyuzbr.click
 yuvaniz.click
 yuzberdikama.com
 yuzbiraltusklimafirsatlar.com
