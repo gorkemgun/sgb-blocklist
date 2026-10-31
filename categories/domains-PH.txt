@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108338
-# Last change: 2026-10-31 18:36:52 UTC (sync mode: delta)
+# Records: 108340
+# Last change: 2026-10-31 22:32:00 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -31306,6 +31306,7 @@ ekgroup.tech
 ekgsigorta.com
 ekhaber.club
 ekim-cumafrsti.com
+ekim-cumhuriyet-bayrami59.67g7g.top
 ekimayifinssmanlar.info
 ekimayifinssmanlar.info.tr
 ekimayifinssmanlar.me
@@ -75352,6 +75353,7 @@ pttavm.ile-odemeyi-tamamla.com
 pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepetim.com.tr
+pttavm.ile-siparisver.com.tr
 pttavm.ileodeme-formu.com
 pttavm.islemlerle-tamamla.com
 pttavm.kampanya2024.com
