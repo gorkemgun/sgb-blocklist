@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108321
-# Last change: 2026-10-30 20:51:27 UTC (sync mode: full)
+# Records: 108332
+# Last change: 2026-10-31 13:41:13 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1615,6 +1615,7 @@
 22245112245542224554254593.xyz
 22245112245542224554254595.xyz
 22245112245542224554254597.xyz
+22245112245542224554254598.xyz
 22245112245542224554254599.xyz
 22317b7a.dj-hd5kfu.shop
 224145125.xyz
@@ -17396,6 +17397,7 @@ bulutkurumu.online
 bulutlardayim.click
 bulutsigorta.site
 bumarkettebuindirimlerbitmez.xyz
+bumarkettefirsatlarhicbitmez.sbs
 bumarkettefiyatlarhepuygun.sbs
 bumarkettehergunindirimvar.xyz
 bumarketteindirimlerdurdurulamaz.xyz
@@ -28617,6 +28619,7 @@ doktorundansikayetvar.com
 dokumantakip.info
 dokumantakip.shop
 dokunsana.net
+dokunurcrm.duckdns.org
 dolap-alisveris.com.tr
 dolap-apps.com
 dolap-chekout.cf
@@ -42795,6 +42798,7 @@ halknburassendegel81.click
 halkolanmalko.club
 halkonay.sbs
 halkonay.tech
+halkooperatif.app
 halkora.net
 halkplanlama.net
 halkrafaelo.online
@@ -44333,6 +44337,7 @@ herbizm.com
 hercai.click
 herdaimhizmmet.shop
 herdaimhsgbakiye.xyz
+herdammhs.duckdns.org
 herddedication.top
 herddspnl.com
 herdestekbirfidan.com
@@ -47899,6 +47904,7 @@ igemailsupport.com
 igfollow7.com
 igfollow8.com
 iggleprosperou.top
+ighop.buzz
 igmenkuldegerler.com
 igmetacopyrightportal.ml
 igmetaportal.com
@@ -69103,6 +69109,7 @@ onlinekmsorgum-9bcff5.web.app
 onlinekontorum.com
 onlinekontorum.online
 onlinekontorum.xyz
+onlinekoopmarket.app
 onlinekredi-ailevegenc.com
 onlinelimitinvaki-f.xyz
 onlinelimitvakifta.xyz
@@ -80176,6 +80183,8 @@ saglk-rhberim.cfd
 saglkgnlerderndvalnyrz.click
 saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
+saglkicndnvualn.cfd
+saglklmhrndy.cfd
 saglkrnd.cfd
 sagotravel.com.tr
 sahabet.press
@@ -92971,6 +92980,7 @@ tkkammk.shop
 tkkg-edvtapkon-v.online
 tkkg-edvtapkonv.online
 tkkkiibasvrr.net
+tkkoop-online.app
 tkkoop.vercel.app
 tkkoopalisveris.app
 tkkoopjet.com
@@ -104148,6 +104158,7 @@ www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-cpttb-customer-web.myonlineportal.ch
+www-ctbde-cepte-default.myonlineportal.ch
 www-cumhurbaskanligi-iletisim.com
 www-cumhurbaskanligiadesi.com
 www-denizgov-banka-online.ml

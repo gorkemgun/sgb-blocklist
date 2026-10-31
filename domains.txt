@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 477280
-# Last change: 2026-10-31 07:02:54 UTC (sync mode: delta)
+# Records: 477297
+# Last change: 2026-10-31 13:41:13 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9697,6 +9697,7 @@
 22245112245542224554254594.xyz
 22245112245542224554254595.xyz
 22245112245542224554254597.xyz
+22245112245542224554254598.xyz
 22245112245542224554254599.xyz
 2228876238-6774344.com.tr
 2228876238-6774344.xyz
@@ -92243,6 +92244,7 @@ bumalharika.host
 bumarenhalicilar.site
 bumarketherzaman.gleeze.com
 bumarkettebuindirimlerbitmez.xyz
+bumarkettefirsatlarhicbitmez.sbs
 bumarkettefiyatlarhepuygun.sbs
 bumarkettehergunindirimvar.xyz
 bumarketteindirimlerdurdurulamaz.xyz
@@ -132630,6 +132632,7 @@ dokumantakip.shop
 dokunamazsin.cfd
 dokunsana.net
 dokununcasea.site
+dokunurcrm.duckdns.org
 dokuzbirbirprfvkf.com
 dokuzekimm.com
 dokuzeylulindiri.uk
@@ -163273,6 +163276,7 @@ facebook-checkpoint.ddns.net
 facebook-confirm-login.com.ph
 facebook-confirm-message.com.ph
 facebook-de.ddns.net
+facebook-facebook-status.ph
 facebook-giris.cf
 facebook-giris.ml
 facebook-google.top
@@ -163296,6 +163300,7 @@ facebook-login-in-sa.com.ph
 facebook-login-in-se.com.ph
 facebook-login-in-tokyo.com.ph
 facebook-login-in-tokyo.net.ph
+facebook-login-in-ve.com.ph
 facebook-login-indonesa-intl.com.ph
 facebook-login-instant-bd.com.ph
 facebook-login-instant-de.com.ph
@@ -200242,6 +200247,7 @@ halkonlinesubehediyesi.com
 halkonlinesubem.com
 halkonlinesubemiz-web-tr.tk
 halkonlinesubeniz.com
+halkooperatif.app
 halkora.net
 halkpank.com
 halkparaf-websube.com
@@ -207728,6 +207734,7 @@ herdaimhizmmet.pro
 herdaimhizmmet.shop
 herdaimhsgbakiye.xyz
 herdaimmutlu.net
+herdammhs.duckdns.org
 herddedication.top
 herddspnl.com
 herdefasindaindirimvesisem.cloud
@@ -225163,6 +225170,7 @@ ighdzxmjfc.duckdns.org
 ighelpcopyright-tr.cf
 ighelpscontactservicess.com
 ighjlphvg.org
+ighop.buzz
 ightjell.top
 igifaaqmkz.duckdns.org
 igigifagsa3fsdssiifasf.wiki
@@ -286057,6 +286065,7 @@ mhrsrandevu.net
 mhrsrandevu1182.site
 mhrsrandevu346.duckdns.org
 mhrsrandevu993.duckdns.org
+mhrsrandevual.net
 mhrsrandevualhastane.com
 mhrsrandevualhastane.online
 mhrsrandevualma.net
@@ -315577,6 +315586,7 @@ onlinekontorum.online
 onlinekontorum.xyz
 onlinekontrol-hizmetlerim.com
 onlinekontrol.org
+onlinekoopmarket.app
 onlinekqmyukleme.xyz
 onlinekrbimvakif.xyz
 onlinekrdildeniz.xyz
@@ -358804,6 +358814,8 @@ saglkgnlerderndvalnyrz.click
 saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
 saglkgnlrdylrzbrdanmhrsss.click
+saglkicndnvualn.cfd
+saglklmhrndy.cfd
 saglkrnd.cfd
 sagolasin.help
 sagotravel.com.tr
@@ -399566,6 +399578,7 @@ teboagoo.sbs
 tebobeba.duckdns.org
 tebomebolaloko.shop
 tebomebolo.cfd
+tebonline-basvuru.duckdns.org
 tebonlinebanka.tk
 tebonlinebankacilik.com
 tebonlinebasvur.0fees.us
@@ -404913,6 +404926,7 @@ tkkk2bimcell.com
 tkkkiibasvrr.net
 tkklsddgghfg.com
 tkkononutevim.org
+tkkoop-online.app
 tkkoop.vercel.app
 tkkoopalisveris.app
 tkkoopjet.com
@@ -431196,9 +431210,11 @@ vatandas-uyap.cfd
 vatandas-uyap.com
 vatandas-uyap.eu
 vatandas-uyap.net
+vatandas-uyap.sbs
 vatandas-uyap.xyz
 vatandas-uyapgiris.com.tr
 vatandas-uyapgov.online
+vatandas-uyapgov.sbs
 vatandas-uyappgov.cloud
 vatandas-uyapsorusturma.com
 vatandas-websorgu.b-cdn.net
@@ -448434,6 +448450,7 @@ www-cpt-ayrclk-tb.myonlineportal.ch
 www-cpte-ayricalik-tb.myonlineportal.ch
 www-cpte-tb-on.myonlineportal.ch
 www-cpttb-customer-web.myonlineportal.ch
+www-ctbde-cepte-default.myonlineportal.ch
 www-cumhburskanligi.com
 www-cumhrurbaskanligi.com
 www-cumhurbaskaanligi.com
