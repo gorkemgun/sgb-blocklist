@@ -2,7 +2,7 @@
 
 | File | Type | Category | Records |
 |---|---|---|---|
-| [domains-BP.txt](domains-BP.txt) | Domain | Financial Phishing (BP) | 260011 |
+| [domains-BP.txt](domains-BP.txt) | Domain | Financial Phishing (BP) | 260020 |
 | [domains-CA.txt](domains-CA.txt) | Domain | Cyber Attack (Port Scan, Brute Force etc.) (CA) | 180 |
 | [domains-MC.txt](domains-MC.txt) | Domain | Malware Command Center (MC) | 41648 |
 | [domains-MD.txt](domains-MD.txt) | Domain | Malware Distribution Domain (MD) | 66185 |
