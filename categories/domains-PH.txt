@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108332
-# Last change: 2026-10-31 13:41:13 UTC (sync mode: delta)
+# Records: 108338
+# Last change: 2026-10-31 18:36:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -30057,6 +30057,7 @@ e-ran-dlev-u.app
 e-rndval.cfd
 e-rndval.com
 e-rsndevu.xyz
+e-saglkrhber.cfd
 e-sahibinden.ile-sepetten-islem.com
 e-satin-alim.com.tr
 e-satisim.com.tr
@@ -33224,6 +33225,7 @@ etkinlikkampanya-tr-global-bn.net
 etkinliklerikampanyatarihlerinivesonkatilimzamanlarini.net
 etkinliklerisorgulayinvekampanyalarabasvurunuzuyapin.net
 etkinlikleriveeventlerisorgulayin.com
+etkinlikmerkezi.online
 etkinlikplatformu.online
 etkinlikveeventsorgulamalarikampanyalarakatilimyeri.net
 etkinlikveeventsorgusu.net
@@ -33627,6 +33629,7 @@ evijvh.top
 evilcheck.online
 evilelasticity.top
 eviljordan.site
+evim-basvurular.com
 evim-birtanem.life
 evim-mobil.com
 evim.b-cdn.net
@@ -52743,6 +52746,7 @@ jorvanix.com
 jorventhread.com
 josenubar.store
 josuecosmetic.com.ec
+jotulyri.site
 joulensider.pro
 journalcorex.com
 journalismspotlht.top
@@ -55420,6 +55424,7 @@ kmnbhnvghf.shop
 kmnbvvbnvbn.shop
 kmnl.cpfcenters.de
 kmnnpyybsvrrprmsynnfrstlllrr.info
+kmnpyaabasvurprmsynn92342.info
 kmnpyaabasvurruuusonfrstlarr1348212.pro
 kmnpyaabsvrrfrsttsonnn36528.info
 kmnpyaabsvrrfrsttsonnn36528.pro
@@ -64937,6 +64942,7 @@ nameofsuc.info
 nameplumber.top
 namereign.top
 nameserver.rotate.ltd
+namiflo.com
 namikkemalvakfi.org
 namslndasnlsanl.com
 namso.xyz

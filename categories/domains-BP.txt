@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260026
-# Last change: 2026-10-31 13:41:13 UTC (sync mode: delta)
+# Records: 260039
+# Last change: 2026-10-31 18:36:52 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -30134,6 +30134,8 @@ avskiralamacarfirma.net
 avskiralamafilo.com
 avskiralamafilo.online
 avskiralamakiralama.net
+avskiralamamerkezi.com
+avskiralamayeri.com
 avskiralikaraclar.com
 avskiralikaraclar.com.tr
 avskiralikaraclar.xyz
@@ -79472,6 +79474,7 @@ ebatv.com
 ebatv.online
 ebatvhediyetabletuygulamasi.com
 ebatvtabletbasvurumerkezi.com
+ebay-garantibbva-grab.ph
 ebbvadijitalonizlemenugapptr.space
 ebdk-iademerkezi-basvurular-bilgiislem.com
 ebdk-iadetalep-basvurulari.info
@@ -91582,6 +91585,7 @@ facebook--login-report.ph
 facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
+facebook--signupzzzzzzzzzzzzzzzyu.ph
 facebook--update-available.ph
 facebook-bakim.ph
 facebook-change-password.com
@@ -91594,6 +91598,7 @@ facebook-google.top
 facebook-help-lnstagram.cf
 facebook-helper.xyz
 facebook-like-login.ph
+facebook-login-barcelona101.com.ph
 facebook-login-berlin-us.ph
 facebook-login-berlin20.com.ph
 facebook-login-check-meta.ph
@@ -91606,6 +91611,7 @@ facebook-login-help-yemen.com.ph
 facebook-login-in-athens.com.ph
 facebook-login-in-dubai.net.ph
 facebook-login-in-eg.com.ph
+facebook-login-in-osaka.com.ph
 facebook-login-in-ru.com.ph
 facebook-login-in-sa.com.ph
 facebook-login-in-se.com.ph
@@ -161567,6 +161573,7 @@ mhrsrandevu.ink
 mhrsrandevu.net
 mhrsrandevu1182.site
 mhrsrandevu346.duckdns.org
+mhrsrandevual.com
 mhrsrandevual.net
 mhrsrandevualhastane.com
 mhrsrandevualhastane.online
@@ -161578,6 +161585,7 @@ mhrsrandevuburada.duckdns.org
 mhrsrandevuekraaan.duckdns.org
 mhrsrandevuekranlarimizdirr.duckdns.org
 mhrsrandevuhekim.duckdns.org
+mhrsrandevulari.com
 mhrsrandevularinizbasladi.duckdns.org
 mhrsrandevum.net
 mhrsrandevumtr.com
@@ -195837,6 +195845,7 @@ s.paramguvende-odeme.net
 s0dceo0nl1nezel23q.blogspot.com
 s0dfjhgkhgsodeme.net
 s0flk1aer56malledutaliscaxds.com
+s0k-cepte-kasimfirsatlari.duckdns.org
 s0k-malrket.shop
 s0k.workers.dev
 s0karmetler.shop
@@ -216774,6 +216783,7 @@ tcmaliidari.org
 tcmaliye.net
 tcmaliyebakanligi.org
 tcmaliyebakanligigovtr.com
+tcmaliyeceza.net
 tcmaliyesorgu.org
 tcmasakdosya.org
 tcmasakportal.org
@@ -225241,9 +225251,12 @@ trmagazafirsat.com.tr
 trmagazafirsat.info.tr
 trmagazafirsat.net.tr
 trmagazafirsat.org.tr
+trmaliceza.net
 trmaliceza.org
+trmalisorgu.net
 trmaliye.org
 trmaliyebirim.net
+trmaliyeceza.net
 trmaliyeceza.org
 trmaliyedosya.com
 trmaliyehazine.org
