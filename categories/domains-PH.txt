@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108340
-# Last change: 2026-10-31 22:32:00 UTC (sync mode: full)
+# Records: 108344
+# Last change: 2026-11-01 10:34:38 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -40650,6 +40650,7 @@ gratis.nottheweb.com
 gratis.obliqueprism.com
 gratis.paperbacksins.com
 gratis.ploteando.com
+gratis.poloniacruz.com
 gratis.raspberrydevice.com
 gratis.rataforo.com
 gratis.ruffson.com
@@ -57752,6 +57753,7 @@ lift21pear.top
 liftallotment.top
 liftogen.digital
 liftosensor.com
+liftpixel.shop
 liftpropel.top
 liftrak-l-g-r-l.myonlineportal.ch
 liftrich.pics
@@ -69319,6 +69321,7 @@ onoplanoai.ink
 onrunningturkiyetr.com
 onsatis.org
 onsatisbasvur.com
+onscalekalel.giize.com
 onservepatheti.top
 onsetversatility.top
 onsightkwp.com
@@ -70742,6 +70745,7 @@ palmiyesultanb.uk
 palmiyesultanbungalov.org
 palmiyesultanrezervasyon.com
 palmiyesultans.com
+palmiyesultns.com
 palmiyesulttan.com
 palmpredominant.top
 palmsgalsr.bio
