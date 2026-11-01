@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108369
-# Last change: 2026-11-01 17:09:00 UTC (sync mode: delta)
+# Records: 108398
+# Last change: 2026-11-01 21:13:07 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -605,6 +605,7 @@
 11b423xz122.duckdns.org
 11d6621f.dj-hd5kfu.shop
 11kasimdakfirsatim.online
+11rl.link
 11trbianse-tr.com.tr
 12-glenkarrg-larexsipariszam.com
 12-ocak-aldinaldin.com
@@ -668,6 +669,7 @@
 123.tradecourse.net
 1230001.site
 12312321455.net
+123134353.click
 1231516frrrssrstlarrkmpnyaasbsvrr.online
 1231x1x1.great-site.net
 12321323333.cloud
@@ -3125,6 +3127,7 @@
 90e4e118.dj-hd5kfu.shop
 90sadjkajklxk13x12.shop
 90tlozel-yilsonu-kampanyasi-bireysel.ga
+90vazaoisnbl.linkpc.net
 91.215.40.xn--22-2ca
 911919999.duckdns.org
 9123918273.xyz
@@ -5498,6 +5501,7 @@ aerotecisag.com
 aerovater.com
 aerowingsglobal.store
 aertyudmmd.com
+aesqehyu4lzshl.ipv64.net
 aestheticerect.top
 aesytr1.live
 aesytr1.pro
@@ -7974,6 +7978,7 @@ annedestekyardim.com
 anneeler-gunneozl.com
 annefamilylab.mom
 annekleinturkiye.com
+annelergunuozll.com
 annesiyletanistim.com
 annexationantibiotic.top
 annexationbenevolence.top
@@ -10877,6 +10882,7 @@ avmbireyselsepet.com
 avmgunlukleri1brda0firsat1.com
 avmhizliislem.com
 avmpttonlinee.online
+avmsiparisolustur.com
 avndsalpokjbv.duckdns.org
 avnuozphlia1.sbs
 avodemsahisgecis.xyz
@@ -13424,6 +13430,7 @@ besyuzbinkonutbasvuru.com
 besyuzbinsosyalkonut.com
 bet-ter-electr.org
 bet.panel.market
+bet1tor-w1n.website
 beta-anthropic.com
 beta-chatgpt.com
 beta-gemini-ads.com
@@ -13437,6 +13444,7 @@ betexengiris.co
 betgit1351.com
 bethhashem.com
 bethsouthorn.com
+betitor-ml.website
 betokaitakck123xk12k3lx132.cfd
 betorafaj1c21lx32l1kz312.cfd
 betparibu.app
@@ -14865,6 +14873,7 @@ bizgunleregelmedikacele.com
 bizherzamanaktifizkral.com
 bizi-reklamdanindirebilecekgucyok.art
 bizi101kurtaracak.cloud
+bizibosver.net
 bizim-ecz.club
 bizim-ecz.life
 bizim-haber.club
@@ -18244,6 +18253,7 @@ campaig1daysnapplynowandwin.cloud
 campaign-july-verified.net
 campaign.eoffers.club
 campaign22.net
+campaignboost.lol
 campaigndetriment.top
 campaigniswithyoustoveglobalstove.cloud
 campaignscontinueinjanuary.cloud
@@ -32940,6 +32950,7 @@ eshaotonlineaktifim.net
 eshaotonlinemyukle.net
 esharedonedrivefile.com
 eshatatvtrc.net
+eshesyeweh9lhukw7hfl.route64.de
 eshionix.site
 eshops-mobile.online
 eshotbakiyemerkezi.net
@@ -37882,6 +37893,7 @@ garanti-borc-cozumu.cloud
 garanti-btce-planlama.cloud
 garanti-butce-yonetimi.click
 garanti-finans-basvuru.cloud
+garanti-finans-platformu.cloud
 garanti-finans-portali.cloud
 garanti-finans-portali.lol
 garanti-finansal-danismanlik.cloud
@@ -42096,6 +42108,7 @@ h2g80z1.cn
 h33hk.com
 h3amazon.com
 h3bb7fin.cn
+h3hpslehws4.kozow.com
 h3q2wtrsaf12t3-gxfs-3-2gdsgy31q2t-fsa.sbs
 h3x8m2k9q6f4n7zh.cfd
 h47474cc.click
@@ -42158,6 +42171,7 @@ haber-turkey12721.shop
 haber-turkey4567.shop
 haber-turkiye.lat
 haber-turkiye1923.sbs
+haber-web-world.sbs
 haber-yayincilik.site
 haber100.online
 haber100.site
@@ -45559,6 +45573,7 @@ hizligecisbakiesi.web.app
 hizligecisbakiesni.web.app
 hizligecisbakiyemerkezi.web.app
 hizligecisbakiyesistemi.firebaseapp.com
+hizligecisbakiyeyukyn.web.app
 hizligecisbakiymerkezi.web.app
 hizligecisbakyeyuklme.web.app
 hizligecisburada.xyz
@@ -47518,6 +47533,7 @@ icloudlp.xyz
 icloudsecure-account-apple.com
 iclouduc.top
 icloudud.top
+iclsmcaicmaci.enyakinpastaci.online
 icnxka.help
 icon-consturction.com
 iconnbrand.com
@@ -48302,6 +48318,7 @@ ile-sepetiniz.com.tr
 ile-sepetlerim.com.tr
 ile-simdi-siparis.com
 ile-siparis-olustur.com
+ile-siparisver.net.tr
 ile-tedarik-odeme.com
 ile-tedarik-odemeler.com
 ile-ticaret.com
@@ -50687,6 +50704,7 @@ isafwhqwquasfmfhsdewkasfqw.sbs
 isafwqhgdsngqwh.club
 isahd.ae
 isanbulklkn.net
+isatlmacsn.myshopify.com
 isatomatoafruit.com
 isbak-ekampanya-bireysel-basvur.ml
 isbak-ekampanya-ebasvuru-birey.ml
@@ -55957,11 +55975,13 @@ kookokookokookokokokokkoooo.online
 kookokookokookokokokokkoooo.site
 koolpandaz.com
 kooltukfasf.xyz
+kooparatifmarketonline.unaux.com
 kooperatif21.online
 kooperatifjet.app
 kooperatifmarket.online
 kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
+kooperatifmarketson.blogspot.com
 kooperatifonline.vercel.app
 kooponline.vercel.app
 kopasertgois.info
@@ -58293,6 +58313,7 @@ lnstanmbulkentkart.net
 lnstaqramtellifhakkoruma.xyz
 lntaklnkasma.net
 lntalnlan.net
+lntlanlaskma.net
 lntlntlntltnltn.net
 lntrvergdmee.net
 lnv3b68.xdk8ax.cn
@@ -58711,6 +58732,7 @@ lozlas-ta.cloud
 lozlas-tb.cloud
 lozlas-tc.cloud
 lp.protectad.online
+lp84s4e8gh.freeddns.org
 lparchv.click
 lparibu.com
 lpasaportislem.net
@@ -63183,6 +63205,7 @@ mobilbireyselkatilimm.online
 mobilcarkbinance.com.tr
 mobilcep-erisim.my-homeip.de
 mobilcepte.com.tr
+mobilcepte.my-homeip.de
 mobilcitr.online
 mobilde-baglanti.com
 mobilde-denizbankacikhediye.com
@@ -66239,6 +66262,7 @@ nisbsnad.com
 nisdeh.top
 nissaann-ozl.net
 nissandaki-kmpnylr.com
+nissxndaki-kampnxylarm.com
 nitalastarakalatacamataleritabakamaladures.net
 nitelik-vasif.ink
 nitelikleriniz.online
@@ -70049,6 +70073,7 @@ otoyol.hgsyukleme.tech
 otoyoldenetimbirimi.gq
 otoyoldenetimbirimi.tk
 otoyoldolum.net
+otoyolgecsbakyesm.art
 otoyolhukukbildiri.site
 otoyolhukuksalbildiri.cf
 otoyolhukuksalbildiri.ga
@@ -85573,6 +85598,7 @@ smarthideparkinn-guests02095.com
 smartinvestfund.site
 smartlearn.vu
 smartlira-tr.com
+smartlocalguide.life
 smartmoneyinvestments.homes
 smartneedshub.shop
 smartnest.quest
@@ -87441,6 +87467,7 @@ sqlglink.cloud
 sqlhubzz.com
 sqoirtateklifi.com.tr
 sqoirtateklifi.xyz
+sqollink.cloud
 sqortacmenet.com.tr
 sqortacmenet.xyz
 sqortaladimsir.xyz
@@ -90242,6 +90269,7 @@ tahaxfd.net
 tahev.com
 tahtahde-deretesede.lol
 tahtahde-yuhdare.lol
+tahtuhuge-redetereye.lol
 tahuguderepoli.lol
 tailandtoast.com
 taildisplace.top
@@ -101412,6 +101440,7 @@ web-giris-akbank-kredim-islem.net
 web-giris-akbank-kredim.net
 web-giris-tr-packed.org
 web-guvenlikleri-duyurulari.click
+web-haberler-sayaci.cfd
 web-iade-edevletim.com
 web-ilantr.com
 web-iletsim-hzmt.net
