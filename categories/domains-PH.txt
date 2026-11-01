@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108344
-# Last change: 2026-11-01 10:34:38 UTC (sync mode: delta)
+# Records: 108369
+# Last change: 2026-11-01 17:09:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3012,6 +3012,7 @@
 84992d88.jdhuwoskz.cloud
 84parcamatkap.myshopify.com
 84parcamatkapseti.shop
+850musterihizmetleri.xyz
 85208520520520520520520.club
 853221-gmail.com
 854526542.cloud
@@ -8591,6 +8592,7 @@ arac-gecisihizlandi.lol
 arac-gecislerin.cfd
 arac-hasrr.blogspot.com
 arac-hsrm.blogspot.com
+arac-klmtrsglrm360-m.web.app
 arac-muayenehersey.com
 arac-muayenesi.com
 arac-muayneturk.online
@@ -8649,6 +8651,7 @@ aracdletay.com
 aracdlurumogren.com
 aracdurumlbilgi.com
 aracetiketi-plakatanimagecisleri.net
+aracetketbakyuklmye.web.app
 aracgecmiskayit.blogspot.com
 aracgo.net
 arachasarkaydi.kyulkermr.net
@@ -9553,6 +9556,7 @@ asdasddas.dns.army
 asdasdfsdfdsf.webredirect.org
 asdasdgugugo9999asd.click
 asdasdqwqq.duckdns.org
+asdasds.online
 asdasdsaqweqwe.com
 asdasede-sedeadsada.lol
 asdasfamanassalvo.com
@@ -9905,6 +9909,7 @@ assistantloom.com
 assistanttertiary.top
 assistenzafaacroma.com
 assive-prometerdsari.com
+associa.associazionecodis.com
 associatebust.top
 association-google.xyz
 associationconsulate.top
@@ -10619,6 +10624,7 @@ avantle.net
 avanttajlikampny.pro
 avaraj.my-homeip.de
 avavetom.org
+avazazkirkanka.linkpc.net
 avbir.eu
 avblgodmsisistemlerihil.com
 avcetinet.store
@@ -17740,6 +17746,7 @@ butterflylawsuit.top
 buttgetcim.xyz
 buttgrim.top
 buttonaffirmative.top
+butuncizgileronunmasasinda.cfd
 butunindirimlerburada.click
 butunumutlarimibendenaldin.sbs
 butunurunlerdekikampanyafirsati.cfd
@@ -19142,6 +19149,7 @@ cddlmh.top
 cddxmn.top
 cdeniz-katilimgirisuyelk.tk
 cdeveloper.cn
+cdfavwead.giize.com
 cdfdfgdfg.great-site.net
 cdfrmn.top
 cdgairport.icu
@@ -19393,6 +19401,7 @@ cepismtannd.top
 cepkotnroykleme.net
 ceplte-sok.lol
 cepltesolkmalrktl.lol
+cepmobili-teb.my-homeip.de
 cepnumaratasima.com
 cepoffices.co
 cepoffices.com
@@ -27203,6 +27212,7 @@ df1u.org
 dfafdafdasn.net
 dfbkskbsb.vip
 dfbkskbsbs2.vip
+dfdcvcv4545.click
 dfdsfsd.shop
 dfgdfgdfgdfg.great-site.net
 dfgdfge4gfdgfd.nicepage.io
@@ -27253,6 +27263,7 @@ dgtuhall-afisha.ru
 dgui33tarisland.top
 dgvcbjy7q32.github.io
 dgvgkngm.cc
+dgxyt.com
 dgzambia.com
 dhanikhera.com
 dhasc.shop
@@ -32705,6 +32716,7 @@ equationbleach.top
 equatokin.top
 equatordweling.top
 equatorsynthetic.top
+equinoxoutcast.shop
 equipbronze.top
 equipcoalition.top
 equipdestine.top
@@ -33385,6 +33397,7 @@ euzlasmatalimat.org
 euzlasmateblig.com
 euzlasmateblig.org
 euzlasmatr.org
+ev-basvuru-toplu.com
 ev-icin-modern-urunler.top
 ev-internet-paketleri.com
 ev-interneti-basvurusu.com
@@ -34535,6 +34548,7 @@ ezik.world
 ezikchecker.xyz
 eziklerburada.com.tr
 eziklerburada.xyz
+ezikmisinolmsiz.xyz
 ezkcheck.ml
 ezlink-eb2d5b.webflow.io
 ezmsus.top
@@ -42399,6 +42413,7 @@ haberler456289.sbs
 haberler463221.sbs
 haberler4675874.sbs
 haberler47852.shop
+haberler4787419.sbs
 haberler4857489.sbs
 haberler53454321.shop
 haberler543343.shop
@@ -45855,6 +45870,7 @@ hksdagohkwryo.net
 hksksktlrmyrmm.blogspot.com
 hkstrkykyyrrrmm.com
 hkvdestekci.net
+hkwsluh9ewshyefelhe.srv64.de
 hkxiu.com
 hl-k-b-kkk-kr.space
 hlakbca.boyacentury.cn
@@ -45988,6 +46004,7 @@ hnaolangnleremynym.shop
 hnbdfasgva.net
 hndgfxbas.duckdns.org
 hndqiuebgibuiwqdhr.cyou
+hnedrnh5hl3se84ls3.vpn64.de
 hnezkh.help
 hnfhcmdjm.com
 hngsnbxdnssn.org
@@ -57543,6 +57560,7 @@ lesswatt.top
 letconsecutive.top
 letgo-m.com
 letgo-sigorta.co
+letgo-sigorta.com
 letgo.get-satisofisim.com.tr
 letgo.guvenlialsvers.com
 letgo.ile-siparis-olustur.com
@@ -83744,6 +83762,7 @@ sgkprmborcsorgulahzmeti.net
 sgksorgulama.us
 sgktesviksorgulama.info
 sglik-rhber.cfd
+sglklignleredgru.cfd
 sgno.top
 sgorta.cloud
 sgortaafter.online
@@ -85200,6 +85219,7 @@ sizleozel2022.net
 sizler-brudasn-kamp-aldin.shop
 sizler-burada-neden-gelmiyorsun.top
 sizler-degerlisiniz.net
+sizler.icin.hizmetler.sahizmtofls.click
 sizlerdehemenyararlanin.site
 sizleree-ozel.online
 sizlereenguzelhizmetdevlet.com
@@ -86628,6 +86648,7 @@ sorugercek.info
 sorulakma.com
 sorumlular-verilentr.garden
 sorunsuz-yukleme-istanbul.com
+sorunsuzsiparis.online
 sorunszz-yukklee1.online
 sorustuggrnts2024yxlbasim.com.trrmavatandasuyap.com.tr
 sorusturma-gelir-idaresi-baskanligi-gib-gov-q9j9e0mf03.appdolo.store
@@ -94971,6 +94992,7 @@ trendyol.lol
 trendyol.mobilservisin-24.sbs
 trendyol.mobilservisler-77.sbs
 trendyol.my
+trendyol.one
 trendyol.online-store.top
 trendyol.services
 trendyol.space
@@ -96657,6 +96679,7 @@ turktelekomwebim.com
 turktelekon.com
 turktelkom.ceptebayi.online
 turktelokomcekilis.online
+turkticaret-servis-idcheck8820137.diars.it
 turkticaretbankasi.org.ph
 turktoday.blog
 turktuv-randevum.com
@@ -97704,6 +97727,7 @@ universus.stream
 univiewd.com
 univiewd.online
 unk.hontinetalmanged.com
+unkalimasyona.giize.com
 unknownrejoice.top
 unleashclearing.top
 unleasheradicate.top
@@ -101373,6 +101397,7 @@ web-belbiss.com
 web-bella.com
 web-braun.com
 web-btcturkpro.com
+web-bulut-habercilik.cfd
 web-cimer-kamu-hizmetleri.com
 web-crypto-issue-com.webflow.io
 web-devletsosyalyardimuygulamasi.com
