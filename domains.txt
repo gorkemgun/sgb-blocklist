@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 477383
-# Last change: 2026-11-01 21:13:07 UTC (sync mode: delta)
+# Records: 477382
+# Last change: 2026-11-02 00:49:55 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -76018,7 +76018,6 @@ bimttlcell.com
 bimturk.org
 bimturkiye-cell1.com
 bimturkiye-devam.com
-bimturkiye.com
 bimturkiye.is-best.net
 bimturkiye.ml
 bimtvcll.com
