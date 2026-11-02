@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41648
-# Last change: 2026-10-30 15:58:34 UTC (sync mode: delta)
+# Records: 41656
+# Last change: 2026-11-02 18:28:10 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -5870,6 +5870,7 @@ biwgqgfpycjklua.su
 bixdqgehub.outher.ru
 bixxler.drennonmarketingreviews.com
 biyolunubulupoprz.com
+biz-kenetfree.com
 bizabiza.mywire.org
 bizbizeyeteriz20gb-hediye.net
 bizdenhizlisimezarda.com
@@ -6695,6 +6696,7 @@ bulan337.site
 buland5.site
 buldiakogroup.com
 bulimu55t.net
+bulk.tanktvvip.com
 bulkdomain.church
 bulkmob.store
 bulksec.ru
@@ -7333,6 +7335,8 @@ cayhaneztoporozlekez.com
 caynaxs.duckdns.org
 cayrezlokizyonezdom.net
 cazzo.theworkpc.com
+cb.golden-digger.art
+cb.silverbullet.icu
 cbafe.cepholys.ru
 cbakk.xyz
 cbayxv.com
@@ -15429,6 +15433,7 @@ goldclick.net
 golddisco.top
 goldeen.ddns.net
 goldegrillz.top
+golden-digger.art
 golden-ears8.xyz
 golden-scalen.com
 goldeneye25.ddns.net
@@ -21738,6 +21743,7 @@ lookplease.c1.biz
 looksta.icu
 lookupkitchen.com
 looobgame.ddns.net
+loop.tanktvvip.com
 loop67.marginisbi.ru
 loop79.marginisbi.ru
 loop81.marginisbi.ru
@@ -30099,6 +30105,7 @@ remain114.xyz
 remain535.xyz
 remakesticti.shop
 remalexation.name
+remark.tanktvvip.com
 remarkablemaps.com
 remcos1.ydns.eu
 remcosrat.ddns.net
@@ -32527,6 +32534,7 @@ siliconman.top
 silivri14533162.com
 silk-lift-porter-correctly.trycloudflare.com
 silverain.top
+silverbullet.icu
 silvermoon03.top
 silverpath.shadowstresser.info
 silversky.club

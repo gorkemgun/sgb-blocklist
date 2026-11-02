@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260053
-# Last change: 2026-11-02 07:43:53 UTC (sync mode: delta)
+# Records: 260087
+# Last change: 2026-11-02 18:28:10 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -25850,6 +25850,7 @@ anadoluya.org
 anadoluyatirim-portfoy.com
 anadoluyatirimmd.com
 anadoluyatirimmd.net
+anadoluyatirimmenkuldeger.com
 anadoluyatirimportfoy.com
 anadoluyenigelecek.online
 anadoluyugez.net
@@ -30119,6 +30120,7 @@ avsfilokiralama.com
 avsfilokiralamaa.com
 avsfilokiralik.com
 avsfilokurumsal.online
+avsfilomkiralama.com
 avsfilorent.net
 avsfilorentkiralama.com
 avsfilorezervasyon.net
@@ -32291,6 +32293,7 @@ bank-garanti.com
 bank-islemler-bireyselbankasi.com
 bank-online-anadi.com
 bank-paraf.com
+bank-qnb-finans.my-homeip.com
 bank-sistem-guvenli-basvuru-izeleme-e-giris-kart-aidati.xyz
 bank-verification.com
 bank.4-231-235-170.plesk.page
@@ -35548,6 +35551,7 @@ basvurzsr.cyou
 basvurzsr.xyz
 basvutrruresmibnncs.com
 basvvurrkmnpyaprmsyn3189.info
+basvvurrkmnpyaprmsyn3189.pro
 basvvurtooki.sa.com
 basvvuru-ieademerkezi-edevlet.com
 basvvuruacikdenizv2denizbank.co.vu
@@ -37851,6 +37855,7 @@ best-sales.click
 best-service-tr.tk
 best10111aktueliiiim.com
 best2islm.is-best.net
+best987458sonfrsltarkmpny.click
 bestandboy.shop
 bestazan.is-best.net
 bestbasvuralanad.com
@@ -53432,6 +53437,7 @@ buldular.site
 buldumdenburdaartuk67.click
 buldumtv.site
 buldunda-burasindan-oncesine-gelindik.top
+buldunmudenemeleri3421.duckdns.org
 bulduolpsa.site
 bulduretede.lat
 bule.my-board.org
@@ -83486,6 +83492,7 @@ egmgovemn.my.id
 egmgovern.shop
 egmgovn.my.id
 egmgovn.web.id
+egmgovrenm.web.id
 egmgovtr.org
 egminfaz.com
 egmkamuecezatr.org
@@ -102795,6 +102802,8 @@ gfwrtwtd.click
 gfwrwtdhyse.click
 gg-r-tsfssghdhs.sbs
 gg-rgnry-t235-143wrf-asgedwsfads.net.tr
+gg221414124.duckdns.org
+gg221414124grn.duckdns.org
 ggaaarantoggkatilimmbsvrrr.cloud
 ggaarraannnttii.net
 ggaarraannttii.net
@@ -103314,6 +103323,7 @@ giris-iciscileri-gov.tk
 giris-interaktifvergg-gov.com
 giris-internet.com
 giris-isbnk.com
+giris-islemler.teb.com.se
 giris-islemleri-binance-tr.tk
 giris-islemleri-turkiyegovtr.com
 giris-islemlerim.com
@@ -136762,6 +136772,7 @@ istanbulkrtdolum.com
 istanbulkrtdolum.com.tr
 istanbulkrtdolum.net
 istanbulkrtibb.net
+istanbulkrtlahmnodemeya.com
 istanbulkrtonline.net
 istanbulkrtw.net
 istanbulkrtyukleme.com
@@ -142886,6 +142897,7 @@ kaita99asdjkjkqxeqkwe.cfd
 kaitacsdkjck123xk123.sbs
 kaitaelleme3434.sbs
 kaitaelleme3x123z12sacac.cfd
+kaitaellemeentermenter.sbs
 kaitageldimeta.sbs
 kaitailemetalardedeler.sbs
 kaitaisasdjasdjxj123kx13x123.shop
@@ -149919,6 +149931,7 @@ kiraztavsanfirsatlari.ml
 kirbayilerimiz.is-best.net
 kirdudusigorta.com
 kiredetttedo3.xyz
+kiredi-bbav-birligi.sbs
 kiredibasvurularim.online
 kiredihaberfiirsatlarii.buzz
 kiredihaberfirsatlarii.buzz
@@ -150694,6 +150707,7 @@ kmdenhizmet.shop
 kmdenizbank.com
 kmdeogrenhizmeti.cfd
 kmdesnzszde.qwgfqwfgas.com
+kmdesorgu.web.app
 kmdestekaraclar.sa.com
 kmdetalymhemn.com
 kmdetay.web.app
@@ -159095,6 +159109,7 @@ maliyevatandasportal.org
 maliyevehazinebakanligi.com
 maliyevezneislem.com
 maliyevezneislem.org
+maliyevezneislemler.org
 malkafali222.com
 malkafaniskm.com
 malkocbakie.lat
@@ -159801,6 +159816,7 @@ masaktrmobilbinance12.duckdns.org
 masakuyum.com
 masakverify-team.com
 masakvezneformu.com
+masakvezneislem.online
 masalardakampnya.xyz
 masalgecesi.org
 masalignler.xyz
@@ -161604,6 +161620,7 @@ mhrsrandevunburadan.com
 mhrsrandevunburadan.duckdns.org
 mhrsrandevunburadann.duckdns.org
 mhrsrandevunuz.net
+mhrsrandevuolustur.lol
 mhrsrandevuonline.lol
 mhrsrandevuonlinehizmetlerbasvurunoktasi.duckdns.org
 mhrsrandevuornek.duckdns.org
@@ -162432,6 +162449,7 @@ mobil-cep-kapinda-marketi-tr.online
 mobil-cep-shop-tr.sbs
 mobil-cepsube.com
 mobil-cepte-basvuru-online.app
+mobil-cepte-teb.my-homeip.de
 mobil-ceptesok.com
 mobil-checkout.ga
 mobil-checkout.ml
@@ -162790,6 +162808,7 @@ mobil-sube-iscep-katilim.ga
 mobil-sube-islemlerim.com
 mobil-sube-yapikredi.com
 mobil-sube.com
+mobil-sube.teb.com.se
 mobil-subeacikdenizbasvuru.tk
 mobil-subecekiliskatilim.com
 mobil-subelerimiz.com
@@ -163070,6 +163089,7 @@ mobilbasvuruuygulamasi-guncel.tk
 mobilbasvuurularinadresitekdeniz.click
 mobilbbva.top
 mobilbbvam.net
+mobilbbvuislemenu.linkpc.net
 mobilbet.my-homeip.net
 mobilbildirim-kredi.top
 mobilbildirim-kredideniz.top
@@ -178322,6 +178342,7 @@ oxypheuevh.pro
 oy-pttgov.top
 oyabuy.2kool4u.net
 oyakegitimvakfi.com
+oyakmenkuldegerler.net
 oyapikredi.com
 oybanasdkwe.net
 oyhgsborcgecisihtse.duckdns.org
@@ -190669,6 +190690,7 @@ qnb-aidat-iadeleri.duckdns.org
 qnb-aidatiade.com
 qnb-aktif-onaylibasvurular.vercel.app
 qnb-baharfirsati.com
+qnb-bank-promosyon.my-homeip.com
 qnb-bank.com
 qnb-basvuru-aidatlar.life
 qnb-basvuru-bireysel.top
@@ -190692,6 +190714,7 @@ qnb-dijital-online.life
 qnb-e-cardfinans.com
 qnb-e-finans-online.com
 qnb-ecardfinans.com
+qnb-emekli-promosyon.my-homeip.com
 qnb-enpara-cekilis.com
 qnb-enpara-cekilis.ph
 qnb-enpara-cekilisi.com
@@ -196231,6 +196254,7 @@ sadecebayramyagozel.com
 sadecebenimlealisveris.xyz
 sadecebimtlyukle.ga
 sadecebirdefagelecekmuhtesemindirim.cfd
+sadecebizskerz.com
 sadecebufirsatlaraozel.com.tr
 sadecebufirsatlaritakipet.online
 sadecebuguneozel.site
@@ -197796,6 +197820,7 @@ sahibinden-param-guvende.epizy.com
 sahibinden-param-guvende.ga
 sahibinden-param-guvende.get-siparis.online
 sahibinden-param-guvende.gq
+sahibinden-param-guvende.guvenli-alisveris-hizmet.online
 sahibinden-param-guvende.guvenli-alisverislerim.sa.com
 sahibinden-param-guvende.hizliveguvenlionlinealisveris.com.tr
 sahibinden-param-guvende.ilan-bilgi.online
@@ -204128,6 +204153,7 @@ sgkpromosyon.cfd
 sgkpromosyonu.cfd
 sgkpromosyonu.click
 sgkpromosyonu.site
+sglamhrrndvu.cfd
 sglgln01aldilgln4brdnn.com
 sglkbknlguygulama.club
 sgn-kali-lekna.myonlineportal.ch
@@ -209477,6 +209503,7 @@ sonfirsatyagmurum.com.tr
 sonfirsatyagmurum.online
 sonfirsttxkmpnysindaa.net
 sonfirtea1.net
+sonfristlarrskmpnabascr937125.info
 sonfrsaattbsvrrrkmpnyaaa.art
 sonfrsaattbsvrrrkmpnyaaa.click
 sonfrsaattbsvrrrkmpnyaaa.live
@@ -209813,6 +209840,8 @@ sonmtvodeme.online
 sonnbsvrrprmsynnnkmpnyaaa.art
 sonnbsvrrprmsynnnkmpnyaaa.click
 sonnbsvrrprmsynnnkmpnyaaa.live
+sonnfrlstarrbasvrrkredi85479.info
+sonnfrlstarrbasvrrkredi85479.pro
 sonnfrstlarrkmpnyaabasvrrr103421.pro
 sonnfrstlsrrrkmpnyaabsvrr.art
 sonnfrstlsrrrkmpnyaabsvrr.info
@@ -210309,6 +210338,7 @@ sorgupanel1.name.tr
 sorgupanel33.click
 sorgupanelcileri.click
 sorgupanelciniz.com.tr
+sorgupanelgiris.com
 sorgupanelhizli.site
 sorgupanelhizmetii.click
 sorgupaneli.best
@@ -210322,6 +210352,7 @@ sorgupaneli1.click
 sorgupaneli1.xyz
 sorgupaneli2026.click
 sorgupaneli2026.club
+sorgupaneli2026.net
 sorgupaneliguvenli.store
 sorgupanelim.com
 sorgupanelimm.click
@@ -235055,6 +235086,7 @@ vaytermos.sbs
 vayvay.click
 vayziraeewks.nicepage.io
 vazifen-cagdaslik-edinim.myonlineportal.ch
+vazoist34.linkpc.net
 vb-basvuruyap.xyz
 vb-cekilis.cf
 vb-cekilisi.cf
@@ -252591,6 +252623,7 @@ yelnizmrbi.net
 yelvanto.com
 yemek-takim-tr.cfd
 yemekcom.net
+yemekkartbasvurusu.com
 yemekkartihalkbank.com
 yemeklerimlezzetli.blogspot.com
 yemeksepeti-enpara.com
@@ -252963,6 +252996,7 @@ yenibvruu60.click
 yenibvruu70.click
 yenibvruu80.click
 yenicanersler.com
+yenicanreklam.sbs
 yeniceas.b-cdn.net
 yenicebsubem.com
 yenicegecisim.sg-host.com
