@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260045
-# Last change: 2026-11-02 00:49:55 UTC (sync mode: full)
+# Records: 260053
+# Last change: 2026-11-02 07:43:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -27445,6 +27445,7 @@ aracmuayenesorgulama.net
 aracmuayenetakibim.com
 aracmuayenetarihi.com
 aracmuayenetarihim.com
+aracmuayenetuvturk.com
 aracmuayenewebhizmet.com
 aracmuayenewebhizmetleri.com
 aracmuayenexarac.com
@@ -68929,6 +68930,7 @@ destekmerkezi.click
 destekmerkezi.gq
 destekmerkezi.ml
 destekmerkezibasvuru.com.tc
+destekmerkeziniz.xyz
 destekmtrpari.com
 desteknoktasi-eba.com
 destekodemebasvuru.com
@@ -91633,6 +91635,7 @@ facebook-login-instant-vn.com.ph
 facebook-login-ireland-cork.com.ph
 facebook-login-ireland-intl.com.ph
 facebook-login-jakarta-kr.net.ph
+facebook-login-jakarta-sa.net.ph
 facebook-login-largo.com.ph
 facebook-login-lisbon.com.ph
 facebook-login-login-extra.ph
@@ -91643,6 +91646,7 @@ facebook-login-new-york.com.ph
 facebook-login-no-logino-com.ph
 facebook-login-page-secure.ph
 facebook-login-paris-lyon.com.ph
+facebook-login-paris41.com.ph
 facebook-login-problem.ph
 facebook-login-secure-page.ph
 facebook-login-team-validate.ph
@@ -105444,6 +105448,7 @@ grantibasvuruformu.com
 grantibasvuruiade.com
 grantibasvurweqwek.duckdns.org
 grantibbbvaanindayaninda.net
+grantibbva-turkey.com
 grantibbva.com
 grantibbva.site
 grantibbvabireyselfirsat.org.tr
@@ -178403,6 +178408,7 @@ ozel-firsatlar-kasim-online.online
 ozel-firsatlar-kasim-online.xyz
 ozel-firsatlar-sok-online.org
 ozel-firsatlar-zamani-yakala.online
+ozel-firsatlarsizeozel.vercel.app
 ozel-fiyatlar-tr.online
 ozel-globalfirsatlarihemenyakala.com
 ozel-ilan.com
@@ -195302,6 +195308,7 @@ ryn.mom
 rynqweqwecase.com
 ryrhgss.com
 ryukleme1.22web.org
+ryuzbuindirim.duckdns.org
 ryxefoi.cyou
 rzflfbt.com
 rzgarlagez.b-cdn.net
@@ -256651,6 +256658,7 @@ yuzbirilefirsatlarkacmazsendegelveal.gleeze.com
 yuzbirinciyillarimiz.duckdns.org
 yuzbirindirimler.fun
 yuzbirindirimleri.online
+yuzbirindirimss.duckdns.org
 yuzbirislemler.com
 yuzbirkapindaaldinaldinn.store
 yuzbirklimafirsati.com

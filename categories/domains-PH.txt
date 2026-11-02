@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108398
-# Last change: 2026-11-01 21:13:07 UTC (sync mode: delta)
+# Records: 108406
+# Last change: 2026-11-02 07:43:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -49588,6 +49588,7 @@ infolanmam.tech
 infollnes-r-us.co.uk
 infologswall.store
 infolookstorage.com
+infomankul.com
 infomenkuldegerler.com
 infomenkuldegerler.net
 infomenkulyatirim.com
@@ -53971,6 +53972,7 @@ kargo.tkphzmtlri.online
 kargodepo.site
 kargodurumsorglma.com.tr
 kargodurumsorglma.online
+kargoguvenli.com
 kargoisleminizburadan.com
 kargokapinda.com
 kargolarimnerdeonline.com
@@ -54702,6 +54704,7 @@ kgm.pjxsjz.click
 kgm.ptlkak.click
 kgm.txhppa.help
 kgm.ueqgr.xyz
+kgm.ukyaj.cc
 kgm.vnzjgi.homes
 kgm.xabkks.homes
 kgm.xseowz.world
@@ -90276,6 +90279,7 @@ taildisplace.top
 tailmelody.top
 tailorlandmark.top
 tailorturbulence.top
+taiyazilim.com
 tak3dafree.tech
 takas-change.click
 takashimaya-tr.com
@@ -96476,8 +96480,10 @@ turkiye-gov.fun
 turkiye-kapisi-giris.com
 turkiye-magazin-ifsalari.com
 turkiye-magazinifsalari.com
+turkiye-petrolleri-hisseleri-com.pages.dev
 turkiye-petrolleri-hisseleri.com
 turkiye-petrolleri-platform.com
+turkiye-petrolleri-pro.pages.dev
 turkiye-petrolleri.pages.dev
 turkiye-petrolleri.pro
 turkiye-sigorta.com
@@ -96597,6 +96603,8 @@ turkiyeninyardimcisi.com
 turkiyeogrenme.com
 turkiyepanoru.com
 turkiyeperspektif.com
+turkiyepetrolleri-pro.pages.dev
+turkiyepetrolleri-shop.pages.dev
 turkiyepetrolleri-system.com
 turkiyepetrolleri-yatirim.com
 turkiyepetrolleri.pro
