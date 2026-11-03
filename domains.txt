@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 477511
-# Last change: 2026-11-02 18:28:10 UTC (sync mode: delta)
+# Records: 477558
+# Last change: 2026-11-03 01:37:54 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2699,6 +2699,7 @@
 101bugun-kacmaz-firsatlar.com
 101buradahepalis.sistemli.biz.tr
 101campanya.click
+101campanyam.click
 101canidrmlers.info
 101carsamb-aksam.com
 101carsamba-aksam.com
@@ -4571,6 +4572,14 @@
 127919552784050.webredirect.org
 1279199552030.duckdns.org
 127985698545789555899855990.xyz
+127985698545789555899855992.xyz
+127985698545789555899855993.xyz
+127985698545789555899855994.xyz
+127985698545789555899855995.xyz
+127985698545789555899855996.xyz
+127985698545789555899855997.xyz
+127985698545789555899855998.xyz
+127985698545789555899855999.xyz
 127lh.zapto.org
 127pssa.cn
 128-218-192-168.shop
@@ -10186,6 +10195,7 @@
 24252.xyz
 2425225122234.cloud
 242522512312122234.cloud
+2425352412123.xyz
 24254324542423.com
 24255.site
 242amabizde5454.com
@@ -12294,6 +12304,7 @@
 321423hemntklabsvr.xyz
 321445131444.cloud
 321456987.ddns.net
+3214basvrusonkmpnya.click
 3214basvrusonkmpnya.pro
 3215498.cloud
 321564631894663.site
@@ -16061,6 +16072,7 @@
 5123512412312.cloud
 5123521351235142.info
 5124123124123124.com
+512512351213hizlcsmler-aracm360ptavm.online
 5125124871284721125.com
 512512982189124121234.com
 512548712854125841.cloud
@@ -27852,6 +27864,7 @@ abcsde.com
 abcsnlf0r.shop
 abctbenmsmlcmfm.ru
 abctheatrebox.com
+abcysadcebizskrz.com
 abd.zapto.org
 abdaalruhaani-27733.portmap.host
 abdakawkadour.zapto.org
@@ -56758,6 +56771,7 @@ avis-otokirala-tr.com
 avis-otokirala.com
 avis-otokiralama.com
 avis-otokiralama.com.tr
+avis-otokiralama.my-homeip.com
 avis-r.com.tr
 avis-rent-tailwind-bua9ritgs-ekremufacik.vercel.app
 avis-rent-tailwind-gfpdr84v9-ekremufacik.vercel.app
@@ -57371,6 +57385,7 @@ avsfilocar.org
 avsfilokiiralama.com
 avsfilokirala.net
 avsfilokiralama.com
+avsfilokiralama.online
 avsfilokiralamaa.com
 avsfilokiralik.com
 avsfilokurumsal.com
@@ -77434,6 +77449,7 @@ birazyolumvar.click
 birazyukleme.xyz
 birazzorlayin.cfd
 birbakmisim-neler-oldu12.net
+birbakmissinsepetedolmus.sbs
 birbank-aze.sbs
 birbankadandahafazlasiyiz.com
 birbaska-garanlt.vercel.app
@@ -80467,6 +80483,7 @@ bizdenhizlisiyoktur.click
 bizdeniyisivergiverki.b-cdn.net
 bizdeniyisiyok.pro
 bizdenkolayyukle.22web.org
+bizdenolsun.abrdns.com
 bizdensizlerekampanyaliurunler.duckdns.org
 bizdeonlinekredin.tk
 bizdeseninleglmektnkyf.com
@@ -84932,6 +84949,7 @@ bnbntrsczx225ktlm.com
 bnbonlnebsvurutr.com
 bnbosdwwrvw.info
 bnbrdanrvdaldm.click
+bnbrdansnabkcm.beer
 bnbrdaykensnnereygs.com
 bnbredirrere.com
 bnbsbbincnscse.vercel.app
@@ -92277,6 +92295,7 @@ bumalharika.host
 bumarenhalicilar.site
 bumarketherzaman.gleeze.com
 bumarkettebuindirimlerbitmez.xyz
+bumarkettefirsatlarhepgerigelir.sbs
 bumarkettefirsatlarhicbitmez.sbs
 bumarkettefiyatlarhepuygun.sbs
 bumarkettehergunindirimvar.xyz
@@ -129137,6 +129156,7 @@ dijitalbasvur.click
 dijitalbasvurm.online
 dijitalbasvurm.site
 dijitalbasvuru-forumudeniztaha.tk
+dijitalbasvuru-kredi.sbs
 dijitalbasvuru-olustur.com
 dijitalbasvuru-onayiniz.com
 dijitalbasvuru-sayfasi.com
@@ -131764,6 +131784,7 @@ dnshoswting.ga
 dnshoswting.gq
 dnshsdfskjasdns1423.com
 dnsinass.hopto.org
+dnskdscc1o1.cfd
 dnsmicrosoftds-data.com
 dnsmicrosoftds-data.org
 dnsmnlk23.blogspot.com
@@ -142744,6 +142765,7 @@ e2j0pwpk.duckdns.org
 e2j9so50t.duckdns.org
 e2krb6dn.duckdns.org
 e2lbtz.duckdns.org
+e2lshs9wv2kk8l46h.theworkpc.com
 e2mz7.shop
 e2o4bd6sh2b1sjk56-fv.com
 e2oo5z.duckdns.org
@@ -150320,6 +150342,7 @@ ekimeozelvakiflimit.xyz
 ekimfirsati.cfd
 ekimfirsati.com
 ekimfirsatlar-dabirlikte.com
+ekimfirsatlari.click
 ekimfirsatlari.com
 ekimfirsatlari1001.com
 ekimfirsatlariceptesoktayiz.sbs
@@ -159491,6 +159514,7 @@ evdehayatvardestekkredisi.co
 evdehayatvarevdekal.com
 evdehayatvarpandemidestek-tr.com
 evdehepberaberiz.com
+evdeherkesbunuistiyor.sbs
 evdeinternet-abonelikbasvurumerkezii.site
 evdeinternet.kampanyalar.site
 evdeinternet.paketleri.site
@@ -165168,6 +165192,7 @@ fbtelifhakklari-destek.ml
 fbtqpnjgyw.duckdns.org
 fbvakifbireysel.co.vu
 fbvarlik.com
+fbvbv565656.click
 fbvdadsetf.duckdns.org
 fbvelve.com
 fbverification.cf
@@ -180470,6 +180495,7 @@ gbuxg8axa6ar54wpqpwlgbk.ddns.net
 gbv3r23eg.zapto.org
 gbva500binkredihemenal.net
 gbvbsvrszzjkksizlrsiz.space
+gbvfhvnfj737.shop
 gbviadinho.ddns.net
 gbvislem.com
 gbvm.nl
@@ -182109,6 +182135,7 @@ geneticthorny.top
 geneticwretched.top
 genetikhastalik.com
 genevabyfassbind.com
+genezerix.company
 genfertonsok.top
 genfmfsestfsjstres.com
 genhgsm.com
@@ -192142,6 +192169,7 @@ guncelsikayetler-489.sbs
 guncelsikayetler-5.sa.com
 guncelsikayetler-553.sbs
 guncelsikayetler-554.sbs
+guncelsikayetler-557.sbs
 guncelsikayetler-61.sbs
 guncelsikayetler-62.sbs
 guncelsikayetler-63.sbs
@@ -196273,6 +196301,7 @@ haberler363234.shop
 haberler365guncel.com
 haberler411235.sbs
 haberler41289.sbs
+haberler4151231.sbs
 haberler421352.shop
 haberler4215434.sbs
 haberler42213.sbs
@@ -196290,6 +196319,7 @@ haberler463221.sbs
 haberler465198.sbs
 haberler4675874.sbs
 haberler4722.shop
+haberler4782231.sbs
 haberler47823.shop
 haberler47852.shop
 haberler4787419.sbs
@@ -212967,6 +212997,7 @@ hizlayuklemecix.xyz
 hizlayuklememerkezi.sg-host.com
 hizlbnngiristr.com
 hizlbudgetarackiralasana.space
+hizlcayklemesgla-hge.netlify.app
 hizlcayklle.net
 hizle3-yukleme.22web.org
 hizlformdolduredvlt.ml
@@ -251927,6 +251958,7 @@ kampanyam3457.site
 kampanyam3458.site
 kampanyamagusti.com
 kampanyamarketi.website
+kampanyamarketonline.duckdns.org
 kampanyamaxcuma.com
 kampanyamayiscaydanlik.com.tr
 kampanyamayonlendir.xyz
@@ -255393,6 +255425,7 @@ kasimindirimini.xyz
 kasimindiriminikacirma.com.tr
 kasimindiriminikacirma.xyz
 kasimindirimler.com
+kasimindirimleri.cfd
 kasimindirimlerii.tk
 kasimindirimlerii7.tk
 kasimindirimlerinebak.site
@@ -284703,6 +284736,7 @@ merkezi-aktarim.online
 merkezi-bankasi-aidat.tk
 merkezi-destek-com-tr.cf
 merkezi-destek.com
+merkezi-hekim-randevu-sistemi.xyz
 merkezi-islem-sorgu.cyou
 merkezi-sozlesme-islemleri.com
 merkezi-telif-destek-com.cf
@@ -286204,6 +286238,7 @@ mhrsrandevualhastane.com
 mhrsrandevualhastane.online
 mhrsrandevualma.net
 mhrsrandevualmatr.com
+mhrsrandevualonline.com
 mhrsrandevualsanala.duckdns.org
 mhrsrandevubasvurussuu.online
 mhrsrandevubasvurussuu.site
@@ -290904,6 +290939,7 @@ mobiliadeuygulamasi.com
 mobilidenziadm.com
 mobililevakifim.com
 mobilililinizicin.shop
+mobilim-cepte-teb.my-homeip.de
 mobilim-cepten.site
 mobilim-cepteniz.site
 mobilim-cepteteb.my-homeip.de
@@ -299055,6 +299091,7 @@ naqlem.top
 naqwwrnhws.us
 naraanaananana.click
 naraanaananananna.click
+naralix.com
 narananar.click
 nararaar.click
 naratosammb.xyz
@@ -299494,6 +299531,7 @@ navigators-travel.com
 navigoservicefr.ddns.net
 navijitijimingote.uno
 navijitijimingotiii.cyou
+navikry.com
 navilbasvrlariniz.com
 navitech.club
 navitecharacmedya.arabamuayenesi.xyz
@@ -328899,6 +328937,7 @@ pazarama.onlineservisler.com
 pazarama.onlinesiparislerim.com
 pazarama.onlinetemmuzfirsatlari.com
 pazarama.ozel-magazadan.com
+pazarama.param-guvende.org
 pazarama.satiskapida.com
 pazarama.satiskontrol.com
 pazarama.sepet-odemeler-2211.com
@@ -339727,6 +339766,7 @@ pttavm.ile-sepette-islem.com.tr
 pttavm.ile-siparis-et.com.tr
 pttavm.ile-siparis-et.online
 pttavm.ile-siparisver.com.tr
+pttavm.ile-siparisver.org.tr
 pttavm.ileodeme-formu.com
 pttavm.ileservishzmetlerinz.com
 pttavm.indirimfirsati.com.tr
@@ -344501,6 +344541,7 @@ qnb-islemiadeleri-giris.duckdns.org
 qnb-islemler-basvurular.life
 qnb-islemler-bilgiler.life
 qnb-islemler.online
+qnb-kampanya-standardi.vercel.app
 qnb-kampanya.com
 qnb-kampanya.dijital-kredi-oa.com
 qnb-kampanyalar-k.vercel.app
@@ -354528,6 +354569,7 @@ rndvuresmihxmetler.net
 rndvus-ual.b-cdn.net
 rndvusal.site
 rndvusall.store
+rndvusglka.cfd
 rndvuum.b-cdn.net
 rndvuzualsaniza.net
 rndvvmerk.net
@@ -355961,6 +356003,7 @@ ruhsuzpanel26.click
 ruhsuzpanel3.website
 ruhsuzpanel3.world
 ruhsuzpanel31.click
+ruhsuzpanel31.online
 ruhsuzpanel3120.click
 ruhsuzpanel3169.world
 ruhsuzpanel3250.website
@@ -381996,6 +382039,7 @@ sokmarketlerzinciri.online
 sokmarketlim.online
 sokmarketocakkatalog.cfd
 sokmarketocaksonuindirimleri.cfd
+sokmarketodemesayfasi.sbs
 sokmarketonline.com.tr
 sokmarketonline.net.tr
 sokmarketonline.org.tr
@@ -383926,6 +383970,7 @@ sorgualalar.com
 sorgualdat.wuaze.com
 sorgualdatislemleri2024.wuaze.com
 sorgualgec.world
+sorgualgec1.world
 sorgualtr.com
 sorguapileri-tc.onrender.com
 sorguarachasart.net
@@ -393800,6 +393845,7 @@ svvc11.ddns.net
 svvkkosfrsati.lat
 svvl.store
 svvskc.de
+svvvdddkkkllddsaa.duckdns.org
 svwra1rl.duckdns.org
 svxejxxyswldldfwy.com
 svxzvntvtruk.com
@@ -475816,6 +475862,7 @@ zirsis.cfd
 zirt-evnmb-ddfq.icu
 zirtaabnnkss.camdvr.org
 zirtajcsdcadsa1xs12.cfd
+zirtanfirsatlar.sbs
 zirtat.cfd
 zirtbastvsu.nicepage.io
 zirtbox.duckdns.org

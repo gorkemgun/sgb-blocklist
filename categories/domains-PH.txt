@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108475
-# Last change: 2026-11-02 18:28:10 UTC (sync mode: delta)
+# Records: 108513
+# Last change: 2026-11-03 01:37:54 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -759,6 +759,14 @@
 127483127984312971891.cloud
 1274883050699.duckdns.org
 127985698545789555899855990.xyz
+127985698545789555899855992.xyz
+127985698545789555899855993.xyz
+127985698545789555899855994.xyz
+127985698545789555899855995.xyz
+127985698545789555899855996.xyz
+127985698545789555899855997.xyz
+127985698545789555899855998.xyz
+127985698545789555899855999.xyz
 127pssa.cn
 128.85.204.35.bc.googleusercontent.com
 128147-coinbase.com
@@ -1672,6 +1680,7 @@
 24243535635.xyz
 24252.xyz
 242522512312122234.cloud
+2425352412123.xyz
 2432401001.cloud
 24325555555555232.webredirect.org
 2451.basitdom.biz
@@ -1931,6 +1940,7 @@
 3212221112445479897.duckdns.org
 3212221112445479898.duckdns.org
 3212221112445479899.duckdns.org
+3214basvrusonkmpnya.click
 3214basvrusonkmpnya.pro
 32156949851616513.net
 32165146854651651654.cloud
@@ -2423,6 +2433,7 @@
 51-158-243-62.plesk.page
 5115151.duckdns.org
 512118001192.loseyourip.com
+512512351213hizlcsmler-aracm360ptavm.online
 512548712854125841.cloud
 51284673512347.com
 512saqqwr12.icu
@@ -4286,6 +4297,7 @@ abbeyroadrecruitment.com
 abbreviatiovelocity.top
 abcorepro.com
 abctheatrebox.com
+abcysadcebizskrz.com
 abdiibrahimlifta.info
 abdulheymrmati.shop
 abduwie.cn
@@ -10733,6 +10745,7 @@ avis-kurumsal.com
 avis-odeme.com.tr
 avis-onliine.com
 avis-otokirala.com
+avis-otokiralama.my-homeip.com
 avis-r.com.tr
 avis-rent-tailwind-bua9ritgs-ekremufacik.vercel.app
 avis-rent-tailwind-gfpdr84v9-ekremufacik.vercel.app
@@ -14517,6 +14530,7 @@ biramodi-folepara.lol
 birandasepetteurunler.com.tr
 birantpolat.com
 birathostonline.cf
+birbakmissinsepetedolmus.sbs
 birbirimiziseviyoruz.biz
 bircanvakfi.com
 birdaha-bul-bunlardan.com
@@ -14859,6 +14873,7 @@ bizdenduy.club
 bizdenduy.online
 bizdenduy.site
 bizdenhizlisiyoktur.click
+bizdenolsun.abrdns.com
 bizdoux.com
 bize-bu-zamani-birakirsa-cok-guzel-gecer.com
 bize-bu-zamani-birakirsa-gorunen-guzel-gecer.com
@@ -15676,6 +15691,7 @@ bnbn-instaactivap01.cloud
 bnbnbnbnbnbnbnbnbnbnbnbnbnb.sbs
 bnbonlnebsvurutr.com
 bnbrdanrvdaldm.click
+bnbrdansnabkcm.beer
 bnbrdaykensnnereygs.com
 bnbsimdibasvur.cloud
 bnbsvrtr.tech
@@ -17418,6 +17434,7 @@ bulutkurumu.online
 bulutlardayim.click
 bulutsigorta.site
 bumarkettebuindirimlerbitmez.xyz
+bumarkettefirsatlarhepgerigelir.sbs
 bumarkettefirsatlarhicbitmez.sbs
 bumarkettefiyatlarhepuygun.sbs
 bumarkettehergunindirimvar.xyz
@@ -28399,6 +28416,7 @@ dns-verify-me.pro
 dnsfksasnhgohoiagdlknsgoijhasoigjjswdgj.vip
 dnshosttinz.cf
 dnshoswting.ga
+dnskdscc1o1.cfd
 dnsmnlk23.blogspot.com
 dnsnkahsa-mladklasa-nmamska.cyou
 dnsnkahsa-mladklasa-nmamska.icu
@@ -30231,6 +30249,7 @@ e2.ekredimi.com
 e2025mupdate.us
 e25c5ab9.dsfiurb-u.shop
 e29120.com
+e2lshs9wv2kk8l46h.theworkpc.com
 e2mz7.shop
 e5308d77.ieybfs7j447b.org.cn
 e60layanlatuvturktakilma.net
@@ -33493,6 +33512,7 @@ evdeekisiniz.com
 evdeepaketlemebasvurum.ml
 evdefiberinternetbasvurumerkezim.tk
 evdegelirim.net
+evdeherkesbunuistiyor.sbs
 evdeinternet.kampanyalar.site
 evdeinternet.paketleri.site
 evdeinternetkampanya.site
@@ -35061,6 +35081,7 @@ fbl.5jbl2j.com
 fbl05y.icu
 fbstadalex.xyz
 fbvarlik.com
+fbvbv565656.click
 fbvelve.com
 fbwbgo.cc
 fbwebnstagramglobal.com
@@ -38407,6 +38428,7 @@ gboo4gboo.workers.dev
 gbp-gathering-meaningful-atomic.trycloudflare.com
 gbrightenclosure.top
 gbva500binkredihemenal.net
+gbvfhvnfj737.shop
 gbvyturn.shop
 gbwfwg.com
 gbwtibz.cn
@@ -38901,6 +38923,7 @@ geneticthorny.top
 geneticwretched.top
 genetikhastalik.com
 genevabyfassbind.com
+genezerix.company
 genfertonsok.top
 genisfilo.com
 genisfilo.online
@@ -41407,6 +41430,7 @@ guncelsikayetler-453.sbs
 guncelsikayetler-5.sa.com
 guncelsikayetler-553.sbs
 guncelsikayetler-554.sbs
+guncelsikayetler-557.sbs
 guncelsikayetler-7.sa.com
 guncelsikayetler-73.sbs
 guncelsikayetler-74.sbs
@@ -42439,6 +42463,7 @@ haberler34652.shop
 haberler3465672.sbs
 haberler346623.sbs
 haberler3552323.shop
+haberler4151231.sbs
 haberler421352.shop
 haberler4215434.sbs
 haberler42213.sbs
@@ -42452,6 +42477,7 @@ haberler4561.sbs
 haberler456289.sbs
 haberler463221.sbs
 haberler4675874.sbs
+haberler4782231.sbs
 haberler47852.shop
 haberler4787419.sbs
 haberler4857489.sbs
@@ -45237,6 +45263,7 @@ hizlakilometrehasar.shop
 hizlandirmaszamanis.cloud
 hizlbnngiristr.com
 hizlbudgetarackiralasana.space
+hizlcayklemesgla-hge.netlify.app
 hizlgcsdldr.click
 hizlgecisbakieyukleme.web.app
 hizlgecisbayniz.art
@@ -53597,6 +53624,7 @@ kampanyalitemmuzurunleri.online
 kampanyalitemuzurunleri.xyz
 kampanyallarkacmaazz.com
 kampanyam-101.com
+kampanyamarketonline.duckdns.org
 kampanyameventle.net
 kampanyamharika1o1.com
 kampanyamiz-yilsonu-hazir-online.ml
@@ -62415,6 +62443,7 @@ mhrsportalvatandasgiris.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
 mhrsrandevu.art
 mhrsrandevu993.duckdns.org
+mhrsrandevualonline.com
 mhrsrandevualsanala.duckdns.org
 mhrsrandevuekranlarimizzz.duckdns.org
 mhrsrandevuekranwork.duckdns.org
@@ -63395,6 +63424,7 @@ mobili-cepteteb.my-homeip.de
 mobili.my-homeip.com
 mobilia.my-homeip.com
 mobiliadebasvuruformedvlt.ml
+mobilim-cepte-teb.my-homeip.de
 mobilim-cepteteb.my-homeip.de
 mobilin85yillinaaozelkampanya.com
 mobilinbankasi-akbank.ph
@@ -65065,6 +65095,7 @@ napolira.store
 napreel.top
 napster-promohub.com
 naqlem.top
+naralix.com
 narbify.click
 narcoexperss.icu
 narcos.fun
@@ -65240,6 +65271,7 @@ navigatepreoccupied.top
 navigationconsecutive.top
 navigationhumid.top
 navigationmediate.top
+navikry.com
 navitech.club
 navitecharacmedya.arabamuayenesi.xyz
 navor.lat
@@ -75453,6 +75485,7 @@ pttavm.ile-online-islemlerim.com.tr
 pttavm.ile-sepete-islemler.net.tr
 pttavm.ile-sepetim.com.tr
 pttavm.ile-siparisver.com.tr
+pttavm.ile-siparisver.org.tr
 pttavm.ileodeme-formu.com
 pttavm.islemlerle-tamamla.com
 pttavm.kampanya2024.com
@@ -76502,6 +76535,7 @@ qnb-explorer-demo.spectechle.com
 qnb-finansonline.com
 qnb-haziranayifirsati.com
 qnb-islemler-basvurular.life
+qnb-kampanya-standardi.vercel.app
 qnb-kampanyalari1.vercel.app
 qnb-promosyonhizmetlerim.duckdns.org
 qnb-qatar.com
@@ -79282,6 +79316,7 @@ rndvunuzuayirin.com
 rndvunv.net
 rndvunvialdiyatik.net
 rndvus-ual.b-cdn.net
+rndvusglka.cfd
 rndvvmerk.net
 rndvwxhkxmetiszile.net
 rndvzhudsmurebus.store
@@ -79679,6 +79714,7 @@ ruhsuzpanel26.click
 ruhsuzpanel3.website
 ruhsuzpanel3.world
 ruhsuzpanel31.click
+ruhsuzpanel31.online
 ruhsuzpanel3120.click
 ruhsuzpanel3169.world
 ruhsuzpanel3250.website
@@ -86547,6 +86583,7 @@ sorguadalet.org
 sorguadli.org
 sorguadliye.net
 sorgualgec.world
+sorgualgec1.world
 sorgualtr.com
 sorguapileri-tc.onrender.com
 sorguaracim.net
@@ -89511,6 +89548,7 @@ svspspadspsos.click
 svt-n.pro
 svtergh-shtpl-mntek-rtees.rest
 svvkkosfrsati.lat
+svvvdddkkkllddsaa.duckdns.org
 sw.sayatatata.cyou
 swa-gardw.app
 swaappeament.top
