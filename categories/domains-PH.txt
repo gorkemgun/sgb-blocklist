@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108529
-# Last change: 2026-11-03 09:38:43 UTC (sync mode: delta)
+# Records: 108567
+# Last change: 2026-11-03 17:52:49 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2898,6 +2898,7 @@
 77979797997.cloud
 77bby721223132.duckdns.org
 77cxmai3zm.icu
+77d7asdx7c787.duckdns.org
 77yilkampanya.org
 78-7-7-1-1.com
 7806d4cf9366-endpoint.com
@@ -4298,6 +4299,7 @@ abbreviatiovelocity.top
 abcorepro.com
 abctheatrebox.com
 abcysadcebizskrz.com
+abcysadcebizskrz.lol
 abdiibrahimlifta.info
 abdulheymrmati.shop
 abduwie.cn
@@ -12159,6 +12161,7 @@ basvurufirsatibance.tech
 basvurufirsatikampanyabance.tech
 basvurufirsatindabugun.online
 basvuruform.com
+basvuruformev.com
 basvuruformkapisi.com
 basvuruforms.app
 basvuruformu-btc-turk.com
@@ -14717,6 +14720,7 @@ biskletciniz-geldiy-ll.cfd
 bislem.net
 bismillahkaliteyehosgeldiniz.duckdns.org
 bisopinulgen.top
+bisse.live
 bissell-turkiye.com
 bist.youthside.co
 bistbobette.site
@@ -17269,6 +17273,7 @@ buffalotemperament.top
 bufferbud.top
 bufferdetention.top
 bufirsatbizdenkacirmaglobal.tech
+bufirsatikacirmamalisinn.com
 bufirsatkacmazgirisyapkazan.online
 bufirsatkacmazsendegelkampanyasi.tech
 bufirsatkacmazsendehemenkatil.site
@@ -17285,6 +17290,7 @@ bufrssztlr-kcamxasynii.net.tr
 bufursatlarlaberarbar.cfd
 bufy-web-lyt.myonlineportal.ch
 bugaotokiralama.online
+bugece.cfd
 bugecemisafirinim.duckdns.org
 bugevacuate.top
 bugjfd.help
@@ -30963,13 +30969,21 @@ efecanitesmeris.com
 efedsaxzsds.com
 efemdybungalov.com
 efemelektrik.com.tr
+efendbungalow.com
 efendibungalow.com
 efendiman.org
+efendy-bungalow.com
 efendy-bungalows.com
+efendybumgalow.com
+efendybungallow.com
 efendybungalov.com
+efendybungalow.date
+efendybungalow.site
 efendybungalow.uk
 efendybungalow.us
+efendybungalows.com
 efendyluxurybungalov.com
+efendyluxurybungalow.com
 efeniveatoomos.top
 eferoad.com
 efescim.cc.cd
@@ -38441,6 +38455,7 @@ gbxsya.top
 gcapitalstart.click
 gcarss.app
 gcaverns.com
+gcc-sg.cloud
 gcdpqr.top
 gceartkbrrhtbrkytrr.duckdns.org
 gcentralboundary.shop
@@ -51111,6 +51126,7 @@ istanbul34favela.net
 istanbulakademi.co
 istanbulakartmayukle.net
 istanbulakrttbakiye.hizli150.com
+istanbulakvaryumu.com
 istanbulataturkhavaalani.istkayip.site
 istanbulataturkhavaalani.istkayipb.site
 istanbulataturkhavaalani.istkayipesya.site
@@ -52652,6 +52668,7 @@ jerycrm.net
 jessejesse123.xyz
 jessiebaltazar.com
 jesussorgu.0hi.me
+jet-night.com
 jet-servis.online
 jetbrains-apps-group.gitlab.io
 jetcarfilo.com
@@ -54136,6 +54153,7 @@ kartimdeniz-2023.net
 kartistanbul.org
 kartkapisi.com
 kartpazar-d23aj13.web.app
+karttbassvr.com
 kartulisuperi.duckdns.org
 kartyuklemehizmetinizz.net
 kartyyklleme.net
@@ -56940,6 +56958,7 @@ kzancmillionario.store
 kzcdpl.shop
 kzduyihuy.storage.googleapis.com
 kzeytrade.com
+kzeytrading.com
 kzfayz.homes
 kzlakdestekk.org
 kzlaralvlankr.com
@@ -62249,6 +62268,7 @@ mezcalbank.com
 meztruedv.icu
 mfa-gocbil.org
 mfa-united.com
+mfakuwait.online
 mfcvll.top
 mfdemlkhvshvers.net
 mferje.cc
@@ -63181,6 +63201,7 @@ mneydolmz.com.tr
 mneyxtr1.site
 mneyxtz1.com.tr
 mnfskdssa.online
+mnfsnwkrw.sbs
 mng-kargo.com.tr
 mng-kargomtakip.web.app
 mng-takip.firebaseapp.com
@@ -63645,6 +63666,7 @@ modifyhumanitarian.top
 modifysolitude.top
 modifyunable.top
 modokodoko.org
+moelcloud.online
 moentspetacle.top
 moethennessys.com
 mofunoodye.com
@@ -65844,6 +65866,7 @@ newacccampaigns.net
 newactivate.top
 newageagric.com
 newaltinpltf.com
+newapi.pro
 newattendmodern.online
 newaugustcampanys-trtoggsixthing.net
 newbasdwqesad.net
@@ -80635,6 +80658,7 @@ sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
+sahibinden-param-guvende.siparis-get-servis.online
 sahibinden-param-guvende.siparis-onayi.online
 sahibinden-param-guvende.siparis-onayim.online
 sahibinden-param-guvende.siparis-onayla.online
@@ -83584,6 +83608,7 @@ sessioncatastrophic.top
 sessiondeduction.top
 sessionmouse.top
 sessivesnet.us
+sessseehlheeh2r896hlvlhd3se.freeddns.org
 set--up---suite--trzor.webflow.io
 set--up--suite----trzor.webflow.io
 setbackcoexist.top
@@ -83891,6 +83916,7 @@ sgkprmborcsorgulahzmeti.net
 sgksorgulama.us
 sgktesviksorgulama.info
 sglik-rhber.cfd
+sglklamhrrndvu.cfd
 sglklignleredgru.cfd
 sglklirhber.cfd
 sgllkgicmhr.cfd
@@ -86252,6 +86278,7 @@ solitudevelvet.top
 soliveprolprsp.click
 solixup.com
 soljmarlktlr.calilncenmaknlr.sbs
+solkmalrkeler.sualtihizleri.shop
 solkmarlektler.shop
 solkmce-pte.lol
 solkmlrkatler.com
@@ -86321,6 +86348,7 @@ somewherefaction.top
 somewherefolklore.top
 somewheretenant.top
 somkerler.com
+somlarletler.com
 somniumresort.com
 somnorama.com
 sompocusqortam.com.tr
@@ -86500,6 +86528,7 @@ sonsuzdan-bu-yana-sevgili-gunu-hissedin.com.tr
 sonsuzgece.com
 sonsuzsevda.org
 sonsuzumitleyardim.com
+sonteb.bounceme.net
 sontekflsd-sizelrcsn-biurada.store
 sonu.tk
 sonuc-avantaj.ink
@@ -88088,6 +88117,8 @@ starfootballl.com
 starforgewars.com
 starghotelpremium.world
 starit-ledgercom.webflow.io
+stark-meet.online
+stark-meet.website
 starkappropriation.top
 starknet.pm
 starlark.online
@@ -90814,6 +90845,7 @@ tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
 tarimkooperatifmarkette.cfd
 tarimkoperatifsepeti.online
+tarimkopmarketonlinee.blogdns.com
 tarimkredikoop.vercel.app
 tarimkredikooperatifmarket.sondonemkmpnyalari.com
 tarimkredimagazam.cfd
@@ -94346,6 +94378,7 @@ tr-reg.pro
 tr-s.com.tr
 tr-sahibinden-guvenli.com
 tr-sahibinden.bguvende.online
+tr-sahibinden.com.tr
 tr-sarar.com
 tr-satis-kurumsal.com.tr
 tr-satis.com.tr
@@ -95101,6 +95134,7 @@ trendymandy.store
 trendyo5.lol
 trendyo5.sbs
 trendyo5.xyz
+trendyogift.com
 trendyoi.com
 trendyol-bridge.duckdns.org
 trendyol-com.tk
@@ -95132,6 +95166,7 @@ trendyol.islem-hizmetlerim-mobil.com.tr
 trendyol.jeabynews.com
 trendyol.korayturk.com
 trendyol.lol
+trendyol.luxe
 trendyol.mobilservisin-24.sbs
 trendyol.mobilservisler-77.sbs
 trendyol.my
@@ -95530,6 +95565,7 @@ trlronllllllllineeturkeyymobilislemmenu.net
 trlumberjack.top
 trmagaza-firsat.biz.tr
 trmagaza-firsat.org.tr
+trmali.net
 trmali.org
 trmaliidari.org
 trmalimasak.org
@@ -99116,6 +99152,7 @@ vakkkfffi.net
 vakkkffkfk.com.tr
 vakkkkkffff.com.tr
 vakko.appmira.co
+vakko.hesapkapama.com
 vakkomall.top
 vakkomalls.top
 vakkoshop.top
@@ -107752,6 +107789,7 @@ zakatok.com
 zakon.sbs
 zaktrimd.cfd
 zalient.org
+zalimdunyaa.click
 zalimsiniz2.com.tr
 zalkupiq.com
 zalm37.be

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260107
-# Last change: 2026-11-03 09:38:43 UTC (sync mode: delta)
+# Records: 260128
+# Last change: 2026-11-03 17:52:49 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -139,6 +139,7 @@
 01010235554l.duckdns.org
 01010245554l.duckdns.org
 010109434-111.duckdns.org
+010137473737.duckdns.org
 01014522566dsas.com
 0101650301-123.cloud
 0101basvrularmerkezi0102.com
@@ -9156,6 +9157,7 @@
 6734737373.sbs
 6734737373.xyz
 67435153424.com
+674535huc2424.xyz
 67521hmghmcvbsfewe32487fdcbc.com
 67543w5547-34512-2346743.com
 675523442342.duckdns.org
@@ -9421,6 +9423,7 @@
 7152231321.cloud
 7171712222655cloud.com
 7171787811.xyz
+717182728.duckdns.org
 71758188.site
 7176548775.cloud
 717765465.cloud
@@ -10710,6 +10713,7 @@
 9678651525412.online
 9678651525412.xyz
 968574sonfrstlarrkmpnpyaabsvr.info
+968889999.duckdns.org
 9689186198f.duckdns.org
 9691234532-1.cloud
 969696.site
@@ -57654,6 +57658,7 @@ cepfinans.net
 cepfinanskampanyalari.com
 cepfinansqnb.com
 cepfirsat-onayiscep.vercel.app
+cepfirsati.cyou
 cepgarantifirsat.duckdns.org
 cepgarantisube.ph
 cepgarantisubeci.ph
@@ -94366,6 +94371,7 @@ firsatekayit.com
 firsatekayiti.com
 firsateklifionayla.com
 firsatekmobilacikdenizv2denizbank.co.vu
+firsatekrani203.online
 firsatemeklidesendurmaalmony.shop
 firsatenpara.com
 firsatesitligimayiskampanyasi.monster
@@ -102813,6 +102819,7 @@ gg-r-tsfssghdhs.sbs
 gg-rgnry-t235-143wrf-asgedwsfads.net.tr
 gg221414124.duckdns.org
 gg221414124grn.duckdns.org
+gg92929292211.duckdns.org
 ggaaarantoggkatilimmbsvrrr.cloud
 ggaarraannnttii.net
 ggaarraannttii.net
@@ -109328,6 +109335,7 @@ haber465119.shop
 haber54.shop
 haber563tr.xyz
 haber564.shop
+haber7.satis7.site
 haber724.sbs
 haber724.site
 haber724turk.site
@@ -109485,6 +109493,7 @@ haberler1236324.sbs
 haberler1242123561.sbs
 haberler1245343.shop
 haberler132423.sbs
+haberler1345621.sbs
 haberler141153.shop
 haberler14253231.shop
 haberler145.shop
@@ -126326,6 +126335,7 @@ hzlmbldji.cfd
 hzlmblrhbr.cfd
 hzlmgcssf.org
 hzlmrocantan.cfd
+hzlmyndsvzen.net
 hzlnsdanismanlk.com.tr
 hzlrhbrismbl.site
 hzlrhbrste.cfd
@@ -131758,6 +131768,7 @@ ingkasim2022kampanyasi.ml
 ingkasimfirsatlari.ml
 ingkredigunleri.co.vu
 inglilereozelkampanya.ml
+ingmobil.click
 ingmobil2019.com
 ingmobilbasvuru.click
 ingmobilbasvurular.com
@@ -131769,6 +131780,7 @@ ingonline-2019.com
 ingonline-login.com
 ingonline2019.com
 ingonlineinternet.com
+ingonlinekredihizmeti.net
 ingonlinesube.com
 ingonlinesubeniz.com
 ingov-trx.click
@@ -154222,6 +154234,7 @@ kufurbazhaydo.com
 kufurherseyserbest.net
 kugfcerdsa.click
 kugogogosahdahs99sad.lol
+kugosahdhashd9sdas9sw.click
 kugupastanemanavgat.online
 kuhgoplikvo.click
 kuhlotdelsl.net
@@ -161548,6 +161561,7 @@ mhmtensylmzrndvudm.com
 mhmtnrsylmz.net
 mhns.randevu-bilgi.it.com
 mhrandelvbka.com
+mhrdnve.cfd
 mhrdrandsveu.com
 mhrhrmrmsn.online
 mhrlshastnisleri.com
@@ -162421,6 +162435,7 @@ mobil-alisverisim.online
 mobil-bahardenizv2denizbank.com
 mobil-bakiye.net
 mobil-bank.net
+mobil-banka.teb.com.se
 mobil-bankacik-yapikredi.com
 mobil-bankalarbirligihizmetlerimgovtr.com
 mobil-bankkart.com
@@ -176551,6 +176566,7 @@ onlinetahsilatsistemi.net
 onlinetakip.app
 onlinetaleptoki.xyz
 onlinetarifehizmetleribim.com
+onlinetarim.sbs
 onlinetasarruf-basvuru-yapicep.vercel.app
 onlinete-bfirsati.com
 onlinetebbasvurunuz.tk
@@ -197865,6 +197881,7 @@ sahibinden-param-guvende.tr-odeme-hizmet.online
 sahibinden-param-guvende.tr-odeme-onay.online
 sahibinden-param-guvende.tr-odeme-servis.online
 sahibinden-param-guvende.tr-online-odemelerim.sa.com
+sahibinden-param-guvende.tr-siparisgets.online
 sahibinden-param-guvende.urunguvende.online
 sahibinden-param-guvende.v-tr.sa.com
 sahibinden-param-guvende.wuaze.com
@@ -206306,6 +206323,7 @@ siparis-dogrula.com
 siparis-dyson.com.tr
 siparis-ekstra101alisveris.site
 siparis-extra-online-mobil.click
+siparis-get-ilan.online
 siparis-get-onay.com
 siparis-guvende.online
 siparis-guvenli-ver.click
@@ -215814,6 +215832,7 @@ tarimkooperatifialisveris.online
 tarimkooperatifindirim.cfd
 tarimkooperatifmarket.cfd
 tarimkooperatifmarketi.cfd
+tarimkoopmarket.sbs
 tarimkoopmarketalisverisi.online
 tarimkoperatifi.online
 tarimkoperatifmarket.com
@@ -237061,6 +237080,7 @@ voltaniaktuel.net
 voltanizfirsat.cfd
 voltankampana1o1.net
 voltanla1o1.net
+voltaonlinemagaza.com
 voltarask.top
 voltasina1o1.net
 voltasinal.cfd
@@ -241159,6 +241179,7 @@ www-ceptetebden-ayricalik.my-homeip.de
 www-ceptetebimm.com
 www-ceptetebliim.com
 www-cepteteblim.com
+www-ceptetebmobil-com-tr.my-homeip.de
 www-ceptetebonline.com
 www-ceptetepden-emekliye.my-homeip.de
 www-cimer-aidat-iadetr.com

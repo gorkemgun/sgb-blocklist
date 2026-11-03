@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41656
-# Last change: 2026-11-02 18:28:10 UTC (sync mode: delta)
+# Records: 41686
+# Last change: 2026-11-03 17:52:49 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -58,6 +58,7 @@
 0ac0568239f8978.ccega6r0yph8.com
 0ad350539d54.net
 0ato2eiu0aom1ya10q.ddns.net
+0axhtweo6senss8xvw1auun3.store
 0b26.secureofficedocsafeauth-files.com
 0b5c6w.vip
 0brandaeyes0.xyz
@@ -921,6 +922,7 @@
 3dconfirrnation.com
 3djd83hf4.geek
 3dprintersale.site
+3ds8vehxpx0ccq3njzss.live
 3dstore.pro
 3e6eb645.consent-verify.pages.dev
 3ejbe8eo5f13oiggmqkdkhekknk9c2tlnvzpvrc16hnhi0g4kxtsxef2gh.jgcrrouu.es
@@ -1556,6 +1558,7 @@
 8k58b.uqauv.cn
 8kk68biiitj.com
 8lw0sbfwny54fx7oh.o65y0v.ru
+8n1oewttplbxet1u.site
 8n49w.audecmo2x1.com
 8nn7efnd2.ddns.net
 8r.ae
@@ -1745,6 +1748,7 @@
 9adiletasarim.com
 9ag35.impnhold0.com
 9appsdownloading.com
+9avm9k5-jtpnwm77hk46j0.icu
 9b10t4vyvx6b5.life
 9b31n8.c1.biz
 9b5uja.am.files.1drv.com
@@ -1852,6 +1856,7 @@ a453fce790d4.com
 a45rfwcxsad.com
 a4ef167ae9657f5f662c9db450699e2c.in
 a4haub65wwq002.com.de
+a4v690i84d0ak10tzweg.live
 a4zy33hbmhxx70w9q.com
 a50693d5568d0071456460.5516f14ea2.ru
 a51x5a.com
@@ -3407,6 +3412,7 @@ amvlcb.com
 amwetruhteecjebph.org
 amz-eu401.com
 amz-worm.ddns.net
+amzgw27tlydvptun4a2j8jo.lol
 amzonnews.club
 an.ddns.net
 an6969.duckdns.org
@@ -3679,6 +3685,7 @@ any.tshirtcheapbusiness.net
 anycastedprivacy.top
 anydesk.s3-us-west-1.amazonaws.com
 anydeskstat.com
+anyevonline.com
 anyhostings.ru
 anyinfos.ru
 anyonetonight.duckdns.org
@@ -3747,6 +3754,7 @@ api.dc1637.xyz
 api.deltaproject.us
 api.deltastealer.xyz
 api.dfcserwan.net
+api.dgjm.online
 api.disate.com
 api.dr0pb0xapi.com
 api.drfqopmnlight.com
@@ -4711,6 +4719,7 @@ awsyscloud.com
 awu4g64c2.christenssonsurfboards.com
 awudagabug.ddns.net
 awxts.com
+awxu1nls82f9daf0id51.com
 awycx.com
 awyerwgxunwmsha.su
 ax29g9q123.anondns.net
@@ -5572,6 +5581,7 @@ bestfunc.slyip.net
 bestgame.bazar
 besthord-vpn.com
 bestinthemarket.com
+bestipip.com
 bestknowledgegood.com
 bestmanualpolesaw.com
 bestmeatsellers.top
@@ -6118,6 +6128,7 @@ bmsaiche.com
 bmssystemg188.us
 bmucskpjf.com
 bmuvictoire.ddns.net
+bmw.bestipip.com
 bmwmotorsports3series.com
 bmxfghsh.duckdns.org
 bmy.hqoohoa.com
@@ -11659,6 +11670,7 @@ eaotebyprkofobu.ru
 ear235.xyz
 earfetti.com
 earlb0ren3.xyz
+earn.fm
 earnestlopez324.xyz
 earnsdk.io
 earourspam.xyz
@@ -12897,10 +12909,13 @@ extensionpolicyprivacy.com
 external-quantity.at.ply.gg
 external-sex.com
 extinct26.xyz
+extlib.anyevonline.com
+extott.szbboys.com
 extrasectr.com
 extreme33.dns1.us
 extremeinjectors.com
 extrememx.net
+extstb.anyevonline.com
 extuilowelevid.com
 exualap4.xyz
 exuaterp.cherwell-group.com
@@ -13609,6 +13624,7 @@ file-share.officeweb.live
 file-share.works
 file-zilla-projectt.org
 file.archat.us
+file.dgjm.online
 file.onedrivecloud.store
 file.wonderbackup.com
 fileaccesscenter.com
@@ -16018,6 +16034,7 @@ gychodl.com
 gycltda.cl
 gyeuiojndhbvmaoiwnnchauwo28vnj8mjmvnwhk.ydns.eu
 gyglowcq.com
+gyi9coh788uuk17a75lw109.org
 gylisr.com
 gymmov.xyz
 gyongglobaltradeltd.hopto.org
@@ -16704,6 +16721,7 @@ hfhs.telemetry.geostatcdn.com
 hfik.mobi
 hfktichen.com
 hfkwlzr.com
+hflx64mniw165hv3s1.com
 hfmmrimucocggjn.su
 hfoddy.dyn
 hfoqfrpmammejpo.ru
@@ -18530,6 +18548,7 @@ iqtel.org
 iqwebservice.com
 iqwgwsigmigiqgoa.xyz
 iqzndvsj.com
+ir2ocuffiimutatyxu2q.site
 iraeblagh.tk
 iran.dashboard.1drvms.store
 iranadll.ml
@@ -19590,6 +19609,7 @@ k2rdz1yeodm.biz
 k2t6i2yeodm.biz
 k2zbz1yeodm.info
 k348d.venti71.com
+k3rdxp0igzguybu6ua1.com
 k3yhol3.ddns.net
 k43gk3k4gk34.xyz
 k4xqhb6u4fo.com
@@ -23029,6 +23049,7 @@ mcnjhscmnr.citithespa.ru
 mcprotect.cloud
 mcrnsw.com.au
 mcsoft365.com
+mcstb.anyevonline.com
 mctelemetryzone.com
 mcwaoarumdwfuoi.ru
 mcxirdoujqjrrjc.ru
@@ -26897,6 +26918,7 @@ osx-mac.com
 osyurzjkp.com
 osyximjnob.duckdns.org
 otameyshan.com
+otaupdate.szbboys.com
 otdrones.shop
 othman123.ddns.net
 otiunmonisky2m.com
@@ -28468,6 +28490,7 @@ ppn.pnddon.com
 ppnaltddykduocrxf.org
 ppp.gggatat456.com
 ppp.xxxatat456.com
+pproxy.top
 ppsabedon.gleeze.com
 pputy.com
 ppuueefgdnyb.xyz
@@ -30825,6 +30848,7 @@ ruggioil.com
 rugme.cat
 ruhsatsepeti.com
 ruicwkzt.com
+rujhr1rzu84nny91cs.info
 rukodelniza.ru
 rulbypqaykxbibj.ru
 ruleslaw.org
@@ -33698,6 +33722,7 @@ status.sublineover.net
 stay648.xyz
 staycalm.club
 staying-heavily-meaning-blowing.trycloudflare.com
+stb12gms.anyevonline.com
 stbiqayo.com
 stchkr.rest
 stds.esy.es
@@ -33908,6 +33933,7 @@ studiofotografico35mm.altervista.org
 studiozaja.myfox.cz
 study-silly.at.ply.gg
 stuffgull.top
+stun.szbboys.com
 stunnedfragiledioxide.shop
 sturdyregularrmsnhw.shop
 sturt.xyz
@@ -34982,6 +35008,7 @@ tezevtax.xyz
 tezhelandimkro.top
 teztakmysle.ddns.net
 tfama.duckdns.org
+tfb75yh777mc9yg8q53xk9.org
 tfcueler.xyz
 tfgsxc.com
 tfknobv.com
@@ -35477,6 +35504,7 @@ tmppaparazi.dynu.net
 tmpybh.com
 tmqywleu.com
 tmrdjfkp.com
+tms.szbboys.co
 tmsq.tzcdq.cn
 tnagofsg.com
 tnevuluw.biz
@@ -39056,6 +39084,7 @@ wkpxbved.com
 wkqtmmaugnbbgpsk.com
 wktransportservices.top
 wkuvferb.com
+wkw6z75qs25gdnzaq19nwa.org
 wl.google-587262.com
 wlaexfpxrs.org
 wlan-optimizer.com
@@ -39408,6 +39437,7 @@ ww17.anpmnmxo.biz
 ww17.uhxqin.biz
 ww25.anpmnmxo.biz
 ww25.uhxqin.biz
+ww38.k3rdxp0igzguybu6ua1.com
 ww7.przvgke.biz
 wwba23.ddns.net
 wwerenbvb.store
