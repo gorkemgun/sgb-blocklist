@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108567
-# Last change: 2026-11-03 17:52:49 UTC (sync mode: delta)
+# Records: 108611
+# Last change: 2026-11-03 23:27:52 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -50,6 +50,7 @@
 01avs2o.cn
 01he1mp.ldahtkg.cn
 01na6a419a.net
+01rl.link
 01tbbmmcc.ga
 01tbbmmcc.ga.06tbbmmcc.ga
 020201337.sbs
@@ -2328,6 +2329,7 @@
 491464798648774.duckdns.org
 493f164e.ytji7uew.com.cn
 49494oop49x92.duckdns.org
+49864516513.duckdns.org
 498caeerio.com
 498d4290.jdhuwoskz.cloud
 49a78cfb.ieybfs7j447b.org.cn
@@ -2906,6 +2908,7 @@
 783521-coinbase.com
 7851254545411.sbs
 7851664.site
+78545215242.duckdns.org
 78566452.net
 7865541845186.duckdns.org
 7874651498656844864864.duckdns.org
@@ -11796,6 +11799,7 @@ barbercrisp.top
 barberdemographic.top
 barberfuse.top
 barbour-mont-turkiye.com
+barclaysmenkul.com.tr
 bardetachment.top
 bardistil.top
 bardprox1.cfd
@@ -14880,6 +14884,7 @@ bizdenduy.online
 bizdenduy.site
 bizdenhizlisiyoktur.click
 bizdenolsun.abrdns.com
+bizdensinizkanks.blogspot.com
 bizdoux.com
 bize-bu-zamani-birakirsa-cok-guzel-gecer.com
 bize-bu-zamani-birakirsa-gorunen-guzel-gecer.com
@@ -14898,6 +14903,7 @@ bizgunleregelmedikacele.com
 bizherzamanaktifizkral.com
 bizi-reklamdanindirebilecekgucyok.art
 bizi101kurtaracak.cloud
+bizibosver.com
 bizibosver.net
 bizim-ecz.club
 bizim-ecz.life
@@ -14927,6 +14933,8 @@ bizimlesingvendesin.click
 bizimlevardingeel.app
 bizimleyardimlar.shop
 bizimleykle1999.click
+bizimleysenar.lol
+bizimleysenasdas.blogspot.com
 bizimmenkuldegerler.com
 bizimrnlerimizszdir.shop
 bizimtech.online
@@ -27284,7 +27292,9 @@ dfmonster.duckdns.org
 dfranco.eng.br
 dfro33zenliar.top
 dfsdvtt-dvvvtl.com
+dfsfdsfsfs.shop
 dfsfsd.shop
+dfsjnfnjsdfkjsk.shop
 dfskjgfdasasja.net
 dfsolucoesinfo.com
 dfsrtd.help
@@ -29353,6 +29363,7 @@ dsfbhtusdrtbr.sbs
 dsfcslfcksllkslcdadcas.sbs
 dsfdg.sbs
 dsfdsfdsfkkke.com
+dsfdsfsfs.shop
 dsffgvccxv.com
 dsfggfdfdgfdg.duckdns.org
 dsfjsjfsfs.com
@@ -29625,6 +29636,7 @@ dxuhsn.buzz
 dxzepf.click
 dybkatilim.com
 dybportfoy.com
+dybsubem.com
 dydkgasgisa.com
 dyeescalation.top
 dyeextravagant.top
@@ -30209,6 +30221,7 @@ e-web-portal.online
 e-webportal.online
 e-xt.top
 e-yardim.net
+e-yatirimci.com
 e-yaygin.org
 e-yazmaodeme.net
 e-yilsonu-ebireysel-iozelkampanya-online.ml
@@ -30263,6 +30276,7 @@ e29120.com
 e2lshs9wv2kk8l46h.theworkpc.com
 e2mz7.shop
 e5308d77.ieybfs7j447b.org.cn
+e5v2e66hle4e4shs.eth64.de
 e60layanlatuvturktakilma.net
 e71cc0af.dj-hd5kfu.shop
 e74678f4-f.b-cdn.net
@@ -35254,6 +35268,7 @@ feelridge.top
 feelyearn.top
 feelyourpain.co
 feepropagation.top
+feints.cfd
 fekolakki.co
 felbranthor.shop
 felfecirdom.co
@@ -35389,6 +35404,7 @@ fftsxxx.top
 fftyot.click
 ffxly7r.xdk8ax.cn
 fgbewrbtwerntwerbq.click
+fgbvcdf676.shop
 fgdfgfdf3fgfg.top
 fgdodgs.co
 fgfdgfdg151fg.top
@@ -37887,6 +37903,7 @@ ganadineroextra.site
 ganardinerohrbkg.shop
 ganardineroksdjd.shop
 gandalf.world
+gandonmartinez.duckdns.org
 gangava.com
 gangbangkada.sa.com
 gangcatholic.top
@@ -38676,6 +38693,7 @@ gecodememerkezi.info
 gecshgsislm.cfd
 gecsmevguven.net
 gecsodeme.com
+gecssssyukkdmsyaparzz.art
 gecszhzll.org
 gectibahargulo.shop
 gecyniylotovsss.xyz
@@ -40066,6 +40084,8 @@ gnvbfhnbs.shop
 gnvbfjdns.shop
 gnvhfjncd.shop
 gnvkmslms.shop
+gnvmfjm3434.shop
+gnvmgjk8492.click
 gnzbvvxbsvur.dynv6.net
 go-procoinwhu.top
 go.0010v.lol
@@ -42448,6 +42468,7 @@ haberler17723.sbs
 haberler18932.sbs
 haberler2025.tk
 haberler212213.sbs
+haberler214341.sbs
 haberler2153212.com
 haberler2223399.sbs
 haberler223522.sbs
@@ -42650,6 +42671,7 @@ hadialalhadial.xyz
 hadiaslansdwe.net
 hadidebuhafta.site
 hadidmaosuz.com
+hadidmsimd.cfd
 hadifirsatlarsizinle.com.tr
 hadigelburaya.com.tr
 hadigelinmrz.com.tr
@@ -44731,6 +44753,7 @@ hgjfgdkhghdf.org
 hgjghgsagfj.org
 hgjhizliyuklejhs.net
 hgjhjgjgh.net
+hgjmkb3434.shop
 hgjnbjgnvf.net
 hgjnertnwernwer.sbs
 hgjsakhgsd.org
@@ -45665,6 +45688,7 @@ hizligeciskontrol.lol
 hizligecislerotomatikodemelerindirimli.net
 hizligecismerkzi.art
 hizligecisotomatik.blogspot.com
+hizligecisrehberi.web.app
 hizligecissistemleri.arabamuayenesi.xyz
 hizligecisyuklemeciniz.firebaseapp.com
 hizligecisyuklemeim.web.app
@@ -53557,6 +53581,7 @@ kampanyafirsatinikacirmaxx.alamanspor01.com
 kampanyafirsatlaribance.tech
 kampanyafirsatlarinn.duckdns.org
 kampanyafirslady2024.xyz
+kampanyafirstlair.sbs
 kampanyagaranti.online
 kampanyagnu.dnsup.net
 kampanyagunlerimizdevamediyor.shop
@@ -58338,6 +58363,7 @@ llogon-webs-ledgr.webflow.io
 lloydsbank-homesa.info
 llpttllavmllkilometrell.click
 llrpr.cn
+lls6vre6e6desls3ee28shs9ehhhh.tcp64.de
 llstaannblllkkrttyklkle.org
 llunatik.com
 llzmrgxvenliykle.net
@@ -60848,6 +60874,7 @@ marti.icu
 martibutik.tech
 martin-hotelprague.com
 martindirimleriilegeldia1o1.online
+martinguston.duckdns.org
 martinhotel-prague.com
 martiniguston.giize.com
 martkampanysi.cfd
@@ -73433,6 +73460,7 @@ pmtance.com
 pmyetherwallet.com
 pn277dp.cn
 pnd5.xyz
+pndklercedacd.giize.com
 pndm-tr-dstk-subt.kardesleryikama.xyz
 pneu-sojka.cz
 png300.com
@@ -74931,6 +74959,7 @@ prompt-coinbase.com
 promptin.webflow.io
 promptyeye.host
 promsn-hmn-hemn-tkla-kazn-snde-ktl.site
+promsynbasvrusayfasi.click
 promsyngunlerndyzbiz.sbs
 promsyon-alma-platforumu-hemns-al.site
 promsyongunleriagstos.giize.com
@@ -80365,6 +80394,7 @@ saglkgnlerderndvalnyrz.click
 saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
 saglkicndnvualn.cfd
+saglklirhberle.cfd
 saglklmhrndy.cfd
 saglkrnd.cfd
 sagotravel.com.tr
@@ -81778,6 +81808,7 @@ sanaozel.sahibindenget.org
 sanaozelhediyekampanyasibasvurusu.online
 sanaozelkampanya.click
 sanaozelmigros.com
+sanaozlindirimsadc101.com
 sanapazarp-ttavm.com
 sanasiparilerindensok.cloud
 sanativeoasis.com
@@ -82638,6 +82669,7 @@ securee-sahhibinden-com.cf
 securee-sahibindengetss.com
 securee-sahibindengetts.com
 secureeradication.top
+securefileoffice365pdf.pages.dev
 secureg1sahibindenparamguvende.com
 secureg2sahibindenparamguvende.com
 secureg3sahibindenparamguvende.com
@@ -83402,6 +83434,7 @@ ser2kke.monster
 ser3.sbs
 serahanem.com
 seralkurumlari.org
+seras.s.gy
 seravalin.xyz
 seravix.cyou
 sercanbutik.fun
@@ -86507,6 +86540,7 @@ sonnfrstlarrkmpnyaabasvrrr103421.online
 sonniiadegunleri.com
 sonnkazzandiraanfirsatlarrr.com.tr
 sonnktadabrayaynlrsnzs.monster
+sonnnfrstlar3912381.pro
 sonnnfrstlarrrkmpnyaaabasvr741258.click
 sonnnfrstlarrrkmpnyaaabasvr741258.online
 sonnnfrstlarrrkmpnyaakredii.pro
@@ -87702,6 +87736,7 @@ ssamoaltunexoo.com
 ssbank.co
 ssdp3252spsh322.com
 ssdpanel.duckdns.org
+sse6v2ehr56leeshlel3hsl58h93h68sd288e.home64.de
 ssecurefilessharedfolders-rudebenediktkernduca.com
 sseplt-adrer-asp.icu
 ssetialjunction.top
@@ -87728,6 +87763,7 @@ ssl-8-8-8-8-goo-gl.com
 ssl-8-8-9-8-goo-gl.com
 ssl1-onmicrosoft365-sslshell.com
 ssl3d.com
+sslhe46326s3ll5h.udp64.de
 sslkeycert.com
 sslkfkmckzmtkrmdkfmckmzmz.store
 ssllemrnzzsrgc.xyz
@@ -90844,8 +90880,10 @@ tarimkoop.com
 tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
 tarimkooperatifmarkette.cfd
+tarimkoperatfmarketonlinee.blogspot.com
 tarimkoperatifsepeti.online
 tarimkopmarketonlinee.blogdns.com
+tarimkopmarketonlineee.blogdns.com
 tarimkredikoop.vercel.app
 tarimkredikooperatifmarket.sondonemkmpnyalari.com
 tarimkredimagazam.cfd
@@ -91388,6 +91426,7 @@ teb-f-i-r-s-a-t-l-a-r-i.my-homeip.de
 teb-guncel-cekilis2022.net
 teb-ilekazananlar.com
 teb-mobil.internet-subesi.site
+teb-mobile.my-homeip.de
 teb-online-banka-kura.my-homeip.com
 teb-online-mobil-emekli.my-homeip.net
 teb-son-basvurutr.com
@@ -91780,6 +91819,7 @@ teknolojininadresinde.com
 teknolojininileriyeniliklerrehberi.xyz
 teknolojionayhizmet.online
 teknolojiveegitimv.online
+teknomarket35.com
 teknos-sa.tr
 teknos-tr.com
 teknosa-club-girsini.com
@@ -95250,6 +95290,7 @@ trendyolj.com
 trendyolk.com
 trendyolkampanya.ga
 trendyolkupon.com
+trendyolkv.com
 trendyoll.info
 trendyoll.my
 trendyoll.org
@@ -98977,6 +99018,8 @@ vacsystempolicy.com
 vacuhub.com
 vacuumperplex.top
 vadeliopsiyon.com
+vadimarketim.com
+vadinetwork.com
 vadipan3l.rf.gd
 vadipanel.online
 vaenga-kassa.com
@@ -107047,6 +107090,7 @@ yildizkurye.org
 yildizlaradogrubakiye.lat
 yildizlararasihikayelerveuzaygemileri.xyz
 yildizlardabuhafta1001.com
+yildizlarsscd.cfd
 yildizlarveteknolojikmedeniyetler.xyz
 yildizlibahceligunler.chickenkiller.com
 yildora-venkupali.lol

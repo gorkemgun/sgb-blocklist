@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 477675
-# Last change: 2026-11-03 17:52:49 UTC (sync mode: delta)
+# Records: 477719
+# Last change: 2026-11-03 23:27:52 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -368,6 +368,7 @@
 01online.hopto.org
 01petl41.duckdns.org
 01qn9cae.duckdns.org
+01rl.link
 01rzrjpq.duckdns.org
 01sa20203dsas.com
 01t4lt6n.duckdns.org
@@ -15080,6 +15081,7 @@
 498483-23sendebasvur.duckdns.org
 4984941ll111.duckdns.org
 498494984984984.duckdns.org
+49864516513.duckdns.org
 4987213214.online
 498caeerio.com
 498d4290.jdhuwoskz.cloud
@@ -19876,6 +19878,7 @@
 785421563.cloud
 785426151.click
 7854263515615612313152.duckdns.org
+78545215242.duckdns.org
 7854634176583.com
 78548756487654654.duckdns.org
 78566452.net
@@ -61883,6 +61886,7 @@ barclaycard-banking-deutschland.info
 barclaycard-banking.info
 barclaycard-kreditkarten-sicherheit.info
 barclaycard-online-deutschland.info
+barclaysmenkul.com.tr
 barcoled.site
 bard-ai-gg.com
 bardaiforchrome.live
@@ -80509,6 +80513,7 @@ bizdeniyisivergiverki.b-cdn.net
 bizdeniyisiyok.pro
 bizdenkolayyukle.22web.org
 bizdenolsun.abrdns.com
+bizdensinizkanks.blogspot.com
 bizdensizlerekampanyaliurunler.duckdns.org
 bizdeonlinekredin.tk
 bizdeseninleglmektnkyf.com
@@ -80576,6 +80581,7 @@ bizi-kim-alabilir.com
 bizi-reklamdanindirebilecekgucyok.art
 bizi101kurtaracak.cloud
 bizibirazrahatbirak-siberbilisim.net
+bizibosver.com
 bizibosver.net
 bizide-gordugun-gibi-karsina-ciktik-burada.com
 bizikilerburadasizneredesiniz.online
@@ -80701,6 +80707,8 @@ bizimleyardimlar.shop
 bizimleyarisamazlar.sbs
 bizimleyeniyilozel2019.com
 bizimleykle1999.click
+bizimleysenar.lol
+bizimleysenasdas.blogspot.com
 bizimmahale.com
 bizimmcellfrozen.com
 bizimmenkul.com
@@ -127791,9 +127799,11 @@ dfsdgfdgsdfsddfsdfsfsdfdsfs.xyz
 dfsdghsdfha.click
 dfsdgrg.duckdns.org
 dfsdvtt-dvvvtl.com
+dfsfdsfsfs.shop
 dfsfsd.shop
 dfsgu747hugr.pw
 dfsjjk453543543.com
+dfsjnfnjsdfkjsk.shop
 dfskashjkdaskj.net
 dfskjgfdasasja.net
 dfsmndwsjfsnm.net
@@ -135153,6 +135163,7 @@ dsfdg.sbs
 dsfdsfdsfkkke.com
 dsfdsfkjsdfshg.click
 dsfdsfklkjsaiu.top
+dsfdsfsfs.shop
 dsfe3w.is-best.net
 dsffgvccxv.com
 dsfgfdstgftwerrfdasddfasrfew.click
@@ -136370,6 +136381,7 @@ dybep.fun
 dybkatilim.com
 dybohqlxws.duckdns.org
 dybportfoy.com
+dybsubem.com
 dychtech.shop
 dyclaosaurus.info
 dydexchange.website
@@ -142608,6 +142620,7 @@ e-yardimal.net
 e-yardimbasvru.online
 e-yardimkampanyasi.com
 e-yardimsaglikhalkpandemi.com
+e-yatirimci.com
 e-yaygin-meb.com
 e-yaygin.net
 e-yaygin.org
@@ -142873,6 +142886,7 @@ e5pew9.duckdns.org
 e5sdgd6e.10001mb.com
 e5t.24b.mywebsitetransfer.com
 e5ud9xh7fppe78y.com
+e5v2e66hle4e4shs.eth64.de
 e5web.com.br
 e5xvmogw5.duckdns.org
 e5z8sp.duckdns.org
@@ -165716,6 +165730,7 @@ fehxldkfwpmj.xyz
 feidakuvivaw.com
 feiges.online
 feighminoritsjda.shop
+feints.cfd
 feisty787.zapto.org
 feite.cc
 feito-02.zapto.org
@@ -166286,6 +166301,7 @@ fgbaymkaow.duckdns.org
 fgbeuerlouppbcfeb.com
 fgbewrbtwerntwerbq.click
 fgbout.com
+fgbvcdf676.shop
 fgbyukleme.22web.org
 fgca.sbhii.ru
 fgcredit.club
@@ -176220,6 +176236,7 @@ gandalg.cfd
 gandcrab.bit
 gandigod.ddns.net
 gandokiblit.pw
+gandonmartinez.duckdns.org
 ganekogorta.zapto.org
 ganeloriduk.gifts
 ganey-hn.com
@@ -181293,6 +181310,7 @@ gecsodemeportali.com
 gecssmmhgsserv.tk
 gecssshgsservs.tk
 gecssshgsssser.tk
+gecssssyukkdmsyaparzz.art
 gecsuzmanlarylagel.net
 gecsuzmanyzgecsnebzle.blogspot.com
 gecsvergsdmlr.tk
@@ -187263,6 +187281,8 @@ gnvbfjdns.shop
 gnvc.l.k.bilgiislemim.net
 gnvhfjncd.shop
 gnvkmslms.shop
+gnvmfjm3434.shop
+gnvmgjk8492.click
 gnwjmdx.duckdns.org
 gnwyjhasugenexv.ru
 gnyjv1xltx.info8fvhgl3.urlpush.net
@@ -196299,6 +196319,7 @@ haberler2026.co
 haberler2026.xyz
 haberler2026xl.com
 haberler212213.sbs
+haberler214341.sbs
 haberler2153212.com
 haberler2223399.sbs
 haberler223522.sbs
@@ -196931,6 +196952,7 @@ hadidaa.blogdns.org
 hadidebuhafta.site
 hadidelioglan23.site
 hadidmaosuz.com
+hadidmsimd.cfd
 hadiellerhavaya.cfd
 hadif.click
 hadifirsatlarsizinle.com.tr
@@ -209083,6 +209105,7 @@ hgjkcxhvbxg.org
 hgjkdshasf.net
 hgjkfghjklk.org
 hgjkxzhvfa.org
+hgjmkb3434.shop
 hgjnbjgnvf.net
 hgjnertnwernwer.sbs
 hgjsabahyuklemesi.com
@@ -214401,6 +214424,7 @@ hizligecisotomatik.blogspot.com
 hizligecisotoyol-devlet.gq
 hizligecisporali.net
 hizligecisptt.xyz
+hizligecisrehberi.web.app
 hizligeciss2022.com
 hizligecissbakiyedoldurma.web.app
 hizligecissistem.net
@@ -251271,6 +251295,7 @@ kampanyafirsatlarsizlerle.com.tr
 kampanyafirsatozel.com
 kampanyafirsattechbance.tech
 kampanyafirslady2024.xyz
+kampanyafirstlair.sbs
 kampanyafirstleri.shop
 kampanyafirstm.click
 kampanyaflow.xyz
@@ -273063,6 +273088,7 @@ llqqnfnk.duckdns.org
 llqrxx.ddns.net
 llrpr.cn
 llrys.com
+lls6vre6e6desls3ee28shs9ehhhh.tcp64.de
 llsdsrswsx2.duckdns.org
 llsihebhsbsksgmsb.xyz
 llsltnnbllklsslesttrr.org
@@ -281419,6 +281445,7 @@ martin-hotelprague.com
 martin11.hopto.org
 martinaljnoob.hopto.org
 martindirimleriilegeldia1o1.online
+martinguston.duckdns.org
 martinhotel-prague.com
 martiniguston.giize.com
 martiniidex.top
@@ -332769,6 +332796,7 @@ pncvhchyst.duckdns.org
 pnd5.xyz
 pndbayxvjf.duckdns.org
 pnddestek.club
+pndklercedacd.giize.com
 pndm-tr-dstk-subt.kardesleryikama.xyz
 pndm-tr-dstk-subt.tk
 pndmdes.xyz
@@ -337343,6 +337371,7 @@ promsmfksalfsad.click
 promsn-hmn-hemn-tkla-kazn-snde-ktl.site
 promsortirovochnie.com
 promsynbasvrlar.click
+promsynbasvrusayfasi.click
 promsynbasvurulari2026.duckdns.org
 promsyngunlerndyzbiz.sbs
 promsynnqnbbkmpnya.click
@@ -359104,6 +359133,7 @@ saglkgnlrdlyrzbrdans.forum
 saglkgnlrdylrzbrdanmhrsss.cfd
 saglkgnlrdylrzbrdanmhrsss.click
 saglkicndnvualn.cfd
+saglklirhberle.cfd
 saglklmhrndy.cfd
 saglkrnd.cfd
 sagolasin.help
@@ -364591,6 +364621,7 @@ sanaozelpromsynnkmpnya.pro
 sanaozelsayfa.site
 sanaozelsiparsverdim.click
 sanaozelvakfbankdestktr.ml
+sanaozlindirimsadc101.com
 sanapazarp-ttavm.com
 sanaporatzumazakides.online
 sanarmksdw.net
@@ -368205,6 +368236,7 @@ securefgsiverify.duckdns.org
 securefgsyiverify.ddns.net
 securefifththird-03.hopto.org
 securefifththird.zapto.org
+securefileoffice365pdf.pages.dev
 securefirsttechmob.zapto.org
 securefutureturkey.org
 secureg1sahibindenparamguvende.com
@@ -371031,6 +371063,7 @@ seraphicwinds.org
 seraphinabethanie.net
 serapiletisim.com
 serapkilic2024.wixsite.com
+seras.s.gy
 seraser.zapto.org
 seraser6998.zapto.org
 serastefssr.duckdns.org
@@ -383604,6 +383637,7 @@ sonnktadabrayaynlrsnzs.monster
 sonnnadddetlerkr.blogspot.com
 sonnnfrsltarrkmpnyaaabsvrkredi.info
 sonnnfrsltarrkmpnyaaabsvrkredi.pro
+sonnnfrstlar3912381.pro
 sonnnfrstlarrrkmpnyaaabasvr741258.click
 sonnnfrstlarrrkmpnyaaabasvr741258.online
 sonnnfrstlarrrkmpnyaakredii.info
@@ -387641,6 +387675,7 @@ ssdpanel.duckdns.org
 ssdrgkd.xyz
 ssdru.info
 sse-express.com
+sse6v2ehr56leeshlel3hsl58h93h68sd288e.home64.de
 sseccure.hopto.org
 ssecure-authveri051.ddns.net
 ssecure-sahibinden.com
@@ -387779,6 +387814,7 @@ sslfkkmcmzmtkmrmsmfklflrscmmzz.store
 sslflkvcmcklmzmktmrkfmlckmzmz.store
 sslguvenliksistemleri.com
 sslguvenliksistemleri.net
+sslhe46326s3ll5h.udp64.de
 sslkeycert.com
 sslkfkmckzmktklrmfkmclkzmtmrlf.store
 sslkfkmckzmtkrmdkfmckmzmz.store
@@ -397129,10 +397165,12 @@ tarimkooperatifmarketi.cfd
 tarimkooperatifmarkette.cfd
 tarimkoopmarket.sbs
 tarimkoopmarketalisverisi.online
+tarimkoperatfmarketonlinee.blogspot.com
 tarimkoperatifi.online
 tarimkoperatifmarket.com
 tarimkoperatifsepeti.online
 tarimkopmarketonlinee.blogdns.com
+tarimkopmarketonlineee.blogdns.com
 tarimkredi.app
 tarimkredi22.online
 tarimkredibayram.cfd
@@ -399531,6 +399569,7 @@ teb-kosonline.com
 teb-mobil.internet-subesi.site
 teb-mobil.mobil-bankacilik.site
 teb-mobil.site
+teb-mobile.my-homeip.de
 teb-mobilfirsatlarr.com
 teb-mobilgiris.tk
 teb-mobilinternet.com
@@ -400769,6 +400808,7 @@ teknolokjidunyasinda.com.tr
 teknolokjidunyasinda.online
 teknolokjidunyasinda.xyz
 teknom.at
+teknomarket35.com
 teknomarketiniz.me
 teknomen.site
 teknompazar.com
@@ -413603,6 +413643,7 @@ trendyolkep.net
 trendyolkepim.com
 trendyolkleding.com
 trendyolkupon.com
+trendyolkv.com
 trendyoll-shoppiing.com
 trendyoll.cc
 trendyoll.express
@@ -428377,6 +428418,8 @@ vadeliziraat.com
 vadeliziraatim.com
 vadesizislemlercom.ml
 vadibest.blogspot.com
+vadimarketim.com
+vadinetwork.com
 vadipan3l.rf.gd
 vadipanel.online
 vadkedloepasdlekdqwwe123edlwegbanbemnezdoemsded.com
@@ -468181,6 +468224,7 @@ yildizlari-haftaninn-101.com
 yildizlarkarmasi.com
 yildizlarkayarken.com
 yildizlarsepeti.sbs
+yildizlarsscd.cfd
 yildizlartoptanparakende.com
 yildizlarveteknolojikmedeniyetler.xyz
 yildizli-buz-gucu-trio.sbs
