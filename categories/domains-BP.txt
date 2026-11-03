@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260096
-# Last change: 2026-11-03 01:37:54 UTC (sync mode: full)
+# Records: 260107
+# Last change: 2026-11-03 09:38:43 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -28220,6 +28220,7 @@ arolasifirsatgirisim.com
 aronyk.xyz
 aroootselxckcksldff.com
 arop.loveslife.biz
+arorafabrika.com
 arorafabrika.online
 arorafabrikaonline.com
 aroramotorluaraclar.com
@@ -35791,6 +35792,7 @@ baykar-tr.click
 baykar-tr.com
 baykar-tr.news
 baykar-tr.online
+baykar-tr.sbs
 baykar-yatirim.com
 baykar-yatirim.com.tr
 baykar-yatirim.online
@@ -35800,6 +35802,7 @@ baykar.buzz
 baykar.chat
 baykar.cloud
 baykar.lol
+baykar.online
 baykar.run
 baykar.site
 baykar.top
@@ -43085,6 +43088,7 @@ binance-com.cfd
 binance-com.com
 binance-com.site
 binance-de.net
+binance-destek.com
 binance-dogrulama-merkezi.xyz
 binance-exchange.online
 binance-exchange.world
@@ -43167,6 +43171,7 @@ binance-trglobalcarkcekilis.alwaysdata.net
 binance-trs.com
 binance-trust.net
 binance-trx.net
+binance-turkiye.com
 binance-verifica.com
 binance-verification.com
 binance-verification.live
@@ -159112,6 +159117,7 @@ maliyevatan.com
 maliyevatandas.com
 maliyevatandasportal.org
 maliyevehazinebakanligi.com
+maliyevezneformu.org
 maliyevezneislem.com
 maliyevezneislem.org
 maliyevezneislemler.org
@@ -161610,6 +161616,7 @@ mhrsrandevualhastane.com
 mhrsrandevualhastane.online
 mhrsrandevualma.net
 mhrsrandevualmatr.com
+mhrsrandevualtr.sbs
 mhrsrandevubasvurussuu.online
 mhrsrandevubasvurussuu.site
 mhrsrandevuburada.com
@@ -197186,6 +197193,7 @@ sahibinden-get.ilanservis-odemehizmetin.online
 sahibinden-get.ilanservisnhizmet.com
 sahibinden-get.islem-alisveris-hizmet.com.tr
 sahibinden-get.islem-guvence-hizmet.com.tr
+sahibinden-get.islemlerin-sepet-30.sbs
 sahibinden-get.islemlerinmobil-14.sbs
 sahibinden-get.islemlerinmobil-15.sbs
 sahibinden-get.islemmerkezsleri.com
@@ -198943,6 +198951,7 @@ sahibinden.sepetim-ilanda.com
 sahibinden.sepetim-odeme.com.tr
 sahibinden.sepetim-onayli-127424.com
 sahibinden.sepetim-onayli-127425.com
+sahibinden.sepetim-onayli-147426.com
 sahibinden.sepetim-onayli-197426.com
 sahibinden.sepetim-onayli-227426.com
 sahibinden.sepetim-onayli-24226.com
@@ -202981,6 +202990,7 @@ sepetim-ilanlarim.com
 sepetim-kapimda.com
 sepetim-odeme.com
 sepetim-odemeler.com.tr
+sepetim-onayli-127421.com
 sepetim-onayli-127422.com
 sepetim-onayli-127423.com
 sepetim-onayli-147426.com
@@ -227486,6 +227496,7 @@ turkcellyardim.com
 turkcellyukle.cf
 turkcellyukle.ml
 turkcellyukleme.org
+turkcelpasaj.store
 turkceltlyukle.tk
 turkceltlyuklemem.cf
 turkceltlyuklememerkezi.tk

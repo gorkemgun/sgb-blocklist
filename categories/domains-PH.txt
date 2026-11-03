@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108513
-# Last change: 2026-11-03 01:37:54 UTC (sync mode: full)
+# Records: 108529
+# Last change: 2026-11-03 09:38:43 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9520,12 +9520,14 @@ arxsdmuynesrvlerinex.net
 aryadisticaret.com
 arzssrtwt.com
 arzumbaharindirimi.com.tr
+arzumcaymaknnne.com
 arzumindirimww.duckdns.org
 arzumindrimszznlex.com
 arzummaknneindrm.com
 arzumokka.online
 arzumtblenn.com
 arzzumstw.duckdns.org
+arzzuymmav.blogspot.com
 as-alon-av.myonlineportal.ch
 as-anc-ayt.myonlineportal.ch
 as10.bkns.com.vn
@@ -14932,6 +14934,7 @@ bizizyurdakul.shop
 bizkimiz.site
 bizkimiz808.xyz
 bizlehizlarandevu.org
+bizlehizli.abrdns.com
 bizlehmnfgd.com
 bizler-brudasn-kamp-aldin.store
 bizler-buraya-sevgi-saygi-getirip-kazandirdik.com
@@ -29614,6 +29617,8 @@ dxniz2022avans.xyz
 dxsdzjj.club
 dxuhsn.buzz
 dxzepf.click
+dybkatilim.com
+dybportfoy.com
 dydkgasgisa.com
 dyeescalation.top
 dyeextravagant.top
@@ -41656,6 +41661,7 @@ guvenilir-checker.online
 guveniliralisveris.com.tr
 guvenilirdolap.com
 guveniliremlakim.net
+guvenilirhizmetler.com
 guvenilirilan.com.tr
 guvenilirodeme.com.tr
 guvenilirpanel.sbs
@@ -42676,6 +42682,7 @@ haftalikmagaza.com
 haftalikmarketafisi.com
 haftalikmarketalisverisiniduzenle.cfd
 haftalikurunlerimiz.duckdns.org
+haftalikyildiz1o1.duckdns.org
 haftamasgirfirsatinn.com
 haftaniinkampanyalari.com
 haftanin-a101-yildizlari.com
@@ -47042,6 +47049,7 @@ hurriyept.pro
 hurriyet-haber.top
 hurriyet-tr.today
 hurriyet.carrd.co
+hurriyet.finance
 hurriyet.us
 hurriyet.wiki
 hurriyet24news.com
@@ -49426,6 +49434,7 @@ indirimlitemmuzayii.com.tr
 indirimlitemuzayii.xyz
 indirimmediamarkt.com
 indirimpaketi.com.tr
+indirimpesidne1o1.duckdns.org
 indirimrehberi.sbs
 indirimrush.xyz
 indirimsaati.online
@@ -49438,6 +49447,7 @@ indirimsonfrsttxx.duckdns.org
 indirimsubatortalari.cfd
 indirimtakip.online
 indirimvakti101.online
+indirimyuzbirzs.duckdns.org
 indirism-firssat-kampasnya-haftsasi-tusm-hsafta-boysunca757.aktulefirsatin.net
 indiriumburda-1o1.com.tr
 indirmgunfirsat.shop
@@ -65280,6 +65290,7 @@ navryta.com
 navsadassadsada.net
 navyfling.top
 nawafeztours.com
+nawntawt.blogspot.com
 naxrek.com
 nayrobim.com
 nayrobims.com
@@ -69282,6 +69293,7 @@ onlineotoplus.com
 onlineozel.hovamusic.com
 onlineozel.sbs
 onlineozel.shop
+onlineozel1o1.duckdns.org
 onlineozela1o1.net
 onlineozelfirsat.shop
 onlineozelfirsatlar.com.tr
@@ -70975,6 +70987,7 @@ panel.perlagame.online
 panel.qsewjn.icu
 panel.royaleminecraft.club
 panel.yilmazpanel.xyz
+panelabi.top
 panelaktif.com.tr
 panelbayitrs.com
 panelbest.com
@@ -87824,6 +87837,7 @@ ssrealestates.com
 sss-sahibinden.mtguvende.online
 sss-sahibinden.sdhguvende.online
 sss-sahibinden.slguvende.online
+sss3ls9hll6hh592k348355k24l86h7lhvh256872e539h6wsh3.home64.de
 sssasswsdsddbimmmcceeekmpnya444.org
 sssatw4lehi.sbs
 sssklrkmflrskmcsztmrss.com
@@ -93430,6 +93444,7 @@ toggonkayit.com.tr
 toggonsatis.com.tr
 toggonsatis.site
 toggotomobil.net
+toggrezerv.com
 toggsatisbayii.net
 toggsbasvurular.hopto.org
 toggsiparis.com.tr
@@ -104419,6 +104434,7 @@ www-lo.com
 www-mercedes-benz.com.tr
 www-mercedes-benz.online
 www-merkezbankasi-aidat-iadeleri-gov.gq
+www-mobilcepteteb-com-tr.my-homeip.de
 www-netflix-com.tk
 www-netflix-ramazan-com.tk
 www-niptb-cepte-ayrica.myonlineportal.ch
