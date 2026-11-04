@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260133
-# Last change: 2026-11-04 06:35:13 UTC (sync mode: full)
+# Records: 260155
+# Last change: 2026-11-04 15:29:14 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -7873,6 +7873,7 @@
 48596720123.top
 485e02db-a.b-cdn.net
 485h48393995hb34836g4.icu
+486456841589.sbs
 4864958496556489.net
 487855yilbasizamnalari.com
 487fh73hf8345.blogspot.com
@@ -10773,6 +10774,7 @@
 98674978586.cloud
 986uu3.top
 987125-412554.com
+987458sonfrsltarkmpny.click
 98746159854165.net
 98746518946565.net
 9874651984615123.net
@@ -26211,6 +26213,7 @@ anindaonayda.xyz
 anindaonayfaizsizfirsat.gramasicht.sbs
 anindaonayla.com
 anindaonaylandi.xyz
+anindaonayli.com
 anindaonaylibasvuru.xyz
 anindaonaylibayramkredisi.tk
 anindaonaylidenizbankkredi.tk
@@ -29584,6 +29587,7 @@ avantajnoktasi.xyz
 avantajnoktasi24.sbs
 avantajoo.click
 avantajpazar.com.tr
+avantajrotasi.cyou
 avantajsarayi.xyz
 avantajsenin.click
 avantajsepet-tr.online
@@ -83506,6 +83510,7 @@ egmgovemn.my.id
 egmgovern.shop
 egmgovn.my.id
 egmgovn.web.id
+egmgovrenm.biz.id
 egmgovrenm.web.id
 egmgovtr.org
 egminfaz.com
@@ -108443,6 +108448,7 @@ guvenliodeme-sahibinden-paramguvende-urunsatis-com.tk
 guvenliodeme-sahibinden.com
 guvenliodeme-sahibindenparamguvende-com.tk
 guvenliodeme-shbndn.com
+guvenliodeme-siparis.online
 guvenliodeme-yap.com.tr
 guvenliodeme.cam
 guvenliodeme.gq
@@ -125285,6 +125291,7 @@ hsarmrtrshaa.shop
 hsatne-rnadev.blogspot.com
 hsatneradnv.net
 hsaxghsagdhzmt.net
+hsb.menkulvcuzdanim.com
 hsb.varlikportfolio.com
 hsbank.online
 hsbc-bank.co
@@ -126341,6 +126348,7 @@ hzlmyndsvzen.net
 hzlnsdanismanlk.com.tr
 hzlrhbrismbl.site
 hzlrhbrste.cfd
+hzlsaglkrhbr.cfd
 hzlsgevc.net
 hzlsimelercnzicinamtauz.duckdns.org
 hzlslmernzicinhizli.duckdns.org
@@ -141931,6 +141939,7 @@ k1asdhashdhasdhashdhasd.site
 k1ashdahsdhashdhashdhasd.site
 k1ashdhashdhasdhahsdh.site
 k1bk3k312k21sa.xyz
+k1gugogasdhashdhasdh99.click
 k1hhlci.storage.googleapis.com
 k1lomtrebakmasrglm.com
 k1pindo-a1o1-f1rst.net
@@ -145840,6 +145849,7 @@ kapiyateslimoto.online
 kapkaracuzdan.com
 kapkoltugunumasani.sbs
 kapladim-guzel-gunlerimize.com
+kaplmslcksorgl.web.app
 kaplnaglenler.art
 kaplndakiflrsatlar.xyz
 kapmanya-katilim-trsd.cfd
@@ -151425,6 +151435,7 @@ kmsorgulamagulyan.shop
 kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
 kmsorgulamahizmeti.web.app
+kmsorgulamahizmetlerii.web.app
 kmsorgulamahizmetlerinizburada.online
 kmsorgulamahizmetlerinizz.shop
 kmsorgulamahizmetlerinizzz.online
@@ -158283,6 +158294,7 @@ m9q2x6k4f7b3n8hvat.cfd
 maalesef.cfd
 maasprom.my-homeip.net
 maaspromosyon.my-homeip.de
+maasrehberi.cyou
 maat.f5network.com.br
 mabanque-bnp-paribas.online
 mabanque-bnpparibas-secure.site
@@ -158783,6 +158795,7 @@ maliyebakanligi-iade.com
 maliyebakanligi.com.tr
 maliyebakanligigirisitr.ml
 maliyebakanligiiadebirimi.com
+maliyebilgi.net
 maliyebilgi.org
 maliyebilgitr.org
 maliyeborcu.org
@@ -188579,6 +188592,7 @@ pttavmkmdogrulama.com
 pttavmkmraporlama.com
 pttavmkmsorguladim.web.app
 pttavmkmsorgulama.com
+pttavmkmsorgulamamiz.com
 pttavmkmsorgum.com
 pttavmkolayalisveris.com
 pttavmkralotohgs.org
@@ -198557,6 +198571,7 @@ sahibinden.guvenliasliveris-ode.com
 sahibinden.guvenligetodeme.ru.com
 sahibinden.guvenlihizmet.net
 sahibinden.guvenlimagaza.com.tr
+sahibinden.guvenliodeme-get.online
 sahibinden.guvenliodeme.za.com
 sahibinden.guvenliodemeget.com
 sahibinden.guvenliodemeislemi.cfd
@@ -202887,6 +202902,7 @@ sensizlikss.click
 sensizlikyarimnerdesin.site
 sensiznerdeyim.online
 sensizolmazcanim.buzz
+sensizolmazsensizolmaz.com
 sensizolur.online
 sensizyapamyizki.com
 sensizyasanilmazz.xyz
@@ -204194,6 +204210,7 @@ sgkpromosyonu.site
 sglamhrrndvu.cfd
 sglgln01aldilgln4brdnn.com
 sglkbknlguygulama.club
+sglkrhbr.cfd
 sgn-kali-lekna.myonlineportal.ch
 sgoadpi2.storage.googleapis.com
 sgokgdsds.sbs
@@ -209894,6 +209911,7 @@ sonnkazzandiraanfirsatlarrr.online
 sonnnadddetlerkr.blogspot.com
 sonnnfrsltarrkmpnyaaabsvrkredi.info
 sonnnfrsltarrkmpnyaaabsvrkredi.pro
+sonnnfrstlar3912381.info
 sonnnfrstlarrrkmpnyaakredii.info
 sonnnfrstlrrkmpnyaabsvrrr.art
 sonnnfrstlrrkmpnyaabsvrrr.info
@@ -217140,6 +217158,7 @@ teb-kartaidat.com
 teb-katilim-sube-tr.com
 teb-kosonline.com
 teb-mobil.mobil-bankacilik.site
+teb-mobil.my-homeip.de
 teb-mobil.site
 teb-mobilfirsatlarr.com
 teb-mobilgiris.tk
@@ -221553,6 +221572,7 @@ tpedia101.online
 tpetrolholding.co
 tpgkmisi.dev
 tpic.seoajansi.net
+tpk-rndv-tkkg.online
 tplmsl-r-g-l.myonlineportal.ch
 tplskerjsc.space
 tpmtom.web.app
@@ -222860,6 +222880,7 @@ tr-siparis-islem.online
 tr-siparis-secure.online
 tr-siparis-sepete-ekle.mooo.com
 tr-siparis.com.tr
+tr-siparisgets.online
 tr-siparisim.com.tr
 tr-siparisim.net
 tr-sistem-girisler1.space
@@ -240996,6 +241017,7 @@ www-aracrandevumuayene.com
 www-art-cepte-tvb.myonlineportal.ch
 www-as-cepte-tb.myonlineportal.ch
 www-asc-on-tb.myonlineportal.ch
+www-asize-tbde-cpte.myonlineportal.ch
 www-asritb-cepte-ayrica.myonlineportal.ch
 www-avr-cep-web.myonlineportal.ch
 www-ayicalikla-dolu-tbc.myonlineportal.ch

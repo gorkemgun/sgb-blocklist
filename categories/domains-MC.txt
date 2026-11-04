@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41686
-# Last change: 2026-11-03 17:52:49 UTC (sync mode: delta)
+# Records: 41746
+# Last change: 2026-11-04 15:29:14 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -112,6 +112,9 @@
 0zynj.ddns.net
 1-cloudon.com
 1-j9.top
+1.482319.xyz
+1.517413.xyz
+1.604446.xyz
 1.asvufw.workers.dev
 1.indexsinas.me
 1.lusyn.xyz
@@ -363,10 +366,13 @@
 1765000000.xyz
 176821.com
 1770000000.xyz
+178.landexuan.site
 1783804155.dfgqdsd.ru
 17c45148.top
 17kp.xyz
 18-22-59.com
+18.hhpp666.xyz
+18.ushop168.cc
 180.ip.ply.gg
 1818269521.corolain.ru
 1826x.eauth0.com
@@ -953,6 +959,7 @@
 3y.nu
 3yfr6hh9dd3.com
 3z.nu
+3z4.xyz
 3zer0.com
 4-u.wtf
 4.ddns.me
@@ -1073,6 +1080,7 @@
 4wpr2jn8.top
 4yw2twoy438df9qt.online
 5-135-125-106.cinfuserver.com
+5.zalandoweb.com
 500228.writesthisblog.com
 500ed27c.top
 504e1a42.host.njalla.net
@@ -1562,6 +1570,7 @@
 8n49w.audecmo2x1.com
 8nn7efnd2.ddns.net
 8r.ae
+8r03l.com
 8r1ngth33nd.ddns.net
 8rdel54x.ru
 8s4y4.antasias04.com
@@ -1615,6 +1624,7 @@
 9533ed87ebd0fba31eaaa240ee6365a4.net
 954837281.dfgqdsd.ru
 95623.maison
+96.ip-51-91-100.eu
 961115694.xyz
 9650232.dfgqdsd.ru
 96599aac.0.0.iy4uenbtinbdcmrsizbtirjtgu4dinrygezummbvim2tiojsg5asanzxfy3dolr.sgqyc4mrqg4qacaage7dw3zulzi4uewkg25t7i2eiua4ck2pecl5b4omuigurhq.7cyqr2jupqvp6drot3tc2kkzyv2hfu7inp2ine2j3hk4ebwfrdirznpyzljhlfe.j2oy67pjbhv6ezvu22nsgptk.xghumgiejcbgoch.ru
@@ -1805,6 +1815,7 @@ a.googie.pw
 a.jrmfeeder.org
 a.makemark.xyzindex.ph
 a.ssvs.space
+a01.ai-poolion.cc
 a01mt584zk32sw1.ml
 a0545001.xsph.ru
 a0545193.xsph.ru
@@ -2312,8 +2323,10 @@ admi2fib4exit.com
 admicrosoft.com
 admin-desk.in
 admin.benefitsnotebook.com
+admin.catcoinglobal.top
 admin.chunhuating.best
 admin.fjbjwgyuyftg.qpon
+admin.hbwney.com
 admin.niaotong2.top
 admin.rathat.live
 admin.xiongmaocs.help
@@ -2525,6 +2538,7 @@ aex.circledexj.cyou
 aextg.us.to
 aezrpsvx.com
 af-gov.ml
+af.sdfg54dsf8gdfg.com
 af124i1agga.anondns.net
 af4760df2c08896a9638e26e7dd20aae.com
 afacanaxtaks23.site
@@ -2652,6 +2666,7 @@ agenimenidoscenices.site
 ageninagenigiseseges.site
 ageninsenindebaslasan.site
 ageniyesenyapiyonis.site
+agent.catcoinglobal.top
 agent.my-homeip.net
 agent4career.com
 agerax1.ddns.net
@@ -5439,6 +5454,7 @@ beletheric.vielitord.ru
 beliale232634.at
 belialq449663.at
 belialw869367.at
+beliefdesk.xyz
 beliefdress.xyz
 believe43676.xyz
 belkafruitcymus.com
@@ -6274,6 +6290,7 @@ bookingitnow.org
 bookingservice.center
 bookitlab.tech
 bookmarkfc.info
+bookpan.net
 bookpoint.us
 bookreadinginfo.blogspot.com
 bookreservphoto.pro
@@ -6623,6 +6640,7 @@ bshaujmfljccsre.cn
 bsibplhvuk.dynamix11.com
 bsifinancial019.ssllst.cloud
 bsnowcommunications.com
+bsoozasyoudao.top
 bsplvyk.com
 bsrfehi.com
 bsrpppjamui.duckdns.org
@@ -6919,6 +6937,7 @@ c053b3f4bf47.com
 c0d3.ddns.net
 c0d7653223d4.com
 c0dbq5vcj9o3e.info
+c1.8r03l.com
 c1.checkblanco.xyz
 c10152.xyz
 c12306.top
@@ -6932,7 +6951,9 @@ c1v9j2pahfi8w1f.biz
 c1v9l8s6yei8w1f.info
 c2-51-20-36-117.eu-north-1.compute.amazonaws.com
 c2.installscenter.com
+c2.ios.catcoinglobal.top
 c2.saintpetersburgresident.ru
+c2.shopreviewt.top
 c2.tralalarkefe.com
 c233o.mylogin365.com
 c23nu.uqauv.cn
@@ -7437,6 +7458,7 @@ cdn.erpsaz.com
 cdn.finance1num.com
 cdn.g8z.net
 cdn.glitch.global
+cdn.gotoiphone.com
 cdn.iconstaff.top
 cdn.inspectdlet.net
 cdn.jguery.org
@@ -7697,6 +7719,14 @@ cgg57n.lqonx.ru
 cgjpblrkecdjhqy.ru
 cgtp.lol
 cgvod.com
+cgwin.bet
+cgwin.game
+cgwin.io
+cgwin06.com
+cgwin7.vip
+cgwinclub.com
+cgwinplay.com
+cgwinvip.com
 cgxu.urzqst.ru
 ch1now1ll4ms.xyz
 ch214154-a45.click
@@ -8097,6 +8127,7 @@ cizgianimasanatkonusmasi.xyz
 cizgianimasanatyaraticilik.xyz
 cizgidunyasindakiyabanci.xyz
 cizgifilmtutkunlarianim.xyz
+cj.catcoinglobal.top
 cj06y9v4xab.com
 cj4jx1.ew2ff.com
 cjby76nlcynrc4jvrb.com
@@ -8615,6 +8646,7 @@ comonratto.ddns.net
 comoxxossq.asia
 companionclever103.weebly.com
 companydeck.online
+companyharbor.xyz
 companyofdead.ddns.net
 comparistakres.ga
 compass1st.com
@@ -9765,6 +9797,8 @@ darknode88.duckdns.org
 darkpc.zapto.org
 darkrbx.duckdns.org
 darkslategray-baboon-853641.hostingersite.com
+darksword.bitbrowserpro.com
+darksword.botiq.site
 darkvader.xyz
 darkwebkiler.duckdns.org
 darkweed.ddns.net
@@ -10177,6 +10211,7 @@ derick43.com
 derimallahindanbulla.com
 derko-meru.online
 derlikbirfirsatlarimiz.com
+dermatologie-klinik.st2.al
 dermocuidado.com
 derotin.com
 dersdenfersecan.site
@@ -11332,6 +11367,7 @@ drysetfirst.com
 dryvecar.com
 drzjpnod-97b.workers.dev
 ds-aksb-a.likescandy.com
+ds.hxdgcx.online
 ds.vdcvn.com
 ds.xrayccc.top
 ds12.ng
@@ -11383,6 +11419,7 @@ dstv.xsgo.cc
 dsvchost.com
 dsvsxgfrdghjchtf98472.digital
 dsw.jffdd.icu
+dsw.webtest.eu.cc
 dt1.automotosport.net
 dtauaahnuqpuwad.ru
 dtbkvm.com
@@ -18259,6 +18296,7 @@ injectiondevrikapandi.tk
 injunjoe22.duckdns.org
 injuryless.com
 ink659.xyz
+inkact.xyz
 inkja7hekgcuv.life
 inkseed.info
 inlinedigital.pics
@@ -18478,6 +18516,12 @@ ionoslaba.com
 iontiltyro.baroxylkin.ru
 iopfrmffsfomyxk.cn
 iorestore.com
+ios.vdvd2026.com
+ios26.crowdsec.site
+ios33.crowdsec.site
+ios99.crowdsec.site
+iosadmin.wanyebao.cn
+ioscx.wanyebao.cn
 iosfc.com
 iota.rherbahes.com
 iotlmao.xyz
@@ -20398,6 +20442,7 @@ klub046.co
 klub11n.us
 klushchko.icu
 klvfbgays.com
+km.8r03l.com
 km87l2nqldk.life
 kmanco.hopto.org
 kmbjjpqnbgxjfmh.ru
@@ -22101,6 +22146,7 @@ m-l1g.net
 m-society.dpis.go.th
 m-uhde.de
 m.bingforce.org
+m.catcoinglobal.top
 m.flirting19.com
 m.hiyo19tv.com
 m.homelove19.com
@@ -24012,6 +24058,7 @@ moldovain.fit
 molfiqxodneqsui.page.link
 molindalses.digital
 molliebrowning234.xyz
+mollquest.top
 molpex.ml
 mombaontop.ddns.net
 moment215gathersupport.live
@@ -30735,6 +30782,7 @@ rqhuihutgt.duckdns.org
 rqijxce.com
 rqohjx.com
 rqucubkhyqtyljl.ru
+rr.hbwney.com
 rrapqrewph.org
 rrassasaasdas11.com
 rrc8o6yrg3kle.cdhmxg.com
@@ -32139,6 +32187,7 @@ sevorojdiminhani.top
 sevoz.com
 sex-1.teencoin.com
 sex-2.teencoin.com
+sex.dwelling.eu.cc
 sex.secure-cyber-security-rebirthltd.su
 sex123.ddns.net
 sexak.ru
@@ -32518,6 +32567,7 @@ signal-premium-app.org
 signal-signal.com
 signalbase-app845.vercel.app
 signalbase-ext369.vercel.app
+signalpane.cfd
 signature235.xyz
 signer.bulbcentral.com
 significancedig.com
@@ -34060,6 +34110,7 @@ sunspasstollsservices.com
 sunucu1admob.xyz
 sunwindz.in.net
 sup001.oss-cn-hongkong.aliyuncs.com
+supachok.thelazycat.dpdns.org
 supajmku.ddns.net
 supan.com
 supaposta.tech
@@ -34947,6 +34998,7 @@ test-sale.linedata.sbs
 test.asvufw.workers.dev
 test.brosecure360.com
 test.clayrat.top
+test.ipqqq.com
 test.mcafee-upgrade.com
 test.softlemon.net
 test1997.ddns.net
@@ -36078,6 +36130,7 @@ tstartel.org
 tstsv.xyz
 tsvwsbkffpbbrnr.su
 tswacfbayvwytoj.cn
+tt.8s.lv
 ttansy.ddns.net
 ttareyice.jkub.com
 ttasbsj002.ddns.net
@@ -37278,6 +37331,7 @@ v.verifyartical.com
 v0rzpbu.com
 v0tingsystem.github.io
 v1.fym5gserobhh.pw
+v1.io92jujjs33.com
 v13cracker.ddns.net
 v17001.com
 v1nd13s3l444.xyz
@@ -38340,6 +38394,7 @@ waijaihome.com
 waiouseect.xyz
 waist578.xyz
 wait2r3.xyz
+waiwai.icu
 wakelet.ink
 waktuwin.org
 wakuy.app
@@ -39034,6 +39089,7 @@ wirtualcleens.com
 wiry.feelingshapetrack.cc
 wisdomlawacademy.com
 wise3256.xyz
+wishgrove.cfd
 wishnwish.com
 wishwoodenfish.com
 wislyytest.ddns.net
@@ -40279,6 +40335,7 @@ xrsohmmuuuxxagk.su
 xrt4tr.com
 xrwiukihpcnlerp.ru
 xrxgqf.website
+xsadcasyiwaiwai.top
 xsarb.cf
 xsasda12azin.net
 xsaxsa131221da.net
@@ -40744,6 +40801,7 @@ yho234yhrtb43ac.com
 yhqqc.biz
 yhwkeb.com
 yi7qlaice.cf
+yibncwaixwewai.top
 yicivxogwclvbbip.com
 yidckocgwctpprjv.com
 yidyuqthqvbugkh.su
@@ -40771,6 +40829,7 @@ yiseok.com
 yiufvg.com
 yiuvpvejffalbcc.ru
 yixlbeypalmaojpsp.org
+yixue.linqingkeji.com
 yixun.com
 yjamfzw.com
 yjatk.com
@@ -41366,6 +41425,7 @@ zhabtdmy.com
 zhankai168.com
 zhcn63e63.chascerse.ru
 zheniaratnikov.ddns.net
+zhifu.tronide.cc
 zhiwen.wenxinzhineng.top
 zhkrqy.com
 zhongheyouzhi.com
