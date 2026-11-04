@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 477719
-# Last change: 2026-11-03 23:27:52 UTC (sync mode: delta)
+# Records: 477727
+# Last change: 2026-11-04 06:35:13 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -97596,6 +97596,7 @@ carefour-tr.cfd
 carefour.jiahs.xyz
 carefour.sa.com
 carefourcepte.cfd
+carefourgirismobil.cfd
 carefourindirimpay.ct.ws
 carefourlufirlar.shop
 carefourlugunler.shop
@@ -161188,6 +161189,7 @@ evszzeaws231.com
 evtemizlikleri.com
 evtgranitsllemenullerim.com
 evtlwar.com
+evtokibasvuru.com
 evtokxibasvuruhizmetleriniz.jumpingcrab.com
 evtrjknrgn.net
 evu4kbz.duckdns.org
@@ -227004,6 +227006,8 @@ ile-satinalim.com.tr
 ile-satinlar.com
 ile-satisim.com
 ile-sepet-islemler.com.tr
+ile-sepet-islemleri.com.tr
+ile-sepet-islemleri.net
 ile-sepete-islemler.com.tr
 ile-sepetim.com.tr
 ile-sepetiniz.com.tr
@@ -236847,6 +236851,7 @@ ishipt.com
 ishkere.com
 ishktmhv.com
 ishorthand.top
+isht.ink
 ishvvlflldl.web.app
 ishwasher-jobs-678341.today
 isiade-webtr.com
@@ -397217,6 +397222,7 @@ tarmbayilers.net
 tarmbaylerm.net
 tarmenr34da.duckdns.org
 tarmermera.net
+tarmkooparatif-market.blogdns.org
 tarmlkbayi.net
 tarmlkbayim.net
 tarmrrpzr.net
@@ -406465,7 +406471,9 @@ toggonsiparisim.online
 toggotomobil.com
 toggotomobil.net
 toggotoyedek.com
+toggreserve.com
 toggrezerv.com
+toggrezervasyon.com
 toggsatisbayii.net
 toggsbasvurular.hopto.org
 toggsiparis.com
