@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108745
-# Last change: 2026-11-04 21:55:43 UTC (sync mode: delta)
+# Records: 108760
+# Last change: 2026-11-05 02:31:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2440,6 +2440,7 @@
 5115151.duckdns.org
 512118001192.loseyourip.com
 512512351213hizlcsmler-aracm360ptavm.online
+512512351213hizlcsmler-aracm360ptavm.space
 512548712854125841.cloud
 51284673512347.com
 512saqqwr12.icu
@@ -6948,6 +6949,7 @@ aliensharepoint-c0ff5.web.app
 alienstatutory.top
 alienwholesale.top
 aliexpresszs.cyou
+align-jade-inexpensive-textiles.trycloudflare.com
 align-vocal-dui-calculation.trycloudflare.com
 aligncollective.co.za
 alignmentaptly.top
@@ -9538,6 +9540,7 @@ aryadisticaret.com
 arzssrtwt.com
 arzumbaharindirimi.com.tr
 arzumcaymaknnne.com
+arzumhdson.com
 arzumindirimww.duckdns.org
 arzumindrimszznlex.com
 arzummaknneindrm.com
@@ -28956,6 +28959,7 @@ doqoose.com
 dorakurumu.com
 dorcarskiralama.com
 dorduncuetap.vercelcloud.com
+doretyhome.space
 dorhelfas.top
 doribre.pics
 doril.site
@@ -45364,6 +45368,7 @@ hizlakilometrehasar.shop
 hizlandirmaszamanis.cloud
 hizlbnngiristr.com
 hizlbudgetarackiralasana.space
+hizlcayklemesgla-hgc.netlify.app
 hizlcayklemesgla-hge.netlify.app
 hizlgcsdldr.click
 hizlgecisbakieyukleme.web.app
@@ -47167,6 +47172,7 @@ hutionol.info
 huvero.store
 huysuza.net
 huysuznegs.xyz
+huyuhp-2f.myshopify.com
 huzelnakilhzmet.sbs
 huzunmcmsawesd.net
 huzurakademivakfi.org
@@ -47376,6 +47382,7 @@ hzlszsndnsmlk.online
 hzlvrgodeme.fun
 hzlydzmi.net
 hzmbwx.cc
+hzmorganizeislers.click
 hzrn25bayramhediyesi.net
 hzrn26aldnaldndevkmpnya.net
 hzrnayiherzamanyay.online
@@ -50888,6 +50895,7 @@ isbank-kampanyalar-kayit.vercel.app
 isbank-online.buzz
 isbank.buseshowbilgi.click
 isbank.hpyoe.top
+isbank.lovable.app
 isbank.mobilcepte.com.tr
 isbankakredi.com
 isbankasi-etkinlikanketi.anbean.co
@@ -56180,6 +56188,7 @@ kooperatifonline.vercel.app
 kooperatiftenhalka.sbs
 kooperatifweb.sbs
 kooponline.vercel.app
+koparmatifmarket.blogdns.com
 kopasertgois.info
 kopekcik.art
 kopenheimer1.app
@@ -70070,6 +70079,7 @@ osintpanel.xyz
 osixmals.com
 oskeyconnect.com
 oskeysync.com
+oskimana.giize.com
 osksmlgkms.cfd
 oslddjb.buzz
 oslocheck.com.tr
@@ -85384,6 +85394,7 @@ siteciklerolmez.web.tr
 siteciklerolmezmis.cfd
 sitedurumum.com
 siteeitor.top
+sitekullanimi.abrdns.com
 sitemangarlandconsulting.com
 sitemaps.baykar-news.info
 sitemdeal.shop
@@ -86326,6 +86337,7 @@ sokmarketleraktuel.xyz
 sokmarketlerdeindirim.shop
 sokmarketlerfirsatlarim.com
 sokmarketlerhepsi.shop
+sokmarketlerin.com
 sokmarketlervveb.com
 sokmarketlim.online
 sokmarketramazanmenusu.cfd
@@ -90988,6 +91000,7 @@ tarimkooparatif.vercel.app
 tarimkooperatifmarkette.cfd
 tarimkoperatfmarketonlinee.blogspot.com
 tarimkoperatifsepeti.online
+tarimkopmarketonline.blogdns.com
 tarimkopmarketonlinee.blogdns.com
 tarimkopmarketonlineee.blogdns.com
 tarimkredikoop.vercel.app
@@ -91006,6 +91019,7 @@ tarkanli.click
 tarlaaktif.digital
 tarlamagirmek.com
 tarmbaylerm.net
+tarmkopermarket.blogdns.com
 tarmlkbayi.net
 tarmlkbayim.net
 tarmrrpzr.net
@@ -93075,6 +93089,7 @@ ticldx.com
 tidalallergy.top
 tidaldeductible.top
 tideairborne.top
+tidebreak.xyz
 tideirritation.top
 tidor.org
 tidov.net
