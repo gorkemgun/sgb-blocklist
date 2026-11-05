@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260162
-# Last change: 2026-11-05 02:31:18 UTC (sync mode: delta)
+# Records: 260172
+# Last change: 2026-11-05 11:03:37 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -43234,6 +43234,7 @@ binancebesinciyilaozelyuzdeyirmibesgeriveriyor.net
 binancebesinciyilinikutluyorr.net
 binancebesinciyilkampanyalari.net
 binancebesinciyilkutlamariilesendekazann.net
+binancebi.com
 binancebili.top
 binancebnbbep20.com
 binancechain.cloud
@@ -65095,6 +65096,7 @@ denizbankcomtr.tk
 denizbankdahaguvenli.com
 denizbankdandogrulama.com
 denizbankdayeniyil.com
+denizbankdestek.com
 denizbankdiadeleri.tk
 denizbankdigital.net
 denizbankdijital-bankacilik.com
@@ -70114,6 +70116,7 @@ digitalgirisbasvuracikdenizv2denizbank.co.vu
 digitalhediyedunyasi.com
 digitalhesapsubem.cf
 digitalhizmet.net
+digitalinadresiyapi.xyz
 digitalininternet.net
 digitalink-kampanya.net
 digitalinkim.net
@@ -99429,6 +99432,7 @@ garantibvfedabasvur.duckdns.org
 garantibvonline.com
 garantibvva-emekli-odemeleri.000webhostapp.com
 garantibvva.wuaze.com
+garantibvvaonline.com
 garanticar.comtr.online
 garanticebimde.com
 garanticebimdeonline.com
@@ -112162,6 +112166,7 @@ halkbankonline-sube.com
 halkbankonline.com
 halkbankonline5.tk
 halkbankonlinebilgi.com
+halkbankonlinedestek.com
 halkbankonlinee.com
 halkbankonlinegiris.com
 halkbankonlinegiris.ga
@@ -131627,6 +131632,7 @@ infobinanceonline.com
 infobireysel.com
 infobireysel.online
 infoburst.world
+infodestek.xyz
 infoesube.com
 infoesubem.com
 infofinansmenkul.com
@@ -134523,6 +134529,7 @@ isbankonlinebank.firebaseapp.com
 isbankonlinebank.web.app
 isbankonlinebasvuru.buzz
 isbankonlinecep.org
+isbankonlinedestek.com
 isbankonlinegiris.cf
 isbankonlinem.tk
 isbankonlinemobilislemler.co.vu
@@ -191563,6 +191570,7 @@ qnbfinansbankmobilsubesi.com
 qnbfinansbanko.com
 qnbfinansbankocakfirsatlari.tk
 qnbfinansbankonay.tk
+qnbfinansbankonline.com
 qnbfinansbankonline.ws
 qnbfinansbankonlinegirissubewebi.com
 qnbfinansbankonlinegirissubeweeb.com
@@ -192268,6 +192276,7 @@ qqjif2tns08n.storage.googleapis.com
 qqnbiadm.vercel.app
 qqnbikmpny.vercel.app
 qqnbikmpnys.vercel.app
+qqnbilekatkat.duckdns.org
 qqnbirvtrl.vercel.app
 qqnbkampanya.vercel.app
 qqnbkampanyakatil.vercel.app
@@ -227079,6 +227088,7 @@ turkcellpasajmagazalari.store
 turkcellpasajmagazam.com
 turkcellpasajmagazasi.com
 turkcellpasajmagazasi.sbs
+turkcellpasajmagazm.store
 turkcellpasajmarket.com
 turkcellpasajmarketi.com
 turkcellpasajmarketler.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108760
-# Last change: 2026-11-05 02:31:18 UTC (sync mode: delta)
+# Records: 108791
+# Last change: 2026-11-05 11:03:37 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2442,6 +2442,7 @@
 512512351213hizlcsmler-aracm360ptavm.online
 512512351213hizlcsmler-aracm360ptavm.space
 512548712854125841.cloud
+512551213hizlcsmler-aracm360ptavm.online
 51284673512347.com
 512saqqwr12.icu
 514552145225.cloud
@@ -2588,6 +2589,7 @@
 5fzx.top
 5hf3gdwg4ewrg4r56g.is-lost.org
 5iacc.top
+5kassmm.blogspot.com
 5l4ofi4.cn
 5m8y7ex.cn
 5mp.eu
@@ -4032,6 +4034,7 @@ a101onlinemarket.magazacilikperakendehizmetleri.com
 a101onlinemarketim.com
 a101onlineozel.online
 a101onlineozelmark.karalarasa.com
+a101onlines.com
 a101onlinesatis.app
 a101onlinesatis.com
 a101onlinetr.shop
@@ -6643,6 +6646,7 @@ akutelfirsat.com
 akutelurunler.xyz
 akveton.store
 akyatidrimverc.vercel.app
+akyatirim-tr.cfd
 akyatirim.info
 akyquiz.site
 al-a101.online
@@ -9538,6 +9542,7 @@ arxsactvvmuaynene.net
 arxsdmuynesrvlerinex.net
 aryadisticaret.com
 arzssrtwt.com
+arztasmtwas.com
 arzumbaharindirimi.com.tr
 arzumcaymaknnne.com
 arzumhdson.com
@@ -9545,6 +9550,7 @@ arzumindirimww.duckdns.org
 arzumindrimszznlex.com
 arzummaknneindrm.com
 arzumokka.online
+arzumsseninlew.com
 arzumtblenn.com
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
@@ -11516,6 +11522,7 @@ bacteriotherapeutic.com
 badahuhuduyudada.site
 badanie-pl.site
 badcarloan.com
+bademadamnerede.xyz
 bademamcagelsene.lol
 bademamcagelsene.xyz
 bademamcakim.lol
@@ -25033,6 +25040,7 @@ curiousaide.top
 curiousbanana.com
 curldesignation.top
 curlnomination.top
+curlybucket.com
 currencyconceit.top
 currencyevade.top
 currencysalmon.top
@@ -25672,6 +25680,7 @@ dbb18dec.ieybfs7j447b.org.cn
 dbea33nnephew.top
 dbit33terexplicit.top
 dblvfarm.com
+dbportfoy.com
 dbr.omentra.site
 dbri33skinside.top
 dbsaltyapi.com
@@ -33100,6 +33109,7 @@ esnafkrdibsvrhsnwz.net
 esnafytrmtdstek.cfd
 esnek-hesap.com
 esnekkosullar.abrdns.com
+esnewsot.com
 esnfprogram.cfd
 esnfprogrm.cfd
 esnfytrmtdstek.cfd
@@ -34952,6 +34962,7 @@ fareluaceze.click
 farepresumption.top
 farewellrecipe.top
 farindor.com
+farixus.com
 fark-hazirdikkat.casa
 farketmez33.cfd
 farketmez34cc.yyuyy.com
@@ -39681,6 +39692,7 @@ girisgarantiikredibasvurulari.com
 girisgarantiikredibasvurulari.online
 girisgelismesonuc.sbs
 girisgirisi.net
+girisicbc.com
 girisim-mhrs-randevu.vercel.app
 girisim-mhrs-randevum.vercel.app
 girisim.site
@@ -42256,6 +42268,7 @@ h3x8m2k9q6f4n7zh.cfd
 h47474cc.click
 h4rn.blogspot.com
 h4w0s09.cn
+h533s7256445e35l.eth64.de
 h5bnqv.xdk8ax.cn
 h6s.app
 h6yerho.cn
@@ -45370,6 +45383,7 @@ hizlbnngiristr.com
 hizlbudgetarackiralasana.space
 hizlcayklemesgla-hgc.netlify.app
 hizlcayklemesgla-hge.netlify.app
+hizlcayklemesgla-hgf.netlify.app
 hizlgcsdldr.click
 hizlgecisbakieyukleme.web.app
 hizlgecisbayniz.art
@@ -47657,6 +47671,7 @@ ic155.com
 ic3a.com
 icalrap.top
 icarrental.net
+icbcgiris.com
 icbir.eu
 icc3.live
 iccb-dealer.org
@@ -49795,6 +49810,7 @@ informationproofread.top
 informationswitchsystems.com
 informativebarren.top
 informativeobscurity.top
+informehoy.live
 informilluinate.top
 inforstaytday.com
 inforwebnoted.wixsite.com
@@ -55803,6 +55819,7 @@ kmsorgulamalarhemenpttgov.vercel.app
 kmsorgulamalarinizhemenppttm.com
 kmsorgulamamizz.web.app
 kmsorgulamamizzw.web.app
+kmsorgulamammaiaiz.web.app
 kmsorgulamammiz.web.app
 kmsorgulamaptt.shop
 kmsorgulamapttavmgvlsk.web.app
@@ -61511,6 +61528,8 @@ mdxwmd.top
 mdzwmk.top
 me-invest.info
 me4cych3ck.xyz
+mea-firindan-ayni-gun-teslim.cfd
+mea-firindan.cfd
 meadowcrest.site
 meadowepidemic.top
 meadowexposition.top
@@ -61803,6 +61822,7 @@ mehhrs.dns.navy
 mehhurst.com
 mehiray.com
 mehmetaliaksoy.xyz
+mehmetatws.blogspot.com
 mehmetkaracax.com.tr
 mehmetkaracax2.com.tr
 mehmetkaracax3.com.tr
@@ -64227,6 +64247,7 @@ mqnb-finans.com
 mqninvestments.com
 mqrinfbsz.acessoeditoracao.com.br
 mqsiqorta.com.tr
+mqwmqtq.blogspot.com
 mqzfsu.top
 mr5str2ws2d.com
 mrarackirala.online
@@ -65201,6 +65222,7 @@ nakttq.top
 nalesz.top
 nalyticaltenan.top
 nameadjacent.top
+namedivo.com
 nameengine.top
 namelubrication.top
 namelymentor.top
@@ -66112,6 +66134,7 @@ newspeakly.com
 newsplaing.digital
 newsquark.top
 newsrepel.top
+newsrom.com
 newssergeant.top
 newssilk.top
 newssprout.company
@@ -69477,6 +69500,7 @@ onlinesenesonu-bireyselkampanya-basvur.yeniyilsuprizkampanya-ozel.tk
 onlinesepetimde.store
 onlinesepetlerburada.site
 onlinesgjris.website
+onlineshoppings.site
 onlineshops-cep-mobil.online
 onlinesigorta364.com
 onlinesigorta365.com
@@ -71396,6 +71420,7 @@ parbukazandiniz.click
 parbuu.top
 parbuynowshop.com
 parcamagazasi.com
+parcaofisi.net
 parcatlkontor.ml
 parcelexpressgovptt-tr.life
 parcelexpresspttgov-tr.life
@@ -80500,6 +80525,7 @@ saglkgnlrdylrzbrdanmhrsss.cfd
 saglkicndnvualn.cfd
 saglklirhberle.cfd
 saglklmhrndy.cfd
+saglkrhberlri.cfd
 saglkrnd.cfd
 sagotravel.com.tr
 sahabet.press
@@ -80955,6 +80981,7 @@ sahibinden.alimlar-tr.net
 sahibinden.alimlarim.net
 sahibinden.alimservisin.sa.com
 sahibinden.alisveris-get-pay.com
+sahibinden.alisveris-islemsepet-15.sbs
 sahibinden.alisveris-online.com.tr
 sahibinden.alisveris-sepet.com.tr
 sahibinden.alisveris-sepette.com
@@ -89171,6 +89198,7 @@ successornumb.top
 successremnant.top
 successstory.site
 succesvedeviate.top
+succinctstomach.com
 sucdens.co
 sucdens.com
 sucdvn.top
@@ -91097,6 +91125,7 @@ tavernique.info
 tavernsnowless.com
 tavexel.xyz
 taviroq.gifts
+tavoluyorumsana.duckdns.org
 tavrenvoltaren.pro
 tavsancik.net
 tavsancik.org
@@ -93319,6 +93348,7 @@ tkg-edvtap-randvv.org
 tkg-edvtapko.org
 tkg-edvtapkonrandv.org
 tkg-edvtepkonv.org
+tkg-tap-randvznsz.com
 tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info
@@ -104724,6 +104754,7 @@ www-teb-com-tr-promosyon-emekli.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-basvuru.my-homeip.de
 www-teb-com-tr-sayfalar-emekli-promosyon.my-homeip.de
 www-teb-com-tr.internet-subesi.site
+www-teb-mobilden.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
 www-telegram.org
