@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66194
-# Last change: 2026-11-05 11:03:37 UTC (sync mode: full)
+# Records: 66201
+# Last change: 2026-11-05 18:47:47 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8283,6 +8283,7 @@ ad.adthis.org
 ad.daemon-update.com
 ad.jqueryclick.com
 ad.linksys-analytic.com
+ad.starx-net.com
 ad0tsyjd.duckdns.org
 ad1.wensa.at
 ad14b2.duckdns.org
@@ -13500,6 +13501,7 @@ blog.roadstud.cn
 blog.tibetcul.internetdocss.com
 blog.toptogear.com
 blog.tulasiorganicos.com.br
+blog.wangmengfun.top
 blogerjijer.pw
 bloggertemplates4u.com
 bloggertism.com
@@ -19791,6 +19793,7 @@ deutschland-zahlung.net
 dev-point.zapto.org
 dev.androidadbserver.com
 dev.lowndespartnership.co.uk
+dev.soft-png-cdn.com
 devamtr.com
 devamtr.info
 devamtr.net
@@ -21989,6 +21992,7 @@ edfghfdahj21.hopto.org
 edfgikuu.zapto.org
 edfilemad.duckdns.org
 edfnhaimo.xyz
+edge-ord.clouds-stacks.com
 edhopwkick.duckdns.org
 edifaqe.org
 edificioviacapital.com.br
@@ -30643,6 +30647,7 @@ imembers1st.duckdns.org
 imepki.com
 imf130.duckdns.org
 imf61221.ddns.net
+img.fusfun.top
 img.microtoo.info
 img21275.weddingbandsoft.com
 img25n2j.duckdns.org
@@ -43645,6 +43650,7 @@ osaam2015.zapto.org
 osama18888880.zapto.org
 osavpn.su
 osbwowgfnclc.space
+oscofneuid.com
 osdvnkdfnss.hopto.org
 oseeujmg.org
 osenfginsedo.com
@@ -53817,6 +53823,7 @@ static-graph.com
 static.apiforssl.com
 static.doubles.click
 static.doublesclick.info
+static.flux-telemetry.com
 static.livestreamanalytic.com
 static.news
 static03c.zapto.org
