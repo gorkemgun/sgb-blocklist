@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478105
-# Last change: 2026-11-05 18:47:47 UTC (sync mode: delta)
+# Records: 478141
+# Last change: 2026-11-06 00:21:59 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -114,6 +114,7 @@
 000xxdffffirsatas-dunasi-burasi-firsatx.me
 000yazfirsatlaribbvada.online
 001000430-333.cloud
+001002.duckdns.org
 00101020102010.duckdns.org
 00103n32237g238239.duckdns.org
 00103n329237g238239.mooo.com
@@ -211,6 +212,7 @@
 00q3yi38a.duckdns.org
 00qdj4.duckdns.org
 00rfwx5l0.duckdns.org
+00rl.link
 00s7m8b.duckdns.org
 00secure-connect.ddns.net
 00uwjcdo6.duckdns.org
@@ -61337,6 +61339,7 @@ banabakiyetanimlaa.net
 banabakkafamdasinhep.com
 banabakmadeinturkey.xyz
 banabanabana.com
+banabatcakala.lol
 banabenigeriver.dns.navy
 banadamilolo-12.site
 banadouraa.zapto.org
@@ -71368,6 +71371,7 @@ bildirim-tr.com
 bildirim.cfd
 bildirimcekilis-acikdenizv2denizbank.com
 bildirimcep-giris.com
+bildirimcepte.com
 bildirimgiris-onay.com
 bildirimhatti.com
 bildirimhizmetiedevlet.com
@@ -103800,6 +103804,7 @@ cicekburada.store
 cicekburda.com
 cicekci.xyz
 cicekcidukkani.b-cdn.net
+cicekcidunyasi.duckdns.org
 cicekcigledx.com.tr
 cicekcihizli.click
 cicekcihizli.homes
@@ -149568,6 +149573,7 @@ ehehaweh.site
 ehehehadhahxhc.net
 ehehehheheheehheeheheheheehe.info
 ehehehheheheehheeheheheheehe.online
+ehel4he5e2v4266s.webredirect.org
 ehemerwwpn.ws
 ehemndvletbsvruadrsi.com
 ehemngirsebasvradrsi.com
@@ -152324,6 +152330,7 @@ emekliiziraattt-krdiiibsvruu.ip-ddns.com
 emeklikampanya.site
 emeklikampanyasi.site
 emeklikredibasvuru.tk
+emeklilere-cepteteb-com.my-homeip.de
 emeklilerenakitdenizden.xyz
 emeklilerenakityeni.xyz
 emeklilereozeldir.org
@@ -163597,6 +163604,7 @@ facebook-login-lisbon.com.ph
 facebook-login-login-extra.ph
 facebook-login-login-nz-asia.com.ph
 facebook-login-login.blogspot.com
+facebook-login-madrid-uk.ph
 facebook-login-metrobankl.com.ph
 facebook-login-myanmar-intl.com.ph
 facebook-login-new-york.com.ph
@@ -163667,6 +163675,7 @@ facebooklogin-industrial-info.ph
 facebooklogin-industrial-mu.com.ph
 facebooklogin-info-delta-gamma.ph
 facebooklogin-info-nu-xyz.ph
+facebooklogin-island.ph
 facebooklogin-medical-lmn.ph
 facebooklogin-medical.ph
 facebooklogin-news.ph
@@ -163708,11 +163717,13 @@ facebookloginlakezx.net.ph
 facebookloginlal.com.ph
 facebookloginlal.net.ph
 facebookloginlam.com.ph
+facebookloginlambda.net.ph
 facebookloginlamp.net.ph
 facebookloginlan.com.ph
 facebookloginlan.net.ph
 facebookloginlawfirms.com.ph
 facebookloginlawyer.com.ph
+facebookloginleads.com.ph
 facebookloginmysteryk.com.ph
 facebookloginnuzen.ph
 facebookloginonlinelegal.com.ph
@@ -176994,6 +177005,7 @@ garanti-esubem.com
 garanti-esubesi.com
 garanti-euro.icu
 garanti-finans-basvuru.cloud
+garanti-finans-merkezim.cloud
 garanti-finans-noktasi.cloud
 garanti-finans-platformu.cloud
 garanti-finans-portali.click
@@ -196458,6 +196470,7 @@ haberler145365349.sbs
 haberler145425462.shop
 haberler15123424.sbs
 haberler15132.sbs
+haberler154232.sbs
 haberler1542334.shop
 haberler154313.sbs
 haberler1564568.sbs
@@ -208651,6 +208664,7 @@ hesapalin.com
 hesapalinsiz.cfd
 hesapalmayadevam.cfd
 hesapaltin-denizbank.com
+hesapavantaji.cyou
 hesapbakiye.online
 hesapbakiyebnbfirsat2022.ml
 hesapbakiyeonaylama.online
@@ -213250,6 +213264,7 @@ hizlbudgetarackiralasana.space
 hizlcayklemesgla-hgc.netlify.app
 hizlcayklemesgla-hge.netlify.app
 hizlcayklemesgla-hgf.netlify.app
+hizlcayklemesgla-hgr.netlify.app
 hizlcayklle.net
 hizle3-yukleme.22web.org
 hizlformdolduredvlt.ml
@@ -221880,6 +221895,7 @@ i-qnbfinansci.com
 i-qnbfinansparapuan.com
 i-s1emcepmobillsube.online
 i-s1emenugirisimcepdedigital.online
+i-saglkrnd.cfd
 i-sbonlinetr.com
 i-sdijitalislemmenum.online
 i-sigorta.b-cdn.net
@@ -232084,6 +232100,7 @@ instagramnl.xyz
 instagramofficescenter.com
 instagramofficesupport.com
 instagrampaneli.cf
+instagramprofiileurl.blogspot.com
 instagramprofilziyareti.com
 instagramprofilziyareti.paribudankazanclar.com
 instagramra.netlify.app
@@ -238636,6 +238653,7 @@ istanbulbasvuru.xyz
 istanbulbasvurubelgimkart.xyz
 istanbulbasvurukart.lol
 istanbulbasvurukart.xyz
+istanbulbasvurutr.lol
 istanbulbasvuruyap.shop
 istanbulbbelllgim.xyz
 istanbulbbislemleriniz.click
@@ -264370,6 +264388,7 @@ kooperatifjet.app
 kooperatifmarket.online
 kooperatifmarket.org.tr
 kooperatifmarket.vercel.app
+kooperatifmarketde.blogdns.com
 kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
 kooperatifmarketson.blogspot.com
@@ -277287,6 +277306,7 @@ m-sahibinnindenodeme.com
 m-sahihinden.com.tr
 m-sahiibindenguvenliodeme.pro
 m-sglikrhber.cfd
+m-sglkrndrhber.cfd
 m-sikayetvar.com
 m-society.dpis.go.th
 m-sok.com.tr
@@ -279651,6 +279671,7 @@ maliportaltr.org
 malirandevu.com
 malisorgu.net
 malisorgu.org
+malisorgula.org
 malisorgulama.com
 malisorgulama.net
 malisorgulama.org
@@ -279724,6 +279745,7 @@ maliyecezaniz.com
 maliyecezaportal.com
 maliyecezaportal.net
 maliyecezasi.com
+maliyecezasi.org
 maliyecezasorgu.com
 maliyecezasorgu.net
 maliyecezasorgu.org
@@ -280187,6 +280209,7 @@ maliyetrhazineislktrgov113.com
 maliyetrhazineislktrgov209.com
 maliyetrhazineislktrgov773.com
 maliyetrhazinelctrgov44.com
+maliyetrsorgu.org
 maliyeturkiye.org
 maliyeuyap.com
 maliyeuyapceza.com
@@ -284226,6 +284249,7 @@ mehareseinternette.com
 meharrese.com
 meharrrese.com
 meharsee.com
+mehasrn.duckdns.org
 mehcar.com.tr
 mehdef.duckdns.org
 mehdibaba.cc.dvrlists.com
@@ -305562,6 +305586,7 @@ novinsazvar.com
 novipppp.com
 noviro.xyz
 novitium.ca
+novixtra.com
 novixun.com
 novkhany.xyz
 novmintservices.com
@@ -329148,6 +329173,7 @@ paytr-nkolayislem.online
 paytr.online
 paytr.shop
 paytrodemeservisi.com
+paytrodemetoken843758974385787878787.netlify.app
 paytrtdeniz2020.net
 paytrx.click
 payuguncel.tk
@@ -333093,6 +333119,7 @@ pneword.net
 pnfck.onceleyb.ru
 png300.com
 png54dq.duckdns.org
+pngfoto7.sbs
 pngonlinesube.ml
 pngtoavif.com.tr
 pnhhpawqpa.in
@@ -355745,6 +355772,8 @@ rowcxmfpqeewkzmgqekf.click
 rowcxmfpqeewkzmgqekf.sbs
 rowdea.ddns.net
 rowderail.top
+rowenta-turkiye.com
+rowentasturkiye.com
 rowevengleftrop.com
 rowlased.duckdns.org
 rowpztd.duckdns.org
@@ -357880,6 +357909,7 @@ s4vb1d1j.duckdns.org
 s4zartuk4.top
 s5060.win7-update.com
 s519403.smrtp.ru
+s536hh7e95253434.opik.net
 s53n4vbv.duckdns.org
 s577mhbi.duckdns.org
 s58gxi.duckdns.org
@@ -391489,6 +391519,7 @@ subeislem-yapikredi.com
 subeisleminizkurumsal.com
 subeislemler-akbank.com
 subeislemler-akbank.ph
+subeislemler-akbank.vg
 subeislemler-yapikredi.com
 subeislemleri.com
 subeislemlerim-akbank.net
@@ -428042,6 +428073,7 @@ uzlasmayideneyin.com
 uzlastirma-dosya-sorgulama.click
 uzlytrup7.duckdns.org
 uzman-frsatlar1.online
+uzman-nobetci.myshopify.com
 uzmanaracservisin.net
 uzmanasansor.ml
 uzmanaviskiralama.bio
@@ -440358,6 +440390,7 @@ weaponammunition.top
 weaponbusiness.top
 weapondetrimental.top
 weaponunprecedented.top
+wear-clouds-understand-breeding.trycloudflare.com
 weare1mnthelp.ddns.net
 weareelight.com
 wearefirefighters.ddns.net
@@ -449217,6 +449250,7 @@ www-citrix.top
 www-claro.top
 www-cmhrbaskanligi.com
 www-cmhurbaskanligi-iade.com
+www-codtbde-extend-list.myonlineportal.ch
 www-coinbasewallet.com
 www-coinsbit-coinbase.gq
 www-coinsbitsite-platform.cf
@@ -451513,6 +451547,7 @@ www-tb-lgn-ayrica.myonlineportal.ch
 www-tbb-org-tr.translate.goog
 www-tbcpt-on-tvb.myonlineportal.ch
 www-tbde-nerde-cepte.myonlineportal.ch
+www-tbde-weby-cepte.myonlineportal.ch
 www-tbstatus-cpte.myonlineportal.ch
 www-tbstatus-cpteyiz.myonlineportal.ch
 www-tc-cimer-duyuru.com
@@ -460487,6 +460522,7 @@ xwkfbpjumr.duckdns.org
 xwkhi.com
 xwkjljqkyvcpeaq.su
 xwkkppppoc.duckdns.org
+xwlink.cloud
 xwlmi.duckdns.org
 xwlrnzkjbdr.xyz
 xwlz47dwc.duckdns.org

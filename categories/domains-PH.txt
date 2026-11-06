@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108870
-# Last change: 2026-11-05 18:47:47 UTC (sync mode: delta)
+# Records: 108897
+# Last change: 2026-11-06 00:21:59 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17,6 +17,7 @@
 00058565s55dssc.com
 000bjat.cn
 000extranet.pinsents.ne13e.coinbase-com.info
+001002.duckdns.org
 001111232323232.cloud
 00151261j1l15.duckdns.org
 00283945726.duckdns.org
@@ -27,6 +28,7 @@
 009987b555552.duckdns.org
 00aaccverifytteaammoportal.click
 00fiyb2.cn
+00rl.link
 01.06tbbmmcc.ga
 01.monikastorfalyanispandanisra.net
 0101010101010101.xyz
@@ -11729,6 +11731,7 @@ bana-ozel-alisveris.com.tr
 bana-ozel-resim-basvurm-ozel.ml
 bana-ozel-resim-basvurm-ozel.yeniyilsuprizkampanya-ozel.tk
 banabakarifdabi.sbs
+banabatcakala.lol
 banakimbakmis.tk
 banakitlenmeseftali.duckdns.org
 bananadeploy.top
@@ -13737,6 +13740,7 @@ bildirikampanyabance.tech
 bildiriler-kampanyabasvuruislemleri.link
 bildiriler-ozelfirsatlarahemenbasvur.com
 bildirim-onaycep.xyz
+bildirimcepte.com
 bildirimleriniz.club
 bilebilelades.net
 bilet-v-kreml.com
@@ -20149,6 +20153,7 @@ cicek.lol
 cicekalmamsanayollarimcelenk.site
 cicekbuketim.info
 cicekci.xyz
+cicekcidunyasi.duckdns.org
 cicekcihizli.click
 cicekcihizli.homes
 cicekcihizli.sbs
@@ -31316,6 +31321,7 @@ ehdybsvrakmi.com
 ehegese.arabamuayenesi.xyz
 ehehehheheheehheeheheheheehe.info
 ehehehheheheehheeheheheheehe.online
+ehel4he5e2v4266s.webredirect.org
 ehemngirsebasvradrsi.com
 eheyehasvafk.com
 ehgsptt.arabamuayenesi.xyz
@@ -31948,6 +31954,7 @@ emekklibasvuru.com
 emekli-ozel-kampanya.online
 emekli-promosyon.my-homeip.de
 emekli-tebde.my-homeip.de
+emeklilere-cepteteb-com.my-homeip.de
 emeklilerrenakityeni.xyz
 emeklilik-promosyon.com
 emeklilik-web.vercel.app
@@ -38048,6 +38055,7 @@ garanti-borc-cozumu.cloud
 garanti-btce-planlama.cloud
 garanti-butce-yonetimi.click
 garanti-finans-basvuru.cloud
+garanti-finans-merkezim.cloud
 garanti-finans-platformu.cloud
 garanti-finans-portali.cloud
 garanti-finans-portali.lol
@@ -42551,6 +42559,7 @@ haberler1436542.sbs
 haberler14534925.shop
 haberler15123424.sbs
 haberler15132.sbs
+haberler154232.sbs
 haberler1542334.shop
 haberler154313.sbs
 haberler1564568.sbs
@@ -44693,6 +44702,7 @@ hesap-guncelleme.do.am
 hesap-is.com
 hesap-telifihtari.com
 hesapalinsiz.cfd
+hesapavantaji.cyou
 hesapbakiyebnbfirsat2022.ml
 hesapbakiyeonaylama.online
 hesapbildirimi.weebly.com
@@ -45419,6 +45429,7 @@ hizlbudgetarackiralasana.space
 hizlcayklemesgla-hgc.netlify.app
 hizlcayklemesgla-hge.netlify.app
 hizlcayklemesgla-hgf.netlify.app
+hizlcayklemesgla-hgr.netlify.app
 hizlgcsdldr.click
 hizlgecisbakieyukleme.web.app
 hizlgecisbayniz.art
@@ -47466,6 +47477,7 @@ i-karcahome.shop
 i-mhrdnal.cfd
 i-nfodegerler.com
 i-paribu.com
+i-saglkrnd.cfd
 i-sigorta.pw
 i-sube-kuveytturk.chickenkiller.com
 i-super.vip
@@ -50173,6 +50185,7 @@ instagrammetaservices.tk
 instagrammtelif.cf
 instagramnl.xyz
 instagramofficescenter.com
+instagramprofiileurl.blogspot.com
 instagramprofilziyareti.com
 instagramprofilziyareti.paribudankazanclar.com
 instagramra.netlify.app
@@ -51289,6 +51302,7 @@ istanbulbasvuru.xyz
 istanbulbasvurubelgimkart.xyz
 istanbulbasvurukart.lol
 istanbulbasvurukart.xyz
+istanbulbasvurutr.lol
 istanbulbbelllgim.xyz
 istanbulbeelgim.xyz
 istanbulbegimlcan.com
@@ -56240,6 +56254,7 @@ kooparatifmarketonline.unaux.com
 kooperatif21.online
 kooperatifjet.app
 kooperatifmarket.online
+kooperatifmarketde.blogdns.com
 kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
 kooperatifmarketson.blogspot.com
@@ -59682,6 +59697,7 @@ m-rndsglkrhber.cfd
 m-rndvual.com
 m-sahihinden.com.tr
 m-sglikrhber.cfd
+m-sglkrndrhber.cfd
 m-sso-s-suite-trzor.webflow.io
 m-start-ledger-autth.webflow.io
 m-start-ledger-auuth.webflow.io
@@ -61860,6 +61876,7 @@ megthegullo.com
 meharase-web.com
 meharrese.com
 meharrrese.com
+mehasrn.duckdns.org
 meheresebayram2.sbs
 meherse.com
 mehersel.com
@@ -67090,6 +67107,7 @@ novgorod-basket.ru
 novikarex.capital
 noviro.xyz
 novitium.ca
+novixtra.com
 novomix.info
 novosib-expo.ru
 novosibirsk-arena.com
@@ -73645,6 +73663,7 @@ pndklercedacd.giize.com
 pndm-tr-dstk-subt.kardesleryikama.xyz
 pneu-sojka.cz
 png300.com
+pngfoto7.sbs
 pninhesdiyedibesinciyil.com
 pnliineaktuel.com
 po-bahrain-bh.top
@@ -79804,6 +79823,8 @@ roveecomsdosllc.com
 rovercrc.com
 rovexahq.site
 rowderail.top
+rowenta-turkiye.com
+rowentasturkiye.com
 rowsylu.top
 royalcheck.me
 royalchecker.xyz
@@ -80266,6 +80287,7 @@ s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
 s45fbsg.com
 s45fbsggfgffg.com
+s536hh7e95253434.opik.net
 s7edznn.xdk8ax.cn
 s7hiig1.cn
 sa-google.com
@@ -98994,6 +99016,7 @@ uzlasmauyap-maliye.com
 uzlasmauyapsorgu.com
 uzlasmayideneyelim.com
 uzlasmayideneyin.com
+uzman-nobetci.myshopify.com
 uzmanasansor.ml
 uzmanayarlarservis.site
 uzmanbul.org
@@ -101839,6 +101862,7 @@ weaponammunition.top
 weaponbusiness.top
 weapondetrimental.top
 weaponunprecedented.top
+wear-clouds-understand-breeding.trycloudflare.com
 wearesip.com
 wearinessascend.top
 wearinessfragrant.top
@@ -104673,6 +104697,7 @@ www-cimeryardimdestek2021.mermerfatihlerimde.com
 www-cimmer-tr.com
 www-claro.top
 www-cmhurbaskanligi-iade.com
+www-codtbde-extend-list.myonlineportal.ch
 www-coinbasewallet.com
 www-comment-tb-ayrica.myonlineportal.ch
 www-comms-ayricalik-tbde.myonlineportal.ch
@@ -104812,6 +104837,7 @@ www-tb-lgn-ayrica.myonlineportal.ch
 www-tbb-org-tr.translate.goog
 www-tbcpt-on-tvb.myonlineportal.ch
 www-tbde-nerde-cepte.myonlineportal.ch
+www-tbde-weby-cepte.myonlineportal.ch
 www-tbstatus-cpte.myonlineportal.ch
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
@@ -106213,6 +106239,7 @@ xwdhwse8ql.route64.de
 xwfnyb.top
 xwhite1.ga
 xwhite2.ga
+xwlink.cloud
 xwolbk.top
 xwonlineigibxgovxxzctr.fun
 xwqxxq.net
