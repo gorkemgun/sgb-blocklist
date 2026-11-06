@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108957
-# Last change: 2026-11-06 15:58:06 UTC (sync mode: full)
+# Records: 108990
+# Last change: 2026-11-06 21:33:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2774,6 +2774,7 @@
 6t63py2.cn
 6temmuzsiparislerinden.cloud
 6temmuzsiparisleriniolusrut.cloud
+6to.safeswim.cfd
 6u60u3z.cn
 6v0cfc0.cn
 6xq.app
@@ -9561,6 +9562,7 @@ arzumhdson.com
 arzumindirimww.duckdns.org
 arzumindrimszznlex.com
 arzummaknneindrm.com
+arzumnstwneinle.com
 arzumokka.online
 arzumsseninlew.com
 arzumtblenn.com
@@ -11737,6 +11739,7 @@ bana-ozel-alisveris.com.tr
 bana-ozel-resim-basvurm-ozel.ml
 bana-ozel-resim-basvurm-ozel.yeniyilsuprizkampanya-ozel.tk
 banabakarifdabi.sbs
+banabaklan.lol
 banabatcakala.lol
 banakimbakmis.tk
 banakitlenmeseftali.duckdns.org
@@ -28404,6 +28407,7 @@ dizzify.me
 djalekrnlarivk.net
 djcbasnkdjkas.net
 djflslfjflslfikrorie.blogspot.com
+djgmll323scd.shop
 djh6jn4pj.storage.googleapis.com
 djitalfast-simdikampanya.duckdns.org
 djitalkent.net
@@ -37321,6 +37325,7 @@ fraudulentlotion.top
 frauth.lol
 frauth.site
 fravico.pro
+frawlix.com
 fraykson.com
 frazierservices.org
 frdgdwqdw.duckdns.org
@@ -38103,7 +38108,9 @@ garanti-sermaye-cozumu.cloud
 garanti-sermaye-hizmeti.cloud
 garanti-sermaye-merkezi.cloud
 garanti-sermaye-portali.cloud
+garanti-servis-noktasi.cloud
 garanti-sube-onlinem.my-homeip.com
+garanti-varlik-merkezi.cloud
 garanti-yatirim-destek.cloud
 garanti-yesil-kredili-garanti.xyz
 garanti.3w17.com
@@ -40208,6 +40215,7 @@ gnvhfjncd.shop
 gnvkmslms.shop
 gnvmfjfkjfi.shop
 gnvmfjm3434.shop
+gnvmfnv434.click
 gnvmgjk8492.click
 gnvmvjkf949.shop
 gnzbvvxbsvur.dynv6.net
@@ -42577,6 +42585,7 @@ haberler1269315.sbs
 haberler1278945.shop
 haberler1283432.shop
 haberler131231123.site
+haberler1327634.sbs
 haberler1346428.sbs
 haberler1358636.shop
 haberler14223.shop
@@ -42611,6 +42620,7 @@ haberler23232.shop
 haberler233434123.shop
 haberler23432.sbs
 haberler23432.shop
+haberler234634.com
 haberler2352341.sbs
 haberler235234321.shop
 haberler235342.com
@@ -42672,6 +42682,7 @@ haberler6555343.shop
 haberler6723236.sbs
 haberler73421.shop
 haberler73452.sbs
+haberler73534.com
 haberler7452523.shop
 haberler78413289.sbs
 haberler787534.sbs
@@ -44867,6 +44878,7 @@ hg61sxjf.storage.googleapis.com
 hg73983943.click
 hg8y62.vip
 hgbkyss.net
+hgbvvbnbn454.shop
 hgclbdrgelsorglama.firebaseapp.com
 hgdisraptor.com
 hgdkfhsadgsd.net
@@ -52642,6 +52654,7 @@ izzzmirfhvkarddt.com
 izzzmirrtcge.com
 izzzmrxmdebyksehirhalkxndrmleri.net
 j-newstr2.vip
+j-newstr4.vip
 j3slshb7ef.ipv64.net
 j565656.click
 j5cfcb4.cn
@@ -52909,10 +52922,12 @@ jfsdfsdflsdfsd.shop
 jfvult.top
 jg0cabb.cn
 jg4x61.vip
+jgnvmmfk3432.click
 jgoiglobk.xyz
 jgqiebki.xdk8ax.cn
 jgsw4g.cn
 jgu0.com
+jgvmfkcml34ws.shop
 jh0l.org
 jhbn.me
 jhdgfad.nicepage.io
@@ -53118,6 +53133,7 @@ jrganm4.cyou
 jriqs5n.cn
 jrisictonpeding.top
 jrleif.top
+jrzcz.xyz
 jrztxofmh.xdk8ax.cn
 js.staticounter.net
 jsadetersaeter.help
@@ -55150,6 +55166,7 @@ kibriscicekmarket.com
 kickboxgroup.info
 kidbeyond.top
 kiddust.top
+kidlando.com
 kidmira.com
 kidn21eyenforce.top
 kidneyjack.top
@@ -56285,6 +56302,7 @@ kooparatifmarketonline.unaux.com
 kooperatif21.online
 kooperatifjet.app
 kooperatifmarket.online
+kooperatifmarketd.blogdns.com
 kooperatifmarketde.blogdns.com
 kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
@@ -57899,6 +57917,7 @@ letgo-sigorta.co
 letgo-sigorta.com
 letgo.get-satisofisim.com.tr
 letgo.guvenlialsvers.com
+letgo.ilandetaylari.com
 letgo.ile-siparis-olustur.com
 letgo.kurumsal-get-ilan.com.tr
 letgo.pay-ilan-satis.com.tr
@@ -61614,6 +61633,7 @@ mdrdml.top
 mdsfhfgsr.com
 mdsghsadg.art
 mdshgsdg.art
+mdslkfmsdklfmlsdmfs.shop
 mdsmdfskdfskdfks.net
 mdsrmm.top
 mdtlmw.top
@@ -62614,6 +62634,7 @@ mhnrs.net
 mhotel2025.world
 mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
+mhr-sonlinex.sbs
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
 mhr23623wfqwd.duckdns.org
@@ -71273,6 +71294,7 @@ panel.qsewjn.icu
 panel.royaleminecraft.club
 panel.yilmazpanel.xyz
 panelabi.top
+panelabi.xyz
 panelaktif.com.tr
 panelbayitrs.com
 panelbest.com
@@ -72812,6 +72834,7 @@ perfumegreed.top
 perfumeideological.top
 perfumesymposium.top
 perfumeyearning.top
+pergalomon.giize.com
 pergandaok.info
 pergehekene.net
 perhapscognition.top
@@ -73570,6 +73593,7 @@ playgroundmolecule.top
 playlist-push-ppc.com
 playlistmusicspace.com
 playstaion3.shop
+playsuperseed.online
 plazadwarf.top
 plazamagistrate.top
 plazapoke.top
@@ -81682,6 +81706,7 @@ sahibindenilan.com-ilandetayi.com.tr
 sahibindenile.com.tr
 sahibindenile.getodemeyap.com
 sahibindenile.tr-s.com.tr
+sahibindeniletisimdestek.com
 sahibindeniletisimkargo.com
 sahibindeniletisimkasko.com
 sahibindenilngett.com
@@ -86383,6 +86408,7 @@ sofatvsales.com
 sofewas24.duckdns.org
 sofftventrix.com
 sofiusdt.com
+sofnrsltarrkmpnyabsvr123821.online
 sofradanmu.465165864.sbs
 sofrani-senlendiren-formul-hemen-yaniniza-geldi.com
 soft-moon.ink
@@ -90043,6 +90069,7 @@ syform.online
 sylphstream.site
 sylune.site
 sylvanstream.online
+sylvexo.com
 sylwesterindirim1kapidaburada.com.tr
 sylwesterindirim1kapidaburada.xyz
 symathetiprotcol.top
@@ -93464,6 +93491,7 @@ tivibu.internet-kampanyasec.info
 tivibu.internet-kampanyasi.info
 tivibulu.internet-kampanyasi.info
 tivibulu.internetkampanyasi.net
+tivryle.com
 tivubu.com
 tiwafou.com
 tiyavnge.top
@@ -93777,6 +93805,7 @@ togg-turkiye.com
 togg.101kapimda.com
 togg.bar
 togg.best
+togg.cam
 togg.casa
 togg.cc
 togg.lat
@@ -98273,6 +98302,7 @@ univozai.com
 unk.hontinetalmanged.com
 unkalimasyona.giize.com
 unknownrejoice.top
+unlceks35ws.giize.com
 unleashclearing.top
 unleasheradicate.top
 unleashinterrogation.top
@@ -103662,6 +103692,7 @@ woortasedio.shop
 woorzvenom.online
 woorzyakuza.online
 wordecho.top
+wordelix.com
 wordhygienic.top
 wordingailment.top
 wordingassassin.top
@@ -104644,6 +104675,7 @@ www-aa-com-trx.blogspot.com
 www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-ac-ptetb-looms.myonlineportal.ch
+www-ac-tb-cpte.myonlineportal.ch
 www-acepte-tb-ayricalik.myonlineportal.ch
 www-acpt-tvb-web.myonlineportal.ch
 www-acptb-extend-ayrica.myonlineportal.ch
@@ -104862,6 +104894,7 @@ www-nufrdnvu459-com-tr.blogspot.com
 www-o.shop
 www-obilet.uk
 www-onkontorcu.com
+www-only-tb-ceptewby.myonlineportal.ch
 www-onsatis.online
 www-onsatis.xyz
 www-ontb-web-ayrica.myonlineportal.ch

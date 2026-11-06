@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478227
-# Last change: 2026-11-06 15:58:06 UTC (sync mode: full)
+# Records: 478260
+# Last change: 2026-11-06 21:33:19 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -18889,6 +18889,7 @@
 6thyeareventtime.com
 6tmjfe3jk.duckdns.org
 6tngpobo.duckdns.org
+6to.safeswim.cfd
 6tocb1f.duckdns.org
 6tpjay.duckdns.org
 6tq22b.duckdns.org
@@ -53155,6 +53156,7 @@ arzumindrimszznlex.com
 arzumlindirim.com
 arzummaknneindrm.com
 arzumnova.xyz
+arzumnstwneinle.com
 arzumokka.online
 arzumprime.xyz
 arzumsizinindirimiiz.com
@@ -61351,6 +61353,7 @@ banaatonline.blogspot.com
 banabakarifdabi.sbs
 banabakiyetanimlaa.net
 banabakkafamdasinhep.com
+banabaklan.lol
 banabakmadeinturkey.xyz
 banabanabana.com
 banabatcakala.lol
@@ -131325,6 +131328,7 @@ djgaibxy.com
 djgecpgjourraty.su
 djgjt.net
 djgkushol.com
+djgmll323scd.shop
 djgmvhawggamwbp.su
 djh6jn4pj.storage.googleapis.com
 djhcsnfnig.duckdns.org
@@ -173673,6 +173677,7 @@ fravento.site
 fraventoapp.site
 fravico.pro
 fravntjlrlagirislerdoluyasamgiristr.xyz
+frawlix.com
 fraxom.xyz
 fraykson.com
 frazer.zapto.org
@@ -177295,6 +177300,7 @@ garanti-sermaye-cozumu.cloud
 garanti-sermaye-hizmeti.cloud
 garanti-sermaye-merkezi.cloud
 garanti-sermaye-portali.cloud
+garanti-servis-noktasi.cloud
 garanti-sizinle.com
 garanti-sonfirsat-tr.com
 garanti-spekeryigeni.com
@@ -177332,6 +177338,7 @@ garanti-ugi-kazandiriyor.cf
 garanti-v3.vercel.app
 garanti-v4.vercel.app
 garanti-v5.vercel.app
+garanti-varlik-merkezi.cloud
 garanti-web-bireysel.com
 garanti-web-cepgiris.com
 garanti-web-cepkatilim.com
@@ -187481,6 +187488,7 @@ gnvhfjncd.shop
 gnvkmslms.shop
 gnvmfjfkjfi.shop
 gnvmfjm3434.shop
+gnvmfnv434.click
 gnvmgjk8492.click
 gnvmvjkf949.shop
 gnwjmdx.duckdns.org
@@ -196494,6 +196502,7 @@ haberler1283432.shop
 haberler131231123.site
 haberler132423.sbs
 haberler1327234.sbs
+haberler1327634.sbs
 haberler1345621.sbs
 haberler1346428.sbs
 haberler1358636.shop
@@ -196542,6 +196551,7 @@ haberler233434123.shop
 haberler23432.sbs
 haberler23432.shop
 haberler2345343.shop
+haberler234634.com
 haberler2352341.sbs
 haberler235234321.shop
 haberler2353243.sbs
@@ -196630,6 +196640,7 @@ haberler66242.sbs
 haberler6723236.sbs
 haberler73421.shop
 haberler73452.sbs
+haberler73534.com
 haberler7452523.shop
 haberler7456423.sbs
 haberler78413289.sbs
@@ -209179,6 +209190,7 @@ hgborcodemegecissde.duckdns.org
 hgbourst28lasor2.duckdns.org
 hgbsihlelerdegecisodemeb.duckdns.org
 hgbsodemeceleer.blogspot.com
+hgbvvbnbn454.shop
 hgbyju.com
 hgceyklm.click
 hgceyklme.click
@@ -245103,6 +245115,7 @@ j-eeee.duckdns.org
 j-hemntrafik.net
 j-karcahome.shop
 j-newstr2.vip
+j-newstr4.vip
 j-pttgov.top
 j.dravencia.sbs
 j.maxmind.com
@@ -246402,6 +246415,7 @@ jgleqolq.xyz
 jgmhivdjlv.duckdns.org
 jgmx0g.duckdns.org
 jgnvkromcp.duckdns.org
+jgnvmmfk3432.click
 jgoh5ra.duckdns.org
 jgoi2g4.duckdns.org
 jgoiglobk.xyz
@@ -246431,6 +246445,7 @@ jguor.com
 jguqnkgfcr.duckdns.org
 jgurogmgl.site
 jgvhjhfujygfy.info
+jgvmfkcml34ws.shop
 jgworldupd.com
 jgxefghovqpo.xyz
 jgxizncd.com
@@ -247679,6 +247694,7 @@ jryb.tw
 jryeltnxyg.duckdns.org
 jrypjkiursquobo.cn
 jryycllsiwonfmt.cn
+jrzcz.xyz
 jrzqmkxvtpln.sa.com
 jrztxofmh.xdk8ax.cn
 js-mirror.com
@@ -259416,6 +259432,7 @@ kidiscall34343.xyz
 kidiscall7485.xyz
 kidiscall9988.xyz
 kidkoala.ddns.net
+kidlando.com
 kidlink.mom
 kidmira.com
 kidn21eyenforce.top
@@ -264434,6 +264451,7 @@ kooperatifjet.app
 kooperatifmarket.online
 kooperatifmarket.org.tr
 kooperatifmarket.vercel.app
+kooperatifmarketd.blogdns.com
 kooperatifmarketde.blogdns.com
 kooperatifmarketi.vercel.app
 kooperatifmarketplatformu.online
@@ -271283,6 +271301,7 @@ letgo.cuzdanimguvende.net
 letgo.get-satisofisim.com.tr
 letgo.guvenli-hizmet.online
 letgo.guvenlialsvers.com
+letgo.ilandetaylari.com
 letgo.ilanlarim-ozelsepetim.com
 letgo.ile-guvenli-hizmetler.com
 letgo.ile-odemeyi-tamamlayin.com
@@ -283571,6 +283590,7 @@ mdsh.zapto.org
 mdshgsdg.art
 mdsjhd.sbs
 mdskdaddiddax.blogspot.com
+mdslkfmsdklfmlsdmfs.shop
 mdsmdfskdfskdfks.net
 mdsrmm.top
 mdsugavsi.com
@@ -286492,6 +286512,7 @@ mhpeeoxsnbyqgs.net
 mhpnhwwvsfimcij.cn
 mhpubrsle.digital
 mhr-al-hadisende.duckdns.org
+mhr-sonlinex.sbs
 mhr.serceparmak.cyou
 mhr.serceparmak.xyz
 mhr23623wfqwd.duckdns.org
@@ -323808,6 +323829,7 @@ panel.x00x.online
 panel.yilmazpanel.xyz
 panel33.beget.tech
 panelabi.top
+panelabi.xyz
 panelaktif.com.tr
 panelanindageldi.net
 panelapi.site
@@ -330481,6 +330503,7 @@ perfumeideological.top
 perfumes-76753.bond
 perfumesymposium.top
 perfumeyearning.top
+pergalomon.giize.com
 pergandaok.info
 pergehekene.net
 pergindi.xyz
@@ -332715,6 +332738,7 @@ playstore.site
 playstoreandroidguncel.co.vu
 playstoreguncelleme.net
 playstoremobil.com.tr
+playsuperseed.online
 playthechess.com
 playyourbeat.com
 playzbro.com
@@ -363133,6 +363157,7 @@ sahibindenileparamguvende.gq
 sahibindenileparamguvende.online
 sahibindenileparamguvende.shop
 sahibindenileparamguvnde.online
+sahibindeniletisimdestek.com
 sahibindeniletisimkargo.com
 sahibindeniletisimkasko.com
 sahibindenilngett.com
@@ -381754,6 +381779,7 @@ sofien123.zapto.org
 sofientucocina.com
 sofillerpay.tk
 sofiusdt.com
+sofnrsltarrkmpnyabsvr123821.online
 sofny.com
 sofort-tmobile.ddns.net
 sofortune.ddns.net
@@ -394848,6 +394874,7 @@ sylvalugar.ddns.net
 sylvanstream.online
 sylverrepair.com
 sylvesterrichardson.net
+sylvexo.com
 sylviaoslh01.ddns.net
 sylviaoslh012.ddns.net
 sylwesterindirim11kapidaburada.net.tr
@@ -405546,6 +405573,7 @@ tivibulu.internet-kampanyasi.info
 tivibulu.internetkampanyasi.net
 tivibutro.net
 tivonaro.com
+tivryle.com
 tivubu.com
 tiwafou.com
 tiwimg.com
@@ -406813,6 +406841,7 @@ togg-yetkili-acente.org
 togg.101kapimda.com
 togg.bar
 togg.best
+togg.cam
 togg.casa
 togg.cc
 togg.lat
@@ -424871,6 +424900,7 @@ unknownrejoice.top
 unknownsoft.duckdns.org
 unktight5.xyz
 unkvylyrcri8o41bepm.ddns.net
+unlceks35ws.giize.com
 unleached.zapto.org
 unleashclearing.top
 unleasheradicate.top
@@ -445886,6 +445916,7 @@ wordcard-tr-kampanyalar.site
 worddijitalgiris.co.vu
 worddustballprocess.com
 wordecho.top
+wordelix.com
 wordhygienic.top
 wordingailment.top
 wordingassassin.top
@@ -448637,6 +448668,7 @@ www-aa-com-trx.blogspot.com
 www-abc-tb-cpte.myonlineportal.ch
 www-ac-cepte-tb.myonlineportal.ch
 www-ac-ptetb-looms.myonlineportal.ch
+www-ac-tb-cpte.myonlineportal.ch
 www-acep-only-tvb.myonlineportal.ch
 www-acepte-tb-ayricalik.myonlineportal.ch
 www-acik-deniz-2023.online
@@ -451154,6 +451186,7 @@ www-onlineiadeuygulama-cimer-govtr.com
 www-onlineiadeuygulama-cimer.com
 www-onlineiadeuygulamasi-cimer-govtr.com
 www-onlineislemler-turkiyefinans.com
+www-only-tb-ceptewby.myonlineportal.ch
 www-onsatis.com
 www-onsatis.online
 www-onsatis.xyz
