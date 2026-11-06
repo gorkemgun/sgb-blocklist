@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66201
-# Last change: 2026-11-05 18:47:47 UTC (sync mode: delta)
+# Records: 66202
+# Last change: 2026-11-06 07:57:56 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15223,6 +15223,7 @@ carloscashreading.com
 carlose.ddns.net
 carlosgamez.duckdns.org
 carlosluize88.zapto.org
+carloxmextos.org
 carlsberg.duckdns.org
 carmelovalencia.duckdns.org
 carnagev1.blogspot.com

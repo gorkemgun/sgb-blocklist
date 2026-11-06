@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108897
-# Last change: 2026-11-06 00:21:59 UTC (sync mode: delta)
+# Records: 108910
+# Last change: 2026-11-06 07:57:56 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -9560,6 +9560,7 @@ arzummaknneindrm.com
 arzumokka.online
 arzumsseninlew.com
 arzumtblenn.com
+arzumtwtw63.com
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
 as-alon-av.myonlineportal.ch
@@ -10880,6 +10881,7 @@ avisotohemenkiralama.online
 avisotokiralama.epizy.com
 avisotokiralama.site
 avisotokocfilo.com
+avisotokocturkiye.com
 avisotomobilkiralama.com
 avisotomobilkiralama724.com
 avisproileotokiralama.online
@@ -14273,6 +14275,7 @@ binance-declarates.com
 binance-event-campaigns-check.net
 binance-event-kampanya-sorgulamasi.net
 binance-events-check-campaigns-check.net
+binance-exchanges.cloud
 binance-gift.pro
 binance-gift.store
 binance-giveaway.top
@@ -14999,6 +15002,7 @@ bizlerdeburalardayizherzaman.sbs
 bizlerdengordunuz.shop
 bizlerle-burdan-bakin-biraz-daha-karli-olun.com
 bizlerlebirlikte.xyz
+bizmemhehrese.xyz
 bizmodern.sbs
 bizmora.digital
 bizora.gifts
@@ -38072,6 +38076,7 @@ garanti-krediye-basvur.sbs
 garanti-nakit-destek.cloud
 garanti-nakit-hizmeti.click
 garanti-nakit-hizmeti.cloud
+garanti-odeme-portali.cloud
 garanti-odeme-sistemi.cloud
 garanti-onay-sistemi.cloud
 garanti-online-ekim-ayina-ozel.cloud
@@ -40620,6 +40625,7 @@ gownalert.top
 gownfame.top
 gownmeadow.top
 gownnutrient.top
+gozderestaurant.sbs
 gozkirptim.lol
 gozle-gorunmeden-ortaya-cikmayip-daima-hissederiz.com
 gozlemnoktasi.com
@@ -50159,6 +50165,7 @@ instagram.bloodonation.xyz
 instagram.confirmationsuccess.com
 instagram.loglan.repl.co
 instagram.suspended-service.com
+instagram.tms.valentinrnld.com
 instagramaskerdestegi.ml
 instagramasolution.com
 instagramasuport.ir
@@ -57502,6 +57509,7 @@ lcnjgs.top
 lcscenter.co
 lcscenter.com
 lcsntrvergltd.net
+lcwaikiki.cam
 lcwaikikifestr.com
 lcwdkp.click
 ld.6we4wh.top
@@ -63369,6 +63377,7 @@ mmhrsrrandevuum.com
 mmlgrosonl1ne.shop
 mmm3.oss-cn-hongkong.aliyuncs.com
 mmmmmmewwwww.top
+mmmmrres.duckdns.org
 mmmooobbbbiiilllbbbaaasssvvvuuurrruu.com
 mmmooobbbbiiillloooonnnnaaaayyyy.com
 mmmooobbbiiillloooonnnaayyy.com
@@ -80141,6 +80150,7 @@ s-guveniliralisveris.com
 s-guvenilirodeme.com
 s-guvenli-odeme.com.tr
 s-guvenli-ticaret-ile-alisveris.site
+s-guvenlikaskosigortaodemenoktaniz.duckdns.org
 s-guvenlimuhasebeodeme.com
 s-guvenlimuhasebeodemebirimi.com
 s-guvenlimuhasebeodemebirimi.duckdns.org
@@ -82592,6 +82602,7 @@ sdcvvt-dct.com
 sdear.click
 sdfadsff1231sfdsaf.cfd
 sdfadsff1241sfdsaf.cfd
+sdfadsff1261sfdsaf.cfd
 sdfamhmas.com
 sdfbcd.help
 sdfcsdfasdfasd.duckdns.org
@@ -91128,6 +91139,7 @@ tarimkredimagazam.cfd
 tarimkredimarket.cfd
 tarimkredimarket.vercel.app
 tarimmarket24.com
+tarimmarketgece.blogdns.com
 tarimmoalis.com.tr
 tarimmoalis.xyz
 tarimmsqae.net
@@ -91480,6 +91492,7 @@ tckk.app
 tckmaliye.org
 tckmaliyesorgulama.com
 tcksorgu.org
+tckurum.net
 tckuyap.org
 tckuzlasma.org
 tclklimadropluyorum.com
