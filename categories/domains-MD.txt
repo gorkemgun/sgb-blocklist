@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66202
-# Last change: 2026-11-06 07:57:56 UTC (sync mode: delta)
+# Records: 66203
+# Last change: 2026-11-06 15:58:06 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -31026,6 +31026,7 @@ inside-applesupport.info
 insideconcerned.com
 insider.gr.com
 insightjs.com
+insightjs.org
 insightthk.com
 inslder.hopto.org
 inspect-logined.com

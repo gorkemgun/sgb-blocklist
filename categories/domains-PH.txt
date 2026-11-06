@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108910
-# Last change: 2026-11-06 07:57:56 UTC (sync mode: delta)
+# Records: 108957
+# Last change: 2026-11-06 15:58:06 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1523,6 +1523,8 @@
 2026-hep-beraber-sahlaniyoruz-sayesinde.sbs
 2026aldinaldinsepette.org
 2026basvurhemen2026.duckdns.org
+2026bedavapanel.click
+2026bedavapanel.cyou
 2026dansizlere.duckdns.org
 2026evfirsati.sbs
 2026guncelsorgular.life
@@ -6208,6 +6210,7 @@ akadem1-61.g-service.ru
 akademikdestekvakfi.online
 akaidatiadeservisi.net
 akailko.global
+akakakakak.duckdns.org
 akal.cf
 akanasas.online
 akapimda.info.tr
@@ -8627,6 +8630,7 @@ arabulucukontrol.org
 arabuluculukegm.org
 arabuluculukmaliye.org
 arabulucumerkezi.org
+arabulucutc.net
 arac--muayturk.online
 arac-2txtxc-muaynem-trvtudktr.net
 arac-bakiye.lol
@@ -18883,6 +18887,7 @@ careers.com.pk
 careers.tech9logy.com
 careerscrews.com
 careersengage.com
+careersggl.icu
 careersgrower.com
 careersprogress.com
 careersstaffgrid.com
@@ -20487,6 +20492,7 @@ claudecodeupdate.squarespace.com
 clauderversandet.com
 claudesktop-app.gitlab.io
 claudesktop.gitlab.io
+claudewebinnar.com
 claulastver.squarespace.com
 clausealmighty.top
 clavosolutions.com
@@ -21254,6 +21260,7 @@ com-aaacct.top
 com-aaaccv.cc
 com-aaaccz.cc
 com-acbn.top
+com-access-sharepoint.com
 com-achi.xin
 com-aeki.top
 com-ahksz.top
@@ -29703,6 +29710,7 @@ dxniz2022avans.xyz
 dxsdzjj.club
 dxuhsn.buzz
 dxzepf.click
+dybgiris.com
 dybkatilim.com
 dybportfoy.com
 dybsubem.com
@@ -31896,13 +31904,16 @@ emaliyebtk.com
 emaliyecbs.com
 emaliyecbs.org
 emaliyecezalar.org
+emaliyedava.com
 emaliyeegm.org
+emaliyegovtr.com
 emaliyegovtr206.com
 emaliyegovtr233.com
 emaliyegovtr336.com
 emaliyegovtrl92.com
 emaliyehukuk.com
 emaliyeinfaz.org
+emaliyekamu.com
 emaliyekontrol.com
 emaliyemasak.com
 emaliyemerkezi.org
@@ -32217,6 +32228,7 @@ empty-room.world
 emptydistill.top
 emptypersecute.top
 emptypremature.top
+emptytownmoon.de
 emrahkayax34.servehalflife.com
 emreakkaya.av.tr
 emrebaba.click
@@ -33730,6 +33742,8 @@ eventlerozelbayramkmpnyasi.net
 eventlertakip.com
 eventonlinemayis.net
 eventos3a.com
+eventrsvp-217-60-102-48.sslip.io
+eventrsvp.app
 events-de.com
 events-fi.com
 events-ge.com
@@ -37996,6 +38010,7 @@ ganardinerohrbkg.shop
 ganardineroksdjd.shop
 gandalf.world
 gandonmartinez.duckdns.org
+gandozimartinez.duckdns.org
 gangava.com
 gangbangkada.sa.com
 gangcatholic.top
@@ -39433,6 +39448,7 @@ gfinancingstart.shop
 gfjjhlkgfhj.duckdns.org
 gfkdosgsdgdasg.online
 gflsjdq.cn
+gfmzrsj.icu
 gfnuw.top
 gfsdgsahjd.cfd
 gfvnkg.top
@@ -39453,10 +39469,13 @@ ggggsmfirsalcndglcngllll.com
 ggiftedcollective.top
 ggkaskocuteklif.com.tr
 ggkaskocuteklif.xyz
+ggkiejl.icu
 ggkngpssanil.com
 ggl-desk-activity.com
 ggl-desk-archive.com
 ggl-desk-line.com
+ggleventapi.icu
+ggolshhk.icu
 ggrnntiivvb.net
 ggrnntivvb.net
 ggrnts2024yxlbasim.com.tr
@@ -39944,6 +39963,7 @@ glbunuvrhdors.duckdns.org
 gld1aldv0indrim-5.com
 gldn-1-aldn-0-zamni-1.com
 gldnmask.com
+gle-access-eventregister.icu
 gleamdisclosure.top
 gleamdiscrepancy.top
 gleders-contrew.com
@@ -42318,6 +42338,7 @@ h6s.app
 h6yerho.cn
 h72vn3jtpt5.icu
 h7778.site
+h7h634s5h3le9362.home64.de
 h8235.cn
 ha233lki45nelivesesi.duckdns.org
 haaafftftaanninndrirmllerriiiiiiii.com
@@ -46157,6 +46178,7 @@ hmbsorgu.net
 hmbsorgu.org
 hmbuyap.com
 hmbveznedar.com
+hmbveznedar.online
 hmbveznedar.org
 hmdnmfdd.com
 hmeensin-snouc.net
@@ -47735,6 +47757,7 @@ ice-arenatula.com
 ice-creamassorted.top
 ice-shows.ru
 iceactivate.top
+iceagelandforms.surf
 icearena-nn.com
 iceberg-kassa.ru
 iceberganecdote.top
@@ -48940,6 +48963,7 @@ implementthrill.top
 impliationreprssion.top
 implicationfragrance.top
 implicitsatire.top
+implies-beautifully-polyester-critics.trycloudflare.com
 implodevoicemail.best
 implyhomo.top
 importadorawb.site
@@ -58811,6 +58835,7 @@ loginmy--treazoor.webflow.io
 loginnmetamuskio.webflow.io
 loginpage-meta.com
 loginportalsg.com
+logins-offcevents.icu
 loginsistem.net
 logintr-onlinebrnnc.com
 logintr-onlinesbrnnrc.com
@@ -61093,6 +61118,7 @@ masak-gov.com
 masak.ai
 masakadliye.org
 masakbilgi.com
+masakbilgi.net
 masakbinancemobildogrulama.duckdns.org
 masakblokekaldirma.duckdns.org
 masakcezaportal.com
@@ -61120,11 +61146,13 @@ masaksorgulama.com
 masaksorgutc.org
 masaksorgutr.org
 masaktakibi.org
+masaktakip.com
 masaktc.net
 masaktrmobilbinance1.duckdns.org
 masakuyap.org
 masakvezne.com
 masakvezne.online
+masakvezne.org
 masakveznedar.com
 masakveznetalepformu.com
 masalarinkampanyasi.xyz
@@ -68499,6 +68527,7 @@ ofertixy.xyz
 offadjust.digital
 offanimate.top
 offcentered.in
+offcevent-login.com
 offencefu.top
 offenderoverlap.top
 offendlever.top
@@ -68548,6 +68577,7 @@ officeee.bubbleapps.io
 officefilecloudoc.com
 officefiledrivecloud.com
 officegauge.top
+officegocrqb.com
 officeguest.world
 officelinelinks.com
 officenotedrivecloud.com
@@ -79330,6 +79360,7 @@ rgfshh.lqqhwm.cn
 rgkgum.top
 rgmzar.buzz
 rhaanu.windearlycar.top
+rhbersaglk.cfd
 rhbreeef.xyz
 rhemaworld.com
 rhetoricalsolitude.top
@@ -79700,6 +79731,7 @@ rollcyrentacars.online
 rollenmetimur.duckdns.org
 rollercam12131.nicepage.io
 rolleyway.com
+rolling-arabic-words-crossing.trycloudflare.com
 rolllpaket.xyz
 rollmalice.top
 rollpaket.com
@@ -79923,6 +79955,7 @@ rsoblendgmarsaalam.com
 rsrlv-comf-ystd.click
 rsrvtn-id48592.world
 rsv-book.com
+rsvpconnect-events.com
 rsyradsdresrtrs-rrnrs.com
 rt-kirkoor.net
 rtafve.top
@@ -80923,6 +80956,7 @@ sahibinden-param-guvende.siparis-onayla.online
 sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
+sahibinden-param-guvende.tr-servis-onay.online
 sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-urun-detayi.online
 sahibinden-param-guvende.urunodeme-tr.online
@@ -84190,6 +84224,7 @@ sglik-rhber.cfd
 sglklamhrrndvu.cfd
 sglklignleredgru.cfd
 sglklirhber.cfd
+sglklirhblr.cfd
 sglkrhberi.cfd
 sgllkgicmhr.cfd
 sglnizicnrndvu.cfd
@@ -84372,6 +84407,7 @@ shieldnumber.top
 shiftchancellor.top
 shiftchapel.top
 shiftpatronise.top
+shifts.icu
 shiftvelvet.top
 shihabmian.com
 shijiazhuangxuri.com.cn
@@ -86670,6 +86706,7 @@ son-zamlardan-gelmeden-sizlere-son-sureleri.com
 son-zamlardan-gelmeden-sizlere-son-sureller.com
 son-zamlardan-once-gelen-firsat.com
 son.firsatlar.bitiyor.hizmelgk.click
+son.gun.hizli.islemler.osofkdosad23.click
 son101cilerkaldi.cloud
 son2023-hizlisipariskampanya.shop
 son2026indirimleri101.biz
@@ -88139,7 +88176,9 @@ sso.xn--btctuk-tib.com
 ssobtcfurkpro-trx.com
 ssobtcturk.com
 ssocloudwebmiald5tdy5e767tyr7fityfxye564576.s3-eu-central-1.ionoscloud.com
+ssoeventportal.com
 ssoklrkmfrklfskmczzrmtm.com
+ssomeetingportal.com
 ssoookkk-firrrstlrmmm.com
 ssopasskey.com
 sspshtssnvis.net
@@ -93734,6 +93773,7 @@ togg-kredim.com
 togg-nato-ozel-cekilis.space
 togg-nato-ozel-cekilis.xyz
 togg-satisi.cfd
+togg-turkiye.com
 togg.101kapimda.com
 togg.bar
 togg.best
@@ -94143,6 +94183,7 @@ tookiibasvvur.pro
 tookiibasvvur.xyz
 tookiso.live
 toolost-fans.com
+tools-masak-ai-sri26.pages.dev
 toonie-bot.com
 toook-i.click
 tooourhow.shop
@@ -94695,6 +94736,7 @@ tr-secure.com.tr
 tr-sepetim.com
 tr-sepetim.com.tr
 tr-sepettex.online
+tr-servis-onay.online
 tr-sikayetlerin.ru.com
 tr-sikaytmvar.net
 tr-siparis.net
@@ -98596,6 +98638,8 @@ us01web-zoom.us
 us21.list-manage.com
 us3ls.top
 us8wmko67.top
+us956web-zoom.us
+us968web-zoom.us
 usa4trump.com
 usacarss.net
 usaddvvtt-dvvvtt.com
@@ -101802,6 +101846,7 @@ wbbonlineeislemelrgovtr.net
 wbbtssrnnnv.app
 wbbtssrnnnvsda.app
 wbd.net.bd
+wbdssologin.app
 wbduvn.com
 wbn-mynstvk.net
 wbn-mysntvuk.net
@@ -102910,6 +102955,7 @@ weirdfiction.top
 weitc.click
 weiur.qpon
 weiziliang.cn
+wekash.net
 welcome-coinbase.com
 welcome.careerscrews.com
 welcome.careersengage.com
@@ -103660,6 +103706,7 @@ worknapster.com
 workora.shop
 workouting.top
 workouttribal.top
+workportalsso.com
 workshopaesthetics.top
 workshopglamour.top
 workshopretrieve.top
