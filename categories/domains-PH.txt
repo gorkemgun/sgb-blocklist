@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 108990
-# Last change: 2026-11-06 21:33:19 UTC (sync mode: delta)
+# Records: 109040
+# Last change: 2026-11-07 01:58:26 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1564,8 +1564,13 @@
 2112323232.cloud
 21145542224555546668988290.xyz
 21145542224555546668988291.xyz
+21145542224555546668988292.xyz
 21145542224555546668988293.xyz
 21145542224555546668988294.xyz
+21145542224555546668988295.xyz
+21145542224555546668988297.xyz
+21145542224555546668988298.xyz
+21145542224555546668988299.xyz
 21158-coinbase.com
 2121124555555441554445991.xyz
 212114551221455122452245590.xyz
@@ -1692,6 +1697,7 @@
 2425352412123.xyz
 2432401001.cloud
 24325555555555232.webredirect.org
+24478996bsvrkmpnyaprmsny.info
 24478996bsvrkmpnyaprmsny.pro
 2451.basitdom.biz
 2451.basitdom.click
@@ -2570,6 +2576,7 @@
 5855e81d.hds-dnd9n.com.cn
 5891191.com
 58963211222.cloud
+5896328bsrrprsmynnkmpny.click
 58f667d2.dsfiurb-u.shop
 59d94013.dj-hd5kfu.shop
 5a1c2.alegrapizzeria.sk
@@ -5828,6 +5835,7 @@ ahlatcimenkulkiymetler.com
 ahlatciyatirim.co
 ahmaswe.com
 ahmetafafaan.net
+ahmetastw.blogspot.com
 ahmetdincer.com.tr
 ahmeterdem.sa.com
 ahmetkafalarcancan.net
@@ -8143,6 +8151,7 @@ anybodypractitioner.top
 anybodyprkd.shop
 anyglobaldocument.com
 anyhowpredominate.top
+anyjanyrahin.world
 anyoneaffirmation.top
 anyonepoultry.top
 anyonespeciality.top
@@ -9749,6 +9758,7 @@ asfgashjfgahjsfgashjfgashjfasghjasjhasgjh.cfd
 asfgaxq.sbs
 asfinag-pay.live
 asfinag-pay.shop
+asfirmamslslqs.click
 asfsadfrwqarf.sbs
 asfsadfvkmmnkfvkln.net
 asfsdqwffsadlsafm.net
@@ -13037,6 +13047,7 @@ beaa493d.ns-u629df.shop
 beachbing.com
 beachhouse-hotelregistry2945.com
 beachskeptical.top
+beadfaw.giize.com
 beadfortnight.top
 beadimmersion.top
 beadpatronage.top
@@ -13827,6 +13838,7 @@ bilgilendiriyorum.abrdns.com
 bilgilendirme-cim.com
 bilgilendirme-shop.online
 bilgilendirme-tr.online
+bilgilendirmelerimiz.abrdns.com
 bilgilendirmemm.netlify.app
 bilgilendirmerehberi.web.app
 bilgilendirmesler.date
@@ -14741,6 +14753,7 @@ birlikevi.com
 birlikfonu.com
 birlikhanem.com
 birlikle-geldik-sizler-gulesiniz-diye.com
+birlikteguzel.abrdns.com
 birliktevim.com
 birlinks-tr.online
 birlinnoffsh.zapto.org
@@ -14936,9 +14949,12 @@ bizdenalicaksinmutluolucaksin.sbs
 bizdenduy.club
 bizdenduy.online
 bizdenduy.site
+bizdenhepinize.abrdns.com
 bizdenhizlisiyoktur.click
 bizdenolsun.abrdns.com
+bizdenolur.abrdns.com
 bizdensinizkanks.blogspot.com
+bizdensize.abrdns.com
 bizdoux.com
 bize-bu-zamani-birakirsa-cok-guzel-gecer.com
 bize-bu-zamani-birakirsa-gorunen-guzel-gecer.com
@@ -14999,6 +15015,7 @@ biziz-sicak-havada-gulen.top
 bizizyurdakul.shop
 bizkimiz.site
 bizkimiz808.xyz
+bizleberaber.abrdns.com
 bizlehizlarandevu.org
 bizlehizli.abrdns.com
 bizlehmnfgd.com
@@ -15817,6 +15834,7 @@ bnfirsatikampanyalarizn.com
 bnfnl.com
 bnfzl.com
 bngfse.click
+bnghb5656.click
 bnglobal-basvuru.com
 bnglobalfirsat.net
 bnglobalpartners.sbs
@@ -27387,6 +27405,7 @@ dgmkflsdgm51.top
 dgmmotors.com
 dgolesleoesl.net
 dgsikortam.xyz
+dgsjkfjsdjfsgdsgsg.shop
 dgtase.top
 dgtckgm.cc
 dgtckgm.ink
@@ -31576,6 +31595,7 @@ ekrnniz-geri-dnk-srgu.sbs
 eksen.2kool4u.net
 ekspres.obilet-www.online
 ekspresmarketcim.com
+ekstazi.safeswim.cfd
 ekstra-ozel-firsat.org
 ekstra101.dpdns.org
 ekstrafirsatlar.xyz
@@ -31613,6 +31633,7 @@ elaexxalence.com
 elaexxellanceresorts.net
 elakshihousing.com
 elalemdinlemessedealemdinler.net
+elanavo.com
 elapse.coinbase-com.info
 elapseassertion.top
 elapseideology.top
@@ -32454,6 +32475,7 @@ engineeringstudent.top
 engineeringvolatility.top
 enginefragrance.top
 enginkurulususydv.com.tr
+engizuo.com
 english-plays.com
 engnazclll-mrkds-ktznsolnlzzne.gb.net
 engnazclll-mrkdsktznsolnlzzne.xyz
@@ -36525,6 +36547,7 @@ fizzlepopcorn.top
 fizzy0-voluptas36.sbs
 fizzy4-ut23.sbs
 fjalvarezllc.com
+fjdsfnjdsfks.shop
 fjellstottfinans.com
 fjhgdjhfdhffdf.net
 fjiright.info
@@ -38002,6 +38025,7 @@ games-future.com
 gamesfriendship.com
 gameshannover.com
 gameviablea.top
+gamgambomgam.shop
 gamingsunucum.com
 gamini-loggin.webflow.io
 gaminjet.com
@@ -38077,6 +38101,7 @@ garanti-bonus-islemler-com.duia.ro
 garanti-bonus-islemler-com.mayddns.com
 garanti-borc-cozumu.cloud
 garanti-btce-planlama.cloud
+garanti-butce-noktasi.cloud
 garanti-butce-yonetimi.click
 garanti-finans-basvuru.cloud
 garanti-finans-merkezim.cloud
@@ -43019,6 +43044,7 @@ halivaley.moonfruit.com
 halk-mobil-kredimcepte-com.duckdns.org
 halk-saglik-giris-gov.tk
 halka.click
+halkacikmagazam.duckdns.org
 halkacskdjc12k3x123x12.sbs
 halkaduyurutokibsvuru.icu
 halkafabrikadan.duckdns.org
@@ -46282,6 +46308,7 @@ hmxxhkxsz-hizliiodemelerpttavm.com
 hmxxhkxsz-hizliodemelerpttavm.com
 hn16ekp.ytyukai.cn
 hnaolangnleremynym.shop
+hnasmnmasmhashmasasasfnm72.sbs
 hnbdfasgva.net
 hndgfxbas.duckdns.org
 hndqiuebgibuiwqdhr.cyou
@@ -52084,6 +52111,7 @@ iwasdevastated.biz
 iwasdevastated.vip
 iwaxtorn.com
 iwoelwskwhxhs.com.tr
+iwowelyj.online
 iwvhsw.help
 ix-event.com.tr
 ix7qwney9wexn.com
@@ -52974,6 +53002,7 @@ jirgo.online
 jishushuipgao.top
 jitem.net.tr
 jitstudio.ne
+jiwifobul.world
 jiyan.online
 jizies.info
 jjggyvdww.ytyukai.cn
@@ -55813,6 +55842,7 @@ kmpnyaaavasvrrrusofnrsalari.online
 kmpnyaabasvruprmsynn19756.pro
 kmpnyaabsvrasdas103321.online
 kmpnyaabsvrr12531.online
+kmpnyaabsvrr9321.online
 kmpnyaabsvrrprmsnynnsnfrstlarr.info
 kmpnyaabsvrrprmsnynnsnfrstlarr.pro
 kmpnyaabsvrrrhksnfrstlarrr.online
@@ -62187,6 +62217,7 @@ merkezcicekcilik.site
 merkezdekayit.abrdns.com
 merkezdenguncel.abrdns.com
 merkezdensize.abrdns.com
+merkezdensizlere.abrdns.com
 merkezdernegi.com
 merkezdernegi.net
 merkezdukkanim.xyz
@@ -62891,6 +62922,7 @@ mianosa.duckdns.org
 mianosa.store
 mianosapro.duckdns.org
 miazlde.com
+miboykr.xyz
 mibusare-yedolapi.lol
 michaudforcongress.com
 michelearris.com
@@ -66924,6 +66956,7 @@ nop.lat
 nopackzania.com
 nopanel-064900.click
 nopanel-087462.top
+nopanel-246624.top
 nopanel-348252.click
 nopanel-363563.top
 nopanel-36672.top
@@ -69087,6 +69120,7 @@ oneylulindi.uk
 onfirmation-id8764.world
 ongoingchamber.top
 onhekim.com
+onidepiceru.world
 oniine-lndirim-flrsatlari.me
 onikimlir.duckdns.org
 onionlandhosting.online
@@ -74837,6 +74871,7 @@ prmsynllrllrfrst.click
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
 prmsynnkmpnyaabsv2569858477.online
+prmsynnkmpnyabsvr123913.online
 prmsynnkmpnyabsvrrrsnfrstlarr.info
 prmsynnkmpnyyybasvr254178.pro
 prmsynnnkmpnyaabasvrrr147852.pro
@@ -83460,6 +83495,7 @@ sendetakipet.net
 sendetatile.com
 sendeyanimizdaoll.net
 sendeyararlanbin.xyz
+sendeyenile.abrdns.com
 sendgrid.aws-us5.com
 sendigniter.com
 sendjoinbeforethejanuaryoffer.cloud
@@ -85570,6 +85606,7 @@ site-1-0-1.com.tr
 site-alisveris.online
 site-dyson.com.tr
 site-evonia.life
+site-kelthra.life
 site-sok.com.tr
 site.buonoads.sbs
 site.hemenmakek.cfd
@@ -85655,6 +85692,7 @@ sizdekatilinalinbufirsatihemen.tech
 sizdekazaninbizdfrstlar.duckdns.org
 sizdekznmakistersenizyakalafirsati.net
 sizdelerkelecene.online
+sizdenbize.abrdns.com
 sizdengelenkampanyalar.online
 size-enguzel-anlari-endegerli-zamani-herzaman-gorecegiz.com
 size-enguzel-zaman-herzaman-hizmetinizdeyiz.com
@@ -85731,6 +85769,7 @@ sizlereozelrandevuekran.top
 sizlericin.iademaidat.com.tr
 sizlericin.lol
 sizlericin.net
+sizlericinburadayiz.abrdns.com
 sizlericinburda.blogspot.com
 sizlericinolanseyler.sbs
 sizlericinsizlerle.net
@@ -86523,6 +86562,7 @@ sokmarkethemencecikgelsin.cfd
 sokmarkethepsi.shop
 sokmarkethizlisiparis.com
 sokmarketi.online
+sokmarketik.com
 sokmarketiphone.net.tr
 sokmarketleraktuel.xyz
 sokmarketlerdeindirim.shop
@@ -86782,6 +86822,7 @@ sonfirst-hetxmn-aldin-aldin.shop
 sonfirsta1o1desonlndirimler.blogspot.com
 sonfristlarburda101.store
 sonfrlasaltikmpnyasirfvsavr.info
+sonfrlstarrkmpnya18232.online
 sonfrouz.com
 sonfrsatlar-burada.com
 sonfrsatlar.sbs
@@ -91306,6 +91347,12 @@ tavsanciksorgupaneli.website
 tavsiyeediyorum.club
 tavsiyeediyorum.xyz
 tavuk-dunyasi.qpon
+tavukfirsati.top
+tavukkapinda.rest
+tavukkapinda.top
+tavukkeyfi.rest
+tavuksepeti.top
+tavukzamani.qpon
 tavzilo.gifts
 tawh0bd.cn
 tawheedzone.com
@@ -91963,6 +92010,7 @@ teklifleri.website
 tekliflernoktasi.abrdns.com
 teklifonunde.abrdns.com
 teklifsigorta.net.tr
+teklifzamani.abrdns.com
 tekncanerne.com
 tekno-kredin.cfd
 tekno-sa.com
@@ -94857,6 +94905,7 @@ traceclean.cfd
 tracestory.top
 trachyline.one
 track-deploy-g.myonlineportal.ch
+track-pttgovtr.lungarnofitness.it
 track.memerax.com
 track.useplunk.net
 trackarisocratic.top
@@ -104687,6 +104736,7 @@ www-alcpt-end-cepte.myonlineportal.ch
 www-alisversx-guvenlrx-odemex.com.tr
 www-alisversx-guvenlrx-odemex.xyz
 www-altb-cpt-ayricalik.myonlineportal.ch
+www-andytb-ceptedir-ayrclk.myonlineportal.ch
 www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
 www-art-cpte-ekonomi.myonlineportal.ch
