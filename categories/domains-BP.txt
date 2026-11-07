@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260230
-# Last change: 2026-11-07 08:52:04 UTC (sync mode: delta)
+# Records: 260243
+# Last change: 2026-11-07 15:42:38 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -32797,6 +32797,7 @@ basvrnsbbrdahmnetkla.click
 basvrnzbzleszdebsvrn.com.tr
 basvrpromlar.click
 basvrpromlar25.click
+basvrrkmpnya12372138.pro
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
 basvrrkmpnyaprmsynn.info
@@ -38844,6 +38845,7 @@ bilgilendirmehizmetdijitalvakif.com
 bilgilendirmehizmetleri.xyz
 bilgilendirmelidanismanlik.com
 bilgilendirmemerkezi.click
+bilgilendirmeportali1.web.app
 bilgilendirmesayfam.org
 bilgilendirmesayfasi.misecure.com
 bilgilendirmeson.nicepage.io
@@ -106352,6 +106354,7 @@ gsmpaketyukleme.site
 gsmpaketyuklemeleri.net
 gsmpaketyuklemeresmi.net
 gsmpaksetyukle.net
+gsmplaza.22web.org
 gsmspaketcisinden.xyz
 gsmsube.click
 gsmsubemiz.click
@@ -151484,6 +151487,7 @@ kmsorgulamagulyan.shop
 kmsorgulamahemengovhasan5.web.app
 kmsorgulamahgspttavmgovemine.duckdns.org
 kmsorgulamahizmeti.web.app
+kmsorgulamahizmetleri.com
 kmsorgulamahizmetlerii.web.app
 kmsorgulamahizmetlerinizburada.online
 kmsorgulamahizmetlerinizz.shop
@@ -151537,6 +151541,7 @@ kmsorgularnzi.za.com
 kmsorgularnziz.ru.com
 kmsorgulartamsanlarshuzkyler.duckdns.org
 kmsorgulatanlargovorg.com
+kmsorgulatmahizmetlerim.web.app
 kmsorgulatr.com
 kmsorgulayalimhemen.vercel.app
 kmsorgulayinburdan.web.app
@@ -183807,6 +183812,7 @@ pazarama.fast-ilan.com
 pazarama.firsatiseninle.com.tr
 pazarama.guvencelifirsatlar.com.tr
 pazarama.guvenli-odeme.com
+pazarama.guvenlianindaodeme.com
 pazarama.guvenlihizmetler.online
 pazarama.guvenlionline.com
 pazarama.guvenlipazar.com
@@ -183834,9 +183840,11 @@ pazarama.ilandetaylari.com
 pazarama.ile-e-sepetler.com.tr
 pazarama.ile-onay-sepete.com
 pazarama.indirimsepetinde.com
+pazarama.islemkanali.com
 pazarama.kargohizi.com
 pazarama.magazamda-ilanim.com
 pazarama.odeme-onay-1281.com
+pazarama.odemeguvende.com
 pazarama.odemeyonetimi.com
 pazarama.onayda-sepet-7180.com
 pazarama.onayda-sepet-7181.com
@@ -183860,12 +183868,14 @@ pazarama.sepet-odemeler-2212.com
 pazarama.sepet-odemeler-2213.com
 pazarama.sepet-odemeler-2214.com
 pazarama.sepet-odemeler-2216.com
+pazarama.siparis-firsatim.com
 pazarama.siparisguvende.com
 pazarama.siparisimhizli.com
 pazarama.siparisislemleri.com
 pazarama.siparislerimguvende.com
 pazarama.siparislerkapida.com
 pazarama.siparislerkapimda.com
+pazarama.sizin-sepetleriniz.com.tr
 pazarama.sorunsuzodeme.com
 pazarama.urundetayi.com
 pazaramaanelergunuozel.com
@@ -188401,6 +188411,7 @@ pttavm.magazasepeti.com.tr
 pttavm.market
 pttavm.mayisfirsati.com.tr
 pttavm.medyahizmetler.shop
+pttavm.mobil-odemesepeti777.com
 pttavm.mobil-siparislerim.comtr.com
 pttavm.mobil-siparislerle-tr.com.tr
 pttavm.mobil-tr-ilanlarimiz.com.tr
@@ -188415,6 +188426,7 @@ pttavm.msiparisinizi-tamamla.com
 pttavm.net
 pttavm.net.ph
 pttavm.net.web.tr
+pttavm.odeme-onay-1286.com
 pttavm.odemedogrula.com
 pttavm.odemeniguvenliyap.com
 pttavm.odemeyi-tamamla.com
@@ -220997,6 +221009,7 @@ tokimnetgovtr.cfd
 tokimnetgovtr.sbs
 tokimnetilkkayitgovtr.com
 tokimnettokimgovtr.com
+tokimntokimm-knt-projem.com
 tokimntokimm-knt-projesim.com
 tokimobilbasvuru.shop
 tokimobilbasvurulari.vercel.app

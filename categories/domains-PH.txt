@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109046
-# Last change: 2026-11-07 08:52:04 UTC (sync mode: delta)
+# Records: 109054
+# Last change: 2026-11-07 15:42:38 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -13386,6 +13386,7 @@ benim-teb-bankam.myonlineportal.at
 benimadimkenankamberseninlegoruscez.com
 benimdedembirnine.duckdns.org
 benimevim-t-o-k-i-bsrv.com
+benimevimbasvuru.com
 benimevimil.com
 benimhikayeminkahramani.com
 benimlemisinizmrc.com.tr
@@ -19551,6 +19552,7 @@ cepte-eylul.net.tr
 cepte-inter.my-homeip.de
 cepte-islemleriminz-garanti.duckdns.org
 cepte-klima.xyz
+cepte-lndirimlerin.com
 cepte-shop-tr.online
 cepte-shop.online
 cepte-sok-market.name.tr
@@ -20799,6 +20801,7 @@ clyscslccss-cswqs.com
 cm342nsdvc.cyou
 cmahzmtsnryk.net
 cmdbycian.156953coinbase.com
+cmdpspsfsocs.click
 cmfbadminton.com
 cmhceza.org
 cmhrdanbrayagldm.click
@@ -28169,6 +28172,7 @@ discobarometer.top
 disconnect-coinbase.com
 discorderrand.top
 discordextract.top
+discordsupporttt.xyz
 discosanctuary.top
 discount-a101-firsat-kampanya-haftasi-tum-hafta-boyunca1575.primefirsatiyakala.net
 discountconvene.top
@@ -64655,6 +64659,7 @@ muayene-randev-turk.net
 muayene-randevusu.com
 muayene-rezervasyon.com
 muayene.click
+muayene.randsjvjad.store
 muayenealin.com
 muayenearac.com
 muayenearacim.com
@@ -77221,6 +77226,7 @@ r-bireyselservislerin.com
 r-karcahome.shop
 r-nvdlsr-brdn-hmcn-m.web.app
 r-onayllnservishizmeti.com
+r-rhberndv.cfd
 r-rndvakti.com
 r-sponsor-crs.web.tr
 r.crazy-pare.34-125-197-109.plesk.page
@@ -86840,6 +86846,7 @@ sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 sonfrstlarrkmpnyaabasvrr478596.pro
 sonfrstlarrrkmpnyaa96587412.online
+sonfsrtlarkmpny381.pro
 songeridonustarihi-aidat-2024-haberlesme.net
 songeridonustarihi-aidat-2024-ileriiksim.net
 songeridonustarihi-aidat-2024-ilerksim.net
@@ -93855,6 +93862,7 @@ togg-kredim.com
 togg-nato-ozel-cekilis.space
 togg-nato-ozel-cekilis.xyz
 togg-satisi.cfd
+togg-turk.com
 togg-turkiye.com
 togg.101kapimda.com
 togg.bar

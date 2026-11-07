@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478332
-# Last change: 2026-11-07 08:52:04 UTC (sync mode: delta)
+# Records: 478353
+# Last change: 2026-11-07 15:42:38 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -62551,6 +62551,7 @@ basvrnsbbrdahmnetkla.click
 basvrnzbzleszdebsvrn.com.tr
 basvrpromlar.click
 basvrpromlar25.click
+basvrrkmpnya12372138.pro
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
 basvrrkmpnyaasonnnfrstlarrr.info
@@ -69376,6 +69377,7 @@ benimadimname.click
 benimcanimturkiyem.com
 benimdedembirnine.duckdns.org
 benimevim-t-o-k-i-bsrv.com
+benimevimbasvuru.com
 benimevimil.com
 benimformdoldurmamsite.ml
 benimgarantilihediyem.com
@@ -71701,6 +71703,7 @@ bilgilendirmelerimiz.abrdns.com
 bilgilendirmelidanismanlik.com
 bilgilendirmemerkezi.click
 bilgilendirmemm.netlify.app
+bilgilendirmeportali1.web.app
 bilgilendirmerehberi.web.app
 bilgilendirmesayfam.org
 bilgilendirmesayfasi.misecure.com
@@ -101052,6 +101055,7 @@ cepte-kapida-sokfirsati.cfd
 cepte-kazan.online
 cepte-klima.xyz
 cepte-kuveytturk-tr.com
+cepte-lndirimlerin.com
 cepte-market.com.tr
 cepte-market.net.tr
 cepte-market.org.tr
@@ -106543,6 +106547,7 @@ cmdbycian.156953coinbase.com
 cmdenizbank.com
 cmdkey.hopto.org
 cmdmbfjbrb.duckdns.org
+cmdpspsfsocs.click
 cmdxtwuekroihfd.ru
 cmebh8n.duckdns.org
 cmegrouphkpd.info
@@ -130886,6 +130891,7 @@ discordnet.zapto.org
 discordprovider.ddns.net
 discordservice.ddns.net
 discordsuegdf.ddns.net
+discordsupporttt.xyz
 discosanctuary.top
 discoterforafackts.buzz
 discount-a101-firsat-kampanya-haftasi-tum-hafta-boyunca1575.primefirsatiyakala.net
@@ -191261,6 +191267,7 @@ gsmpaketyukleme.site
 gsmpaketyuklemeleri.net
 gsmpaketyuklemeresmi.net
 gsmpaksetyukle.net
+gsmplaza.22web.org
 gsmspaketcisinden.xyz
 gsmsube.click
 gsmsubemiz.click
@@ -262798,6 +262805,7 @@ kmsorgulamahizmetcinizz.online
 kmsorgulamahizmeti.web.app
 kmsorgulamahizmetii.web.app
 kmsorgulamahizmetimniz.web.app
+kmsorgulamahizmetleri.com
 kmsorgulamahizmetlerii.web.app
 kmsorgulamahizmetlerinizburada.online
 kmsorgulamahizmetlerinizz.shop
@@ -262871,6 +262879,7 @@ kmsorgularnziz.ru.com
 kmsorgularnzzzz.ru.com
 kmsorgulartamsanlarshuzkyler.duckdns.org
 kmsorgulatanlargovorg.com
+kmsorgulatmahizmetlerim.web.app
 kmsorgulatr.com
 kmsorgulatsana.web.app
 kmsorgulayalimhemen.vercel.app
@@ -296171,6 +296180,7 @@ muayene-rxndxvx.net
 muayene-servisi.net
 muayene-ve-kilometre-sorgulama.blogspot.com
 muayene.click
+muayene.randsjvjad.store
 muayenealin.com
 muayenearac.com
 muayenearachizmeti.net
@@ -329387,6 +329397,7 @@ pazarama.firsatiseninle.com.tr
 pazarama.guvencelifirsatlar.com.tr
 pazarama.guvenceonay.com.tr
 pazarama.guvenli-odeme.com
+pazarama.guvenlianindaodeme.com
 pazarama.guvenlihizmetler.online
 pazarama.guvenliodemeonay.com
 pazarama.guvenlionayodeme.com
@@ -329434,6 +329445,7 @@ pazarama.ile-siparisiniz.com.tr
 pazarama.ile-siparisleriniz.com.tr
 pazarama.indirimsepetinde.com
 pazarama.islemcepte.com
+pazarama.islemkanali.com
 pazarama.islemlerle.com.tr
 pazarama.jetsiparislerim.com
 pazarama.kalitelihizmetler.com
@@ -329453,6 +329465,7 @@ pazarama.odeme-onay-1287.com
 pazarama.odeme-onay-1288.com
 pazarama.odeme-onay-1289.com
 pazarama.odeme-onay-1290.com
+pazarama.odemeguvende.com
 pazarama.odemeyonetimi.com
 pazarama.onayda-sepet-7180.com
 pazarama.onayda-sepet-7181.com
@@ -329481,6 +329494,7 @@ pazarama.sepet-odemeler-2213.com
 pazarama.sepet-odemeler-2214.com
 pazarama.sepet-odemeler-2216.com
 pazarama.sepetinizde.com.tr
+pazarama.siparis-firsatim.com
 pazarama.siparis-kapinda.com
 pazarama.siparisguvende.com
 pazarama.siparishizi.com
@@ -329491,6 +329505,7 @@ pazarama.siparislerimguvende.com
 pazarama.siparislerkapida.com
 pazarama.siparislerkapimda.com
 pazarama.siparispanelim.com
+pazarama.sizin-sepetleriniz.com.tr
 pazarama.sorunsuzodeme.com
 pazarama.urundetayi.com
 pazaramaanelergunuozel.com
@@ -340341,6 +340356,7 @@ pttavm.magazasepeti.com.tr
 pttavm.market
 pttavm.mayisfirsati.com.tr
 pttavm.medyahizmetler.shop
+pttavm.mobil-odemesepeti777.com
 pttavm.mobil-siparislerim.comtr.com
 pttavm.mobil-siparislerle-tr.com.tr
 pttavm.mobil-tr-ilanlarimiz.com.tr
@@ -340359,6 +340375,7 @@ pttavm.net.ph
 pttavm.net.tr
 pttavm.net.web.tr
 pttavm.odeme-onay-1282.com
+pttavm.odeme-onay-1286.com
 pttavm.odeme-tamamla.com
 pttavm.odemedogrula.com
 pttavm.odemekolay.com.tr
@@ -347696,6 +347713,7 @@ r-karcahome.shop
 r-nvdlsr-brdn-hmcn-m.web.app
 r-onayllnservishizmeti.com
 r-pttgov.top
+r-rhberndv.cfd
 r-rndvakti.com
 r-sok.com.tr
 r-sponsor-crs.web.tr
@@ -383735,6 +383753,7 @@ sonfrstlartukenmkuzere1o1.shop
 sonfrstlrbgnx.xyz
 sonfrstlrm.shop
 sonfrsttbsvrrkmpnyaa.art
+sonfsrtlarkmpny381.pro
 song.catadvertisement.loan
 songamona.duckdns.org
 songbleryenylagrs.shop
@@ -406904,6 +406923,7 @@ togg-onbasvuru.com
 togg-onsiparis.com
 togg-satisi.cfd
 togg-trumore.com
+togg-turk.com
 togg-turkiye.com
 togg-yetkili-acente.org
 togg.101kapimda.com
@@ -407994,6 +408014,7 @@ tokimnetgovtr.cfd
 tokimnetgovtr.sbs
 tokimnetilkkayitgovtr.com
 tokimnettokimgovtr.com
+tokimntokimm-knt-projem.com
 tokimntokimm-knt-projesim.com
 tokimobil.vercel.app
 tokimobilbasvuru.shop
