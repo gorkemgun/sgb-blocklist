@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41747
-# Last change: 2026-11-06 15:58:06 UTC (sync mode: full)
+# Records: 41740
+# Last change: 2026-11-07 20:15:55 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -9265,7 +9265,6 @@ cryptomega.ga
 cryptondns.duckdns.org
 cryptopricebadgequickglance.pro
 cryptoratesfiatconverter.pro
-cryptosirinloom.xyz
 cryptostore.publicvm.com
 cryptoworl857.ddns.net
 cryptserver.hopto.org
@@ -9854,7 +9853,6 @@ datasend.linkpc.net
 datasheet.fun
 datasheet96.azurewebsites.net
 datashieldsecure.com
-datasirinstream.xyz
 datasomatic.ru
 datastatistics.nl
 datatkr.info
@@ -17468,7 +17466,6 @@ hymenri.courses
 hyp33g.com
 hypdac.com
 hype-wave.com
-hypersiringrid.xyz
 hypertextteches.com
 hyperv-heartbeat-service.azurewebsites.net
 hyperv-time-sync.azurewebsites.net
@@ -28056,7 +28053,6 @@ pixelia.shop
 pixella.shop
 pixelmator.pics
 pixelmator.us
-pixelorbsirinit.xyz
 pixelsmith.shop
 pixelworld-roleplay.xyz
 pixio.zapto.org
@@ -28668,7 +28664,6 @@ priorconduct.xyz
 prioritysoft828.weebly.com
 priscillacallista.net
 priscilliahelper.site
-prisirsimnova.xyz
 prism-matrixs.com
 prism-vertex.com
 prism-west-candy.glitch.me
@@ -32846,7 +32841,6 @@ skypedns.duckdns.org
 skypetoteams.com
 skypredict.org
 skyrim.3d-game.com
-skysirinfusion.xyz
 skytigerstudios.xyz
 skzcm.com
 sl.008php.com
@@ -33892,7 +33886,6 @@ storm-wave.online
 stormgocolocrest.xyz
 stormlegue.com
 stormplayavia.com
-stormsirinbyte.xyz
 stormslva.net
 stormynight62.top
 stoutorder.xyz

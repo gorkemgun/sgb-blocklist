@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109054
-# Last change: 2026-11-07 15:42:38 UTC (sync mode: delta)
+# Records: 109074
+# Last change: 2026-11-07 20:15:55 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5835,6 +5835,7 @@ ahlatcimenkulkiymetler.com
 ahlatciyatirim.co
 ahmaswe.com
 ahmetafafaan.net
+ahmetasdds.blogspot.com
 ahmetastw.blogspot.com
 ahmetdincer.com.tr
 ahmeterdem.sa.com
@@ -7267,6 +7268,7 @@ alo-1822.com
 alo-yogatr.com
 alo1-indirim.com
 alo1-marketin.com.tr
+alo112bet.space
 alo182.org
 alo182biziz.duckdns.org
 alocagrimerkezi.com
@@ -9571,6 +9573,7 @@ arzumhdson.com
 arzumindirimww.duckdns.org
 arzumindrimszznlex.com
 arzummaknneindrm.com
+arzumndrtwtma.com
 arzumnstwneinle.com
 arzumokka.online
 arzumsseninlew.com
@@ -18464,6 +18467,7 @@ canfilo.org.tr
 cangardenresorts.com
 cangardenresortshotel.com
 cangroupsn.com
+canigetoneyag.app
 canilenuricraat.online
 canileyukleme.shop
 canimburadasinartikxd.click
@@ -30546,6 +30550,7 @@ ebireybasvur-formu-ozel-kampanyasi-online.kampanya-basvuru-sayfa.xyz
 ebireysel.com
 ebizbosunamiburdayizbabayigit.com
 ebjv.com.au
+eblgirndv.cfd
 eblogawaaddged.de
 eblogawdaaddged.de
 eblwgawdaaddged.de
@@ -36063,6 +36068,7 @@ fireworkshierarchical.top
 fireworksplaintiff.top
 firjacket.top
 firmalar.firma.firmaslfasd.click
+firmamslslqs.click
 firmdevelop.top
 firmlavish.top
 firmmelody.top
@@ -38203,6 +38209,7 @@ garantigirisim.net
 garantigiriskredibasvurularibasladi.online
 garantihaziranbonusu.ml
 garantihazirandaguzel.ml
+garantihizlifinans.cloud
 garantihuzuru.top
 garantiiibnkmobill.mooo.com
 garantiimenkuldegerler.com
@@ -42625,6 +42632,7 @@ haberler1436542.sbs
 haberler14534925.shop
 haberler15123424.sbs
 haberler15132.sbs
+haberler15341231.sbs
 haberler154232.sbs
 haberler1542334.shop
 haberler154313.sbs
@@ -42647,6 +42655,7 @@ haberler223522.sbs
 haberler23142135.sbs
 haberler231542423.online
 haberler23232.shop
+haberler2331112.sbs
 haberler233434123.shop
 haberler23432.sbs
 haberler23432.shop
@@ -45981,6 +45990,7 @@ hizlirndvun51-dca210ea066b.herokuapp.com
 hizliservis-35bca7801b37.herokuapp.com
 hizlisevilenkampanyalarsizlerle.com.tr
 hizlisevilenkampanyalarsizlerle.xyz
+hizlisgecisnayolsyukleyn.art
 hizlisiggortacim.gen.tr
 hizlisiggortacim.org.tr
 hizlisigortahizmeti.com.tr
@@ -54449,6 +54459,7 @@ kasimdabasvurular.top
 kasimdabasvurularkapaniyor.cloud
 kasimdabi1rbaskakmpnysxcw1.com
 kasimdamarket.com.tr
+kasimdarhber.cfd
 kasimdasonukacirma.com
 kasimfirsat.site
 kasimfirsat.xyz
@@ -64660,6 +64671,7 @@ muayene-randevusu.com
 muayene-rezervasyon.com
 muayene.click
 muayene.randsjvjad.store
+muayene.taprnsdhvsdlsc.store
 muayenealin.com
 muayenearac.com
 muayenearacim.com
@@ -70447,6 +70459,7 @@ otokocfilotr.com
 otokocfilotr.net
 otokocfiloturkiye.net
 otokockirala.net.tr
+otokockirolama.com
 otokockurumsal.org
 otokockurumsal.rent
 otokoclakirala.com
@@ -75234,6 +75247,7 @@ promosuper.net
 promosyon-cepteteb-com-tr.my-homeip.de
 promosyon-isbanka.xyz
 promosyon-kayit.com
+promosyon-teb-com.my-homeip.de
 promosyon.website
 promosyon101bgn.duckdns.org
 promosyonadrs.sbs
@@ -80725,6 +80739,7 @@ saglklirhberle.cfd
 saglklmhrndy.cfd
 saglkrhberlri.cfd
 saglkrnd.cfd
+sagltmslml.net
 sagotravel.com.tr
 sahabet.press
 sahabet671.com.tr
@@ -81020,6 +81035,7 @@ sahibinden-param-guvende.ilanonayin.online
 sahibinden-param-guvende.ilanonayla.online
 sahibinden-param-guvende.islemonayla.online
 sahibinden-param-guvende.net
+sahibinden-param-guvende.servis-hizmet.online
 sahibinden-param-guvende.siparis-get-servis.online
 sahibinden-param-guvende.siparis-onayi.online
 sahibinden-param-guvende.siparis-onayim.online
@@ -81155,6 +81171,7 @@ sahibinden-sepet.sepetimdeonline.shop
 sahibinden-sepet.sepetimonay.click
 sahibinden-sepet.sepetimonay.lat
 sahibinden-sepet.sepetimonay.surf
+sahibinden-sepet.sepetimonaycom.surf
 sahibinden-sepet.sepetteonline.shop
 sahibinden-servisleriniz-guvenli.com
 sahibinden-servisleriniz.com
@@ -93363,6 +93380,7 @@ tidysnak.top
 tieartery.top
 tieconvergence.top
 tieflatter.top
+tiegsela.sbs
 tierracapital.co
 tietmalignant.top
 tigerchant.top
@@ -104742,6 +104760,7 @@ www-ac-tb-cpte.myonlineportal.ch
 www-acepte-tb-ayricalik.myonlineportal.ch
 www-acpt-tvb-web.myonlineportal.ch
 www-acptb-extend-ayrica.myonlineportal.ch
+www-actry-tbde-cpt.myonlineportal.ch
 www-admin-logo.webflow.io
 www-aidat-sistemi-edevlet.ml
 www-aktue-a-101-tr.online
@@ -104779,6 +104798,7 @@ www-basvurumerkezi2023giris.com
 www-basvurumerkezivatandasportalsorgulamaform-2021.com
 www-basvurumerkezivatandasportalsorgulamaformu-2021.com
 www-bbvagarantibankasi.mermerfatihlerimde.com
+www-bdgettb-exceps-ayrica.myonlineportal.ch
 www-bilgi-trf.blogspot.com
 www-bimcell-com-tr.org
 www-bimcell-ivd.blogspot.com
