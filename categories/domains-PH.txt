@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109040
-# Last change: 2026-11-07 01:58:26 UTC (sync mode: delta)
+# Records: 109046
+# Last change: 2026-11-07 08:52:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -38127,6 +38127,7 @@ garanti-onay-sistemi.cloud
 garanti-online-ekim-ayina-ozel.cloud
 garanti-onlinekredi.com.tr
 garanti-ozkaynak-destegi.cloud
+garanti-para-merkezi.cloud
 garanti-parasal-cozum.cloud
 garanti-portfoy-yonetimi.cloud
 garanti-sermaye-cozumu.cloud
@@ -53335,6 +53336,7 @@ k-11232532412-1.cloud
 k-ak-in-web.my-homeip.com
 k-karcahome.shop
 k-kartaidat.site
+k-morlsk.web.app
 k-pr---l----cv-ad----ia.icu
 k-pr---l----cv-ad----ia1.icu
 k-pr---l----cv-ad----ia12.icu
@@ -55698,6 +55700,7 @@ klxkdsmdjxjx.net
 klyndex.website
 klynrifz.com
 klypto.info
+klysglkrhbri.cfd
 klythoranex.com
 klyymxxc.com
 km-bilgialmak-icin-burarya.web.app
@@ -76487,6 +76490,7 @@ pttur-is.top
 pttuy.cc
 pttviphome.life
 pttvt.cc
+pttwamwmsorglama.com
 pttwebstoree.online
 pttwo.cloud
 pttxavm-hizlixodemexler.com
@@ -79648,6 +79652,7 @@ rnd-stadium.ru
 rnd199.online
 rnd7ru3fbn.storage.googleapis.com
 rndaldn.cfd
+rndblgi.cfd
 rndbsurizmebrurds.store
 rndbsvhzimebrurds.store
 rnddvhszsjfsf.online
@@ -80383,6 +80388,7 @@ s1mzamangldi1br0d1a.com
 s2lovam.com
 s2ver.online
 s3177.site
+s32ee43hh7h87h62.lan64.de
 s3caccverifisubmit.xyz
 s3rehnhlles3d8n.iot64.de
 s4.kredidenizim.com
