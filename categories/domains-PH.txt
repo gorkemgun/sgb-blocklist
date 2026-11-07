@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109074
-# Last change: 2026-11-07 20:15:55 UTC (sync mode: full)
+# Records: 109091
+# Last change: 2026-11-07 23:41:18 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2224,6 +2224,7 @@
 4.houstonwalker.com
 40-118-23-80.plesk.page
 4000085420006.cloud
+403-forbidden.sbs
 404308.com
 407minions.com
 407teric.buzz
@@ -3078,6 +3079,7 @@
 87532.store
 8754.click
 876654465.net
+876686.sbs
 876854651534486.duckdns.org
 87894564854.com
 8795949222-11.cloud
@@ -11753,6 +11755,7 @@ bana-ozel-resim-basvurm-ozel.ml
 bana-ozel-resim-basvurm-ozel.yeniyilsuprizkampanya-ozel.tk
 banabakarifdabi.sbs
 banabaklan.lol
+banabatcakal.lol
 banabatcakala.lol
 banakimbakmis.tk
 banakitlenmeseftali.duckdns.org
@@ -12360,6 +12363,7 @@ basvururhbrtx.com
 basvururkpss.net
 basvurusartlarivedetaylariyla.net
 basvurusayfa-form.org
+basvurusayfan1453.sbs
 basvurusayfasama.sbs
 basvurusayfasi.online
 basvuruservisi.ml
@@ -28509,6 +28513,7 @@ dmartindia.tr
 dmartshopping.com.tr
 dmaz33ecrouch.top
 dmca-chrome-extensions.click
+dmca-claim.info
 dmcomunicacaovisual.com
 dmed33alisland.top
 dmenexts.net
@@ -38215,6 +38220,7 @@ garantiiibnkmobill.mooo.com
 garantiimenkuldegerler.com
 garantiimobilegirissefes.chickenkiller.com
 garantikkredim.wixsite.com
+garantikolaydestek.cloud
 garantikrediler.cloud
 garantikredim.cloud
 garantikredimbasvur.vercel.app
@@ -45888,6 +45894,7 @@ hizligeciskontrol.lol
 hizligecislerotomatikodemelerindirimli.net
 hizligecismerkzi.art
 hizligecisotomatik.blogspot.com
+hizligecisportalin.web.app
 hizligecisrehberi.web.app
 hizligecissistemleri.arabamuayenesi.xyz
 hizligecisyuklemeciniz.firebaseapp.com
@@ -46204,6 +46211,8 @@ hlgsgxsiniz.net
 hlk-frasstkmp.sbs
 hlkbn2.blogspot.com
 hlkenta.net
+hlkrndrhberlri.cfd
+hlksglkrhber.cfd
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
 hlldrymbrdansnz.duckdns.org
@@ -47448,6 +47457,7 @@ hystericalallot.top
 hystericalhypocrisy.top
 hystericalsteward.top
 hytappdata.site
+hytdenemeseris.duckdns.org
 hytiyilnb.org
 hytsiysx.com
 hyukleyin.arabamuayenesi.xyz
@@ -56102,6 +56112,7 @@ knttkrrt.net
 knttkrttm.net
 knxhzc.homes
 ko.hgsyuklemeyerii.net
+koadsfced.giize.com
 koagux.top
 koalayaliverisyap.com
 koalaysiparis.net
@@ -69397,6 +69408,7 @@ onlinealimyap.com
 onlinealis.com.tr
 onlinealisveris-tr.sa.com
 onlinealisveris.click
+onlinealisveris.live
 onlinealisveris.ru.com
 onlinealisverisadresiniz.com.tr
 onlinealisverisdysn.online
@@ -75243,6 +75255,7 @@ promoget.net
 promohubventure.com
 promolatori.icu
 promomomentum.site
+promos-cepteteb.my-homeip.de
 promosuper.net
 promosyon-cepteteb-com-tr.my-homeip.de
 promosyon-isbanka.xyz
@@ -80737,6 +80750,7 @@ saglkgnlrdylrzbrdanmhrsss.cfd
 saglkicndnvualn.cfd
 saglklirhberle.cfd
 saglklmhrndy.cfd
+saglkmhr.cfd
 saglkrhberlri.cfd
 saglkrnd.cfd
 sagltmslml.net
@@ -93873,6 +93887,7 @@ togetherhire.fun
 togethernet.site
 togfinans.com
 togg-arac-finansmani.com
+togg-e.com
 togg-finans-kredim.com
 togg-finansman.com
 togg-hizlisiparis.xyz
@@ -94848,6 +94863,7 @@ tr-sepettex.online
 tr-servis-onay.online
 tr-sikayetlerin.ru.com
 tr-sikaytmvar.net
+tr-siparis-ilan.online
 tr-siparis.net
 tr-siparisonay.online
 tr-sok-magazalari.com.tr
@@ -105080,6 +105096,7 @@ www-vakifbankcekilishediye.com
 www-vakifbankcekilishediyeler2022.com
 www-voltbde-cepte-ayrica.myonlineportal.ch
 www-web-cept-tb.myonlineportal.ch
+www-webactry-cptetbde.myonlineportal.ch
 www-yapi-kredi-cekiliskatilim.gq
 www-yapikredi-cekilisworld.tk
 www-yapikredi77yilindahediyeler.com

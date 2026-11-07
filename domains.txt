@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478370
-# Last change: 2026-11-07 20:15:55 UTC (sync mode: full)
+# Records: 478387
+# Last change: 2026-11-07 23:41:18 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14240,6 +14240,7 @@
 4018924765717295130.duckdns.org
 4018924765717295140.duckdns.org
 401x3g.duckdns.org
+403-forbidden.sbs
 4034892884-3429834.cloud
 403941-1123-2.cloud
 403esg.duckdns.org
@@ -21213,6 +21214,7 @@
 876565476879665875.xyz
 876654465.net
 87665543.net
+876686.sbs
 8767564563453434.duckdns.org
 87676556756.net
 8767s.fcsfn.com
@@ -61370,6 +61372,7 @@ banabakkafamdasinhep.com
 banabaklan.lol
 banabakmadeinturkey.xyz
 banabanabana.com
+banabatcakal.lol
 banabatcakala.lol
 banabenigeriver.dns.navy
 banadamilolo-12.site
@@ -65344,6 +65347,7 @@ basvurusayfa-form.org
 basvurusayfalari--paribudogecoinhediyeleri-tr.tk
 basvurusayfalari--paribudogecoinhediyesi-tr.tk
 basvurusayfalari-paribudogehediyesiaktarim-com.tk
+basvurusayfan1453.sbs
 basvurusayfaniz.com
 basvurusayfaniz.net
 basvurusayfasama.sbs
@@ -131717,6 +131721,7 @@ dmaz33ecrouch.top
 dmbkydzyke.duckdns.org
 dmbsa.com
 dmca-chrome-extensions.click
+dmca-claim.info
 dmca-notification.info
 dmca-wipo.com
 dmcgroup.com.vn
@@ -179049,6 +179054,7 @@ garantikazanci.com
 garantikazaniyor.com
 garantikiralamafilo.com
 garantikkredim.wixsite.com
+garantikolaydestek.cloud
 garantikolayfirsatfiizsiz.online
 garantikolayodeisbasitkolayfinansmangaranti.xyz
 garantikredi.2574345284563534.com
@@ -214719,6 +214725,7 @@ hizligecisonline2022.com
 hizligecisotomatik.blogspot.com
 hizligecisotoyol-devlet.gq
 hizligecisporali.net
+hizligecisportalin.web.app
 hizligecisptt.xyz
 hizligecisrehberi.web.app
 hizligeciss2022.com
@@ -216703,6 +216710,8 @@ hlkiademcomiade.com
 hlkieauqpn.duckdns.org
 hlkinternet.com
 hlkncrfsasi.shop
+hlkrndrhberlri.cfd
+hlksglkrhber.cfd
 hlksmistlblm.com
 hlkwebsubayrntilarsub493.shop
 hlkwebsubayrntilarsub532.shop
@@ -221533,6 +221542,7 @@ hystericalsteward.top
 hysuhuu.com
 hytappdata.site
 hytcezalar.22web.org
+hytdenemeseris.duckdns.org
 hytdnzdeguzl.shop
 hytechmart.com
 hytheros.site
@@ -263343,6 +263353,7 @@ ko3a-dere3a.ru
 ko3uea.duckdns.org
 ko46h9wi9.duckdns.org
 ko582s.duckdns.org
+koadsfced.giize.com
 koagux.top
 koala.acsocietyy.com
 koalayalisverin.online
@@ -314914,6 +314925,7 @@ onlinealisveris-tr-tr.shop
 onlinealisveris-tr.sa.com
 onlinealisveris-tr.shop
 onlinealisveris.click
+onlinealisveris.live
 onlinealisveris.ru.com
 onlinealisveris101.co
 onlinealisveris101.shop
@@ -337604,6 +337616,7 @@ promoobasvur.com
 promoonayekrandenizde.duckdns.org
 promopulses.info
 promoreclame.nl
+promos-cepteteb.my-homeip.de
 promos.my-homeip.com
 promosionizinleri.com
 promosiyo.shop
@@ -359623,6 +359636,7 @@ saglkgnlrdylrzbrdanmhrsss.click
 saglkicndnvualn.cfd
 saglklirhberle.cfd
 saglklmhrndy.cfd
+saglkmhr.cfd
 saglkrhberlri.cfd
 saglkrnd.cfd
 sagltmslml.net
@@ -406919,6 +406933,7 @@ togg-arac-finansmanlari.com
 togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
 togg-cekilis.com
+togg-e.com
 togg-faizsiz-limitim.netlify.app
 togg-faizsizlimitlerim.com
 togg-finans-kredim.com
@@ -411143,6 +411158,7 @@ tr-sikayetlerin.ru.com
 tr-sikayetmerkezi-guncel.net
 tr-sikaytmvar.net
 tr-sikkayetmerkezi-guncel.net
+tr-siparis-ilan.online
 tr-siparis-islem.online
 tr-siparis-secure.online
 tr-siparis-sepete-ekle.mooo.com
@@ -452174,6 +452190,7 @@ www-web-cept-tb.myonlineportal.ch
 www-web-turkiyegovtr.co
 www-web-turkiyegovtr.com
 www-web-turkiyegovtr.org
+www-webactry-cptetbde.myonlineportal.ch
 www-webex.top
 www-webgiris-turkiyegovtr.com
 www-websube-mayiduyuru.tk
