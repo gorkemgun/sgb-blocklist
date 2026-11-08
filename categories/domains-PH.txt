@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109110
-# Last change: 2026-11-08 13:33:05 UTC (sync mode: delta)
+# Records: 109137
+# Last change: 2026-11-08 18:51:33 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2579,6 +2579,7 @@
 58963211222.cloud
 5896328bsrrprsmynnkmpny.click
 58f667d2.dsfiurb-u.shop
+5959snfprsmasdj.pro
 59d94013.dj-hd5kfu.shop
 5a1c2.alegrapizzeria.sk
 5a75253f.dsfiurb-u.shop
@@ -3133,6 +3134,7 @@
 8jpbk5.cyou
 8jz2x.icu
 8k5pqek.cn
+8kasmartw.blogspot.com
 8kg06yz.cn
 8mayis-ozl.com
 8mobacj4.forms.app
@@ -7064,6 +7066,7 @@ alisverisdunydamdasongun.com.tr
 alisverisdyson.online
 alisverisepetin-13.sbs
 alisverisepetislem-15.sbs
+alisverisfirsati.com
 alisverisfirsatlari.click
 alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
@@ -9579,6 +9582,7 @@ arzumndrtwtma.com
 arzumnstwneinle.com
 arzumokka.online
 arzumsseninlew.com
+arzumsstwtw.com
 arzumtblenn.com
 arzumtwtw63.com
 arzzumstw.duckdns.org
@@ -10058,6 +10062,7 @@ astrovector.capital
 asube-teb.myonlineportal.de
 asvarvakfi.org
 asvdjkasnvkdasxzcsd.com
+asvurularolsuntoki.com
 asxasx.dravencia.sbs
 asxxx.dravencia.sbs
 asy-3.any-daky.icu
@@ -11755,6 +11760,7 @@ bana-ozel-resim-basvurm-ozel.ml
 bana-ozel-resim-basvurm-ozel.yeniyilsuprizkampanya-ozel.tk
 banabakarifdabi.sbs
 banabaklan.lol
+banabatcaka.lol
 banabatcakal.lol
 banabatcakala.lol
 banakimbakmis.tk
@@ -13848,6 +13854,7 @@ bilgilendirme-shop.online
 bilgilendirme-tr.online
 bilgilendirmelerimiz.abrdns.com
 bilgilendirmemm.netlify.app
+bilgilendirmeportali2.web.app
 bilgilendirmerehberi.web.app
 bilgilendirmesler.date
 bilgilennyolgecis.netlify.app
@@ -17397,6 +17404,7 @@ bugunaldinaldinsonfirsat.site
 bugunbakisi.com
 bugunberdahangmacvar.info
 bugunbizseninleyiz.com
+bugunbizyarin.lol
 bugunburda.online
 buguncemberi.com
 buguncizgisi.com
@@ -18476,6 +18484,7 @@ canigetoneyag.app
 canilenuricraat.online
 canileyukleme.shop
 canimburadasinartikxd.click
+canimillionyag.app
 canimlecanamin.net
 canimturkiye.cyou
 caninelab.co
@@ -33947,6 +33956,7 @@ evlenode.365-tr-evlllkrdisi.com
 evlentr.tech
 evlerbasvurularbenim.com
 evlereekis.com
+evlerimbasvurubenim.com
 evletttiiddiidie.com
 evleylikredisibasvuru.net
 evlgnclhberlr.net
@@ -42022,6 +42032,7 @@ guvenlimuhasebeodemebirimi.duckdns.org
 guvenlimuhasebeodemeleri.duckdns.org
 guvenlimuhasebeodemeniz.duckdns.org
 guvenlimuhasebeodemenoktasi.duckdns.org
+guvenliodeme-61.sbs
 guvenliodeme-get.online
 guvenliodeme-tr.sa.com
 guvenliodeme.dev
@@ -42395,6 +42406,7 @@ h6yerho.cn
 h72vn3jtpt5.icu
 h7778.site
 h7h634s5h3le9362.home64.de
+h7s7heh3h8h36e4h.dns64.de
 h8235.cn
 ha233lki45nelivesesi.duckdns.org
 haaafftftaanninndrirmllerriiiiiiii.com
@@ -42719,6 +42731,7 @@ haberler4787419.sbs
 haberler4857489.sbs
 haberler4922248.sbs
 haberler4923648.sbs
+haberler531112.sbs
 haberler53454321.shop
 haberler543343.shop
 haberler562346.sbs
@@ -48446,6 +48459,7 @@ ilan-1012354858-sahibinden.com
 ilan-1012372247-sahibinden.com
 ilan-1012376471-sahibinden.com
 ilan-1017843148-sahibinden.com
+ilan-10194.com
 ilan-1041315231-s-ahibinden.com
 ilan-1047312098-s-ahibinden.com
 ilan-1055146487-s-ahibinden.com
@@ -48467,6 +48481,7 @@ ilan-alisveris-sepet.com.tr
 ilan-burada.com
 ilan-detay.com
 ilan-detay.online
+ilan-detay102.com
 ilan-get-alisveris.com
 ilan-get.com.tr
 ilan-getonay.online
@@ -55990,6 +56005,7 @@ kmsorgulamamizz.web.app
 kmsorgulamamizzw.web.app
 kmsorgulamammaiaiz.web.app
 kmsorgulamammiz.web.app
+kmsorgulamaonlinee.web.app
 kmsorgulamaptt.shop
 kmsorgulamapttavmgvlsk.web.app
 kmsorgulamaslemleriniz.web.app
@@ -57995,6 +58011,7 @@ letgo.tr-ilanimiz.com
 letgo.tr-ilanlarim.com
 letgo.web-islemleriniz.com
 letgoilan.com
+letgomuhasebe.co
 letgomuhasebe.com
 letgomuhasebe.online
 letgosiparis.com.tr
@@ -66606,6 +66623,7 @@ nightstalkerd.pro
 nightvector.vu
 niguo.top
 nihaisenlim.giize.com
+nihaisoni.giize.com
 nihhathatipoglu.com
 nihilvoluptate.com
 nihtlyconteract.top
@@ -67000,6 +67018,7 @@ nopanel-087462.top
 nopanel-246624.top
 nopanel-348252.click
 nopanel-363563.top
+nopanel-366213.top
 nopanel-36672.top
 nopanel-37472.top
 nopanel-440001.top
@@ -76445,6 +76464,7 @@ pttkm.shop
 pttkmsklz.com
 pttkmsorgu.com
 pttkmsorgula.shop
+pttkolayklemekbakie.web.app
 pttkrgolariniz1984.hopto.org
 pttkrgsdsd.com
 pttkrgsnl.net
@@ -80156,6 +80176,7 @@ ruhsuzpanelhizmetlerim.click
 ruhsuzpanelimizbirtane.click
 ruhsuzpanelkeyfi.click
 ruhsuzpanelq.wendicraft.site
+ruhsuzpaneltekdirr.click
 ruhsuzpanelvsusom.click
 ruhsuzsistem1.click
 ruinousatrocious.top
@@ -81707,6 +81728,7 @@ sahibinden.trodemeonline.sa.com
 sahibinden.trsiparisodeme.online
 sahibinden.tur-trades.site
 sahibinden.uk
+sahibinden.ulak.pp.ua
 sahibinden.urun-guvenli-alin.com
 sahibinden.urun-guvenlial.com
 sahibinden.urun-ode.com.tr
@@ -84339,6 +84361,7 @@ sgktesviksorgulama.info
 sglik-rhber.cfd
 sglklamhrrndvu.cfd
 sglklignleredgru.cfd
+sglklihfta.cfd
 sglklirhber.cfd
 sglklirhblr.cfd
 sglkrhberi.cfd
@@ -85808,6 +85831,7 @@ sizler-burada-neden-gelmiyorsun.top
 sizler-degerlisiniz.net
 sizler.icin.hizmetler.mavibeyazskorlar.click
 sizler.icin.hizmetler.sahizmtofls.click
+sizler.icin.hizmetler.websitemizsizlere.click
 sizlerdehemenyararlanin.site
 sizleree-ozel.online
 sizlereenguzelhizmetdevlet.com
@@ -86889,6 +86913,7 @@ sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.info
 sonfrslttrrrbsvrrrkmpnyyykrediiifrstlrr.pro
 sonfrstlarrkmpnyaabasvrr478596.pro
 sonfrstlarrrkmpnyaa96587412.online
+sonfsrtlarkmpny381.info
 sonfsrtlarkmpny381.pro
 songeridonustarihi-aidat-2024-haberlesme.net
 songeridonustarihi-aidat-2024-ileriiksim.net
@@ -87450,6 +87475,7 @@ soykanbutik.fun
 soykanchecker.com
 soykun.icu
 soylebisaat.duckdns.org
+soylebisigeciyimmi.xyz
 soylemektencekinmeyinbunlari.net
 soylevv.net
 soypir.top
@@ -94886,6 +94912,7 @@ tr-sorguportal-basvurupaributeknolojisi-com.tk
 tr-subesi.site
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
+tr-tog.com
 tr-toki-basvuru-formu.com
 tr-tpao.com.tr
 tr-tr-frfacebook.com

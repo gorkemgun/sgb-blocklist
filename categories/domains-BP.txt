@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260253
-# Last change: 2026-11-08 13:33:05 UTC (sync mode: delta)
+# Records: 260257
+# Last change: 2026-11-08 18:51:33 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -98472,6 +98472,7 @@ garantiamextrfirsatlari.ml
 garantianinda.com
 garantianindabonus.com
 garantianindafirsatlar.duckdns.org
+garantianindaonay.cloud
 garantianketi2020.com
 garantiapptoggbasvuru.site
 garantiaractabayi.site
@@ -156169,6 +156170,7 @@ letgo.6325435.online
 letgo.cuzdanimguvende.net
 letgo.guvenli-hizmet.online
 letgo.ilanlarim-ozelsepetim.com
+letgo.ilanlarim-sepetin.pro
 letgo.ile-guvenli-hizmetler.com
 letgo.ile-odemeyi-tamamlayin.com
 letgo.mobilservisler-76.sbs
@@ -159899,6 +159901,7 @@ masakgov.com
 masakgovtr.org
 masakguvenlik.com
 masakguvenlik.org
+masakinceleme.com
 masakinfaz.com
 masakinfaz.net
 masakkamuportal.com
@@ -183803,6 +183806,7 @@ pazarama-hizli-onay.net
 pazarama-kurban.duckdns.org
 pazarama-online-siparis.com
 pazarama-react-final-project-ulas.netlify.app
+pazarama.alisverisfirsati.com
 pazarama.anindaodeme.com
 pazarama.anindaonlinesiparis.com.tr
 pazarama.anlik-ilan-odemesi.com
