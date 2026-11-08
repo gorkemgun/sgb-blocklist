@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478395
-# Last change: 2026-11-08 06:11:42 UTC (sync mode: delta)
+# Records: 478412
+# Last change: 2026-11-08 13:33:05 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -117081,6 +117081,7 @@ dagitimmerkezin.com
 dagitimpaketleme.com
 dagitimpaketleme.xyz
 dagitiyoruz.sbs
+dagklsadasdfsas.cyou
 dagnhmfg.tk
 dagnick.ddns.net
 dagrtaniyenibas.duckdns.org
@@ -148624,6 +148625,7 @@ efsadevldetaidatiade.org
 efsanaindirimler.online
 efsanamaximumtr.com
 efsane-1nd1mler-0s1md-1burda.com
+efsane-cuma-indirimleri-teknosa.duckdns.org
 efsane-cuma-karacada-basladi.buraksoftware.com.tr
 efsane-eklmhaftasl.store
 efsane-firsat-kapim-da.com.tr
@@ -179481,6 +179483,7 @@ garantip.com
 garantipandemifirsatgunleri.com
 garantipanel.000webhostapp.com
 garantiparam.fun
+garantiparamerkezi.cloud
 garantiparaodeme.com
 garantipay-flash.com
 garantipay.ga
@@ -200800,6 +200803,7 @@ halksbank.com
 halksbankasi.com
 halksbasunuzburadan.xyz
 halksdestk.club
+halksglkrhbr.cfd
 halksifrebaz.com
 halksigort-am.com
 halksigortaacentesi.com
@@ -216715,6 +216719,7 @@ hlkieauqpn.duckdns.org
 hlkinternet.com
 hlkncrfsasi.shop
 hlkrndrhberlri.cfd
+hlksaglkrhber.cfd
 hlksglkrhber.cfd
 hlksmistlblm.com
 hlkwebsubayrntilarsub493.shop
@@ -260324,6 +260329,7 @@ kiq2jm3i213.hopto.org
 kiqewcsyeyaeusag.xyz
 kir-drsfie-bsfredfbc.shop
 kir3mizi.is-best.net
+kira-sozlesmesi-sistemi.vercel.app
 kira-yardim-edevlet-tr-goc.ga
 kira-yardim-edevlet-tr-gov.ga
 kira-yardim-edevlet-tr-gov.ph
@@ -266982,6 +266988,7 @@ ksmlrdakrclrdngeldi.cfd
 ksmlrdnsnukrcalarda.cfd
 ksmorgulamak.com
 ksmrgolamamyaphmenrnadogv.com
+ksmrhberleri.cfd
 ksmsnzaqsd.click
 ksmtm.loveslife.biz
 ksmwebavinfo.sbs
@@ -305403,6 +305410,7 @@ norulless.com
 norvaxis.info
 norvelynthread.com
 norvencora.info
+norveta.cyou
 norvexa.live
 norvianis.com
 norvionix.sbs
@@ -308029,6 +308037,7 @@ nvlrndvlstr.com
 nvlrndvukmlq.net
 nvlrndvus.net
 nvlrnkdvlgk.net
+nvlrtndvushhzm.web.app
 nvlrvnduvuovlivne.net
 nvlrvndvuovlinve.net
 nvlrxkkndnvju.net
@@ -357874,6 +357883,7 @@ s0i2e6ixq65vkdodudq.ddns.net
 s0ihupc87ly0a6o.ddns.net
 s0iqqq9k0.duckdns.org
 s0j9njs6.duckdns.org
+s0k-aktuel.duckdns.org
 s0k-cepte-kasimfirsatlari.duckdns.org
 s0k-malrket.shop
 s0k.com.tr
@@ -427475,6 +427485,7 @@ uyap-sorgula.online
 uyap-sorgunuz.org
 uyap-sorgusu.online
 uyap-sorusturma.com
+uyap-teknik-destek.pages.dev
 uyap-uzlas.com
 uyap-uzlasma-dosya-sorgu.yasal-uyari-spam.com
 uyap-uzlasma.com
@@ -427495,6 +427506,7 @@ uyap.site
 uyapadalet.org
 uyapadliye.com
 uyapadliye.org
+uyapakademigovtr.com
 uyaparabuluculuk.org
 uyaparsiv.org
 uyapbdk.com
@@ -433454,6 +433466,9 @@ ventusmeridian.duckdns.org
 venuecarton.top
 venueemancipate.top
 venueproximate.top
+venum-tr.com.tr
+venumsturkey.com
+venumturkiye.com
 venumwalete.webflow.io
 venumxmasz.club
 venus58.com
@@ -446202,6 +446217,7 @@ workvergi.net
 workwithmarym.com
 workwrok.xyz
 world--hand.com
+world-captain.cyou
 world-captain.xyz
 world-cekilis.gq
 world-cekilisleri.gq
@@ -451327,6 +451343,7 @@ www-ontb-web-ayrica.myonlineportal.ch
 www-osym-gov-tr.nl
 www-osym-gov-tr.nproxy.org
 www-osym-gov-tr.online
+www-oytb-extend-ayrica.myonlineportal.ch
 www-pak-et-00.blogspot.com
 www-pak-et-01.blogspot.com
 www-pak-et-1.blogspot.com

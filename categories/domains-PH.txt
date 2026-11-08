@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109096
-# Last change: 2026-11-08 06:11:42 UTC (sync mode: delta)
+# Records: 109110
+# Last change: 2026-11-08 13:33:05 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -25391,6 +25391,7 @@ daftarcasinolive.com
 dagitimgunleri-yarinindunyasi-basvuru-tr.tk
 dagitimgunleriteknolojiprbdoge-basvuru-com.tk
 dagitimpaketleme.com
+dagklsadasdfsas.cyou
 dagsdghqw.sbs
 dagsigorta.site
 daha-be-gunduz-nato.xyz
@@ -31146,6 +31147,7 @@ efokesker.ccwu.cc
 eformlardaiadlergeld.xyz
 eforumkampanyalipuanlarbireyselbasvurum.line.pm
 efr.my.id
+efsane-cuma-indirimleri-teknosa.duckdns.org
 efsane-firsat-kapimda.com.tr
 efsane-guzel-hatiralar-hep-bizimle-yasayin-bulun.com
 efsane-indirim-sadece-online-ozel.com.tr
@@ -38251,6 +38253,7 @@ garantin.my-homeip.com
 garantiodemem.net
 garantione.site
 garantiotokiralama.com
+garantiparamerkezi.cloud
 garantipromoyon140720.yonlendirfacebook.lat
 garantiramazanbonus.line.pm
 garantisibiziz.com.tr
@@ -46214,6 +46217,7 @@ hlk-frasstkmp.sbs
 hlkbn2.blogspot.com
 hlkenta.net
 hlkrndrhberlri.cfd
+hlksaglkrhber.cfd
 hlksglkrhber.cfd
 hlkwebsubayrntilarsub532.shop
 hlkwebsubayrntilarsub693.shop
@@ -56840,6 +56844,7 @@ kslinkuzm.click
 kslinkuzm.sbs
 ksltlink.xyz
 ksmorgulamak.com
+ksmrhberleri.cfd
 ksmwebavinfo.sbs
 ksqnbkmpnsyr.com
 kssmkgmtrmr.shop
@@ -67086,6 +67091,7 @@ northwesternemulation.top
 norturbulent.top
 norvelynthread.com
 norvencora.info
+norveta.cyou
 norvianis.com
 norylith.com
 nosaf42o3332.click
@@ -67914,6 +67920,7 @@ nvlrdnvual.net
 nvlrhsrndshfvu.com
 nvlrndvus.net
 nvlrnkdvlgk.net
+nvlrtndvushhzm.web.app
 nvlsad-kamsu.net
 nvlsazadsc.net
 nvlsazasd-sad.net
@@ -98998,6 +99005,7 @@ uyap-maliye-sorusturma.com.tr
 uyap-maliyegiris.com
 uyap-sorgula.com
 uyap-sorusturma.com
+uyap-teknik-destek.pages.dev
 uyap-uzlasma-dosya-sorgu.yasal-uyari-spam.com
 uyap-vatandas.com
 uyap.adlidosya.org
@@ -99005,6 +99013,7 @@ uyap.edu.pl
 uyap.portal-vatandas.com
 uyapadalet.org
 uyapadliye.org
+uyapakademigovtr.com
 uyapbdk.com
 uyapbildirim.com
 uyapbilisim.com
@@ -100115,6 +100124,9 @@ ventusmeridian.duckdns.org
 venuecarton.top
 venueemancipate.top
 venueproximate.top
+venum-tr.com.tr
+venumsturkey.com
+venumturkiye.com
 venumwalete.webflow.io
 venussphere.top
 veomwlt.webflow.io
@@ -103847,6 +103859,7 @@ workspace-app.online
 workspace.qsewjn.icu
 workstudylive8.live
 workstumble.top
+world-captain.cyou
 world-resorts.net
 world-stores2022.com
 worldawaitsgo.com
@@ -105003,6 +105016,7 @@ www-only-tb-ceptewby.myonlineportal.ch
 www-onsatis.online
 www-onsatis.xyz
 www-ontb-web-ayrica.myonlineportal.ch
+www-oytb-extend-ayrica.myonlineportal.ch
 www-pandemi-aidatsorgu.org
 www-papara-tr.com
 www-parttb-cepte-ayrica.myonlineportal.ch

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260250
-# Last change: 2026-11-08 06:11:42 UTC (sync mode: delta)
+# Records: 260253
+# Last change: 2026-11-08 13:33:05 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -112999,6 +112999,7 @@ halksbank.com
 halksbankasi.com
 halksbasunuzburadan.xyz
 halksdestk.club
+halksglkrhbr.cfd
 halksifrebaz.com
 halksigort-am.com
 halksigortaci.com.tr
@@ -149907,6 +149908,7 @@ kiopli.my-homeip.com
 kipnangecstpact.net
 kir-drsfie-bsfredfbc.shop
 kir3mizi.is-best.net
+kira-sozlesmesi-sistemi.vercel.app
 kira-yardim-edevlet-tr-goc.ga
 kira-yardim-edevlet-tr-gov.ga
 kira-yardim-edevlet-tr-gov.ph
@@ -196006,6 +196008,7 @@ s.paramguvende-odeme.net
 s0dceo0nl1nezel23q.blogspot.com
 s0dfjhgkhgsodeme.net
 s0flk1aer56malledutaliscaxds.com
+s0k-aktuel.duckdns.org
 s0k-cepte-kasimfirsatlari.duckdns.org
 s0k-malrket.shop
 s0k.workers.dev
