@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109137
-# Last change: 2026-11-08 18:51:33 UTC (sync mode: delta)
+# Records: 109177
+# Last change: 2026-11-08 22:55:38 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1956,6 +1956,16 @@
 3212221112445479897.duckdns.org
 3212221112445479898.duckdns.org
 3212221112445479899.duckdns.org
+3212245554555478855589990.xyz
+3212245554555478855589991.xyz
+3212245554555478855589992.xyz
+3212245554555478855589993.xyz
+3212245554555478855589994.xyz
+3212245554555478855589995.xyz
+3212245554555478855589996.xyz
+3212245554555478855589997.xyz
+3212245554555478855589998.xyz
+3212245554555478855589999.xyz
 3214basvrusonkmpnya.click
 3214basvrusonkmpnya.pro
 32156949851616513.net
@@ -2224,6 +2234,7 @@
 4.houstonwalker.com
 40-118-23-80.plesk.page
 4000085420006.cloud
+403-forbidden.icu
 403-forbidden.sbs
 404308.com
 407minions.com
@@ -2412,6 +2423,7 @@
 500binkonutbasvuru.com
 500binkonutprojesi.org
 500binkonutprojesibasvuruekrani.com
+500binmutluaile.vercelfastcdn.com
 500binsosya1konut.cyou
 500bintoplukonutbasvuru.webhop.org
 500bintoplukonutbasvurusu.com
@@ -12056,6 +12068,7 @@ basvrl-istlem.icu
 basvrlari-dvvttgirsi.com
 basvrlmztki.sbs
 basvrlrmzknttki.sbs
+basvrrkmpnya12372138.info
 basvrrkmpnyaasonnnfrstlarrr.info
 basvrrkmpnyaasonnnfrstlarrr.pro
 basvrrrkmpnyaasda13105439.online
@@ -17970,6 +17983,7 @@ bvc3456.site
 bvcbcftcmhfg.blogspot.com
 bvclkvckll.net
 bvhsllclvl.com
+bvjrebvad.giize.com
 bvkclmcler.net
 bvkcmxnnt.net
 bvkhnv.homes
@@ -18442,6 +18456,7 @@ cancase.top
 cancecwalliti.webflow.io
 cancel-google.com
 cancelgasp.top
+cancelican.sbs
 cancellationbald.top
 cancellationfabulous.top
 cancellationtornado.top
@@ -18636,6 +18651,7 @@ capitolrecords-works.com
 capkassa-spb.com
 capone.pro
 cappadociadreams.store
+cappadociagarden.xyz
 cappadociahandmade.online
 cappymarketplace.com
 capsaccess.com
@@ -28769,6 +28785,7 @@ dogrulama-btc-turk.com
 dogrulama-burganbank.fm
 dogrulama-paramguvende.com
 dogrulama-tursab.com.tr
+dogrulama.cc
 dogrulama.cfd
 dogrulama.trcsb.net
 dogrulamamerkezi.ml
@@ -32030,6 +32047,7 @@ emeklipromosyon.online
 emeklipromosyonbasvuru.online
 emeklipromosyonlari.com
 emeklipromosyonusgk.cfd
+emeklirotasi.cyou
 emeklisgkpromosyon.cfd
 emekliye-ceptetebde.my-homeip.de
 emeklleytmuracaatin.com
@@ -35735,6 +35753,7 @@ file3x34531x23.duckdns.org
 filealisveris.com
 fileallot.top
 filemmarket.xyz
+filemobil.com.tr
 files.mycoinba.se
 filesigorta.site
 fileso365clloudoccs.com
@@ -35781,6 +35800,7 @@ filocars.com.tr
 filocars.net
 filocunuzburada.com
 filodanaraciniz.com
+filodendie.giize.com
 filofast.com.tr
 filohizmetlerin.online
 filojet.net
@@ -38229,6 +38249,7 @@ garantigiriskredibasvurularibasladi.online
 garantihaziranbonusu.ml
 garantihazirandaguzel.ml
 garantihizlifinans.cloud
+garantihizlinakit.cloud
 garantihuzuru.top
 garantiiibnkmobill.mooo.com
 garantiimenkuldegerler.com
@@ -40234,6 +40255,7 @@ gn-bg-bn.shop
 gn-claslxmr-firsstlylann.net.tr
 gn-cllxmr-firsstlylan.net
 gn-clslxmr-firsstlylann.net.tr
+gnbmngjk564.click
 gnc-sip-yon-alims.xyz
 gnceazcrforsamarket.cfd
 gnceladresweb.web.app
@@ -41287,6 +41309,7 @@ gsystemainegotiator.shop
 gsystemaiside.shop
 gt0nllinegirisstr.net
 gta6ciktigibi.duckdns.org
+gtaiscoming.rest
 gtakip.xyz
 gtantilia.info
 gtbks2.cn
@@ -42715,6 +42738,7 @@ haberler4151231.sbs
 haberler421352.shop
 haberler4215434.sbs
 haberler42213.sbs
+haberler42328.sbs
 haberler4422424.shop
 haberler443198.sbs
 haberler44542.sbs
@@ -52985,6 +53009,7 @@ jewelmandate.top
 jewelquantum.top
 jewelrydistill.top
 jexal.blog
+jeziwudyjer.company
 jfbsdbkjfsdf.shop
 jfdaqsb.shop
 jfkgygr.duckdns.org
@@ -53784,6 +53809,7 @@ kampanya-icin-son-hafta.com.tr
 kampanya-katilim.za.com
 kampanya-ozel.com
 kampanya-ozel.net
+kampanya-pro-cepteteb.my-homeip.de
 kampanya-sadece.shop
 kampanya-son-hafta-etkinlik-kacirma.com
 kampanya-sube-login.home.kg
@@ -64534,6 +64560,7 @@ msasa-sakaas.net
 msb.gov.tr.derheiligegeist.eu
 msbshak-ababks-amand.cyou
 mscoshoper.info
+msdsad.duckdns.org
 mserehele.duckdns.org
 mserrw.top
 msfile.online
@@ -71393,6 +71420,7 @@ panel.royaleminecraft.club
 panel.yilmazpanel.xyz
 panelabi.top
 panelabi.xyz
+panelabi1.xyz
 panelaktif.com.tr
 panelbayitrs.com
 panelbest.com
@@ -74942,6 +74970,7 @@ prmsynnnkmpnyaabasvrrr147852.pro
 prmsynnnkmpnyrrsonffrstlar.info
 prmsynnnkmpnyrrsonffrstlar.pro
 pro-btcturk.co
+pro-cepteteb.my-homeip.de
 pro-concert.com
 pro-digitalus.com
 pro-ethbonus-aprilcampaign.com
@@ -75291,6 +75320,7 @@ promosuper.net
 promosyon-cepteteb-com-tr.my-homeip.de
 promosyon-isbanka.xyz
 promosyon-kayit.com
+promosyon-teb-com-tr.my-homeip.de
 promosyon-teb-com.my-homeip.de
 promosyon.website
 promosyon101bgn.duckdns.org
@@ -76646,6 +76676,7 @@ pumaturkiyeoutletr.com
 pump-fun-official.aenys.com
 pump-fun.aenys.com
 pumpailment.top
+pumpinlil.top
 pumpkinactualwagemuscle.com
 pumpkinbizarre.top
 pumpkinelapse.top
@@ -86651,6 +86682,7 @@ sokmarketlerin.com
 sokmarketlervveb.com
 sokmarketlim.online
 sokmarketramazanmenusu.cfd
+sokmarletin.com
 sokramazan.cfd
 soksanalmarketindirim.site
 sokseviyoruzsoksokisokahl.duckdns.org
@@ -91316,6 +91348,7 @@ tarimkoop.app
 tarimkoop.com
 tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
+tarimkooperatif-market.blogdns.com
 tarimkooperatifmarkette.cfd
 tarimkoperatfmarketonlinee.blogspot.com
 tarimkoperatifsepeti.online
@@ -93933,6 +93966,7 @@ togg-kredim.com
 togg-nato-ozel-cekilis.space
 togg-nato-ozel-cekilis.xyz
 togg-satisi.cfd
+togg-tr.com
 togg-turk.com
 togg-turkiye.com
 togg.101kapimda.com
@@ -93980,6 +94014,7 @@ toggonsatis.com.tr
 toggonsatis.site
 toggotomobil.net
 toggreserve.com
+toggresmitr.com
 toggrezerv.com
 toggrezervasyon.com
 toggsatisbayii.net
@@ -98242,6 +98277,7 @@ umghjmtrynwernwe.click
 umikaze.site
 umitligelecek.com
 ummfqe.top
+umndfn89343.click
 umolatori.icu
 umosic.com
 umre-basvurukatilimi.vercel.app
@@ -104860,6 +104896,9 @@ www-basvurumerkezivatandasportalsorgulamaform-2021.com
 www-basvurumerkezivatandasportalsorgulamaformu-2021.com
 www-bbvagarantibankasi.mermerfatihlerimde.com
 www-bdgettb-exceps-ayrica.myonlineportal.ch
+www-bdgettb-looms-ayrica.myonlineportal.ch
+www-bestb-cept-ayricalik.myonlineportal.ch
+www-besttb-tbde-subject.myonlineportal.ch
 www-bilgi-trf.blogspot.com
 www-bimcell-com-tr.org
 www-bimcell-ivd.blogspot.com
@@ -108301,6 +108340,7 @@ z102.site
 z1ffssa.cfd
 z1o1comtr.online
 z1q7x4v9k2n8.cfd
+z1raatb4nkasi.duckdns.org
 z1ttrhf.cfd
 z2ratll.cfd
 z34777.site

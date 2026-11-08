@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478443
-# Last change: 2026-11-08 18:51:33 UTC (sync mode: delta)
+# Records: 478493
+# Last change: 2026-11-08 22:55:38 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -12314,6 +12314,16 @@
 3212221112445479897.duckdns.org
 3212221112445479898.duckdns.org
 3212221112445479899.duckdns.org
+3212245554555478855589990.xyz
+3212245554555478855589991.xyz
+3212245554555478855589992.xyz
+3212245554555478855589993.xyz
+3212245554555478855589994.xyz
+3212245554555478855589995.xyz
+3212245554555478855589996.xyz
+3212245554555478855589997.xyz
+3212245554555478855589998.xyz
+3212245554555478855589999.xyz
 32123123132131322123.space
 321312111.cloud
 3213213-123.duckdns.org
@@ -14240,6 +14250,7 @@
 4018924765717295130.duckdns.org
 4018924765717295140.duckdns.org
 401x3g.duckdns.org
+403-forbidden.icu
 403-forbidden.sbs
 4034892884-3429834.cloud
 403941-1123-2.cloud
@@ -15895,6 +15906,7 @@
 500binkonutreceptayyiperdogan.neocities.org
 500binkonutum.sbs
 500binkonutyerlesim.com
+500binmutluaile.vercelfastcdn.com
 500binnewkonut.xyz
 500binproje.site
 500binproje.xyz
@@ -62564,6 +62576,7 @@ basvrnsbbrdahmnetkla.click
 basvrnzbzleszdebsvrn.com.tr
 basvrpromlar.click
 basvrpromlar25.click
+basvrrkmpnya12372138.info
 basvrrkmpnya12372138.pro
 basvrrkmpnyaaprmsynn.info
 basvrrkmpnyaaprmsynn.pro
@@ -94146,6 +94159,7 @@ bvjmceell.com
 bvjmcel.com
 bvjmiccceell.com
 bvjmmcellislem.net
+bvjrebvad.giize.com
 bvkbkhlsgsssykleme.net
 bvkcllill.com
 bvkclmcler.net
@@ -96845,6 +96859,7 @@ cancel-google.com
 cancel-purchaseapst.ddns.net
 canceledorder12789.ddns.net
 cancelgasp.top
+cancelican.sbs
 cancellationbald.top
 cancellationfabulous.top
 cancellationtornado.top
@@ -97293,6 +97308,7 @@ capone.clayhusas.sbs
 capone.pro
 capooo.zapto.org
 cappadociadreams.store
+cappadociagarden.xyz
 cappadociahandmade.online
 cappymarketplace.com
 capqnbxdr.com
@@ -114181,6 +114197,7 @@ cryptoratesfiatconverter.pro
 cryptoregancy.online
 cryptoregancy.xyz
 cryptoriahq.com
+cryptosirinloom.xyz
 cryptostore.publicvm.com
 cryptotechdirect.com
 cryptothistech.com
@@ -118059,6 +118076,7 @@ datasharefile.ddns.net
 datasheet.fun
 datasheet96.azurewebsites.net
 datashieldsecure.com
+datasirinstream.xyz
 datasolustar.com
 datasomatic.ru
 datasphere.us.com
@@ -132799,6 +132817,7 @@ dogrulama-edevlet-gov-tr.com
 dogrulama-paramguvende.com
 dogrulama-payfix.vercel.app
 dogrulama-tursab.com.tr
+dogrulama.cc
 dogrulama.cfd
 dogrulama.org
 dogrulama.trcsb.net
@@ -152440,6 +152459,7 @@ emeklipromosyonu.cfd
 emeklipromosyonusgk.cfd
 emeklipromsyon.cfd
 emekliramiysi.pw
+emeklirotasi.cyou
 emeklisgkpromosyon.cfd
 emeklisgkpromosyon.click
 emekliveciftcikrdibsvr.fixip.org
@@ -167353,6 +167373,7 @@ filemanager.theworkpc.com
 filemarblegarden.sbs
 filemensetres.com
 filemmarket.xyz
+filemobil.com.tr
 filenav.net
 fileneopolo.online
 fileoceanhammer.sbs
@@ -167492,6 +167513,7 @@ filocars.net
 filocarsrent.com
 filocunuzburada.com
 filodanaraciniz.com
+filodendie.giize.com
 filofast.com.tr
 filohizmetlerin.online
 filojet.net
@@ -178945,6 +178967,7 @@ garantihizligiris-usermode.online
 garantihizligiris.sninix.site
 garantihizligirismobiltr.click
 garantihizliislemler.com
+garantihizlinakit.cloud
 garantihizmetfirsati.com
 garantihizmetleri.com
 garantihizmetleri.com.tr
@@ -187411,6 +187434,7 @@ gnbfinansbank-mobilfirsatlari.ph
 gnbfinansbank.org
 gnbfinansbank.tk
 gnbgirisinler.vercel.app
+gnbmngjk564.click
 gnc-kmp-on.shop
 gnc-llmrktxindrmllriyle.xyz
 gnc-sip-yon-alims.xyz
@@ -191403,6 +191427,7 @@ gta6demo.asia
 gta6demo.eu
 gta6demo.us
 gtafivemoynam.xyz
+gtaiscoming.rest
 gtaivfour.com
 gtakip.xyz
 gtakkiwicagasd85.shop
@@ -196681,6 +196706,7 @@ haberler4151231.sbs
 haberler421352.shop
 haberler4215434.sbs
 haberler42213.sbs
+haberler42328.sbs
 haberler432432.shop
 haberler4422424.shop
 haberler443198.sbs
@@ -221499,6 +221525,7 @@ hyperiondo.info
 hyperlanetech.com
 hypernovaecho.online
 hyperr.hopto.org
+hypersiringrid.xyz
 hypertechno.website
 hypertek.sbs
 hypertextteches.com
@@ -246414,6 +246441,7 @@ jeykeztoml.duckdns.org
 jeynet.com
 jezani110.ddns.net
 jezesec.quest
+jeziwudyjer.company
 jezur.duckdns.org
 jezzo.sbs
 jf.doyourbestyet.com
@@ -251198,6 +251226,7 @@ kampanya-ozel.com
 kampanya-ozel.net
 kampanya-paribu.com
 kampanya-paribuhediyeteknolojisi-com.tk
+kampanya-pro-cepteteb.my-homeip.de
 kampanya-ptavm.com
 kampanya-puan-mobilozel-girisler.club
 kampanya-puan-mobilozel-girisler.online
@@ -294407,6 +294436,7 @@ msdnfmdskm.net
 msdntoolkit.com
 msdocs.ddns.net
 msdosnline.com
+msdsad.duckdns.org
 msdsadwdsadsdcc.blogspot.com
 msdsmadndsadsa.com
 msdtcupdate.com
@@ -323953,6 +323983,7 @@ panel.yilmazpanel.xyz
 panel33.beget.tech
 panelabi.top
 panelabi.xyz
+panelabi1.xyz
 panelaktif.com.tr
 panelanindageldi.net
 panelapi.site
@@ -332235,6 +332266,7 @@ pixelmira.live
 pixelnest.cam
 pixelnestr.store
 pixelnestre.online
+pixelorbsirinit.xyz
 pixeloza.xyz
 pixelrift.click
 pixelroot.site
@@ -336465,6 +336497,7 @@ priscillakristeen.net
 priscilliahelper.site
 prise-l-g-r-n-l-p.myonlineportal.ch
 prisectos.top
+prisirsimnova.xyz
 prism-matrixs.com
 prism-vertex.com
 prism-west-candy.glitch.me
@@ -336819,6 +336852,7 @@ pro-btcturk.net
 pro-btcturkdoge5000-tr-com.tk
 pro-btcturkgiris-5000doge-tr-com.tk
 pro-btcturkpro.com
+pro-cepteteb.my-homeip.de
 pro-concert.com
 pro-digitalus.com
 pro-ethbonus-aprilcampaign.com
@@ -337701,6 +337735,7 @@ promosyon-nisan.com.tr
 promosyon-nisan.org.tr
 promosyon-odemesi.duckdns.org
 promosyon-randevugiris.duckdns.org
+promosyon-teb-com-tr.my-homeip.de
 promosyon-teb-com.my-homeip.de
 promosyon-zamani.shop
 promosyon.akpro-akbn-ozel.com.tr
@@ -343246,6 +343281,7 @@ pump-fun.aenys.com
 pump-online.xyz
 pumpailment.top
 pumpbottle.info
+pumpinlil.top
 pumpkinactualwagemuscle.com
 pumpkinbizarre.top
 pumpkinelapse.top
@@ -360150,6 +360186,7 @@ sahibinden-get.islem-guvende.online
 sahibinden-get.islemlerin-sepet-10.sbs
 sahibinden-get.islemlerin-sepet-15.sbs
 sahibinden-get.islemlerin-sepet-30.sbs
+sahibinden-get.islemlerin-sepet-35.sbs
 sahibinden-get.islemlerinmobil-13.sbs
 sahibinden-get.islemlerinmobil-14.sbs
 sahibinden-get.islemlerinmobil-15.sbs
@@ -371269,8 +371306,10 @@ sepetim-onayli-127422.com
 sepetim-onayli-127423.com
 sepetim-onayli-127424.com
 sepetim-onayli-127425.com
+sepetim-onayli-127426.com
 sepetim-onayli-137426.com
 sepetim-onayli-147426.com
+sepetim-onayli-157426.com
 sepetim-onayli-167426.com
 sepetim-onayli-177426.com
 sepetim-onayli-187426.com
@@ -380355,6 +380394,7 @@ skysall.app
 skyscraperjelly.top
 skyscraperjeopardize.top
 skyscrapertropical.top
+skysirinfusion.xyz
 skysky.duckdns.org
 skysodverisleriyapalimb.sbs
 skythelight.co
@@ -382795,6 +382835,7 @@ sokmarketucuzalisverisfirsati.cfd
 sokmarketyazgunleri.site
 sokmarketzinciri.xyz
 sokmarktyag.shop
+sokmarletin.com
 sokmarlket.com.tr
 sokmdesac.net
 sokmekkwkksj.s0k.workers.dev
@@ -390462,6 +390503,7 @@ stormlegue.com
 stormpipa.pro
 stormpipo.pro
 stormplayavia.com
+stormsirinbyte.xyz
 stormslva.net
 stormved.com
 stormxdt007.zapto.org
@@ -397758,6 +397800,7 @@ tarimkoop.app
 tarimkoop.com
 tarimkoopalisveris1.online
 tarimkooparatif.vercel.app
+tarimkooperatif-market.blogdns.com
 tarimkooperatif.cfd
 tarimkooperatiff.cfd
 tarimkooperatiffirsati.cfd
@@ -406999,6 +407042,7 @@ togg-on-basvuru.blogspot.com
 togg-onbasvuru.com
 togg-onsiparis.com
 togg-satisi.cfd
+togg-tr.com
 togg-trumore.com
 togg-turk.com
 togg-turkiye.com
@@ -407100,6 +407144,7 @@ toggotomobil.com
 toggotomobil.net
 toggotoyedek.com
 toggreserve.com
+toggresmitr.com
 toggrezerv.com
 toggrezervasyon.com
 toggsatisbayii.net
@@ -424567,6 +424612,7 @@ ummahwise.com
 ummfqe.top
 ummqgiydjnbobfc.cn
 ummuda.host
+umndfn89343.click
 umobidownload.com
 umobildeniz-basvur.com
 umolatori.icu
@@ -449108,6 +449154,9 @@ www-bddkkartaidatlari.com
 www-bddkkurulu-kartiadeler.com
 www-bddksubatiadeleri-com.tk
 www-bdgettb-exceps-ayrica.myonlineportal.ch
+www-bdgettb-looms-ayrica.myonlineportal.ch
+www-bestb-cept-ayricalik.myonlineportal.ch
+www-besttb-tbde-subject.myonlineportal.ch
 www-bilgi-hasarlariniz.blogspot.com
 www-bilgi-trf.blogspot.com
 www-bilgilendirmevatandasiadeleribasvuru.com
@@ -472765,6 +472814,7 @@ z1raat-online-islemler.cfd
 z1raat.sbs
 z1raat25ekim.cfd
 z1raat27ekim.cfd
+z1raatb4nkasi.duckdns.org
 z1raatbanka.cfd
 z1raatbuyukkampanya.cfd
 z1raatgiris.cfd
