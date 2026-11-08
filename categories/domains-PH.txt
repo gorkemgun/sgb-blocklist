@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109091
-# Last change: 2026-11-07 23:41:18 UTC (sync mode: delta)
+# Records: 109096
+# Last change: 2026-11-08 06:11:42 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -18285,6 +18285,7 @@ cahliidepalazo.com
 caidat3.b-cdn.net
 cairivo.sbs
 caironex.com
+cakadisticaret.com
 cakedeffee.webflow.io
 cakehidden.com
 cakeserver.online
@@ -20614,6 +20615,7 @@ click334785.site
 clickassassination.top
 clickbogasiburda.xyz
 clickeron.com
+clickfusion.lol
 clickgadgets.club
 clickinfopage.world
 clickiver.click
@@ -55815,6 +55817,7 @@ kmkmsorgggulamagovpttavmhmen.duckdns.org
 kmkmsorgulamazfer.firebaseapp.com
 kmkmsorgulamazfer.web.app
 kmkmsrgulamagvvtptmt.duckdns.org
+kmkolay.xyz
 kmkontrol.com
 kmkontroluhemen.web.app
 kmksroguslarhemenptt.vercel.app
@@ -62309,6 +62312,7 @@ merkonlik.com
 merkzisistemms.club
 merlinturkey.site
 merlinturkey.xyz
+merliva.cyou
 merlrdenslesw.duckdns.org
 merlystore.com
 mermaidcommunity.duckdns.org
@@ -63440,6 +63444,7 @@ mker.a0001.net
 mkers.nichesite.org
 mkewsmsb.net
 mklaq-wifds-olmlb.com
+mkldenemeleriim.duckdns.org
 mklmdm.b-cdn.net
 mklotf.b-cdn.net
 mkm555.com

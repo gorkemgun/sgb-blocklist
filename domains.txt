@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478387
-# Last change: 2026-11-07 23:41:18 UTC (sync mode: delta)
+# Records: 478395
+# Last change: 2026-11-08 06:11:42 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -96342,6 +96342,7 @@ cajamar-particulares.duckdns.org
 cajeti.com
 cajgtus.com
 cajohnorro.com
+cakadisticaret.com
 cakal95.cfd
 cakalfisekatesederkacakgocek.site
 cakalima.pw
@@ -105811,6 +105812,7 @@ clickdealer2.info
 clickeron.com
 clickfirsatcampaningdaysbn.net
 clickforgo.sg-host.com
+clickfusion.lol
 clickgadgets.club
 clickies.site
 clickinclick.com
@@ -163633,6 +163635,7 @@ facebook-giris.cf
 facebook-giris.ml
 facebook-google.top
 facebook-help-lnstagram.cf
+facebook-help-reset.ph
 facebook-helper.xyz
 facebook-like-login.ph
 facebook-login-barcelona101.com.ph
@@ -163785,6 +163788,7 @@ facebookloginfinanceforum.com.ph
 facebookloginfinancehelp.com.ph
 facebookloginfitnesspage.com.ph
 facebookloginfloristonline.com.ph
+facebookloginfranchise.com.ph
 facebookloginfriends-anime.com.ph
 facebookloginfriends-art.com.ph
 facebookloginhelp-denmark.com.ph
@@ -262123,6 +262127,7 @@ kmkmsrogruszpttgovavm.com
 kmkmsrogulamagovpttcngz.web.app
 kmkmsrogulamagovpttvelit.web.app
 kmkmsrohgulamabelgin2.web.app
+kmkolay.xyz
 kmkolayasorgu.firebaseapp.com
 kmkolaysorgu.firebaseapp.com
 kmkolaysorgu.web.app
@@ -285418,6 +285423,7 @@ merlinkredihizmetleri.online
 merlinmors23q.digital
 merlinturkey.site
 merlinturkey.xyz
+merliva.cyou
 merlrdenslesw.duckdns.org
 merlungkanchase.ddns.net
 merlystore.com
@@ -288635,6 +288641,7 @@ mklaq-wifds-olmlb.com
 mklasmgvklasbv.net
 mklbvixuw.com
 mklcxz.html-5.me
+mkldenemeleriim.duckdns.org
 mklen.2kool4u.net
 mklmdm.b-cdn.net
 mklotf.b-cdn.net
@@ -331271,6 +331278,7 @@ phaantommwalletextension.webflow.io
 phaaqannhs.in
 phaermsmnr.in
 phaintomewallet.webflow.io
+phalisverisptt-avm.com.ph
 pham.duchieu.de
 phandamidesteksbasvurus.tk
 phanleb.com
