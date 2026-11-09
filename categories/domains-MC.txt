@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41747
-# Last change: 2026-11-08 22:55:38 UTC (sync mode: full)
+# Records: 41760
+# Last change: 2026-11-09 22:26:55 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -1524,6 +1524,7 @@
 883179976.dfgqdsd.ru
 885278781.dfgqdsd.ru
 886o.smar0x1.com
+888.bossjy.kdns.fr
 88canada.com
 88eightone.digital
 88g5mra2bs20f7jblgk.com
@@ -4519,6 +4520,7 @@ attached-documentation-sent.vercel.app
 attachment.a0001.net
 attachment85.xyz
 attachmentsharingdrive.xyz
+attacker-collector.com
 attacker.fit
 attdomhomepage.com
 attheheartphotography.com
@@ -6339,6 +6341,7 @@ bos24-logowanie.com
 bos24-online.com
 boschetar.ddns.net
 bose.kittyechopages.net
+boss.jytian.cc.cd
 bossindah4oos3.site
 bossprotect.com
 bosstan027.beget.tech
@@ -6932,6 +6935,7 @@ c.glb-ru.info
 c.mid.al
 c.pmexcon.world
 c.windowsk-cdn.com
+c.xs1.ccwu.cc
 c05122.top
 c053b3f4bf47.com
 c0d3.ddns.net
@@ -14862,6 +14866,7 @@ gdl-cloud.works
 gdnpyi.com
 gdocs.googleupload.info
 gdocshare.one
+gdp.gasjy.kdns.fr
 gdrive-files.com
 gdrive-share.online
 gdrive.onmypc.org
@@ -14880,6 +14885,7 @@ gdrvshare.onedrvshare.host
 gdrvshare.site
 gdrvup.xyz
 gdrvupload.xyz
+gds.gasjy.kdns.fr
 gdsfgdshd.duckdns.org
 gdtaopdabporcme.su
 gdxnrw.com
@@ -17343,6 +17349,7 @@ hubvera.ac.ug
 hubzoneconstruction.com
 hudomci.com
 hudsonhughes756.xyz
+huehnchenfarm.ru
 huffudvwhg.edmondfir.ru
 hufgjif.ddns.net
 hufi.pink
@@ -22888,6 +22895,7 @@ maroui.xyz
 marroiq.com
 marrymetoyou.site
 marrymezeng.site
+marsalek.cy
 marshal-zhukov.com
 marshal.expensevisual.com
 marshmellowflowerscar.info
@@ -33165,6 +33173,7 @@ sokingscrosshotel.com
 sokoltech.ir
 solananetworkinstance.info
 solar-cloud-branch.pages.dev
+solaraexecutor.online
 solarrayes.com
 solartrackingsystem.net
 solarwindturbine.site
@@ -34310,6 +34319,7 @@ swidden.wallpapersave.com
 swift-customer.com
 swift-zip.com
 swiftcode.work
+swiftexecutor.online
 swiftrecruiters.slack.com
 swiftyboiiiii.ddns.net
 swigddmb.top
@@ -34892,6 +34902,7 @@ telemetry.geoinfocdn.com
 telemetry.geostatcdn.com
 telemetry.psecure.pro
 telemetry.userfeedsync.com
+telemetrydata.to
 telen.bumbleshrimp.com
 telenaxty.ddns.net
 telenet-flix.com
@@ -38173,6 +38184,7 @@ vps-zap812595-1.zap-srv.com
 vps.hsmiths.com
 vps.limited
 vps.rebirth-network.su
+vps.xs1.ccwu.cc
 vpset.onmypc.org
 vpsfree.linkpc.net
 vpsibnydg.com
@@ -40354,6 +40366,7 @@ xsochpvae.com
 xsph.ru
 xsq7j.uqauv.cn
 xsqsgkhqnfgfvrr.ru
+xss.xs1.ccwu.cc
 xstyj.icu
 xsvgcf.cf
 xswqaz18.pw
