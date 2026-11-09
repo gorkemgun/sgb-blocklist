@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66203
-# Last change: 2026-11-06 15:58:06 UTC (sync mode: full)
+# Records: 66206
+# Last change: 2026-11-09 11:42:35 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15850,6 +15850,7 @@ channelinfo.pw
 chanpin.live
 chantellearthurson.net
 chaoizbai0nk.ddns.net
+chaomoinguoi.duckdns.org
 chaqixbonk.ddns.net
 char11saba.duckdns.org
 characterbench.com
@@ -17616,6 +17617,7 @@ cookiemanager.n-e.kr
 cookienhlchambers.com
 cookienis4456.zapto.org
 coolbytes.ddns.net
+coolcams.duckdns.org
 cooldude9901.zapto.org
 cooler7starn.ddns.net
 coolers.ae
@@ -63062,6 +63064,7 @@ xcxc.zapto.org
 xcxd8o7h1.ru
 xcxxx.ddns.net
 xczasxza.ddns.net
+xd.unfair.cc.cd
 xd.zapto.org
 xd2kdw.lol
 xd5b3s.duckdns.org

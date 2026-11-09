@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109180
-# Last change: 2026-11-09 02:42:23 UTC (sync mode: delta)
+# Records: 109213
+# Last change: 2026-11-09 11:42:35 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17,6 +17,7 @@
 00058565s55dssc.com
 000bjat.cn
 000extranet.pinsents.ne13e.coinbase-com.info
+000rl.link
 001002.duckdns.org
 001111232323232.cloud
 00151261j1l15.duckdns.org
@@ -230,6 +231,7 @@
 101-extra-bugune-ozel-indirim-alisveris-sepeti-cepte-shop-tr.indirimde-biz-tr.online
 101-extra-bugune-ozel-indirim-alisveris-sepeti-mobilde-tr.bireysel-indirim.online
 101-extra-bugune-ozel-indirimler-mobilde.mobil-sponsor-tr.lol
+101-extra-bugune-ozel-mobil-indirimler-alisveris.genelsepet.online
 101-extra-bugune-ozel-mobil-sponsor-tr.online-sepet-sponsor-tr.lol
 101-extra-bugune-ozel-online-alisveris-sepet-mobil-indirimi-tr.cepinde.online
 101-extra-bugune-ozel-online-alisveris-sepeti-mobilde-tr.bireyselcep-mobilde.online
@@ -279,6 +281,7 @@
 101-extra-mobil-sadece-online-ozel-sepette-indirim-tr.web-sepet.online
 101-extra-mobilde-sadece-online-ozel-urunler-alisveris-sepeti.trendde-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
+101-extra-online-alisveris-sadece-bugun-indirim.cepselci.site
 101-extra-online-bugune-ozel-sepette-indirim-asliveris-cep-tr.sepetteal.online
 101-extra-online-mobil-sadece-bugune-ozel-firsatlar.online-trend.online
 101-extra-online-ozel-indirim-alisveris-sepeti-mobil-ozel-tr.eceptra-tr.online
@@ -4002,6 +4005,7 @@ a101kariyer.com
 a101kariyer.org
 a101kariyeriiim.com
 a101kariyeriimm.com
+a101kasimda.com
 a101kasimsurprizi.online
 a101katalogguncel.duckdns.org
 a101katologz.duckdns.org
@@ -5248,6 +5252,7 @@ aded.click
 adembademyemisniyebizegetirmemis.duckdns.org
 adenbaba.online
 adencheck.online
+adenpanel.world
 adenpanel.xyz
 adenyabeachs.com
 adeptcraft.net
@@ -8432,6 +8437,7 @@ application-2020-merkez-sorgulama-yardim-taleb-olustur.com
 application-document.com
 application.colibriathenas.com.br
 applicationaffixation.top
+applications-went-add-bias.trycloudflare.com
 applicationsanitation.top
 applied-8a3f62-a8bc2a055f-2fdbc4f742b7b.webflow.io
 applinecore.digital
@@ -13665,6 +13671,7 @@ bgnlr-ng-smd.shop
 bgnsnkzbrdayzszdnr.shop
 bgnsongnfrstlrkcmz.online
 bgnszdengldkszlrds.shop
+bgnvmvghn45443.shop
 bgqhka.online
 bgsacrshipermrksa.cfd
 bgsaqg.help
@@ -23964,6 +23971,8 @@ coordinatorassassin.top
 coordinatorbarren.top
 coordinatorspectacular.top
 cootrut.site
+cop31saglik.com
+cop31saglikbakanligi.com
 copaamerica-tickets.com
 copacti.pics
 copeauditing.top
@@ -29492,6 +29501,7 @@ dsadaevvt-dsvvt.com
 dsaddvvttt-dsvttst.com
 dsadsssddssdsddbimmmmcelll.org
 dsafasdadag4.xyz
+dsafgasdg.art
 dsafsdafasd.duckdns.org
 dsajsklcadjx123x123x12.cfd
 dsakdlosaklfsqlf.net
@@ -32867,6 +32877,7 @@ eonlinebasvurumozel-bireysel-kampanya.ml
 eonlinegirisi-basvurulariyapma.com
 eonlinehizmetim-hemengirisim.com
 eorusorgu-acti2023-onay.duckdns.org
+eosatest.top
 ep-ttavmshop.com
 ep20-test-filedcv-1426.space
 epandamidestek.com
@@ -41509,6 +41520,7 @@ guestzone478.com
 guestzone731.com
 guestzone916.com
 guf-tickets.ru
+gufesu.space
 gugagoasdhashdhas923ww.click
 gugoahahsadwasdas923sad.click
 gugoashdahshdashd999wdsa.click
@@ -41901,6 +41913,7 @@ guvendesatinaltr.online
 guvendesigortam.com.tr
 guvendesiniz.online
 guvendesiparis.com.tr
+guvendeticaretnet.store
 guvendetr.co
 guvendetr.online
 guvenfiloavs.net
@@ -42416,6 +42429,7 @@ h2g80z1.cn
 h33hk.com
 h3amazon.com
 h3bb7fin.cn
+h3eseh8h7476hhhh.ipv64.de
 h3hpslehws4.kozow.com
 h3q2wtrsaf12t3-gxfs-3-2gdsgy31q2t-fsa.sbs
 h3x8m2k9q6f4n7zh.cfd
@@ -44880,6 +44894,7 @@ heuscheck.com.tr
 heuscheck.xyz
 heuspro.xyz
 hewvex.click
+hexnoxpr.world
 hexnsenmehgxs.net
 hexpanel.cyou
 hexsmadoil.pro
@@ -49144,6 +49159,7 @@ imzmirrodeme.net
 imzmrmyklxnahr.net
 in-fohesap.com
 in-fomenkuldegerler.com
+in-fovarlik.com
 in-foyatirimhesap.com
 in-tarde.info
 in274728.com
@@ -51143,6 +51159,7 @@ iscepsube-com.ml
 ischiovertebral.com
 isciyetamdestek.net
 iscksr.com
+isclamslcklasmc.analizleventg.com
 isdekuryb.com
 isendrix.qpon
 isfirsatin.com.tr
@@ -53757,7 +53774,9 @@ kamangcslrodput.net
 kamapanylaralmayageldi.online
 kamasutrakol.com
 kambers.xyz
+kameran5459.duckdns.org
 kameran5554.duckdns.org
+kameran5577.duckdns.org
 kamhasrrmkm.net
 kamilkoc2023com.com
 kamoanya-onlayn-hizmet-950tl.ml
@@ -54759,6 +54778,7 @@ kdekkltmnet.net
 kdenizbank.epizy.com
 kdffmd.top
 kdfgmh.top
+kdgmv9049f.shop
 kdgqmd.top
 kdgtml.top
 kdgxmh.top
@@ -60016,6 +60036,7 @@ magazinehum.top
 magazinifsalariburda.com
 magazinifsalariburda.org
 magelan-nato.net
+magentafloor.com
 magicalmidfield.com
 magicalsubtle.top
 magicalwoman.top
@@ -66855,6 +66876,7 @@ nltalnalsn.net
 nltalnkamsa.net
 nltalntalnal.net
 nltaman.net
+nltankana.net
 nltkammt.net
 nltkanasnart.net
 nltkkamats.net
@@ -75958,6 +75980,7 @@ pttavm.mobil-urunlerim-tr.com.tr
 pttavm.mobiltr-islemlerim.com.tr
 pttavm.net.tr
 pttavm.odeme-onay-1282.com
+pttavm.odeme-onay-1291.com
 pttavm.odeme-tamamla.com
 pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
@@ -87354,6 +87377,7 @@ sosyalgelecekler.com
 sosyalhile.com
 sosyalhizmetbasvuru.site
 sosyalhizmetlerim.tk
+sosyalislemitalep.online
 sosyalistanbulun.xyz
 sosyalizm.site
 sosyalkazani.ml
@@ -93660,6 +93684,7 @@ tivryle.com
 tivubu.com
 tiwafou.com
 tiyavnge.top
+tizalumo.com
 tizmirkartisim.net
 tj5cvf9.cn
 tjekdfeggeh.com
@@ -93696,6 +93721,7 @@ tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
 tkg-tpuransevdnuz.com
+tkg-tpuransevdnuz.com.tr
 tkg-tpuransevdnuz.net
 tkg-tpuransevdnuz.online
 tkgg-edvtap-randvv.org
@@ -97727,6 +97753,7 @@ tvtrkjhzmetlrebsd.store
 tvtrkk-malberko.com
 tvtrkk.net
 tvtrkkdshhzimetburds.store
+tvtrkkkrdnvvvuu.duckdns.org
 tvtrkkyklemmezsa.net
 tvtrklegothems.net
 tvtrkmafylari.duckdns.org
@@ -101439,6 +101466,8 @@ voltagedeterrent.top
 voltageimmersion.top
 voltagesentimental.top
 voltakampanyasiaktuel.shop
+voltalayin.com
+voltamagazasatis.com
 voltamotorluaraclar.com
 voltamotoronline.com
 voltamotorsatis.com
@@ -101447,6 +101476,8 @@ voltaonline.co
 voltaonlinesatis.com
 voltarnus.digital
 voltasatis.com
+voltasatisi.com
+voltataksitlisatis.com
 voltaturkiye.com
 voltbouquet.top
 volteretak.com
@@ -105440,6 +105471,7 @@ xadddsdsmhrs.duckdns.org
 xaedm.top
 xaghclj.cn
 xahjgahjg.xyz
+xalamor.com
 xalvanto.com
 xalvionex.com
 xalvionex.one
@@ -106259,6 +106291,7 @@ xn--sahibindenparagvende-3ec.com
 xn--sahibindensatlk-klcb.net
 xn--sahibindensatlk2el-q0cb.com
 xn--sahibnden-zpb.com.tr
+xn--sakldakdasda-24b.shop
 xn--salgunundabykfrst-evc.shop
 xn--salomonayakkab-jgc.com
 xn--sanalguvenlidemeadresiniz-9rc.online
