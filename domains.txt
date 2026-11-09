@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478493
-# Last change: 2026-11-08 22:55:38 UTC (sync mode: full)
+# Records: 478496
+# Last change: 2026-11-09 02:42:23 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -250838,6 +250838,7 @@ kamborus.com
 kamburoglusosyal.org
 kamcadirhizmetleri.com
 kamenshik222.hopto.org
+kameran5554.duckdns.org
 kamerkoophandel.ddns.net
 kamertanser32.duckdns.org
 kamfordsair.com
@@ -437215,6 +437216,7 @@ vkvbasvuru.tk
 vkvfeotgfgdk.net
 vkvsllsczczs.net
 vkvslvskkckkckckc.net
+vkwebsubayrntilkmpp4.xyz
 vkwqr.com
 vkwsn.duckdns.org
 vkxjvccrvssimbc.cn
@@ -462039,6 +462041,7 @@ yandexsupport.ddns.net
 yandibaiji0203.com
 yandigonlum.net
 yandikbey-e-p-t-t-a-v-m.shop
+yandiklo.tools
 yandimsana.com
 yandisk.info
 yandmandmayrni.online

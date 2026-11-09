@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109177
-# Last change: 2026-11-08 22:55:38 UTC (sync mode: full)
+# Records: 109180
+# Last change: 2026-11-09 02:42:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -53757,6 +53757,7 @@ kamangcslrodput.net
 kamapanylaralmayageldi.online
 kamasutrakol.com
 kambers.xyz
+kameran5554.duckdns.org
 kamhasrrmkm.net
 kamilkoc2023com.com
 kamoanya-onlayn-hizmet-950tl.ml
@@ -101310,6 +101311,7 @@ vkrldxmzxnxc.net
 vksdsvkdakmasd.com
 vktndealdinaldinkcrma.com.tr
 vkvslvskkckkckckc.net
+vkwebsubayrntilkmpp4.xyz
 vladinthehood.tech
 vlarn.top
 vlburasibskakcmahd.com.tr
@@ -106702,6 +106704,7 @@ yamurtasarimper.duckdns.org
 yanakicheck.org.tr
 yananigorurallah.click
 yandibaiji0203.com
+yandiklo.tools
 yangming112233.cn
 yani-siparis-olustu-kampanya-aktif.online
 yanikbabadar.wtf
