@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260304
-# Last change: 2026-11-10 13:31:45 UTC (sync mode: delta)
+# Records: 260321
+# Last change: 2026-11-10 20:51:51 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -11279,6 +11279,7 @@ a-101firsatlarimm.wuaze.com
 a-101firsatmerkezii.com
 a-101firsatsizinlee.online
 a-101flrsxtlxr.org
+a-101harcaharca.duckdns.org
 a-101harcaharcabitmez.net
 a-101harcaharcabitmezz.com
 a-101hizmetleri.karlaparalaras.com
@@ -25157,6 +25158,7 @@ alligatorbirdwaste.com
 allinenated.com
 allkampany.site
 allkampany2025.site
+alllahinis1km.xyz
 alllbaraakadaanumreziyareti.gq
 alllbarakainternetsubesi.gq
 allloptttgov.com
@@ -50762,6 +50764,7 @@ bonsumunadresi.net
 bonsunoktasi.ist4nbulcmxleb4kyi3.net
 bonu-sflashkred.404.mn
 bonus-anket-parapuan.com
+bonus-basvurularitr42345343.sbs
 bonus-binance.link
 bonus-bireyselmusteri-esube-firsat-kampanyasi.space
 bonus-click.xyz
@@ -91679,6 +91682,7 @@ facebook-login-error.com.ph
 facebook-login-facebook-access-secure.ph
 facebook-login-guide.com.ph
 facebook-login-help-de.com.ph
+facebook-login-help-jakarta.com.ph
 facebook-login-help-yemen.com.ph
 facebook-login-id-illinois.ph
 facebook-login-in-athens.com.ph
@@ -91700,6 +91704,7 @@ facebook-login-instant-hk.com.ph
 facebook-login-instant-sa.net.ph
 facebook-login-instant-th.com.ph
 facebook-login-instant-vn.com.ph
+facebook-login-intl-instant.com.ph
 facebook-login-ireland-cork.com.ph
 facebook-login-ireland-intl.com.ph
 facebook-login-jakarta-kr.net.ph
@@ -91727,11 +91732,14 @@ facebook-login123bet.com.ph
 facebook-login2014.com.ph
 facebook-loginalert.ph
 facebook-loginassist.com.ph
+facebook-loginassistant.com.ph
 facebook-loginfleet.ph
 facebook-loginhasty.ph
 facebook-loginpage.com.ph
+facebook-password-change-media.ph
 facebook-password-recovery-change-password.ph
 facebook-password-reset-new-password-confirm.ph
+facebook-signup-verify99999999999798.ph
 facebook-update-team-verify.ph
 facebook-update-verify-now.ph
 facebook-update.info
@@ -99653,6 +99661,7 @@ garantidersimlialiishere.com
 garantidesiniz.com
 garantideskerleriisshmans.duckdns.org
 garantidestek24.com
+garantidestekfinans.cloud
 garantidestekonline.com
 garantidestekzamani.com.ph
 garantideyizbiz.top
@@ -124085,6 +124094,7 @@ hlgsaracsistemi.xyz
 hlgsomzoltk.org
 hlgsyuklicim.net
 hlgxgshizliodecim.net
+hlhlrkknanasn.net
 hlililililililillll4lillilililililii.blogspot.com
 hlililililililillll4lillilililililil.blogspot.com
 hlililililililillll4llllilililililil.blogspot.com
@@ -151314,6 +151324,7 @@ kmpnyasizlerle.blogspot.com
 kmpnyasnbfrfskataa64885.online
 kmpnyatbe.com
 kmpnybrd.com
+kmpnybsvrrprmsyn319.info
 kmpnybsvrrrprsmynn15329.info
 kmpnyeylulsn.duckdns.org
 kmpnyfirstkcmaz.duckdns.org
@@ -162569,6 +162580,7 @@ mobil-bbva-basvurusu.click
 mobil-bddk.club
 mobil-bildirim-form.live
 mobil-bildirim-onay-guvenli.xyz
+mobil-bireysel-cep.my-homeip.de
 mobil-bireysel-extra-tr.site
 mobil-bireysel-ziraat.online
 mobil-bireyselcepvakif.ml
@@ -177535,6 +177547,7 @@ ortakbetsikayetvar.tk
 ortakborcbilgisi.info
 ortakborcodemebayi.info
 ortakborcodemeonline.info
+ortakdogrulama-online-sbm.netlify.app
 ortakfatura-mobil.com
 ortakfaturam.com
 ortakgisebayim.net
@@ -209691,6 +209704,7 @@ sonfrsat-burada.com
 sonfrsatkampanya.xyz
 sonfrsiattlarbsasvrkmnpyaaa.pro
 sonfrsltar2371.info
+sonfrsltar2371.pro
 sonfrsltarrbasvrrkmpnyaa6569741.info
 sonfrstbugun.online
 sonfrstkmpnyabsvrr.pro
@@ -215885,6 +215899,7 @@ tapumrandevum.xyz
 tapumusorgula.net
 tapuparselsorgu.com
 tapurandevu-yenisektor-dolusun.online
+tapurandevuislemlerinz.web.app
 tapurandevularri.online
 tapurandevumerkezi.net
 tapurandevumparsel.blogspot.com
@@ -242314,6 +242329,7 @@ www-esube-teb.com
 www-esubeteb.com
 www-evdekal-mobil-20gb.com
 www-evlilik-kredisi.net
+www-extend-time-tbcpt.myonlineportal.ch
 www-eylul-edevletkapisi.com
 www-eylul-edevletsorgulama-tr.com
 www-eylul-edevletsorgulama.com
@@ -243247,6 +243263,7 @@ www-onlineiadeuygulama-cimer-govtr.com
 www-onlineiadeuygulama-cimer.com
 www-onlineislemler-turkiyefinans.com
 www-onsatis.com
+www-orancpt-tb-webten.myonlineportal.ch
 www-osym-gov-tr.nl
 www-osym-gov-tr.nproxy.org
 www-osym-gov-tr.online

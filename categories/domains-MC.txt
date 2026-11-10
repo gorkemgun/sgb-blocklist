@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41761
-# Last change: 2026-11-10 13:31:45 UTC (sync mode: delta)
+# Records: 41774
+# Last change: 2026-11-10 20:51:51 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3751,6 +3751,7 @@ api-service.co
 api-web3-auth.vercel.app
 api.8fenyi.com
 api.askoknook.com
+api.avonlo.com
 api.beebeatoplayer.com
 api.bitdefenderupdate.org
 api.bnmbvdscc.com
@@ -6605,6 +6606,7 @@ browser-updater.com
 browser-updater.live
 browser.anaiytics.org
 browser.internalfiles.sbs
+browser.ydx-stat.ru
 browsercheckap.azurewebsites.net
 browsercheckingapi.azurewebsites.net
 browsercheckjson.azurewebsites.net
@@ -9104,6 +9106,8 @@ craigparkinson79779.xyz
 crank2311.ddns.net
 cranuncrux.xyz
 crapa.ddns.net
+crash.reporting.t.ya-user-experience.ru
+crash.reporting.u.ya-user-experience.ru
 crashhandler.ddns.net
 crashstoreplayer.website
 crasyhost.com
@@ -18815,6 +18819,7 @@ ivtmarkets.com
 ivtsjpac.com
 ivwrhcsdylybter.su
 ivybanu.com
+iwannalove1.ya-user-experience.ru
 iwapl.jk6l1r.com
 iweuiqjdakjd.com
 iwgfssh.cn
@@ -22999,6 +23004,7 @@ mawanstory.com
 mawlgfe.com
 mawskqlwas.fun
 max-ghoster1.azureedge.net
+max-telemetry.online
 maxbook.site
 maxdha123.ddns.net
 maxiefdr.xyz
@@ -26870,6 +26876,7 @@ orcusss.duckdns.org
 ord12route.art
 ord8w1.us
 ordaburdasurdazartzurt.com
+order.50perfume.ru
 order.buyanemostatonline.com
 ordercheck.online
 orderchina.com.vn
@@ -27776,6 +27783,8 @@ pepesetup.ddnsfree.com
 pepito1337.hopto.org
 peplenters.eatergolfa.ru
 peqevent.com
+per1.segmentfy.com
+per2.segmentfy.com
 per2sonbro.com
 perception124.xyz
 percolysrl2.ddns.net
@@ -36882,6 +36891,7 @@ update-software.top
 update-symantec.com
 update-teams.live
 update-windows-security.tk
+update-yandexbrowser.ru
 update.86wts86a8j.com
 update.adboeonline.net
 update.ajaxrenew.com
@@ -40533,6 +40543,7 @@ y7c.no-ip.info
 y7moj.uqauv.cn
 y9hlw51.osor1.com
 ya-support.com
+ya-user-experience.ru
 ya27fw.k6zix6.com
 ya66lsx81lwxocgey.com
 ya78fe78dor12.xyz
@@ -40578,6 +40589,7 @@ yamaha.ug
 yamakrug.ru
 yamal-group.online
 yamatel.store
+yan-stat.ru
 yanardunya06.com
 yanarimsana.com
 yancommato.com
@@ -40680,6 +40692,7 @@ ydkftbdkqp.drinkdeu.ru
 ydnsk.com
 ydownyload.net
 yduyyoxu.io
+ydx-stat.ru
 ydxpwzhidexgny.com
 ydyrrpfeqmji.com
 year1theof.xyz

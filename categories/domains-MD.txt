@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66207
-# Last change: 2026-11-10 13:31:45 UTC (sync mode: delta)
+# Records: 66214
+# Last change: 2026-11-10 20:51:51 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16031,6 +16031,7 @@ cheatjeka.hopto.org
 cheatlib.xyz
 cheatmodernwarfare.com
 cheats-r.ddns.net
+cheatseller.com
 check-app-con.duckdns.org
 check-app-safty.duckdns.org
 check-app-standars.duckdns.org
@@ -22363,7 +22364,9 @@ elifinoyundunyasi.xyz
 eliots9390jarndos20.duckdns.org
 elite10mars.ddns.net
 eliteautoused-cars.com
+elitecheatsx.live
 elitehost.ddns.net
+elitemods.shop
 eliteride.limo
 elitiorecfreetoo.cc
 eliverify.ddns.net
@@ -34292,6 +34295,7 @@ klaustrofebia.ru
 klavenass.com
 klczrmtbcu.duckdns.org
 kleenghjah.com
+klenna.top
 klexxon.hopto.org
 kleyoib.duckdns.org
 klf64h.duckdns.org
@@ -48494,6 +48498,7 @@ resgatedepontos.zapto.org
 resgateiupappbr.hopto.org
 resgateiuppagora.hopto.org
 resgatepontos.ddns.net
+resight-cheats.net
 resilientlimb.icu
 resimciziyorum.com
 resinelkeft.com
@@ -49119,6 +49124,7 @@ rootcap2008.ddns.net
 rootkit.zapto.org
 rootqnamebara.com
 roots.zapto.org
+rootsblowers.co.in
 rootserver.zapto.org
 rootsplace.ddns.net
 rootunv.com
@@ -50074,6 +50080,7 @@ sasouki.zapto.org
 sasyno.zapto.org
 sat.zapto.org
 sat1244.ddns.net
+satano.xyz
 satanshop.net
 satishmoheyt.in
 satishmoheyt.ml
