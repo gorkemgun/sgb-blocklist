@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109279
-# Last change: 2026-11-10 04:39:04 UTC (sync mode: full)
+# Records: 109311
+# Last change: 2026-11-10 13:31:45 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -257,6 +257,7 @@
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-sepeti-tr.trendlysepet.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-shop-indirimleri.uygundepo.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-shop-tr.bzz1114.site
 101-extra-mobil-sadece-bugune-ozel-avantajli-fiyatlar-tr.e-ticaret-tr.online
 101-extra-mobil-sadece-bugune-ozel-cep-indirimleri-tr.cepsel-viptr.online
 101-extra-mobil-sadece-bugune-ozel-cepte-indirim-sepeti-tr.eshops-mobile.online
@@ -296,6 +297,7 @@
 101-extra-sadece-bugune-ozel-alisveris-indirim-kuponu-tr.bilgilendirme-sepeti.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-mobilde.alisverix-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.sepetimde-tr.online
+101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.zam070504.site
 101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
@@ -327,11 +329,13 @@
 101-extra-sadece-bugune-ozel-mobil-alisveris-sepet-tr.max-shop-tr.online
 101-extra-sadece-bugune-ozel-mobil-firsat-indirimleri-tr.trendceps.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-tr.eticaret-mobil.online
+101-extra-sadece-bugune-ozel-mobil-indirim-sepeti-trend.websepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-indirim-sepeti.sepetteindirim.online
 101-extra-sadece-bugune-ozel-mobil-indirim-vakti-tr.bilgisel-cepte.online
 101-extra-sadece-bugune-ozel-mobil-online-indirimleri-sepet-tr.cepsepet-tr.online
 101-extra-sadece-bugune-ozel-mobil-sepet-indirimleri-tr.cep-markets.online
 101-extra-sadece-bugune-ozel-mobil-shop-urunleri-sepette-tr.buys-shop.site
+101-extra-sadece-bugune-ozel-mobil-trend-alisveris-sepeti-tr.bilgimsepette.online
 101-extra-sadece-bugune-ozel-mobil-urun-indirim-sepetleri-tr.trend-cepte.site
 101-extra-sadece-bugune-ozel-mobilde-online-indirim-sepeti-tr.cepseltr.online
 101-extra-sadece-bugune-ozel-online-alisveris-indirim-sepeti-tr.links36.online
@@ -387,6 +391,7 @@
 101-mobil-extra-bugune-ozel-sepet-indirimi-mobilde-tr.ceptiko.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimi-cepte-tr.marketx-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
+101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-indirim.vzz4777.site
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-tr.e-sepets.online
 101-mobil-extra-sadece-bugune-ozel-asveris-indirimleri-tr.e-shopta-mobils-tr.online
@@ -8161,6 +8166,7 @@ antonymambiguity.top
 antrodulist.pro
 antseduce.top
 antur-tatil.com
+anubisclient.net
 anubisdawn.com
 anubispro.duckdns.org
 anubispro.online
@@ -8770,6 +8776,7 @@ aracihasrsorgkaydi.net
 aracihsrsorglaman.net
 aracikonumagetir.online
 aracilehizligecxslerim.site
+aracim360-etiketbakiyldolum.web.app
 aracim360-gecis-hizli-bakyler.web.app
 aracim360-kilo-metre-detay.web.app
 aracim360-portal.online
@@ -10159,6 +10166,7 @@ athletewarranty.top
 athleticcasualty.top
 athleticpotent.top
 athleticsanitary.top
+atiiyoruz.space
 atillavakfi.net
 atina.space
 atinapro.co
@@ -19166,6 +19174,7 @@ casinosonlineapostas.com
 casla-abd-aldin-aldin.icu
 casperkamikaze.online
 caspermarka.sorgupanel.net
+caspernotebook3347.duckdns.org
 casperslab.io
 casqhv.top
 casrpia.shop
@@ -29807,6 +29816,7 @@ dxzepf.click
 dybgiris.com
 dybkatilim.com
 dybportfoy.com
+dybreferans.com
 dybsubem.com
 dydkgasgisa.com
 dyeescalation.top
@@ -35873,6 +35883,7 @@ filterrobst.top
 filtre-haber.club
 filtre-haber.online
 filtre-haber.website
+filtreden-al-urunlerini.sbs
 filtrehaber.club
 filtrehaber.online
 filtrehaber.site
@@ -38332,6 +38343,7 @@ garantisube-online.cfd
 garantisurprizyilbasi.ga
 garantitrademinexx.net
 garantitrust.online
+garantivarlikyonetim.cloud
 garantivbbvaefmkasa.duckdns.org
 garantivergi.net
 garantiweb.my-homeip.com
@@ -39653,6 +39665,7 @@ gibgiris.com
 gibgov.com
 gibgxoviadevxtr.fun
 gibharcode.com
+gibharcpuluodeme.com
 gibportamobil.com
 gibsms.com
 gibsorgula.com
@@ -42463,6 +42476,7 @@ h3bb7fin.cn
 h3eseh8h7476hhhh.ipv64.de
 h3h4h7hhhh63hshh.mywire.org
 h3hpslehws4.kozow.com
+h3l9ss3947l9sl65.tcp64.de
 h3q2wtrsaf12t3-gxfs-3-2gdsgy31q2t-fsa.sbs
 h3x8m2k9q6f4n7zh.cfd
 h47474cc.click
@@ -47022,6 +47036,7 @@ hozutia.com
 hozutya.com
 hpercelikcaven.cfd
 hpersnalmrketslymanca.cfd
+hpfonborsa.com
 hpgseg.org
 hpmzbrdnrvdaldk.store
 hpnzskytrmmbradagln.duckdns.org
@@ -53512,6 +53527,7 @@ k8y1b.my
 k9d9c.my
 ka8x2an.xdk8ax.cn
 kaanayberklo.net
+kaarchertr.com
 kaaxcheck.wuaze.com
 kabdanhoyt.info
 kabelbrendedjelekbiru.lol
@@ -54442,6 +54458,7 @@ kargodepo.site
 kargodurumsorglma.com.tr
 kargodurumsorglma.online
 kargoguvenli.com
+kargoilesiparis.com
 kargoisleminizburadan.com
 kargokapinda.com
 kargolarimnerdeonline.com
@@ -54613,6 +54630,7 @@ kaslm-101a-yasir.com
 kaslm-frsatt-101ca.com
 kaslmdan-10-1flrsatlari.cfd
 kasmayiefsne101kampnyalari.com
+kasmbasvurtt0ki.online
 kasmdakrcndzndglnlr.com
 kasmindrmleri2023.online
 kasmlrdakrcallarda.cfd
@@ -55955,6 +55973,7 @@ kmogren-kmbilgilendirici.firebaseapp.com
 kmogren-kmbilgilendirici.web.app
 kmogren-sorgulamaci.firebaseapp.com
 kmogren-sorgulamaci.web.app
+kmogren.xyz
 kmogretici-bilgilendiriciler.firebaseapp.com
 kmogretici-bilgilendiriciler.web.app
 kmoollaro.com
@@ -58821,6 +58840,7 @@ lnstahelpservice.com
 lnstanmbulkentkart.net
 lnstaqramtellifhakkoruma.xyz
 lntaklnkasma.net
+lntalnksn.net
 lntalnlan.net
 lntlanlaskma.net
 lntlntlntltnltn.net
@@ -66432,6 +66452,7 @@ newsline24.live
 newslogix.ch
 newsmingle.top
 newsmonitor.icu
+newsmyorf.com
 newsnjgfsd.net
 newsnowl.art
 newsodo.com
@@ -74224,6 +74245,7 @@ portfolipzts-pztyolhizmetleri.com
 portfoyakis.online
 portfoymenkul.com
 portfoynurol.com
+portfoyum.org
 portgov.com
 portillumination.top
 portiondispatch.top
@@ -77118,6 +77140,7 @@ qorva.sbs
 qorvani.gifts
 qorvendix.com
 qorvi.bond
+qoslink.cloud
 qoudsjejdjsndj.com.tr
 qovpul.top
 qoys7nu62.supersurvey.com
@@ -80558,6 +80581,7 @@ s2lovam.com
 s2ver.online
 s3177.site
 s32ee43hh7h87h62.lan64.de
+s34hs29s7h9l63l2.srv64.de
 s3caccverifisubmit.xyz
 s3rehnhlles3d8n.iot64.de
 s4.kredidenizim.com
@@ -82040,6 +82064,7 @@ sahibindens.ilanimsiparisguvendli.com.tr
 sahibindensanalmarket.com
 sahibindensatici.com
 sahibindensaticionay.com
+sahibindensatis.live
 sahibindensatis.org
 sahibindensatis.shop
 sahibindensatisonay.com
@@ -86760,6 +86785,7 @@ sokmarketlervveb.com
 sokmarketlim.online
 sokmarketramazanmenusu.cfd
 sokmarletin.com
+sokmarlktin.com
 sokramazan.cfd
 soksanalmarketindirim.site
 sokseviyoruzsoksokisokahl.duckdns.org
@@ -88265,6 +88291,7 @@ ss-sahibinden.tmguvendea.com
 ss-secure.com
 ss-start-ledger-m--auth.webflow.io
 ss0-crypotal-sso.webflow.io
+ss43l36h2hs26977.route64.de
 ss6777.site
 ss9hykk.cn
 ss9n1ti.cn
@@ -98878,6 +98905,7 @@ urunapp.net
 urunbitmedengerekeniyapanlar.sbs
 urundetay-sepet-15.sbs
 urundetay-sepet-30.sbs
+urundetay-sepet-35.sbs
 urundetayi.com
 urunguvende.online
 urunguvenli-al.com
@@ -101881,6 +101909,7 @@ vz7877s.site
 vzcmcmxmdr.net
 vzkhvv.top
 vzwcorp.co
+vzz4777.site
 vzzota.top
 w-132-ss-3-545-2.blogspot.com
 w-mynslemlrnztvk.net
@@ -104852,6 +104881,7 @@ wugqqu.top
 wulingturkiye.com
 wunixeacau.life
 wuoppin.live
+wuoppin.xyz
 wup101firsatlaar.club
 wupgradedesignation.top
 wupkyt.top
@@ -105085,6 +105115,7 @@ www-ctbde-cepte-default.myonlineportal.ch
 www-cumhurbaskanligi-iletisim.com
 www-cumhurbaskanligiadesi.com
 www-customtb-extend-ayrica.myonlineportal.ch
+www-debycpte-tb-weptan.myonlineportal.ch
 www-denizgov-banka-online.ml
 www-detail-cptb-ayrica.myonlineportal.ch
 www-detaycepte-ayrica.myonlineportal.ch
@@ -106291,6 +106322,7 @@ xn--onlnekarayol-34b.net
 xn--onlnerezervasyonbirimi-old.net
 xn--onlnetrtrkiyehabergiri-zlc08jp7a.net
 xn--orjinalarkadapaketleri-6ge.com
+xn--osmanlmenkul-64b.com.tr
 xn--pabu-mza9s.com
 xn--paibu-jcb.com
 xn--paibu-ubb.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260280
-# Last change: 2026-11-10 04:39:04 UTC (sync mode: full)
+# Records: 260304
+# Last change: 2026-11-10 13:31:45 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -1361,6 +1361,7 @@
 101hemen.yapacanizsisi.click
 101hemenkapindasizinle.com
 101hemenkapinizda.com
+101hemenkapinnda.duckdns.org
 101herseyburadaonlineozel.rf.gd
 101hftninfrsatlri.duckdns.org
 101hizliislemler.cfd
@@ -12382,6 +12383,7 @@ a101cebineozel.online
 a101cekilis.net
 a101cell.net
 a101cep.com
+a101cepp.duckdns.org
 a101cepte.com
 a101cepteindirim.online
 a101cepteindirimler.online
@@ -17813,6 +17815,7 @@ aguasgdgasgdg888asw.click
 aguaspoav.vercel.app
 aguga293sadashdasdsaww.click
 aguggasdhashdah22.click
+agugogaasdasd8sadasd.click
 agurhanesfa.vercel.app
 agusstsozlklmmsokktn.com
 agustafirsatlarim.com
@@ -27407,6 +27410,7 @@ aracmuayenehizmxtlxriturk.net
 aracmuayenehmzetmb.web.app
 aracmuayeneislem.com
 aracmuayeneislemi.com
+aracmuayeneisleminz.web.app
 aracmuayeneislemleri.com
 aracmuayeneislemleri.sbs
 aracmuayeneislemmler.com
@@ -27500,6 +27504,7 @@ aracmuaynehizmetlerimiz.net
 aracmuaynehizmetlerrimiz.com
 aracmuaynehizmetlerrimiz.net
 aracmuaynehmztialma.web.app
+aracmuaynehzmteniz.web.app
 aracmuaynehzmtleri.xyz
 aracmuaynehzzlaktf.com
 aracmuaynekampyasi.net
@@ -27557,6 +27562,7 @@ aracmuaynmtvruk.net
 aracmuaynnm.net
 aracmuaynntuvrk.net
 aracmuaynrandevu.blogspot.com
+aracmuaynrndvu.web.app
 aracmuaynsaerolb.net
 aracmuaynsm.net
 aracmuayntvrk.net
@@ -32288,6 +32294,7 @@ banca-movilbbva.com
 bancaunicredit.net
 banconline-com.tk
 bancorpb.com
+bandanaman.6457893208679.sbs
 bandanaman.7846513487846.sbs
 bandicoy.com
 bandonlinesube.cf
@@ -34495,6 +34502,7 @@ basvuruiletisim-portal.tk
 basvuruilkevim.com
 basvuruilkevim.info
 basvuruilkevim.live
+basvuruilkevimform.com
 basvuruilkevimt0ki.info
 basvuruilkevimt0ki.pro
 basvuruimzaacikdenizv2denizbankatilis.co.vu
@@ -50832,6 +50840,7 @@ bonusbakiyeli.ml
 bonusbasvuru.online
 bonusbasvuruekran2024.com
 bonusbasvuruekran2024mayis.com
+bonusbasvurusayfasi3254325.sbs
 bonusbenimle.cf
 bonusbenimle.ga
 bonusbenimle.gq
@@ -58183,6 +58192,7 @@ cepteindirim.net.tr
 cepteindirim.org.tr
 cepteindirim.site
 cepteindirimhizmeti.com.tr
+cepteindirims-tr.online
 cepteindirimsok.com
 cepteinternet20gb.com
 cepteis-bireysel.com
@@ -109459,6 +109469,7 @@ haberdunyasi.shop
 haberduyurulari.com
 haberekon.online
 haberekon.xyz
+haberemekliye.grippex.cfd
 haberfirsatiyeri.com
 haberfirsatlariduyuru.com
 habergazetetrler.xyz
@@ -131477,6 +131488,7 @@ indirimselrinmi.com
 indirimseninle.xyz
 indirimseonisen.shop
 indirimsepetesimdi.online
+indirimsepeticep.online
 indirimsepette.cfd
 indirimservisi.xyz
 indirimservisler.xyz
@@ -146457,6 +146469,7 @@ karcheryikamacihazlari.space
 karcheryikamastandlabrazilto.art
 karcheryikamastandlario.art
 karchizlyilsn.com
+karchrfirsatlari.online
 karchyikamaoto.store
 karcyilsn.com
 karcylsonn.com
@@ -163954,6 +163967,7 @@ mobilegirisiim-tr.com
 mobilegirkampanyadanfaydalan.click
 mobilegrs.com
 mobilehalfostrichring.com
+mobilehalkdankmagaza.duckdns.org
 mobileinternete-finans.com
 mobileinternetfinans.com
 mobileisceplekazan.com
@@ -164775,6 +164789,7 @@ mobilsubeziraatgiris.com
 mobiltakipuygulamasi.online
 mobiltalep.com
 mobiltebce.my-homeip.net
+mobiltebcepte.my-homeip.de
 mobiltemmuzkampanyasibasvurusubugece.monster
 mobilticaretp-ttsnaal.com
 mobiltlyukle.com
@@ -183866,6 +183881,7 @@ pazarama.ile-onay-sepete.com
 pazarama.indirimsepetinde.com
 pazarama.islemkanali.com
 pazarama.kargohizi.com
+pazarama.kargoilesiparis.com
 pazarama.magazamda-ilanim.com
 pazarama.odeme-onay-1281.com
 pazarama.odemeguvende.com
@@ -197403,6 +197419,7 @@ sahibinden-get.tr-satis.online
 sahibinden-get.u-guvenlialisveris.sa.com
 sahibinden-get.urun-al.fun
 sahibinden-get.urundetay-sepet-15.sbs
+sahibinden-get.urundetay-sepet-35.sbs
 sahibinden-get.urunuguvenli-al.fun
 sahibinden-get.vercel.app
 sahibinden-get.x-mobil-islem-guvenceli.com
@@ -207919,6 +207936,7 @@ skyxd.site
 skyybizness.com
 sl.petrointurkey.com
 sl55polisi155tr.online
+sl649s9s9h7l3l32.ipv64.net
 slaayhocam.com
 slabworks.sbs
 slaglagkssw.cfd
@@ -209672,6 +209690,7 @@ sonfrsaattbsvrrrkmpnyaaa.live
 sonfrsat-burada.com
 sonfrsatkampanya.xyz
 sonfrsiattlarbsasvrkmnpyaaa.pro
+sonfrsltar2371.info
 sonfrsltarrbasvrrkmpnyaa6569741.info
 sonfrstbugun.online
 sonfrstkmpnyabsvrr.pro
@@ -215723,6 +215742,7 @@ tamaradaiginizyerdeurunnlerr.com
 tamataaaandsas.com
 tambayi.online
 tambayi.plakabayi.online
+tambiroe34232.duckdns.org
 tamburada.icu
 tamdaisteoradasin.tech
 tamdeemark.com
@@ -243633,6 +243653,7 @@ www-sosyalyardim.com
 www-sosyalyardimlasma-gov-tr.com
 www-sosyalyardimlasma-govtr.com
 www-sqpons0rlub4svuru.online
+www-stafcpte-tb-weptan.myonlineportal.ch
 www-stanley-burd-indmrmds.com
 www-stanley-teklif-herzaman-24.com
 www-stanley-yeniyl-c.com
@@ -249520,6 +249541,7 @@ yakyak2023bimcelltlyukle.ga
 yalandundyadan.site
 yalatiyonkoltukaltivi.click
 yaldmbiti.sbs
+yale-people-correct-staffing.trycloudflare.com
 yalensians.com
 yalikavaklisubeleri.com.tr
 yalikavaklisubeleri.xyz
@@ -252001,6 +252023,7 @@ yarigec.is-best.net
 yarikredi.com
 yarimayhgs.com
 yarin5ksozverdin.com
+yarinabirikim.cyou
 yarinaisik.online
 yarinaksam.ga
 yarindunyasi.space
@@ -253154,6 +253177,7 @@ yenibasvuruyaztemmuz2024.com
 yenibayi.xyz
 yenibayilerimiz.is-best.net
 yenibayimsssa-e58640c4509a.herokuapp.com
+yenibbvuislemenu.linkpc.net
 yenibenimustumbasimpahali.uk
 yenibigecisim.sg-host.com
 yenibiigecisim.sg-host.com

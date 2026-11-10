@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MI
-# Records: 184
-# Last change: 2026-09-30 13:49:34 UTC (sync mode: delta)
+# Records: 185
+# Last change: 2026-11-10 13:31:45 UTC (sync mode: delta)
 0x666.info
 1235saddfs.icu
 20gbhediyemiz.com
@@ -184,5 +184,6 @@ xlabslover.lol
 yasklehahapirtes.com
 yygp4pdh.apexharvestor.digital
 z.hxhk.cc
+zxcvz.net
 zyber-i.com
 zynaris.io
