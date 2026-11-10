@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478613
-# Last change: 2026-11-09 22:26:55 UTC (sync mode: delta)
+# Records: 478631
+# Last change: 2026-11-10 04:39:04 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -26373,6 +26373,7 @@ a101pazartesigdf.com
 a101pazartesiozel.online
 a101perakende.uygunfiyatlialisveris.com
 a101perakendesatismagazasi.thereisnoemail.com
+a101perekende.duckdns.org
 a101perfectaktuel.net
 a101perfectinizaktuel.com
 a101persembegunleri.com
@@ -39100,7 +39101,9 @@ akbank-togg-comtr.rf.gd
 akbank-tr-giris.com
 akbank-tr.com
 akbank-tr.eu
+akbank-tr.live
 akbank-tr.net
+akbank-tr.pro
 akbank-turkey.net
 akbank-web-giris.lat
 akbank-web.lat
@@ -66172,6 +66175,7 @@ baykar-baykoin.top
 baykar-baykoin.world
 baykar-be.com
 baykar-capital.com
+baykar-devlet-destekli-projesi.online
 baykar-devlet-destekli-projesi.sbs
 baykar-devlet-programi.com
 baykar-devlet-programi.net
@@ -66210,6 +66214,7 @@ baykar-tr.click
 baykar-tr.com
 baykar-tr.news
 baykar-tr.online
+baykar-tr.pro
 baykar-tr.sbs
 baykar-tr2024.com
 baykar-turkish.com
@@ -68918,6 +68923,7 @@ bekletmeyenkalplergelsin.top
 bekleyeniadeler.com
 bekleyenvarislar.com
 bekleyerasdmwe.net
+bekleyiniz34455656.blogspot.com
 bekliyoruz.wuaze.com
 bekoac8030.shop
 bekofirsatmagazasi.xyz
@@ -142280,6 +142286,7 @@ e-sosyalyardimcim.ml
 e-sosyalyardmlargov.site
 e-sozlesme.kurumsal-online-islem.com
 e-sozlesme.online
+e-sozlesmem.com
 e-ssbimpaket.net
 e-storagedrive.com
 e-store-tr.online
@@ -151008,6 +151015,7 @@ ekonomik-paketler20-turkcell.com
 ekonomik-paketlerim-turkcell.com
 ekonomik-stratejiler.info
 ekonomik-tcdd.biletal.uk
+ekonomik-teb.my-homeip.de
 ekonomik.space
 ekonomik20gb-paketim-turkcell.com
 ekonomikanal.online
@@ -179136,6 +179144,7 @@ garantikazaniyor.com
 garantikiralamafilo.com
 garantikkredim.wixsite.com
 garantikolaydestek.cloud
+garantikolayfinans.cloud
 garantikolayfirsatfiizsiz.online
 garantikolayodeisbasitkolayfinansmangaranti.xyz
 garantikredi.2574345284563534.com
@@ -196653,6 +196662,7 @@ haberler1256236.shop
 haberler12564.sbs
 haberler12628.sbs
 haberler12644.sbs
+haberler1267728.sbs
 haberler1269315.sbs
 haberler1278945.shop
 haberler1283432.shop
@@ -204055,6 +204065,7 @@ hazinebakanligievdeyizgovtr.com
 hazinebakanligigov.tk
 hazinebakanligigovtr.com
 hazinebakanliginiz.xyz
+hazinebakanligisonadres.shop
 hazinebakanligiyardim.xyz
 hazinebbgirisgov.com
 hazinebirimi.org
@@ -263623,6 +263634,7 @@ kochkrrscjyt.pw
 kochold.eu
 kocholdin.eu
 kocholding.group
+kocholding.live
 kocholding.serveftp.com
 kocholding.space
 kocholding.world
@@ -285278,6 +285290,8 @@ merkez-aidat.com
 merkez-banka.club
 merkez-banka.com
 merkez-bankasi.com
+merkez-bankasi.info
+merkez-bankasi.live
 merkez-bankasi.net
 merkez-bankasiade.cf
 merkez-cimer.com
@@ -358508,6 +358522,7 @@ sabahvckaititiim.net
 sabahvckaititim.net
 sabahvergizaman.net
 sabahverlornv.com
+sabanc-holding.sbs
 sabanci-akbankinvestment.com
 sabanci-islamicstock.com
 sabanci-yatirim.com
@@ -375185,6 +375200,7 @@ sibalmemura.online
 sibbasha.duckdns.org
 siber.zapto.org
 siberaffetmez.com.tr
+siberciyiz.xyz
 siberdusunce.org.tr
 siberistanbul.net
 siberistanbul.org
@@ -397689,6 +397705,7 @@ tapu.ink
 tapu.lat
 tapu.live
 tapu.my
+tapu.run
 tapu.surf
 tapu1.shop
 tapu11.shop
@@ -407119,6 +407136,7 @@ togfinans.com
 togg-2026.com
 togg-arac-finansmani.com
 togg-arac-finansmanlari.com
+togg-arac-kredileri.com
 togg-basvuru-katilim.komisyoniadesi.net
 togg-basvuru.online
 togg-cekilis.com
