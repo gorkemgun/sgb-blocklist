@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109421
-# Last change: 2026-11-11 07:49:50 UTC (sync mode: full)
+# Records: 109451
+# Last change: 2026-11-11 16:15:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -270,6 +270,7 @@
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.lis00666.site
 101-extra-mobil-sadece-bugune-ozel-online-alisveris-tr.pro-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-firsatli-alisveris-tr.netsepet.online
+101-extra-mobil-sadece-bugune-ozel-online-mobil-sepet-tr.bizz7778.site
 101-extra-mobil-sadece-bugune-ozel-online-sepet-indirimi.extradamobil.online
 101-extra-mobil-sadece-bugune-ozel-online-shop-alisveris-cep-tr.e-sepets-tr.online
 101-extra-mobil-sadece-bugune-ozel-online-urun-sepeti-tr.indirimsepeti.site
@@ -302,6 +303,8 @@
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.sepetimde-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirim-sepeti-tr.zam070504.site
 101-extra-sadece-bugune-ozel-alisveris-indirim-tr.extra-trend.online
+101-extra-sadece-bugune-ozel-alisveris-indirimi-mobil-tr.links36.site
+101-extra-sadece-bugune-ozel-alisveris-indirimi-mobil-tr.nz030201.site
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.bilgi-al.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.e-shop-tr.online
 101-extra-sadece-bugune-ozel-alisveris-indirimleri-cepte-tr.hemenalio.online
@@ -322,6 +325,7 @@
 101-extra-sadece-bugune-ozel-cepte-siparis-indirimi-tr.cepio-tr.online
 101-extra-sadece-bugune-ozel-indirim-alisveris-sepeti-tr.web-market.online
 101-extra-sadece-bugune-ozel-indirim-sepete-ekle-tr.mobils-bilgide.online
+101-extra-sadece-bugune-ozel-indirim-sepeti-cepte-tr.b70004.site
 101-extra-sadece-bugune-ozel-indirim-sepeti-online-tr-cep.alisverisgo.online
 101-extra-sadece-bugune-ozel-indirim-sepeti-tr-shop.tr-sepettex.online
 101-extra-sadece-bugune-ozel-indirimli-sepet-mobilde-tr.sepetextra-tr.online
@@ -391,12 +395,14 @@
 101-mobil-bugune-ozel-extra-indiriml.shopping-tr.online
 101-mobil-bugune-ozel-indirim-sadece-online-alisveris-tr.extramarket.online
 101-mobil-bugune-ozel-online-alisveris-indirim-sepet-tr.vibe9958.site
+101-mobil-extra-bugune-ozel-indirim-alisveris-sepeti-tr.zz771718.site
 101-mobil-extra-bugune-ozel-online-alisveris-cep-sepeti-tr.trendbox-tr.online
 101-mobil-extra-bugune-ozel-sepet-indirimi-mobilde-tr.ceptiko.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimi-cepte-tr.marketx-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-indirimleri-tr.extrada-tr.online
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-indirim.vzz4777.site
 101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.mobilsepette.online
+101-mobil-extra-sadece-bugune-ozel-alisveris-sepeti-tr.ser99854.site
 101-mobil-extra-sadece-bugune-ozel-alisveris-tr.e-sepets.online
 101-mobil-extra-sadece-bugune-ozel-asveris-indirimleri-tr.e-shopta-mobils-tr.online
 101-mobil-extra-sadece-bugune-ozel-indirim-online-alisverisde.mix-shop.online
@@ -2256,6 +2262,7 @@
 403-forbidden.icu
 403-forbidden.sbs
 404-found.icu
+404-found.xyz
 404308.com
 407minions.com
 407teric.buzz
@@ -2958,6 +2965,7 @@
 777571654821651165651.tech
 7777775456.sbs
 7777sdsdsnsdsaym.com
+777keresex.xyz
 77979797997.cloud
 77bby721223132.duckdns.org
 77cxmai3zm.icu
@@ -3537,6 +3545,7 @@ a-1oo1-kapida.xyz
 a-1oo1-online.net
 a-a-101.store
 a-basvr25.sbs
+a-cpte-tbde.myonlineportal.ch
 a-g-r.my-homeip.de
 a-haber.app
 a-i101.com
@@ -5883,6 +5892,7 @@ ahlatcihizli.shop
 ahlatcimenkuldegerler.xyz
 ahlatcimenkulkiymetler.com
 ahlatciyatirim.co
+ahlprosube.com
 ahmaswe.com
 ahmetafafaan.net
 ahmetasdds.blogspot.com
@@ -9626,6 +9636,7 @@ arxsdmuynesrvlerinex.net
 aryadisticaret.com
 arzssrtwt.com
 arztasmtwas.com
+arzumasnatw.com
 arzumbaharindirimi.com.tr
 arzumcaymaknnne.com
 arzumhdson.com
@@ -11539,6 +11550,7 @@ b5kkshd.cn
 b65f5918.hdsndnd9n.com.cn
 b6ugmr.cyou
 b6v6h76c3xs2446.duckdns.org
+b70004.site
 b7044875-43ce-4640-975a-e96c240b0060-00-37nlup93tlwtt.picard.replit.dev
 b709.site
 b7cvq0d.cn
@@ -44720,6 +44732,8 @@ hepsburdakutu.net
 hepsenimenfew.net
 hepsenleoynayalim.xyz
 hepsi-burada.online
+hepsi10bu1ra.com
+hepsi10bu2ral.com
 hepsi8.com
 hepsibahis0615.com
 hepsibenimle.xyz
@@ -44782,6 +44796,8 @@ hepsicicek.shop
 hepsicicek.vip
 hepsiekim-basvurukampanyasibance.tech
 hepsiercburada.com
+hepsifqdh1jk.com
+hepsifqdh1lk.com
 hepsigibi-buralara-ilkinden-sonrada-bulun.com
 hepsii-burada-20yil.com
 hepsiicerde.com
@@ -47666,6 +47682,7 @@ hzlinrdn.cfd
 hzliotodagecshizmeti.net
 hzlirand.cfd
 hzlirandevlarr.com
+hzlirhblr.cfd
 hzlirnad.cfd
 hzlirndal.cfd
 hzlirndal.com
@@ -56393,6 +56410,7 @@ koinim-tr.me
 koinim-tr.net
 koinim.me
 koisojoi.com
+kojacuxubuse.shorts.gy
 koksclastrakf.net
 kokumarket.club
 kola.memerax.com
@@ -62942,6 +62960,7 @@ mhrs-app.online
 mhrs-d.digital
 mhrs-e-devlet.vercel.app
 mhrs-edevletgiris.sbs
+mhrs-gecelrburas.sbs
 mhrs-giris-islem-link.vercel.app
 mhrs-giris.blog
 mhrs-giris.online
@@ -64714,6 +64733,7 @@ mryetherwallet.com
 ms.hgsyuklemeyerii.net
 ms5hf7.cn
 msabsvr5.com.tr
+msagsdgv.art
 msagzxbwqrsq.net
 msahibinden.com.tr
 msasa-sakaas.net
@@ -68367,6 +68387,7 @@ nytroseodata.com
 nyvareon.com
 nyviklmarlm.net
 nywareon.com
+nz030201.site
 nzg.coinbase-com.info
 nzl63pn.cn
 nzolusmd.icu
@@ -77514,6 +77535,7 @@ r88ylwj.cn
 r8basvurularibnncegiris.com
 r8basvurularibnncelogin.com
 r8dench.cn
+r99052.site
 r9m2p6w4k8n1.sbs
 ra-mazn-lrfsti.sbs
 raandevunvu.xyz
@@ -83984,6 +84006,7 @@ sepetimde.xyz
 sepetimdeindirimleriyakala.com
 sepetimdeonline.click
 sepetimdeonline.online
+sepetimdeonline.shop
 sepetimdeonline.site
 sepetimdeonline.store
 sepetimdinr.shahiyarran.sbs
@@ -84412,6 +84435,7 @@ sfrdoksndkzzaltaydanertelde.online
 sfsafssafasfas.com
 sfsaghssajfgashfsajgsahjsafkjdsfajsgaffsa.online
 sftwebbilgi.sbs
+sfwrtqqrrqrww.sbs
 sfxray.top
 sg-erp-billing.top
 sg-erp-digital.top
@@ -85778,6 +85802,7 @@ siparishizliver.com
 siparisim-onay-1921.com
 siparisim-onay-1922.com
 siparisim-sepette.com
+siparisimtakip.com
 siparisinadresi.com
 siparisincepte.click
 siparisinhadide.click
@@ -91366,6 +91391,7 @@ tallerdelso.com
 tallnegligible.top
 tallpartisan.top
 talvirox.store
+talvona.cyou
 talvona.store
 talvoro.store
 tam-mutabakat.garden
@@ -94160,6 +94186,7 @@ toehome.click
 toekibassvur.vercel.app
 toepasser-by.top
 toetales.net
+tog-t10.com
 togetherbetterdependnothing.click
 togetherhire.fun
 togethernet.site
@@ -98527,6 +98554,7 @@ umutpower.org
 umutverenler.com
 umutydkurumu.net
 umutydkurumu.org
+un-mofa-gov-np.workers.dev
 unablefoster.top
 unableissue.top
 unanimousplaintiff.top
@@ -99199,6 +99227,7 @@ usqas.icu
 ussubscribe.top
 ussufaces.com
 ustaayakkabici.pro
+ustadjmagaza.duckdns.org
 ustafff.online
 ustaseti.sbs
 ustaxnumber.com
@@ -109400,6 +109429,7 @@ zywutey.com
 zyxava.site
 zyxeha.site
 zyydawc.com
+zz771718.site
 zza7888.site
 zzbqjpio.xdk8ax.cn
 zzcheck.fun

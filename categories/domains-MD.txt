@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66214
-# Last change: 2026-11-10 20:51:51 UTC (sync mode: delta)
+# Records: 66217
+# Last change: 2026-11-11 16:15:19 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16031,6 +16031,7 @@ cheatjeka.hopto.org
 cheatlib.xyz
 cheatmodernwarfare.com
 cheats-r.ddns.net
+cheatscan.club
 cheatseller.com
 check-app-con.duckdns.org
 check-app-safty.duckdns.org
@@ -49053,6 +49054,7 @@ rocksv.com
 rocosacloud.ddns.net
 rocqcff.duckdns.org
 rocxnrxwvqmtsq.info
+rodecaster.net
 rodujuhocafy.biz
 roffdbyxnl.duckdns.org
 rofixma.ddns.net
@@ -57581,6 +57583,7 @@ ubqna5l.duckdns.org
 ubrstofpo.duckdns.org
 ubtkrwhxrs.duckdns.org
 ubug7gyg87guiy.ddns.net
+ubuntulivepatch.com
 ubyrbfghghvh.click
 ubyrbtrgcc.click
 ubyrttgf.click

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41775
-# Last change: 2026-11-11 07:49:50 UTC (sync mode: full)
+# Records: 41777
+# Last change: 2026-11-11 16:15:19 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -7044,6 +7044,7 @@ cadscadstats.xyz
 caeerrerasss.xyz
 cafafafa.xyz
 cafe-family-club.by
+cafebabe.cc
 cafed0wnload.weebly.com
 cafesupergeroy13.ru
 cafeteriumups.ru
@@ -34522,6 +34523,7 @@ t9ffxu6zhf915fadjv1.app
 t9y84.idraut.ru
 t9z.lol
 taaymhost.ddns.net
+tablacysexplorer.com
 table6532.xyz
 table9876.xyz
 tablebeforehelpfulperson.com
