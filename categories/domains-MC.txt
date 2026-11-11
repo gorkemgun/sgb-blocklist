@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41777
-# Last change: 2026-11-11 16:15:19 UTC (sync mode: delta)
+# Records: 41780
+# Last change: 2026-11-11 22:48:28 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -14069,6 +14069,8 @@ fomvkmgyiolhifw.su
 fon1.sells-it.net
 fonbasilaclama.site
 fontemezhaliyikamacilardeniz.site
+fonts.chrorne.com
+fonts.tarotfree101.top
 fontshown.com
 foo-foo.bar
 food-tips-blog.online
@@ -30646,6 +30648,7 @@ robloxexploit2020.duckdns.org
 robloxfanscripts.ddns.net
 roboscchi.duckdns.org
 robot-876.frge.io
+robot.avbliud.com
 robot.wikaba.com
 robotatten.com
 robotics.land
