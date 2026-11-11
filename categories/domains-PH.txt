@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109379
-# Last change: 2026-11-10 20:51:51 UTC (sync mode: delta)
+# Records: 109405
+# Last change: 2026-11-11 01:16:36 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2255,6 +2255,7 @@
 4000085420006.cloud
 403-forbidden.icu
 403-forbidden.sbs
+404-found.icu
 404308.com
 407minions.com
 407teric.buzz
@@ -4178,6 +4179,7 @@ a1hr.top
 a1i011.cloud
 a1kapitalmenkulonline.com
 a1newtemuzfirstlari.xyz
+a1nsmdnsdkn.click
 a1o1-aralik-kampnyamhizli.shop
 a1o1-inanilmaz.indirimlerr.com
 a1o1-kampanyalarimiz.the-zehirsorqu.com
@@ -5568,6 +5570,7 @@ adwfcgdv-afcwtd-wdqx.sbs
 adwfgw.s.gy
 adwords-accounts.online
 adx12dxadxq22x1.sbs
+adyvidavi.online
 aecgvc.buzz
 aeeum.com
 aehnbk.click
@@ -8794,6 +8797,7 @@ aracikonumagetir.online
 aracilehizligecxslerim.site
 aracim360-etiketbakiyldolum.web.app
 aracim360-gecis-hizli-bakyler.web.app
+aracim360-gecslerbkyelfykle.web.app
 aracim360-kilo-metre-detay.web.app
 aracim360-portal.online
 aracim360.vercel.app
@@ -9748,6 +9752,7 @@ asdklmklwqmklm34637.duckdns.org
 asdkmi.mom
 asdkmwlqkmkl36347.duckdns.org
 asdlfdsamfksdafmkl.net
+asdn382390230.shop
 asdnjfrwnjwfad.duckdns.org
 asdnqbwdvabsnd1.blogspot.com
 asdnrvdalbnrdan.lol
@@ -10126,6 +10131,7 @@ asyerrfd.kalputrafnograsinraktacsarfam.net
 asylconceited.top
 asylumexpire.top
 asymbbasvvr.net
+async-tbde-numb.myonlineportal.ch
 at-govt-a.icu
 at-govt-b.icu
 at-govt-ey.icu
@@ -18190,6 +18196,7 @@ byk-tu24.com
 bykrhelp.com
 bykrush.com
 bylmex.com
+bylotatawod.com
 bylugue.com
 byntra.store
 byntrahubs.store
@@ -23985,6 +23992,7 @@ convoynegligent.top
 convrsescrmble.top
 conyuiyuice.top
 cooinbbsluign.webflow.io
+cooingeyebrow.com
 cookbook-closure-formal-weed.trycloudflare.com
 cookeroutletstore.shop
 cookglamorous.top
@@ -27480,6 +27488,7 @@ dfhuk.top
 dfin33elabel.top
 dfjhkdshnk51.top
 dfkkagkohak.com
+dfklcvmkflfg04503434.shop
 dflfmgsdokasdcpl.com
 dflihdr.top
 dflihtd-giseotoyoletiket.is-best.net
@@ -29570,6 +29579,7 @@ dsfbhtusdrtbr.sbs
 dsfcslfcksllkslcdadcas.sbs
 dsfdg.sbs
 dsfdsfdsfkkke.com
+dsfdsfdsfsdfasdfs.shop
 dsfdsfsfs.shop
 dsffgvccxv.com
 dsfggfdfdgfdg.duckdns.org
@@ -29720,6 +29730,7 @@ duringtuck.top
 durmahemenndestekol.com
 durmakyokhicbirzaman.com
 durmasendekadinlaradestekol.tk
+durmdfnmcvkjn873982.shop
 durrantitiy.site
 dursunocak.cfd
 durumaddivakfi.site
@@ -30681,6 +30692,7 @@ ebvliyna3.net
 ebvliyna4.net
 ebvliyna7.net
 ebydz.buzz
+ebypevojabizo.online
 ec.coinbase-com.info
 ec2-15-160-46-80.eu-south-1.compute.amazonaws.com
 ec2-18-196-232-0.eu-central-1.compute.amazonaws.com
@@ -35399,6 +35411,7 @@ fdavldv.sa.com
 fday-clfrm-grlsv.click
 fdbdmp.top
 fdbtmd.top
+fddsfdfdsfsdf.shop
 fddzmx.top
 fdfgmb.top
 fdfhmm.top
@@ -37723,6 +37736,7 @@ frst77kmp.xyz
 frstbradasmdi.duckdns.org
 frstbrdaaa.shop
 frsthemngelsn.shop
+frsthemnykla.shop
 frsthmnbrdna.shop
 frsthmnsendcvd.shop
 frstkkklamnaa.com
@@ -39056,6 +39070,7 @@ gelecekcephesi.com
 gelecekdernegi.com
 gelecekegitimvakfi.org
 gelecekgunlugu.com
+gelecekhedefleri.com
 gelecekodakli.online
 gelecekongorusu.misecure.com
 geleceksanati.online
@@ -48509,6 +48524,7 @@ ihtiyaclariniziertelemeyin.com.tr
 ihtiyacvarotele.org
 ihtycdvltonlinegov.icu
 ihtycdvltonlinegov.org
+ihugewe.online
 ihutu.xyz
 ii-3shtixmrr.net
 iifbtk.cc
@@ -51305,6 +51321,7 @@ iskysymmetrica.top
 islakkurusupurgee.click
 islamdrop.com
 islamhubz.com
+islammemisbnp.store
 island-placid-bromine.glitch.me
 islandeject.top
 islandminority.top
@@ -54743,6 +54760,7 @@ katiloffkampanyasencutestar.net
 katiloumet-turkey.xyz
 katkat-koop.duckdns.org
 katkatfirsatlar.com
+katkatlahemen.duckdns.org
 katkidabulunuyoruz.site
 katlanabilirmasasandalye.com
 katlanabilirmasasandalyetakimi.com
@@ -63745,6 +63763,7 @@ mobil-bahardenizv2denizbank.online
 mobil-bakiyem.com
 mobil-banka.com
 mobil-bireysel-kredi.life
+mobil-c-e-p-t-e-t-e-b-kampanya.my-homeip.de
 mobil-carrefouresa.vercel.app
 mobil-cep-online-tr.site
 mobil-cep-ozel.online
@@ -66787,6 +66806,7 @@ nightvector.vu
 niguo.top
 nihaisenlim.giize.com
 nihaisoni.giize.com
+nihaisoniom.giize.com
 nihhathatipoglu.com
 nihilvoluptate.com
 nihtlyconteract.top
@@ -70573,6 +70593,7 @@ otationpermeat.top
 otaviofritzen.online
 otcsalliance.sa.com
 ote4.net
+otelomysuj.online
 otelroyal.com
 otgtires.com
 othercategory.top
@@ -79861,6 +79882,7 @@ rizvanolliconsulting.com
 rjvamm7.cn
 rjvb.link
 rk6brit.cn
+rkddfmk34980.click
 rkfbvg.cfd
 rklmflnykkrdsmmmmmmbrknnn.duckdns.org
 rkqzki.click
@@ -95435,6 +95457,7 @@ tram3r.xyz
 tramarshstmrs.shop
 tramazdasaa.com.tr
 tramdaesa.click
+tramdarsa.net
 tramedinkalma.net
 trameewrsfs.app
 tramer-1948.blogspot.com
@@ -97471,6 +97494,7 @@ turkiyeinvestclub.com
 turkiyeinvestments.com
 turkiyeisbn.com
 turkiyeislambv.net
+turkiyekonomi.my-homeip.de
 turkiyelgovstr.pw
 turkiyemaliye.net
 turkiyemaliye.org
@@ -100184,6 +100208,7 @@ vbvgfvbb5.click
 vbxb.cn
 vbzxgs.help
 vc231mmm343.duckdns.org
+vc998741.site
 vcdoe.cc
 vcheck.cc
 vcondante-bnseteamds.com
@@ -101153,6 +101178,7 @@ vigormomentous.top
 vigorous-gould.37-148-209-114.plesk.page
 vigorsoothe.top
 vihhy.buzz
+vihylece.online
 viilnius.lt
 viixzhsldndu3dx3e.click
 vijeeshkumar.com
