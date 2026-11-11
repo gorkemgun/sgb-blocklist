@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 478825
-# Last change: 2026-11-11 01:16:36 UTC (sync mode: delta)
+# Records: 478842
+# Last change: 2026-11-11 07:49:50 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -77986,6 +77986,7 @@ bireysel-basvur-e-mobilvatandasonline-com.ga
 bireysel-basvur-e-mobilvatandasonline-com.gq
 bireysel-basvur-e-mobilvatandasonline-com.ml
 bireysel-basvur-e-mobilvatandasonline-com.tk
+bireysel-basvur.my-homeip.de
 bireysel-basvurm-ozel.tk
 bireysel-basvuru-aida-iadesi.com
 bireysel-basvuru-aidat-geri-iade.com
@@ -111574,8 +111575,6 @@ cootraffic.biz
 cootrut.site
 coozumlerburadsamerkezi.site
 cop2iudas7.ddns.net
-cop31.center
-cop31greenzoneaccreditation.com
 cop31saglik.com
 cop31saglikbakanligi.com
 copaamerica-tickets.com
@@ -113524,6 +113523,7 @@ creeltactor.com
 creemo.pl
 creep3425.xyz
 creepclearance.top
+creepexplosiondarknight.com
 creepix.com
 creeppatriot.top
 crefoursasizlerle.cfd
@@ -148766,6 +148766,7 @@ efsanamaximumtr.com
 efsane-1nd1mler-0s1md-1burda.com
 efsane-cuma-indirimleri-teknosa.duckdns.org
 efsane-cuma-karacada-basladi.buraksoftware.com.tr
+efsane-cuma-ozel-firsatlari-teknosa.webredirect.org
 efsane-eklmhaftasl.store
 efsane-firsat-kapim-da.com.tr
 efsane-firsat-kapimda.com.tr
@@ -159034,7 +159035,6 @@ etkinlik-besinciyilozel-kampanya-simdibasvur.net
 etkinlik-bnyenisorgula.net
 etkinlik-paneli.online
 etkinlik-web-mytr-go.za.com
-etkinlik.cop31greenzoneaccreditation.com
 etkinlikbasvuru.com
 etkinlikbasvurularimbn.net
 etkinlikbesinciyilozelsimdibasvur.net
@@ -227634,6 +227634,7 @@ ileriadimat.online
 ileriadimvakfi.com
 ileriadimvakfi.org
 ileribakislar.com
+ileribakismerkezi.com
 ileride-guzelden-hislerle-tanisip-sevilir.com
 ilerievlerimprojesi.com
 ilerievleriprojem.com
@@ -239723,6 +239724,7 @@ istanbulombelgimkart.xyz
 istanbulonix.shop
 istanbulonline-jnnatuubwo.amkbilisim.sbs
 istanbulonline.uk
+istanbulonlinetr.lol
 istanbulonlineyukleme.shop
 istanbulonlnebasvurmanoktasi.com
 istanbuloofisler.shop
@@ -257679,6 +257681,7 @@ keeniso.weebly.com
 keenmouse307.weebly.com
 keennt.tk
 keennylrwmqlw.shop
+keensalmon.com
 keenstarpointes.freemyip.com
 keentcrrt.net
 keentiminbonuslari.net
@@ -262795,6 +262798,7 @@ kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybrd.com
 kmpnybsvrrprmsyn319.info
+kmpnybsvrrprmsyn319.pro
 kmpnybsvrrrprsmynn15329.info
 kmpnybsvrrrprsmynn15329.pro
 kmpnydunyasi.duckdns.org
@@ -273847,6 +273851,7 @@ ln5psuljfl.com
 ln6goiju.duckdns.org
 ln72ynvi.duckdns.org
 lnacyi5.duckdns.org
+lnaktnaksnta.net
 lnalnlamllnlnlfmnnmnm.net
 lnasyelnhogkbpa.su
 lnatlanlatn.net
@@ -275190,6 +275195,7 @@ lortpakecaks.duckdns.org
 lortpakgusbasol.duckdns.org
 lortuis.icu
 lortuis.xyz
+lorveta.cyou
 lorvynnox.com
 los-3les.ddns.net
 los67xlo.site
@@ -279780,6 +279786,7 @@ maintaindisposition.top
 maintainfrantically.top
 maintainhysteria.top
 maintaining-drawings-rand-porter.trycloudflare.com
+maintenance-freelance-lunch-minister.trycloudflare.com
 maintenance.casino.coinbase-com.info
 maintenanceallergy.top
 maintenanceassassin.top
@@ -283479,6 +283486,7 @@ maysteklfisbkrbdsadburda.store
 maystkflleburdsamasabl.store
 maystout.top
 maysxindrxmlrxmbuxnlrmxbnxm.za.com
+mayte.pro
 mayter.html-5.me
 mayterrain.top
 maytinhnhatlong.com
@@ -334460,7 +334468,6 @@ portal.100am100.kz
 portal.177954coinbase.com
 portal.77-83-201-131.plesk.page
 portal.carlsberg.site
-portal.cop31.center
 portal.denizik.com
 portal.eaidamerkezi.com.tr
 portal.eiadelerim.com.tr
@@ -336035,7 +336042,6 @@ prdnbrdclsyzvrnmyndf.shop
 prdnbrdyzgnvrfdgscc.click
 prdndabnsendennestdm.lol
 pre-checker.tk
-pre-entry-declaration-cop31.ono.zone
 pre.alwayswait.site
 pre.evsahibibasvuru.com
 pre.giize.com
@@ -366571,6 +366577,8 @@ sayiliurundesecili.sbs
 sayinbelediyebaskanim.com
 sayingrandom.top
 sayinlar-tr.com
+sayinlaroil-tr.com
+sayinlaroil.com
 sayinlarturna.com
 sayintimidate.top
 sayinyilbas.click
@@ -370232,6 +370240,7 @@ selmiv.click
 selmonstudies.com
 selmuroq.com
 selneasigim.net
+selnora.cyou
 selo-can.com
 seloapl.app
 selobaba31526982.com
@@ -372713,6 +372722,7 @@ servis-bimcell-tlyukle.com
 servis-bimcelll.com
 servis-garanti.my-homeip.com
 servis-hizmet-tr.online
+servis-hizmet.online
 servis-hizmeti.online
 servis-hizmetim.online
 servis-hizmetin.online
@@ -406183,6 +406193,7 @@ tkg-edvtapko.org
 tkg-edvtapkonrandv.org
 tkg-edvtepkonv.org
 tkg-tap-randvznsz.com
+tkg-tap-randvznsz.net
 tkg-tap-randvznsz.online
 tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
@@ -421003,6 +421014,7 @@ turkiyerevenue-tr.com
 turkiyergovtr-aidat.org
 turkiyerndevualma.blogspot.com
 turkiyerotasi.com
+turkiyes.xyz
 turkiyesaglik-pandemi-destek.com
 turkiyesaglik-pandemidestek.com
 turkiyesaglikgovtr.pw
@@ -421144,6 +421156,7 @@ turknew.store
 turknewfarm.com
 turknews-online.com
 turknewshub.com
+turknow.online
 turknrg.com
 turknw.com
 turkobidestek.cfd
@@ -421399,6 +421412,7 @@ turmoilcounteract.top
 turmoiltime.top
 turn35223.xyz
 turn457.xyz
+turna-tr.com
 turnaoil.com
 turnaptly.top
 turnatbk.com
@@ -433720,6 +433734,7 @@ velvinet6.unovetsnahels.org
 velvlmobillisllemllerigiriisslem.com
 velxi.shop
 velxo.xyz
+velzora.cyou
 vembemsenden.site
 vemdarok.vu
 vemobillegirislimite.xyz
@@ -446522,6 +446537,7 @@ woridcard-tr-mobil.club
 work-101.com
 work-for.top
 work-meeting.info
+work-meta.app
 work.gd
 work.letmaker.top
 work.windownoffice.com
@@ -453507,6 +453523,7 @@ wwwbitci.com
 wwwbitcoinsclub.com
 wwwbmwx3yapikredi.com
 wwwbncolombiacom.ddns.net
+wwwbnq.sannevanommen.nl
 wwwbobet2018.com
 wwwboxparib.com
 wwwbtcturkpro-login.com

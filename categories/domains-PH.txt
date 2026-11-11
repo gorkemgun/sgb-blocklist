@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109405
-# Last change: 2026-11-11 01:16:36 UTC (sync mode: delta)
+# Records: 109421
+# Last change: 2026-11-11 07:49:50 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -14710,6 +14710,7 @@ bireyel.online
 bireykampanya900tlonline-basvur.ml
 bireykampanyali-yilsonu-ozel-obline.ga
 bireysel-aciksubev2denizbank.online
+bireysel-basvur.my-homeip.de
 bireysel-basvuru-aidatiadesi.com
 bireysel-basvuru-destek-kampanyalar.xyz
 bireysel-cebte.my-homeip.de
@@ -24029,8 +24030,6 @@ coordinatorassassin.top
 coordinatorbarren.top
 coordinatorspectacular.top
 cootrut.site
-cop31.center
-cop31greenzoneaccreditation.com
 cop31saglik.com
 cop31saglikbakanligi.com
 copaamerica-tickets.com
@@ -31255,6 +31254,7 @@ eformlardaiadlergeld.xyz
 eforumkampanyalipuanlarbireyselbasvurum.line.pm
 efr.my.id
 efsane-cuma-indirimleri-teknosa.duckdns.org
+efsane-cuma-ozel-firsatlari-teknosa.webredirect.org
 efsane-firsat-kapimda.com.tr
 efsane-guzel-hatiralar-hep-bizimle-yasayin-bulun.com
 efsane-indirim-sadece-online-ozel.com.tr
@@ -33554,7 +33554,6 @@ etkinbimcell.com
 etkinhaberler.club
 etkinhaberler.online
 etkinlik-paneli.online
-etkinlik.cop31greenzoneaccreditation.com
 etkinlikbasvuru.com
 etkinlikbesinciyilozelsimdibasvur.net
 etkinlikbul.online
@@ -48836,6 +48835,7 @@ ileodeyin-tr.com
 ileodeyin.com
 ileriadimat.online
 ileribakislar.com
+ileribakismerkezi.com
 ilerigiden.online
 ilerinesillervakifi.org
 ileriseviye.de
@@ -51765,6 +51765,7 @@ istanbulmefe.xyz
 istanbulmobile.net
 istanbulmus-hehe.net
 istanbulonline.uk
+istanbulonlinetr.lol
 istanbulport.webredirect.org
 istanbulr.ml
 istanbulsa.net
@@ -54953,6 +54954,7 @@ keeging.com
 keenalternately.top
 keencaravan.top
 keengarlic.top
+keensalmon.com
 keentogether.top
 keeparrive.top
 keepass-download.com
@@ -56082,6 +56084,7 @@ kmpnyapromosyonmrkzzz.info
 kmpnyasnbfrfskataa64885.pro
 kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
+kmpnybsvrrprmsyn319.pro
 kmpnybsvrrrprsmynn15329.pro
 kmpnydunyasi.duckdns.org
 kmpnydunyasikacmaz.duckdns.org
@@ -58843,6 +58846,7 @@ lmqut40b.tw
 lmrsrandevu-3a5060ee327b.herokuapp.com
 lmt52frul2qt.storage.googleapis.com
 ln4awm7.cn
+lnaktnaksnta.net
 lnatlanlatn.net
 lnbnsnanrdenttldm.shop
 lnddrmm-klmmaaa.com
@@ -59255,6 +59259,7 @@ lorowexo.org
 lorqexo.gifts
 lorryhypocrisy.top
 lortiemedia.de
+lorveta.cyou
 losehum.top
 losemonth.top
 loseorwin.co
@@ -60594,6 +60599,7 @@ maintaindisposition.top
 maintainfrantically.top
 maintainhysteria.top
 maintaining-drawings-rand-porter.trycloudflare.com
+maintenance-freelance-lunch-minister.trycloudflare.com
 maintenance.casino.coinbase-com.info
 maintenanceallergy.top
 maintenanceassassin.top
@@ -61776,6 +61782,7 @@ mayskmpnyalr.online
 maysnn-firstlrii.com
 mayssdaki-firsxtlrr.com
 maystout.top
+mayte.pro
 mayter.html-5.me
 mayterrain.top
 maytinhnhatlong.com
@@ -74261,7 +74268,6 @@ portal-netgsm.live
 portal-vatandas.com
 portal.177954coinbase.com
 portal.77-83-201-131.plesk.page
-portal.cop31.center
 portal.eaidamerkezi.com.tr
 portal.infura-ipfs.io
 portal.net-gsm.co
@@ -74746,7 +74752,6 @@ prdansandandanda.blog
 prderzstansews.duckdns.org
 prdnbrdclsyzvrnmyndf.shop
 prdndabnsendennestdm.lol
-pre-entry-declaration-cop31.ono.zone
 pre.giize.com
 preachererrand.top
 preacherhierarchical.top
@@ -82754,6 +82759,8 @@ saygisiz.app
 sayilianlar.net
 sayiliurundesecili.sbs
 sayingrandom.top
+sayinlaroil-tr.com
+sayinlaroil.com
 sayinlarturna.com
 sayintimidate.top
 saypremature.top
@@ -83610,6 +83617,7 @@ sellukaet.best
 selmbngldmbrndns.live
 selmiv.click
 selmonstudies.com
+selnora.cyou
 selo-can.com
 selodiyaxainanim.net
 seloxcon.co
@@ -84221,6 +84229,7 @@ serviciopostalgobec.pics
 servicosclientefreedigital.com
 servingdeplete.top
 servis-150basvurular.com
+servis-hizmet.online
 servis-senesonubireyselkampanya-onlinebasvur.tk
 servis-tr.com.tr
 servis-yilsonubireyselkampanya-online.ml
@@ -93882,6 +93891,7 @@ tkg-edvtapko.org
 tkg-edvtapkonrandv.org
 tkg-edvtepkonv.org
 tkg-tap-randvznsz.com
+tkg-tap-randvznsz.net
 tkg-tap-randvznsz.online
 tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
@@ -97521,6 +97531,7 @@ turkiyepetrolleri.shop
 turkiyeprojeleri2025.online
 turkiyerendevu.net
 turkiyerotasi.com
+turkiyes.xyz
 turkiyesgorta.online
 turkiyesigorta.site
 turkiyesigortafirmasi.site
@@ -97554,6 +97565,7 @@ turklye.fun
 turklye.site
 turkmerkeziodemeniz.tk
 turkmotosiklet.com
+turknow.online
 turknw.com
 turkodemenzzmtv.tk
 turkonline24.live
@@ -97647,6 +97659,7 @@ turmaze.com
 turmklause.com
 turmoilcounteract.top
 turmoiltime.top
+turna-tr.com
 turnaoil.com
 turnaptly.top
 turnemboy.top
@@ -100354,6 +100367,7 @@ velvetpetition.buzz
 velvetsnap.com
 velvetwish.gifts
 velxi.shop
+velzora.cyou
 venarel.gifts
 venbey.com.tr
 venbeyislem.com
@@ -104113,6 +104127,7 @@ worexproject.com.tr
 worexproject.duckdns.org
 worexproject.shop
 worexshop.duckdns.org
+work-meta.app
 work.gd
 workbibliography.top
 workchartmetric.com
@@ -105501,6 +105516,7 @@ wwwaldin-aldinkampnya.net
 wwwaww.sbs
 wwwb.reimglink.com
 wwwbitci.com
+wwwbnq.sannevanommen.nl
 wwwcural.click
 wwwdenizbank.tk
 wwwdenizbank2021iadeler.qnbfinansiadeler2021basvurusu.xyz

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41774
-# Last change: 2026-11-10 20:51:51 UTC (sync mode: delta)
+# Records: 41775
+# Last change: 2026-11-11 07:49:50 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -9164,6 +9164,7 @@ credits.offices-analytics.com
 credomched.ru
 creegbox.top
 creep3425.xyz
+creepexplosiondarknight.com
 cremation-services-12015.com
 cremeroloe.com
 cressmiss.ooguy.com
