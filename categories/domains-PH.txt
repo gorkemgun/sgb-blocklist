@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109483
-# Last change: 2026-11-11 22:48:28 UTC (sync mode: delta)
+# Records: 109485
+# Last change: 2026-11-12 03:51:23 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -17591,6 +17591,7 @@ bukane.com
 buketozgunkarabrcodme.duckdns.org
 buketvakfi.site
 bukezdetelevisiondenioz.blogspot.com
+bukim10.sbs
 bulafatrdanydirme.cfd
 bulbthorn.top
 buldingelaborately.top
@@ -38405,6 +38406,7 @@ garantin.my-homeip.com
 garantiodemem.net
 garantione.site
 garantiotokiralama.com
+garantiotomatikfinans.cloud
 garantiparamerkezi.cloud
 garantipromoyon140720.yonlendirfacebook.lat
 garantiramazanbonus.line.pm
