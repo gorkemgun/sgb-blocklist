@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41780
-# Last change: 2026-11-11 22:48:28 UTC (sync mode: delta)
+# Records: 41812
+# Last change: 2026-11-12 12:49:56 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -3979,6 +3979,7 @@ appliancehorses.info
 application-api.xyz
 application-review.org
 applications-telefonica.com
+applicensingstudio.com
 apply-blocknovas.site
 applyzxcksdia.shop
 appmx2021.com
@@ -6838,6 +6839,7 @@ buyerstwink.weebly.com
 buyfile-enter-net.com
 buyimers.us
 buymart.top
+buysoftinstaller.com
 buyudukcebuyuyokavga.com
 buyukosmanlidevletim.site
 buyukturkiye2023.site
@@ -8501,6 +8503,7 @@ codemicros12.gleeze.com
 codemingle.shop
 codename.beget.tech
 codeof.duckdns.org
+codeonicinc.com
 codeordiefind.top
 codersa.xyz
 codevexillium.org
@@ -9710,6 +9713,7 @@ dags123hned2542.site
 dah.icu
 dahadabuisebendenbeskuruscikmaz.tk
 dahicothebest.ddns.net
+dahosuday.eu.cc
 daichetmob.sbs
 dailteeau.com
 daily.alltop.asia
@@ -14076,6 +14080,7 @@ foo-foo.bar
 food-tips-blog.online
 food235.xyz
 foodbloggermax.com
+foodcooksoftware.com
 foodgefy.com
 foodplacecafe.by
 foot12ballbeach.xyz
@@ -14871,6 +14876,7 @@ gdforum.net
 gdhwrufko.com
 gdkxurlw.com
 gdl-cloud.works
+gdnkdl.eu.cc
 gdnpyi.com
 gdocs.googleupload.info
 gdocshare.one
@@ -16968,6 +16974,7 @@ hlpdu.com
 hlrrxvby.com
 hlsowt.com
 hltoyc.com
+hlushkova.top
 hm1es.uhabq9.com
 hm2.yrnykx.com
 hmapi.com
@@ -18325,6 +18332,7 @@ inncbank.com.nexcreditunion.com
 innerkomen.com
 innerverdanytiresw.shop
 innocentbooii.hopto.org
+innodocumentsetup.com
 innotisupepovbj.su
 innovate.gulpminderdrink.com
 innovate360.digital
@@ -18400,7 +18408,9 @@ installerflas796133.xyz
 installerflas876433.xyz
 installerflas97354.xyz
 installerflas97719.xyz
+installerpdf.com
 installmetamask.com
+installmyproduct.com
 installpasskey.com
 installslostp.xyz
 installutil.exe
@@ -21349,6 +21359,7 @@ libudi.oreversa.com
 licatrade.com
 license-appointed-asset-pulled.trycloudflare.com
 license23.xyz
+licensedproductioninstaller.com
 licensing-mp-microsoft.serveexchange.com
 lid-gb.xyz
 liderfinancesa.com.de
@@ -22031,6 +22042,7 @@ lukkeze.space
 lule.ddns.net
 luleperepara.xyz
 lulquid.xyz
+lulunotescompany.com
 lulzsabu.ddns.net
 luma-ai.com
 luma-aidream.com
@@ -24769,6 +24781,7 @@ myownteammana.blogspot.com
 mypat.xyz
 mypayday0091.duckdns.org
 mypdfonestart.com
+mypdfsoftware.com
 myphamcuatui.com
 mypnel.usa.cc
 myportalbsbsist.com
@@ -25338,6 +25351,7 @@ newmannolan456457.xyz
 newmanserverug.ddns.net
 newmexicos.fit
 newmms.ru
+newnewnew.gotdns.org
 newopt.servehttp.com
 newratte.linkpc.net
 newremc22.ddns.net
@@ -25751,6 +25765,8 @@ nolrfot.net
 noluyoruzawk.duckdns.org
 nomad2022.ddns.net
 nomadhive.cc
+nomadiccookapp.com
+nomadiccooknow.com
 nomadpkg.com
 nomadpkgs.com
 nomako.ddns.net
@@ -27792,7 +27808,9 @@ per2.segmentfy.com
 per2sonbro.com
 perception124.xyz
 percolysrl2.ddns.net
+peregrinecooksoft.com
 perfect-subsidiaries.at.ply.gg
+perfectcookingsuite.com
 perfecte-moyny.shop
 perfectionbyinjection.com
 perfectlogic.world
@@ -27896,6 +27914,7 @@ phanleb.com
 phantom101.duckdns.org
 phantomnetworks.ddns.net
 phantomshuttle.space
+pharaohkit.cloud
 pharmainfo.azurewebsites.net
 pharmzone.hopto.org
 phaskestom.xyz
@@ -30030,7 +30049,10 @@ receptalslassa.com
 receptive347.xyz
 recepyman.info
 recessgiraffe.xyz
+recipecookingapp.com
+recipeinstaller.com
 recipelister.com
+reciperoverapp.com
 recishov.eodivers.ru
 recitebl.cyou
 reckdp.pics
@@ -31494,6 +31516,7 @@ sbvjhs.xyz
 sbwuc.com
 sbzxu.com
 sc.microsofts.net
+sc.payproofkit.com
 sc.stocktradingservices.org
 sc0tteastw00d.xyz
 sc7ynjufdg1ig3zh.org
@@ -31782,6 +31805,7 @@ securebestapp20.com
 securecc.ru
 securechat.azurewebsites.net
 securedatacorner.com
+securedocinstaller.com
 securedrive-mofa.servehttp.com
 securedrive.fin-tech.com
 securedrive.netsecgroup.com
@@ -32169,6 +32193,7 @@ settlement55.xyz
 setup.phoneadsmobile.net
 setupcodpr2.freeddns.org
 setupoldnavy.space
+setuppdfsoft.com
 setynbl.site
 seuamor.online
 seuamor.xyz
@@ -33082,6 +33107,7 @@ snehalphale.com
 sngnclba.duckdns.org
 snickerdoodle.top
 sninggingy.xyz
+snipappusa.com
 sniperexe.ddns.net
 snipex-iota.vercel.app
 snippet.host
@@ -33157,6 +33183,7 @@ softcallousdmykw.shop
 softfaremiks.icu
 softlinko.com
 softradar.net
+softsetupstudio.com
 softtrim.hopto.org
 softupdate-online.top
 software-access.com
@@ -33346,6 +33373,7 @@ sovetkirov.ddns.net
 sow2030.ddns.net
 sow21413.xyz
 sowfksiw38f2aflwfif.azureedge.net
+soxnewwork.homedns.org
 soyakbjc.com
 soyhrbpyatsykds.su
 soylesenenezamanbaskinvar.com
@@ -33687,6 +33715,7 @@ stambuland6.site
 stamp4527354.xyz
 stamp98763.xyz
 stamppreewntnq.shop
+stanbicfinanceug.com
 standardcharteredbank.live
 standgifyet.buzz
 standingcomperewhitwo.shop
@@ -35271,6 +35300,7 @@ thesaurusonline.pro
 thesharpening.com.au
 thesidehustler.net
 thesisibrush.com
+thesoftwarerepo.com
 thesquirrelgame.net
 thesun.pw
 thesuperservice.com
@@ -37563,6 +37593,7 @@ vedldeno.store
 veeamstorage.com
 vega.mh-tec.jp
 vegan123-62820.portmap.host
+vegapdf.com
 vegasroute66.site
 vegastrader.net
 vegetable547.xyz
@@ -38714,6 +38745,7 @@ webmailogemail.com
 webmanufacturers.com
 webmasterbl.duckdns.org
 webnews.newss.nl
+webpdfinstallerstudio.com
 webpostegro.net
 webresources.live
 webrootrsa.com

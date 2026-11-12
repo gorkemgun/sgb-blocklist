@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66217
-# Last change: 2026-11-11 16:15:19 UTC (sync mode: delta)
+# Records: 66220
+# Last change: 2026-11-12 12:49:56 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -9745,6 +9745,7 @@ amesa.com.ar
 amesatarragona.com
 amex-service-sup.duckdns.org
 amexopen.creditpointe.com
+amexsafekeyupdate.com
 ameyouzv.beget.tech
 amfuc2.ddns.net
 amglotec.com
@@ -15499,6 +15500,7 @@ cdn.piytrwd.com
 cdn.roastfiles2017.com
 cdn.salmonads.com
 cdn.sendibt1.com
+cdn007-digitaldownloads.com
 cdn1.abs.sogou2.com
 cdn10.sendibt1.com
 cdn11.sendibt1.com
@@ -42053,6 +42055,7 @@ nrutsrbnxb.duckdns.org
 nrw4ryuz.duckdns.org
 nryae2ku.duckdns.org
 nrycjuyiwb.xyz
+ns.mo7sen.dev
 ns.onekorea.me
 ns0.site
 ns0.space

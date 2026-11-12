@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109485
-# Last change: 2026-11-12 03:51:23 UTC (sync mode: delta)
+# Records: 109523
+# Last change: 2026-11-12 12:49:56 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -42,6 +42,7 @@
 0116254-teaxmacc.com
 0116254team-acc.com
 0116254teamacc.com
+011rl.link
 012601.com
 013jgoy.cn
 01829374.duckdns.org
@@ -287,6 +288,7 @@
 101-extra-mobilde-sadece-online-ozel-urunler-alisveris-sepeti.trendde-tr.online
 101-extra-mobile-ozel-sadece-online-alisveris-indirimi-tr.sepets.online
 101-extra-online-alisveris-sadece-bugun-indirim.cepselci.site
+101-extra-online-bugune-ozel-mobil-indirim-sepeti-tr.trend-burada-tr.online
 101-extra-online-bugune-ozel-sepette-indirim-asliveris-cep-tr.sepetteal.online
 101-extra-online-mobil-sadece-bugune-ozel-firsatlar.online-trend.online
 101-extra-online-ozel-firsatlar-mobil-sepet-tr.bilgi-ver.online
@@ -367,6 +369,7 @@
 101-extra-sadece-online-bugune-ozel-alisveris-indirimleri-mobil.trendssly.online
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop
 101-extra-sadece-online-bugune-ozel-alisveris-mobil-indirimleri.shop-cep-sepet-tr.online
+101-extra-sadece-online-bugune-ozel-alisveris-sepeti-tr.bizimsepet-tr.site
 101-extra-sadece-online-bugune-ozel-alisveriste-indirim.shps-cep.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
@@ -407,6 +410,7 @@
 101-mobil-extra-sadece-bugune-ozel-asveris-indirimleri-tr.e-shopta-mobils-tr.online
 101-mobil-extra-sadece-bugune-ozel-indirim-online-alisverisde.mix-shop.online
 101-mobil-extra-sadece-bugune-ozel-indirim-sepeti-alisveris-tr.ceptex.online
+101-mobil-extra-sadece-bugune-ozel-indirimli-alisveris-sepette.shopinger-tr.online
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip
 101-mobil-extra-sadece-bugune-ozel-mobil-indirimler-cepte.vip-shop-tr.online
 101-mobil-extra-sadece-bugune-ozel-sepet-indirimi-tr.indirimsepeticep.online
@@ -422,6 +426,7 @@
 101-mobil-sadece-online-ozel-alisveris-sepeti-tr.indirimkapinda.online
 101-mobil-sadece-online-ozel-sepette-indirim-alisveris-tr.sepetbox.online
 101-mobil.com.tr
+101-mobilde-sadece-online-ozel-alisveris-indirimleri-tr.payssepet.site
 101-ocak-indirimleri.net
 101-pazar-zamani.com
 101-sadece-bugune-ozel-alisveris-sepet-indirimi-mobilde-tr.buystore-tr.online
@@ -3275,6 +3280,7 @@
 96511908212042.cloud
 96547392031048.com
 968574sonfrstlarrkmpnpyaabsvr.online
+9685sonfrsltar.pro
 977p5l.cn
 978-1-21-154-1.com
 9786435453543.online
@@ -7171,6 +7177,7 @@ alisverislerdesonguneylul.sbs
 alisverislerfirsatlaredmialimiburadan.cfd
 alisverislerikacirma.online
 alisverislerin.com.tr
+alisverislersepet-10.sbs
 alisverislersepet-20.sbs
 alisverisnoktasi.com.tr
 alisverisnseptinde.net
@@ -10138,6 +10145,7 @@ astrovector.capital
 asube-teb.myonlineportal.de
 asvarvakfi.org
 asvdjkasnvkdasxzcsd.com
+asvfdzxvm.art
 asvurularolsuntoki.com
 asxasx.dravencia.sbs
 asxxx.dravencia.sbs
@@ -10772,6 +10780,7 @@ avantajburada.click
 avantajburada.info
 avantajcepsun.biz
 avantajcepte.page
+avantajduragi.cyou
 avantajjcebinde.click
 avantajkapinda.click
 avantajlagelen1.xyz
@@ -13109,6 +13118,7 @@ bdkbasveru.com
 bdkbmq.top
 bdkbmw.top
 bdkcmq.top
+bdkfleasv.giize.com
 bdkgmk.top
 bdkgovtr.com
 bdktmy.top
@@ -16927,6 +16937,7 @@ bringfossil.top
 bringlocomotive.top
 brinkritual.top
 brinshopqa.cyou
+brintaxo.com
 briotaste.com
 brisasanalpos.org
 briskalon.store
@@ -18740,6 +18751,7 @@ cappymarketplace.com
 capsaccess.com
 captainduce.top
 captainnominate.top
+captainsizeworld.cyou
 captainterminate.top
 captcha-coinbase.com
 captcha-link-gateway.lovable.app
@@ -20301,6 +20313,7 @@ chxhcngnvhhcxh.xyz
 cian.156953coinbase.com
 ciatryywn.top
 cibucacuja.online
+ciceekci-world.cyou
 cicek.lol
 cicekalmamsanayollarimcelenk.site
 cicekbuketim.info
@@ -25495,6 +25508,7 @@ dachanabali.ru
 daci33dshaft.top
 dacmalls.com
 dacr33ossoptimism.top
+dactuus.com
 dad6-46-1-155-122.ngrok-free.app
 dadapatasire.site
 dadapydu.com
@@ -29895,6 +29909,7 @@ dynamicflow.online
 dynamicflush.top
 dynamiclnk.com
 dynamicnewsflow.com
+dynamicsailboat.com
 dynamicscordial.top
 dynamicscorn.top
 dynamicshemisphere.top
@@ -35868,6 +35883,7 @@ fileallot.top
 filemarketi.com.tr
 filemmarket.xyz
 filemobil.com.tr
+filemrktm.click
 files.mycoinba.se
 filesigorta.site
 fileso365clloudoccs.com
@@ -37859,6 +37875,7 @@ ftp.denizizbankcom.tk
 ftp.lifechangerscare.com
 ftp.vakifbankcepsubeonay-com.tk
 ftsmotherable.info
+ftsryklamen.shop
 ftupqee8vwa.storage.googleapis.com
 ftura-cokkolay.net
 ftuujz.click
@@ -39477,6 +39494,7 @@ get-satisofisim.com.tr
 get-secure-pay.com
 get-secure-sahibinden.com
 get-securepayment.com
+get-servis-onay.online
 get-siparis.online
 get-siparisler.com.tr
 get-started-en.com
@@ -40514,6 +40532,7 @@ gokaracas.shop
 gokcencicek.com.tr
 gokkalesosyalvakfi.site
 gokkalevakfi.site
+gokretmade.giize.com
 goktepe-loravuni.lol
 gold21ecology.top
 goldapple.156953coinbase.com
@@ -43485,6 +43504,8 @@ harcamadan-bitmez-a-101-ozel.online
 harcamaninzamanikam.com
 harcanan-tutar.my-homeip.de
 harcbilgilendirme.com
+harcportal.com
+harctahsil.com
 hard-workingcram.top
 hard-workingtenant.top
 hard1nge.com
@@ -46406,6 +46427,7 @@ hlkbn2.blogspot.com
 hlkenta.net
 hlkrndrhberlri.cfd
 hlksaglkrhber.cfd
+hlksglik.cfd
 hlksglkbilgi.cfd
 hlksglkrhber.cfd
 hlkwebsubayrntilarsub532.shop
@@ -46513,6 +46535,7 @@ hmnsadngfdb.mooo.com
 hmnsatinalmaninsirasi.xyz
 hmnsdhhs.com
 hmnsigorte.net
+hmnstnalodemeanlk.com
 hmnypdx.art
 hmnypsan.art
 hmnypsanb.art
@@ -56116,6 +56139,7 @@ kmpnyadasnfrslatttbasvrprsmtnn789654.pro
 kmpnyalartukenyrr1o1.xyz
 kmpnyamrkzbsvrnktasi.pro
 kmpnyaparmsynnbsvr.art
+kmpnyaprmsyn12391.info
 kmpnyaprmsyn12391.pro
 kmpnyapromosyonmrkzzz.art
 kmpnyapromosyonmrkzzz.info
@@ -58322,6 +58346,7 @@ lgteliifdestekmerkezii.ml
 lgturkiye.online
 lguvenlial.com
 lgyetkiliklimaservisi.com
+lh2s3h29l8l3638l.ddnsgeek.com
 lh9l9ll83296l336.mytunnel.org
 lhaasarrogrenmenolktasi.net
 lhasararacdurum.net
@@ -58928,6 +58953,7 @@ lnktab.net
 lnktanra.net
 lnktans.net
 lnlenktaknans.net
+lnltkanan.net
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
 lnnnnl.club
@@ -62399,6 +62425,7 @@ meneksevakfi.org
 menenoftigir.com
 menfaatiolanbulur.sbs
 mengchongbaotoys.com
+menkulcuzdanim.online
 menkuldegerleroyak.com
 menkulkiymetlerosmanli.com
 menkulvcuzdan.com
@@ -63243,6 +63270,7 @@ microsoftadversiting.cloud
 microsoftclouddriveonline.com
 microsoftexchange329e70ec88ae46-omincrosft-us17.com
 microsoftforms.securemailencryptit.com
+microsoftonline.whitecarrot.app
 microsoftonlinesupport.cf
 microsoftsmailrmytgdnuug.iparyamp.ru
 microsofyt.adversing-publicidade.pro
@@ -64522,6 +64550,7 @@ mortgagegirisyap.com
 mortgagevolatility.top
 mortgcine.top
 morvato.bond
+morvellian.com
 morxetavo.com
 morynzol.com
 mos24ben2eiff2.wiki
@@ -66656,6 +66685,7 @@ nexoracraft.store
 nexoraft.blog
 nexoraid.com
 nexoria.gifts
+nexorialis.online
 nexorla.gifts
 nexoryapp.store
 nexovatecworld.com
@@ -67064,6 +67094,7 @@ nltalntalnal.net
 nltaman.net
 nltankana.net
 nltkammt.net
+nltkamtnas.net
 nltkanasnart.net
 nltkkamats.net
 nltkmamt.net
@@ -80976,6 +81007,7 @@ saflapfsalfsafksamfsmak.com.tr
 safrantermalhotel.com
 safrantermalotel.com
 safsadfslal230sladsa.net
+safsadgas.art
 safsaqwrcs.sbs
 safsazasxsawqrwq.app
 safsevza20145.wordpress.com
@@ -81481,6 +81513,7 @@ sahibinden-sepet.sepetimonay.lat
 sahibinden-sepet.sepetimonay.surf
 sahibinden-sepet.sepetimonaycom.surf
 sahibinden-sepet.sepetteonline.shop
+sahibinden-sepetim.sepetimdeonline.shop
 sahibinden-servisleriniz-guvenli.com
 sahibinden-servisleriniz.com
 sahibinden-shop.online
@@ -95524,6 +95557,7 @@ tramarshstmrs.shop
 tramazdasaa.com.tr
 tramdaesa.click
 tramdarsa.net
+tramdarssa.net
 tramedinkalma.net
 trameewrsfs.app
 tramer-1948.blogspot.com
@@ -100067,6 +100101,7 @@ valleyhomogeneous.top
 valleylottery.top
 valleyminiature.top
 vallvento.one
+valmira.cyou
 valnera.sbs
 valograd.click
 valograde.click
@@ -102468,6 +102503,7 @@ web-giris-akbank-kredim-islem.net
 web-giris-akbank-kredim.net
 web-giris-tr-packed.org
 web-guvenlikleri-duyurulari.click
+web-haber.cyou
 web-haberler-sayaci.cfd
 web-haberler-sayaclar.sbs
 web-iade-edevletim.com
@@ -104133,6 +104169,7 @@ wonderfulcozy.cyou
 wonderfulunderlying.top
 wonderings.info
 wondersfood.com
+wontetrs.casa
 wontur.space
 wonzlyvip.online
 woodagony.top
@@ -109463,6 +109500,7 @@ zywutey.com
 zyxava.site
 zyxeha.site
 zyydawc.com
+zz30147.site
 zz771718.site
 zza7888.site
 zzbqjpio.xdk8ax.cn
