@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66220
-# Last change: 2026-11-12 12:49:56 UTC (sync mode: full)
+# Records: 66229
+# Last change: 2026-11-13 17:48:11 UTC (sync mode: full)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25214,6 +25214,7 @@ ftoe6rf.duckdns.org
 ftojpremcj.duckdns.org
 ftoxmpdipwobp4qy.lxvmhm.top
 ftp.gdmaduanas.com
+ftp.vietnam852.com
 ftp24citionineceo.hopto.org
 ftpserver.winconnection.net
 ftqqpnjgut.duckdns.org
@@ -28628,6 +28629,7 @@ hfeljq.org
 hff6ujcl.duckdns.org
 hffdzxnnll.duckdns.org
 hfgdgfhghfhd.net
+hfgjjkrewjk.com
 hfgmyrznjx.duckdns.org
 hfh0dim.duckdns.org
 hfhglerhguierkgbilerhgerhguierhghkrehgie.duckdns.org
@@ -32526,6 +32528,7 @@ ji2i4bqz.duckdns.org
 ji31xsq.duckdns.org
 ji8elb3.duckdns.org
 jiahd.duckdns.org
+jiancai008.com
 jiayzzxvvm.duckdns.org
 jibswd.com
 jicfxn6.duckdns.org
@@ -51614,6 +51617,7 @@ server-updateinfo0s.hopto.org
 server-walletscb.ddns.net
 server.activeworkshops.com
 server.bovine-mena.com
+server.vietnam852.com
 server001verinfo.ddns.net
 server01tymyvnc.ddns.net
 server04-secure.duckdns.org
@@ -52603,6 +52607,9 @@ sitaline.ddns.net
 sitcahadling.com
 site-sosyal-basvuru.com
 site-sosyalbasvuru.com
+site.hfgjjkrewjk.com
+site.jiancai008.com
+site.vietnam852.com
 siteapps-secureverificationasdg2t.duckdns.org
 sitebbptsonline.ddns.net
 siteeu.bit
@@ -54554,6 +54561,7 @@ switchandretain.com
 switching-out-of-your-profile.duckdns.org
 swlsdkesry.duckdns.org
 swmi5c0nm.duckdns.org
+swordaa.com
 sworevouch.pw
 swpk7s.duckdns.org
 swqphmamsa.biz
@@ -59704,6 +59712,7 @@ viebvbiiwcw.com
 viet.ddns.net
 vietcombank.ddns.net
 vietnam-life.net
+vietnam852.com
 vietnam88.hopto.org
 view-hanmail.net
 view-install.com
