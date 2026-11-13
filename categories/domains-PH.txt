@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109731
-# Last change: 2026-11-13 17:48:11 UTC (sync mode: full)
+# Records: 109762
+# Last change: 2026-11-13 23:37:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -827,6 +827,7 @@
 13-ocak-aldinaldin.com
 1300000.duckdns.org
 130ilkevim-toki-basvuru.sbs
+13112026.com
 1312314.online
 13130-coinbase.com
 13148verifyguets-booking.com
@@ -4657,6 +4658,7 @@ accux.us
 accwhoerbasvurualri-bnb.tk
 acdc-tickets.com
 acdem.bond
+acdsafwevsd.giize.com
 ace-check.com
 ace.infolanmam.xyz
 aceelectricalsinc.com
@@ -6256,6 +6258,7 @@ airupdateinfomay.com
 airworldturizm.com
 airwrapdyson.com.tr
 ais-aidat-iade-sistemi-onlinegovtr.ml
+ais-garantibbva-immobilienscou.ph
 aishield.shop
 aiside.shop
 aisimple.top
@@ -7213,6 +7216,7 @@ alisverix.online
 alisverlerislericintiklayin.cfd
 alisversilerimiszdenksa.shop
 alisversitehaftaninyildizlari.click
+alisverslersepet-1.sbs
 alisversnadres.click
 alisversnoktasi.click
 alisverssepti.click
@@ -30586,6 +30590,7 @@ e25c5ab9.dsfiurb-u.shop
 e29120.com
 e2lshs9wv2kk8l46h.theworkpc.com
 e2mz7.shop
+e3l34e5877l579lh.mytunnel.org
 e5308d77.ieybfs7j447b.org.cn
 e5v2e66hle4e4shs.eth64.de
 e60layanlatuvturktakilma.net
@@ -31195,6 +31200,7 @@ edosyadava.com
 edosyagib.org
 edosyainfaz.org
 edosyakontrol.net
+edosyakurum.com
 edosyasorgu.org
 edosyasorguyap.com
 edosyatakip.com
@@ -42632,9 +42638,11 @@ h1r555a.cn
 h1uhatay3.sbs
 h1zlxzmrm35.net
 h218-ipv4-45-94-0.mynet.it
+h23lh8236l9h5ll3.opik.net
 h23r-1321eqadsg-gewdsf12-sa-21safas.sbs
 h2fd.blogspot.com
 h2g80z1.cn
+h2l562hllh93833s.flashhub.net
 h33hk.com
 h3amazon.com
 h3bb7fin.cn
@@ -42642,6 +42650,7 @@ h3eseh8h7476hhhh.ipv64.de
 h3h4h7hhhh63hshh.mywire.org
 h3hpslehws4.kozow.com
 h3l9ss3947l9sl65.tcp64.de
+h3lls3hl63982h28.opik.net
 h3q2wtrsaf12t3-gxfs-3-2gdsgy31q2t-fsa.sbs
 h3x8m2k9q6f4n7zh.cfd
 h47474cc.click
@@ -43348,6 +43357,7 @@ halkbankasipromosyondeneme.duckdns.org
 halkbankbulusmalari.eventdaystr.com
 halkbankkredihesaplamasitesi.blogspot.com
 halkbankyilbasiozel.com
+halkblgi.cfd
 halkbnk.com.tr
 halkbnkmobil.duckdns.org
 halkbnkmobilaktif.duckdns.org
@@ -44392,6 +44402,7 @@ helicoptercustody.top
 helinbinergiler.duckdns.org
 helinemioki.duckdns.org
 hellembrox.info
+hellimice.giize.com
 hello-vrchat.net
 hellobelieve.top
 hellocaribebnb.com
@@ -46485,6 +46496,7 @@ hkvdestekci.net
 hkwsluh9ewshyefelhe.srv64.de
 hkxiu.com
 hl-k-b-kkk-kr.space
+hl23823lh93lhhl6.webredirect.org
 hl53s54h462lee3s.ipv64.de
 hlakbca.boyacentury.cn
 hlakolanmalko.cfd
@@ -46731,6 +46743,7 @@ holinessinventory.top
 holinessmalnutrition.top
 holinessrigor.top
 holisfregibot.com
+holkoop.app
 holliganbet930.com
 hollowacupuncture.top
 hollowmovie.com
@@ -56738,6 +56751,7 @@ koolpandaz.com
 kooltukfasf.xyz
 kooparatifmarketonline.unaux.com
 kooperatif21.online
+kooperatifdesonmarkiittt.blogdns.com
 kooperatifdesonmarkit.blogdns.com
 kooperatifjet.app
 kooperatifmarket-onlined.blogdns.com
@@ -57654,8 +57668,10 @@ l0ttys4.cn
 l10-vip.xyz
 l1sl.top
 l1v8k2q5r9w6.sbs
+l273l4hhl873le32.mywire.org
 l2dsacswcxxxe.lol
 l3-69-l02-l59.plesk.page
+l375lhel47378e52.flashhub.net
 l3hl653282lhh3l2.mytunnel.org
 l3re73sn8l5h4nhehds.udp64.de
 l5ehhssejzm7lyhh.freeddns.org
@@ -58481,6 +58497,7 @@ lhaziranlkampanyalari.com
 lhemenlhasarogren.net
 lhemennogren.net
 lhgslliodemelr.net
+lhhlh8l2333h62l5.flashhub.net
 lhields.com
 lhizlitakibikrrgo.net
 lhmwnmq.ytyukai.cn
@@ -70034,6 +70051,7 @@ onlineislemmlermbl.net
 onlineislemsservisim.net
 onlineislemsyap.net
 onlineislemtr.org
+onlineislevtuv.com
 onlineisssslemxxgovtr.com
 onlineizeltasodeme.duckdns.org
 onlineizmirim.com
@@ -73275,6 +73293,7 @@ peopletemptation.top
 pepe-cekilis.com
 pepe-cekilis.info
 pepe-cekilisim.com
+pepecekilis.link
 pepecekilisim.com
 pepkgovi.top
 peppdalfestooned.info
@@ -82708,6 +82727,7 @@ sandwichdowngrade.top
 sandwichinertia.top
 sandwichlounge.top
 sandwichpathetic.top
+sanemcicekcilik.com
 sanemdelevisim.net
 sanemdesanem.com
 sanemdesanem.online
@@ -84320,6 +84340,7 @@ serenewaves.store
 serenewinds.org
 serengetijourney.com
 serenthorneglen.com
+serenvo.cyou
 serfams.store
 sergeantartillery.top
 sergeantidiotic.top
@@ -91610,6 +91631,7 @@ talepolusturiq.tk
 talesofkrendor.com
 talete.click
 talexoriv.com
+taliba.cyou
 talip-olana-cozum-cok.sbs
 talirex.com
 talirunex.com
@@ -91851,6 +91873,7 @@ tasanzvz.net
 tasaqx1xadds.duckdns.org
 tasarimdenizi.org
 tasarimiz.org
+tasarla-togg.com
 tashkentpalace.com
 tasinlar.org
 tasitbayim.info
@@ -92377,6 +92400,7 @@ teb-pro.my-homeip.de
 teb-son-basvurutr.com
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
+teb-tr.my-homeip.de
 teb.com.de
 teb.eu.com
 teb.kisal.cc
@@ -100645,6 +100669,7 @@ velvetwish.gifts
 velxi.shop
 velzora.cyou
 vemak.cyou
+vemka.cyou
 venarel.gifts
 venbey.com.tr
 venbeyislem.com
@@ -101613,6 +101638,7 @@ virdacea.site
 virelaxoq.com
 vireleex.com
 virelo.gifts
+viremo.cyou
 vireonapp.store
 vireonhq.store
 virexar.store
@@ -105623,10 +105649,12 @@ www-sahibinden-w.com.tr
 www-sahibinden.com
 www-sayfatb-cepte-ayricalik.myonlineportal.ch
 www-sekerbank68yil.com
+www-seritbde-ayricalik-web.myonlineportal.ch
 www-sizlericinburadayizvatandasportalbasvurugiris.com
 www-sube-cepteteb.my-homeip.de
 www-subesi2019yenilendik.cf
 www-suptb-extend-ayrica.myonlineportal.ch
+www-svtb-cpte-webten.myonlineportal.ch
 www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
 www-tamtb-cepte-screen.myonlineportal.ch
@@ -107287,6 +107315,7 @@ yapikredibmwx3katilimsagla.com
 yapikredifaizsiz.urganltd.com
 yapikredifx.com
 yapikredimcekilisbilgi.quizzical-shannon.18-194-28-28.plesk.page
+yapikredimobilegiristr.vercel.app
 yapikredionay.byethost33.com
 yapisalkonutlar.pics
 yapislemim.de
@@ -108327,7 +108356,9 @@ yksosym.blogspot.com
 yksshzmetonline.net
 ykupon.com
 yl04gtl.cn
+ylalaocgr.lol
 ylalaocgrdas.lol
+ylalaocgrza.lol
 ylaocgrdasla.lol
 ylaocgrdaslar.lol
 ylbasizmni.com
