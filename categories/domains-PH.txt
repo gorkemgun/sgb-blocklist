@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109591
-# Last change: 2026-11-13 01:53:14 UTC (sync mode: delta)
+# Records: 109635
+# Last change: 2026-11-13 09:38:27 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -5912,6 +5912,7 @@ ahlatcimenkuldegerler.xyz
 ahlatcimenkulkiymetler.com
 ahlatciyatirim.co
 ahlprosube.com
+ahlsube.com
 ahmaswe.com
 ahmetafafaan.net
 ahmetasdds.blogspot.com
@@ -9078,6 +9079,7 @@ aracmuyntvtruk.net
 aracmuyntvtvuk.net
 aracmxuxxynemrkz.net
 aracmylyumm.net
+aracmyne.gleeze.com
 aracmyneniz-tvturkmmknjjt9varac.net
 aracmynentruk.net
 aracmynsdensaq.net
@@ -15151,6 +15153,7 @@ bizler-buraya-sevgi-saygi-getirip-kazandirdik.com
 bizler-mutluyuz.com
 bizlerdeburalardayizherzaman.sbs
 bizlerdengordunuz.shop
+bizlerdensizlere.abrdns.com
 bizlerle-burdan-bakin-biraz-daha-karli-olun.com
 bizlerlebirlikte.xyz
 bizmemhehrese.xyz
@@ -19329,6 +19332,7 @@ cattlefebruary.top
 cattleturtle.top
 cattlevelvet.top
 cattribute.buzz
+caude.ai
 caughtbounce.top
 cauliflowerpropel.top
 caulosarc.com
@@ -20555,6 +20559,7 @@ cixlvs.cc
 cixpda.cc
 cjghnb555.duckdns.org
 cjtwvdmmegj.xdk8ax.cn
+ckaude.ai
 ckitu.online
 ckjfgo.top
 ckksslslwl.click
@@ -20664,6 +20669,7 @@ clauderversandet.com
 claudesktop-app.gitlab.io
 claudesktop.gitlab.io
 claudewebinnar.com
+claudie.ai
 claulastver.squarespace.com
 clausealmighty.top
 clavosolutions.com
@@ -20872,6 +20878,7 @@ cloudcontactsystem.xyz
 cloudcpanelhost.com
 clouddefsystems.com
 clouddre.ga
+cloude.ai
 cloudflare-okta.com
 cloudflare-sendgrid.com
 cloudflorepageglobalcatilim.online
@@ -20913,9 +20920,11 @@ clowngrope.top
 clownmc.fun
 clownmc.xyz
 clsacladkaslckcldalskcldkalasd.sbs
+clsude.ai
 cltllhllhlh-vlvlltlv.com
 cltrmmrsrogula.net
 clty-do-g-r-n-l.my-homeip.de
+cluade.ai
 cluarefanshekareasgusl.com
 club-adidas.buzz
 club-ininvestor.site
@@ -24090,6 +24099,7 @@ copechronic.top
 copeconvergence.top
 copedrengois.top
 copier0005.wixsite.com
+copiot.com
 coplexuty.site
 copondcolide.top
 copperambiguity.top
@@ -26136,6 +26146,7 @@ deep-ai-guard.store
 deep-eprime.app
 deepallergic.top
 deepbiosphere.capital
+deepceek.com
 deepconnghection.info
 deepextract.click
 deeplyseak.top
@@ -26155,6 +26166,7 @@ deepseeklogin.net
 deepseeklogin.us
 deepseeklogin.xyz
 deepseeklogins.com
+deepsek.icu
 deepsekk.sbs
 deepstrata.icu
 deeptechminer.digital
@@ -27367,6 +27379,7 @@ detrimentshatter.top
 detrimentskull.top
 detroithizmetleri.icu
 detroitservis.icu
+deuedu.ccwu.cc
 deukargotakip.com
 deuslrachecker.xyz
 deutschebank-ident.com
@@ -29906,6 +29919,7 @@ dxsdzjj.club
 dxuhsn.buzz
 dxzepf.click
 dybgiris.com
+dybgirisim.com
 dybkatilim.com
 dybportfoy.com
 dybreferans.com
@@ -31541,6 +31555,7 @@ ehemngirsebasvradrsi.com
 eheyehasvafk.com
 ehgsptt.arabamuayenesi.xyz
 ehhgsyukleme.org
+ehiwadovab.site
 ehizmerkeznoktasiz.net
 ehizmet-ailevgenc.pw
 ehizmet-giris.com
@@ -31946,6 +31961,7 @@ elevateprone.top
 elevenate.top
 elevencleanse.top
 elevencosmetic.top
+elevenlebs.io
 elevensalmon.top
 eleverelim.net
 elhsls3sj7heebf.ipv64.net
@@ -39080,6 +39096,7 @@ gegohoe.com
 geheimergarten.online
 gehelenemeder.online
 geimbra.weebly.com
+geimini.com
 geirou.help
 gekendekerne.net
 geklsenesimdiibnereeyetrgrss.app
@@ -41310,6 +41327,7 @@ grinembed.top
 grinfoam.top
 grinfoul.top
 grinmlevel.shop
+griok.com
 gripemigration.top
 gripgear.shop
 gripseperd.top
@@ -43204,6 +43222,7 @@ haherdasdelazwxxx.duckdns.org
 hahkskmbe.net
 haikbank.com
 hailadore.top
+hailou.ai
 hailsuppression.top
 haimeidengshanghuangwei.top
 hainesurinat.top
@@ -43216,6 +43235,7 @@ hairrepaira.top
 hairsiqqqorta.com.tr
 hairturmoil.top
 haishikelanmeihua.top
+haiulo.ai
 hakamer.com
 hakanretto.duckdns.org
 hakanrettoilekeyfinebak.duckdns.org
@@ -47659,6 +47679,7 @@ hydraprojem.com
 hydrogenes.online
 hydrogenimpair.top
 hydroveina.pro
+hygen.ai
 hygienecomet.top
 hygieneintegral.top
 hygienepudding.top
@@ -52017,6 +52038,7 @@ istkartbn.com
 istkartdoldurmalar.net
 istkartdolumu.net
 istkarthmnssdtnal.com
+istkartibasvr.online
 istkartim.net
 istkartl.blogspot.com
 istkartlabuanlama.duckdns.org
@@ -54307,6 +54329,7 @@ kamuspotu.org
 kamutakibi.org
 kamutalimat.org
 kamuweb-ihlalsorgu.icu
+kamve.cyou
 kan2kwesx.blogspot.com
 kanada.ct.ws
 kanal-liste.click
@@ -55524,6 +55547,7 @@ kikomilanos.com
 kikosmilamos.com
 kilabeyt-org.my-homeip.de
 kilimanjaroway.com
+kiling.ai
 kilissubesndyzbizlerr.duckdns.org
 kilit-entry.biz
 killiborek.dravencia.sbs
@@ -55944,6 +55968,8 @@ klerdesnweasdes.duckdns.org
 klervergkolurts.net
 klgfmsnn2ksla.top
 klieuenant.top
+klig.ai
+klign.ai
 klima-firsatlari101.com
 klima-qjbnvlck.cloud
 klimacinizgeldidrpppyok.com
@@ -55973,6 +55999,7 @@ klkgdkbrdaldansndenbn.shop
 klklklmvklvkvm.net
 kllometlsrglgmaa.duckdns.org
 klmetredeyizogreninbilginizi.cfd
+klmlesorgla.com
 klmnbnndansnrasn.beer
 klmteresrgulamasffet.firebaseapp.com
 klmteresrgulamasffet.web.app
@@ -63331,6 +63358,7 @@ middlenotice.top
 middleyacht.top
 midiroseagustos.sbs
 miditenyo2.net
+midj0urney.org
 midnightassorted.top
 midnightbike.top
 midnightbrigade.top
@@ -65247,6 +65275,7 @@ musterilerimizeozel-togg.online
 musteriyi-aktar.cfd
 mustesna-ekayit.online
 mustinfringe.top
+musurirorul.online
 mutantveren.org
 mutearrogant.top
 muteautobiography.top
@@ -67445,6 +67474,7 @@ notationconstituency.top
 notcensor.top
 notebarge.top
 notebookexponential.top
+notebookklm.com
 notebookmurmur.top
 notebookpreside.top
 notegeneraton.top
@@ -68951,6 +68981,7 @@ ofcellll.com
 ofcrude.top
 ofeqha.top
 ofertixy.xyz
+ofezucyhymu.company
 offadjust.digital
 offanimate.top
 offcentered.in
@@ -70607,6 +70638,7 @@ ortaksehir.com
 ortakservis.yenibayiservisi.biz
 ortaksistemler.net
 ortakverimerkezi.com
+ortakvizyonhatti.com
 ortakyansima.com
 ortakyasamim.com
 ortakyasamyolu.com
@@ -73305,6 +73337,7 @@ perpetatribe.top
 perpetualdreadful.top
 perpetualthing.top
 perpetuatespaghetti.top
+perplecity.ai
 perplexbotanical.top
 perplexity-advertising.com
 perplexity-beta-ads.com
@@ -73313,6 +73346,8 @@ perplexity-platform.gitlab.io
 perplexityrecur.top
 perplexpanelofficial.sorgupanel.net
 perplexsynthesise.top
+perplexty.ai
+perplixity.ai
 persecuteincorporate.top
 persecutelieutenant.top
 persecuteoverflow.top
@@ -74994,6 +75029,7 @@ preoccupydivert.top
 prepareexhibit.top
 preparemansion.top
 prependinganalysis.site
+preplexity.ai
 prepositionextinct.top
 prepositioninhibition.top
 prepotentbnannce.site
@@ -75188,6 +75224,7 @@ priorityretrieval.top
 prioritysdenvers.com
 priorstammer.top
 prip53e2q.space
+prismao-84.wixsite.com
 prismaticd.pro
 prismtrail.cfd
 prisonersprinkle.top
@@ -78100,6 +78137,7 @@ ratiosarray.johnelwayclaremontcdjr.com
 ratreciprocal.top
 rattleyman.top
 ratyfya.com
+raulpoloullonpsp.wixsite.com
 rautub.top
 ravanas.net
 ravelo.online
@@ -94037,6 +94075,7 @@ tkg-edvtepkonv.org
 tkg-tap-randvznsz.com
 tkg-tap-randvznsz.net
 tkg-tap-randvznsz.online
+tkg-tap-randvznsz.site
 tkg-tapkorandv.org
 tkg-tapsurndvnuz.net
 tkg-tapsurndvnuzs.info
@@ -97470,6 +97509,7 @@ turkhavayollari.my
 turkhavayollari.sbs
 turkhgsistemim.tk
 turki.kyegov.dev
+turkiaee.dothome.co.kr
 turkicoin.info
 turkiinvest.com
 turkiiye-kapiisi.com
@@ -101339,6 +101379,7 @@ viewshare-4a47630892e1.herokuapp.com
 viewtide.top
 viewyourform24.click
 vifoko.info
+viggie.ai
 vigilant-hugle.20-199-66-103.plesk.page
 vignette-pay.live
 vignetten-payment.info
@@ -101736,6 +101777,7 @@ vocationalpathetic.top
 vocationdedicate.top
 vocationintegral.top
 vocationjockey.top
+vocie.ai
 vodafaoaenne.shop
 vodafaonne.fun
 vodafaonne.pics
@@ -108260,6 +108302,8 @@ yohkipres.site
 yok-edu-tr.cc.cd
 yokarac.net
 yokboyleolaysendegelcabukbasvr.click
+yoksis.yok-edu-tr.cc.cd
+yoksis.yok.gov.tr.deuedu.ccwu.cc
 yoksulperver.com
 yolaciktiktmaxmax.net
 yolarabakirala.com.tr
