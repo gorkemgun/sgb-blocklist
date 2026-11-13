@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109576
-# Last change: 2026-11-12 20:52:25 UTC (sync mode: delta)
+# Records: 109591
+# Last change: 2026-11-13 01:53:14 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11002,6 +11002,7 @@ avisotohemenkiralama.online
 avisotokiralama.epizy.com
 avisotokiralama.site
 avisotokocfilo.com
+avisotokocturkey.com
 avisotokocturkiye.com
 avisotomobilkiralama.com
 avisotomobilkiralama724.com
@@ -35900,6 +35901,7 @@ fileallot.top
 filemarketi.com.tr
 filemmarket.xyz
 filemobil.com.tr
+filemobil.duckdns.org
 filemrktm.click
 files.mycoinba.se
 filesigorta.site
@@ -44124,6 +44126,7 @@ hduzmhwxg.site
 hdwbmj.top
 hdwfmd.top
 hdwlmn.top
+hdwlne731.store
 hdwpmw.top
 hdxrhj.online
 hdxsmj.top
@@ -46072,6 +46075,7 @@ hizlicafrsattanlik1o1.com
 hizlicagecisistem.web.app
 hizlicahalledek.web.app
 hizlicahalledelimhmn.com
+hizlicahalledin.biz
 hizlicaislemmhxrs.org
 hizlicakirala.com.tr
 hizlicakirala.net.tr
@@ -46582,6 +46586,7 @@ hngsnbxdnssn.org
 hngstyuklemler.com
 hnjtry.top
 hnourhike.top
+hntg.abrdns.com
 hnvbdd.top
 hnxhbn.top
 hoareaseasholend.com
@@ -53988,6 +53993,7 @@ kamp-shopping.online
 kamp12-24voltbozdolap.pics
 kampaktuelsi.click
 kampanakaneaak.cfd
+kampandetay.site
 kampanhshshshs.com
 kampanix.com
 kampanya-1-0-1.com.tr
@@ -54847,6 +54853,7 @@ katkat-koop.duckdns.org
 katkatfirsatlar.com
 katkatlahemen.duckdns.org
 katkidabulunuyoruz.site
+katlakatlakoop.duckdns.org
 katlanabilirmasasandalye.com
 katlanabilirmasasandalyetakimi.com
 katlburdaherkesmerkez4.click
@@ -58008,6 +58015,7 @@ learn-trezaxe-suite.webflow.io
 learnbasey.com
 learncrafty.com
 learndigitalseo.com
+learnedcomics.com
 learnedexpiration.top
 learnernaivety.top
 learnerradiant.top
@@ -65376,6 +65384,7 @@ mxtvxyniyilode.net
 mxtxctvodmxler.net
 mxups.me
 mxvtvodemem.org
+mxzkvaksapf-samxzkvsap-asfkwqpsaf.sbs
 my--sso--cdn--coinbaspro.webflow.io
 my--sso-itrustcapital--com-uth.webflow.io
 my-amocolfcu-org.cc
@@ -67271,6 +67280,7 @@ nomadiqzone.com
 nomadunify.com
 nomarion.com
 nomeequiver.top
+nomenpro.com
 nominalacclaim.top
 nominalcork.top
 nominaloffspring.top
@@ -74197,6 +74207,7 @@ pokemoan.top
 pokepremise.top
 pokgaming.com
 pokiesgamessites.com
+pokkamdces.giize.com
 pol.star-boostmedia.com
 polamero.best
 polami-nutegax.lol
@@ -75550,6 +75561,7 @@ proklineglob.site
 prokrakenportfolio.com
 prolance.study
 prolgr-app.webflow.io
+prom-app.top
 prom-btcturk.com
 prom-info.life
 promailers.top
@@ -80567,6 +80579,7 @@ ruthlessosint.byethost12.com
 ruuhsuzpanel.cyou
 ruuolfsson.com
 ruvix.qpon
+ruvon.cyou
 ruwixo.info
 ruwusizab.com
 ruxmaglo.gifts
@@ -90547,6 +90560,7 @@ sydmsos.com
 sydmsos.org
 sydvyardim.com
 syform.online
+syjyjyhof.world
 sylphstream.site
 sylune.site
 sylvanstream.online
@@ -105243,6 +105257,7 @@ www-alcpt-end-cepte.myonlineportal.ch
 www-alisversx-guvenlrx-odemex.com.tr
 www-alisversx-guvenlrx-odemex.xyz
 www-altb-cpt-ayricalik.myonlineportal.ch
+www-amoutb-spent-cepte.myonlineportal.ch
 www-andytb-ceptedir-ayrclk.myonlineportal.ch
 www-app-firsat-kapimda.name.tr
 www-aractramersrgulama-8877.blogspot.com
