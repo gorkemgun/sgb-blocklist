@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 479369
-# Last change: 2026-11-14 14:13:48 UTC (sync mode: delta)
+# Records: 479380
+# Last change: 2026-11-14 19:14:04 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2304,6 +2304,7 @@
 101-extra-sadece-online-bugune-ozel-mobil-indirim-sepeti-tr.online-plus.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
 101-extra-sadece-online-bugune-ozel-sepet-indirimleri-tr.magazada-shop.online
+101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
 101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
@@ -57654,6 +57655,7 @@ avsfilokurumsal.com
 avsfilokurumsal.online
 avsfilom.com
 avsfilom.net
+avsfilomkirala.com
 avsfilomkiralama.com
 avsfilonrentcara.com
 avsfilorent.com
@@ -57720,6 +57722,7 @@ avsrentalcar.net
 avsrentcar.net
 avsrentkurumsal.com
 avssfilokiralama.com
+avsskiirala.com
 avsturkiye.com
 avsvmcloud.com
 avsyanimda.com
@@ -87435,6 +87438,7 @@ bonusbasvuruekran2024mayis.com
 bonusbasvurulari134523.com
 bonusbasvurulari15234.sbs
 bonusbasvurulari32634.sbs
+bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi3123125.sbs
 bonusbasvurusayfasi3254325.sbs
@@ -152547,6 +152551,7 @@ emaliyeinfaz.org
 emaliyeizleme.org
 emaliyekamu.com
 emaliyekontrol.com
+emaliyekurum.com
 emaliyemasak.com
 emaliyemerkezi.org
 emaliyeportal.org
@@ -156530,6 +156535,7 @@ eparimonline.com
 epasaport10gbinternet.com
 epasaporthizmet.net
 epats-turkpatent-gov-tr.site
+epats-turkpatent.com
 epatsturkpatent-gov-tr.com
 epatsturkpatent.com
 epayfix.xyz
@@ -215734,6 +215740,7 @@ hizliortakbayim.net
 hizliortakbayims.net
 hizliortakbayis.net
 hizlioto.web.tr
+hizliotoavs.com
 hizliotogecisciliklerle.blogspot.com
 hizliotogeciscilikte.blogspot.com
 hizliotogecisservis.net
@@ -380235,6 +380242,7 @@ sizlerden.gelen.hizmetlerden.21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.aaahsdasgafasa.click
 sizlerden.gelen.hizmetlerden.asdasdqwdsad.click
 sizlerden.gelen.hizmetlerden.dd21sd212d1asfas.click
+sizlerden.gelen.hizmetlerden.kksadlksado.click
 sizlerden.gelen.hizmetlerden.sdasdqwdsad2121.click
 sizlerden.gelen.hizmetlerden.skdowkdaksdkasd.click
 sizlerdensendenre.sbs
@@ -452793,6 +452801,8 @@ www-teknosam.online
 www-teknossa.com
 www-telegram.com
 www-telegram.org
+www-tesctb-exit-cepte.myonlineportal.ch
+www-tesptb-cepte-wond.myonlineportal.ch
 www-thunderblrd.top
 www-tkgm-gov-tr.translate.goog
 www-tl-xxx2.blogspot.com
@@ -474569,6 +474579,7 @@ zcrvwsho.com
 zcsovazpab.duckdns.org
 zctuiwzmna.duckdns.org
 zcufc.duckdns.org
+zcv741.site
 zcvbjhai.ddns.net
 zcvbm1zv.onlinewebshop.net
 zcve9p6.duckdns.org

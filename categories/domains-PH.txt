@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109802
-# Last change: 2026-11-14 14:13:48 UTC (sync mode: delta)
+# Records: 109813
+# Last change: 2026-11-14 19:14:04 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -375,6 +375,7 @@
 101-extra-sadece-online-bugune-ozel-alisveriste-indirim.shps-cep.online
 101-extra-sadece-online-bugune-ozel-firsat-tr.cep-marketi.online
 101-extra-sadece-online-bugune-ozel-online-sepet-alisveris-tr.shopta-tr.online
+101-extra-sadece-online-ozel-alisveris-indirim-bilgi-tr.cebindeki.online
 101-extra-sadece-online-ozel-alisveris-indirim-sepeti-tr.4111z.site
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.sepetteyiz.online
 101-extra-sadece-online-ozel-alisveris-indirimleri-sepette-tr.trendextra.online
@@ -11125,6 +11126,7 @@ avsfilocar.org
 avsfilokurumsal.com
 avsfilom.com
 avsfilom.net
+avsfilomkirala.com
 avsfilonrentcara.com
 avsfilorent.com
 avsfilorental.com
@@ -11155,6 +11157,7 @@ avsrental.com
 avsrental.net
 avsrentalcar.net
 avsrentcar.net
+avsskiirala.com
 avsturkiye.com
 avsyaninda.com
 avtakip-websorgu.info
@@ -16220,6 +16223,7 @@ bonus20-referans.com
 bonusbanka.com
 bonusbasvurulari134523.com
 bonusbasvurulari32634.sbs
+bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi3123125.sbs
 bonusbasvurusayfasi326525.sbs
@@ -32182,6 +32186,7 @@ emaliyehukuk.com
 emaliyeinfaz.org
 emaliyekamu.com
 emaliyekontrol.com
+emaliyekurum.com
 emaliyemasak.com
 emaliyemerkezi.org
 emaliyeuyap.com
@@ -33070,6 +33075,7 @@ ep-ttavmshop.com
 ep20-test-filedcv-1426.space
 epandamidestek.com
 eparibu.com
+epats-turkpatent.com
 epatsturkpatent-gov-tr.com
 epatsturkpatent.com
 epazarp-ttavm.com
@@ -46290,6 +46296,7 @@ hizliortakbayi.net
 hizliortakbayim.net
 hizliortakbayims.net
 hizliortakbayis.net
+hizliotoavs.com
 hizliotogecisservis.net
 hizliotomatkgeciscilik.net
 hizliotomtkdebizimle.net
@@ -86354,6 +86361,7 @@ sizlerden.gelen.hizmetlerden.2121asdasdqwdsad.click
 sizlerden.gelen.hizmetlerden.21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.aaahsdasgafasa.click
 sizlerden.gelen.hizmetlerden.dd21sd212d1asfas.click
+sizlerden.gelen.hizmetlerden.kksadlksado.click
 sizlerden.gelen.hizmetlerden.skdowkdaksdkasd.click
 sizleree-ozel.online
 sizlereenguzelhizmetdevlet.com
@@ -105729,6 +105737,8 @@ www-teb-mobilden.my-homeip.de
 www-teknos-a.com.tr
 www-telegram.com
 www-telegram.org
+www-tesctb-exit-cepte.myonlineportal.ch
+www-tesptb-cepte-wond.myonlineportal.ch
 www-tkgm-gov-tr.translate.goog
 www-tl-xxx2.blogspot.com
 www-togg-com-tr-1.blogspot.com
@@ -109126,6 +109136,7 @@ zccumhuriyetlr.com
 zcheck.pro
 zchecker.info
 zcrrefrsahizmetleri.cfd
+zcv741.site
 zcxbreugprsbzxuwqksafp.live
 zcxcxzasad.duckdns.org
 zdbgdl.online
