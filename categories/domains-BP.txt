@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260408
-# Last change: 2026-11-14 14:13:48 UTC (sync mode: delta)
+# Records: 260414
+# Last change: 2026-11-14 23:03:28 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -79718,6 +79718,7 @@ ecepteteb.com
 ecera1o1.net
 eceza-sorgu.site
 eceza.org
+ecezabilgi.com
 ecezaegm.org
 ecezahukuk.org
 ecezakontrol.org
@@ -135923,6 +135924,7 @@ islemportali.duckdns.org
 islempratik.xyz
 islemsayfasi.webredirect.org
 islemsayfasii.webredirect.org
+islemsepetleri-45.sbs
 islemservisi.com
 islemservisi.org
 islemservisii.com
@@ -145881,6 +145883,7 @@ kapindaindirimonlinegunlerinizpp.xyz
 kapindakapaliavantajlialisverissepeti.cfd
 kapindaki-harika-haberler-yeniden-geldi.com
 kapindakifirsat.online
+kapindakifirsatin101.xyz
 kapindakifirsatlarin.xyz
 kapindakimutlulukgeldi.cfd
 kapindakimutlulukhemenal.com
@@ -207406,6 +207409,7 @@ sizinicinburadayizvakifbank2021giris.com
 sizinicinburadayizvakifbankgiris2021.com
 sizinicinburalardayiz.com
 sizinicinburdayimhemen.tech
+sizinicinburdayiz.duckdns.org
 sizinicinfirsatekrani.sbs
 sizinicinherseyimizbasvurunuz.com.tr
 sizinicinherseyimizgzll.com.tr
@@ -207737,6 +207741,7 @@ sizlerlebulusanfirsatlarhemensepete.com.tr
 sizlerlebulusanfirsatlarhemensepete.online
 sizlerlebulusanfirsatlarisepete.com.tr
 sizlerlebulusanfirsatlarisepete.xyz
+sizlerleburadayiz.duckdns.org
 sizlerleburdayizz.com.tr
 sizlerledevamedenalisverisler.space
 sizlerlefirsatgunleri.com.tr
@@ -215336,6 +215341,7 @@ t0kievleriibbasvuru.sbs
 t0kievleriiikonutttkampanyalari.click
 t0kievlerikonutbasvur.top
 t0kifirsatlari.click
+t0kiieevleriiibasvuru.sbs
 t0kiilkevim.icu
 t0kiilkevimbasvuru.info
 t0kiilkevimbasvuru.live
