@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109866
-# Last change: 2026-11-15 11:05:02 UTC (sync mode: delta)
+# Records: 109875
+# Last change: 2026-11-15 17:47:17 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2567,6 +2567,7 @@
 541221125565556559992.duckdns.org
 541221125565556559993.duckdns.org
 5426554265521.duckdns.org
+5430811591840151.sbs
 5435345435.cloud
 543543534.duckdns.org
 54354982138943214000.net
@@ -9695,6 +9696,7 @@ arzumsstwtw.com
 arzumstwtwc.com
 arzumtblenn.com
 arzumtwtw63.com
+arzutwsdssntw.com
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
 as-alon-av.myonlineportal.ch
@@ -29782,6 +29784,7 @@ dukeloooper.shop
 dukelooper.shop
 dukkanimsevgi.cyou
 dukkanplus.com.tr
+dukturyokmudukturrr.www1.biz
 dullchronically.top
 dulopeki-sanerumi.lol
 dulyappropriate.top
@@ -42166,6 +42169,7 @@ guvendesatinal.com
 guvendesatinal.com.tr
 guvendesatinaltr.com
 guvendesatinaltr.online
+guvendesepetimnet.shop
 guvendesigortam.com.tr
 guvendesiniz.online
 guvendesiparis.com.tr
@@ -57733,6 +57737,7 @@ l3re73sn8l5h4nhehds.udp64.de
 l5ehhssejzm7lyhh.freeddns.org
 l8-l33-220-72.plesk.page
 l899cf.csb.app
+l8e43825hs4h678s.giize.com
 la-falise-hotel.today
 labarda.xyz
 labchem-wako-fujifilm.com
@@ -63285,6 +63290,7 @@ mhrsrandevumtr.org
 mhrsrandevun.com
 mhrsrandevunx.blogspot.com
 mhrsrandevuonline.com
+mhrsrandevuonline.vip
 mhrsrandevuonline.xyz
 mhrsrandevuportalimizz.duckdns.org
 mhrsrandevuportalimizzx.duckdns.org
@@ -63342,6 +63348,7 @@ mhsglklamhr.cfd
 mhshemen.uk
 mhskastogreen.uk
 mhsksrsnrndsv.com
+mhsmsmsmsmszz.xyz
 mhsr-randvu.net
 mhsraaggwa.cfd
 mhsraaggwa.rest
@@ -70902,6 +70909,7 @@ osynlimbasv.net
 osynpazferoo3.net
 otarackiralamaonline.online
 otarimkoop.com
+otarimkoop.store
 otationpermeat.top
 otaviofritzen.online
 otcsalliance.sa.com
@@ -81634,6 +81642,7 @@ sahibinden-param-guvende.siparisguvenli.online
 sahibinden-param-guvende.siparisonayi.online
 sahibinden-param-guvende.siparisonayin.online
 sahibinden-param-guvende.tr-servis-onay.online
+sahibinden-param-guvende.tr-servis-onayi.online
 sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-urun-detayi.online
 sahibinden-param-guvende.urunodeme-tr.online

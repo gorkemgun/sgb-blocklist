@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 479447
-# Last change: 2026-11-15 11:05:02 UTC (sync mode: delta)
+# Records: 479460
+# Last change: 2026-11-15 17:47:17 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -16517,6 +16517,7 @@
 5423423.net
 5425d354245254s57712.work.gd
 5426554265521.duckdns.org
+5430811591840151.sbs
 54315341553443.com
 54329593521.shop
 543334734333.com
@@ -53333,6 +53334,7 @@ arzumstwtwc.com
 arzumtblenn.com
 arzumtwtw63.com
 arzumverse.xyz
+arzutwsdssntw.com
 arzyowvcay.duckdns.org
 arzzumstw.duckdns.org
 arzzuymmav.blogspot.com
@@ -79662,6 +79664,7 @@ bireyselyapikredibasvuru.com
 bireyselyapikredibasvuru.vercel.app
 bireyselyapikredibasvuru.ws
 bireyselyapikredim.com
+bireyselyapikredimobilebasvurucomtr.vercel.app
 bireyselyapikredimobilkampanya.vercel.app
 bireyselyapikredisubesi.com
 bireyselyapikreditr.com
@@ -136051,6 +136054,7 @@ dukkanplus.com.tr
 dukkantshirt.com
 dukkanyapan.xyz
 duknbayyxd.org
+dukturyokmudukturrr.www1.biz
 dulactalfo.com
 dulcebuelos.com
 duldxabaronnd.com
@@ -193960,6 +193964,7 @@ guvendesatinaltr.online
 guvendesepetalisverisi.com
 guvendesepetim.online
 guvendesepetim.shop
+guvendesepetimnet.shop
 guvendesigorta.com.tr
 guvendesigortam.com.tr
 guvendesiniz.online
@@ -209149,6 +209154,7 @@ herzamansizeozeliadeeler1.net
 herzamansizlerl-kamp-teklfiler.shop
 herzamansizlerl-kamp-teklfiler.store
 herzamansizlerleyiz-biance-cekilisleri.net
+herzamansizlerleyiz.online
 herzamanyukle.sg-host.com
 herzamn-dnirm-firsatlari-burdas.com
 herzamn-dnirm-firsatlari-burdas.shop
@@ -226633,6 +226639,7 @@ iiadeedevlltmm.com
 iiadeh-hizmetlleri.com
 iiadeliilerr.com.tr
 iiadelilerr.com.tr
+iiadenial.duckdns.org
 iiaii4q2a.duckdns.org
 iiaiyitre.pa
 iibas.ddns.net
@@ -270074,6 +270081,7 @@ l899cf.csb.app
 l8ak50.duckdns.org
 l8c17ef8.justinstalledpanel.com
 l8c1stwqe.duckdns.org
+l8e43825hs4h678s.giize.com
 l8fkmt.duckdns.org
 l8ib4l.duckdns.org
 l8kc3zpr.duckdns.org
@@ -287425,6 +287433,7 @@ mhrsrandevunx.blogspot.com
 mhrsrandevuolustur.lol
 mhrsrandevuonline.com
 mhrsrandevuonline.lol
+mhrsrandevuonline.vip
 mhrsrandevuonline.xyz
 mhrsrandevuonlinehizmetlerbasvurunoktasi.duckdns.org
 mhrsrandevuornek.duckdns.org
@@ -287499,6 +287508,7 @@ mhshemen.uk
 mhskastogreen.uk
 mhsksrsnrndsv.com
 mhslaatkfff.uk
+mhsmsmsmsmszz.xyz
 mhsn-randevu.blogspot.com
 mhsn.edu.bd
 mhsr-randvu.net
@@ -320194,6 +320204,7 @@ otakutetedoang.hopto.org
 otameyshan.com
 otarackiralamaonline.online
 otarimkoop.com
+otarimkoop.store
 otationpermeat.top
 otaupdate.szbboys.com
 otaupdatesios.com
@@ -360887,6 +360898,7 @@ sahibinden-get.jet-servis-hizmetlerim.online
 sahibinden-get.jethizmetin2-ru.online
 sahibinden-get.jetservishizmetleriniz.online
 sahibinden-get.jetservisleriniz.com
+sahibinden-get.kargoilesiparis.com
 sahibinden-get.le-odeme.com
 sahibinden-get.mhizmetalimlar.com
 sahibinden-get.ml
@@ -361747,6 +361759,7 @@ sahibinden-param-guvende.tr-odeme-onay.online
 sahibinden-param-guvende.tr-odeme-servis.online
 sahibinden-param-guvende.tr-online-odemelerim.sa.com
 sahibinden-param-guvende.tr-servis-onay.online
+sahibinden-param-guvende.tr-servis-onayi.online
 sahibinden-param-guvende.tr-siparisget.online
 sahibinden-param-guvende.tr-siparisgets.online
 sahibinden-param-guvende.tr-urun-detayi.online
