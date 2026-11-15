@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260414
-# Last change: 2026-11-14 23:03:28 UTC (sync mode: delta)
+# Records: 260418
+# Last change: 2026-11-15 02:44:44 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -24792,6 +24792,10 @@ alisveris-secure-odeme.com
 alisveris-sepete-ekle-tr.mooo.com
 alisveris-sepeti.online
 alisveris-sepetim.online
+alisveris-sepetinde-10.sbs
+alisveris-sepetinde-15.sbs
+alisveris-sepetinde-20.sbs
+alisveris-sepetinde-25.sbs
 alisveris-servisim.com
 alisveris-sezonu.duckdns.org
 alisveris-sistemi.com.tr

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109844
-# Last change: 2026-11-14 23:03:28 UTC (sync mode: delta)
+# Records: 109854
+# Last change: 2026-11-15 02:44:44 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -32246,6 +32246,7 @@ emeeramaontinwrldecp.com
 emek3d.xyz
 emekklibasvur.com
 emekklibasvuru.com
+emekli-garanti.my-homeip.de
 emekli-ozel-kampanya.online
 emekli-promosyon.my-homeip.de
 emekli-tebde.my-homeip.de
@@ -38532,6 +38533,7 @@ garantipromoyon140720.yonlendirfacebook.lat
 garantiramazanbonus.line.pm
 garantisanalkasa.cloud
 garantisibiziz.com.tr
+garantisistemfinans.cloud
 garantisizlerlerkredii.lol
 garantislem.store
 garantisube-online.cfd
@@ -41349,6 +41351,7 @@ grelonatiku.gifts
 gremonakidu.gifts
 grempeloksa.pro
 grenbrouw.com
+grenbuilderix.com
 grencardbavuru.com
 grendcrbasvur.pw
 grendorvax.info
@@ -43202,6 +43205,7 @@ hadisigorta.web.tr
 hadisizdegelin.com.tr
 hadisizdegelipkatlin.com.tr
 hadiuygulamasi.sbs
+hadivurjavexxd.duckdns.org
 hadrianresorts.com
 hadrion.shop
 hadrion.site
@@ -66251,6 +66255,7 @@ nearwaliet.com
 nearwalliet.com
 neatembroidery.top
 neatstipution.top
+nebogoluboe.click
 nebolan.com
 nebulachecker.icu
 nebulachecker.online
@@ -86051,6 +86056,7 @@ sintecomoraes.com.br
 sintroum.com
 siogortam.com
 siojrk.top
+sioparisethemenkapnda5844.duckdns.org
 siortamnet2.xyz
 sipaagnim.top
 sipandscoop.com
@@ -86388,10 +86394,12 @@ sizlerden.gelen.hizmetlerden.21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.aaahsdasgafasa.click
 sizlerden.gelen.hizmetlerden.dd21sd212d1asfas.click
 sizlerden.gelen.hizmetlerden.fgasdasd212d1asfas.click
+sizlerden.gelen.hizmetlerden.hsdasgafasa.click
 sizlerden.gelen.hizmetlerden.kksadlksado.click
 sizlerden.gelen.hizmetlerden.skdowkdaksdkasd.click
 sizlerden.gelen.hizmetlerden.ssshsdasgafasa.click
 sizlerden.gelen.hizmetlerden.vavazkksadlksado.click
+sizlerden.gelen.hizmetlerden.zusafjasdkasd.click
 sizleree-ozel.online
 sizlereenguzelhizmetdevlet.com
 sizlereguzel-haberiverenleriz.com
@@ -92465,6 +92473,7 @@ teb-mobile.my-homeip.de
 teb-online-banka-kura.my-homeip.com
 teb-online-mobil-emekli.my-homeip.net
 teb-pro.my-homeip.de
+teb-promosyon-emekli.my-homeip.de
 teb-son-basvurutr.com
 teb-sube-com-tr.my-homeip.de
 teb-sube.my-homeip.de
@@ -101853,6 +101862,7 @@ vizyoncephesi.com
 vizyonhaber.info
 vizyonmimarliktr.com
 vizyonpanel.com
+vizyonplanlamasi.com
 vja00te.cn
 vjkmkvdfsmkss.com
 vjya.top
