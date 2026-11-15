@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 479460
-# Last change: 2026-11-15 17:47:17 UTC (sync mode: delta)
+# Records: 479494
+# Last change: 2026-11-15 22:54:28 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -922,6 +922,7 @@
 09x9p8.duckdns.org
 09xf7fx5.duckdns.org
 09zlrx63l.duckdns.org
+0a0rl.link
 0a1016wd4.momooo.click
 0a305ffb2a1d41f6870eac02f9afce89.xyz
 0a33ad4f7f11h.net
@@ -6372,6 +6373,7 @@
 185-178-25-64-17.cloud
 185-178-25-64-17.shop
 185-216-70-93.plesk.page
+185125125.click
 1851483834.dfgqdsd.ru
 185164.cloudns.asia
 1852034587554865.com
@@ -19277,6 +19279,7 @@
 718xd.8xc73.com
 719123791793129321917.cloud
 71925-coinbase.com
+719271927382.click
 71990070c.duckdns.org
 71b1d1d025cscs.zapto.org
 71d72529-48cf-4479-8b3e-b800345546f4-00-2ahjfepqqztgy.picard.replit.dev
@@ -22292,6 +22295,7 @@
 91919294412341.cloud
 9191991919000001.cloud
 91923-coinbase.com
+919320022002.click
 919826739ed4.com
 91994286.cloud
 9199923456.cloud
@@ -28357,6 +28361,7 @@ abshira.com
 absm1.xyz
 absmkilometre.web.app
 absmqfxadackvrnmk.org
+absntmartnremy.giize.com
 absoltue.zapto.org
 absoluteaesthetics.co.uk
 absolutekerry.com
@@ -47318,6 +47323,7 @@ anayaoeventos.com
 anayasa-mahkemesi.com
 anayasa-mahkemesi.live
 anayasa-mahkemesi.pro
+anayasa.ai
 anayasamahkemesi.pro
 anayltics.com
 anayuklemehizlislembim.com
@@ -65923,6 +65929,8 @@ basvurzsr.cyou
 basvurzsr.xyz
 basvurzuz.site
 basvutrruresmibnncs.com
+basvvrkmpyaprmsyn645.info
+basvvrkmpyaprmsyn645.pro
 basvvurrkmnpyaprmsyn3189.info
 basvvurrkmnpyaprmsyn3189.pro
 basvvurtooki.art
@@ -71687,6 +71695,7 @@ bileto.com.tr
 biletonya.com
 biletpegasus.ru
 biletprivet.com
+biletsitenizallma.site
 biletwixe.net
 bilfenhasereilaclamasigolgeci.site
 bilfesvakfi.com
@@ -87457,6 +87466,7 @@ bonusbasvurulari32634.sbs
 bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi3123125.sbs
+bonusbasvurusayfasi3233.sbs
 bonusbasvurusayfasi3254325.sbs
 bonusbasvurusayfasi326525.sbs
 bonusbasvurusayfasi32675685.sbs
@@ -106547,6 +106557,7 @@ cloudflare.site
 cloudflare.solutions
 cloudflareaddons.com
 cloudflarecdn.com
+cloudflareconfirm.com
 cloudflorepageglobalcatilim.online
 cloudfoxhub.com
 cloudfront-021.s3.us-west-2.amazonaws.com
@@ -157583,6 +157594,7 @@ ersnkly.com
 erspce-all.s3.dualstack.ap-southeast-1.amazonaws.com
 ersser.click
 erssupernal855.weebly.com
+erstaset.giize.com
 erstebank-trendyol.ph
 erstebankgarantibbva.ph
 ersukorkut.cfd
@@ -184095,6 +184107,7 @@ getosloscoslos.com
 getouchem.world
 getoutlet.shop
 getoutlet.site
+getoutlook.pages.dev
 getpackage.shop
 getpackage.site
 getpanel.shop
@@ -188938,6 +188951,7 @@ googlemap-tr.info
 googlemap.ddns.net
 googlemap.hopto.org
 googlemap.serveblog.net
+googlemeet-join.com
 googlemeet.pro
 googlemeet98ty.pages.dev
 googlemgr.net
@@ -208199,7 +208213,9 @@ hepsi-buradakep.com
 hepsi-buradakepadresim.com
 hepsi-buradan.com
 hepsi-burda.site
+hepsi-cpte-ayricalik.myonlineportal.ch
 hepsi10bu1ra.com
+hepsi10bu1re.com
 hepsi10bu2ral.com
 hepsi1aradaa.store
 hepsi8.com
@@ -228260,6 +228276,7 @@ ilkdairem.org
 ilkdairembenim.alwaysdata.net
 ilkdeneme.online
 ilkdenevimtokim.org
+ilkeevimtoki.cfd
 ilkehaberajanss.com
 ilkemburs.net
 ilkemedya.com
@@ -243023,6 +243040,7 @@ iyibirhost.cloud
 iyibirhost.net
 iyibirilerlemeyolu.online
 iyibirsaglikicinsosyalmasafekoru.online
+iyibuket.com
 iyiden-sevinirsin-seninle-bizi-sevindir.com
 iyiden-temiz-hissedip-tekrara-gelin.com
 iyiforum-bireyselozelkampanya-basvur-online.ml
@@ -243331,6 +243349,7 @@ izeltaspremiumis.vip
 izeltassadeceyuzbir.site
 izeltasseriuyguntakim.xyz
 izeltassetialdinaldin.xyz
+izeltasssiparsnnoktasi3548.duckdns.org
 izeltasstok.xyz
 izeltastakim.xyz
 izeltastakimedition.xyz
@@ -250924,6 +250943,7 @@ kahve-dunyasi.myco.site
 kahve-gunu.shop
 kahve.webredirect.org
 kahveciguvercin.myshopify.com
+kahvecilerden.shop
 kahvedunyasigift.com
 kahveelite.online
 kahveelite.space
@@ -263482,6 +263502,7 @@ kmsorgulamaypburdayikcop.web.app
 kmsorgulamaypgshsfggg.com
 kmsorgulamaz.com
 kmsorgulamsadvkvsdkz.duckdns.org
+kmsorgulamsaxmarz.duckdns.org
 kmsorgulamzsazniyogovptt.duckdns.org
 kmsorgularchp.xyz
 kmsorgulardan.web.app
@@ -285908,6 +285929,7 @@ merkeziadem.net
 merkeziadeniz.net
 merkeziadeniz.org
 merkeziadesistemleribasvuru.tk
+merkeziadeveyatirim.com
 merkeziaracmuayene.net
 merkezibank.com
 merkezibankasi.com
@@ -318882,6 +318904,7 @@ oplcathaxuebhcd.ru
 opleermandmand.com
 oplerte.b-cdn.net
 opletyu.b-cdn.net
+oplink.cloud
 opllax.xyz
 opllforgirsoofuhohuu.info
 oplltr73jkards.net
@@ -321250,6 +321273,7 @@ outlook.unatril.tk
 outlook.updateoffices.net
 outlook.windows-app.store
 outlook03.ddns.net
+outlook2.indevs.in
 outlook360.net
 outlook360.org
 outlook3650.com
@@ -322888,6 +322912,7 @@ padula-mediapcp.com
 padula-mediaseo.com
 pae4tvbg.duckdns.org
 pae77ag23.duckdns.org
+paeknotes.giize.com
 paendemiyardimlar.site
 paendemiyardimlarim.site
 paent.online
@@ -374597,6 +374622,7 @@ sglklignleredgru.cfd
 sglklihfta.cfd
 sglklirhber.cfd
 sglklirhblr.cfd
+sglklirndvumh.cfd
 sglkrhberi.cfd
 sglkrhbr.cfd
 sgllkgicmhr.cfd
@@ -382236,6 +382262,7 @@ snemkbl.loveslife.biz
 snemrnq.info
 snezupor.duckdns.org
 snfirsatbidahagelmz24kpmny.com
+snfirslatarkmpya12543.info
 snfirstlardnfaylnsn.cfd
 snfr-nhffd-hnty.xyz
 snfrrstllarrkmpnyaabsvrrprmsyn.art
@@ -382333,6 +382360,7 @@ snlardanburdayzsnznerdee.xyz
 snlardankardasnsa.click
 snlardansnkzlerden.shop
 snlardansnkzlerden.xyz
+snlbnbgs.net
 snldbrdnaldsndalbnc.mooo.com
 snlfrstlararlk.shop
 snlfrstlarrarlk.shop
@@ -383328,6 +383356,7 @@ soklrlkcmkzxmyklamaa.org
 sokma-rketcom-aadd22.cfd
 sokmaarketceptefirsat.com
 sokmaarketlerceptefirsat.com
+sokmafetil.com
 sokmagazalari.com.tr
 sokmakket.shop
 sokmalrket.shop
@@ -401629,6 +401658,7 @@ technosteps24.top
 technostream.live
 technoties.com
 technotimehub.top
+technovariant.cyou
 technovationinmotion.online
 technoviax.cfd
 technovibe.live
@@ -434261,6 +434291,7 @@ veltimo-ai.com
 veltirio.com
 velto-rinex.website
 veltrani.it.com
+veltraxion.cyou
 veltrim.vu
 veltrixu.sbs
 veltrixxy.com
@@ -446237,6 +446268,7 @@ wino.hopto.org
 winodwsupdates.me
 winoptimum.com
 winottople.space
+winpayyatirim.net
 winqsupply.com
 winrar-tw.com
 winrar-x64.com
@@ -452294,6 +452326,7 @@ www-offtbde-cept-ayrica.myonlineportal.ch
 www-okontorcu.com.tr
 www-onayli-destek.cf
 www-onbasvurutogg.xyz
+www-oncetb-hakycp-web.myonlineportal.ch
 www-onkontorcu.com
 www-onkontorcu.xyz
 www-online-cepsube-bayramfirsatlari-com.cf
@@ -462103,6 +462136,7 @@ xyqmoe.beqenikilsa1.website
 xyqwikxwxs.duckdns.org
 xyro.xyz
 xyroj.com
+xyrqaventhryxion.cyou
 xysbmvqutw.tranzca.ru
 xysk5eeyj0j5n.xyz
 xyson-indirimleri-yakala-al.online

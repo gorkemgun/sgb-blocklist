@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109875
-# Last change: 2026-11-15 17:47:17 UTC (sync mode: delta)
+# Records: 109908
+# Last change: 2026-11-15 22:54:28 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -103,6 +103,7 @@
 086f4575.dsfiurb-u.shop
 08dc34a0-e.b-cdn.net
 099altiayertmysozl.store
+0a0rl.link
 0a572599-0.b-cdn.net
 0bilet.blogspot.com
 0bq0cid.cn
@@ -1181,6 +1182,7 @@
 1835304-coinbase.com
 185-167-99-250.plesk.page
 185-216-70-93.plesk.page
+185125125.click
 1852034587554865.com
 185205980612879380.com
 185205980612880180.com
@@ -2890,6 +2892,7 @@
 71777546.cloud
 717777.cloud
 71925-coinbase.com
+719271927382.click
 7226119-coinbase.com
 724-arackiralama.com
 724.hot365.ml
@@ -3260,6 +3263,7 @@
 91845-coinbase.com
 919191919191.duckdns.org
 91923-coinbase.com
+919320022002.click
 9199923456.cloud
 92359302512.duckdns.org
 9273912dsasdasd.com
@@ -4473,6 +4477,7 @@ abroadmanuscript.top
 abroadtopple.top
 abruptape.top
 absentfeminist.top
+absntmartnremy.giize.com
 absoluteaesthetics.co.uk
 absoluterepression.top
 absorbcoplimentary.top
@@ -7901,6 +7906,7 @@ anateko.company
 anatoliacircle.pro
 anatolianwealth.site
 anatoliax.info
+anayasa.ai
 anb4u.coinbase-com.info
 ancestorchapel.top
 ancestorconverse.top
@@ -12549,6 +12555,8 @@ basvuruyusorguladagitimgunleri-prb.click
 basvurytokk.pro
 basvurziyytar.cfd
 basvurzuz.site
+basvvrkmpyaprmsyn645.info
+basvvrkmpyaprmsyn645.pro
 basvvurtooki.art
 basvvurtooki.pro
 basyurtinternetcafe.ml
@@ -13930,6 +13938,7 @@ biletmerkezim.com.tr
 bileto.com.tr
 biletpegasus.ru
 biletprivet.com
+biletsitenizallma.site
 bilfesvakfi.com
 bilfesvakfi.org
 bilfntacell.com
@@ -16234,6 +16243,7 @@ bonusbasvurulari32634.sbs
 bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi3123125.sbs
+bonusbasvurusayfasi3233.sbs
 bonusbasvurusayfasi326525.sbs
 bonusbasvurusayfasi32675685.sbs
 bonusbasvurutr2022.buzz
@@ -20924,6 +20934,7 @@ clouddre.ga
 cloude.ai
 cloudflare-okta.com
 cloudflare-sendgrid.com
+cloudflareconfirm.com
 cloudflorepageglobalcatilim.online
 cloudfoxhub.com
 cloudguardins.ru.com
@@ -33325,6 +33336,7 @@ erroneouspudding.top
 errrandsy.com
 ersijorta.xyz
 ersnkly.com
+erstaset.giize.com
 ertasafs.nicepage.io
 ertdfgj.com
 ertdwe332dd.com
@@ -39724,6 +39736,7 @@ getolyra.site
 getolytrix.site
 getolytrix.store
 getonlineparamguvende.com
+getoutlook.pages.dev
 getparamguvende-sahibinden.com
 getparamguvende.com
 getparamguvendeislemsahibinden-com.tk
@@ -40778,6 +40791,7 @@ googlecontinue.com
 googledesk-ssl.com
 googleharitalar.net
 googlemap-tr.info
+googlemeet-join.com
 googlemeet.pro
 googlemeet98ty.pages.dev
 googlenames.top
@@ -44895,7 +44909,9 @@ hepsburdakutu.net
 hepsenimenfew.net
 hepsenleoynayalim.xyz
 hepsi-burada.online
+hepsi-cpte-ayricalik.myonlineportal.ch
 hepsi10bu1ra.com
+hepsi10bu1re.com
 hepsi10bu2ral.com
 hepsi8.com
 hepsibahis0615.com
@@ -52597,6 +52613,7 @@ iyi-ilerleme.sbs
 iyi-olan-kisileri-guzel-severiz-surekli.com
 iyiaksamlartrmsorgu.net
 iyibirilerlemeyolu.online
+iyibuket.com
 iyigecisler.net
 iyihayatdernegikyzilyttr.org
 iyihayattdernegi.wixsite.com
@@ -52669,6 +52686,7 @@ izeltasindirim.site
 izeltasmekaniktakimcantasi.blogspot.com
 izeltasmekankcitakimi.blogspot.com
 izeltasseriuyguntakim.xyz
+izeltasssiparsnnoktasi3548.duckdns.org
 izeltastamset.vip
 izeltasticaretmerkezi.blogspot.com
 izeltastornavidaallindi.xyz
@@ -54048,6 +54066,7 @@ kahramanindiirmler.com.tr
 kahramankrtbayi.net
 kahvaltisefasi.buzz
 kahveciguvercin.myshopify.com
+kahvecilerden.shop
 kahvedunyasigift.com
 kahveix.com
 kahvemakinasial.xyz
@@ -56435,6 +56454,7 @@ kmsorgulamaptt.shop
 kmsorgulamapttavmgvlsk.web.app
 kmsorgulamaslemleriniz.web.app
 kmsorgulamayappburdanptt.duckdns.org
+kmsorgulamsaxmarz.duckdns.org
 kmsorgularnzzzz.ru.com
 kmsorgulatsana.web.app
 kmsorgulazn.web.app
@@ -62742,6 +62762,7 @@ merkezgirisim-hizlibasvurma.com
 merkezi-sozlesme-islemleri.com
 merkeziadeleriniz.org
 merkeziadem.net
+merkeziadeveyatirim.com
 merkezicuzdaninaylamamerkeziozelonline.run.place
 merkezihekiim.lol
 merkezihekimkontrolmerkezi.digital
@@ -70514,6 +70535,7 @@ opklziyygnh.nicepage.io
 opklziyygnhg.nicepage.io
 opklziyygnhgg.nicepage.io
 opklziyygnhgga.nicepage.io
+oplink.cloud
 opmujykyumty.click
 opnvergi.net
 oportocoollection.com
@@ -71159,6 +71181,7 @@ outlook-serv-coral.vercel.app
 outlook-web-access-bccfe2.webflow.io
 outlook.bsnotespublication.com
 outlook.unatril.tk
+outlook2.indevs.in
 outlook365livee.dothome.co.kr
 outlookfurious.top
 outlookmicrosoftonline.com
@@ -71539,6 +71562,7 @@ padregloncke.top
 padula-media-digital.com
 padula-mediapcp.com
 padula-mediaseo.com
+paeknotes.giize.com
 pafada-dertuyyu.lol
 paffee.com
 pag48484.com
@@ -84931,6 +84955,7 @@ sglklignleredgru.cfd
 sglklihfta.cfd
 sglklirhber.cfd
 sglklirhblr.cfd
+sglklirndvumh.cfd
 sglkrhberi.cfd
 sgllkgicmhr.cfd
 sglnizicnrndvu.cfd
@@ -86943,6 +86968,7 @@ sndkkfrslarrkmpnyaabasvrr748596.pro
 sndordnhmnrvdal.click
 sndyaralnyesil.click
 sneakstatutory.top
+snfirslatarkmpya12543.info
 snguvende.online
 snhd1gejlx0sqzg1beqszers.com
 snibuc.top
@@ -86960,6 +86986,7 @@ snkzlplrdansnnns.com
 snkzordanlrdasns.bond
 snkzvrolrazdasdas.club
 snlardanbrdansnkz.shop
+snlbnbgs.net
 snmdsd.cn
 snnfrstlarrkmpnyaa189765.info
 snnqbj.top
@@ -87214,6 +87241,7 @@ sokkapindanimm.com
 sokkaracaileindir.shop
 sokkkkmarket.online
 sokkkta-bayyramfirstlrri.com
+sokmafetil.com
 sokmagazalari.com.tr
 sokmarkertler.com
 sokmarket-kampanya.com
@@ -92611,6 +92639,7 @@ technostage.live
 technosteps24.top
 technoties.com
 technotimehub.top
+technovariant.cyou
 technovationinmotion.online
 technoviax.cfd
 technovortex.online
@@ -100757,6 +100786,7 @@ velstrox.com
 veltimo-ai.com
 veltirio.com
 veltrani.it.com
+veltraxion.cyou
 veltrim.vu
 veltrunz.com
 velttrixora.com
@@ -104309,6 +104339,7 @@ winnersarcastic.top
 winnertreasure.store
 winnerzo.com
 winnewmobilephone.store
+winpayyatirim.net
 winredirect.com
 winride.gifts
 winrinet.top
@@ -105733,6 +105764,7 @@ www-nufrdnvu459-com-tr.blogspot.com
 www-o.shop
 www-obilet.uk
 www-offtbde-cept-ayrica.myonlineportal.ch
+www-oncetb-hakycp-web.myonlineportal.ch
 www-onkontorcu.com
 www-only-tb-ceptewby.myonlineportal.ch
 www-onsatis.online
@@ -107231,6 +107263,7 @@ xylar.top
 xym3.top
 xymewao.com
 xyroj.com
+xyrqaventhryxion.cyou
 xyson-indirimleri-yakala-al.online
 xyszds.homes
 xyvantto.com
