@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109854
-# Last change: 2026-11-15 02:44:44 UTC (sync mode: delta)
+# Records: 109866
+# Last change: 2026-11-15 11:05:02 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11133,6 +11133,7 @@ avsfilom.com
 avsfilom.net
 avsfilomkirala.com
 avsfilonrentcara.com
+avsfilonukirala.com
 avsfilorent.com
 avsfilorental.com
 avsfiloturkey.net
@@ -19125,6 +19126,7 @@ carehottom.site
 carelinno.gifts
 carelio.gifts
 caremoney.life
+carenta360.com
 carettoursa.com
 carfourmdn.online
 carfourrmnzsubat.info
@@ -27456,6 +27458,7 @@ dev.vegascheck.xyz
 dev.wyoming.coinbase-com.info
 dev2022.ml
 dev7129.d2qmcnsgj0y7oj.amplifyapp.com
+devafilo.com
 devamediyoruzbasvurla.sbs
 devamet1o1.click
 devamgez.net
@@ -31319,6 +31322,7 @@ eelversatil.top
 eemllkdns.com
 eendvlettkrdnevlilikk.com.tr
 eessendvlettkrdnhemenevlilik.com.tr
+eetyuursdrthnb.giize.com
 eevkp2w.cn
 eevvlkdevlstkrdsinnden.com.tr
 eevvllkhemendevlstkrdsinden.com.tr
@@ -35962,6 +35966,7 @@ figureintrigue.top
 figuresubordinate.top
 figvan.com
 fihgdjhfdhffdf.net
+fiillledenindro.giize.com
 fiilroomminfo.com
 fiirmalariderlendir.buzz
 fiirsatllar-sizinle-kacirmayin-aldin-aldin.com
@@ -47851,6 +47856,7 @@ hzlirand.cfd
 hzlirandevlarr.com
 hzlirhblr.cfd
 hzlirnad.cfd
+hzlirnd.cfd
 hzlirndal.cfd
 hzlirndal.com
 hzlirndvlr.cfd
@@ -55898,6 +55904,7 @@ kiralikmiarabamhemen.com.tr
 kiralikmiarabanhemen.com.tr
 kiralikmiaracim.com.tr
 kiralikmiaracimhemen.com.tr
+kiralikotoavs.com
 kiralikotomax.online
 kirallaraffetmiyor.net
 kirameso-hulavite.lol
@@ -57417,6 +57424,7 @@ kurgizgcsdokamen.net
 kurgu-haber.club
 kurguhaber.club
 kurhotelskodsborg.world
+kuripestay.net
 kurortyguide.com
 kurtarman.cfd
 kurtilast.top
@@ -65885,6 +65893,7 @@ nakdiyardim.com
 nakedaffirmative.top
 nakedcathedral.top
 nakil-web.ink
+nakilotokiralama.com
 nakit-hiza.online
 nakit-isigi.online
 nakit-kristali.online
@@ -67685,6 +67694,7 @@ novabriefly.com
 novacheck.tech
 novadda.click
 novafilom.com
+novafilorental.com
 novafinans.digital
 novahorizon.world
 novakurumsal.online
@@ -79464,6 +79474,7 @@ requirmentn.top
 rerrasnahfd.blogspot.com
 resalerugby.com
 resalerugby2023.com
+rescarkurumsalkiralama.com
 rescindment.com
 resconfirm-id528249.com
 rescueavail.top
@@ -102164,6 +102175,7 @@ vps67595.dreamhostps.com
 vqrban.tokyo
 vqwrf.cn
 vrandvula647.click
+vraxxelyndorqaveth.sbs
 vrbtek.top
 vrdagrytglu.duckdns.org
 vrelastonid.digital
