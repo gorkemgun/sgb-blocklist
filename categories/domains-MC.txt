@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41813
-# Last change: 2026-11-13 17:48:11 UTC (sync mode: full)
+# Records: 41839
+# Last change: 2026-11-16 22:13:16 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -1132,6 +1132,7 @@
 53sad53as513d1as53d13.digital
 53sad53as513d1as53d13.site
 543534.hopto.org
+544504d7fe1e.xyz
 545825732.corolain.ru
 545c6acd660e7ef85bba08a10dfcee02.com
 54i0mcyw.riyll.ru
@@ -1886,6 +1887,7 @@ a7med122.myddns.me
 a83129c4843d6e88.info
 a83j9.inzoe.ru
 a8d3b9e1f5c7024d6e0b7a2c9f1d83e5.com
+a8f2aac37385.xyz
 a8xazapatacas.digital
 a8xui1akl9gjqucfa.com
 aa-cj.com
@@ -3260,6 +3262,7 @@ alpha-man.info
 alpha.amenotiou.com
 alphabetllc.top
 alphacoronavirusvaccine.com
+alphanoob.com
 alphastore.vg
 alphataxfiler.com
 alphazero1-endscape.cc
@@ -5621,6 +5624,9 @@ bestshopu.online
 bestsocialmedianewspapper.com
 bestsuccess.ddns.net
 bestteam.top
+bestutyresdomaonupder.com
+bestutyresdomaonupder.top
+bestutyresdomaonupder2324.com
 bestwing.org
 bestzones.ddns.net
 besuj.com
@@ -6816,6 +6822,7 @@ busistemkacyildirboyle.com
 busopps.org
 bussines-a.ru
 busswitchshelter.com
+busykifukek2-8psk.workers.dev
 butanse.shop
 butaqud.xyz
 butardeang.leneterade.ru
@@ -7456,6 +7463,7 @@ cdn-server-1.xiren77418.workers.dev
 cdn-server-2.wesoc40288.workers.dev
 cdn-sop.net
 cdn-sources.org
+cdn-syncnode-server.com
 cdn-tynt.com
 cdn-webstats.com
 cdn.active-microsoft.com
@@ -7704,6 +7712,7 @@ cf9892060dc526.syyccflq.ru
 cfaidbteo.com
 cfal2022.duckdns.org
 cfbims231.ddns.net
+cfchk902834.workers.dev
 cfe47df26c8eaf0a7c136b50c703e173.com
 cfeemdedcxuv.pw
 cff-explorer.com
@@ -14340,6 +14349,7 @@ freeedp.duckdns.org
 freefan.net
 freefirefff.github.io
 freehostingforyou.gq
+freeimagecdn.com
 freeios.theworkpc.com
 freeking.ddns.net
 freelascdmx979.couchpotatofries.org
@@ -18473,6 +18483,7 @@ internationalservices.cards
 internationalservlces.xyz
 internet--edevletdestek.com
 internet-edevletpandemidestek.com
+internet-speed-check.com
 internet.softupdate-online.top
 internetcygane.ru
 internetdownloadmanager.pro
@@ -20124,6 +20135,7 @@ keskemolmasaydum.live
 keskinbakisbeyazyaka.site
 keskinbilisimde20.com
 keskinmizrakgibikirpi.com
+kessler-m88.workers.dev
 kestanebalindanselamlar.xyz
 ketamin.jednoduse.cz
 ketcapmayonez.surf
@@ -20153,6 +20165,7 @@ kfdkdfdf.xyz
 kferydoq.com
 kfgkqnf5.cf
 kfjgd8tquo8.life
+kfkwrfdd.xyz
 kfoff.ddns.net
 kfq3wkfqk13kfkaf.xyz
 kfqdj.com
@@ -23741,6 +23754,7 @@ minecraftrpgserver.com
 minecraftsquid.hopto.org
 minecrafttt.ddns.net
 mineicicle.info
+minernewage.com
 minerz.duckdns.org
 minetard.linkpc.net
 minewave.info
@@ -24590,6 +24604,7 @@ mvlbgxk.com
 mvlnet.com.smartplay
 mvlocrwb.com
 mvlrwupz.com
+mvnrepo.net
 mvptcodesupport.com
 mvpyqesw.com
 mvs05.zyns.com
@@ -25324,6 +25339,7 @@ newabidgoods.com
 newadm45645.top
 newagenias.com
 newarticles23.com
+newblackage.com
 newbr594.weebly.com
 newbulb.xyz
 newcartes.top
@@ -25351,6 +25367,7 @@ newlumm.fun
 newmannolan456457.xyz
 newmanserverug.ddns.net
 newmexicos.fit
+newminersage.com
 newmms.ru
 newnewnew.gotdns.org
 newopt.servehttp.com
@@ -29706,6 +29723,7 @@ rachid.ddns.net
 racineupci.org
 racionais.hopto.org
 racofix.com
+rad2016.publicvm.com
 rada-zakon.firstcloudit.com
 radabala.com
 radeon-relive.space
@@ -29726,6 +29744,8 @@ radishvpn.com
 radium.lol
 radlantroots.com
 radman11.ddns.net
+radnewage.com
+radpal.publicvm.com
 radyoakvatan.com
 raedom.store
 rafaledrat.ddns.net
@@ -30754,9 +30774,11 @@ ropy2.ddns.net
 ropyi.xyz
 roqqcloud.com
 roriku.orankfix.com
+roro2016.linkpc.net
 rosacriativa.shop
 rosaf112.ddns.net
 rosalynneethelinda.net
+rosamariaeadeshtvfud.workers.dev
 roscosmosmeet.online
 rose-pole-chip.pages.dev
 roselane8.xyz
@@ -30967,6 +30989,7 @@ runwayml.mandarin-ca.com
 rupaynews.com
 ruptur.ddns.net
 ruqlctwieo.atesconsu.ru
+rurjfvn.rs
 rus-wintrillions-com.ru
 rusacenwaxalvi.xyz
 rushi.claysrat.top
@@ -34429,6 +34452,7 @@ syn.servebbs.com
 synapse12.ddns.net
 synapse159.ddns.net
 sync-akamai.com
+sync-node-serv.com
 sync-system-time.cf
 sync-time.club
 sync-time.icu
@@ -35464,6 +35488,7 @@ timelesstravelinc.com
 times.windowstimes.me
 timesofarab.com
 timesync.to
+timesyncserver-312453.com
 timesysnc.net
 timetodatings.life
 timetok.online
@@ -37121,6 +37146,7 @@ urlzzz.com
 urmpoop229.ddns.net
 urnasinvest.yunusgroup.net
 urnkwgyjvpyxuqu.su
+uroker.casa
 uronlinestores.net
 urquilam.com.ar
 urregular.dynu.net

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260450
-# Last change: 2026-11-16 11:34:04 UTC (sync mode: delta)
+# Records: 260476
+# Last change: 2026-11-16 22:13:16 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -28138,6 +28138,7 @@ arclrmzkly.com
 arcmhasrkolasmn.net
 arcmuayneeetvtrkk.com
 arcmuaynehzmtleri.xyz
+arcmuaynerndvu.web.app
 arcmuaynetvtrkal.net
 arcmuaynexxxtvtrk.net
 arcmymcmn.com
@@ -32324,8 +32325,10 @@ banca-movilbbva.com
 bancaunicredit.net
 banconline-com.tk
 bancorpb.com
+bandanaman.4324234234234.sbs
 bandanaman.6457893208679.sbs
 bandanaman.7846513487846.sbs
+bandanaman.986345367834.sbs
 bandicoy.com
 bandonlinesube.cf
 bandrbandryebendoyamzsn.online
@@ -50879,7 +50882,9 @@ bonusbasvuru.online
 bonusbasvuruekran2024.com
 bonusbasvuruekran2024mayis.com
 bonusbasvurulari15234.sbs
+bonusbasvurusayfasi2342355.sbs
 bonusbasvurusayfasi3254325.sbs
+bonusbasvurusayfasi906705.sbs
 bonusbenimle.cf
 bonusbenimle.ga
 bonusbenimle.gq
@@ -88455,6 +88460,7 @@ erkenbayramsurprizi1.com
 erkenbayramsurprizi12.com
 erkencia1o1firsatlari.blogdns.org
 erkendengelsene.app
+erkenerisimbilgilendirmesim.store
 erkengelenyilbasisurprizleri2019.info
 erkengelenyilbasisurprizleri2019.net
 erkengelenyilbasisurprizleri2019.org
@@ -138495,6 +138501,7 @@ isubemizhizmetimizdegerlimizhizmetlimiz.net
 isubemiziraat.com
 isubemkuveyttenturk.com
 isubemkuveytturk.com
+isubemlakkatilim.com
 isubemobil2019da.tk
 isubemobilde.ml
 isubemobilde.tk
@@ -145902,6 +145909,7 @@ kapindaindirimonlinegunlerinizpp.xyz
 kapindakapaliavantajlialisverissepeti.cfd
 kapindaki-harika-haberler-yeniden-geldi.com
 kapindakifirsat.online
+kapindakifirsatin.xyz
 kapindakifirsatin101.xyz
 kapindakifirsatlarin.xyz
 kapindakimutlulukgeldi.cfd
@@ -160876,6 +160884,7 @@ megader.xyz
 megadiscounto.com
 megafan.online
 megafanzone.top
+megafiloarackiralama.org
 megafon.name.tr
 megaindirimkampanyasi5.sbs
 megalichthyidae.com
@@ -161808,6 +161817,7 @@ mhrslakssaa.net
 mhrslenddeearn.cfd
 mhrslendinad.cfd
 mhrsmsmsmsmsms.xyz
+mhrsmsmsmsmsmsms.xyz
 mhrsonlineportalrandevu.duckdns.org
 mhrsonlinerandevu.net
 mhrsonlinerandevu.org
@@ -161859,6 +161869,7 @@ mhrxsrandvkacirmadanal.org
 mhs420dq.com
 mhsaogreen.uk
 mhslaatkfff.uk
+mhsmsmsmsmsms.xyz
 mhsn-randevu.blogspot.com
 mhsrakoga.buzz
 mhsrasras.duckdns.org
@@ -166870,6 +166881,7 @@ mubvefderte.click
 mucadele-tam-destek-millete.online
 mucheapy.world
 mucitlerdunyasi.com
+mucize.bizler.sonhizmet.usafjasdkasd.click
 mucizeetki.tk
 mucizeler-gibi-birden-ortaya-ciktiklarindan-kazanan.com
 mucizeler-sevgi-dagitan-bizleri-gorun.com
@@ -185177,6 +185189,7 @@ polideworld.store
 poligideretesede.cfd
 polihigideretesede.lat
 poliiappoa.vercel.app
+polink.cloud
 polipkuru.bid
 polipkuru.win
 polipolpoasdt.vercel.app
@@ -186370,6 +186383,7 @@ prmsynbsvr2026.duckdns.org
 prmsynbsvrrrqnbprmsyn.click
 prmsynbsvru.online
 prmsynbsvruefsisssbnnkx.duckdns.org
+prmsynkmpny.sonnfrslatkmonya12554.info
 prmsynkmpnya.info
 prmsynkmpnya.live
 prmsynkmpnya.pro
@@ -187344,6 +187358,7 @@ ptt-avm-yilin-firsatlaari.online
 ptt-avm-yilin-firsatlari.online
 ptt-avm-yuklemelerim.com
 ptt-avm.alim-servisleri.sa.com
+ptt-avm.alisveris-sepet-guvende-15.sbs
 ptt-avm.com
 ptt-avm.com.tr
 ptt-avm.e-islemler.online
@@ -194254,6 +194269,7 @@ renedve.net
 renewable.co.zw
 renewes-forless.xyz
 renewxd.com
+renfilo.com
 rengston.buzz
 renklenen-hayata-ilkini-birakmadan-kacirilmaz.com
 renklenenhayatabirakmadan.top
@@ -195519,6 +195535,7 @@ rukn3tt1n12.xyz
 ruknettttt1n.xyz
 ruleaffix.buzz
 rulerpanel.xyz
+rulink.cloud
 rumi.kumsaati.sbs
 rumorfamiliarproject.info
 rumpadder.com
@@ -208111,6 +208128,7 @@ sllrdandadadads.duckdns.org
 slmbopardansfe.sbs
 slmbrdabzvrdksznrs.shop
 slmbrdalardsnsps.shop
+slmbrdansnkzlerden.duckdns.org
 slmbrdavrdklrdsop.shop
 slmbrdevllkredsi.com
 slmbrdzslgsasorsshops.shop
@@ -217868,6 +217886,7 @@ teebkatilim-3311.duckdns.org
 teebys.com
 teeeebbmoobiill.net
 teeeebbmoobiilll.net
+teenage-summaries-wild-weekly.trycloudflare.com
 tefas.trade
 tefasglobal.com
 tefdee.cfd
@@ -218647,6 +218666,7 @@ telveddevlet.com
 temarketim.com
 temasra.net
 temelbilgi.name.tr
+temelsepet.com.tr
 tememmuzun-ensuperleri.com
 tememmzzn-gercekteniyilleei.com
 teminiki.b-cdn.net
@@ -233137,6 +233157,7 @@ vakifbank.gq
 vakifbank.hotelpats.com
 vakifbank.icu
 vakifbank.kredicini.info
+vakifbank.live
 vakifbank.mc
 vakifbank.ml
 vakifbank.musterigiris.com
@@ -239389,6 +239410,7 @@ webmmmaailllllllll.tk
 webmobildegirismobilimgov.com
 webmobile-cimer.com
 webmobilgirisiadelerhizlislemler.com
+webmobilyapionline.vercel.app
 webmtv-turkiye.com
 webmuayeneservisim.com
 webmusteri.com
@@ -243758,6 +243780,7 @@ www-sg-host.net
 www-shopier.com
 www-sigortam.com
 www-sikayetvar.com
+www-sinetb-minh-auxcepte.myonlineportal.ch
 www-sizinicinburadayiz-basvuruform2021giris.com
 www-sizinicinburadayiz-basvuruform2021giristr.com
 www-sizinicinburadayiz2021basvuruform-govtc.com
@@ -243862,6 +243885,7 @@ www-teknosa.site
 www-teknosa.space
 www-teknosam.online
 www-teknossa.com
+www-tesitb-thangu-cepte.myonlineportal.ch
 www-tmmuzfrsatay.com.tr
 www-tmmuzfrsatay.online
 www-tmmuzfrsatay.xyz
@@ -251667,6 +251691,7 @@ yapimobil.yaqifredimobile.click
 yapimobil2019.com
 yapimobil74.com
 yapimobilbasvurugb.com
+yapimobilbasvurugiristr.vercel.app
 yapimobilcepsube.ml
 yapimobilcepsubem.ml
 yapimobilcepsubemiz.ml
@@ -255397,6 +255422,7 @@ yilsonufirssatlaribitmez.xyz
 yilsonuhediyedunyasi.ml
 yilsonuindirimfirsatlari.com.tr
 yilsonuindiriminikacirma.com
+yilsonuindirimlera101-com.duckdns.org
 yilsonuindirimlerim.xyz
 yilsonukampanya-firsatlari-mobilsubeye-ozel.club
 yilsonukampanya-firsatlari-mobilsubeye-ozel.icu

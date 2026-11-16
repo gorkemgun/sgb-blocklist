@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66229
-# Last change: 2026-11-13 17:48:11 UTC (sync mode: full)
+# Records: 66233
+# Last change: 2026-11-16 22:13:16 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -25436,6 +25436,7 @@ fylvwtlgyzq.info
 fyn001.ddns.net
 fyosxsi.info
 fyoutside.com
+fypahedupal2-0maz.workers.dev
 fypfbanking-adminstorrepodt.duckdns.org
 fyqlrcotolxsrnnav.org
 fyrtypoolosdutyr1.website
@@ -37144,6 +37145,7 @@ makawhy.hopto.org
 makedbosand.com
 makeitshort.xyz
 makemegood24.com
+makeneg458.workers.dev
 makicakes.com
 makosolution.com
 makron.bit
@@ -37975,6 +37977,7 @@ messironaldo.duckdns.org
 messkennedycaptain.com
 mestrecdt.hopto.org
 mesuco.com
+mesuttgulerr573.workers.dev
 met2ndsiu8k.icu
 meta-acncentr7362am.duckdns.org
 meta-alrts-prtcted.duckdns.org
@@ -62029,6 +62032,7 @@ woojeoung.com
 woojorvsbmxnkiiwp.pw
 woolhat.top
 woolner4u.ddns.net
+wooocommerce.shopping
 wooorm.zapto.org
 woopresscdn.com
 woosungelec.com
