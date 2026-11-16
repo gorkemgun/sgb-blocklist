@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 109908
-# Last change: 2026-11-15 22:54:28 UTC (sync mode: full)
+# Records: 109930
+# Last change: 2026-11-16 11:34:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2700,6 +2700,7 @@
 6060606000001.cloud
 60g.api18.shop
 61250-coinbase.com
+612a.duckdns.org
 61322122214545578899897.duckdns.org
 61355xf6771d2.duckdns.org
 616121.xyz
@@ -7132,6 +7133,7 @@ alisveris-extra-mobil.online
 alisveris-firsatlar.com
 alisveris-get-pay.com
 alisveris-getp.com.tr
+alisveris-guvende-10.sbs
 alisveris-guvenli-pay.com
 alisveris-guvenli-sepet.com.tr
 alisveris-hizmet.com.tr
@@ -10092,6 +10094,7 @@ assetbusiness.top
 assetgrove.shop
 assetordeal.top
 assetprosecution.top
+assetqcnetflixstudios.com
 assets-bn11-travel.com
 assets.diogoflix.com
 assetvra.com
@@ -15682,6 +15685,7 @@ blsjckng.click
 blsmscxltmceltl.net
 blstknrmva.xyz
 blsvisa.com.tr
+blsvisa.org
 bluconsituent.top
 blue-empire-hotel.com
 blue-harbor.ink
@@ -18346,6 +18350,7 @@ c-101.com.tr
 c-8796086020260726-019d4d23-f9e1-7d22-bcd6-535b8233ac63.codepen.dev
 c-bva-grn-in.my-homeip.com
 c-e-p-t-e-t-e-b-ayricalikli-firsatlar.my-homeip.de
+c-gatepremiums.com
 c-hotelsandromeda.world
 c-hotelszeegalm.world
 c-paribu.com
@@ -18797,6 +18802,7 @@ capitalistcelebrity.top
 capitallgrowers.com
 capitalnavigator.site
 capitalnuvo.com
+capitalone-googlepllry-legalzoom.com.ph
 capitalpyramid.top
 capitalscircuit.tours
 capitalspace.space
@@ -37888,6 +37894,7 @@ frsathediyemcampanyday.net
 frsatimxkapindaldinn.online
 frsatlar101.xyz
 frsatlarikacirmaynl.duckdns.org
+frsatlarkmpnyabsv4123.info
 frsatlarnizayaginiza.xyz
 frsattt-site.s3.eu-north-1.amazonaws.com
 frscrfrsnline.cfd
@@ -39629,6 +39636,7 @@ get-tr-ilan.com
 get-urun-al.fun
 get-urun.com.tr
 get-your-money.chadidding.top
+get.islemsepetleri-45.sbs
 get.prm-sahibinden-guvende.salisveris.com
 get.urunsahibinden.com
 get2xcrypt.com
@@ -40838,6 +40846,7 @@ gorillagluekampanyakatiliminizitamamlayin.cloud
 gorillapredominate.top
 goriqydi.com
 gorkypark-ticket.ru
+gorllhvleeglyronyyvr.buzz
 gorselhaber.club
 gorselhaber.site
 gorselhaber.website
@@ -41264,6 +41273,7 @@ gratis.servehumour.com
 gratis.simplysweetcakesoc.com
 gratis.sinoyear.com
 gratis.sophiemaslowski.com
+gratis.stevenhickson.com
 gratis.tabacoschile.com
 gratis.teknodeno.com.tr
 gratis.terminuscs.com
@@ -48869,6 +48879,7 @@ ilan-islemi.online
 ilan-kurumsal.com.tr
 ilan-m.com.co
 ilan-magaza.com
+ilan-mobilder.com
 ilan-no-1082102662-sahibinden.com
 ilan-no-1082181081-sahibinden.com
 ilan-no-1082182074-sahibinden.com
@@ -52337,6 +52348,7 @@ isubekuveytturk.online-hesap.com
 isubekuveytturk.online-para.com
 isubekuveytturkcomtr.co.vu
 isubem-kuveytturkonlinehizmetlerimm.chickenkiller.com
+isubemlakbank.com
 isubeodeamenkul.com
 isubetrafikborcuodeme.com
 isubeturkishmenkulweb.com
@@ -69019,6 +69031,7 @@ odeme-ilanim-48775.com
 odeme-ilanim-48776.com
 odeme-istemcisi.com
 odeme-onay-1281.com
+odeme-onay-1292.com
 odeme-paranguvende.net
 odeme-sahibinden.com
 odeme-sanal-101basvuru.com
@@ -70872,6 +70885,7 @@ osmankalaycinea.giize.com
 osmankinaliye.giize.com
 osmanli.cv
 osmanlicuzndldoman.com
+osmanliglobal.com
 osmanlikatilim.com
 osmanlikkbaytar.space
 osmanlimenkul.in
@@ -76288,6 +76302,7 @@ ptt-ink.cc
 ptt-k.top
 ptt-kargo.takipetmehizmetler.online
 ptt-kargotakip-sorgula.online
+ptt-kargotakip.space
 ptt-kariyerr.com
 ptt-km-sorgula-ma.firebaseapp.com
 ptt-km-sorgula-ma.web.app
@@ -81338,6 +81353,7 @@ saglikliyelp.com
 saglikliyizlanbizzatengot.duckdns.org
 saglikll.mooo.com
 saglikolslunskajdk.hopto.org
+saglikrandevum.lol
 sagliksiz.app
 sagliktr4.com
 sagliktr5.com
@@ -82334,8 +82350,10 @@ sahibinden63.com
 sahibinden7-24paramguvende-com.tk
 sahibindenalisveris.trguvenliodeme.sa.com
 sahibindenalisverisplatformu-paramguvendebusiness.com
+sahibindenarap.com
 sahibindencom.ileservishizmetleri.com
 sahibindenden.com
+sahibindendestekkasko.com
 sahibindendogrulama.com
 sahibindeneguven.xyz
 sahibindenekstra.com
@@ -86969,6 +86987,7 @@ sndordnhmnrvdal.click
 sndyaralnyesil.click
 sneakstatutory.top
 snfirslatarkmpya12543.info
+snfirslatarkmpya12543.pro
 snguvende.online
 snhd1gejlx0sqzg1beqszers.com
 snibuc.top
@@ -92463,6 +92482,7 @@ teamretrieve.top
 teams-cloud.live
 teams-install.top
 teams.coinbase-com.info
+teams.livemeet.us
 teamstronger.icu
 teamviewclouds.com
 teaopaque.top
@@ -99685,6 +99705,7 @@ uttervaccinate.top
 uttspetrolofisi.com
 utwjyi.top
 uu-whatsapp.com
+uu01webzoom.us
 uuauq.cn
 uucuzluklarburadabitemz.xyz
 uuieywueuriw.appspot.com
@@ -108159,6 +108180,7 @@ yeniyilaidatlariucret.tk
 yeniyilaktuelkmpanyalari.online
 yeniyilaozeeliadeefirsatii.com
 yeniyilaozeliad-efirsatii.com
+yeniyilaozelkampanya.snfirslatarkmpya12543.pro
 yeniyilaozellaidtiadefrsati.org
 yeniyilaozelyilbasifirsatlari.online
 yeniyilaozlaidtiadehediyesi.net
