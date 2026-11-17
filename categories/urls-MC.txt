@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Full URL - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=url&desc=MC
-# Records: 2054
-# Last change: 2026-07-29 17:01:53 UTC (sync mode: delta)
+# Records: 2055
+# Last change: 2026-11-17 22:56:34 UTC (sync mode: delta)
 0092store.pk/wp-admin/includes/wp-config-ini.php
 028xmz.com/include/common.php
 104.248.35.11/bins/
@@ -54,6 +54,7 @@
 3rosebanquet.com/wp-config-ini.php
 420-budshop.com/fonts/db_template.php
 420-budshop.com/fonts/wp-config-ini.php
+45.207.195.148:9099/
 45.95.168.161/Tadaa.sh
 46.101.176.74/bins/
 46.101.97.72/bins/

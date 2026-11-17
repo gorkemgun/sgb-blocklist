@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110258
-# Last change: 2026-11-17 14:32:53 UTC (sync mode: delta)
+# Records: 110317
+# Last change: 2026-11-17 22:56:34 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -104,6 +104,7 @@
 08dc34a0-e.b-cdn.net
 099altiayertmysozl.store
 0a0rl.link
+0a1rl.link
 0a572599-0.b-cdn.net
 0bilet.blogspot.com
 0bq0cid.cn
@@ -714,6 +715,7 @@
 1229627566.info
 123.tradecourse.net
 1230001.site
+12301203124.click
 12312321455.net
 123134353.click
 1231516frrrssrstlarrkmpnyaasbsvrr.online
@@ -2406,6 +2408,7 @@
 48512365482451615.duckdns.org
 48756.site
 488564648789.com
+48921492132.sbs
 48941536532132.sbs
 48953.store
 48a3-3-122-51-240.ngrok-free.app
@@ -3267,6 +3270,7 @@
 91782-coinbase.com
 91835-coinbase.com
 91845-coinbase.com
+9191039293.click
 919191919191.duckdns.org
 91923-coinbase.com
 919320022002.click
@@ -7813,10 +7817,13 @@ amusingdespatch.top
 amuyon.com
 amybrenneman.site
 amz.emplojo.com
+amzapplicationra.com
 amzbigsale.store
 amzeg.help
+amzncrew.com
 amznkmps.loseyourip.com
 amzonee.com
+amzssapplication.com
 an83746281.com
 an91748191.com
 ana-sayfa-web.biz
@@ -8558,6 +8565,7 @@ application-document.com
 application.colibriathenas.com.br
 applicationaffixation.top
 applications-went-add-bias.trycloudflare.com
+applicationsamz.com
 applicationsanitation.top
 applied-8a3f62-a8bc2a055f-2fdbc4f742b7b.webflow.io
 applinecore.digital
@@ -8567,6 +8575,7 @@ applx-xlxi-admin-management-xls-mails.me
 apply-next.tempurl.host
 apply-now-online-digital.com
 apply-subscrption-free-verified-badge.vercel.app
+applyamazonsp.com
 applypesticide.top
 applystray.top
 applysubtlety.top
@@ -13426,6 +13435,7 @@ beklenenkampanyasizlerle.cloud
 beklenensezongeldisizlerle.com
 bekleyenvarislar.com
 bekleyerasdmwe.net
+bekleyiniz112233.blogspot.com
 bekleyiniz34455656.blogspot.com
 bekofirsatmagazasi.xyz
 bekosepeti.com
@@ -17306,6 +17316,7 @@ bsvrmkggl.site
 bsvrmkggm.site
 bsvrmkggn.site
 bsvrmkggr.site
+bsvrprmsyn4353.online
 bsvrrfrstlarrmerkziiprmsynn.art
 bsvrrkmpaanyy.click
 bsvrrkmpnsnnfrstlarr150432.pro
@@ -19894,6 +19905,7 @@ cepteteb-internet.my-homeip.de
 cepteteb-pro.my-homeip.de
 cepteteb-sube.my-homeip.de
 cepteteb-tr-3yil-ozel.com
+cepteteb-tr.my-homeip.de
 ceptetebden.my-homeip.de
 ceptetebdeniz.my-homeip.de
 ceptetebeva.my-homeip.de
@@ -24111,6 +24123,7 @@ controlfoul.top
 controlgatestorage.com
 controlgorilla.top
 controllegitimate.top
+controlling-endorsed-arrive-army.trycloudflare.com
 controlsolitary.top
 controlsstoragedirect.com
 controlstoragesolutions.com
@@ -25677,6 +25690,7 @@ dad6-46-1-155-122.ngrok-free.app
 dadapatasire.site
 dadapydu.com
 dadavergshzlisie.net
+dadcweadf.giize.com
 daddyantenna.top
 daderect.top
 dadjaneelse.live
@@ -26055,6 +26069,7 @@ dbsnbaa-absjka-amsma.icu
 dbspayj.top
 dbspaylag.top
 dbtorimprison.top
+dcasdcv2.giize.com
 dccrdrs.com
 dceasoer.top
 dciditgy.com
@@ -26574,6 +26589,7 @@ den-izbank.cf
 denbz-szdenz.online
 dendenwsaw.duckdns.org
 deneme-is.replit.app
+deneme.icu
 deneme12124325363.duckdns.org
 denemea1001111.duckdns.org
 denemeajasdhasd.ml
@@ -27032,6 +27048,7 @@ denkzbankmobilaktvsyon07.tk
 denlz.website
 denlz.xyz
 denlzbanikcom.tk
+denmarkh.shop
 denmesk442.sbs
 denmktve.net
 dennisbanks.com
@@ -29869,6 +29886,7 @@ ducks.ajolotec.com
 ducksngdcccc.com
 dudicyqehama.top
 dueail.top
+dueciante.com.tr
 dugeme.com
 dugl33yicon.top
 dugundenrandevual.com
@@ -30806,6 +30824,7 @@ easilycanyon.top
 easilyglider.top
 easlyhorts.top
 easterembodiment.top
+eastggsdbda.giize.com
 eastlink.cc
 eastpeak.tech
 eastpulse.org
@@ -31457,6 +31476,7 @@ efendyluxurybungalow.com
 efeniveatoomos.top
 eferoad.com
 efescim.cc.cd
+efesfilorentals.com
 efesgrtbq.ice.fo
 efesoskr.bot.cd
 efesotomotiv.com
@@ -32220,6 +32240,7 @@ eloquentobscurity.top
 eloquentsnobbish.top
 eloquentstationery.top
 eloquentsubsistence.top
+eloqyra.com
 elpetronline.xyz
 elpyatirim.com
 elriaplay.com
@@ -33452,6 +33473,7 @@ es-tickets.ru
 es.hgsyuklemeyerii.net
 esadavvtt-dvtt.com
 esafeta.pics
+esaotkncefiles.giize.com
 esashaber.club
 esasmenkuldegerler.com
 esasportfoy.net
@@ -39413,6 +39435,7 @@ geliryardimbursu-ortaekonomi.ga
 gelisimbasligi.com
 gelisimemlak.com
 gelisimhedefi.com
+gelisimkoprusu.com
 gelisimrehberligi.com
 gelisimyolculuk.com
 gelistirilmisarayuz.abrdns.com
@@ -40244,6 +40267,7 @@ girisim-mhrs-randevum.vercel.app
 girisim.site
 girisimcigenclikburs.net
 girisimcigenclikvakfi.org
+girisimdb.com
 girisiniyap.de
 girisintr-onlinebntrnnnrc.com
 girisiskem.vercel.app
@@ -43570,6 +43594,7 @@ halkinmagazasiburada.online
 halkinsesi.icu
 halkinsigortacisi.xyz
 halkinsigortasi.com
+halkkoaperatifmarket.firstclasstaste.app
 halklaiciceyiz.sbs
 halklarinbirlikteligi.sbs
 halklarinbirlikteligi1.sbs
@@ -45904,6 +45929,7 @@ hillycredible.top
 hilmiburhilmicgel.net
 hilogere-sederese.lol
 hilsamauk.giize.com
+hilsassmauk.giize.com
 hilti.freeshoptur.com
 hiltonlusubesi.xyz
 hilulsgfhclubtr.sbs
@@ -45938,6 +45964,8 @@ hirecaraccidentlawyer.com
 hireoutfit.top
 hiretired.top
 hiring-louisvuitton.com
+hiringamazonsp.com
+hiringamzss.com
 hirmancipaion.top
 hiro-wallet-eng.webflow.io
 hirrimebuka.sbs
@@ -50459,6 +50487,7 @@ infofucktory.it
 infogatestorage.com
 infogotr.info
 infograph.top
+infogyo.com
 infohaber.club
 infohaber.online
 infohaber.site
@@ -53679,6 +53708,8 @@ jobnovax.com
 jobs-adobe.com
 jobs-delta.com
 jobs-fifa.com
+jobsamazonsp.com
+jobsamzss.com
 jobsatnetflix.com
 jobscholar.com
 jobscouthq.com
@@ -53699,6 +53730,7 @@ join-facetime.com-ae.net
 join-google-meet.com
 join-travel.online
 joinabrupt.top
+joinamazonsp.com
 joinanimoca.xyz
 joinaxelar.xyz
 joinaztec.xyz
@@ -54252,6 +54284,7 @@ kahbe.store
 kahbe.world
 kahramanindiirmler.com.tr
 kahramankrtbayi.net
+kahramanlar.sonsuz.sayilmaz.oworpqwpsad.click
 kahvaltisefasi.buzz
 kahveciguvercin.myshopify.com
 kahvecilerden.shop
@@ -56373,6 +56406,7 @@ kltkasadwq.blogspot.com
 kludarevop.gifts
 klv1kl3k1c31x231x123x12.xyz
 klxkdsmdjxjx.net
+klydroza.com
 klyndex.website
 klynrifz.com
 klypto.info
@@ -57039,6 +57073,7 @@ kooperatifmarketson.blogspot.com
 kooperatifonline.vercel.app
 kooperatiftenhalka.sbs
 kooperatifweb.sbs
+kooperttarimd.dnsdojo.com
 kooponline.vercel.app
 koparmatifmarket.blogdns.com
 kopasertgois.info
@@ -57139,6 +57174,7 @@ kozel.online
 kozlrmszbrdpylsyrz.xyz
 kozmiksessizlik.com
 kozmikyolculuk.space
+kpermatifmarkt.blogdns.com
 kpgzdr.homes
 kphey.com
 kphlhf.thousandtiremean.top
@@ -57397,6 +57433,7 @@ kredl.xn--alegenc-gza.com
 kredlnhazlrkredldepartmanl.net
 kredlnhazlrkredldepartmanlm.net
 kredst-pay.cfd
+kredts-mpay.online
 kreikenlogin.webflow.io
 kreiptocomlogin.webflow.io
 krekaneilogin.webflow.io
@@ -61187,6 +61224,7 @@ malidava.org
 malidosya.net
 malidosya.org
 maliegm.org
+malifatiko.xyz
 malignantsymposium.top
 malignantvicinity.top
 malihukuk.org
@@ -64603,6 +64641,7 @@ mobilsite-tr-shbndn.com
 mobilsokkamp.site
 mobilsondbasvurugiris.ml
 mobilsube-acikdenizdehediyelerkampanya.com
+mobilsube.teb.com.se
 mobilsubelerimden.com
 mobilsubelerimizden.com
 mobilsubem.myonlineportal.de
@@ -67720,6 +67759,7 @@ nomadgenix.com
 nomadicsands.com
 nomadiqzone.com
 nomadunify.com
+nomalix.com
 nomarion.com
 nomeequiver.top
 nomenpro.com
@@ -68045,6 +68085,7 @@ np-hotelss.com
 np0per1kj.storage.googleapis.com
 npayfix.com
 npc-girl.jp
+npdiapply.com
 npevjm.top
 npgbjc.top
 npmjs.help
@@ -70213,6 +70254,7 @@ onlinealisverisinizeozel.com.tr
 onlinealisverisler.com.tr
 onlinealisverislerim.com.tr
 onlineapp.ooraikaoo.info
+onlineapplicationamz.com
 onlinearacservisim.com
 onlinearalikkapindarenew.online
 onlinebakiyehgs.com
@@ -70656,6 +70698,7 @@ ooue.1trbakar.com
 oozo.1trbakar.com
 op-btcmine-personalarea.site
 op-onlinehizli.site
+opaektne23.giize.com
 opalescentbay.com
 opalglowqpon.qpon
 opalsteamgrove.site
@@ -75745,6 +75788,7 @@ prmsyngrntbrd.com.tr
 prmsynllrllrfrst.click
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
+prmsynnkmpny143.online
 prmsynnkmpnyaabsv2569858477.online
 prmsynnkmpnyabsvr123913.online
 prmsynnkmpnyabsvrrrsnfrstlarr.info
@@ -78156,6 +78200,7 @@ radanex.com.tr
 radanex.xyz
 radanexpanel.xyz
 radarpanic.top
+radarpublico.live
 radarscrap.top
 radianta.live
 radiantdish.top
@@ -79198,12 +79243,14 @@ reelrentoto.online
 reelsinirsizkm.online
 reemalest.com
 refa.thetupaus.com
+refdyb.com
 refec7.com
 refer.health
 referansdegerlendirme.com
 referansdunyamportfoy.com
 referansgirisi.com
 referansicbc.com
+referansinfoyatirim.com
 referansmenkuldeger.com
 referansportal.online
 refereedegradation.top
@@ -80743,6 +80790,7 @@ roomstripcheck.sbs
 roon-inform16323.com
 rootberke.pro
 rootberke.xyz
+rootechglobal.com
 rootgatestorage.com
 rootgatewayshome.com
 rootgatewaystorage.com
@@ -85240,6 +85288,7 @@ sgkprmborcsorgulahzmeti.net
 sgksorgulama.us
 sgktesviksorgulama.info
 sglik-rhber.cfd
+sglkagelzmni.cfd
 sglklamhrrndvu.cfd
 sglklignleredgru.cfd
 sglklignlredgru.cfd
@@ -87566,6 +87615,7 @@ sokmarketlerin.com
 sokmarketlervveb.com
 sokmarketlim.online
 sokmarketramazanmenusu.cfd
+sokmarktil.com
 sokmarletin.com
 sokmarlktin.com
 sokramazan.cfd
@@ -92326,6 +92376,7 @@ taskveria.gifts
 taskweek.top
 taslirf.click
 taspbuislmler.pro
+taspectra.com
 tastan.av.tr
 tastedoctrine.top
 taststasdaadss.com
@@ -93712,6 +93763,7 @@ tentens.duckdns.org
 tenteronsa.duckdns.org
 tentinborn.top
 tentnumb.top
+tentrazo.com
 tenttug.top
 tenurenutrient.top
 tenureoffspring.top
@@ -94663,6 +94715,7 @@ tknosa-clubum.com
 tknsa-club.com.tr
 tkoiasngfsafs.cfd
 tkokshop.com
+tkoop.com.tr
 tkoop.hizlifirsatim.com
 tkoopjet.sbs
 tkoopmarket.app
@@ -99899,6 +99952,7 @@ usftaf.net
 ushackagea.ru
 uship.mptprime.com
 usinagesuperieur.enervscler.com
+usjshak.com
 uskudardahaber.website
 usmagf.cyou
 usmatnkhbe.duckdns.org
@@ -103779,6 +103833,7 @@ webmerkezisbilgi.com
 webmetiq.com
 webmiiisods.mfs.gg
 webmobilsube-denizbank.tk
+webmobilyap.vercel.app
 webmuayenehizli.com
 webnear-wallett.com
 webneariwailet.com
@@ -104906,6 +104961,7 @@ worexproject.shop
 worexshop.duckdns.org
 work-meta.app
 work.gd
+workatamazonsp.com
 workbibliography.top
 workchartmetric.com
 workday-hubspot.com
@@ -106089,6 +106145,7 @@ www-krtbde-cepte-ayrica.myonlineportal.ch
 www-kuveytonline.com
 www-kuveyturk.tk
 www-lo.com
+www-maptb-cepteyiz-ayrica.myonlineportal.ch
 www-mercedes-benz.com.tr
 www-mercedes-benz.online
 www-merkezbankasi-aidat-iadeleri-gov.gq
@@ -108660,6 +108717,7 @@ yilbasidatgotr.tk
 yilbasifirsatlari101.rf.gd
 yilbasifirstlarionlineozel.ct.ws
 yilbasigirisacikdenizsosyal.com
+yilbasikampnyasi.bsvrprmsyn4353.online
 yilbasikapinakadarkampanyalar.com.tr
 yilbasikapinakadarkampanyalar.online
 yilbasikatilim-kampanyasifirsatindasimdi.tech
@@ -108848,6 +108906,7 @@ ykygobaku.online
 yl04gtl.cn
 ylalaocgr.lol
 ylalaocgrdas.lol
+ylalaocgrz.lol
 ylalaocgrza.lol
 ylaocgrdasla.lol
 ylaocgrdaslar.lol
