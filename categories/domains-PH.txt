@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110201
-# Last change: 2026-11-16 22:13:16 UTC (sync mode: delta)
+# Records: 110213
+# Last change: 2026-11-17 04:34:31 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -19772,6 +19772,7 @@ centreideological.cn
 centremoan.top
 centreviable.top
 centromedicoramoncarrillo.com
+centrorbolltingo9165.duckdns.org
 centrorboltingo9865.duckdns.org
 centuryboy.top
 centuryculmination.top
@@ -29591,6 +29592,7 @@ drawcenter.co
 drawerpanorama.top
 drawingsubsidy.top
 drawmi.icu
+drawn-sacrifice-asking-microphone.trycloudflare.com
 drawngaze.top
 drawnhello.top
 drawtribune.top
@@ -32232,6 +32234,7 @@ elvirohubs.store
 elvirolabs.site
 elvkrlkrfmdm.net
 elvmakdjsjdjsj.net
+elvoranix.com
 elvorilla.sbs
 elwanda26230.softr.app
 elxcchavxooiddmxanmandda.click
@@ -38608,6 +38611,7 @@ garantigelecekfonu.cloud
 garantigiris.org
 garantigirisim.net
 garantigiriskredibasvurularibasladi.online
+garantigucnakit.cloud
 garantihaziranbonusu.ml
 garantihazirandaguzel.ml
 garantihizlifinans.cloud
@@ -38641,15 +38645,18 @@ garantimfrstlariyeniyilda.com
 garantimigiristr.com
 garantimobilbankacilik.b-cdn.net
 garantimobilfinansman.cloud
+garantimobilkasa.cloud
 garantimobvl.com
 garantimonline.com.tr
 garantin.link
 garantin.my-homeip.com
+garantinakitdijital.cloud
 garantiodemem.net
 garantione.site
 garantiotokiralama.com
 garantiotomatikfinans.cloud
 garantiparamerkezi.cloud
+garantiparasihirbazi.cloud
 garantipromoyon140720.yonlendirfacebook.lat
 garantiramazanbonus.line.pm
 garantisanalkasa.cloud
@@ -48410,6 +48417,7 @@ icryo.uouso.net
 icrypex.boats
 icshop.io
 ictstartech.com
+icumyry.online
 icwbew.top
 icykw.com
 icypreside.top
@@ -50429,6 +50437,7 @@ infocryptodata.com
 infocryptogate.com
 infocryptoweb.com
 infodestek.blog
+infodexor.com
 infodocitsolution.com
 infofinansmenkul.online
 infofinansmenkultr.com
@@ -99969,6 +99978,7 @@ uuuuuqqqq.top
 uvehoh.top
 uvensenvsy.net
 uveriastellion.my
+uvetozi.com
 uvey.org
 uvnflb.homes
 uvturk-muayne.shop
@@ -106055,6 +106065,7 @@ www-only-tb-ceptewby.myonlineportal.ch
 www-onsatis.online
 www-onsatis.xyz
 www-ontb-web-ayrica.myonlineportal.ch
+www-out-linetb-weptan.myonlineportal.ch
 www-oytb-extend-ayrica.myonlineportal.ch
 www-pandemi-aidatsorgu.org
 www-papara-tr.com
@@ -110113,6 +110124,7 @@ zunqa.shop
 zunqex.com
 zunveta.club
 zunvexo.com
+zuparity.com
 zurat.store
 zurkrone-guest5325.cfd
 zurnestavik.digital
