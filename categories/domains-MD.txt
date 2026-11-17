@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66233
-# Last change: 2026-11-16 22:13:16 UTC (sync mode: delta)
+# Records: 66240
+# Last change: 2026-11-17 14:32:53 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -1863,6 +1863,7 @@
 1xxxdarkxxx.zapto.org
 1y2on2.duckdns.org
 1y675ko.duckdns.org
+1y69gy2mdzaltz1.icu
 1y8yt0.duckdns.org
 1yc55v.duckdns.org
 1ye7lrhn.duckdns.org
@@ -4858,6 +4859,7 @@
 5vcbehm6i0ujqn7tufu.ddns.net
 5vgmtg.duckdns.org
 5vi52lz.duckdns.org
+5vobauua3ojpklx.icu
 5voegjmw2a42cb3.duckdns.org
 5voxu6d9.duckdns.org
 5vt84t1hx.duckdns.org
@@ -22218,6 +22220,7 @@ eight-collier2005.com
 eiiiihexjh.duckdns.org
 eiipfo3.duckdns.org
 eiiwt2.duckdns.org
+eil786npto9u5bq.icu
 eim.iwcstatic.kirkwood-smith.com
 einfrage.ddns.net
 eiou7tar.ddns.net
@@ -26573,6 +26576,7 @@ glzafnorlt.duckdns.org
 glzizftgiw.duckdns.org
 glzsu36.duckdns.org
 gm0jjvh4a.duckdns.org
+gm38duxoihbmy5o.icu
 gm69h8g.duckdns.org
 gm8.duckdns.org
 gmail-security-account.com
@@ -35012,6 +35016,7 @@ l71cbx4k.duckdns.org
 l7350qph.duckdns.org
 l74h106.duckdns.org
 l7au1s.duckdns.org
+l7bcsnwc7nzr3uo.icu
 l7jfrn.duckdns.org
 l7kmljqcq.duckdns.org
 l7l2hz2.duckdns.org
@@ -44043,6 +44048,7 @@ p506r2nm.duckdns.org
 p507ciybs.duckdns.org
 p52hpqar3.duckdns.org
 p548gbnmq.duckdns.org
+p55abnw2pnsz0bo.icu
 p55jighi.duckdns.org
 p5aqxhz.duckdns.org
 p5buwkwrb.duckdns.org
@@ -61079,6 +61085,7 @@ webscriptly.com
 websecured03c.ddns.net
 webserv-redir.net
 webserver-schaeuflovic.ddns.net
+webshell.lol
 website-devlettenpandemiyardimi.com
 website-sorgulama-trxmxr.blogspot.com
 websitedesign.com.mm

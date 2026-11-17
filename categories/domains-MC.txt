@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41839
-# Last change: 2026-11-16 22:13:16 UTC (sync mode: delta)
+# Records: 41854
+# Last change: 2026-11-17 14:32:53 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -349,6 +349,7 @@
 168-gov.info
 1681683130.website
 16868138130.space
+1688360.cc
 168tcwy.com
 169dv.dkabx0.com
 169mz.iinm3.com
@@ -2395,6 +2396,7 @@ ads-creep.xyz
 ads-dsas.site
 ads-eagle.top
 ads-eagle.xyz
+ads-edge.com
 ads-forget.top
 ads-goal.com
 ads-hoop.top
@@ -6724,6 +6726,7 @@ buickgmcgreenbrier.com
 buihswklblawtxp.ru
 buike.ddns.net
 buike.duckdns.org
+buildersemp.sharepoint.com
 builderwebsite.biz
 building4business.net
 buildneeds.net
@@ -8352,6 +8355,7 @@ cloudcenter.top
 cloudchat-dl.com
 clouderive.com
 cloudfiles.club
+cloudflacecdn.com
 cloudflare.bonto.run
 cloudflare.report
 cloudflareaddons.com
@@ -9320,6 +9324,7 @@ csgo-play-de.com
 csgofail.000webhostapp.com
 cshveloxce.xyz
 csiro.au
+cskautogo.sharepoint.com
 cskh.evnspa.cc
 cskh.evnspc.cc
 cskh.evnspe.cc
@@ -12061,6 +12066,7 @@ ekhu.aefrant.com
 ekiyorbiciyorvesatiyor.tk
 eklampa.com
 ekmgbwrc.com
+ekmt.tw
 eko-logistics.com
 ekochist.com
 ekolabrecycling.ddns.net
@@ -18518,6 +18524,7 @@ invest-orientation.com
 invest.zyrardow.pl
 investbooking.de
 investigation-launches-hearings-copying.trycloudflare.com
+investigationj6.com
 investigators-boxing-trademark-threatened.trycloudflare.com
 investmendvisor.net
 investmenteducationkungykmtsdy8agender.duckdns.org
@@ -18553,6 +18560,7 @@ ionoslaba.com
 iontiltyro.baroxylkin.ru
 iopfrmffsfomyxk.cn
 iorestore.com
+ios-hack.icu
 ios.vdvd2026.com
 ios26.crowdsec.site
 ios33.crowdsec.site
@@ -19090,6 +19098,7 @@ jdryumidvv.info
 jdscipgdaxvuaae.su
 jdsindonesia.id
 jdspk.com
+je4ft3gn8vxudum.icu
 jean.cardpixelparser.cc
 jeanjaques.ddns.net
 jeaw520i.space
@@ -23021,6 +23030,7 @@ matthacking.duckdns.org
 mattmax3256.xyz
 mattrevwizard-43846.portmap.host
 matvey14363.ddns.net
+maui-cocktailbar.com
 mauritasszddb.ddnsfree.com
 mautau.live
 maved2tejdt.info
@@ -29220,6 +29230,7 @@ pzuoqw.com
 pzvfc.com
 pzxyhbdlm.com
 q0.wf
+q1ls1ho9x7wsxlu.icu
 q43n4.4k01.com
 q5ncv0dekcm8a1p.biz
 q5o2uad1cem8a1p.net
@@ -35183,6 +35194,7 @@ th550.adsoft.name
 th550.softad.net
 thaer.ddns.net
 thaibit.io
+thailisting.net
 thanhnien.vietnannnet.com
 thanig.ddns.net
 thanjainatural.com
@@ -36398,6 +36410,7 @@ twnic.almostmy.com
 twnic.icu
 twnic.ink
 twnic.ltd
+twnic.top
 twnic.xin
 two-root.com
 two.nameapp.xyz
@@ -39229,6 +39242,7 @@ wkpxbved.com
 wkqtmmaugnbbgpsk.com
 wktransportservices.top
 wkuvferb.com
+wkuyda.com
 wkw6z75qs25gdnzaq19nwa.org
 wl.google-587262.com
 wlaexfpxrs.org
@@ -40663,6 +40677,7 @@ yandex-cloud.ddns.me
 yandex.hopto.org
 yandimsana.com
 yandx-online.cloud
+yangon.it.com
 yanguz.cf
 yaniyorumhalaaa.cyou
 yaniyorumvovov.com

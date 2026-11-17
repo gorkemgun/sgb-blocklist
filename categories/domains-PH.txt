@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110213
-# Last change: 2026-11-17 04:34:31 UTC (sync mode: full)
+# Records: 110258
+# Last change: 2026-11-17 14:32:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -4078,6 +4078,7 @@ a101kapida-alisveris-hizmetleri-com.online
 a101kapidan.online
 a101kapimdaonline.com
 a101kapinda.store
+a101karacumaindirimleri.sbs
 a101kariyer.com
 a101kariyer.org
 a101kariyeriiim.com
@@ -5763,6 +5764,7 @@ afterhourssac.net
 afterplausible.top
 afterpm.com
 afullcopo.life
+afuwigile.site
 afyondanvekilime.online
 aga.bulktakipci.com
 agabe.sbs
@@ -6307,6 +6309,7 @@ ajex.live
 ajssalvagedesigns.com
 ajsvpn.com
 ajudepo777.top
+ajyvetalawof.company
 ak-avansarxfrst.online
 ak-basvuru.xyz
 ak-batek.xyz
@@ -7563,6 +7566,7 @@ alvenco.shop
 alvenco.site
 alvenco.store
 alverin.mom
+alverionix.online
 alveron.blog
 alvisnonlinee-aarackiralama.com
 alvoriax.shop
@@ -9932,6 +9936,7 @@ asgardastannefretedyorum.duckdns.org
 asgartarasa.click
 asgasdgqwre.sbs
 asgd.olapnaskiyakrotasponarfalyaskarlis.net
+asgdashas.art
 asgdfsf.mulkfatnirasyokinasrob.net
 asghdasha.art
 asgshges.blogspot.com
@@ -24411,6 +24416,7 @@ cosyruthless.top
 cosystate.top
 cosywharf.top
 cotdyuar.com
+cotiellavigia.com
 cotrixauvex.ink
 cottaacement.top
 cottagestifle.top
@@ -25692,6 +25698,7 @@ dailyaddiction.top
 dailybasketport.shop
 dailybasketway.shop
 dailybeacononline.online
+dailybriefs24.com
 dailycashmap.com
 dailychoiceway.shop
 dailycontemplation.top
@@ -39054,6 +39061,7 @@ gchiefcommunicate.top
 gcjonf-rsrlv-tody.click
 gcleverbacker.shop
 gcleverbacker.top
+gcmgloball.com
 gcmmenkuldegerler.com
 gcmyatlrlm.info
 gcmyatlrlm.site
@@ -39306,6 +39314,7 @@ gelbirdeburdanyak.com
 gelbizdeal.net.tr
 gelbizdeal.org.tr
 gelbrdanjal3694.duckdns.org
+gelburuagelaldepodan2297.duckdns.org
 geldasdawcce.duckdns.org
 geldelerdensgeasw.duckdns.org
 geldesgeahhsder.duckdns.org
@@ -39827,6 +39836,7 @@ getlumex.store
 getmacforpc.com
 getmcafee.net
 getmeltoxa.store
+getmidas.org
 getmidaspro.com
 getmivora.site
 getmivora.store
@@ -40222,6 +40232,7 @@ girisduyurubncasetr.com
 girisduzenlemekampanyasiicintiklasana.monster
 girisdvltiadeexv1.biz
 girisdvltiadeexv1.club
+girisdyb.com
 girisgaranti5000.com
 girisgarantiikredibasvurulari.com
 girisgarantiikredibasvurulari.online
@@ -46682,6 +46693,7 @@ hkxiu.com
 hl-k-b-kkk-kr.space
 hl23823lh93lhhl6.webredirect.org
 hl53s54h462lee3s.ipv64.de
+hl859sh4sl5h46e3.giize.com
 hlakbca.boyacentury.cn
 hlakolanmalko.cfd
 hleknaknr.net
@@ -47797,6 +47809,7 @@ hurriyet.finance
 hurriyet.us
 hurriyet.wiki
 hurriyet24news.com
+hurriyetistanbul.vip
 hurryunderlying.top
 hurtambiguity.top
 hurtfulfragile.top
@@ -50648,6 +50661,7 @@ innerhandicraft.top
 inninauguration.top
 innocencecoral.top
 innosar.com
+innoshe.com
 innovationaesthetic.top
 innovations-week.com
 innovations24.online
@@ -52112,6 +52126,8 @@ istanbulkartonline.xyz
 istanbulkartr.xyz
 istanbulkartrandevu.xyz
 istanbulkartrandevutr.xyz
+istanbulkartson.com
+istanbulkartsonbu.com
 istanbulkartt.online
 istanbulkarttbelgimm.xyz
 istanbulkarttdolum.com.tr
@@ -54937,6 +54953,7 @@ karelebiko.net
 karelunox.cyou
 karemenkulkiymetler.com
 karens-dapper-site-ea9b50.webflow.io
+karentino.gifts
 karfina.net
 karfouryag.shop
 karfursa-firsat-indirimleri-ramazan.com.tr
@@ -56475,6 +56492,7 @@ kmnpyaabasvurprmsynn92342.info
 kmnpyaabasvurruuusonfrstlarr1348212.pro
 kmnpyaabsvrrfrsttsonnn36528.info
 kmnpyaabsvrrfrsttsonnn36528.pro
+kmnpyfrstlarrbsvr139154.online
 kmogren-durumbilgi.firebaseapp.com
 kmogren-durumbilgi.web.app
 kmogren-kmbilgilendirici.firebaseapp.com
@@ -56785,6 +56803,8 @@ kocfilo.com.tr
 kocfilo.xyz
 kocfiloo.com
 kocfilosu.com
+kocfinanceportal.online
+kocfinanslimit.online
 kocfinanssecimtestiozelsecimprogrami.click
 kochold.eu
 kocholdin.eu
@@ -56823,6 +56843,7 @@ koctoppartners.com
 koctrafiksigortam.com
 koctupras.com
 kocturkiyesigorta.com.tr
+kocyaninda.com
 kodekso.de
 koduplay.com
 koefes.cc.cd
@@ -56920,6 +56941,7 @@ kollansmithy.com
 kollaslosde.net
 kollaylsk.com
 kollvanora.com
+kolpsfkokl1.click
 kolukai.com
 koly-g.my-homeip.de
 komelerdesneler.duckdns.org
@@ -57572,6 +57594,7 @@ kuecoinlagi.webflow.io
 kueiej.top
 kuelgineeinen.webflow.io
 kuenlgien.webflow.io
+kuev.top
 kufr-lbasyudlu.net
 kug.memerax.com
 kuhada.com
@@ -57929,6 +57952,7 @@ l3-69-l02-l59.plesk.page
 l375lhel47378e52.flashhub.net
 l3hl653282lhh3l2.mytunnel.org
 l3re73sn8l5h4nhehds.udp64.de
+l454l9h6s6h3esh6.loseyourip.com
 l5ehhssejzm7lyhh.freeddns.org
 l8-l33-220-72.plesk.page
 l899cf.csb.app
@@ -61677,6 +61701,7 @@ market.persembeguzelgun.com
 market24expert.site
 market58.vendivity.com
 marketahahaha.duckdns.org
+marketai.tr
 marketaktuelsip.com
 marketalisveris21.xyz
 marketalisverisi.online
@@ -67122,6 +67147,7 @@ nexenttradr.com
 nexentyatirimweb.com
 nexflarex.com
 nexformaveld.pro
+nexifylon.com
 nexigate.digital
 nexiroka.net
 nexis.pro
@@ -67766,6 +67792,7 @@ nopanel.site
 nopanel.xyz
 nopanel2026.online
 nordin.toufanti.com
+nordline.vip
 noreplaydestekbinance.com
 noriquellc.com
 norlume.org
@@ -68243,6 +68270,7 @@ nuvfdksdk.net
 nuviors.com
 nuvmarto.tr
 nuvmercu.digital
+nuvoranews.com
 nuvoriax.site
 nuvqaro.xyz
 nuvqera.gifts
@@ -69231,6 +69259,7 @@ odeme-ilanim-48776.com
 odeme-istemcisi.com
 odeme-onay-1281.com
 odeme-onay-1292.com
+odeme-onay-1293.com
 odeme-paranguvende.net
 odeme-sahibinden.com
 odeme-sanal-101basvuru.com
@@ -71017,6 +71046,7 @@ ortakbakisnoktasi.com
 ortakbayigo.herokuapp.com
 ortakbayix.herokuapp.com
 ortakbyy.tk
+ortakdegerrotasi.com
 ortakdogrulama.org.tr
 ortakgiris.a.ile.basuvurular.net
 ortakgisehizmetleri.info
@@ -71036,6 +71066,7 @@ ortakservis.yenibayiservisi.biz
 ortaksistemler.net
 ortakverimerkezi.com
 ortakvizyonhatti.com
+ortakvizyonrotasi.com
 ortakyansima.com
 ortakyasamim.com
 ortakyasamyolu.com
@@ -71360,6 +71391,8 @@ oursascribe.top
 oursbewilderment.top
 oursivory.top
 ourzwale.com
+outagefixed.sbs
+outagerestored.sbs
 outages.sbs
 outblot.com
 outbound-via-msoft365-onmicorsotf.com
@@ -75492,6 +75525,7 @@ presidentrevengeful.top
 presido5g.workers.dev
 pressalinera.info
 pressalivano.info
+pressbeam.vu
 presscraftly.net
 pressingspine.top
 pressspectrum.com
@@ -81269,6 +81303,7 @@ s4.kredidenizim.com
 s4.search-skynetcultura.coinbase-com.info
 s45fbsg.com
 s45fbsggfgffg.com
+s4lh5h4398e6shl6.mytunnel.org
 s536hh7e95253434.opik.net
 s7edznn.xdk8ax.cn
 s7hiig1.cn
@@ -81284,6 +81319,7 @@ saagefeminine.top
 saaldo.top
 saalldinaldin.online
 saalldinaldin.xyz
+saaoniaa.opik.net
 saasrdnbmcz.net
 saathane.shop
 saatlereburadanerisin.yyuyy.com
@@ -81580,6 +81616,7 @@ saglikliyizlanbizzatengot.duckdns.org
 saglikll.mooo.com
 saglikolslunskajdk.hopto.org
 saglikrandevum.lol
+saglikrandevutr.online
 sagliksiz.app
 sagliktr4.com
 sagliktr5.com
@@ -82339,6 +82376,7 @@ sahibinden.mobilservislerim-2.sbs
 sahibinden.mobilservisleriniz-6.sbs
 sahibinden.odeme-onay-1283.com
 sahibinden.odeme-onay-1285.com
+sahibinden.odeme-onay-1293.com
 sahibinden.odeme-tamamla.com
 sahibinden.odeme-yap.com.tr
 sahibinden.odemelerin-guvenli.com.tr
@@ -94582,6 +94620,8 @@ tkg-tapsurndvnuzs.net
 tkg-tapvrdvsunuz.info
 tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
+tkg-tapvzsurandevun.com
+tkg-tapvzsurandevun.net
 tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.com.tr
 tkg-tpuransevdnuz.net
@@ -98919,6 +98959,7 @@ tzy---start.webflow.io
 tzz10b.cn
 u-sipsl.cc
 u-spostea.top
+u115688093.ct.sendgrid.net
 u19vaks.cn
 u2vb0c.cn
 u3q.us
@@ -104579,6 +104620,7 @@ willmedieval.top
 willmengconstructions.com
 willowshard.site
 willpowerappall.top
+wimbral.digital
 wimcell444bwimcell444.org
 win-coinbase.com
 win-tw.com
@@ -108060,6 +108102,7 @@ yediyilttrrbn.online
 yediyirmidortrash.online
 yedmurd.com
 yeenidengeldikk.net
+yeettrsesra.giize.com
 yegelsdwe.wtf
 yeialox.com
 yekhdm.net
@@ -108801,6 +108844,7 @@ yksosmymbasvuru.net
 yksosym.blogspot.com
 yksshzmetonline.net
 ykupon.com
+ykygobaku.online
 yl04gtl.cn
 ylalaocgr.lol
 ylalaocgrdas.lol
@@ -109646,6 +109690,7 @@ zenginlikruyasi.online
 zengncrfgunu.cfd
 zengo--wallet.webflow.io
 zenhivo.pro
+zenimar.com
 zenit-basket.ru
 zenit-ticket.com
 zenithbazaar.store

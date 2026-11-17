@@ -1,12 +1,13 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MI
-# Records: 192
-# Last change: 2026-11-11 16:15:19 UTC (sync mode: delta)
+# Records: 197
+# Last change: 2026-11-17 14:32:53 UTC (sync mode: delta)
 0x666.info
 1235saddfs.icu
 20gbhediyemiz.com
 34yeterlan.com
 44448888.ru
+8.tcp.cpolar.top
 87e0b6c636999b.lhr.life
 affordableonline.online
 aistei.com
@@ -26,6 +27,7 @@ bintail.com
 bizleruzlerkerfe.xyz
 boosterjuices.com
 boso6ka.com
+bvxv68yu.free.tryportwarp.cc
 cauterizespray.icu
 cb.fuckingmy.life
 cheapzone.space
@@ -177,6 +179,8 @@ us41web.live
 vagturk.com
 vcopp.com
 volmira.site
+wealthy2019.com.strangled.net
+wealthyme.ddns.net
 weath.ddns.net
 webstp.com
 wewannaliveinpice.com
@@ -188,6 +192,7 @@ woupp.com
 xiaofeige.icu
 xiazailianjieoss.com
 xlabslover.lol
+xoilacxe.co
 yasklehahapirtes.com
 yygp4pdh.apexharvestor.digital
 z.hxhk.cc
