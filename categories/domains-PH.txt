@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110317
-# Last change: 2026-11-17 22:56:34 UTC (sync mode: delta)
+# Records: 110325
+# Last change: 2026-11-18 04:28:41 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2280,6 +2280,7 @@
 3w1ya0.cfd
 3x2x1c34bg4xwsa2.duckdns.org
 3x3xppp3p0x02302.sbs
+3xentavexoriontechnologies.cyou
 3y4gqeafga.opik.net
 3zz844.site
 4-206-201-117.plesk.page
@@ -6363,6 +6364,7 @@ akbank-kasimcekilisi.com
 akbank-kredi-basvuru-merkezi.loseyourip.com
 akbank-kredibasvur.vercel.app
 akbank-kredim-guvenli-giris.net
+akbank-tr.info
 akbank-tr.live
 akbank-tr.pro
 akbank.co.uk
@@ -7168,6 +7170,7 @@ alisveris-kapinizda.tv.tr
 alisveris-marketplace.online
 alisveris-odeme-tr.sa.com
 alisveris-pay-secure.com.tr
+alisveris-sepet-guvende-10.sbs
 alisveris-sepet-guvende-15.sbs
 alisveris-sepet-ilan.com.tr
 alisveris-sepet.com.tr
@@ -27525,6 +27528,7 @@ deteriorateeminence.top
 deterioratelocomotive.top
 deterioratepesticide.cn
 deteriorationappraisal.top
+determine-renewal-lawn-starter.trycloudflare.com
 determinedcarve.top
 determinedmediator.top
 determinedskull.top
@@ -56828,6 +56832,7 @@ kobihibemerkezi.com
 kobikredimerkezi.com
 kobiprojeleri.com
 kobiyardimi.cfd
+koc-finans.sbs
 kocaktarimmuhendislik.com
 kocavakfi.com
 kocavs.online
@@ -67999,6 +68004,7 @@ novabazaar.store
 novabriefly.com
 novacheck.tech
 novadda.click
+novafilokurumsal.net
 novafilom.com
 novafilorental.com
 novafinans.digital
@@ -70610,6 +70616,7 @@ onlline.csgb.govct.tr
 onllineeformbasvurumobilform.net
 onllinehasarsorglama.net
 onllinekonomimobilleapptr.xyz
+onllineyapimagazarehberi.store
 onllnie-mzrkt-frstllirylayni.gb.net
 onllnie-mzrktfrstllirylayni.xyz
 onln36ks786238lk7ew.com
@@ -75785,6 +75792,7 @@ prmsnynnkmponyaaaafrslarrr.pro
 prmsooosynnngrntt.sa.com
 prmsynaskmnpasday12.kmpnyaabsvrr9321.pro
 prmsyngrntbrd.com.tr
+prmsynkmpn53.online
 prmsynllrllrfrst.click
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.info
 prmsynnbsvrrrkmmmnpyyaaasnfrlstr.pro
