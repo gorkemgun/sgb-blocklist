@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110325
-# Last change: 2026-11-18 04:28:41 UTC (sync mode: delta)
+# Records: 110363
+# Last change: 2026-11-18 14:08:59 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -539,6 +539,7 @@
 101kariyerim.com
 101klimakampanyalari.com
 101kralsfe.duckdns.org
+101ligiris.xyz
 101magazacty.com
 101marketleravantaji.com
 101marketonlineshop.vercel.app
@@ -787,10 +788,12 @@
 1247-1663251-443.ml
 1247-1663251-444.ml
 12487guest-booking.com
+1249124919.duckdns.org
 124992004888522.webredirect.org
 124992004888532.webredirect.org
 125.com
 125125121.xyz
+125125125.duckdns.org
 1253452324124.xyz
 12541544155455.duckdns.org
 125415554558998993.duckdns.org
@@ -987,6 +990,7 @@
 150giris.com
 150girs.com
 1512412412.shop
+15125125.duckdns.org
 15125guest-booking.com
 151512515asdf.duckdns.org
 1516.walkzonecold.buzz
@@ -1332,6 +1336,7 @@
 19912206.xyz
 19hrscafe.com
 1a-a1.pages.dev
+1a1rl.link
 1aaxzz123z1123xx4c123x123.shop
 1aktuel0online1.site
 1almaty-ayenderi.com
@@ -3568,6 +3573,7 @@ a-101onlinesiparis.com
 a-101onlinetiklaal.online
 a-101saligdffff.com
 a-101xaxakapinda.com
+a-10203-4.click
 a-1o1-giris-menuleri.duckdns.org
 a-1o1-hizmet-ekim-stanley-termoslari.duckdns.org
 a-1o1-market-stanley-aktif-indirimi.opik.net
@@ -3976,6 +3982,7 @@ a101.ucuzmarket.store
 a101.urunodeme.com
 a101.vergisiz-islemler.com
 a101.web.tr
+a101.website
 a101.xn--aliverisgnleri-osb.com.tr
 a101.xn--frsat-gnleri-jlb94e.com.tr
 a101.xn--haftann-urunler-dlcj.com.tr
@@ -17951,6 +17958,7 @@ bureaucratnickname.top
 bureaucratthorn.top
 bureaucratwretched.top
 bureauventilate.top
+bureklamsadecesanaozel.xyz
 buremonito.xyz
 burganbank-guncellestirme.fm
 burganbank-magaza.vg
@@ -19916,6 +19924,7 @@ ceptetebfirsati.xyz
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
+ceptetebte-tr.my-homeip.de
 ceptetep-firsat.my-homeip.de
 ceptev1interxaktiftr.site
 ceptex.online
@@ -28575,6 +28584,7 @@ disintegrateacclaim.top
 disintegratestun.top
 disintegrationturbulent.top
 disinteteweary.top
+disisleri.org
 diskmediator.top
 diskmelody.top
 diskpeople.top
@@ -30743,6 +30753,7 @@ e2lshs9wv2kk8l46h.theworkpc.com
 e2mz7.shop
 e3l34e5877l579lh.mytunnel.org
 e5308d77.ieybfs7j447b.org.cn
+e5s4h22el4hw89h5.opik.net
 e5v2e66hle4e4shs.eth64.de
 e60layanlatuvturktakilma.net
 e71cc0af.dj-hd5kfu.shop
@@ -38607,6 +38618,7 @@ garantibasvurcepte.duckdns.org
 garantibbbvvaaa.com
 garantibbca.cc
 garantibbva-giris.life
+garantibbva-kredi-firsati5.cloud
 garantibbva-kredi.abrdns.com
 garantibbva-paramguvende.com
 garantibbva.abrdns.com
@@ -39320,6 +39332,7 @@ gedikyt.com
 gedizelektrikodeme.net
 gedlim-zamaninda.com
 gedtllue.com
+geelburuagelsaldepodan2517.duckdns.org
 geffortlesslegalentity.top
 gefyz.com
 gegohoe.com
@@ -40193,6 +40206,7 @@ giris.l3-69-l02-l59.plesk.page
 giris.ozgurbeyhizmetleri.com
 giris.pap1ara.com
 giris.par-dubi.online
+giris.portal-disisleri.org
 giris.postegrolili.live
 giris.postegroweb.co
 giris.sistemsorgulama.com
@@ -45350,6 +45364,7 @@ heus.fun
 heuscheck.com.tr
 heuscheck.xyz
 heuspro.xyz
+hew58le4thhchsxs.lan64.de
 hewvex.click
 hexnoxpr.world
 hexnsenmehgxs.net
@@ -46733,6 +46748,7 @@ hlfksdms.sbs
 hlfxlglendg.net
 hlgpjv.cc
 hlgsgxsiniz.net
+hlh2e5ew48sx5h2c.ipv64.net
 hlk-frasstkmp.sbs
 hlkblgin.cfd
 hlkbn2.blogspot.com
@@ -46831,6 +46847,7 @@ hmnlrta.net
 hmnlsantans.net
 hmnlsimlntkans.net
 hmnltansana.net
+hmnltkansn.net
 hmnltknas.net
 hmnltnasna.net
 hmnmasnmasnmas2811mmnasas.site
@@ -50569,6 +50586,7 @@ infoyatirim.51-79-38-248.sslip.io
 infoyatirim.51.79.38.120.sslip.io
 infoyatirim.pro
 infoyatirim.work.gd
+infoyatirimreferans.com
 infoyatirimsube.com
 infportfolio.online
 infraoccipital.com
@@ -56584,6 +56602,7 @@ kmpnyaprmsyn12391.pro
 kmpnyapromosyonmrkzzz.art
 kmpnyapromosyonmrkzzz.info
 kmpnyasnbfrfskataa64885.pro
+kmpnyasvr3453.info
 kmpnyayeniyilxc.blogspot.com
 kmpnybrd-com-tr-525749.hostingersite.com
 kmpnybsvrrprmsyn319.pro
@@ -57858,6 +57877,7 @@ kuzeytr.com
 kuzeyvakfi.com
 kuzulabs.org
 kv67ym2ka0h72ja.online
+kvadisipsu.click
 kvartet-i-kassa.com
 kvbytrkbsvar.mrbonus.com
 kveesh6.il-363.com
@@ -58077,6 +58097,7 @@ lalalallallllll.net
 lalatlalalalnalna.net
 lalbvedsmba.net
 lalecilerv.cfd
+laleliburgaz.giize.com
 laleliseviyimsulaleni.uk
 lalelisubeeylulayiindirimleri.com.tr
 lalelisubeeylulindirimleri.online
@@ -58606,6 +58627,7 @@ leguvenli-al.com
 leguvenli-alisveris.com
 leguvenli.com
 legwhirl.top
+leh98w224e55hhsx.api64.de
 leisurelycloset.top
 leisurelypreside.top
 leisurelyrigid.top
@@ -60616,6 +60638,7 @@ ma44777.site
 ma588.com
 maantfragility.top
 maarrtta-indiirrrmmlleriina1o1de.shop
+maasavantaji.cyou
 maaspro.my-homeip.de
 maasyapi.xyz
 mabsub.com
@@ -63561,6 +63584,7 @@ mhrsoqowr.sbs
 mhrsortakgiris.co.vu
 mhrsportalvatandasgiris.duckdns.org
 mhrsportalvatandasgirisimizdiranlik.duckdns.org
+mhrsprodevu.lol
 mhrsrandevu.art
 mhrsrandevu993.duckdns.org
 mhrsrandevualonline.com
@@ -64172,6 +64196,7 @@ miunerbaba.site
 mivarahotels.com
 mivaraluxuryhotel.com
 mivaraluxuryhotels.com
+mivaro.icu
 mivccz.top
 mivoracraft.com
 mivoxel.com
@@ -64231,6 +64256,7 @@ mklotf.b-cdn.net
 mkm555.com
 mkrtkrsdk.net
 mksndnhg.short.gy
+mksoppp1l.click
 mktmelo.com
 mku-edu.com
 mkzkkartdolmnmkreze.net
@@ -66878,6 +66904,7 @@ netflixbrazilcovid.com
 netflixconsumer.com
 netflixfree.org
 netflixfreeoneyear.ml
+netflixteamaccount1999.com
 netflixthizmetileri.com.tr
 netgiris.site
 netgoall.com
@@ -74513,6 +74540,7 @@ platformtopuklu.com
 platformtrade.cloud
 platforn.com
 platforrma-turkish.website
+platincar.com
 platiniumform.xyz
 platintakipci.com
 platinumsistem.xyz
@@ -74914,6 +74942,7 @@ portal--cryptocm--auth---sso.webflow.io
 portal-app.net
 portal-cimer-iade-sorgu.org
 portal-cimer-iade-sorgu.xyz
+portal-disisleri.org
 portal-geri-ajade-zamani.com
 portal-grs-denetleme.com
 portal-guvenli-transfer-hizmet-iadesi-e-devlet2021.xyz
@@ -80194,6 +80223,7 @@ retellrehearse.top
 retelltempo.top
 retentionaggregate.top
 retentionsignify.top
+retinoa.live
 retiredadolescence.top
 retiredhemisphere.top
 retiredplayboy.com
@@ -90063,6 +90093,7 @@ strapslaughter.top
 strataisan.com
 strategicmosquito.top
 strategicoverride.top
+strategiefeim.online
 strategyelaborate.top
 strategyendeavor.top
 strategyheart.top
@@ -94682,6 +94713,9 @@ tkg-tapvrdvsunuz.net
 tkg-tapvrdvsunuz.org
 tkg-tapvzsurandevun.com
 tkg-tapvzsurandevun.net
+tkg-tapvzsurandevunz.net
+tkg-tapvzsurandevunz.online
+tkg-tapvzsurandevunz.site
 tkg-tpuransevdnuz.com
 tkg-tpuransevdnuz.com.tr
 tkg-tpuransevdnuz.net
@@ -94727,6 +94761,7 @@ tkoop.com.tr
 tkoop.hizlifirsatim.com
 tkoopjet.sbs
 tkoopmarket.app
+tkoopt.duckdns.org
 tkpedishzmtin.online
 tkphizmtnz.online
 tkpisleminzz.online
@@ -106522,6 +106557,7 @@ x39ks3su.cn
 x473ee.tw
 x4n6v1m8z9p3.cfd
 x5eahhs9hhln2hs.freeddns.org
+x5whl8ee2sh425h2.webredirect.org
 x64tmx923xcx.net
 x7c2c55.tokyo
 x7m2q9v4n8k1.cfd
@@ -106714,6 +106750,7 @@ xksmxrgulama.com.tr
 xkuxoinlogin.webflow.io
 xkvip.xyz
 xl-tuvturkrandevux.rf.gd
+xl2whhche45se28t.route64.de
 xldzrh.top
 xleonalpos.icu
 xlinmensadhas3cx3.cfd
@@ -109434,6 +109471,7 @@ yvdfvt-devt.com
 yvdrlvlt-vdet.com
 yvquvn.top
 yvzj6.shop
+ywapilsewekasd.click
 ywdtwss.icu
 yxcpanel.online
 yxcpanel.xyz

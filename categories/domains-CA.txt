@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Cyber Attack (Port Scan, Brute Force etc.) (CA)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=CA
-# Records: 183
-# Last change: 2026-11-13 17:48:11 UTC (sync mode: full)
+# Records: 184
+# Last change: 2026-11-18 14:08:59 UTC (sync mode: full)
 1-free-reward.netlify.app
 6465522534.cloud
 98aiblog.com
@@ -68,6 +68,7 @@ ebybk.com
 edevletmobilbilgiislemlergovtr.tk
 eligible-apply-for-free-badge.vercel.app
 elkendinsc.com
+email-mfa.org
 enjoy-free-blue-badge.vercel.app
 enroll-reward.netlify.app
 fabulous-kangaroo.static.domains

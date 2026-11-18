@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41854
-# Last change: 2026-11-17 14:32:53 UTC (sync mode: delta)
+# Records: 41998
+# Last change: 2026-11-18 14:08:59 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -1215,6 +1215,8 @@
 6-1321729461.cos.ap-guangzhou.myqcloud.com
 6-express.ch
 6.ddns.me
+60.chezmae.com
+60.yourhh.com
 6001dc.ddns.net
 6006.secpert.com
 6006.upupdate.cn
@@ -2329,6 +2331,7 @@ admin-desk.in
 admin.benefitsnotebook.com
 admin.catcoinglobal.top
 admin.chunhuating.best
+admin.dfxsj.com
 admin.fjbjwgyuyftg.qpon
 admin.hbwney.com
 admin.niaotong2.top
@@ -2672,6 +2675,7 @@ ageninagenigiseseges.site
 ageninsenindebaslasan.site
 ageniyesenyapiyonis.site
 agent.catcoinglobal.top
+agent.dfxsj.com
 agent.my-homeip.net
 agent4career.com
 agerax1.ddns.net
@@ -3171,6 +3175,7 @@ alison624.online
 alison7stern-56207.portmap.host
 alissatisd.xyz
 alister-mathmatics.club
+alivenow.tv
 aliyenicenidengons.site
 aliyundunupdate.xyz
 aljazeerak.online
@@ -3308,6 +3313,7 @@ alyssaandrobert2022.com
 alytb.ddns.net
 alyx.clayratnik.top
 am-land.at.ply.gg
+am2x.dfxsj.com
 ama.hostiko.com.ug
 ama.hostiko.link
 ama0899.shop
@@ -3604,6 +3610,7 @@ ankjdans.xyz
 anlatamiyorumderdimikime.xyz
 anlikderscalisma.com
 anmavelco.online
+anmoso.com
 anna-blog.info
 annejoseph643.xyz
 annemarieotey.com
@@ -3747,6 +3754,7 @@ apfexq.com
 aphidian72.xyz
 api-cdn.net
 api-cdnw5.net
+api-gohome.douwen.me
 api-hw.com
 api-microservice-us1.com
 api-profit.com
@@ -3755,6 +3763,7 @@ api-rssocks.youzicheng.net
 api-service.co
 api-web3-auth.vercel.app
 api.8fenyi.com
+api.alivenow.tv
 api.askoknook.com
 api.avonlo.com
 api.beebeatoplayer.com
@@ -3773,6 +3782,7 @@ api.codefilearc.net
 api.creativelibrary.top
 api.cyberhavenext.pro
 api.d-n-s.name
+api.dailyglad.org
 api.dc1637.xyz
 api.deltaproject.us
 api.deltastealer.xyz
@@ -3807,6 +3817,7 @@ api.metrics-trustwallet.com
 api.microsofed.com
 api.microsoft-ns1.com
 api.microsoftlab.xyz
+api.north-star.vip
 api.notely.fun
 api.oeredrt.com
 api.openedr.eu.org
@@ -3816,6 +3827,7 @@ api.phmobi.net
 api.pophnbn.com
 api.private-chatting.com
 api.qtss.cc
+api.quickkey.cc
 api.qusadqueszh.com
 api.ra-backup.com
 api.raisetgb.com
@@ -3831,6 +3843,7 @@ api.stuseamandesilt.org
 api.telephoneip.net
 api.terdpo.com
 api.textbkspird.com
+api.tgxmessenger.com
 api.todaynote.net
 api.tretorchlight.com
 api.trewreeew.com
@@ -3839,8 +3852,10 @@ api.turanantitheft.com
 api.twmoc.info
 api.ufuopo.com
 api.ulikerecoder.com
+api.umatchai.com
 api.underwatybop.com
 api.utfgop.com
+api.uubmi.com
 api.vdafqr.com
 api.voxder.at
 api.vughgnnfg.com
@@ -5406,6 +5421,7 @@ bear-ad.oss-us-west-1.aliyuncs.com
 beastgoc.com
 beastmode.top
 beatablydoxzcop.shop
+beatbloom.cc
 beatingcoronavirus.com
 beatleslover.com
 beatmob.pics
@@ -6947,6 +6963,7 @@ bzvpjilx.com
 c-tec-support.co.uk
 c.eredirected.xyz
 c.glb-ru.info
+c.iweibu.com
 c.mid.al
 c.pmexcon.world
 c.windowsk-cdn.com
@@ -7068,6 +7085,7 @@ cagrat.duckdns.org
 cahayailmukreatif.web.id
 cai543skkyym.com
 caiiaf.businesswise.biz.id
+caipiao.dev
 caissefamilylaw.com
 caixaentradas1inboxshop.site
 cajeti.com
@@ -7710,6 +7728,7 @@ ceyhanaadnan.tk
 ceyhansporkes.digital
 cezabensuspus.com
 cf-verifi.pages.dev
+cf.douwen.me
 cf83e1357eefb8bdf15428.3x1o.ru
 cf9892060dc526.syyccflq.ru
 cfaidbteo.com
@@ -7838,6 +7857,7 @@ chasemyeye.top
 chasoc.quest
 chat-gpt-5.ai
 chat-online.ml
+chat.tk-malll.shop
 chat912.ddns.net
 chataiassistant.pro
 chataigpt.pro
@@ -7851,10 +7871,12 @@ chatgptsidebar.pro
 chathamhouse.eu
 chatit.club
 chatk.goldenbirdcoin.com
+chatknow.dev
 chaton.life
 chaton.live
 chatsaigpt.com
 chatteusa.com
+chatwoot.dev
 chaucheneguer.com
 chauxincaidomainnua.icu
 chaveirourgente.com
@@ -8384,6 +8406,7 @@ cloudserverapi.com
 cloudservicesdevc.tk
 cloudsponcer.com
 cloudssl.dns
+cloudstack.asia
 cloudstore.cam
 cloudupdatesss.com
 cloudvn.info
@@ -9073,7 +9096,11 @@ coworkingdeamicis.com
 coxft.com
 cozicozi1.duckdns.org
 cp.dene.de.com
+cp.dev
 cp.envisionfonddulac.biz
+cp.web
+cp2-admin.iweibu.com
+cp2.iweibu.com
 cp2br7osw928r.life
 cp2fc1sslgdmsc38pq90.marginisbi.ru
 cpads.net
@@ -9220,6 +9247,7 @@ crm.jskymedia.com
 crm.razatelefonia.pro
 crm.shaayanpharma.com
 crmdo.com
+crmeb.log
 crocopexpire.ug
 crogtrt.com
 crolsbwhpehmwaw.cn
@@ -9439,6 +9467,8 @@ cumshot.vip
 cunerier.com
 cunironi182.ddns.net
 cunzhang.krgdef.cn
+cup-admin.douwen.me
+cup.douwen.me
 cupapplicationwhidperssips.com
 cupatrade.com
 cupboardg2irl3c.com
@@ -9735,6 +9765,7 @@ daily.alltop.asia
 daily.getfreshdata.com
 dailydownloads.net
 dailyemploy.com
+dailyglad.org
 dailystepstowardsuccess.com
 dainenikolasweb.site
 dairatwsl.com
@@ -10276,6 +10307,11 @@ design512.xyz
 designercandleco.com
 designlq.com
 desiqnia.shop
+desirezone01.com
+desirezone02.com
+desirezone03.com
+desirezone04.com
+desirezone05.com
 deski.fastcloudcdn.com
 deskpaypal.com
 desktop-app-download.com
@@ -10414,6 +10450,7 @@ dfuykhndfkhjdfnkdfhbdfkjhdbhkf.com
 dfvzfvd.help
 dfwioeiofwr.info
 dfwuhhmaqg.brianmira.ru
+dfxsj.com
 dfxvsbljmrgpgnb.cn
 dgaef.com
 dganmwedtfsaoyt.cn
@@ -11119,6 +11156,7 @@ doulosarts.com.br
 dounabx.xyz
 doup2dalf4if4shou.com
 douvy.com
+douwen.me
 dovaukcnt.com
 dow.moonexploringfromhome.info
 dowax.xyz
@@ -11655,6 +11693,9 @@ dzhabarzan.com
 dzhacker09.ddns.net
 dzieckowpodrozy.in
 dzienniknaukowy.link
+dzone01.site
+dzone02.site
+dzone3.site
 dzonikvaka.hopto.org
 dzqrls.com
 dzse.izmqf.ru
@@ -13556,6 +13597,8 @@ fezkixlqu.com
 ff-de.shutgpt.ir
 ff-rewards-redeem-codes-org.github.io
 ff-susan-config-mod.trycloudflare.com
+ff-system.jscxcl.com
+ff.jscxcl.com
 ff.upfilees.xyz
 ff4c2m3vc.xyz
 ff87558.vip
@@ -14012,6 +14055,7 @@ fluenti235.xyz
 fluraresto.me
 flux-psychology.com
 flux2key.com
+fly.ufunpaly.com
 flyawayaero.net
 flydubaicareers.ae.org
 flyermobi.com
@@ -14682,6 +14726,7 @@ g8688808.com
 g8jr8p9dsyq2uvdu.xyz
 g987k.rvideco.com
 g9ve5b6t4.cn
+ga-a9.co
 ga.cdzanalytics.com
 ga1yo3wu78v48hh.top
 ga345ss34u.space
@@ -15260,6 +15305,7 @@ girinintonu.com
 giris-edevletdestek.com
 giris.trustcom.fun
 giriskapisi.xyz
+girl.app
 girlszendarno.com
 girmekanima21.com
 gisfw.com
@@ -15430,6 +15476,8 @@ gntyxelrmssaycb.su
 gnwyjhasugenexv.ru
 gnyjv1xltx.info8fvhgl3.urlpush.net
 gnzbalyf.com
+go-home.dengshop.com
+go-home.douwen.me
 go-ia.info
 go-ia.site
 go-mail-accounts.com
@@ -15493,6 +15541,9 @@ gogos1.net
 gohazeldale.com
 gohhs.com
 gohiz.griercrimson.workers.dev
+gohome.7me.wang
+gohome.dev
+gohome.douwen.me
 goimed.us
 goingupdate.com
 goipbp9080425d4.cfd
@@ -15714,6 +15765,7 @@ googlespays.com
 googlespeedtest33.com
 googlesvn.com
 googlesyst.com
+googlet.icu
 googletagmanagr.com
 googletechnicalservicees.com
 googlett.camdvr.org
@@ -15781,6 +15833,7 @@ goxtwayzk.com
 gozdaxland.website
 gozluyumutaktik.tk
 gozumdeayyineisiltilar.com
+gp.bit728.eu.cc
 gpactive.com
 gpcyr.com
 gphbndcqrhcxtjkq.com
@@ -16050,6 +16103,7 @@ guninfo.guru
 gunq.link
 guntac.bet
 gupdate.us
+gupiao.dev
 guputhy.site
 gurpinaresengulhotel.tk
 gurulea8.ml
@@ -17087,6 +17141,7 @@ homanew.store
 home-ingservice.icu
 home-service-online.icu
 home-zxc.ddns.net
+home.dengshop.com
 home.manahegazeda.org
 home.microsoft-ns1.com
 home.sappointedmanah.org
@@ -17465,6 +17520,7 @@ hvwma.com
 hvxsetufmm.delavegagonz.ru
 hvzsgek.com
 hw.sdk.functionads.com
+hw8b5.online
 hwa85y4icf5.com
 hwceis.com
 hwelt.com
@@ -17858,11 +17914,14 @@ ilyassalmanklasikleri.xyz
 ilyes99.hopto.org
 ilyfk.com
 ilypvth.com
+im.dev
+im.douwen.me
 im9ov070725iqu.com
 imaclife.com
 imadhack.ddns.net
 image-support.xyz
 image-vlt.info
+image.7me.wang
 image.update-kaspersky.workers.dev
 image.windowstimes.online
 imagents.top
@@ -17900,6 +17959,7 @@ imeowes.com
 imerlor.ddns.net
 imerservice.net
 img-data-backup.b-cdn.net
+img.douwen.me
 img.elliotterusties.com
 img.spoolsv.cc
 img.spoolsv.net
@@ -17944,6 +18004,8 @@ impulse234.xyz
 imrpc7987bm.mmafan.biz
 imrqfwvvuburyye.cn
 imrwzkgj.com
+imt.dev
+imt.jscxcl.com
 imtok.io
 imubqtus.pro
 imugjedwt.com
@@ -18561,11 +18623,14 @@ iontiltyro.baroxylkin.ru
 iopfrmffsfomyxk.cn
 iorestore.com
 ios-hack.icu
+ios.msg
+ios.test
 ios.vdvd2026.com
 ios26.crowdsec.site
 ios33.crowdsec.site
 ios99.crowdsec.site
 iosadmin.wanyebao.cn
+iosapi.uutv.fun
 ioscx.wanyebao.cn
 iosfc.com
 iota.rherbahes.com
@@ -18855,6 +18920,7 @@ ivwrhcsdylybter.su
 ivybanu.com
 iwannalove1.ya-user-experience.ru
 iwapl.jk6l1r.com
+iweibu.dev
 iweuiqjdakjd.com
 iwgfssh.cn
 iwgnxhlufagtsxk.cn
@@ -19207,6 +19273,7 @@ jhytlebqv.com
 jhzmfac.com
 ji2dlzl5.c0ic4.com
 jiagban.com
+jiaheqs.com
 jiaozhu.etlva.cn
 jiaweo.com
 jiaxin.ddns.net
@@ -19423,6 +19490,7 @@ joydphp.westooo.com
 joyfullday.shop
 joyn.com.pk
 joznlytp.com
+jp.bit728.eu.cc
 jp1y36.it2ua.com
 jpbxgs.com
 jpdcgb.com
@@ -19488,8 +19556,12 @@ js-static.com
 js-stats.com
 js0c892.se
 js1994.duckdns.org
+jsac.site
+jsap.site
+jsar.site
 jsbook.info
 jschecks.com
+jscxcl.com
 jsdfsdf434sdf11ii.ru
 jsdtsakujdhed73bdnsbcsnbhvdsatamgbojiaku.duckdns.org
 jse-photographe.com
@@ -19501,6 +19573,7 @@ jsi43qd1bmex0q5ygd.com
 jsjjsjsjsjsjssh.cf
 jskgdhjkdfhjdkjhd844.ru
 jskoqu.com
+jskssl.com
 jslopasitmon.com
 jsmin.co
 jsnetlify.com
@@ -19515,6 +19588,7 @@ jstplastoss-bk.s3.us-east-2.amazonaws.com
 jsucorp.com
 jsuqi.com
 jsuttryingforfun.ddns.net
+jsuve.com
 jtaqir.com
 jteamspeak.com
 jtebz.ddns.net
@@ -20299,6 +20373,7 @@ king4488.ddns.net
 kingalone.top
 kingbss.com
 kingcardnfc.com
+kingdavote.com
 kingdombuffmanager.com
 kingflipp.online
 kinghoruswe.info
@@ -20593,6 +20668,9 @@ koncordtick12.site
 kondoserp1.com
 konferenciya-zoom.com
 kong.tzsafe.com
+kongjiang2.dev
+kongjiang5.dev
+kongjiang6.dev
 kongorocileyasdasdsins.site
 kongorocileysins.site
 kongtuke.com
@@ -20772,6 +20850,7 @@ ktoals.hopto.org
 ktotyt.site
 ktrwiohx.com
 ku1vn-35739.portmap.host
+kuai.dev
 kuarela.xyz
 kubeodz2019.ddns.net
 kubjexsoy.com
@@ -21713,6 +21792,7 @@ loffgghh.duckdns.org
 lofiramegi.com
 lofkpwuan.com
 log-server-lovat.vercel.app
+log.bit728.eu.cc
 log.conf1g.com
 log.gitclone.org
 log.morsag3ah.workers.dev
@@ -21907,6 +21987,9 @@ louvre-event.com
 louvrebil.click
 louyebskabxag.xyz
 lovableduck.ru
+love01.site
+love02.site
+love03.site
 love19.store
 love19.world
 love3475.xyz
@@ -22040,6 +22123,7 @@ luckyadidas.buzz
 luckyadidas.xyz
 luckycharm.website
 luckyme247.com
+luckytap.cc
 luckywinner-2021.com
 lucystew.ru
 luda.ydns.eu
@@ -22084,6 +22168,7 @@ lumber.degreejourneyquill.net
 lumberbrother.xyz
 lumberproductsinc.com
 lumdukekiy.shop
+lumenlink.top
 lumentsawfu.ru
 lumichain.pro
 luminosity.link
@@ -22242,6 +22327,7 @@ m7.hopto.org
 m7lea5yck9i3l.biz
 m7swd-28591.portmap.host
 m8pwsczg0bbzw48j7.com
+m8t2dxq.store
 m92pqn.kwrab.ru
 m976mzyboja60j06nke4adi8fnms7bm6.xyz
 m9c.net
@@ -22745,6 +22831,8 @@ make90.xyz
 makeapp.today
 makecloud.xyz
 makedonia.church
+makemqui.buzz
+makemqui.icu
 makerolleds.info
 makkakuyio.store
 makretplaise.xyz
@@ -22793,7 +22881,9 @@ malitehja.tk
 maliyecarkifelek.com
 malkauywersix.club
 mall-ministryoffinance-np.netlify.app
+mall.bit728.eu.cc
 mallelectricarsgb.bond
+malll-tk.shop
 malraux-admin.ddns.net
 maltashopping24.com
 maltepetemizlikwsf.com
@@ -24159,6 +24249,7 @@ moohyayeuaut2scr.ddns.net
 moon.afterthoughtthirsttime.cc
 moonandbebe.ddns.net
 moonehobno.bond
+moonhop.cc
 moonhub.work
 moonsand.store
 moonsift.store
@@ -24221,6 +24312,7 @@ moskhoods.pw
 moskitu.ddns.net
 mosplosaq.accesscam.org
 mossadapi.tk
+mossguard.cc
 mostafa2925.ddns.net
 mostafalolxd12.ddns.net
 mostanycasted.one
@@ -25844,6 +25936,7 @@ normal-dmn.info
 norpedf.xyz
 norpor.shop
 north-area.bbsindex.com
+north-star.vip
 northewsd.site
 northice.xyz
 northogden572.xyz
@@ -26497,6 +26590,8 @@ okokouyigare.club
 okoltuktasonmeyenbirtutun.com
 okoyht.com
 okpana.com
+okpay.dev
+okpay.saveai.vip
 okraybom.com
 okraybuantewr.com
 okservermytool.ddns.net
@@ -27923,6 +28018,7 @@ pfreqddpcc.duckdns.org
 pfsdo.com
 pftiddtdrxqlhky.ru
 pfxch3jh.net
+pg.iweibu.com
 pgatraining.com
 pgbmeatsv.com
 pgdltxzwxi.duckdns.org
@@ -29314,6 +29410,7 @@ qenmanepnh.info
 qepjkd.com
 qeqswsxcd.xyz
 qeqyreq.com
+qer99.shop
 qestero.xyz
 qetylyv.com
 qetytug.com
@@ -29557,6 +29654,7 @@ quickboorks-accountings.com
 quickcompe.net
 quickdocshare.com
 quickhelpsolve.com
+quickkey.cc
 quickquake.top
 quicksand435.xyz
 quicnkbooks-accounting.com
@@ -31110,6 +31208,7 @@ s-adroll.com
 s-e-ric-letions.site
 s-panel.su
 s.6srvfcm.com
+s.97rich.vip
 s.adslinkup.com
 s.discoverahuge.xyz
 s.dt6remosa.org
@@ -31117,11 +31216,14 @@ s.greendeff.org
 s.grobrothers.org
 s.ht7joxar.org
 s.jr2mutef.org
+s.jscxcl.com
 s.orove.cn
 s.p.formaxprime.co.uk
 s.pingsafe.org
 s.psserviceonline.com
 s.sh2gote.org
+s.umatchai.com
+s.uubmi.com
 s.vi6jolifd.org
 s0-2mdn.net
 s054.oliej.com
@@ -31490,6 +31592,10 @@ sauruspdv.ddns.net
 savage.2waky.com
 savage.ddns.net
 savageking8679.ddns.net
+saveai.dev
+saveai.douwen.me
+saveai.one
+saveai.vip
 savechatgpt.site
 savegpt.pro
 savegptforchrome.com
@@ -32160,8 +32266,10 @@ service-yandex.ru
 service.amzonnews.club
 service.net-freaks.com
 service.pandtelectric.com
+service.saveai.vip
 service.serveftp.org
 service.symantecsecuritycloud.com
+service.system
 service.userfeedsync.com
 service.windown-update.com
 service0auht-center.ddns.net
@@ -32549,11 +32657,19 @@ shopiamproject.com
 shopingchina.net
 shoploves.top
 shopphongtinh.com
+shoppingmall.la
+shoppingmall.one
 shopproxy.live
 shopquick.site
 shopstodrop.com
 shopstoregame.icu
 shopstoregamese.icu
+shoptk-pk.com
+shoptk-pk.one
+shoptk.app
+shoptk.io
+shoptk.la
+shoptk.one
 shopvipss.top
 shopweblive.com
 shopwigchamp.com
@@ -33792,6 +33908,7 @@ starvars.top
 starxpush7x.xyz
 starzoooon777.com
 stat.bluetroniq.vip
+stat.ufunpaly.com
 stata-check.com
 statacheck.net
 statad.de
@@ -33835,6 +33952,8 @@ stationworald.tk
 statistall.com
 statistic-hosting.com
 statistic-ms.live
+statistical.dev
+statistical.ufunpaly.com
 statisticblogpack.xyz
 statisticmnowner.com
 statistics-update.xyz
@@ -34498,7 +34617,10 @@ sysrtyvbncv.ddns.net
 systechbd.com
 system-services.site
 system-strategy.org
+system.bit728.eu.cc
+system.k3asm7b.online
 system.updatecheck.store
+system.y97h32.store
 system323232.duckdns.org
 system64-serves.duckdns.org
 system88.duckdns.org
@@ -34562,6 +34684,7 @@ t.gearplace.net
 t.jdjdcjq.top
 t.netcatkit.com
 t.p.formaxprime.co.uk
+t.shoptk.la
 t.xy1.pw
 t.zz3r0.com
 t0nym1r3l3zz.xyz
@@ -34975,6 +35098,8 @@ telegrtam.com.cn
 telehealthconnectpro.azurewebsites.net
 telehub.shop
 teleinfo.safedatabox.net
+telekit.cc
+telekit.quickkey.cc
 telelatino.app
 telemetry-network.com
 telemetry.commonline.space
@@ -35170,6 +35295,8 @@ tfzcqdbj.com
 tfzdsakl.com
 tg-box.documshare.org
 tg-media.guardedcloud.net
+tg.proxy
+tg.quickkey.cc
 tg.sdhju.icu
 tg1sea23g.commonline.space
 tganngs9.com
@@ -35459,6 +35586,7 @@ tigxllysscge.pw
 tikes.ddns.net
 tiktalk-2fc98-default-rtdb.firebaseio.com
 tiktiknerede.site
+tiktok.dev
 tiktokkkmmz.com
 tiktoklive.studio
 tiktokviewer.com
@@ -35598,6 +35726,9 @@ tjnxbuwc.com
 tjuxvwn.com
 tjweifukeji.com
 tjyaphr.com
+tk-malll.shop
+tk.dev
+tk.iweibu.com
 tkbodla.com
 tkcsblqf.com
 tkegtqmqz.pw
@@ -35605,10 +35736,12 @@ tkfdchi.com
 tkfheigxaqqbkej.cn
 tkfoficial.ddns.net
 tkfoficial.duckdns.org
+tkglobalstoree.com
 tkolwwkwuecgbmii.com
 tkoseurkkh.duckdns.org
 tkprn.com
 tkrclq.com
+tkshop.la
 tksmob.duckdns.org
 tktktkcscscs.com
 tkurqpc.com
@@ -36227,6 +36360,7 @@ tstsv.xyz
 tsvwsbkffpbbrnr.su
 tswacfbayvwytoj.cn
 tt.8s.lv
+tt89.xyz
 ttansy.ddns.net
 ttareyice.jkub.com
 ttasbsj002.ddns.net
@@ -36508,6 +36642,7 @@ tzlss.mobi
 tzqjp.com
 tzrlchjis.com
 tzxc3441.xyz
+u.97rich.vip
 u.cbu.net
 u.ddns.me
 u.lewd.se
@@ -36652,6 +36787,7 @@ ufoporno.xyz
 ufrxd.com
 ufsjjjwviv.duckdns.org
 uftersensoksk8.com
+ufunpaly.com
 ufvglt.com
 ufwilrks.com
 ufzbore.com
@@ -36783,6 +36919,7 @@ ulyatec.quest
 ulysse-cazabonne.cam
 um.junglewearshirts.net
 umare.zyns.com
+umatchai.com
 umbrella55463.xyz
 umbrellaquestion.xyz
 umcbz.com
@@ -37177,6 +37314,8 @@ us-usos-qwtaz.top
 us-west-11608.packetriot.net
 us-west.com
 us.archive-ubuntu.top
+us.dev
+us.download
 us.mcafee-upgrade.com
 us.privacyshield.services
 us01.ddns.net
@@ -37318,6 +37457,8 @@ utvugejuyimmelh.su
 utwyn.com
 utydu21541.com
 utyus.icu
+uubmi.com
+uucar.dev
 uudobwtmagw.info
 uuhivkghujdbfar.su
 uultytrarcqkugc.cn
@@ -38263,6 +38404,7 @@ vpfjvqlsjpslfly.ru
 vpkamifndkltitx.ru
 vpn-connection.pro
 vpn.atooi.ga
+vpn.dailyglad.org
 vpn.komaru.today
 vpncity.live
 vpnkerio.com
@@ -41307,6 +41449,7 @@ zaguamo.com
 zagxy.com
 zahcomputers.pk.modpersonnel.support
 zahidelt.sbs
+zaifso.com
 zaikadoctor.ru
 zaikaopentra-com-ug.online
 zaikaopentra-com-ug.su
@@ -41548,6 +41691,7 @@ zhxkuq.com
 zhzjj.in
 zi-chem.co
 ziad32222.ddns.net
+zibll.tg
 ziecu.com
 zig35m48zur14nel40.myftp.org
 ziggynas10.ddns.net
