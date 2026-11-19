@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260552
-# Last change: 2026-11-18 22:01:46 UTC (sync mode: delta)
+# Records: 260594
+# Last change: 2026-11-19 13:21:19 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -4224,6 +4224,7 @@
 1uybimcell.net
 1vakifsubedigital.xyz
 1vd-dfdrrmdrlekleri.net
+1vexorantiqubentharion.cyou
 1wdasd0dxzc1.click
 1wimcellkampanyawawww444.net
 1worldpuanaktiflemeservisivkf2.com
@@ -17336,6 +17337,7 @@ admbrlbrdanndrl.icu
 admbursvakf.org
 admin-amazon.serveftp.com
 admin-create-user.v01design.it
+admin-turkishairlines.ph
 admin.diyanetisleribakanligi.vercel.app
 admin.evsahibibasvuru.com
 admin.schweis.us
@@ -20156,6 +20158,7 @@ ais-odemeler-basvuru.org
 ais-odemeler.org
 ais-sistemedevletcomtr.ml
 ais-sistemedevletcomtr.tk
+ais-turkishairlines.com.ph
 aisat785201568.com
 aisbasvuru.online
 aisbasvuru.site
@@ -27050,6 +27053,7 @@ arabilgileri.sa.com
 arablarnzmuaynesorglma.xyz
 arabskmsorglma.xyz
 arabulucudosya.org
+arabuluculukadli.org
 arabuluculukceza.com
 arabuluculukkamu.com
 arabulucusistemi.org
@@ -29049,6 +29053,7 @@ aslinda-mutlu-oldugun-zaman-biz-geldik.com
 aslinda-mutlu-olmanin-formulu-hemen-yaninizda-hissedin.com
 aslinda-ortaya-geldikten-sonra-iyi.com
 aslindaguzelkampanya.sbs
+asliyearabuluculuk.org
 asliyeceza.org
 asliyecezagov.org
 asliyedava.org
@@ -37106,6 +37111,7 @@ bddkiadesitr.ml
 bddkiiade.com
 bddkileiadealmavaktisendebasvur.com
 bddkilkbaharfirsati.tk
+bddkislemdestek.com
 bddkislemler.com
 bddkislemleronay.com
 bddkk-iadeler-turkiyeweb.com
@@ -64847,11 +64853,13 @@ denizbank.internetsube.com.tr
 denizbank.ltd
 denizbank.me
 denizbank.ml
+denizbank.mobilbasvur.cfd
 denizbank.network
 denizbank.one
 denizbank.online
 denizbank.onlinemobilpuanfirsatlari.cf
 denizbank.onthewifi.com
+denizbank.ozelekran.cfd
 denizbank.rf.gd
 denizbank.sanalmarketfirsatlari.tk
 denizbank.site
@@ -82618,6 +82626,7 @@ edevleturkiyeiadekurulugovtr.com
 edevleturkiyeiadenoktasi.com
 edevleturkiyeiadenoktasigovtr.com
 edevletuyap-sistem.com
+edevletuyap.com
 edevletuyap.org
 edevletuyapgiris.com
 edevletuyeis.com
@@ -88072,6 +88081,7 @@ eportalaidathizmetigovtr.com
 eportalaidatonlineislerimgovtr.com
 eportalarsiviaidatmerkezi.org
 eportalcimer-aidathizmetigov-tr.com
+eportaldosyasorgu.org
 eportalduyuru-evdekal.org
 eportaledevletiade.com
 eportalgib.org
@@ -96809,6 +96819,7 @@ fre536436.duckdns.org
 fredcakmaktas.cfd
 fredericpittman3467.xyz
 free-try.xyz
+free-turkishairlines.ph
 free.axery.shop
 freearmy.ru
 freedomgz.top
@@ -99159,6 +99170,7 @@ garantibbvaa-tr.com
 garantibbvaa.com
 garantibbvaa.mooo.com
 garantibbvaa.tk
+garantibbvaa.vercel.app
 garantibbvaai.com.tr
 garantibbvaais.ph
 garantibbvabank.biz
@@ -155259,6 +155271,7 @@ kuveytturkcekilisbasvrsu.fun
 kuveytturkcekilisbasvurumms.site
 kuveytturkcepsubemguvenli.com
 kuveytturkcomfin.com
+kuveytturkdestek.com
 kuveytturkdijtlyaninda.co.vu
 kuveytturkfinans.com
 kuveytturkfinans.line.pm
@@ -159021,6 +159034,7 @@ maliye-bakanligi.org
 maliye-bakanligi.xyz
 maliye-buro.com
 maliye-dosyasorgu.com
+maliye-ingbank.ph
 maliye-uyapceza.com
 maliyeadalet.org
 maliyeaidat.cfd
@@ -163111,6 +163125,7 @@ mobil-subesiz-giris.com
 mobil-subesiz-giris.online
 mobil-t-e-b-firsatlari.com
 mobil-tbmm-aidet-gov-tr.com
+mobil-teb-onay.my-homeip.de
 mobil-tebkampanyam.my-homeip.net
 mobil-tokibasvuruyap.vercel.app
 mobil-tr-blnance.cloud
@@ -186554,6 +186569,7 @@ pro-sahibinden.com
 pro-sahibindn-param-guvende.com
 pro-sso-btcturk.com
 pro-teb.my-homeip.net
+pro-turkishairlines.ph
 pro-up.site
 pro.joe-panel.com
 pro.joe-panel.ru.com
@@ -193535,6 +193551,7 @@ randevuhizmetlerim.com
 randevuhizmetlerimiz.com
 randevuhizmetleriniz.com
 randevuhzimetbudsd.store
+randevuhzmtlebrusds.store
 randevuicinebekleme.com
 randevuislem.net
 randevuislemleri.com
@@ -210213,6 +210230,7 @@ sonmtvodeme.online
 sonnbsvrrprmsynnnkmpnyaaa.art
 sonnbsvrrprmsynnnkmpnyaaa.click
 sonnbsvrrprmsynnnkmpnyaaa.live
+sonnerecekkmpnya92142.pro
 sonnfrlstarrbasvrrkredi85479.info
 sonnfrlstarrbasvrrkredi85479.pro
 sonnfrstlarrkmpnyaabasvrrr103421.pro
@@ -215441,9 +215459,11 @@ t0kibasvuruyap.icu
 t0kibsvrdmdi.sbs
 t0kibsvrmliz.sbs
 t0kibsvrmrkiz.sbs
+t0kibsvrulari1.com
 t0kibsvrulari2.com
 t0kibsvuru.xyz
 t0kievbasvurularim.com
+t0kievbsvrulari.com
 t0kievleribasvur.top
 t0kievleribasvuru.sbs
 t0kievleribasvurulaari.sbs
@@ -215454,6 +215474,7 @@ t0kievleriibbasvuru.sbs
 t0kievleriiikonutkampanyalari.click
 t0kievleriiikonutttkampanyalari.click
 t0kievlerikonutbasvur.top
+t0kievvbaasvurullaarim.com
 t0kifirsatlari.click
 t0kiieevleriiibasvuru.sbs
 t0kiilkevim.icu
@@ -220881,6 +220902,7 @@ tokibasvru2025.xyz
 tokibasvru500.org
 tokibasvrulari.org
 tokibasvrulariii.com
+tokibasvrulariii.ph
 tokibasvrularim.org
 tokibasvrurte.shop
 tokibasvur.art
@@ -220921,6 +220943,7 @@ tokibasvuru.ecubulls11fr.workers.dev
 tokibasvuru.haberavrupa.online
 tokibasvuru.info
 tokibasvuru.it.com
+tokibasvuru.myonlineportal.eu
 tokibasvuru.myvnc.com
 tokibasvuru.online
 tokibasvuru.pages.dev
@@ -221034,8 +221057,11 @@ tokibasvuruyap.onrender.com
 tokibasvuruyap.org
 tokibasvuruyap.up.railway.app
 tokibasvuruyap.xyz
+tokibasvuruyap332.cfd
 tokibasvuruyap332.lol
+tokibasvuruyap332.monster
 tokibasvuruyap332.sbs
+tokibasvuruyapmerkezi3.lol
 tokibasvuruyapmerkezi3.sbs
 tokibasvuruyapsosyalkonutprojesi.org
 tokibasvuruyumsendegel.blogspot.com
@@ -228104,28 +228130,42 @@ turkishaircrg.com
 turkishairdeals.com
 turkishairlenes.com
 turkishairline.4rentistanbul.com
+turkishairlines-alibaba.com.ph
 turkishairlines-anniversaire.com
+turkishairlines-asset.ph
 turkishairlines-biletler.com
+turkishairlines-com.ph
 turkishairlines-emeklikampanyasi.kimbilirziya.click
+turkishairlines-free.ph
+turkishairlines-hilton.ph
+turkishairlines-klm.ph
+turkishairlines-line.ph
+turkishairlines-mailersend.ph
 turkishairlines-survey.com
 turkishairlines-tr.site
+turkishairlines-webmail.ph
 turkishairlines.com-boarding.club
 turkishairlines.com-holiday.com
 turkishairlines.com-holidays.com
 turkishairlines.com-holiidays.com
 turkishairlines.com.biletindirme.com
 turkishairlines.flights
+turkishairlines.fly
 turkishairlines.lavidaloka.click
 turkishairlines.net.ph
 turkishairlines.net.ru
 turkishairlines.sbs
 turkishairlines.truf.tr
+turkishairlinesadmin.ph
+turkishairlinesais.com.ph
 turkishairlineskampanyalari.3tabakvar.sbs
+turkishairlinesline.ph
 turkishairlinesmilles.com
 turkishairlinesreservations.org
 turkishairlinesroblox.com
 turkishairliness.cfd
 turkishairliness.cyou
+turkishairlinessignal.ph
 turkishairlinesthy.com
 turkishairlins.sbs
 turkishairwaysuk.com
@@ -228749,6 +228789,7 @@ turkiyeborcodeme.com
 turkiyeburs.org
 turkiyebuyukdevlet.sbs
 turkiyebuyukmilletmeclisin.ru.com
+turkiyecep.cfd
 turkiyecepgiris.com
 turkiyecepgirisi.com
 turkiyecepkapisi.com
@@ -241366,6 +241407,7 @@ www-aldin-aldin-ozel.com.tr
 www-aldin-aldin-ozel.xyz
 www-aldin-aldin.com
 www-aldinaldinsonfirsatlarim-a101.xyz
+www-aldisplay-cpte-webtb.myonlineportal.ch
 www-alisversx-guvenlrx-odemex.online
 www-allbaraka.com
 www-alrightb-cepte-ayrica.myonlineportal.ch

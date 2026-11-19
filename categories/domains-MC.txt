@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41998
-# Last change: 2026-11-18 14:08:59 UTC (sync mode: full)
+# Records: 41999
+# Last change: 2026-11-19 13:21:19 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -38967,6 +38967,7 @@ weddnest.com
 wedroid.net
 weebpoggers.hopto.org
 weedjoe.ddns.net
+weedstealer.xyz
 week155.xyz
 week2endlizes.website
 weekendcool.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110436
-# Last change: 2026-11-19 03:36:08 UTC (sync mode: delta)
+# Records: 110449
+# Last change: 2026-11-19 13:21:19 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2305,6 +2305,7 @@
 407teric.buzz
 412221222145558999892.duckdns.org
 41260-coinbase.com
+412prmsnynkbmp.online
 4144413221.cloud
 415545618516165665.cloud
 417478124781287421.cloud
@@ -2575,6 +2576,7 @@
 5325394324325.xyz
 53322258356312.online
 534534543.net
+53532512412.sbs
 5353523424.xyz
 535767867834.cloud
 5384328.sbs
@@ -7206,6 +7208,7 @@ alisverisepetin-13.sbs
 alisverisepetislem-15.sbs
 alisverisfirsati.com
 alisverisfirsatlari.click
+alisverisfirsatlari.com
 alisverisguvenlekazan.xyz
 alisverisguvenliislem.top
 alisverishaftasi.online
@@ -8186,6 +8189,7 @@ annaasti-concert.ru
 annaasti-tickets.ru
 annacicek.com
 annamediumsmotretgo.online
+anndbsvrkrdprmsyn64.online
 annedestekyardim.com
 anneeler-gunneozl.com
 annefamilylab.mom
@@ -40224,6 +40228,7 @@ giris.kt-vaikf.online
 giris.kuv-islem.online
 giris.ky-tvt.online
 giris.l3-69-l02-l59.plesk.page
+giris.mobil-ziraat.org
 giris.ozgurbeyhizmetleri.com
 giris.pap1ara.com
 giris.par-dubi.online
@@ -52040,6 +52045,7 @@ istanbul34favela.net
 istanbuladlisorgu.net
 istanbuladlisorgu.org
 istanbuladliye.org
+istanbuladliyesorgu.org
 istanbulakademi.co
 istanbulakartmayukle.net
 istanbulakrttbakiye.hizli150.com
@@ -56157,6 +56163,7 @@ kino-banda.ru
 kinohanam.cn
 kinovialun.duckdns.org
 kinstab.top
+kipdownon.net
 kips.dravencia.sbs
 kipstenyn.com
 kirala-724.com
@@ -64471,6 +64478,7 @@ mobilacikdenbnkv22.net
 mobilaralik.cfd
 mobilbakiyeyukle.ml
 mobilbancekampanyasiicinsongun.tech
+mobilbasvur.cfd
 mobilbasvurmaekranindeniz.info
 mobilbasvuru-yarinindunyasibu5syilaozel-com.tk
 mobilbasvuru.my-homeip.de
@@ -71725,6 +71733,7 @@ oyakcmento.shop
 oyakglobal.com
 oyakglobal.com.tr
 oyakmenkulyatirim.com
+oyakportfoytrader.com
 oyaktrade.com
 oyaktradeplus.com
 oyaktraderplus.com
@@ -74148,6 +74157,7 @@ philkassa-spb.com
 phillipcapitaldanismanlik.com
 phillipcapitaldanismanliktr.com
 phillipcapitalportfoytr.com
+phillipcapitalportfoyyonetim.com
 philosopherperplex.top
 philosophervibrate.top
 philosophicalevasive.top
@@ -79340,6 +79350,7 @@ referansdegerlendirme.com
 referansdunyamportfoy.com
 referansgirisi.com
 referansicbc.com
+referansin-foyatirim.com
 referansinfoyatirim.com
 referansmenkuldeger.com
 referansportal.online
@@ -86627,6 +86638,7 @@ siparisverafyon.com
 siparisvergelir.click
 siparisverhemen.com
 siparisyolla.site
+siparscomtryuadepo6481.duckdns.org
 siparssepetiniz.click
 sipqortam.xyz
 sipsapsop.click
@@ -98361,6 +98373,7 @@ turkiyef.com
 turkiyefinans-katilim-com.duckdns.org
 turkiyefinans-katilimyap-com.duckdns.org
 turkiyefinans.my-homeip.de
+turkiyefinansbulteni.site
 turkiyefirsatlarihemenonayla.xyz
 turkiyegenelimarketindirimkataloglari.cfd
 turkiyegiris.app

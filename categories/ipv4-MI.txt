@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - IPv4 address - Malware Distribution IP (MI)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=ip&desc=MI
-# Records: 4078
-# Last change: 2026-11-18 22:01:46 UTC (sync mode: delta)
+# Records: 4080
+# Last change: 2026-11-19 13:21:19 UTC (sync mode: delta)
 1.13.102.222
 1.232.156.19
 1.243.60.118
@@ -2725,6 +2725,7 @@
 161.35.124.166
 161.35.124.210
 161.35.172.81
+161.97.138.10
 161.97.176.137
 161.97.185.179
 161.123.204.88
@@ -2928,6 +2929,7 @@
 174.138.0.246
 174.138.12.116
 175.44.156.36
+175.100.42.26
 175.100.189.174
 175.106.11.242
 175.110.100.82
