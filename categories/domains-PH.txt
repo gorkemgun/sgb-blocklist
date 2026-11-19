@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110424
-# Last change: 2026-11-18 22:01:46 UTC (sync mode: delta)
+# Records: 110436
+# Last change: 2026-11-19 03:36:08 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2666,6 +2666,7 @@
 58963211222.cloud
 5896328bsrrprsmynnkmpny.click
 58f667d2.dsfiurb-u.shop
+5943kmpnyasadprsmyn.online
 5959snfprsmasdj.info
 5959snfprsmasdj.pro
 59d94013.dj-hd5kfu.shop
@@ -8097,6 +8098,7 @@ anindateklifler.abrdns.com
 anindatrafik.com.tr
 anindavakifhazirpara.xyz
 anindayukleme.net
+aninnddsnaerecekkkmpny598.online
 anisidin.com
 anittek.com
 anjanaspernheavily.info
@@ -19819,6 +19821,7 @@ cep-mobil-teb-bireysel.my-homeip.net
 cep-te-is.cf
 cep-te-teb.my-homeip.de
 cep-te-teb.myonlineportal.de
+cep-te-tebden.my-homeip.de
 cep-tebde-emekli.myonlineportal.ch
 cep.fibqkurumsall.cfd
 cepcxonlinexdgibxgovctr.fun
@@ -33470,6 +33473,7 @@ erpzv44.cn
 errandsaturate.top
 errandsuperstition.top
 errinborn.top
+errkmpny44353.online
 erroneousdeduct.top
 erroneouspudding.top
 errrandsy.com
@@ -37134,6 +37138,7 @@ fleetvana.qpon
 fleexbox.com
 flekkb.cn
 flelligunnler.duckdns.org
+flemmrktm.click
 flenkordav.pro
 flentsac.top
 flerdensewxede.duckdns.org
@@ -38714,6 +38719,7 @@ garantiodemem.net
 garantione.site
 garantiotokiralama.com
 garantiotomatikfinans.cloud
+garantiparadostu.cloud
 garantiparamerkezi.cloud
 garantiparasihirbazi.cloud
 garantipromoyon140720.yonlendirfacebook.lat
@@ -52032,6 +52038,7 @@ istanbul.lequiva.com
 istanbul1453.shop
 istanbul34favela.net
 istanbuladlisorgu.net
+istanbuladlisorgu.org
 istanbuladliye.org
 istanbulakademi.co
 istanbulakartmayukle.net
@@ -57138,6 +57145,7 @@ koprusigorta.site
 kopukluj.hali-yiklamasi.lol
 koranixul.com
 koravelo.sbs
+koravimix.com
 korayhegese.arabamuayenesi.xyz
 korbastudio.com
 kordonnilegeez.com
@@ -74923,6 +74931,7 @@ pondratify.top
 ponedari-sumafelo.lol
 ponerfaun.com
 pontifyfzg.store
+ponttapusorgls.web.app
 ponygoon.com
 ponygoonn.com
 pooleandpheasant.com
@@ -75562,6 +75571,7 @@ preferencer.shop
 preferentialdestined.top
 preferentialprone.top
 preferrain.top
+prefixaro.com
 preillustration.com
 prejudicequest.top
 preliminaryafloat.top
@@ -75856,6 +75866,7 @@ prmbsvkzngssg.xyz
 prmguvende-onay.com
 prmgvnde-onlinesatis.com
 prmosyonbasvrlar.click
+prmsnynkbmp412.online
 prmsnynnkmponyaaaafrslarrr.info
 prmsnynnkmponyaaaafrslarrr.pro
 prmsooosynnngrntt.sa.com
@@ -80670,6 +80681,7 @@ rmzndacrfsadhycn.com
 rmznfrst.sytes.net
 rmznrmzn.click
 rn-dvkti.cfd
+rn-hlkblgi.cfd
 rnail-aspx.com
 rnandevvunzur.net
 rnarriotthotels.com
