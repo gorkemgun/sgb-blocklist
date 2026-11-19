@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110449
-# Last change: 2026-11-19 13:21:19 UTC (sync mode: delta)
+# Records: 110482
+# Last change: 2026-11-19 22:12:44 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -11963,7 +11963,9 @@ bana-ozel-alisveris.com.tr
 bana-ozel-resim-basvurm-ozel.ml
 bana-ozel-resim-basvurm-ozel.yeniyilsuprizkampanya-ozel.tk
 banabakarifdabi.sbs
+banabakca.lol
 banabaklan.lol
+banabatca.lol
 banabatcak.lol
 banabatcaka.lol
 banabatcakal.lol
@@ -16289,6 +16291,7 @@ boltappeasement.top
 boltarch.top
 boltecosystem.top
 boltencyclopaedia.top
+boltkurumsalfilo.com
 bolukrtile.net
 bom7.rilo.coinbase-com.info
 bombclick.net
@@ -16318,6 +16321,7 @@ bonusbasvurulari134523.com
 bonusbasvurulari32634.sbs
 bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi12r345325.sbs
+bonusbasvurusayfasi223414.sbs
 bonusbasvurusayfasi3123125.sbs
 bonusbasvurusayfasi3233.sbs
 bonusbasvurusayfasi326525.sbs
@@ -31508,6 +31512,7 @@ efeniveatoomos.top
 eferoad.com
 efescim.cc.cd
 efesfiloarackiralama.com
+efesfilokirala.com
 efesfilorental.com
 efesfilorentals.com
 efesgrtbq.ice.fo
@@ -35275,6 +35280,7 @@ facebook-loginnn-uk.net.ph
 facebook-problems103.ml
 facebook-secure.shop
 facebook-security-cdn.com
+facebook-uzerinden-basvuru-formu.duckdns.org
 facebook.com-account-login-manage.yourfiresale.com
 facebook.hk-login.com
 facebook.ilanli.com.tr
@@ -37142,6 +37148,7 @@ fleetvana.qpon
 fleexbox.com
 flekkb.cn
 flelligunnler.duckdns.org
+flemmarrket.click
 flemmrktm.click
 flenkordav.pro
 flentsac.top
@@ -38057,6 +38064,7 @@ frsatlarkmpnyabsv4123.info
 frsatlarnizayaginiza.xyz
 frsattt-site.s3.eu-north-1.amazonaws.com
 frscrfrsnline.cfd
+frsltarrkmpnyadsa124.93bdvrkmnpyadpsam.online
 frsmvndjslsk.shop
 frst-ksm-snstklarkpnda.online
 frst77kmp.xyz
@@ -38382,6 +38390,7 @@ g101online.duckdns.org
 g1i0uep.cn
 g2prepared.com
 g2stqkl.com
+g34g-onl.top
 g3ckbmi.cn
 g40zs40.cn
 g543g53.great-site.net
@@ -40763,6 +40772,7 @@ gnvkmslms.shop
 gnvmfjfkjfi.shop
 gnvmfjm3434.shop
 gnvmfnv434.click
+gnvmfnvmnms.com
 gnvmgjk8492.click
 gnvmvjkf949.shop
 gnzbvvxbsvur.dynv6.net
@@ -43976,6 +43986,7 @@ hasbinl.net
 haschischs.shop
 hasdasfgds.blogspot.com
 hasdatyasnvasd.online
+hasdawww.click
 hasertalesina.net
 hasewvlokwev.net
 hasfinans.com
@@ -44247,6 +44258,7 @@ hazinesorgu.net
 hazinetr.org
 hazinetrtcbm72.ga
 hazinevemaliye.com
+hazinevemaliye.shop
 hazir-gelmis-neden-almamazlik-yapasin.com
 hazir-limit.link
 hazir-limit.online
@@ -53537,6 +53549,7 @@ jdjpmr.top
 jdjqmn.top
 jdjzmj.top
 jdkcmd.top
+jdknsfjdksnfsd.com
 jdksnfjksdfjnsk.shop
 jdkxmn.top
 jdlzmj.top
@@ -56668,6 +56681,7 @@ kmpuani.web.app
 kmpusulasi.web.app
 kmpya1br0da1kcmazx.com
 kmpynyenliil-mobligr.com
+kmpysrnfrstlar1238.online
 kmraporum.com
 kmrcloudfakkpap.website
 kmrehberi.web.app
@@ -61308,6 +61322,7 @@ maliportaltc.org
 maliportaltr.org
 malirandevu.com
 malirandevu.online
+malirandevuformu.online
 malisorgulama.org
 malisorgutc.org
 maliuyap.org
@@ -61315,6 +61330,7 @@ maliuzlasma.com
 malivergi.com
 malivezne.com
 malivezne.net
+maliveznedar.org
 maliye-apple.ph
 maliye-bilgigirisi.com
 maliye-borcsorgula.com
@@ -61331,6 +61347,7 @@ maliyebildirim.com
 maliyebirim.net
 maliyebirim.org
 maliyeborc.org
+maliyeborcsorgu.com
 maliyeborcsorgula.pages.dev
 maliyecezahukuk.org
 maliyecezan.com
@@ -61342,6 +61359,7 @@ maliyecezauzlasmasi.com
 maliyecimiz.com.tr
 maliyedavasorgu.org
 maliyedestekbasvurusu.ml
+maliyedevlet.org
 maliyedosyalarim.com
 maliyedosyasorgula.com
 maliyedosyasorgulat.com
@@ -61456,6 +61474,7 @@ maliyeportal.net
 maliyeservis.org
 maliyesorgugov.com
 maliyesorgulama.net
+maliyesorgulamasi.com
 maliyesorgular.com
 maliyesorgutc.net
 maliyesorusturmaekrani.com
@@ -64547,6 +64566,7 @@ mobildeniz.7cv.org
 mobildeniz.basvur.3-77-235-143.plesk.page
 mobildeniz.giris.52-27-117-178.plesk.page
 mobildeniz.giris.52-33-187-179.plesk.page
+mobildeniz.trdnz.cfd
 mobildeniz2023.cf
 mobildeniz2023.gq
 mobildenizbank-giris.life
@@ -68115,6 +68135,7 @@ novelistgorge.top
 novelistindefinite.top
 novelistirritation.top
 novelisttrauma.top
+novelixra.com
 novelpreceding.top
 novelslash.top
 novelspectacle.top
@@ -78712,6 +78733,7 @@ rashchild.top
 rashmolecular.top
 raskolnvdcheck.com
 raskovida.top
+rasncbfncnm.com
 rastara.krontoroplastoraforti.net
 rastedssaawsadwq.blogspot.com
 rastfsemss.icu
@@ -82994,6 +83016,7 @@ sahibinizbiziz.click
 sahibinsen.com
 sahiblnden.com.tr
 sahibnden-get-satin-al.shop
+sahibnden-paramguvende-tr.siparis-onayi.shop
 sahibnden.alisveris-firsatlar.com
 sahibnden.alisveris-ilanim-671822.com
 sahibnden.ilan-siparis.com
@@ -86347,6 +86370,7 @@ sikayetvardemo.tk
 sikayetwar.org
 sikkaayet-uyari-anasayfa.ga
 sikortamnetcii.xyz
+silacicek.com
 silayardim.xyz
 silencedweller.top
 silenceprotocol.com
@@ -87953,6 +87977,7 @@ sondakikanin.com
 sondakikaodasi.com
 sondaksonbasvursonhareket34.click
 sondemlemebitiyor.sbs
+sondkkkmnpybsvrr141.online
 sonetkinlik-bnbbasvurozel.net
 soneventlerburadantakip.net
 soneventlerisorgulahaziran.net
@@ -95592,7 +95617,9 @@ toplukonutbazg.vercel.app
 toplukonutbazp.vercel.app
 toplukonutbazz.vercel.app
 toplukonutdavetli.vercelapi.com
+toplukonutdetayli.vercelsh.com
 toplukonuthemenbasvuru.biz
+toplukonuthh.verceldomain.com
 toplukonutiadresi.duckdns.org
 toplukonutidareleri358122.vercel.app
 toplukonutidaresi.gravitycl.app
@@ -96807,6 +96834,7 @@ trendyol-com.tk
 trendyol-express.guvenlitr.com.tr
 trendyol-in.com
 trendyol-indirim-servisi.ml
+trendyol-khaki-one.vercel.app
 trendyol-life.com
 trendyol-ode.com
 trendyol-onlinemobil.com
@@ -105115,6 +105143,7 @@ workwithbera.xyz
 workwitheigen.xyz
 workwithlinea.xyz
 workwithsei.xyz
+world-captain-dextt.xyz
 world-captain.cyou
 world-resorts.net
 world-stores2022.com
@@ -108510,6 +108539,7 @@ yeniillarimizda-girilm.com
 yeniiosmysder.net
 yeniisigortacii.web.tr
 yeniiyilozellaidatiadefrsati.org
+yeniiyilprmsynnkmpnyakred42.online
 yeniizim.org
 yenikampanyalaryeni.hopto.org
 yenikampayaformuozelkatilim.can.re
@@ -109018,6 +109048,9 @@ yklmrdnsnrahgs.cfd
 yklmypss.net
 yklmznnmxx.net
 yklsm.org.tr
+ykndaasncaerece543.online
+ykndaasncaerece543.pro
+ykndasonace45430.online
 yknoxe.xyz
 ykrandvu.net
 ykrendvum.b-cdn.net
