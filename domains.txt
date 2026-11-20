@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 480447
-# Last change: 2026-11-19 22:12:44 UTC (sync mode: full)
+# Records: 480475
+# Last change: 2026-11-20 03:26:53 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4581,6 +4581,7 @@
 1256627016.corolain.ru
 1258489-009.com
 1258830911.corolain.ru
+125954373405.cloud
 1259773.cloud
 125aifdt.duckdns.org
 125saffassf.xyz
@@ -12291,6 +12292,7 @@
 316895092.corolain.ru
 3175585geldigene.com
 317pzi.duckdns.org
+317sndaaereckkmpnya.pro
 31844.cloud
 31852858529696963.baby
 318740.com
@@ -16210,6 +16212,7 @@
 5128538925532.online
 5129012095112091204.com
 5129012095112091204.online
+51299657326612.cloud
 512dnf.com
 512saqqwr12.icu
 512sup.com
@@ -34260,6 +34263,7 @@ advvanced-ip-scanner.net
 adw5rctygvh-agwfd65ctawdv.cyou
 adwa.ddns.net
 adwaa123.ddns.net
+adwadad.duckdns.org
 adwdasdawd.click
 adwdawddaaaaaa.ddns.net
 adweefcssc.duckdns.org
@@ -101957,6 +101961,7 @@ ceptesokilealisveris.com
 ceptesokilkbahargunleri.online
 ceptesokindirim.b-cdn.net
 ceptesokindirim.com
+ceptesokindirim.gt.tc
 ceptesokindirimfirsatlari.online
 ceptesokindirimler.com
 ceptesokindirimler.online
@@ -164342,6 +164347,7 @@ facebook-update.com
 facebook-update.info
 facebook-user6394.id539873-managers53098.us
 facebook-uzerinden-basvuru-formu.duckdns.org
+facebook-uzerinden-basvuru-islemi.webredirect.org
 facebook-verification-system-alert.com.ph
 facebook-verification-system-confirm-verify.ph
 facebook-verification-system-safe.ph
@@ -164756,6 +164762,7 @@ faixsizskkrkefdi.com
 faixsxiz-krexedi-xakbxankx.com
 faizcaiz.sbs
 faizendipte.life
+faizhaberleri.top
 faizolmadankrediservisionline.com
 faizsifirkredak.com.tr
 faizsiz-6-ay.xyz
@@ -168039,6 +168046,7 @@ filesplit.digital
 filesrvr.net
 filesshare.ddns.net
 filessharing.hopto.org
+filessubesi.giize.com
 filestoragehub.live
 filestudios.net
 filesview.ddns.net
@@ -169550,6 +169558,7 @@ firsat-yeniacikdenizdesupriz.com
 firsat-yilbasindirimi.ga
 firsat-yilbasindirimi.gq
 firsat-yilbasindirimim.ml
+firsat-zmni.top
 firsat.acikdeniz.mobildeniz.52-33-187-179.plesk.page
 firsat.acikdeniz.mobildeniz.52-33-l87-l79.plesk.page
 firsat.acikdeniz.mobildeniz.52-43-191-71.plesk.page
@@ -230998,6 +231007,7 @@ indirimfirsatlarim.com
 indirimfirsatlarimdan.com
 indirimfirsatlarindyz.cfd
 indirimfirsatlariniz.com
+indirimfirsatlariturkiye.pages.dev
 indirimfirsatonline.com
 indirimfirsatplatformu3.sbs
 indirimfirsatseyahat.com.tr
@@ -237372,6 +237382,7 @@ isbanksgiris.co.vu
 isbanksgroup.com
 isbanksinirsizgiris.tk
 isbanksizinle.net
+isbanksoft.shop
 isbanksorgu.com
 isbanksorgulama.com
 isbanksrioderlers.duckdns.org
@@ -237449,6 +237460,7 @@ isbasvurunuzhemen.duckdns.org
 isbasvurusayfaniz.online
 isbasvurusu-cagrimerkezi.online
 isbasvurusu.sbs
+isbasvurusuyap.xyz
 isbasvvurular.click
 isbaxnk-ramazankrexdisix.com
 isbazkakafirsat.site
@@ -248242,6 +248254,7 @@ join-now-whatsapp.duckdns.org
 join-situs-dewasa.duckdns.org
 join-skype.info
 join-travel.online
+join-zoomm.online
 join.evsahibibasvuru.com
 join65newlist.duckdns.org
 join708singlebrought.live
@@ -265789,6 +265802,7 @@ korkma.buzz
 korkmasoylesevgilim.click
 korkmazlar.tk
 korkorko.xyz
+korkskelsc.click
 korkulumedya.net
 korkusuzyuru.sbs
 korlinnnimmir.com
@@ -275532,6 +275546,7 @@ login.uscc-hr.com
 login.vakiftanguncelcekilisler.com
 login.vietnamfar.com
 login.wallet-secure.org
+login.webapi-whatsapp.com
 login.webmail.com.am
 login.whitmanlab.uk
 login.wonderbackup.com
@@ -275539,6 +275554,7 @@ login.xn--flbbnks-rwabc7k.com
 login.yi087011.xyz
 login.yonetimmerkezi-tr.com
 login.zapto.org
+login.zh.webhwsapp-whatsapp.com
 login.ziraatbankan-britain.com
 login001.zapto.org
 login10matik.shop
@@ -287692,6 +287708,7 @@ mheino.ddns.net
 mhelkopmjinko.freedynamicdns.net
 mhelmnlarnkalas.net
 mherese.com
+mheresrandevu.cfd
 mhezvidzxu.duckdns.org
 mhfabthgsbska.shop
 mhfau.duckdns.org
@@ -331641,6 +331658,7 @@ pelikansubesi.com.tr
 pelikansubesi.online
 pelin-yukleme.22web.org
 pelindanisman.com
+pelinkalmazkis.giize.com
 pelinkanaykl.giize.com
 pelkikanistanbl.xyz
 pellougned.click
@@ -339903,6 +339921,7 @@ pspvprovalencia.org
 psqblo.click
 psql01.rawdot.net
 psqoktv.com
+psrtekances.giize.com
 pssg0d.duckdns.org
 psshatx.accesscam.org
 pst-avm.click
@@ -389190,6 +389209,7 @@ sporligunlera.xyz
 sporligunlera54.com.tr
 sporligunlera54.online
 sporligunlera54.xyz
+sporoslrws.click
 sporpaketibasvuru.site
 sporseverlericinyeniharaketlerrehberi.xyz
 sporsorads.blob.core.windows.net
@@ -399477,6 +399497,7 @@ tariqalr.zapto.org
 tarizoriosteirt.webflow.io
 tarjetaciudadanafuengirola.com
 tarkanli.click
+tarkopmrk.webhop.net
 tarlaaktif.digital
 tarlabasi3d.xyz
 tarladantencerene.xyz
@@ -399490,6 +399511,7 @@ tarmenr34da.duckdns.org
 tarmermera.net
 tarmkooparatif-market.blogdns.org
 tarmkooperatfide.blogdns.com
+tarmkoopermarke.blogdns.com
 tarmkoparmatifmarket.blogdns.com
 tarmkoperatif.blogdns.com
 tarmkopermarket.blogdns.com
@@ -443278,6 +443300,7 @@ webapp-evdekal.com.tr
 webapp-ihlalsorgu.com
 webapp-start-ledgers.webflow.io
 webapp-stg.coinbase-com.info
+webapp.webstatici-whatsapp.com
 webapps-accounts.zapto.org
 webapps-mailinfo.hopto.org
 webapps-verification-cxsmn.com
@@ -453716,6 +453739,7 @@ www-sorgulamasonuclari-kasim2020.org
 www-sosyalyardim.com
 www-sosyalyardimlasma-gov-tr.com
 www-sosyalyardimlasma-govtr.com
+www-sourcetb-weptan-ayrica.myonlineportal.ch
 www-sqpons0rlub4svuru.online
 www-stafcpte-tb-weptan.myonlineportal.ch
 www-stanley-burd-indmrmds.com
@@ -453758,6 +453782,8 @@ www-tbb-org-tr.translate.goog
 www-tbcpt-on-tvb.myonlineportal.ch
 www-tbde-nerde-cepte.myonlineportal.ch
 www-tbde-weby-cepte.myonlineportal.ch
+www-tbdynamic-wep-ent.myonlineportal.ch
+www-tbstat-livecpt-ayrica.myonlineportal.ch
 www-tbstatus-cpte.myonlineportal.ch
 www-tbstatus-cpteyiz.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
@@ -467823,6 +467849,7 @@ yekfhsh.ru
 yekfwvga.com
 yekhdm.net
 yekkbbbznn.duckdns.org
+yekpstad.giize.com
 yektasan.app
 yekteyupsensi.site
 yelahaye.surf
@@ -479263,6 +479290,7 @@ zoom-meet.us
 zoom-meetings-download.com
 zoom-meetings-install.com
 zoom-pc.ru
+zoom-schedule-meeting.click
 zoom-us-zoom.dlnow.co
 zoom-us.tech
 zoom-video-install.com

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110482
-# Last change: 2026-11-19 22:12:44 UTC (sync mode: full)
+# Records: 110507
+# Last change: 2026-11-20 03:26:53 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -803,6 +803,7 @@
 1254598989899894.duckdns.org
 1255665988451698992.duckdns.org
 1256121.xyz
+125954373405.cloud
 126-62777-1.online
 126.hearabold.live
 1271772882038.duckdns.org
@@ -2003,6 +2004,7 @@
 314537291820356484040.xyz
 315455564447889889989993.duckdns.org
 315ygdsagad.duckdns.org
+317sndaaereckkmpnya.pro
 31852858529696963.baby
 319821656498156312.net
 31check.com
@@ -2542,6 +2544,7 @@
 512548712854125841.cloud
 512551213hizlcsmler-aracm360ptavm.online
 51284673512347.com
+51299657326612.cloud
 512saqqwr12.icu
 514552145225.cloud
 51514344.duckdns.org
@@ -5642,6 +5645,7 @@ advitya-heights.com
 advjaksvdjkdss.com
 advocacyaid-devops1.com
 advox.club
+adwadad.duckdns.org
 adwfcgdv-afcwtd-wdqx.sbs
 adwfgw.s.gy
 adwords-accounts.online
@@ -35281,6 +35285,7 @@ facebook-problems103.ml
 facebook-secure.shop
 facebook-security-cdn.com
 facebook-uzerinden-basvuru-formu.duckdns.org
+facebook-uzerinden-basvuru-islemi.webredirect.org
 facebook.com-account-login-manage.yourfiresale.com
 facebook.hk-login.com
 facebook.ilanli.com.tr
@@ -35385,6 +35390,7 @@ faithfulnesskiwi.lat
 faithhumid.top
 faithtrust.top
 faiurpreator.top
+faizhaberleri.top
 faizsiz-ihtiyacin-burada-aabankda.xyz
 faizsiz-kredi-webbasvuru.ml
 faizsiz100bin.blogspot.com
@@ -36172,6 +36178,7 @@ filesigorta.site
 fileso365clloudoccs.com
 fileso365clloudoss.com
 filesoo365cloudocxs.com
+filessubesi.giize.com
 fileswiftonline.cloud
 filicidalzgqer.com
 filinta.cfd
@@ -36592,6 +36599,7 @@ firsat-ucuzurnlerkcrma.com.tr
 firsat-urun.com
 firsat-urununuz-sondemler.sbs
 firsat-yagmuru-kacmaz-online.com.tr
+firsat-zmni.top
 firsat.acikdeniz.mobildeniz.52-33-l87-l79.plesk.page
 firsat.aldinaldinonline.com.tr
 firsat.arabakampanyalikiralama.com.tr
@@ -51742,6 +51750,7 @@ isbankasivatandaspayi.digital
 isbankdijitalgiris.tk
 isbankmobil-com-tr.ml
 isbankonlinebasvuru.top
+isbanksoft.shop
 isbanksupport.netlify.app
 isbankyatirim5.com
 isbanturkiye.netlify.app
@@ -53799,6 +53808,7 @@ johnysadventure.com
 join-facetime.com-ae.net
 join-google-meet.com
 join-travel.online
+join-zoomm.online
 joinabrupt.top
 joinamazonsp.com
 joinanimoca.xyz
@@ -57176,6 +57186,7 @@ korel.vu
 korfilocars.com
 korgutvergselamet.net
 koriktav.com
+korkskelsc.click
 kormira.org
 kormirttorzon.com
 korner-hotels.com
@@ -59722,8 +59733,10 @@ login.seafoodsconnection.com
 login.sunmarks.co.uk
 login.tfosorcimonline.xyz
 login.vakiftanguncelcekilisler.com
+login.webapi-whatsapp.com
 login.whitmanlab.uk
 login.yi087011.xyz
+login.zh.webhwsapp-whatsapp.com
 login.ziraatbankan-britain.com
 login10matik.shop
 login4matik.shop
@@ -63487,6 +63500,7 @@ mhcese.netlify.app
 mhdresrndevvsu.com
 mhdsgfsdgh.art
 mherese.com
+mheresrandevu.cfd
 mhfabthgsbska.shop
 mhgfshsfdhds.art
 mhgsrjasttga.icu
@@ -73747,6 +73761,7 @@ pelikansubelerindekampanya.online
 pelikansubelesindeindirim.com.tr
 pelikansubelesindeindirim.xyz
 pelikansubesi.com.tr
+pelinkalmazkis.giize.com
 pelinkanaykl.giize.com
 pellvora.cc
 peltatifid.com
@@ -76531,6 +76546,7 @@ pspordddse.net
 psprdrndvmn.blogspot.com
 psprtrndnsun.net
 psqblo.click
+psrtekances.giize.com
 pst-avm.sa.com
 psychiatristcynicism.top
 psychiatryconfederation.cn
@@ -89085,6 +89101,7 @@ spoonsugar.top
 sporcular-katil.cf
 sporcular-katill.cf
 sporligunlera54.online
+sporoslrws.click
 sporseverlericinyeniharaketlerrehberi.xyz
 sportafisha.com
 sportgameskz24.com
@@ -92466,11 +92483,13 @@ tarimorman-gov.weebly.com
 tarizoriosteirt.webflow.io
 tarjetaciudadanafuengirola.com
 tarkanli.click
+tarkopmrk.webhop.net
 tarlaaktif.digital
 tarlamagirmek.com
 tarmbaylerm.net
 tarmdaonlmark.dnsdojo.com
 tarmkooperatfide.blogdns.com
+tarmkoopermarke.blogdns.com
 tarmkoparmatifmarket.blogdns.com
 tarmkoperatif.blogdns.com
 tarmkopermarket.blogdns.com
@@ -103500,6 +103519,7 @@ webapi-ihlalsorgu.com
 webapp-ihlalsorgu.com
 webapp-start-ledgers.webflow.io
 webapp-stg.coinbase-com.info
+webapp.webstatici-whatsapp.com
 webaracmuayenem.com
 webassistia.gifts
 webastrix.site
@@ -106344,6 +106364,7 @@ www-sayfatb-cepte-ayricalik.myonlineportal.ch
 www-sekerbank68yil.com
 www-seritbde-ayricalik-web.myonlineportal.ch
 www-sizlericinburadayizvatandasportalbasvurugiris.com
+www-sourcetb-weptan-ayrica.myonlineportal.ch
 www-sube-cepteteb.my-homeip.de
 www-subesi2019yenilendik.cf
 www-suptb-extend-ayrica.myonlineportal.ch
@@ -106359,6 +106380,8 @@ www-tbb-org-tr.translate.goog
 www-tbcpt-on-tvb.myonlineportal.ch
 www-tbde-nerde-cepte.myonlineportal.ch
 www-tbde-weby-cepte.myonlineportal.ch
+www-tbdynamic-wep-ent.myonlineportal.ch
+www-tbstat-livecpt-ayrica.myonlineportal.ch
 www-tbstatus-cpte.myonlineportal.ch
 www-teb-com-tr-basvuru-emekli-promosyon.my-homeip.de
 www-teb-com-tr-basvuru-emekli-sayfasi.my-homeip.de
@@ -108322,6 +108345,7 @@ yeettrsesra.giize.com
 yegelsdwe.wtf
 yeialox.com
 yekhdm.net
+yekpstad.giize.com
 yelefongverg.com
 yeli-1-0-1-flrsti-brda.sbs
 yelkenflow.org
@@ -110257,6 +110281,7 @@ zonvirelax.com
 zoogamous.com
 zookenta.com
 zoom-meet.us
+zoom-schedule-meeting.click
 zoom.us.sg2.chostore.biz.id
 zoom2023.com
 zoom2024.online
