@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66243
-# Last change: 2026-11-18 22:01:46 UTC (sync mode: delta)
+# Records: 66250
+# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -4162,6 +4162,7 @@
 4ualndr.duckdns.org
 4uc9qqg4p.duckdns.org
 4uchimeinfo.duckdns.org
+4uda1n18wkfeta2.icu
 4udashbooard-signin.ddns.net
 4ued5gjy.duckdns.org
 4ufa6z7.duckdns.org
@@ -15739,6 +15740,7 @@ cfdprivateme9082.serveirc.com
 cfg3i0e7.duckdns.org
 cfhacker.zapto.org
 cfimvu3.duckdns.org
+cfiunxbmdm.monster
 cfix6bi9w.duckdns.org
 cfkknzruqr.duckdns.org
 cflgpgaaoh.duckdns.org
@@ -21841,6 +21843,7 @@ ebx2ik4.duckdns.org
 ebxuq.duckdns.org
 ebyopliebx.duckdns.org
 ebyxlmijfb.duckdns.org
+ebzgddobsbv.sbs
 ebzpqnjfby.duckdns.org
 ec.ccm2.net
 ec0s2yci.duckdns.org
@@ -25751,6 +25754,7 @@ ganekogorta.zapto.org
 gangsterboy.zapto.org
 gangstergo.com
 gangxgang.ddns.net
+ganh63mks3ys.icu
 ganjaman550.ddns.net
 ganopahep.ru
 ganorsa.com
@@ -46191,6 +46195,7 @@ protected-srvices.duckdns.org
 protectedaccntsafety.duckdns.org
 protectedebitca.ddns.net
 protectedipforedd.ddns.net
+protectedviewer.linkpc.net
 protectforavno.net
 protectid.zapto.org
 protectingsearch.com
@@ -61669,6 +61674,7 @@ windows-updates.services
 windows10-11.ddns.net
 windows10.zapto.org
 windows13.ddns.net
+windows22.help
 windows24-kernel.in
 windows31.ddns.net
 windows453update.ddns.net
@@ -63208,6 +63214,7 @@ xforxlogin.ddns.net
 xfqbnqih.xyz
 xfreddy2751.duckdns.org
 xfreddy318s.ddns.net
+xfuaxlw4-afs.icu
 xfufjyapli.duckdns.org
 xful94h.duckdns.org
 xfvdohicjy.duckdns.org

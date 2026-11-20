@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 41999
-# Last change: 2026-11-19 13:21:19 UTC (sync mode: delta)
+# Records: 42011
+# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -941,6 +941,7 @@
 3in1coffeecup.website
 3izxohhwhgmlg4bc4t6.net
 3jsufi.com
+3k7d7v5hn.workers.dev
 3k7m1n9p4q2r6s8t0v5w2x4y6z8u9.com
 3llah23.run.place
 3mk0f4.ivid7.ru
@@ -6246,6 +6247,7 @@ boemobww.ddnsfree.com
 boeschboddenspies.com
 boezulyf.com
 bofr7.no.ip.org
+bog1hav1ged3-1jtn.workers.dev
 boharfgotwsdlsp.ru
 bohgiwe.com
 boiibzqmk12j.com
@@ -13543,6 +13545,7 @@ fenomeno.gq
 fentq.org
 fenvefizikdusunceler.xyz
 feopqwoeqw245.ga
+fep0bupuhag2-o0kk.workers.dev
 fer3aun.ddns.net
 ferbsqlv28.club
 ferdinandsaf.s3.eu-central-1.amazonaws.com
@@ -18976,6 +18979,7 @@ j0nhy.pw
 j0rd4natoretto1.xyz
 j1145058.myjino.ru
 j1d3c3mex.homesecuritypc.com
+j1nanyd1jot2-lwml.workers.dev
 j1p75639.medianewsonline.com
 j2.premiumdns.top
 j22goldsmith.xyz
@@ -21017,6 +21021,7 @@ kzoeatxli.com
 kzvimw.com
 kzxkvkq3kevkq.xyz
 l.raidmedia.com.cn
+l0mad1fugiv2-7mtj.workers.dev
 l0vew1n5.xyz
 l155vcram2hl6ws0.online
 l1m0nj4rul3es.xyz
@@ -25292,6 +25297,7 @@ neleroluyo.xyz
 neleroluyor.xyz
 neleroluyorhayatta.xyz
 nelivo.com
+nelol0k0tys3-jbne.workers.dev
 neltron-geltron.shop
 nemijqqjgephjube.com
 nemixxvgsbgurgl.cn
@@ -30942,6 +30948,7 @@ rpdqrqqvuh.duckdns.org
 rpfxuz.com
 rphdm.aintsona.ru
 rplfiutrqcehbuw.cn
+rplix.cc
 rpm-chicken-during-staying.trycloudflare.com
 rpnist.com
 rpoasoosasal.com
@@ -32022,6 +32029,7 @@ sekhmetleaks.top
 seklolesefhges.site
 sekmwu.com
 seko.vipers.pw
+sekolonozus3-erij.workers.dev
 sekubar.com
 sel6bu6eft06.primevoria.com
 selambebekbenkelebek.com
@@ -33429,6 +33437,7 @@ soneservice.shop
 songs-mounts.at.ply.gg
 songsthinkableevents.xyz
 sonhmvsyqtj.com
+sonic-c2-front.workers.dev
 sonicradius.cf
 sonicsirinflux.xyz
 sonosmanlidevleti.site
@@ -35044,6 +35053,7 @@ tehlikee.com
 tehliqe.duckdns.org
 tehrantimes.org
 tehyud.com
+tej0kygaj0g3-tad7.workers.dev
 tejapch.com
 tejghhnxpbppafs.net
 tejgwgkkbxxp.org
@@ -37609,6 +37619,7 @@ vagubambam.com
 vahlallha.duckdns.org
 vahycapthdoclpb.ru
 vaineriveh.xyz
+vajowigus0p3-yw4k.workers.dev
 vajznewzsisejxzj.com
 vaktiylekendilerini.fit
 valanceddns.ddns.net
@@ -41636,6 +41647,7 @@ zestmodp.top
 zestyahhdog.com
 zetalinks.tech
 zetgfegsdsegdsg.ddns.net
+zetogebuw1s2-5hzu.workers.dev
 zeus3dpari.org
 zeus45-3.com
 zeusarakoid12.site

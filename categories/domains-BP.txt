@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260603
-# Last change: 2026-11-20 03:26:53 UTC (sync mode: delta)
+# Records: 260618
+# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2525,6 +2525,7 @@
 12aralikfirsatlarkacirma.xyz
 12araliksupuurgeeesss.online
 12asbimcell.net
+12axiontheravexultronicengineering.cyou
 12bimcehizmetleri.net
 12bimcelloglen12.com
 12busuckmarttasifrance.cloud
@@ -10252,6 +10253,7 @@
 8712415613457856123.online
 8731293129521.cloud
 873218331.click
+874526snnfrstlrknpya.online
 87456116.cloud
 874565755.cloud
 8746-5784-326945462-28734.com
@@ -10618,6 +10620,7 @@
 92-3-4-5-1-2-5-6-7.pro
 92109990099909.duckdns.org
 921253831538316611.com
+92136sonsanstknpya.online
 92188189091.cloud
 921ubg49327872b38.fun
 921ubg49327872b38.site
@@ -27790,6 +27793,8 @@ aradiginurunler.sbs
 aradiklarin-burada.com
 aradiklarinesyalarburada.sbs
 araecxemkdx.net
+arafandana.5765436434456.sbs
+arafandana.89458645615.sbs
 arafatoles.xyz
 arafminsa.sbs
 arafminza.sbs
@@ -44948,6 +44953,7 @@ bireysele-ucret-geri-iadesi-basvurularimiz.tk
 bireysele-ucret-geri-iadesine-ozel-basvurularimiz.tk
 bireyseleacikdenizv2denizbank.co.vu
 bireyseledvltgrs.online
+bireyselekranlarformlar.duckdns.org
 bireyselemeklilik.life
 bireyselemeklilikbes.com
 bireyselenparaiadeislemleri.com
@@ -50902,6 +50908,7 @@ bonusbasvurulari15234.sbs
 bonusbasvurusayfasi125562705.sbs
 bonusbasvurusayfasi1256705.sbs
 bonusbasvurusayfasi2342355.sbs
+bonusbasvurusayfasi236704.sbs
 bonusbasvurusayfasi3254325.sbs
 bonusbasvurusayfasi906705.sbs
 bonusbenimle.cf
@@ -61847,6 +61854,7 @@ cryptoregancy.xyz
 cryptoriahq.com
 cryptotokimarket.store
 cryptotrust.cfd
+cryptovantix.cyou
 cryptovault.sbs
 cryptowisea.com
 crypttobox.com
@@ -95458,6 +95466,7 @@ firsatlarkapisi.site
 firsatlarkapiyageldii.com
 firsatlarkaydetin.com
 firsatlarkirmizidangelir.com
+firsatlarkmphya432.online
 firsatlarla-dolu-gunler-basladi.shop
 firsatlarla-dolu-yaz.cloud
 firsatlarla-geldi.biz.tr
@@ -103716,6 +103725,7 @@ giris-yatirimisbnksimdihemen.site
 giris-yeni-basvuru-aidatiadeniz.net
 giris-ziraat.info
 giris-ziraatbank.us
+giris-ziraatmobile.com
 giris.04122024bntr.com
 giris.120v.ac
 giris.44-204-107-53.plesk.page
@@ -163131,6 +163141,7 @@ mobil-subesiz-giris.com
 mobil-subesiz-giris.online
 mobil-t-e-b-firsatlari.com
 mobil-tbmm-aidet-gov-tr.com
+mobil-teb-gir.my-homeip.de
 mobil-teb-onay.my-homeip.de
 mobil-tebkampanyam.my-homeip.net
 mobil-tokibasvuruyap.vercel.app
@@ -192533,6 +192544,7 @@ qornas.com
 qornazek.com
 qornila.click
 qorun.shop
+qorvantis.cyou
 qosidie.com
 qostavem.com
 qov-tr.com
@@ -210260,6 +210272,7 @@ sonnnfrstlrrkmpnyaabsvrrr.info
 sonnnfrstlrrkmpnyaabsvrrr.online
 sonnnfrstlrrkmpnyaabsvrrr.pro
 sonnnfrtsltarrrrprmsynnkmpnya.pro
+sonnnftsltarkmpy12543.online
 sonnngnllrrmzartkk.duckdns.org
 sonnnnfrstkkkmpnyabsvrr.art
 sonnnnfrstkkkmpnyabsvrr.info
@@ -243961,6 +243974,7 @@ www-subesiztebgiris-2021.com
 www-subesizvakifbank-giris2021.com
 www-subesizvakifbankgiris-2021.com
 www-t-eknosa.com.tr
+www-tbprom-weby-advante.myonlineportal.ch
 www-tbstatus-cpteyiz.myonlineportal.ch
 www-tbte-cpte-nov.myonlineportal.ch
 www-tc-cimer-duyuru.com
@@ -245148,6 +245162,7 @@ wwwtokibasvur.online
 wwwtokibasvur.sbs
 wwwtokibasvur.xyz
 wwwtonianatara.com
+wwwtr.cfd
 wwwtr155polis.online
 wwwtr155polisi.online
 wwwtrbinance.com

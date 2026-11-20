@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110507
-# Last change: 2026-11-20 03:26:53 UTC (sync mode: delta)
+# Records: 110527
+# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -589,6 +589,7 @@
 108-174-9-166.fwd.coinbase-com.info
 1085479865.rsc.cdn77.org
 109-123-241-42.plesk.page
+10axiontheravexultronicengineering.cyou
 10c468af.i0joqk.cn
 10gb-destek-hizmetleriweb-trgiris.com
 10gbhadiyepaket.site
@@ -2587,6 +2588,7 @@
 53c15d1f.jdhuwoskz.cloud
 541221125565556559992.duckdns.org
 541221125565556559993.duckdns.org
+541251765.cloud
 5426554265521.duckdns.org
 5430811591840151.sbs
 5435345435.cloud
@@ -28971,6 +28973,7 @@ dnzsmdndnenckelziekatilsanasdfajdsh.net
 dnzsmdndnncklzizeektlsnananannadfg.net
 dnzsmdnenncneklizekatlsanasdasdau.net
 dnzsmndncklizeerfasd.net
+dnztr.cfd
 dnztransport.com
 dnzubksaf.xyz
 dnzzkarayolugecisborcodemem.duckdns.org
@@ -36175,6 +36178,7 @@ filemobil.duckdns.org
 filemrktm.click
 files.mycoinba.se
 filesigorta.site
+filesmrks.duckdns.org
 fileso365clloudoccs.com
 fileso365clloudoss.com
 filesoo365cloudocxs.com
@@ -36253,6 +36257,7 @@ filotokiralama.net
 filoyolcukiralama.com
 filoyolcukiralama.ga
 filroominfo.com
+filsgustnonli.duckdns.org
 filterencyclopedia.top
 filterhypocritical.top
 filterrobst.top
@@ -40245,6 +40250,7 @@ giris.kt-vaikf.online
 giris.kuv-islem.online
 giris.ky-tvt.online
 giris.l3-69-l02-l59.plesk.page
+giris.mobil-teb.com
 giris.mobil-ziraat.org
 giris.ozgurbeyhizmetleri.com
 giris.pap1ara.com
@@ -42402,6 +42408,7 @@ guvendesepetimnet.shop
 guvendesigortam.com.tr
 guvendesiniz.online
 guvendesiparis.com.tr
+guvendesistemnet.store
 guvendeticaretnet.store
 guvendetr.co
 guvendetr.online
@@ -50640,6 +50647,7 @@ infoyatirim.pro
 infoyatirim.work.gd
 infoyatirimreferans.com
 infoyatirimsube.com
+infoyatrimmenkul.pro
 infportfolio.online
 infraoccipital.com
 infrastru.digital
@@ -55265,6 +55273,7 @@ kasmbasvurtt0ki.online
 kasmdakrcndzndglnlr.com
 kasmindrmleri2023.online
 kasmlrdakrcallarda.cfd
+kasmmykmpybsv48213.online
 kasolol03438473.shop
 kassa-musichall.com
 kassa-muzcomedy.com
@@ -63019,6 +63028,7 @@ mengchongbaotoys.com
 menkulcuzdanim.online
 menkuldegerleroyak.com
 menkulkiymetlerosmanli.com
+menkulkiymetleroyak.com
 menkulvcuzdan.com
 menotyy.pics
 mensweariuunners.info
@@ -71765,9 +71775,11 @@ oyakciimento.com
 oyakciment.com
 oyakcmento.com
 oyakcmento.shop
+oyakemenkuldegerler.com
 oyakglobal.com
 oyakglobal.com.tr
 oyakmenkulyatirim.com
+oyakmobil.com
 oyakportfoytrader.com
 oyaktrade.com
 oyaktradeplus.com
@@ -81906,6 +81918,7 @@ sahibinden-get-para.com
 sahibinden-get-param-guvende.bireysel-hizmeti-s.com
 sahibinden-get-param-guvende.bireysel-hizmetleri-s.com
 sahibinden-get-paramguvende.xyz
+sahibinden-get.alisveris-sepet-guvende-20.sbs
 sahibinden-get.alisverisepet-islem-10.sbs
 sahibinden-get.alisverisepetin-12.sbs
 sahibinden-get.alisverisepetin-14.sbs
@@ -86731,6 +86744,7 @@ sirinivas.com
 siriqui.xyz
 siritmax.sbs
 siritmax.xyz
+sirkipdol.net
 sirlarinizi-bizden-saklamayin-kimseler-duymasin.com
 sirypya.com
 sisarar.top
@@ -95143,6 +95157,7 @@ togg5000stok.click
 toggarac.com
 toggariza.xyz
 toggbasvur.com
+toggbasvuru.com
 toggbasvurular.com
 toggbasvurum.com
 toggcekilisi2023.one
@@ -96012,6 +96027,7 @@ tr-ilanimiz.com
 tr-ilanlarim.com
 tr-ininal.com
 tr-internet-erisim.site
+tr-islemler-web-tr-getalisveris.online
 tr-jethizmet.com.tr
 tr-kampanya-a.website
 tr-kampanyasisizlericinhemenbasvur.cloud
@@ -96098,6 +96114,7 @@ tr-sokraca.shop
 tr-sorgu.site
 tr-sorguportal-basvurupaributeknolojisi-com.tk
 tr-subesi.site
+tr-tc.my-homeip.de
 tr-teb-com.my-homeip.de
 tr-tekoaos.cc
 tr-tog.com
@@ -96120,6 +96137,7 @@ tr-web-giris-pages.net
 tr-web-portal.online
 tr-web-sayfamiz-e-ticaret-bak.net
 tr-webalisveris-tr-getislemler.online
+tr-webalisverisler-tr-getalisveris.online
 tr-webalisverisler-tr-getislemler.online
 tr-webislemlerim-getalisveris.online
 tr-website.site
@@ -98718,6 +98736,7 @@ tuv-arac-muane.net
 tuv-iis.digital
 tuv-res.digital
 tuv-trk.net
+tuv-trkhizmetiniz.duckdns.org
 tuv.12855w652.forum
 tuvarac.com
 tuvaracmuaynehizmetleri.net
@@ -109075,6 +109094,7 @@ yklsm.org.tr
 ykndaasncaerece543.online
 ykndaasncaerece543.pro
 ykndasonace45430.online
+ykndsonaecek4148.online
 yknoxe.xyz
 ykrandvu.net
 ykrendvum.b-cdn.net
