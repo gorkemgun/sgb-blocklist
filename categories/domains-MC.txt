@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42011
-# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
+# Records: 42022
+# Last change: 2026-11-20 21:12:36 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -7023,6 +7023,7 @@ c9xfb8u1cad3m.net
 ca70273.tmweb.ru
 ca7em.uqauv.cn
 caankrm4532.com
+caapman.me
 cab2cablink-space.com
 cabbagecircle.xyz
 cabinet-gov-bd.dwnlld.info
@@ -9752,6 +9753,7 @@ daemonundesto.duckdns.org
 daeyhkvsrohfwln.ru
 daeyuni.weebly.com
 dafnefonseca.com
+dafoogrupa.blog
 dagevleri18.zapto.org
 dagfdyer.site
 daginvusc.com
@@ -10902,6 +10904,7 @@ doc-send.com
 doc.rainaschiffer.com
 doc.uploadsfiles.xyz
 doc2rprevn.buzz
+docardebiary.blog
 doccallingupdate.blogspot.com
 doccloude.info
 doccloudonedrivefiles.com
@@ -15092,6 +15095,7 @@ gerelec.site
 gerenteempresarial.voyage
 gerepa.com
 gergedanayakortusu.com
+gerlace.com
 germany99.com.de
 germanygang2.xyz
 germanysupportspk.com
@@ -21988,6 +21992,7 @@ loud2135.xyz
 louispasteur.app
 loukpin.xyz
 loukzerrrr-60804.portmap.host
+lourohamiv.blog
 louvre-event.com
 louvrebil.click
 louyebskabxag.xyz
@@ -26175,6 +26180,7 @@ nupdate0625.com
 nupogodi.cfd
 nur-news.com
 nutiensel.com
+nutmann.club
 nutp7.nut.cc
 nutrivital-in.com
 nutspower.host
@@ -26609,6 +26615,7 @@ oktacheck.it.com
 oktaymhaliyikamafabrika.site
 oktrabalhox021.ml
 oktube999.info
+okuneva.sbs
 okussana1.net
 okwtz.com
 okwzc.com
@@ -32992,6 +32999,7 @@ skategirlchina.com
 skdjrngksjfbrktjennfkfkrnehe.xyz
 ske9dhn.c1.biz
 skedoilltd.com
+skeegulduz.blog
 skeetcheat.ddns.net
 skeetdnsask.ddns.net
 skeleton12.xyz
@@ -35273,6 +35281,7 @@ tevjorycxvhtily.cn
 tevokaxol.com
 tewen006.com
 tewen007.com
+tewiascomp.blog
 tewmwv.info
 texas-much.at.ply.gg
 texasgroovy657.weebly.com
@@ -38086,6 +38095,7 @@ viktor2.com
 vilaoaza.com
 vilape.online
 vilaverde.ru
+vilialobos.lol
 vilimonstertut.ru
 villagedguy.cyou
 villasalterakaiomy.toreain-samaota-1985.workers.dev
@@ -38493,6 +38503,7 @@ vszlgr.com
 vtagp.com
 vtalorkgy.com
 vtbgfl.com
+vtevens.icu
 vtfexwu.com
 vthlmfp.com
 vtiabejbybbihqv.ru

@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260618
-# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
+# Records: 260627
+# Last change: 2026-11-20 21:12:36 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2163,6 +2163,7 @@
 11araliksonlar.com.tr
 11araliksonlar.online
 11araliksonlar.xyz
+11axiontheravexultronicengineering.cyou
 11canissiparislerini.cloud
 11canistassiparislerin.cloud
 11dsskd255asds.com
@@ -7370,6 +7371,7 @@
 3ocakindirimim.online
 3ocakindirimim.xyz
 3onuceylulindi.trade
+3orvexalithrontechnologies.cyou
 3owala.shopbuyreviews.com
 3p01i3lkx.icu
 3pthsg.xyz
@@ -8583,6 +8585,7 @@
 5646545645644j46544.duckdns.org
 564654654654654654654654.xyz
 5646788524185.com
+564923597550182.cloud
 5649655666.cloud
 5649846519845688.cloud
 564sad748sa1das455d4sa.site
@@ -9609,6 +9612,7 @@
 74638477382983-84832222.online
 74638477382983-84832222.xyz
 7463i37648930o5763675.cfd
+746846513.sbs
 746fed14efbf6203bac07fc4241b3931.online
 746o587366p56026472.work.gd
 747373111.cloud
@@ -25831,6 +25835,7 @@ anadolu-ajans-tr.com
 anadolu-ajansi.com
 anadolu-jet.com.ru
 anadolu-turkey.com
+anadolu.menkulcuzdanim.com
 anadolu2019web.com
 anadolu2019webs.com
 anadoluajans.blog
@@ -45004,6 +45009,7 @@ bireyselfirsatekranimobilcepte.online
 bireyselfirsatkampanyasi.com
 bireyselfirsatlariyakala.xyz
 bireyselform-ceptetebcom-tr.com
+bireyselformekrani.duckdns.org
 bireyselforum-katil-ozel-online.ml
 bireyselgaranti-mobil.ga
 bireyselgarantifirsatlari.cf
@@ -124710,6 +124716,7 @@ homekayitfirsat.online
 homekestlerrkesakbnakrio.duckdns.org
 homekrtlbsvrprmsyn18542.cloud
 homeleblow.top
+homelee-web-world.cyou
 homelesba.top
 homeleslaloleal.top
 homeleslaspalmas.top
@@ -188187,6 +188194,7 @@ ptt-zano.top
 ptt-zhe.top
 ptt-zoma.top
 ptt-zone.top
+ptt.alisveris-sepet-detay-10.sbs
 ptt.aracinguvenli.com
 ptt.arstvt.qpon
 ptt.autos
@@ -243545,6 +243553,7 @@ www-orancpt-tb-webten.myonlineportal.ch
 www-osym-gov-tr.nl
 www-osym-gov-tr.nproxy.org
 www-osym-gov-tr.online
+www-othertb-justweb-cepte.myonlineportal.ch
 www-page-cpte-ayrica.myonlineportal.ch
 www-pak-et-00.blogspot.com
 www-pak-et-01.blogspot.com
