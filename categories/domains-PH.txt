@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110585
-# Last change: 2026-11-20 21:12:36 UTC (sync mode: delta)
+# Records: 110643
+# Last change: 2026-11-21 02:24:54 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2274,6 +2274,7 @@
 3kayipesya.site
 3lgsflltzr.storage.googleapis.com
 3longms.eu.cc
+3myrquanthovexialinfrastructures.cyou
 3mysfirstl.art
 3n022h2.cn
 3oiwkl.pages.dev
@@ -2801,6 +2802,7 @@
 65898566654654.cloud
 65c99716.sibforms.com
 65yilozelfirsatlar.kisalink.cc
+66166266457721.cloud
 663363666.cloud
 66368d52.jdhuwoskz.cloud
 6643454.sbs
@@ -3867,6 +3869,7 @@ a101.aktuellerim.com
 a101.aldin-aldin-web.com
 a101.aldinaldinyilbasinaozel.com.tr
 a101.aldinaldinyilbasiozel.com.tr
+a101.alisveris-sepetinde-10.sbs
 a101.aralikayinaozelfirsatlar.online
 a101.aralikfirsatlari.com
 a101.axlxzsvr-waary.xyz
@@ -4350,6 +4353,7 @@ a1o1t.com
 a1o1u.net
 a1o1usmatmayinkardesim.ddnsgeek.com
 a1o1yilbasi.net
+a1o1z.top
 a1o1zzytin.duckdns.org
 a1olmartindirlm.shop
 a1vvmalisveris1leri-hizli-siparis.online
@@ -7262,6 +7266,7 @@ alisverislersepet-20.sbs
 alisverisnoktasi.com.tr
 alisverisnseptinde.net
 alisverisodeme.shop
+alisverisonlinex.duckdns.org
 alisverispttavm.com
 alisverispttcep.com
 alisverissepetin.online
@@ -10063,6 +10068,7 @@ aslihukuksorgu.com
 aslinda-genel-de-hep-ayaginizin-dibinde-durduk.com
 aslinda-yenilikci-formul-ayagina-geldi.com
 asliyecezamahkeme.org
+asliyeistanbul.org
 aslkamask.cfd
 aslmss-dlkad-adlkd.cfd
 aslmss-dlkad-adlkd.icu
@@ -13534,6 +13540,7 @@ bellabusiness.online
 bellalegal.xyz
 bellavillacabana.com
 belldifferentiation.top
+bellebox.gifts
 bellevue-gstaad.shop
 bellmoria.art
 bellonaonlineozeltr.ddns.net
@@ -15494,6 +15501,7 @@ blackdeadlock.top
 blackdecker.anticorxx.com
 blackenedretl.shop
 blackfriday-shoe.top
+blackfridayge.top
 blackgratification.top
 blackhaircareinfo.com
 blackhear.herokuapp.com
@@ -19482,6 +19490,7 @@ caterallergy.cn
 caterantagonism.top
 catermosa1.sbs
 caterpillar-turkiyetr.com
+caterpillarinturkiye.top
 caterplilar-turkiye.com
 caterratification.top
 catharcyst.com
@@ -19895,6 +19904,7 @@ cepte-tr.online
 cepte.vakifonay-quajlhe.top
 cepteb.kisalink.cc
 ceptebireyseldeniz.info
+ceptebli.my-homeip.de
 ceptedeniz100yil.online
 ceptedenizfirsatlarin.online
 ceptedenizonlinebasvurugiris.shop
@@ -31098,6 +31108,7 @@ ecosystemendorsement.top
 ecpro-events.com
 ecrcanen.xyz
 ecrimsilihbarnamesi.xyz
+ecrincicek.com
 ecrnrc.com
 ecrwe2311.wiki
 ecumhuriyet.com
@@ -31536,6 +31547,8 @@ eferoad.com
 efescim.cc.cd
 efesfiloarackiralama.com
 efesfilokirala.com
+efesfilokurumsal.com
+efesfilorentacar.com
 efesfilorental.com
 efesfilorentals.com
 efesgrtbq.ice.fo
@@ -33916,6 +33929,7 @@ etmrsmrnszpzr.net
 etnist.com
 etoki.net
 etoki.org
+etpkulesefer.click
 etpkulesrglm.click
 etraderx.in
 etrayentrus.top
@@ -34005,6 +34019,7 @@ euro677.click
 euro71.click
 euro88.click
 euroapcar.com
+eurocharm.gifts
 eurocuzdanonlinekayitdogrulama.line.pm
 eurofootball-tickets.com
 eurofootballchamp.com
@@ -41620,6 +41635,7 @@ grendcrbasvur.pw
 grendorvax.info
 grentab.cyou
 grentacarkiralama.org
+grentakurumsal.com
 gresmina.xyz
 grestonadim.gifts
 grexpro.tk
@@ -42128,6 +42144,7 @@ guncel.gq
 guncel.sikaayet-var.com
 guncel.sikayetler.com.ru
 guncel.slkayetlerin.app
+guncel24.pro
 guncel41yeni.icu
 guncel42yeni.icu
 guncel47yeni.icu
@@ -45933,6 +45950,7 @@ hicheck.net
 hicheckurucusu.net
 hicmetislem.net
 hicmiduymadinizbunu.net
+hicretkuruyemismagaza.com
 hidayetvakfi.com.tr
 hiddeneasily.top
 hiddenoasis.site
@@ -46471,6 +46489,7 @@ hizlicatrmrr.net
 hizlicicekci.org
 hizlicicektr.online
 hizlicocuklariz.com
+hizlicozum.icu
 hizlidabizimle.blogspot.com
 hizlidagitim.com.tr
 hizlidakik.com
@@ -47548,6 +47567,7 @@ how-to-reach-a-real-person-on-xfinity.webflow.io
 howeverdiscrepancy.top
 howevermourning.top
 howgininch.live
+howinagawyny.company
 howlabbreviation.top
 howlaggregate.top
 howlaide.top
@@ -53900,6 +53920,7 @@ jonesthom.duckdns.org
 jookkraft.com
 jooklyx.com
 joonezze.store
+jopabel.live
 jordanpostonline.xin
 jorenia.com
 jorginza.com
@@ -56949,6 +56970,7 @@ kobihibemerkezi.com
 kobikredimerkezi.com
 kobiprojeleri.com
 kobiyardimi.cfd
+koc-finans-tr.top
 koc-finans.sbs
 kocaktarimmuhendislik.com
 kocavakfi.com
@@ -59916,6 +59938,7 @@ lopesfinance.com
 lopirfes.com
 loplastajjstf.vercel.app
 lopolasfba.online
+loracicekcilik.com
 lordanaslan.com
 lordansangeldks.sbs
 lordcanvas.top
@@ -60423,6 +60446,7 @@ lunakove.com
 lunarbirchfold.site
 lunarcrest.spcae
 lunardenunciation.top
+lunario.gifts
 lunaryve.com
 lunatuvluna.com
 lunaviro.gifts
@@ -63726,6 +63750,7 @@ mhrsrandevutr.com
 mhrsrandevutr.net
 mhrsrandevutronline.com
 mhrsrandevuvatandaslarimizin.duckdns.org
+mhrsrandevxs.ink
 mhrsrandvlrmzbrasi.sbs
 mhrsrarandvlrmbrda.sbs
 mhrsrarandvzhmzrsbrda.sbs
@@ -63927,6 +63952,7 @@ mictrest.mnws.ru
 midas.com.ng
 midascheck.com.tr
 midaspubgm21.com
+midastrade.pro
 middayassault.top
 middle-classdesignation.top
 middle-classdogma.top
@@ -64618,6 +64644,7 @@ mobildeniz-sube-dijital.xyz
 mobildeniz-sube.xyz
 mobildeniz.7cv.org
 mobildeniz.basvur.3-77-235-143.plesk.page
+mobildeniz.cumaozel.cfd
 mobildeniz.giris.52-27-117-178.plesk.page
 mobildeniz.giris.52-33-187-179.plesk.page
 mobildeniz.trdnz.cfd
@@ -65179,6 +65206,7 @@ morivahq.shop
 morivahubs.shop
 morivalabs.site
 morkolips.myeiq.xyz
+mormavicicek.com
 morningavenge.top
 morningchapel.top
 morningfile.top
@@ -66384,6 +66412,7 @@ namereign.top
 nameserver.rotate.ltd
 namiflo.com
 namikkemalvakfi.org
+namixpo.com
 namslndasnlsanl.com
 namso.xyz
 nana.ulastakarastlamadabulamadiorta.net
@@ -67574,6 +67603,7 @@ nikemall.tw
 niketyy.info
 nikogdaboudou.net
 nikulin-circ.ru
+nilaycicekcilik.com
 nilbort.online
 nilebliss.com
 nileora.sbs
@@ -68031,6 +68061,7 @@ nornurture.top
 norotbot-meta.com
 norpax.pics
 norquira.qpon
+north-faceturkiye.com
 northconvene.top
 northeasark.top
 northeasternhand.top
@@ -68206,6 +68237,7 @@ novemberconstrain.top
 novemberfringe.top
 novembertickle.top
 noventia.info
+novento.gifts
 novetra.store
 novexaril.org
 novexavas.pro
@@ -70604,6 +70636,7 @@ onlinekampanyalar.net
 onlinekampanyalar.online
 onlinekampanyalar.org
 onlinekampanyalari.bond
+onlinekampanyasi.duckdns.org
 onlinekapida.com.tr
 onlinekaskosigorta.com
 onlinekatilimsayfasiozelonay.run.place
@@ -72274,10 +72307,12 @@ palkistrait.com
 palkskk-oakspsp.duckdns.org
 pallas-records.biz
 pallas-records.com
+pallmiyesultan.site
 palmangels.vu
 palmiiyesultan.com
 palmisultan.com
 palmiye-sultan.blog
+palmiye-sultan.net
 palmiyesultan.best
 palmiyesultan.business
 palmiyesultan.cc
@@ -72295,6 +72330,7 @@ palmpredominant.top
 palmsgalsr.bio
 palmtlxz.club
 palmyesultan.com
+palmyesultan.loan
 palsenan.net
 palvetin.org
 pamautialsonge.top
@@ -73224,6 +73260,7 @@ parrmgvvnde.net
 parrotoutput.top
 parsel6498902302000.blogspot.com
 parsenlaresan.xyz
+parsrentcar.net
 parsrentcar.org
 parstor-dvest.noqlybastes.top
 parstor-sempyat.noqlybastes.top
@@ -73396,6 +73433,7 @@ passwordmurmur.top
 passwordoppress.top
 passwordthermal.top
 passwordurinate.top
+pasta34.live
 pastabenevolent.top
 pastacanavari.duckdns.org
 pastacibul.click
@@ -75077,6 +75115,7 @@ porfokop-id5328.world
 porkadolescence.top
 porkcondolence.top
 porladtr.shop
+porland-shop.ru
 port-olustur-ran.online
 portable-air1.net
 portablebleach.top
@@ -76978,6 +77017,7 @@ pttavm.mobiltr-islemlerim.com.tr
 pttavm.net.tr
 pttavm.odeme-onay-1282.com
 pttavm.odeme-onay-1291.com
+pttavm.odeme-sepet-1920.com
 pttavm.odeme-tamamla.com
 pttavm.odemekolay.com.tr
 pttavm.odemelerim-ilanlar.com
@@ -81848,6 +81888,7 @@ saglikhizmetleridestekpaketi.com
 saglikhsysyetki.ml
 saglikli.xyz
 sagliklibilgi.duckdns.org
+sagliklifirma.lol
 saglikligunlerhuzurdolu.loseyourip.com
 sagliklihizmetleregunleresizlere.webredirect.org
 sagliklikalalim.click
@@ -83090,6 +83131,7 @@ sahibininden.ile-ilan-guvende.com
 sahibinizbiziz.click
 sahibinsen.com
 sahiblnden.com.tr
+sahiblndendestek.com
 sahibnden-get-satin-al.shop
 sahibnden-paramguvende-tr.siparis-onayi.shop
 sahibnden.alisveris-firsatlar.com
@@ -83423,6 +83465,7 @@ sanzumanigcsakn.net
 saotykaso.xyz
 sapancaevleri.xyz
 sapancakonaklamarehberim.com
+sapancakonaklamarehberiniz.com
 sapancarosebungalov.net
 sapaos.shop
 sapdfsaodfsadl.online
@@ -84504,6 +84547,7 @@ selgeside.com
 selgesidebeachhotel.com
 selgesideotel.com
 selinbutikorgududulu.duckdns.org
+selincicek.com
 selindudaksd.wixsite.com
 selingroup.pw
 selinyardimlari.com
@@ -84555,6 +84599,7 @@ seminarindustry.top
 seminerbursdestek.online
 semiolomar.top
 semmitsyuisa.info
+semracicek.com
 semrush-ai.com
 semrush-auth.com
 semrush-dos.com
@@ -94019,6 +94064,7 @@ teriopn.com
 terivp.com
 terjedefjgh.com
 termaver.blogspot.com
+terminal.menkulkiymetlertr.com
 terminalintervene.top
 terminalsergeant.top
 terminatedispatch.top
@@ -94039,6 +94085,7 @@ terraceobsession.top
 terrainautobiography.top
 terrainfabrication.top
 terrainperpetual.top
+terratpasorg.web.app
 terraverro.info
 terraverro.space
 terraviata.top
@@ -95142,6 +95189,7 @@ tobaccocontingent.top
 tobaccoreservoir.top
 tobacobim.net
 tobanu.com
+tobb-nefes.vilan.online
 tobnewz.com
 tochostel.world
 tochostelsevilla.world
@@ -95400,6 +95448,7 @@ tokifusion.digital
 tokigarantigiris.com
 tokigenel5000basvurukanalgovtr.com
 tokigenelmudurlugu.store
+tokigenelmudurluk.vercelfastcdn.com
 tokigov-tr.vercel.app
 tokigovtr.b-cdn.net
 tokigovtr.tk
@@ -97358,6 +97407,7 @@ trmaliidari.org
 trmalimasak.org
 trmaliportal.org
 trmaliyebilgi.org
+trmaliyesorgu.net
 trmamksamas.net
 trmarc.net
 trmardsama.blogspot.com
@@ -97925,6 +97975,7 @@ ttektiklaspnsrlurklam.com
 ttes.szfeisi.com
 ttfaturalitarifeler.com
 ttinternet.net
+ttiyigunleriyiseneler.site
 ttkkmmmevmmynn.org
 ttkktktktkkt.site
 ttkpqa.buzz
@@ -99237,6 +99288,7 @@ tyrztrtkks.cfd
 tyson22945.softr.app
 tyta.retalonx.com
 tyukol.store
+tyunvkfmc.com
 tyuz-spb.com
 tyvalixx.com
 tyxarai.org
@@ -99285,6 +99337,7 @@ uath--sso-itrustcapital.webflow.io
 uatimin.com
 ubanisationyrmid.top
 ubbvfdv.top
+uberfilo.com
 ubrocage.com
 ubtor.store
 ubudturkiye.ubud-spa.fr
@@ -100518,6 +100571,7 @@ uzentra.com
 uzerlerguzelim.co
 uzlasma-uyapegiris.com
 uzlasmabaro.com
+uzlasmabilgi.com
 uzlasmabilisim.com
 uzlasmabirim.org
 uzlasmaborcu.com
@@ -103076,6 +103130,7 @@ vyrion.com.tr
 vytimako.store
 vyvakau.com
 vyvic.xyz
+vywerytav.world
 vz7877s.site
 vzcmcmxmdr.net
 vzkhvv.top
@@ -106316,6 +106371,7 @@ www-customtb-extend-ayrica.myonlineportal.ch
 www-debycpte-tb-weptan.myonlineportal.ch
 www-denizbank-at.translate.goog
 www-denizgov-banka-online.ml
+www-deployteb-ayricalikli-dunya.myonlineportal.ch
 www-detail-cptb-ayrica.myonlineportal.ch
 www-detaycepte-ayrica.myonlineportal.ch
 www-detaytb-cepte-gir.myonlineportal.ch
@@ -109489,6 +109545,7 @@ yslturkiyeshop.com
 ysmmykle.net
 ysn14-slccssa.com
 ysnwm.icu
+ysokumi.online
 ysrbilisimhizmetleri.com
 ysuph.cfd
 ysuph.sbs
@@ -109946,6 +110003,7 @@ zedwellundergroundhoteltottenhamcourtrd.com
 zeezee196112.workers.dev
 zefnpi.top
 zefoluri-danipote.lol
+zeguzysu.online
 zegypue.com
 zehir.xyz
 zehircheck.online

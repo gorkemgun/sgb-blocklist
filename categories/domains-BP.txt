@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260627
-# Last change: 2026-11-20 21:12:36 UTC (sync mode: delta)
+# Records: 260636
+# Last change: 2026-11-21 02:24:54 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -62057,6 +62057,7 @@ cumamxrket90.com
 cumaoglen30.com
 cumaonlineozel6.com
 cumaonlnefrstmz.com
+cumaozel.cfd
 cumaramazanaksam.com
 cumarteifirsataddresi.com.tr
 cumarteifirsataddresi.online
@@ -62106,6 +62107,7 @@ cumartesimayisnnf.com
 cumartesimrktbayram.com
 cumartesionline-islemler.com
 cumartesionlinesiparis34.com
+cumartesiozel.cfd
 cumartesiramazanindirim.com
 cumartesisiparis09.com
 cumartesisiparis57.com
@@ -63550,6 +63552,7 @@ deftere.tk
 deg1s11kk.xyz
 degdigini-bilerek-sadece-burali-olarak-gordun.com
 degecebimcell.com
+degercicek.com
 degerini-kaydebince-gorursek-hic-gelmeyebilir.com
 degerkatan.top
 degerlendirdeniz.xyz
@@ -91758,9 +91761,11 @@ facebook--login-report.ph
 facebook--login-safe.ph
 facebook--login-security.ph
 facebook--login-session.ph
+facebook--signupzzzzzzzzzzzzzzzdz.ph
 facebook--signupzzzzzzzzzzzzzzzyu.ph
 facebook--update-available.ph
 facebook-bakim.ph
+facebook-book-delete.ph
 facebook-change-password.com
 facebook-confirm-login.com.ph
 facebook-confirm-message.com.ph
@@ -91780,6 +91785,8 @@ facebook-login-check-meta.ph
 facebook-login-checker.ph
 facebook-login-error.com.ph
 facebook-login-facebook-access-secure.ph
+facebook-login-facebook-web-secure-checkfast.ph
+facebook-login-facebook-win-reward-fast.ph
 facebook-login-guide.com.ph
 facebook-login-help-de.com.ph
 facebook-login-help-jakarta.com.ph
@@ -91882,6 +91889,7 @@ facebookloginapponline.ph
 facebookloginbase.org.ph
 facebookloginconfirm-au.com.ph
 facebooklogindaily.com.ph
+facebooklogindatabases-login.ph
 facebookloginepsilon.com.ph
 facebooklogineye.com.ph
 facebookloginf.com.ph
@@ -229772,6 +229780,7 @@ tuvaracmuaynehizmeti.net
 tuvaracmuaynehizmetiniz.com
 tuvaracmuaynehizmetiniz.net
 tuvaracmuaynelerimizinyeri.com
+tuvaracmuaynelerimizinyeri.com.ph
 tuvaracmuayneservishizmeti.net
 tuvaracmuayneservisi.net
 tuvaracmuaynesistemimiz.net
