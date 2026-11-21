@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110643
-# Last change: 2026-11-21 02:24:54 UTC (sync mode: full)
+# Records: 110664
+# Last change: 2026-11-21 11:15:31 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3929,6 +3929,7 @@ a101.kapidaodemen.com
 a101.kapindaodeme.com
 a101.kasimkatalog.com
 a101.kaskass.net
+a101.kaslminlerlnden.com
 a101.kazeaktuel.com
 a101.kazefatih.com
 a101.kazeligunlerim.com
@@ -4487,6 +4488,7 @@ abilityhamper.top
 abiniz.online
 abinnerdeknk.online
 abirengifo.com
+abisrent.com
 abitisaldi.online
 ablare.site
 able21pull.top
@@ -11205,6 +11207,7 @@ avs.otoko-cfilo.xyz
 avsa1.com
 avsaraba.com
 avsarabakiralago.com
+avsaracinfilo.com
 avsaracinkurumsal.com
 avsarackirala.com
 avsarotokiralama.online
@@ -11247,6 +11250,7 @@ avsonlinee.com.tr
 avsonlinefilom.me
 avsoto.com
 avsotokoc.net
+avsotomotivkirala.com
 avsrentacar.com.tr
 avsrentacar.genel-merkez.com.tr
 avsrentacar.net
@@ -24381,6 +24385,7 @@ corexyfi.com
 coridortitle.com
 corkabilia.eu
 corky.sbs
+corlinexa.online
 corluakarsuinsaat.com
 corlusahibinden.net
 cornchfmgz.com
@@ -30201,6 +30206,7 @@ dyonline.net
 dypujay.com
 dyqaceitoe.com
 dyr-tkcn.online
+dyref.com
 dyson--dyson.com.tr
 dyson-airstrait.com.tr
 dyson-kolaysatinal.com
@@ -40359,6 +40365,7 @@ girisduyurubncasetr.com
 girisduzenlemekampanyasiicintiklasana.monster
 girisdvltiadeexv1.biz
 girisdvltiadeexv1.club
+girisdy.com
 girisdyb.com
 girisgaranti5000.com
 girisgarantiikredibasvurulari.com
@@ -40935,6 +40942,7 @@ goldenstoor.com
 goldfrture.top
 goldienove.com
 goldlinguistic.top
+goldpartyminetgy1694.duckdns.org
 goldzonexa.world
 golebewski.pl
 goleboko-virepala.lol
@@ -49160,6 +49168,7 @@ ilan-islemi.online
 ilan-kurumsal.com.tr
 ilan-m.com.co
 ilan-magaza.com
+ilan-mobil.com
 ilan-mobilder.com
 ilan-no-1082102662-sahibinden.com
 ilan-no-1082181081-sahibinden.com
@@ -57511,6 +57520,7 @@ kredi.xn--ilemi-aile-genlik-nsb08t.com
 kredi150.bsite.net
 krediaidetim.com
 krediailevegenclikbasvur.com
+krediaktarimhalk.com
 kredibasvuru.duckdns.org
 kredibasvurularim.com
 kredibasvuruonaymerkezi.net
@@ -64647,6 +64657,7 @@ mobildeniz.basvur.3-77-235-143.plesk.page
 mobildeniz.cumaozel.cfd
 mobildeniz.giris.52-27-117-178.plesk.page
 mobildeniz.giris.52-33-187-179.plesk.page
+mobildeniz.securelink.cfd
 mobildeniz.trdnz.cfd
 mobildeniz2023.cf
 mobildeniz2023.gq
@@ -75403,6 +75414,7 @@ potfolioskenaken.com
 potfolioskranaken.com
 potfolioskraneken.com
 potinvert.top
+potirentcar.org
 potorafac.io
 potplea.top
 potteryascendance.top
@@ -76863,6 +76875,7 @@ ptt-zz.top
 ptt.avmbireyselsiparis.com
 ptt.avmonlinesiparisim.com
 ptt.avmsatislarim.com
+ptt.avmsiparisolustur.com
 ptt.breffy.cyou
 ptt.breffy.icu
 ptt.com.co
@@ -84912,6 +84925,7 @@ sepeteekle.cfd
 sepeteekle.click
 sepeteekleindirimkazan.com
 sepetekampanya.click
+sepetenize-ekle.com.tr
 sepeteotobuzdolabii.icu
 sepeteotobuzdolabii.sbs
 sepetesipris.click
@@ -84953,6 +84967,7 @@ sepetimonay.study
 sepetimonay.surf
 sepetimonaycom.shop
 sepetimonaycom.surf
+sepetimonline724.duckdns.org
 sepetimp-ttavm.com
 sepetimsiparis.com
 sepetin-cepte.net.tr
@@ -96204,6 +96219,7 @@ tr-sepetim.com
 tr-sepetim.com.tr
 tr-sepettex.online
 tr-servis-onay.online
+tr-servis-onayi.online
 tr-sikayetlerin.ru.com
 tr-sikaytmvar.net
 tr-siparis-ilan.online
@@ -100117,6 +100133,7 @@ urunler-sepet.com
 urunler-sepette.com
 urunlerdebuyukkampanyakacirma.online
 urunlerdeinidirmsondakika.online
+urunlerdekampanyalar.duckdns.org
 urunlerialsimdi.icu
 urunlerikoysepetesimdi.online
 urunlerim-dolap.com
@@ -101062,6 +101079,7 @@ valderanit.xyz
 valdrmedia.top
 valedevation.top
 valencrestora.top
+valenoraxs.com
 valenspara-elemond.it.com
 valenspara-elre.it.com
 valenspara-fejoo.it.com
@@ -109344,6 +109362,7 @@ yolcuarabakiralaa360.online
 yolcuarackirala.com.tr
 yolcuarackiralama.com.tr
 yolcuarackiralayin.com
+yolcufilom.com
 yolcuhizmetlerivopex.net
 yolcukiralama.com
 yolculuk.obilet-tr.uk
@@ -109586,9 +109605,11 @@ yukac.online
 yukafilorent.com
 yukeshapi.neocities.org
 yukifabrikasatis.com
+yukifabrikasatisi.com
 yukimora.live
 yukimotorluaraclar.com
 yukionlinesatis.com
+yukitr.com
 yukj-e.blogspot.com
 yukklegez.net
 yukle-724.com
