@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 480741
-# Last change: 2026-11-21 18:04:30 UTC (sync mode: delta)
+# Records: 480780
+# Last change: 2026-11-21 23:25:03 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14693,6 +14693,7 @@
 44.takespection.com
 44000441111444.cloud
 44000444004.duckdns.org
+4410686281275.cloud
 441135.site
 4412411442340.duckdns.org
 441294.cloud
@@ -35892,6 +35893,7 @@ ahlatciyatirim.co
 ahlatciyatirim.org
 ahlatciyatirimtr.com
 ahlatyatirimkiymetler.com.tr
+ahlbindendestek.com
 ahlbrandt.eu
 ahlform.online
 ahloteryasfa.vercel.app
@@ -49041,6 +49043,7 @@ aovakqa.duckdns.org
 aovd1zeh.com
 aoxzdr9.duckdns.org
 aozepaokojfksdjfsk.ddns.net
+aozr89vpwcuggbq2m1y9.online
 ap--trrizor.webflow.io
 ap-basvuru-formiade-edevlet.com
 ap-grn-gnvtrb.my-homeip.com
@@ -53855,6 +53858,7 @@ asdewq18.pw
 asdf.zapto.org
 asdf11.xyz
 asdfabgzaasd.top
+asdfadsf2.giize.com
 asdfafadafg.online
 asdfasdasdjkasj.net
 asdfasdf.net
@@ -81018,6 +81022,7 @@ bizdenduy.xyz
 bizdenhepinize.abrdns.com
 bizdenhizlisimezarda.com
 bizdenhizlisiyoktur.click
+bizdenicerik.abrdns.com
 bizdeniyisivergiverki.b-cdn.net
 bizdeniyisiyok.pro
 bizdenkolayyukle.22web.org
@@ -85486,6 +85491,7 @@ bnbiade-tr.com
 bnbinstabasv.cloud
 bnbkatlm-basvursende.duckdns.org
 bnblopsateas.vercel.app
+bnbn-cark.duckdns.org
 bnbn-instaactivap01.cloud
 bnbn-t3rfddnnxd.com
 bnbnbnbnbnbnbnbnbnbnbnbnbnb.sbs
@@ -86815,6 +86821,7 @@ bntrbiance.com
 bntrbnbcoinsgirisleri.net
 bntrbnncr-onlinegirisi.com
 bntrbnsdnr.vercel.app
+bntrbntrn.click
 bntrcaduyuru.com
 bntrcamemptpaignpushes.vercel.app
 bntrcampaiggainnpushes.vercel.app
@@ -131245,6 +131252,7 @@ diplomaticbrood.top
 diplomaticfort.top
 diplomaticfutile.top
 diplomaticuranium.top
+diplomaticwallet.com
 diplomatsign.com
 diplombar.by
 diplyx.com
@@ -152771,6 +152779,7 @@ elvlslfkskfjsjdja.net
 elvlturkisllemenugirisimlleri.online
 elvmakdjsjdjsj.net
 elvoranix.com
+elvoranix.online
 elvorilla.sbs
 elwanda26230.softr.app
 elwbxmcell.net
@@ -166385,6 +166394,7 @@ fdjshe.tk
 fdjskfsdjkfs.com
 fdjsmt.top
 fdjsmw.top
+fdkfkdaskfd.click
 fdkgmghmrd.org
 fdkjgdkjaksjfafs.com
 fdkoqslkkj.duckdns.org
@@ -167022,6 +167032,7 @@ fersahatladik.com
 fersenferderker.online
 ferser.click
 ferser.hopto.org
+ferstaeat23.giize.com
 fertileduty.top
 fertileideology.top
 fertilelife.top
@@ -168237,6 +168248,7 @@ filocars.net
 filocarsrent.com
 filocunuzburada.com
 filodanaraciniz.com
+filodednce.giize.com
 filodendie.giize.com
 filofast.com.tr
 filohizmetlerin.online
@@ -175159,6 +175171,7 @@ frsatkacmazyapikrediden.tk
 frsatkampanya.duckdns.org
 frsatkampanya22.duckdns.org
 frsatkmpnylarhements.duckdns.org
+frsatlaesbasvrkmnpya8123.online
 frsatlar-dnyasi.rakipyok.com.tr
 frsatlar-kapida-101.xyz
 frsatlar-kmpnya.online
@@ -225395,6 +225408,7 @@ icepsubesinde.tk
 icepteteb.co.vu
 icerik-limitleri-s-g.ink
 icerik-onemli.garden
+icerikguncellemesi.abrdns.com
 iceseri.lat
 icesignify.top
 icesmile.ddns.net
@@ -256843,6 +256857,7 @@ kasdlaslleode.net
 kasdmaksd.net
 kasdmas-kasdma.blogspot.com
 kasdot.hopto.org
+kasdwqwdasd.click
 kaseleta.com
 kaselqjnfz.ddns.net
 kaserino.net
@@ -265817,8 +265832,10 @@ kopekno1.xyz
 kopekuyuztedavicisi.xyz
 kopenet738.hopto.org
 kopenheimer1.app
+koperatflndmrlerid.blogdns.net
 koperatiftarim.cloud
 kopermatfrklalarriindd.doomdns.com
+kopermatfrklamlariiriin.blogdns.com
 kopermatfrklamlarriindd.dnsdojo.com
 kopernikzx.xyz
 kopest.pl
@@ -267098,6 +267115,7 @@ krediaidetim.com
 krediailevegencbasvur.com
 krediailevegenclikbasvur.com
 krediakbank.linkpc.net
+krediaktarimdeniz.com
 krediaktarimhalk.com
 kredialiyorum.sbs
 krediall.online
@@ -268987,6 +269005,7 @@ kurumsalin-tr.net.tr
 kurumsalindirim.com.tr
 kurumsalinternetbasvuru.xyz
 kurumsalisslemler.xyz
+kurumsalkampanyalar.com
 kurumsalkesintiiadeleri.com
 kurumsallaguvende.com
 kurumsallikilan.com.tr
@@ -276224,6 +276243,7 @@ lordz.zapto.org
 loregion.com
 loremitahu.gotdns.ch
 loremsa-tipisum.xst.cl
+lorenavo.xyz
 lorenfilokiralama.com
 lorenlentz.hopto.org
 lorenvibek.top
@@ -284322,6 +284342,7 @@ maybnncampaignstarts.cloud
 maybuddhist.top
 maycarfilo.com
 maycendonekom.site
+maycep.com
 maycontemplate.top
 maydakookt.indepenmedia.nl
 maydatarenew.com
@@ -286376,6 +286397,7 @@ meralkurulusyds.com
 meramaks.io
 merasee.co
 merati.church
+meravito.com
 meravix.cyou
 merayona.top
 mercades-onlinesiparisler.net
@@ -287547,6 +287569,7 @@ mevlanavesems.net
 mevlevivakfi.org
 mevlutsdsd.church
 mevpvmuwz.duckdns.org
+mevsad.sbs
 mevsim-trendleri.site
 mevsimhaber.online
 mevsimhaber.site
@@ -291376,6 +291399,7 @@ mobil-tbmm-aidet-gov-tr.com
 mobil-tbmm-duyuru.ml
 mobil-teb-gir.my-homeip.de
 mobil-teb-onay.my-homeip.de
+mobil-teb.com
 mobil-tebkampanyam.my-homeip.net
 mobil-tepden-basvur.myonlineportal.de
 mobil-tokibasvuruyap.vercel.app
@@ -292060,6 +292084,7 @@ mobildeniz.sbs
 mobildeniz.securelink.cfd
 mobildeniz.trdnz.cfd
 mobildeniz.xyz
+mobildeniz.yeniyilaozel.cfd
 mobildeniz100yilfirsatlarin.shop
 mobildeniz100yilhizmetlerin.shop
 mobildeniz2023.cf
@@ -292460,6 +292485,7 @@ mobile-btcturkdestek.com
 mobile-btcturkpro.com
 mobile-btcturkpro.online
 mobile-btcturkpro.xyz
+mobile-cepteb.online
 mobile-check-activity.site
 mobile-checkout.ga
 mobile-checkout.ml
@@ -293995,6 +294021,7 @@ moethennessys.com
 moeurolandbabisde.net
 mof-gov-bd.nic-svc.net
 mof-gov-np.dwnlld.info
+mofa-ankara.org
 mofa-gov-bd.dwnlld.info
 mofa-gov-bd.filenest.live
 mofa-gov-bd.live-co.org
@@ -339783,6 +339810,7 @@ protocolsymphony.top
 protocopper.com
 protoflint.com
 protokinvergliykt.net
+protokol-mfa.com
 proton-docs.com
 proton-network.com
 proton-reader.com
@@ -350970,6 +350998,7 @@ randevuonay.com
 randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
 randevurandevuu.net
+randevurehberi-2026.help
 randevusaatiniolustur.duckdns.org
 randevusaatiolun.com
 randevusabah.net
@@ -353963,6 +353992,7 @@ rennelautos.zapto.org
 rennew-update.ddns.net
 renntascars.net
 renomesolar.com
+renooffliva.com
 renouv-netflix.ddns.net
 renouvel-cartevital.ddns.net
 renouvellement-info.ddns.net
@@ -384629,6 +384659,7 @@ sokmdesac.net
 sokmekkwkksj.s0k.workers.dev
 sokmekretin.com
 sokmkt.com
+sokmlrket.lol
 sokmncnacncl321312.com
 sokmrktcepte.com
 sokmrktcpteindrm.com
@@ -389582,6 +389613,7 @@ sprkmpnyadasin.net
 sprkmpnyafrstlr.xyz
 sprkmpnyamizdsn.net
 sprkpanyalardasin.blogspot.com
+sprmntdengoldprty1784.duckdns.org
 sprngwaterman.com
 spro.ddns.me
 sprocketwhirl.top
@@ -400538,6 +400570,7 @@ tc.hemenpkx.cfd
 tc.hgsptr.com
 tc.htxwitherq.cfd
 tc.markerking1.cfd
+tc.my-homeip.de
 tc.nazarcipx.cfd
 tc.papar5.com
 tc.streleases.com
@@ -438723,6 +438756,7 @@ vividvinetours.com
 vividwav.com
 viviendas8.com
 vivifdfusion.com
+vivineia.com.tr
 vivit68153.ddns.net
 vivivivi.net
 vivivonlineislllemenugiris.com
@@ -453659,6 +453693,7 @@ www-parlbu.com
 www-parliament-lk.snagdrive.com
 www-parmgvendeileguvenleal.online
 www-parttb-cepte-ayrica.myonlineportal.ch
+www-partytb-web-live.myonlineportal.ch
 www-pasaj.com
 www-paypal.net
 www-paytr.com
@@ -453877,6 +453912,7 @@ www-qnfinansbank-internesugbe.tk
 www-ran-d-vu.blogspot.com
 www-realvnc.top
 www-reklam-firsatlari.xyz
+www-requestwb-tb-cpt.myonlineportal.ch
 www-ringcentral.top
 www-robinhood.cweegpsnko.net
 www-robinhood.fflroyalty.com
@@ -469777,6 +469813,7 @@ yeniyilamerhaba.site
 yeniyilaozeeliadeefirsatii.com
 yeniyilaozel-kampanya.online
 yeniyilaozel-kampanyalar.com
+yeniyilaozel.cfd
 yeniyilaozel.click
 yeniyilaozelbnance.ml
 yeniyilaozelcekilis.com
@@ -477544,6 +477581,7 @@ ziraatbank-tr.org
 ziraatbank-turkey.com
 ziraatbank-xrhediyesi.com
 ziraatbank.6345445486384.com
+ziraatbank.abrdns.com
 ziraatbank.ambucurie.ro
 ziraatbank.asia
 ziraatbank.cabanon-ecailler.com
@@ -479265,6 +479303,7 @@ zmcmvmbm.ddnsfree.com
 zmcvlkg.com
 zmeayq.com
 zmehiasdhg7uw.redirectme.net
+zmflsafsamfsafa.com
 zmgntguqshrzfe8.com
 zminingg.ddns.net
 zmirdeyizdoldur.net

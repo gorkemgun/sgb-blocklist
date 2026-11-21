@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110689
-# Last change: 2026-11-21 18:04:30 UTC (sync mode: delta)
+# Records: 110726
+# Last change: 2026-11-21 23:25:03 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2364,6 +2364,7 @@
 439068665-atari-embeds.googleusercontent.com
 43md38t.cn
 44-204-107-53.plesk.page
+4410686281275.cloud
 442.44de22ew.click
 44443586244.cloud
 4444400123.duckdns.org
@@ -9854,6 +9855,7 @@ asddsdesdsdfsfdfebimcell444.net
 asddsxdsazsd.net
 asdedfvbnmhytrdfsewqasfgvbndgswtghytsdaeswbvn.website
 asderfmder.online
+asdfadsf2.giize.com
 asdfasdfcsf.cc.dvrlists.com
 asdfasgvaa.art
 asdfdajsdks.shop
@@ -15230,6 +15232,7 @@ bizdenduy.online
 bizdenduy.site
 bizdenhepinize.abrdns.com
 bizdenhizlisiyoktur.click
+bizdenicerik.abrdns.com
 bizdenolsun.abrdns.com
 bizdenolur.abrdns.com
 bizdensinizkanks.blogspot.com
@@ -16057,6 +16060,7 @@ bnbglobalekimfirsatlari.ml
 bnbglobalfirsatlari.ml
 bnbglobalkampanya.ml
 bnbhediye-yazfirsati.xyz
+bnbn-cark.duckdns.org
 bnbn-instaactivap01.cloud
 bnbnbnbnbnbnbnbnbnbnbnbnbnb.sbs
 bnbonlnebsvurutr.com
@@ -16228,6 +16232,7 @@ bntr-cekilis.online
 bntr-cekilisim.online
 bntr-sponsorlugiris1.cfd
 bntrabibn.click
+bntrbntrn.click
 bntrcaduyuru.com
 bntrccrn-onlinegiris.com
 bntrdestekbasvuru.com
@@ -28488,6 +28493,7 @@ diplomaticbrood.top
 diplomaticfort.top
 diplomaticfutile.top
 diplomaticuranium.top
+diplomaticwallet.com
 diramodi-ralamoli.lol
 dirapala-ralasude.lol
 dirathostonline.ga
@@ -32350,6 +32356,7 @@ elvirolabs.site
 elvkrlkrfmdm.net
 elvmakdjsjdjsj.net
 elvoranix.com
+elvoranix.online
 elvorilla.sbs
 elwanda26230.softr.app
 elxcchavxooiddmxanmandda.click
@@ -35793,6 +35800,7 @@ fdjfms.top
 fdjskfsdjkfs.com
 fdjsmt.top
 fdjsmw.top
+fdkfkdaskfd.click
 fdlwmn.top
 fdmmms.top
 fdmtmj.top
@@ -35990,6 +35998,7 @@ ferraraferreira.adv.br
 ferrari-invite.com
 ferrymalignant.top
 ferrysynthetic.top
+ferstaeat23.giize.com
 fertileduty.top
 fertileideology.top
 fertilelife.top
@@ -36274,6 +36283,7 @@ filocars.com.tr
 filocars.net
 filocunuzburada.com
 filodanaraciniz.com
+filodednce.giize.com
 filodendie.giize.com
 filofast.com.tr
 filohizmetlerin.online
@@ -38122,6 +38132,7 @@ frsatgnlerimiz.com
 frsatgnlerniz1o1ile.com
 frsathediyemcampanyday.net
 frsatimxkapindaldinn.online
+frsatlaesbasvrkmnpya8123.online
 frsatlar101.xyz
 frsatlarikacirmaynl.duckdns.org
 frsatlarkmpnyabsv4123.info
@@ -48521,6 +48532,7 @@ icepalace-kassa.com
 icepalace-kassa.ru
 icepalace-ticket.ru
 icerik-onemli.garden
+icerikguncellemesi.abrdns.com
 icesignify.top
 icesulhur.top
 icevundr.com
@@ -55271,6 +55283,7 @@ kasarlarbizde.xyz
 kasdefstert.duckdns.org
 kasdertmonst.duckdns.org
 kasdlaslleode.net
+kasdwqwdasd.click
 kaserino.net
 kashmir-weather-info.com
 kashmirvale.com
@@ -57244,7 +57257,9 @@ koparmatifmarket.blogdns.com
 kopasertgois.info
 kopekcik.art
 kopenheimer1.app
+koperatflndmrlerid.blogdns.net
 koperatiftarim.cloud
+kopermatfrklamlariiriin.blogdns.com
 kopkop.click
 kopkrlzk.xyz
 kopmenst.duckdns.org
@@ -57532,6 +57547,7 @@ kredi.xn--ilemi-aile-genlik-nsb08t.com
 kredi150.bsite.net
 krediaidetim.com
 krediailevegenclikbasvur.com
+krediaktarimdeniz.com
 krediaktarimhalk.com
 kredibasvuru.duckdns.org
 kredibasvurularim.com
@@ -57898,6 +57914,7 @@ kurumsalfiloservisleri.com
 kurumsalhesaponaylasahibinden.com
 kurumsalhsys.ml
 kurumsalin-tr.com.tr
+kurumsalkampanyalar.com
 kurumsalmobil.com
 kurumsalsigorta.net.tr
 kurumsalsigortam.com.tr
@@ -59969,6 +59986,7 @@ lordfilo.com
 lordinfrastructure.top
 lordoftherings.cfd
 lordwin.xyz
+lorenavo.xyz
 lorenfilokiralama.com
 lorenvibek.top
 lorevantpoint.top
@@ -62482,6 +62500,7 @@ maybereconciliation.top
 maybeshewillcome.top
 maybuddhist.top
 maycarfilo.com
+maycep.com
 maycontemplate.top
 maydatarenew.com
 maydinosaur.top
@@ -63129,6 +63148,7 @@ merahchecker.xyz
 meraketmegir.online
 meralina.icu
 merasee.co
+meravito.com
 merayona.top
 mercadora.net
 mercdes-tr.com
@@ -63521,6 +63541,7 @@ mevlanasems.net
 mevlanavakfi.org
 mevlanavesems.net
 mevlevivakfi.org
+mevsad.sbs
 mevsimhaber.online
 mewire.info
 mewsdosgp.com
@@ -64587,6 +64608,7 @@ mobil-sahibinden.elektronik-alisveris.com.tr
 mobil-sgkk.tk
 mobil-simdi.com
 mobil-subelerim.com
+mobil-teb.com
 mobil-tepden-basvur.myonlineportal.de
 mobil-tr-ilanlarim.com
 mobil-tradresi.live
@@ -64674,6 +64696,7 @@ mobildeniz.giris.52-27-117-178.plesk.page
 mobildeniz.giris.52-33-187-179.plesk.page
 mobildeniz.securelink.cfd
 mobildeniz.trdnz.cfd
+mobildeniz.yeniyilaozel.cfd
 mobildeniz2023.cf
 mobildeniz2023.gq
 mobildenizbank-giris.life
@@ -64716,6 +64739,7 @@ mobile-a101.online
 mobile-a101.shop
 mobile-akbank-basvurum.github.io
 mobile-btcturkpro.xyz
+mobile-cepteb.online
 mobile-cimer.com
 mobile-digital.shop
 mobile-free-fr.freemooe.beget.tech
@@ -64977,6 +65001,7 @@ modokodoko.org
 moelcloud.online
 moentspetacle.top
 moethennessys.com
+mofa-ankara.org
 mofunoodye.com
 mofypoe.shop
 moisan.fun
@@ -76589,6 +76614,7 @@ protocolcriterion.top
 protocolnegligence.top
 protocolsymphony.top
 protokinvergliykt.net
+protokol-mfa.com
 prototipos05r.geladeiraobjeto.ru.com
 prototypehpocrite.top
 prototypehuddle.top
@@ -78774,6 +78800,7 @@ randevunvu.xyz
 randevuonay.com
 randevup-rtali.duckdns.org
 randevup0rtal.duckdns.org
+randevurehberi-2026.help
 randevusaatiniolustur.duckdns.org
 randevusalisler.com
 randevusistem.com
@@ -79870,6 +79897,7 @@ renklihaber.club
 renkliticaret.com
 renkus-hainz.com
 renntascars.net
+renooffliva.com
 renovantcorner.top
 renovatemonopoly.top
 renovatica.online
@@ -87910,6 +87938,7 @@ sokmarktil.com
 sokmarletin.com
 sokmarlktin.com
 sokmekretin.com
+sokmlrket.lol
 sokramazan.cfd
 soksanalmarketindirim.site
 sokseviyoruzsoksokisokahl.duckdns.org
@@ -89316,6 +89345,7 @@ sprinklecoral.top
 sprinkler.lookabot.net
 sprinkleruthless.top
 sprizcekilis.com
+sprmntdengoldprty1784.duckdns.org
 sprocketwhirl.top
 sprosonlukampanya.com
 sprxxs-nvy.net
@@ -92841,6 +92871,7 @@ tc.fibrizapps.cfd
 tc.hemenpkx.cfd
 tc.hgsptr.com
 tc.markerking1.cfd
+tc.my-homeip.de
 tc20202020c.com
 tcadli.org
 tcadliye.net
@@ -102614,6 +102645,7 @@ vividsubordination.top
 vividverse.top
 vividwav.com
 vivifdfusion.com
+vivineia.com.tr
 vivivvprrroro.net
 vivotoniic.com
 vixmars.com
@@ -106520,6 +106552,7 @@ www-oytb-extend-ayrica.myonlineportal.ch
 www-pandemi-aidatsorgu.org
 www-papara-tr.com
 www-parttb-cepte-ayrica.myonlineportal.ch
+www-partytb-web-live.myonlineportal.ch
 www-pertb-page-cepte.myonlineportal.ch
 www-pirantech.com
 www-pmtb-cepte-door.myonlineportal.ch
@@ -106527,6 +106560,7 @@ www-profilekimlerbakiyor.tk
 www-profilime-bakanlar-kimler-com.tk
 www-profilimekimler-bakmis-com.tk
 www-ran-d-vu.blogspot.com
+www-requestwb-tb-cpt.myonlineportal.ch
 www-robinhood.cweegpsnko.net
 www-robinhood.fflroyalty.com
 www-robinhood.taensa.com
@@ -108913,6 +108947,7 @@ yeniyilaidaatiadeesicom.com
 yeniyilaidatlariucret.tk
 yeniyilaktuelkmpanyalari.online
 yeniyilaozeeliadeefirsatii.com
+yeniyilaozel.cfd
 yeniyilaozeliad-efirsatii.com
 yeniyilaozelkampanya.snfirslatarkmpya12543.pro
 yeniyilaozellaidtiadefrsati.org
@@ -110303,6 +110338,7 @@ ziraatbaank-mobill.ziraatbannk.com
 ziraatbakasi.com
 ziraatbank-com-tr.my-homeip.de
 ziraatbank-turkey.com
+ziraatbank.abrdns.com
 ziraatbank.ambucurie.ro
 ziraatbank.asia
 ziraatbank.cabanon-ecailler.com
@@ -110409,6 +110445,7 @@ zlm11090100001.duckdns.org
 zlumberjack.top
 zlxfqx.cn
 zm8w2krx5qvph9tcn4ylb.click
+zmflsafsamfsafa.com
 zmirhizli.net
 zmirimizgzlcevar.net
 zmirimizlegeldn.net
