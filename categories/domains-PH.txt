@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110664
-# Last change: 2026-11-21 11:15:31 UTC (sync mode: delta)
+# Records: 110689
+# Last change: 2026-11-21 18:04:30 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -10944,6 +10944,7 @@ avecrentotokiralama.com
 avecrentotokiralama.net
 avekcarfilo.com
 avengebuffer.top
+avenscar.com
 aventalis.top
 aventixx.network
 aventrahq.site
@@ -11208,6 +11209,7 @@ avsa1.com
 avsaraba.com
 avsarabakiralago.com
 avsaracinfilo.com
+avsaracingelsin.com
 avsaracinkurumsal.com
 avsarackirala.com
 avsarotokiralama.online
@@ -11232,6 +11234,7 @@ avsfilorent.com
 avsfilorental.com
 avsfiloturkey.net
 avsglobalkiralama.xyz
+avsguncel.com
 avshepyaninda.com
 avskampanya.acente1.com.tr
 avskapida.com.tr
@@ -11251,6 +11254,7 @@ avsonlinefilom.me
 avsoto.com
 avsotokoc.net
 avsotomotivkirala.com
+avsotorentacar.com
 avsrentacar.com.tr
 avsrentacar.genel-merkez.com.tr
 avsrentacar.net
@@ -11260,6 +11264,7 @@ avsrentalcar.net
 avsrentcar.net
 avsskiirala.com
 avsturkiye.com
+avsturkiyefilo.com
 avsyaninda.com
 avtakip-websorgu.info
 avtakip.info
@@ -16348,6 +16353,7 @@ bonusbanka.com
 bonusbasvurulari134523.com
 bonusbasvurulari32634.sbs
 bonusbasvurusayfasi123q5233.sbs
+bonusbasvurusayfasi126532.sbs
 bonusbasvurusayfasi12r345325.sbs
 bonusbasvurusayfasi223414.sbs
 bonusbasvurusayfasi3123125.sbs
@@ -31133,6 +31139,7 @@ ed-basvuruguncel.com
 ed-sheeran.com.ru
 ed-sosyalbasvuru.tech
 ed-sosyaldestegim.tech
+ed-vhlkrnd.cfd
 ed4f-178-233-93-165.ngrok-free.app
 ed5ce47d835f-endpoint.com
 edavabildirim.org
@@ -36019,6 +36026,7 @@ fexal.cfd
 fexanas.com
 fexpres.lol
 feyerverk-fest.ru
+ffas2dasqw.click
 fffffffggggg.top
 ffgsrj.top
 ffhomestlerses.com
@@ -36214,6 +36222,7 @@ filemarketi.com.tr
 filemmarket.xyz
 filemmrkt.click
 filemobil.com.tr
+filemobil.cyou
 filemobil.duckdns.org
 filemrktm.click
 files.mycoinba.se
@@ -41160,6 +41169,7 @@ gov-kasih.com
 gov-md.com
 gov-pa.com
 gov-ptt.cc
+gov-tr-traficfine.pdl-wespenverdelging.be
 gov-tr1.tk
 gov.onemotorlng.cc
 gov.onemotoryng.cc
@@ -46620,6 +46630,7 @@ hizliolkazan.com
 hizlionaylarimseninlebirlikteherzaman.store
 hizlionaylarseninlebirlikteherzaman.com.tr
 hizlionaylat.fun
+hizlionline-bilgi.com
 hizlionline.com
 hizlionlinekredibasvurusu.loseyourip.com
 hizlionlinetakibionline.net
@@ -55323,6 +55334,7 @@ kaslllm-101dedim.com
 kasllm-101de-zmanni.com
 kaslm-101a-yasir.com
 kaslm-frsatt-101ca.com
+kaslmdabufrsatlkacllrma.com
 kaslmdan-10-1flrsatlari.cfd
 kaslminlerlnden.com
 kasmayiefsne101kampnyalari.com
@@ -58490,6 +58502,7 @@ lcscenter.com
 lcsntrvergltd.net
 lcwaikiki.cam
 lcwaikikifestr.com
+lcwaikikii.shop
 lcwdkp.click
 ld.6we4wh.top
 ldahtkg.cn
@@ -63567,6 +63580,7 @@ mhat-art-theatre.ru
 mhazinemaliyeiadee1.com
 mhbdbuealldnndeu.fun
 mhbdbuealldnndeu.website
+mhbksdfs.art
 mhburdagln.shop
 mhcbsdfgs.art
 mhcese.netlify.app
@@ -63712,6 +63726,7 @@ mhrsbilgi.duckdns.org
 mhrsc347niz234wfh.com
 mhrscinizhakan49786.duckdns.org
 mhrsclsdc.com
+mhrsgad.art
 mhrsgfrgr.com
 mhrsgiris-edvltlogin2026.com
 mhrsgirisportaliburada.digital
@@ -65205,6 +65220,7 @@ morefeminine.top
 morehaven.top
 moremaid.top
 moremediation.top
+morentina.com
 moreoverindulgence.top
 moreoverinventory.top
 moreportrayal.top
@@ -71794,6 +71810,7 @@ ovffyu.top
 ovhpanel.duckdns.org
 ovicsoon31.fun
 ovicsoon35.fun
+ovisfilo.com
 ovlcfo.top
 ovoclothingshop.com
 ovrxwn.top
@@ -78428,6 +78445,7 @@ raandevunvu.xyz
 raandleyu.app
 rabbitcaught.top
 rabonik.xyz
+rabygile.online
 raccoon-vpn.world
 raccooncreek.top
 racecork.top
@@ -79216,6 +79234,7 @@ recyclemilestone.top
 recycleterrace.top
 recyej.top
 red-eye.shop
+red-tr.villadeliny.com
 red-vodafonered.com
 redarena-afisha.ru
 redarena-kassa.com
@@ -81076,6 +81095,7 @@ rosycorporal.top
 rosyparcel.com
 rosypct.top
 rosyperch.top
+rotacarfilo.com.tr
 rotaflex.com.tr
 rotaflex.xyz
 rotarentacars.com
@@ -85554,6 +85574,7 @@ sgktesviksorgulama.info
 sglik-rhber.cfd
 sglkagelzmni.cfd
 sglklamhrrndvu.cfd
+sglklarndvual.cfd
 sglklignleredgru.cfd
 sglklignlredgru.cfd
 sglklihfta.cfd
@@ -87939,6 +87960,7 @@ solemndogma.top
 solemnelaboration.top
 solemnitychoir.top
 solemnsurpass.top
+solenntia.com
 solentragot.top
 solepsychiatry.top
 soleriaprojects.com
@@ -92694,6 +92716,7 @@ tavaevsn.net
 tavaevsyn.xyz
 tavbazro.xyz
 tavello.cyou
+taverina.com
 tavernique.info
 tavernsnowless.com
 tavexel.xyz
@@ -101138,6 +101161,7 @@ valograde1.lol
 valohilem.tk
 valorecuiting.online
 valthira.digital
+valtrixera.com
 valuablecheck2024bnnance.life
 valuabledisplacement.top
 valuableritual.top
@@ -107739,6 +107763,7 @@ xn--sube-acikdenizvkredibasvur-ub2p.com
 xn--subeavatajlikredi-bvc.com
 xn--subesiz-giris-vakf-u0c.com
 xn--szburada-tkb.shop
+xn--tchazinedavalarm-oqc.com
 xn--teb-bankas-login-jqc.my-homeip.net
 xn--tebbankas-online-giri-sgd48h.my-homeip.com
 xn--tebbankas-online-iqc.my-homeip.de
