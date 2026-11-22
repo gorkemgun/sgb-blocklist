@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110726
-# Last change: 2026-11-21 23:25:03 UTC (sync mode: delta)
+# Records: 110744
+# Last change: 2026-11-22 06:58:57 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1931,6 +1931,7 @@
 2metaofflinereklam.sbs
 2muyanevecnvvi.net
 2myrquanthovexialinfrastructures.cyou
+2myxenthariqovexialcorporation.xyz
 2o-coinbase.com
 2o2kampanyalarim.com
 2plus2.cz
@@ -2276,6 +2277,7 @@
 3longms.eu.cc
 3myrquanthovexialinfrastructures.cyou
 3mysfirstl.art
+3myxenthariqovexialcorporation.xyz
 3n022h2.cn
 3oiwkl.pages.dev
 3ow0am.cn
@@ -2427,6 +2429,7 @@
 48921492132.sbs
 48941536532132.sbs
 48953.store
+489658656165.sbs
 48a3-3-122-51-240.ngrok-free.app
 48berrierscom-b7ce8f.ingress-florina.ewp.live
 48e78c95.hygth76y.com.cn
@@ -26902,6 +26905,7 @@ denizertlmlickredi.xyz
 denizfdsfsdsgedrtehrt.icu
 denizfeneri.website
 denizfffsdsdrrzartzurt.net
+denizfinansman.cfd
 denizfirsat.buzz
 denizfirsatbanks.xyz
 denizfirsatenflasyondegeri2.ml
@@ -37165,6 +37169,7 @@ flashledger.top
 flashmnt.top
 flashnewsline.online
 flashorbitnews.com
+flashpromo.lol
 flashpromosynlar.shop
 flashsalehub.xyz
 flashsignal.online
@@ -50997,6 +51002,7 @@ instagram-telifhakki.cf
 instagram-tr-giris.cf
 instagram-tr-giris.ga
 instagram-tr-giris.ml
+instagram-verification.online
 instagram.7steps.site
 instagram.bloodonation.xyz
 instagram.confirmationsuccess.com
@@ -53996,6 +54002,7 @@ joynityx.com
 joyolog.com
 joyousglare.top
 joyousmerge.top
+joysnest.gifts
 joytoun.com
 jp-login.bsnotespublication.com
 jp.tsity.com
@@ -59611,6 +59618,7 @@ lnktab.net
 lnktanra.net
 lnktans.net
 lnlenktaknans.net
+lnltaknas.net
 lnltkanan.net
 lnmlnmlmnlmn.net
 lnmnlsnaklnsdlnas.com
@@ -79009,6 +79017,7 @@ rcitecta.com
 rclzcib.cn
 rctprklariburalamuayne.net
 rctqty.top
+rd-rhbrsglik.cfd
 rd1800vire.shop
 rd1kdekdkde.com
 rdcouncil.xyz
@@ -79088,6 +79097,7 @@ realismillumination.top
 realisticrigor.top
 realisticthrift.top
 realisticyawn.top
+realistikk-agency.cyou
 realitsolutionprimary.com
 realitynoteworthy.top
 realizereproach.top
@@ -79809,6 +79819,7 @@ relishbout.top
 relishdisarm.top
 relishreassurance.top
 relixor.com
+relklam.cfd
 rellventa.art
 relotakip.fun
 reluctancepreoccupy.top
@@ -83521,6 +83532,7 @@ santaskagsaen.online
 santospanel.xyz
 santysnewy.buzz
 sanuzu.cn
+sanvella.xyz
 sanvo.cyou
 sanzumanigcsakn.net
 saotykaso.xyz
@@ -91664,6 +91676,8 @@ sytemautorcuoldnew.com
 sytemguardsveirfy.com
 sytemnechtech.net
 sytiyeye-toynoynldimre-hli.sbs
+syuasprsgoldngo1745goldduur.duckdns.org
+syuasprsgoldngo1893.duckdns.org
 szanfr.top
 szdekuv-bzytn.online
 szdendrlmrdnyrrldns.shop
@@ -92750,6 +92764,7 @@ taverina.com
 tavernique.info
 tavernsnowless.com
 tavexel.xyz
+tavilo.cyou
 taviroq.gifts
 tavoluyorumsana.duckdns.org
 tavrenvoltaren.pro
@@ -100414,6 +100429,7 @@ utmosteloquence.top
 utmostextraction.top
 utmostnegligent.top
 utomationcarava.top
+utosekn24c.giize.com
 uttereccentric.top
 utterlyagitate.top
 utterlyconstituent.top
@@ -101623,6 +101639,7 @@ verbinfrastructure.top
 vercelserver.com
 verchmnexowkrm.com.tr
 verchzlyesba.com.tr
+vercianto.com.tr
 verdansong.online
 verdantcore.biz
 verdantlane.store
@@ -103306,6 +103323,7 @@ walldisposition.top
 wallet-btcturk.pro
 wallet-help---ledger--web.webflow.io
 wallet-llive--ledger.webflow.io
+wallet-veriffy.com
 wallet-zengo.webflow.io
 wallet.zksynsfio.site
 walletaesthetic.top
