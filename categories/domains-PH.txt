@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110786
-# Last change: 2026-11-22 15:25:29 UTC (sync mode: delta)
+# Records: 110801
+# Last change: 2026-11-22 21:52:00 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -476,6 +476,7 @@
 101.satis101.online
 1010010177200.bounceme.net
 101001310177200.bounceme.net
+10100kampanya.duckdns.org
 101010233123.duckdns.org
 10101firsattl.duckdns.org
 10108283004588.bounceme.net
@@ -2562,6 +2563,7 @@
 512548712854125841.cloud
 512551213hizlcsmler-aracm360ptavm.online
 51284673512347.com
+51291271766.cloud
 51299657326612.cloud
 512saqqwr12.icu
 514552145225.cloud
@@ -2690,6 +2692,7 @@
 58963211222.cloud
 5896328bsrrprsmynnkmpny.click
 58f667d2.dsfiurb-u.shop
+59127768203882.cloud
 5943kmpnyasadprsmyn.online
 5959snfprsmasdj.info
 5959snfprsmasdj.pro
@@ -3346,6 +3349,7 @@
 95link.cc
 961c277e.ns-u629df.shop
 96511908212042.cloud
+9652368sonfrsrlakmpny.click
 96547392031048.com
 968574sonfrstlarrkmpnpyaabsvr.online
 9685sonfrsltar.info
@@ -11272,6 +11276,7 @@ avsonlinee.com.tr
 avsonlinefilom.me
 avsoto.com
 avsotokoc.net
+avsotomobilkirala.com
 avsotomotivkirala.com
 avsotorentacar.com
 avsrentacar.com.tr
@@ -19911,6 +19916,7 @@ cepsube.misecure.com
 cepsube.netlify.app
 cepsubelerim.com
 cepsubem.com.tr
+ceptb.my-homeip.de
 cepte-bilgisel.online
 cepte-eylul.com.tr
 cepte-eylul.info.tr
@@ -19937,6 +19943,7 @@ cepte-tepli-firsat.my-homeip.de
 cepte-tr.online
 cepte.vakifonay-quajlhe.top
 cepteb.kisalink.cc
+cepteb.mobile-login.org
 ceptebireyseldeniz.info
 ceptebli.my-homeip.de
 ceptedeniz100yil.online
@@ -40518,6 +40525,7 @@ givenway.pro
 givesatisfy.top
 givewithhold.top
 gizanova.com
+gizaycicek.com
 gizemkurumlari.com
 gizemliaysubesindeyzbz.duckdns.org
 gizemligunlersdz.sbs
@@ -56411,6 +56419,7 @@ kismet.si
 kiss-concert.com
 kissdisclose.top
 kissfirsatlariiprsmynn.ksmmkmpnylrbsvr8547.click
+kissfrsiatlarii31.yakndaasonaerecek1325.click
 kissquery.top
 kissscrub.top
 kisumueducationsociety.ac.ke
@@ -57804,6 +57813,7 @@ kubamotorluaraclar.com
 kubamotoronline.com
 kubamotorsatis.com
 kubamotorsonline.com
+kubamotortr.com
 kubamotoryedekparca.com
 kubaonlinesatis.com
 kubaonlinetr.com
@@ -63766,6 +63776,7 @@ mhrs-onlinerndvu.sbs
 mhrs-s.digital
 mhrs-sistem.vercel.app
 mhrs-yenidenoo.sbs
+mhrs.85-235-74-24.sslip.io
 mhrs.alllahnerdekiya.sbs
 mhrs.basvurulari.org
 mhrs.cicekcihizli.cyou
@@ -64897,6 +64908,7 @@ mobilservisler-87.sbs
 mobilservisler-88.sbs
 mobilservisler.com
 mobilservisler.online
+mobilservisleri-42.sbs
 mobilservisleriniz-1.sbs
 mobilservisleriniz-11.sbs
 mobilservisleriniz-13.sbs
@@ -76715,6 +76727,7 @@ prshgjjxgcak.net
 prsmbeveasdgrihzmertt.net
 prsmbevegrihzmertt.net
 prsmbfrstlrbykkmpn.shop
+prsmynkmnpya219.online
 prsmynnkmpya12391.pro
 prtalgrsmadrsi.com
 prtcl.icu
@@ -106616,6 +106629,7 @@ www-partytb-web-live.myonlineportal.ch
 www-pertb-page-cepte.myonlineportal.ch
 www-pirantech.com
 www-pmtb-cepte-door.myonlineportal.ch
+www-processtb-weptan-ayrica.myonlineportal.ch
 www-profilekimlerbakiyor.tk
 www-profilime-bakanlar-kimler-com.tk
 www-profilimekimler-bakmis-com.tk
@@ -108223,6 +108237,7 @@ yaklymazsinn.net
 yaknbativ.org
 yaknbativa.org
 yaknbativak.org
+yakndaasonaerecek1325.click
 yakndaherseyguelolablrgunes.site
 yaknhaberburdagelsendebas.art
 yakora7160.site
