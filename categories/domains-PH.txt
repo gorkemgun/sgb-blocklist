@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110801
-# Last change: 2026-11-22 21:52:00 UTC (sync mode: delta)
+# Records: 110815
+# Last change: 2026-11-23 02:51:54 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -3368,6 +3368,7 @@
 984658941623165.net
 984dwtio.com
 985645156.sbs
+985kmpnylarprmsynbsvr.pro
 987-8-1-1.com
 9875616641.duckdns.org
 9877899121278987now.online
@@ -16383,6 +16384,7 @@ bonusbasvurulari32634.sbs
 bonusbasvurusayfasi123q5233.sbs
 bonusbasvurusayfasi126532.sbs
 bonusbasvurusayfasi12r345325.sbs
+bonusbasvurusayfasi1533232.sbs
 bonusbasvurusayfasi223414.sbs
 bonusbasvurusayfasi3123125.sbs
 bonusbasvurusayfasi3233.sbs
@@ -19935,6 +19937,7 @@ cepte-sok-tr.com
 cepte-sok.kampanyahaftasiucuzluk.xyz
 cepte-sok.online
 cepte-t-e-b-com-tr.my-homeip.de
+cepte-teb-mobil-giris.interinterlink.com
 cepte-teb-mobile.my-homeip.de
 cepte-teb-mobilim.my-homeip.de
 cepte-teb-web-girs-bdkdk.com
@@ -35480,6 +35483,7 @@ faizsiz-ihtiyacin-burada-aabankda.xyz
 faizsiz-kredi-webbasvuru.ml
 faizsiz100bin.blogspot.com
 faizsizdevletimindestegibu92481241.net
+faizsizfinansman.cfd
 faizsizkredime.com
 fake-eta.vercel.app
 fakedooomm.duckdns.org
@@ -38992,6 +38996,7 @@ garentakiralik.net
 garentakiralikarac.com
 garentakurumsal.com
 garental365.com
+garentam.org
 garentamerkez.com
 garentamerkez.org
 garentamobil.com
@@ -45477,6 +45482,7 @@ hesapavantaji.cyou
 hesapbakiyebnbfirsat2022.ml
 hesapbakiyeonaylama.online
 hesapbildirimi.weebly.com
+hesapbizden.net
 hesapdogrula.com
 hesapdumantvn.net
 hesapdumantvrk.net
@@ -46657,6 +46663,7 @@ hizlikiralamavillass.xyz
 hizlikiralikaraba.com
 hizlikmislemi.shop
 hizlikntyuklemesi.2kool4u.net
+hizlikontrolmerkezi.abrdns.com
 hizlikonutbasvurularinitamamla.cloud
 hizlikosarsanherseybeless.net
 hizlikredim.com.tr
@@ -55668,6 +55675,7 @@ keepdazzle.cn
 keeperdatastorage.com
 keeperdocument.com
 keeperdocumentgatewayhub.com
+keeperfillds.com
 keeperinformation.com
 keepinformationroot.com
 keepitlabgroup.com
@@ -60025,6 +60033,7 @@ lopirfes.com
 loplastajjstf.vercel.app
 lopolasfba.online
 loracicekcilik.com
+loravika.com
 lordanaslan.com
 lordansangeldks.sbs
 lordcanvas.top
@@ -76013,6 +76022,7 @@ primeenterpriseset.com
 primefieldt.com
 primefirsatiyakala.net
 primefirsatlarim.net
+primegoarackiralama.com
 primeheadline.sbs
 primelynx.top
 primemarclab.com
@@ -77101,6 +77111,7 @@ pttavm.guvenlisite.online
 pttavm.gvnliodeme.com
 pttavm.hazirsepet.info.tr
 pttavm.hizli-islem.online
+pttavm.hizliguvenli.online
 pttavm.ilan-alisverisi-sepeti.com
 pttavm.ilan-getsecure.com
 pttavm.ilan-hizmet.com.tr
@@ -88344,6 +88355,7 @@ sonrentcar.com
 sons-chubby-pushing-habits.trycloudflare.com
 sonsaatfirsatlarinikacirmaurunlersepette.com.tr
 sonsaatlerdeindirmeyetis.sbs
+sonsansn41.online
 sonstnbul.shop
 sonstoklar-a101.art
 sonstoklar101.com.tr
@@ -106592,6 +106604,7 @@ www-kamuspott.blogspot.com
 www-kapitb-web-tb.myonlineportal.ch
 www-karcher.com
 www-kariyertb-cepte-web.myonlineportal.ch
+www-katmantb-web-tbcpt.myonlineportal.ch
 www-kbrysl-ayricalik.myonlineportal.ch
 www-keyword-planner-com.squarespace.com
 www-kgm-gov-tr.translate.goog
@@ -109359,6 +109372,7 @@ yklmznnmxx.net
 yklsm.org.tr
 ykndaasncaerece543.online
 ykndaasncaerece543.pro
+ykndaasonacerecek5263.online
 ykndasonace45430.online
 ykndsonaecek4148.online
 yknoxe.xyz
