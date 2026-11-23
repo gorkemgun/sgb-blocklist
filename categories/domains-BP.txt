@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260678
-# Last change: 2026-11-23 02:51:54 UTC (sync mode: delta)
+# Records: 260683
+# Last change: 2026-11-23 12:59:52 UTC (sync mode: full)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -18249,7 +18249,6 @@ ahlatciwebyatirim.com
 ahlatciyatirim.org
 ahlatciyatirimtr.com
 ahlatyatirimkiymetler.com.tr
-ahlbindendestek.com
 ahlform.online
 ahloteryasfa.vercel.app
 ahmahcas-cekere-olmaz-boyle-seyler.xyz
@@ -58914,6 +58913,7 @@ cezamahkeme.org
 cezamahkemelerin.org
 cezamahkemesi.com
 cezamahkemesi.net
+cezamaliye.net
 cezamaliyeeuzlasma.com
 cezamaliyesiuzlasma.com
 cezamaliyesorgu.com
@@ -88941,6 +88941,7 @@ esorgu-kartaidatiadebasvuru.com
 esorgu-onaylanansorgulariniz.sbs
 esorgu.org
 esorguadalet.org
+esorgudava.com
 esorgugov.org
 esorguiadeleriaidat.ml
 esorgula.com
@@ -93723,6 +93724,7 @@ finansbnkhediyesi.net
 finansbnkkampanya.com
 finansbnksas.click
 finansbonusonline.com
+finansbul.net
 finanscard-aidatiade.com
 finanscard-iadeleri.com
 finanscardiade.com
@@ -103453,6 +103455,7 @@ giris-cepte-hemen-app.com
 giris-cepte-hemen-basvurular.com
 giris-cepte-hizmetim-online.app
 giris-cepte-mobilhizmetler.app
+giris-cepte-teb.finansbul.online
 giris-cepte-uygulama.app
 giris-ceptebonlinegovtr.life
 giris-cepteform-online.app
@@ -163127,6 +163130,7 @@ mobil-shop-extra-tr.site
 mobil-shop-sponsor.com
 mobil-siparis-101e-ozel.duckdns.org
 mobil-siparis-indirim-tr.xyz
+mobil-siparis-odeme.com
 mobil-siparis-online-101.duckdns.org
 mobil-siparis-tr.online
 mobil-siparisiniz.com
@@ -200578,6 +200582,7 @@ sahisdosyasorgu.org
 sahishesabi.com
 sahlaniszamani2024.online
 sahlbinden.cfd
+sahlbindendestek.com
 sahlbindenguvende.com
 sahlbindenguvende.online
 sahlblbdn-ilan.com
