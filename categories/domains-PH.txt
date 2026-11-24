@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 110942
-# Last change: 2026-11-24 00:58:16 UTC (sync mode: delta)
+# Records: 110971
+# Last change: 2026-11-24 11:01:40 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -6857,6 +6857,7 @@ al-vaikf.online
 al0l.store
 al0lalisverisgunleri.dnsup.net
 al0lgeldi.com
+al0lharcaharcabirmez.duckdns.org
 al0lhaziranfirsatlar.com
 al0lkapida.com
 al0lmayisfirsatlari.com
@@ -17336,6 +17337,7 @@ bssvur.site
 bssvurmakk.site
 bst10bet.net
 bstz2txp.tw
+bsv-grnb-asc.top
 bsv-mbl.cfd
 bsvlraimsatokim.org
 bsvlristmnv.com
@@ -24420,6 +24422,7 @@ coralveiltyd.pro
 coralyna.top
 coraran.com
 corddivert.top
+cordela-sigorta.pages.dev
 cordialityretaliate.top
 cordinely.com
 cordisubsidize.top
@@ -26564,6 +26567,7 @@ degerbakisacisi.com
 degerlicampanya.com
 degerodaklari.com
 degerodasi.com
+degerova.gifts
 degerplatformu.com
 degerska.ml
 degilmii.sbs
@@ -27273,6 +27277,7 @@ deploymentannex.top
 deploypasskey.com
 depmilionario.store
 depndncefantic.top
+depordansprdhlznxsgodqertnm7359.duckdns.org
 depordansprsgodqertnm8469.duckdns.org
 deportanalogous.top
 deportationeccentric.top
@@ -29652,6 +29657,7 @@ downs-hao123.top
 downtherai.pro
 downtownfoe.top
 downtownspectacle.top
+downtrendyol.me
 downwardlatitude.top
 downwardrigor.top
 downwardsintervene.top
@@ -30143,6 +30149,7 @@ duvvneyvppbcmone.mypasskey.info
 duyan-bisey-yok-der-alip-yasayip-hisset.com
 duyanlardan-duymayanlara-grsgor.sbs
 duyhapy.cn
+duyuraktuel.cfd
 duyurtokievleri.myonlineportal.eu
 duyurtronline.com
 duyurtronline.online
@@ -39638,6 +39645,7 @@ gelirsimdi-alisver.com
 gelirstratejisi.com
 gelirturbosu.com
 geliryardimbursu-ortaekonomi.ga
+gelisera.gifts
 gelisimbasligi.com
 gelisimemlak.com
 gelisimhedefi.com
@@ -42417,6 +42425,7 @@ gundogducamayna.net
 gunduzvakfi.info
 gunejau.com
 guneodeme.tk
+gunespark.online
 gunessigortam.com.tr
 gunesyolu.click
 guneydogusigorta.com.tr
@@ -46841,6 +46850,7 @@ hizmetbrs-tr.com
 hizmetdestekiletisim.com
 hizmetdeyiz.cfd
 hizmetegitim.site
+hizmetelerism.cfd
 hizmetetmek.info
 hizmetetmek.ru.com
 hizmetetmek.sa.com
@@ -47004,6 +47014,7 @@ hmbportal.com
 hmbsorgu.net
 hmbsorgu.org
 hmbuyap.com
+hmbvezne.online
 hmbveznedar.com
 hmbveznedar.online
 hmbveznedar.org
@@ -49446,6 +49457,7 @@ ile-onayli-ilanlar.com
 ile-onlinealisveris.com.tr
 ile-satisim.com
 ile-sepet-islemler.com.tr
+ile-sepet-islemleri.net.tr
 ile-sepetiniz.com.tr
 ile-sepetlerim.com.tr
 ile-simdi-siparis.com
@@ -50408,6 +50420,7 @@ indirim-a101.satisim-10.site
 indirim-a101comtr.com
 indirim-arac.hedefyat.com.tr
 indirim-carrefoursa.vercel.app
+indirim-cepte.blog
 indirim-cepte.online
 indirim-dunyasi.click
 indirim-dyson.com.tr
@@ -55062,6 +55075,7 @@ kapimdaki-firsat.site
 kapimiza.com.tr
 kapimizaweb.com
 kapinagelenfirsatidegerlendir.com
+kapinaggeelssn.xyz
 kapinaservismarket.com
 kapinda-aktuel-101-market.com
 kapinda-haftalikx.com.tr
@@ -55104,6 +55118,7 @@ kapmanyalaryinebitmiyor.shop
 kapndaonlne-2023.online
 kaporie.com
 kapride.com
+kapriva.online
 kapsamsekil-acil.biz
 kaptirilmayacak-sepetteki-hizli.com.tr
 kar-tpao.com
@@ -60619,6 +60634,7 @@ luncheonalleviate.top
 luncheonlimp.top
 luncheonregiment.top
 lundalfinans.com
+lunesto.gifts
 lunestokari.icu
 lunexavri.capital
 lungideological.top
@@ -62133,6 +62149,7 @@ marketo.vu
 marketonline.gtxapixo.ru.com
 marketoptical.top
 marketorbitline.com
+marketozelfiyat.cfd
 marketp-ttalfirsat.cfd
 marketpark.xyz
 marketpasaj.com
@@ -66510,6 +66527,7 @@ n1-vntdckjrxd.com
 n11-kep-adres.com
 n11.click
 n11alisveris.com
+n11havalem.com
 n11musterihizmetleri.xyz
 n11order.cc
 n11paketleme.site
@@ -70207,6 +70225,7 @@ onay-mobildenizv2basvuru.com
 onay-sizlerin.biz.tr
 onay-sizlerin.com
 onay-sizlerin.net
+onay-sizlerin.tr
 onaycebbbsubedeniiz.net
 onayda-sepet-7180.com
 onayda-sepet-7181.com
@@ -71056,6 +71075,7 @@ onmolatori.icu
 onnlineaktif.net
 onnlne-aktarmekranlari.sbs
 onnnle-girisasamasi.sbs
+onnumaramalabi.online
 onodeme.tk
 ononayservisi.net
 ononon.com.tr
@@ -71064,6 +71084,7 @@ onoplanoai.ink
 onrunningturkiyetr.com
 onsatis.org
 onsatisbasvur.com
+onsatissozlesmesi2026sistemiresmin.online
 onscalekalel.giize.com
 onservepatheti.top
 onsetversatility.top
@@ -71781,6 +71802,7 @@ otoplusaracal.com
 otoplusaracim.com
 otoplusaraclar.com
 otopluseskisehir.com
+otoplusonlinesatis.com
 otopluss.site
 otoplussatis.com
 otorentacartr.com
@@ -79045,6 +79067,7 @@ rapidpresshub.com
 rapidrotate.top
 rapidstoryline.com
 rapidterminate.top
+raponto.xyz
 rappppc.com
 rappseo.com
 rar-lab.software
@@ -81313,6 +81336,7 @@ rotatemonkey.top
 rotationcoincidence.top
 rotationlivestock.top
 rotationtill.top
+rotavia.gifts
 rotayol.online
 rotcanedaman.cfd
 rotor-ticket.ru
@@ -85178,6 +85202,7 @@ sepetimdeonline.shop
 sepetimdeonline.site
 sepetimdeonline.store
 sepetimdinr.shahiyarran.sbs
+sepetimizburada.online
 sepetimizburadatopla.online
 sepetimm-zamanii-a101.shop
 sepetimodeme.shop
@@ -96010,6 +96035,7 @@ toplukonutbazg.vercel.app
 toplukonutbazp.vercel.app
 toplukonutbazz.vercel.app
 toplukonutdavetli.vercelapi.com
+toplukonutdetayli.verceljs.com
 toplukonutdetayli.vercelsh.com
 toplukonuthemenbasvuru.biz
 toplukonuthh.verceldomain.com
@@ -97395,6 +97421,7 @@ trendyolxs.com
 trendyolyeniadres.com
 trendyolyeniadresim.net
 trendyolyilbasihediyesi.com
+trendyooll.shop
 trendyoxl.com
 trennndy.com
 trentyolcilginkasim.com
@@ -100438,6 +100465,7 @@ usc1.contabostorage.com
 uscryptorelief.com
 usdgsdgsd.shop
 usdt-wallet.us
+usdt.aml-confirm.pro
 usdtaccount.com
 usdtusa.com
 usdtustrc.com
@@ -110559,6 +110587,7 @@ ziraatbank.ambucurie.ro
 ziraatbank.asia
 ziraatbank.cabanon-ecailler.com
 ziraatbank.cfd
+ziraatbank.onrender.com
 ziraatbank.tr-form.com
 ziraatbanka.ink
 ziraatbankaliyizbiz.com

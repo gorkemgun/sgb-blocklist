@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42024
-# Last change: 2026-11-21 23:25:03 UTC (sync mode: delta)
+# Records: 42027
+# Last change: 2026-11-24 11:01:40 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -19352,6 +19352,7 @@ jlholgado.com
 jlihamf.com
 jlk-comercial.com
 jlmnahzxr.com
+jlns.site
 jlp.ammopak.site
 jlr-sso.com
 jlricfn.com
@@ -25486,6 +25487,7 @@ newminersage.com
 newmms.ru
 newnewnew.gotdns.org
 newopt.servehttp.com
+newpayapp.com
 newratte.linkpc.net
 newremc22.ddns.net
 newremupdate.duckdns.org
@@ -26881,6 +26883,7 @@ oo99v.coqqwx.ru
 oob-worker.cf102-baf.workers.dev
 oob-worker.cf103-070.workers.dev
 oob-worker.cf99-9b3.workers.dev
+oob.jlns.site
 oodan888tools.atwebpages.com
 oofed.ddns.net
 ooinonqnbdqnjdnqwqkdn.space
