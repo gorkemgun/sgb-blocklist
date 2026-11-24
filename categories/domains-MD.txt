@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66250
-# Last change: 2026-11-20 13:01:30 UTC (sync mode: delta)
+# Records: 66254
+# Last change: 2026-11-24 00:58:16 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -14795,6 +14795,7 @@ c1t3i.zapto.org
 c1ti3ens09-secur38.hopto.org
 c1xgw9pk.duckdns.org
 c1z0d6cp.duckdns.org
+c2.rplix.cc
 c2.styleapp.info
 c24v07sou.duckdns.org
 c25h081.duckdns.org
@@ -23738,6 +23739,7 @@ falcotrjaga.hopto.org
 faleitoleve.ddns.net
 falime.ddns.net
 falimore001.hopto.org
+fallback-c2.rplix.cc
 fallback-hostname.ddns.net
 fallenvrsdo7ne.ddns.net
 fallout24.ru
@@ -59713,6 +59715,7 @@ videoaulo.zapto.org
 videocdn.fun
 videocommercialsforyou.com
 videohosting.pw
+videohostinginsort.net
 videomoithang4.ddns.net
 videopopups.com
 videosdahora.fun
@@ -62110,6 +62113,7 @@ wotiferbosoa.com
 wouatiareves.ru
 woudausdnw.com
 wouw.site
+wovplaying.help
 wovvkeuuhcll.tech
 wowap.hopto.org
 wowapplecar.com
