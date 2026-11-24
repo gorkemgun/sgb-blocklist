@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42027
-# Last change: 2026-11-24 11:01:40 UTC (sync mode: delta)
+# Records: 42044
+# Last change: 2026-11-24 21:18:46 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -4429,6 +4429,7 @@ assicurati-con-linear.online
 assignment54789.xyz
 assignmenthelptoday.com
 assis-programupdate.top
+assist-logs.oss-accelerate.aliyuncs.com
 assistance.uz
 assistcustody.xyz
 assisted-living-11607.bond
@@ -6112,6 +6113,7 @@ bloodthorn.top
 bloomberg-t.com
 blooming.s3.amazonaws.com
 bloomwpp.info
+bloonspace.com
 bloopencil.net
 blorehost.in
 blossomnight.xyz
@@ -8378,6 +8380,7 @@ cloudaskquestionanswers.com
 cloudaskquestionanswers.com.net
 cloudaskquestioning.eastus.cloudapp.azure.com
 cloudaskquestioning.eastus.cloudapp.azure.com.net
+cloudataserver.com
 cloudcenter.top
 cloudchat-dl.com
 clouderive.com
@@ -10846,6 +10849,7 @@ dns-cloud.net
 dns-iprecords.tk
 dns-me.pages.dev
 dns-msn.com
+dns-premium.click
 dns-resolver-es8.pages.dev
 dns-supports.online
 dns.artstrailreviews.com
@@ -11882,6 +11886,8 @@ ecloud-sharedfile.com
 eclouddrivesharedfiles.com
 ecloudfileshare.com
 ecmhikuza.com
+eco-server-ajj-ia.site
+eco-server-id.com.tr
 ecoalgo.xyz
 ecodetect.com.br
 ecombox.store
@@ -12874,6 +12880,7 @@ evlmajrgi.com
 evnpowerspeedtest.com
 evodigital.com.au
 evokgtis.gq
+evolutionapi.click
 evoria.ddns.net
 evpxrfc.com
 evqfrxp.com
@@ -15252,6 +15259,7 @@ ghine.com
 ghl.icu
 ghofpcsss.xyz
 ghoss.freeddns.org
+ghost-account.online
 ghost1515.ddns.net
 ghostdns.ddns.net
 ghostfrp6.ddns.net
@@ -17143,6 +17151,8 @@ holigras.online
 holik.claydc.top
 hollanda27.com
 hollar.store
+hollyrenew.website
+hollysms.store
 holydolyna.com
 holyurbanhotel.com
 homanew.fun
@@ -17295,6 +17305,7 @@ hotmail-monitor.com
 hotnewrumor.com
 hotnotepad.com
 hotns.rest
+hotro-apple.live
 hotspot.accesscam.org
 hotticketsale.com
 houari1987.ddns.net
@@ -25280,6 +25291,7 @@ neew2022.ddns.net
 nefal.mobi
 nefes54.duckdns.org
 nefesaliyicedolunaybugece.com
+nefiserver.info
 nefosferta.com
 nefteparkstroy.ru
 nefxvkbit.com
@@ -25704,6 +25716,7 @@ ninepicchf.bet
 nineteen.libre
 ninja-browser.com
 ninja666.ddns.net
+ninjafrog.pro
 ninjasushi.site
 ninjatech.io
 ninjo19vt.top
@@ -27520,6 +27533,7 @@ panel-controller.000webhostapp.com
 panel-meeting.info
 panel-network.online
 panel-redirect.online
+panel-sms.top
 panel-spectrum.net
 panel.allthe.site
 panel.newoneok.top
@@ -32240,6 +32254,7 @@ seruvadessigen.3utilities.com
 servantadvice.xyz
 servblog475.cfd
 server-360.ddns.net
+server-dark-raptor.com
 server.b92dt.com
 server.freedom-market.com
 server.fsocmicrsoft.com
@@ -35919,6 +35934,7 @@ toothpastename.xyz
 toothpastesense.xyz
 top-facts.sytes.net
 top-game.online
+top-sec.oss-cn-beijing.aliyuncs.com
 top-sso3.top
 top.confhz.space
 top.killwhenabusing1.xyz
@@ -38283,6 +38299,7 @@ vmrriktf.monster
 vmrruldaowjnkhelr.org
 vmtools.camdvr.org
 vmtools.loseyourip.com
+vmtunlocker-rh.top
 vmud.net
 vn-eid.com
 vn.mma888.cc
