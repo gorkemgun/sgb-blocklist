@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 111131
-# Last change: 2026-11-24 21:18:46 UTC (sync mode: full)
+# Records: 111160
+# Last change: 2026-11-25 04:55:04 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -1425,6 +1425,7 @@
 1ptbkx.xdk8ax.cn
 1qwd9s99.click
 1reklammetaonline.cfd
+1rtanpeosat.giize.com
 1savboa.wixsite.com
 1scdacdx123c123x12312.cfd
 1securecheckpoint.info
@@ -2467,6 +2468,7 @@
 4ang29g.cn
 4aralikkampanya.com.tr
 4aralikkampanyalarinin.com.tr
+4axiomeltharvonicquantumengineering.cyou
 4b87i3j4ngx.typeform.com
 4b9m5hy.cn
 4bidetys.dreamhosters.com
@@ -3406,6 +3408,7 @@
 99iade-hizmetleriniz.com
 9a99337e.hds-dnd9n.com.cn
 9a9n0a9n0a9na0.net
+9axiontheravexultronicengineering.cyou
 9batcgshuer.thechidocas.cyou
 9c743b80-b.b-cdn.net
 9cau.top
@@ -4413,6 +4416,7 @@ a9dcb259.9du-flk.shop
 aa-careers.com
 aa.101marketuygun.com
 aa1001xx-indxiriim.com
+aa10101010.hopto.org
 aa101kampanya.monster
 aa101pluscepteonline.store
 aa31zz31csldakxsad1.cfd
@@ -6513,6 +6517,7 @@ akillikura.lol
 akilliodememonline.net
 akillisaatt.duckdns.org
 akillisechim.today
+akillisecimler.org
 akillisigortaci.com.tr
 akillisigortarcim.net
 akilllibiletis.net
@@ -6884,6 +6889,7 @@ alacagin-gun.com
 alacatibeachsresort.com
 alacatida.click
 aladeniz.com
+aladlladin-lambasi.click
 alagiznsdwesd.net
 alaktuelden101.com.tr
 alaktuelden101.online
@@ -16887,11 +16893,15 @@ boytrait.top
 boz0031.site
 bozdemircarrentals.online
 bozdere-novepaki.lol
+bozdurma.tr
 bozdurmaislemi.com
 bozkedihgs.com
 bozkurtpaketleme.com
 bozkurtxlegend.cloud
 boztekin-qirevopa.lol
+bozum.co
+bozum.site
+bozumhizmetleri.com
 bp-petrol.co
 bpayfix.com
 bpbonustalep.com
@@ -20061,6 +20071,7 @@ cepteteb-digital-firsatlar.my-homeip.de
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli-sube.my-homeip.de
+cepteteb-emekli-teb.my-homeip.de
 cepteteb-emekli.myonlineportal.de
 cepteteb-emekliye.my-homeip.de
 cepteteb-emekliyle.my-homeip.de
@@ -40426,6 +40437,7 @@ giris-kgm-sorg.digital
 giris-koinim.com
 giris-login.de
 giris-merkezresmiadresi.com
+giris-mobile-teb.my-homeip.de
 giris-paribu.com
 giris-paribu.site
 giris-paribu.website
@@ -43580,6 +43592,8 @@ haberokuru.club
 haberokuru.site
 haberpark24.com
 haberpusula.cyou
+habersayfalari176234234.sbs
+habersayfalari234754.sbs
 habersen.club
 habersen.xyz
 habersenlee.app
@@ -49555,6 +49569,7 @@ ileodeyin.com
 ileriadimat.online
 ileribakislar.com
 ileribakismerkezi.com
+ileridegerpusulasi.com
 ilerigelisimrotasi.com
 ilerigiden.online
 ilerinesillervakifi.org
@@ -57614,6 +57629,7 @@ krakfish.com
 krakolaradae.duckdns.org
 krakonnloggins.webflow.io
 krakowskiklimat.lat
+kralbozum.com
 kraldabizizkuralda.duckdns.org
 kralefendi.com
 kralgellerdens.duckdns.org
@@ -59156,6 +59172,7 @@ levelforfeit.top
 levelkeen.top
 levelrehearsal.top
 leveltread.top
+leventcicekcilik.net
 leventpharmaceutlcals.com
 leveragecardinal.top
 leveragemomentum.top
@@ -59431,6 +59448,7 @@ limitationtemporal.top
 limitationweariness.top
 limitatnfuse.top
 limitbilgi.com
+limitbozum.com
 limited-account.review
 limitedperativ.top
 limithike.top
@@ -64889,6 +64907,7 @@ mobilbasvuruonayformuintsube.site
 mobilbasvurusubenfast.info
 mobilbilgilerimgirisgovtr.tk
 mobilbireyselkatilimm.online
+mobilbozumist.com
 mobilcarkbinance.com.tr
 mobilcep-erisim.my-homeip.de
 mobilcepte.com.tr
@@ -69511,6 +69530,7 @@ o-n-l-i-n-e-b-a-s-v-u-r-u.net.tr
 o-oo.vip
 o-panel.online
 o2-prepay.com
+o20cnkts.opik.net
 o365clouddocsstorage.com
 o365cloudfilesdocs.com
 o365cloudfilesstoragedcs.com
@@ -71720,6 +71740,7 @@ osmanossmfearlessscan.click
 osmcancancafkfkk23.com
 osmisleegunaydinlar.net
 osmm-ww.net
+osmn.menkulvcuzdan.app
 osmnlgdlkbopss.cfd
 osmurmaomurga.click
 osmwz-yk.com
@@ -71810,6 +71831,7 @@ otoavishizmetleri.online
 otoavisihemenkiralama.online
 otoaviskiralama724.online
 otoavisle724.site
+otoavistr.net
 otoavisturkiye.online
 otoavs.com
 otobanguncelhaberler.net
@@ -74776,6 +74798,7 @@ pilvcsanada.shop
 pinar-vakfl.com.tr
 pinarvakfl.com.tr
 pinarvakfl.site
+pinbozum.com
 pinchslitary.top
 pinedisposition.top
 pineist.com
@@ -87493,6 +87516,7 @@ skatteetatei.top
 skbkjacmazvl.com
 skdapersmbfrstkpidaucrtszkrgfrsti.tech
 skde.top
+skdijital.com
 skdkasdasda.shop
 skechers-turkey.com
 skechers-turkiye.com.tr
@@ -91680,6 +91704,7 @@ svdklerdenlardansadas.shop
 svdksvldksnkz.xyz
 svdlaryrklerdens.xyz
 svdlrdabgnlrdsbz.shop
+svdlryrklrdenbrdsa.duckdns.org
 svdlyrklerdenbyzsrgn.lol
 svdlyrklerdenbyzsrtg.duckdns.org
 svdlyrklerdenbyzzzz.duckdns.org
@@ -95177,6 +95202,7 @@ tileappraisal.top
 tilenoodes.com
 tilepeck.top
 tilionasters.com
+tilkibozum.com
 tilkimm.online
 till-lindemann.ru
 tillaffiliation.top
@@ -95210,6 +95236,7 @@ timidinventory.top
 timingextraction.top
 timingpredominate.top
 timmoriano.com
+timsahbozum.com
 timticaret.aem.page
 timticaret.aem.reviews
 timticaret.barsy.bg
@@ -103108,6 +103135,7 @@ vksdsvkdakmasd.com
 vktndealdinaldinkcrma.com.tr
 vkvslvskkckkckckc.net
 vkwebsubayrntilkmpp4.xyz
+vkwedsubaynrtilarr12.xyz
 vladinthehood.tech
 vlarn.top
 vlburasibskakcmahd.com.tr
@@ -106641,6 +106669,7 @@ wwptturkey.osterholzergoldstube.de
 wws-ak.com
 wwv-ing.com
 wwv-pttavmsecure.com
+wwvietdeliver.cleanpol.de
 wwvsubegelalaktive.com
 wwvv-paribu.com
 wwvvakfaidatteslimatiadeleri.com

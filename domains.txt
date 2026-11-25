@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - all categories
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain
-# Records: 481271
-# Last change: 2026-11-24 21:18:46 UTC (sync mode: full)
+# Records: 481300
+# Last change: 2026-11-25 04:55:04 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7846,6 +7846,7 @@
 1rqsrv9.duckdns.org
 1rrj5s0kn.duckdns.org
 1rsj5xm0.duckdns.org
+1rtanpeosat.giize.com
 1rto12o.duckdns.org
 1rtspht.duckdns.org
 1rw19b2.duckdns.org
@@ -15310,6 +15311,7 @@
 4araliksonindirinim.xyz
 4arniqwk6.duckdns.org
 4avgd72gq.duckdns.org
+4axiomeltharvonicquantumengineering.cyou
 4b.ddns.net
 4b1d0.zapto.org
 4b1s1.xyz
@@ -23098,6 +23100,7 @@
 9avm9k5-jtpnwm77hk46j0.icu
 9ax3zwc.duckdns.org
 9axckaskxservicessorgusystem.com
+9axiontheravexultronicengineering.cyou
 9axkaskxservicessorgusystem.com
 9b10t4vyvx6b5.life
 9b2bwd.duckdns.org
@@ -27681,6 +27684,7 @@ aa.gettrials.com
 aa.olixa.p-e.kr
 aa1.super5566.com
 aa1001xx-indxiriim.com
+aa10101010.hopto.org
 aa10111aa10101.duckdns.org
 aa101kampanya.buzz
 aa101kampanya.monster
@@ -40490,6 +40494,7 @@ akilliodememonline.net
 akilliodmemonline.net
 akillisaatt.duckdns.org
 akillisechim.today
+akillisecimler.org
 akillisigorta.net
 akillisigortaci.com.tr
 akillisigortarcim.net
@@ -42840,6 +42845,7 @@ aladadear.com
 aladdin-renov.com
 aladebtrading.com
 aladeniz.com
+aladlladin-lambasi.click
 alae-bema4om-ef.com
 alagiznsdwesd.net
 alahbenim.net
@@ -89056,6 +89062,7 @@ bozbimcelltr.co.vu
 bozdemircarrentals.online
 bozdere-novepaki.lol
 bozdomuz.duckdns.org
+bozdurma.tr
 bozdurmaislemi.com
 bozkedihgs.com
 bozkelcwvm.duckdns.org
@@ -89074,6 +89081,9 @@ bozrak.online
 bozro62.xyz
 boztekin-qirevopa.lol
 bozuldudengemxlzlx.com
+bozum.co
+bozum.site
+bozumhizmetleri.com
 bozuntiyz.site
 bozzl.top
 bp-certicodepluss.hopto.org
@@ -102256,6 +102266,7 @@ cepteteb-e-subem.com
 cepteteb-emekli-basvur.myonlineportal.ch
 cepteteb-emekli-kampanyaniz.my-homeip.de
 cepteteb-emekli-sube.my-homeip.de
+cepteteb-emekli-teb.my-homeip.de
 cepteteb-emekli.myonlineportal.de
 cepteteb-emekliye.my-homeip.de
 cepteteb-emekliyle.my-homeip.de
@@ -186216,6 +186227,7 @@ giris-mobil-gir.cfd
 giris-mobil-onlinen.sbs
 giris-mobil-zir.cfd
 giris-mobilaktif.vip
+giris-mobile-teb.my-homeip.de
 giris-mobile.sbs
 giris-mobiles.sbs
 giris-mobilsube.com
@@ -197992,6 +198004,8 @@ habers360tr.cfd
 habers360try.shop
 habers360turk.shop
 habersal.site
+habersayfalari176234234.sbs
+habersayfalari234754.sbs
 habersbs45.shop
 habersen.club
 habersen.live
@@ -228677,6 +228691,7 @@ ileriadimvakfi.org
 ileribakislar.com
 ileribakismerkezi.com
 ileride-guzelden-hislerle-tanisip-sevilir.com
+ileridegerpusulasi.com
 ilerievlerimprojesi.com
 ilerievleriprojem.com
 ilerigelisimrotasi.com
@@ -266754,6 +266769,7 @@ kralbayrak66.workers.dev
 kralbenim-bilenbilir.tk
 kralbenimve2.site
 kralbetmobilgirislerim.vip
+kralbozum.com
 kralda-bizik-pasada.com
 kraldabenpasada.space
 kraldabizizkuralda.duckdns.org
@@ -273072,6 +273088,7 @@ levelmodern.online
 levelrehearsal.top
 levelstate.xyz
 leveltread.top
+leventcicekcilik.net
 leventpharmaceutlcals.com
 leveragecardinal.top
 leveragemomentum.top
@@ -273877,6 +273894,7 @@ limitatnfuse.top
 limitauthnet.hopto.org
 limitbbva.online
 limitbilgi.com
+limitbozum.com
 limitdolum.xyz
 limitdolumlar.xyz
 limiteaccount-resolutioncenter.com
@@ -292035,6 +292053,7 @@ mobilbntrgiristr.com
 mobilborcunuzhgs.com
 mobilbozmahizmetlerimiz.blogspot.com
 mobilbozumhizmeti.pw
+mobilbozumist.com
 mobilbozumm.com
 mobilbtcturkpro.com
 mobilbuzdolabifirsati.xyz
@@ -310816,6 +310835,7 @@ o1o1comtr.online
 o2-prepay.com
 o2-signin-billing.com
 o2.sibzapaska.ru
+o20cnkts.opik.net
 o23093278h166128a99874.store
 o243nqzf6fo.storage.googleapis.com
 o27akk.duckdns.org
@@ -321239,6 +321259,7 @@ osmm-ykvsbsvurlar.com
 osmm-ykvssbsvurlar.net
 osmm1.xyz
 osmm1best.blogspot.com
+osmn.menkulvcuzdan.app
 osmnanclisadosad.com
 osmncannsferarls.click
 osmndsfasdkersdsads.com
@@ -321602,6 +321623,7 @@ otoavisskiira.cf
 otoavisskiira.gq
 otoavisskiira.ml
 otoavisskira.xyz
+otoavistr.net
 otoavisturkiye.online
 otoavs.com
 otoavsfilo.com
@@ -333817,6 +333839,7 @@ pinarlisubesikasimindirimi.online
 pinarvakfl.com.tr
 pinarvakfl.site
 pinaypoe.net
+pinbozum.com
 pinchslitary.top
 pincombinenovel.com
 pine-sales.com
@@ -382223,6 +382246,7 @@ skde.top
 skdfjc.net
 skdhkahs.click
 skdigitalodemelerimiz.site
+skdijital.com
 skdjkash.click
 skdjrngksjfbrktjennfkfkrnehe.xyz
 skdkasdasda.shop
@@ -396790,6 +396814,7 @@ svdlaryrklerdens.xyz
 svdlgnlrdebyzsvdklrdan.click
 svdlrdabgnlrdsbz.shop
 svdlryrklerdnsbr.icu
+svdlryrklrdenbrdsa.duckdns.org
 svdlyrklerdbyzsrgnler.shop
 svdlyrklerdenbyzsrgn.click
 svdlyrklerdenbyzsrgn.lol
@@ -407716,6 +407741,7 @@ tililsifov.duckdns.org
 tilingcraving.com
 tilionasters.com
 tilki.online
+tilkibozum.com
 tilkimm.online
 till-contribute.com
 till-lindemann.ru
@@ -407849,6 +407875,7 @@ timpaltalk.zapto.org
 timpe.kozow.com
 timpe.webredirect.org
 timremcos.ddns.net
+timsahbozum.com
 timschwefel.zapto.org
 timticaret.aem.page
 timticaret.aem.reviews
@@ -439769,6 +439796,7 @@ vkvfeotgfgdk.net
 vkvsllsczczs.net
 vkvslvskkckkckckc.net
 vkwebsubayrntilkmpp4.xyz
+vkwedsubaynrtilarr12.xyz
 vkwqr.com
 vkwsn.duckdns.org
 vkxjvccrvssimbc.cn
@@ -451314,6 +451342,7 @@ wwvhalkbankdiyalog.com
 wwvhalkbankdiyalog.tk
 wwvhalkbankhediyeleri.com
 wwvhalkbankmobil.com
+wwvietdeliver.cleanpol.de
 wwvisbank.com
 wwvmtb4online.ddns.net
 wwvmtb6online.ddns.net
