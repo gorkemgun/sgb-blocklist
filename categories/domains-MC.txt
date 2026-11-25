@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42044
-# Last change: 2026-11-24 21:18:46 UTC (sync mode: full)
+# Records: 42071
+# Last change: 2026-11-25 15:42:32 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -5585,6 +5585,7 @@ berdmllxljqhqfh.ru
 beregg.com
 bereketversin.nl
 beresor.store
+berff3788.com
 bergamot.lancescanb.com
 berilsinse232n.site
 berilumran.xyz
@@ -6229,6 +6230,7 @@ bobbythc.ddns.net
 bobbythc.thc.ddns.net
 bobleeataca.duckdns.org
 bobrat1111.ddns.net
+bobroviysmex.shop
 bobs8.oss-cn-hongkong.aliyuncs.com
 bobsmith.apiworld.cf
 bobstore.net
@@ -6280,6 +6282,7 @@ bom02.gotdns.ch
 bomb234.xyz
 bomba1.ddns.net
 bombast.volleyballsipsmart.cc
+bomboclat.rest
 bombomdak561922.site
 bombomsite.site
 bombsex.net
@@ -6590,6 +6593,7 @@ brobro35.ddns.net
 broccoli135.xyz
 brockmex57.golffan.us
 brocks33.com
+brodyagup.com
 broguenko.su
 brokeapt.com
 brokenme.xyz
@@ -8303,6 +8307,7 @@ clk3r1241l2xr.t625u.ru
 clmxh.com
 clo4q41v1v85ed814bogstepb5jwkbxtj.oast.fun
 cloacpae.ddnsfree.com
+cloaderx.sytes.net
 clockgafrots12.net
 clockgen64.com
 clockpatcher.com
@@ -11036,6 +11041,7 @@ dogruyusoyleme9.com
 dogslovescats.top
 doguspanel.duckdns.org
 dohigu.com
+dojaekrt.trade
 dojaewf.com
 dokedok.shop
 doksqy.com
@@ -15676,6 +15682,7 @@ gomyfiles.info
 goncalves.com
 gondurasonline.ru
 gondurasonline.ug
+gonewiththetide.surf
 gonyoncesidos.top
 goo-link.online
 good-news.cfd
@@ -19255,6 +19262,7 @@ jgaytfiz3.xyz
 jgerhtgmhnivkkb.ru
 jghkju.ml
 jgjtyfdyrk.ondinthep.ru
+jgkawdq.cloud
 jgkbhl.com
 jgleqolq.xyz
 jgoih.com
@@ -19897,6 +19905,7 @@ kahpeapo2023.net
 kahpeninogluselmanhanoglu.com
 kahvaltjaertfd.monster
 kaiaflow.icu
+kaiangelsystems.rest
 kailathegame.xyz
 kairaw.ddns.net
 kaiserfranz.cc
@@ -20696,6 +20705,7 @@ kongjiang6.dev
 kongorocileyasdasdsins.site
 kongorocileysins.site
 kongtuke.com
+konradkerz40000.work
 konrayo.space
 konsukie.ddns.net
 kontec.quest
@@ -21262,6 +21272,7 @@ lcvbyjcwbrsvkex.cn
 lcyaolu.com
 lczkgnydf.com
 lczoht.com
+ld-me.cfd
 ldcyr.com
 ldfidfa.pw
 ldhqi4.fun
@@ -22209,6 +22220,7 @@ lungwort51.xyz
 lunoxorn.top
 luodixijin.com
 luoslasco.xyz
+luqiuid91.com
 luraka-game.github.io
 lurningbuff.com
 luscaseila.duckdns.org
@@ -25566,6 +25578,7 @@ nexsuslazim.net
 nextboss.ddns.net
 nextgenhealthtrack.azurewebsites.net
 nextgenmemorabilia.com
+nextlanding.net
 nexton-highschool.ddns.net
 nextroundst.com
 nexus-cloud-360.com
@@ -26225,6 +26238,7 @@ nwapp.yoomob.cn
 nwatjuhc.com
 nwaums.com
 nwckv.com
+nweenwew234.cc
 nweow8.mariostrategy.my.id
 nwire733.duckdns.org
 nwqlpuihrpksked.ru
@@ -27671,6 +27685,7 @@ patch-provider-247.azurewebsites.net
 patch-provider-597.azurewebsites.net
 patch-provider-745.azurewebsites.net
 patch-provider.azurewebsites.net
+patduggan.com
 patent856.xyz
 patersonpayne64.xyz
 pathc.space
@@ -30183,6 +30198,7 @@ rec.casacam.net
 recall-addressed-who-collector.trycloudflare.com
 recallnine.info
 recallquestionactscare.top
+recap-check.org
 recaptcha-0d-verify.pages.dev
 recaptcha-dns-b4.pages.dev
 recaptcha-dns-d9.pages.dev
@@ -31974,6 +31990,7 @@ secure.serviupdate.bio
 secure.systemupdatecdn.de
 secure01-redirect.net
 secureaddress.pisosg8tr.xyz
+secureapi-connect.xyz
 secureapplication.azurewebsites.net
 securebestapp20.com
 securecc.ru
@@ -32441,6 +32458,7 @@ sfalksalksa.com
 sfergdfgh.site
 sferitys.org
 sfernacrif.com
+sfgiantslive.com
 sfgsdf4g.beget.tech
 sfibhzu3ubhza.top
 sfiiogtcfk.xyz
@@ -33028,6 +33046,8 @@ skerberibo.xyz
 sketchvip.ddns.net
 skfaitmuqwntvmh.ru
 skflforbsmsb.xyz
+skibidiproliv.com
+skibidistealer.team
 skid.uno
 skid81-39894.portmap.io
 skidxllc.com
@@ -34669,6 +34689,7 @@ systemcodeyonetim.cf
 systemcodeyonetimpaneli.com
 systemcodeyonetimsystemi.com
 systemdriverupdate.com
+systemformating.rest
 systeminfo.cleansite.info
 systeminfo.myftp.name
 systeminfor.com
@@ -34881,6 +34902,7 @@ tartarcusp.com
 tartarorder23.site
 tartarugazuada666.duckdns.org
 tarzan19736.ddns.net
+tascredit-pay.com
 taskandpurpose.icu
 taskhostw.com
 taskreminder.net
@@ -38250,6 +38272,7 @@ vkjtz.com
 vkticflzg.com
 vkwqr.com
 vkxjvccrvssimbc.cn
+vlad-nazarenko2004.club
 vlad1111kill.hopto.org
 vladdin.hopto.org
 vladik222.ddns.net
@@ -39605,6 +39628,7 @@ worryfreetransport.com
 worryless346.duckdns.org
 worrynot.duckdns.org
 worstyear2020.com
+wosback.cc
 wosqpg.com
 wotads.com
 wotonline.site
@@ -41518,6 +41542,7 @@ zallesman.ru
 zalofilescdn.com
 zalukina.avisregde1988.workers.dev
 zalupa1488.ddns.net
+zalupka.website
 zalypagylivera.disppomeverp1976.workers.dev
 zalypagylivera.nzalupadons1912.workers.dev
 zam.claydc.top
@@ -41678,6 +41703,7 @@ zesasar9.com
 zesierm.info
 zestmodp.top
 zestyahhdog.com
+zestyhollow9.gonewiththetide.surf
 zetalinks.tech
 zetgfegsdsegdsg.ddns.net
 zetogebuw1s2-5hzu.workers.dev
@@ -41853,6 +41879,7 @@ zoinkr.com
 zok.duckdns.org
 zolim.ddns.net
 zolo.pw
+zolotoy.club
 zom3rkt078g1k.life
 zoma.ddns.net
 zomfaa9a.onlinewebshop.net

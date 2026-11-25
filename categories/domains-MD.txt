@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66256
-# Last change: 2026-11-24 11:01:40 UTC (sync mode: delta)
+# Records: 66261
+# Last change: 2026-11-25 15:42:32 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -2406,6 +2406,7 @@
 2eqqmer.duckdns.org
 2ett14.duckdns.org
 2euyqr.duckdns.org
+2ev5.newpayapp.com
 2ewioxttt.duckdns.org
 2f1v8v.duckdns.org
 2f22d2j.duckdns.org
@@ -10254,6 +10255,7 @@ aphptaxjvggaqc.duckdns.org
 api-sync-service.mdkd1184.workers.dev
 api-telecommunication.com
 api-whatsapp-grup67789.duckdns.org
+api-zt.newpayapp.com
 api.2nd-weibo.com
 api.adcmsware.com
 api.anaehler.com
@@ -36098,6 +36100,7 @@ login.daum.net-accounts.info
 login.daum.unikortv.com
 login.ki.se.iftl.tk
 login.libproxy.kcl.ac.uk.itlt.tk
+login.microsoftofice.cz
 login.outlook.kcrct.ml
 login.proxy1.lib.uwo.ca.sftt.cf
 login.qzbwcq.com
@@ -43624,6 +43627,7 @@ orccgsmryw.duckdns.org
 orchomenos.news
 orderapiserver.info
 orderid.info
+orders-amazon.com.advancedfences.com
 ordersort8761545.ddns.net
 ordos.duckdns.org
 oreganogf.su
@@ -58217,6 +58221,7 @@ updaterapport.com
 updaterefundbill.hopto.org
 updaterestorepaypal.hopto.org
 updaterituals.com
+updates.howclens.com
 updates.utyuytjn.com
 updates0-loginapple.hopto.org
 updates211.zapto.org
