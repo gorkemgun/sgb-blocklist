@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66261
-# Last change: 2026-11-25 15:42:32 UTC (sync mode: delta)
+# Records: 66285
+# Last change: 2026-11-26 09:37:21 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -5178,6 +5178,7 @@
 6cxmvjqo2.duckdns.org
 6cxn03.duckdns.org
 6cydklihq.duckdns.org
+6czpv1rp4f3503z7jbv.online
 6d2r9r2bi.duckdns.org
 6d3rdo.duckdns.org
 6d4dpjou.duckdns.org
@@ -7668,6 +7669,7 @@ aax.me
 aaz.zapto.org
 ab0vi0.duckdns.org
 ab1145b758c30.com
+ab124.live
 ab15.zapto.org
 ab1abad1d0c2a.com
 ab1c403220c27.com
@@ -11063,6 +11065,7 @@ astration.io
 astrationgame.com
 astrationplay.com
 astrationplay.io
+astro-net.net
 astrodestino.com.br
 astrojetuu.hopto.org
 astromark-mijnicsalerts.duckdns.org
@@ -13458,6 +13461,7 @@ bleu1.zapto.org
 bleucaratvlz.duckdns.org
 blf5p6y.duckdns.org
 blfwsbnurbss.com
+blgjemysl0lhq.com
 blgxw7.duckdns.org
 blhxapmmxtcxlc.me
 blid1.zapto.org
@@ -13639,6 +13643,7 @@ bnkofamerica.zapto.org
 bnkonlineserver.ddns.net
 bnkver1f1y.hopto.org
 bnkvocu.duckdns.org
+bnlziduzxo4r9jmb1jm.cc
 bno7kdy5.duckdns.org
 bnoant.duckdns.org
 bnoboocbbb.duckdns.org
@@ -16863,6 +16868,7 @@ cloudsave.duckdns.org
 cloudsendhub.com
 cloudserve.online
 cloudservice.tw
+cloudservicebase.ddns.net
 cloudsond.me
 cloudstatistics.net
 cloudtesting.ddns.net
@@ -19130,6 +19136,7 @@ dasvwrqgcn.duckdns.org
 data-kappa.vercel.app
 data-ps.org
 data-service-de.info
+data-xbn2bvt.net
 data-zt.newpayapp.com
 data.lovequintet.com
 data.michaelorth.eu
@@ -24065,6 +24072,7 @@ feito-16.zapto.org
 feito-19.zapto.org
 feito-21.zapto.org
 feitoparavoceapp.zapto.org
+feiyang.my
 feizgnlift.duckdns.org
 fekigter2.us
 fekilopol.xyz
@@ -25597,6 +25605,7 @@ g51sdit.duckdns.org
 g54noe32z.duckdns.org
 g57rqxb.duckdns.org
 g592tj.duckdns.org
+g5a.online
 g5gbkarrw.duckdns.org
 g5i0yr78.duckdns.org
 g5oiz9l7.duckdns.org
@@ -28664,6 +28673,7 @@ hfwrsl.net
 hfymdmosqo.duckdns.org
 hfyvq.duckdns.org
 hfywnrqhcc.duckdns.org
+hg0-q-nuu0fy8vm5a.lol
 hg1ly40e.duckdns.org
 hg227228.com
 hg2yyr.duckdns.org
@@ -28752,6 +28762,7 @@ hhpphshnhs.net
 hhqnyy.zapto.org
 hhqwwssmen.net
 hhsesaqeqh.net
+hhtagg.cn
 hhtps.ddns.net
 hhvkupaw.duckdns.org
 hhvs1dx5.duckdns.org
@@ -31012,6 +31023,7 @@ inhelpaccountupdatego.com
 inherittaxpapers.site
 inherromat.com
 inhgtpotbgstxat.duckdns.org
+inhlgaz3x59p6ak.icu
 inhousesoftwaredevelopment.com
 inindia.ddns.net
 iniosmiaw.pw
@@ -31802,6 +31814,7 @@ iualef.net
 iualef.netczijbh.net
 iubg7mk.duckdns.org
 iuc4mwzu.duckdns.org
+iudmkq07kci5wl7.icu
 iuefgauiaiduihgs.com
 iuefgauiaiduihgs.in
 iuendtobab.duckdns.org
@@ -31944,6 +31957,7 @@ iybwilvl.info
 iydtr.duckdns.org
 iyedess.ddns.net
 iyefkpqrjnee.space
+iyegjb.cc
 iyhxgla.duckdns.org
 iyj8u4wp.duckdns.org
 iykjci1.duckdns.org
@@ -32546,6 +32560,7 @@ ji31xsq.duckdns.org
 ji8elb3.duckdns.org
 jiahd.duckdns.org
 jiancai008.com
+jiaoyang677.sbs
 jiayzzxvvm.duckdns.org
 jibswd.com
 jicfxn6.duckdns.org
@@ -45553,6 +45568,7 @@ pns-v1iral.hopto.org
 pns.ddns.net
 pnsd4jmh7.duckdns.org
 pnxlhow.duckdns.org
+pnzx6dwm5ed0amqrjq-y.com
 po.starcyclone.com
 po85st1it1lia.hopto.org
 pobdas0vv.duckdns.org
@@ -46788,6 +46804,7 @@ qatar-post.ddns.net
 qatarposte.ddns.net
 qatuat.ddns.net
 qavd3dj.duckdns.org
+qavrix.vip
 qawuqfbvvs.duckdns.org
 qaxz4wx.duckdns.org
 qazwsx45678edc.ddns.net
@@ -47040,6 +47057,7 @@ qkxlylwwyw.duckdns.org
 qky79c4g.duckdns.org
 ql39ohl3g.duckdns.org
 ql9kwmzl.duckdns.org
+ql9pmbms6a3fuq.cfd
 qlcdun1n1lqnc058unkdgjg.ddns.net
 qlcs80.duckdns.org
 qlfurnhbys.duckdns.org
@@ -49674,6 +49692,7 @@ s2s.rafotech.com
 s2th2t0a.duckdns.org
 s2vvdd4.duckdns.org
 s2xg23lp9.duckdns.org
+s2xyx3r9g1vvgki12i.icu
 s3.fikofiko.top
 s3.megawoc.com
 s300x5v3.duckdns.org
@@ -56700,6 +56719,7 @@ travelmate.bit
 traviscos.ddns.net
 trbclerrltxh.pw
 trbekotr.ddns.net
+trc006.com
 trcell-hizmet.org
 trcell-info.net
 trcell-odeme.biz
@@ -58897,6 +58917,7 @@ v537ln7il.duckdns.org
 v55kf0l1.duckdns.org
 v56yylq.duckdns.org
 v580ol.duckdns.org
+v5cdx1zyk9hulab7.net
 v5gayj28y.duckdns.org
 v5gcojhr4.duckdns.org
 v5gtnay.duckdns.org
@@ -61936,6 +61957,7 @@ wlgdz.duckdns.org
 wll9.zapto.org
 wllkkjwkup.duckdns.org
 wlmkgfdbpn.duckdns.org
+wlnjn-1-zpg1-uy87qt.live
 wlnts5qd.duckdns.org
 wlohijihmj.duckdns.org
 wlor6c0.duckdns.org
@@ -65644,6 +65666,7 @@ zh7fst9b.duckdns.org
 zhajthaklsllikolhfji-ijmkyruijnfkdsyhgfw.duckdns.org
 zhakangjuskagf-yhrsujfmndssagdfs.duckdns.org
 zhaksylyk.kz
+zhcnn.com
 zhcxkgbwea.duckdns.org
 zhdmxrkhkg.duckdns.org
 zhedacdkef.duckdns.org
@@ -66078,6 +66101,7 @@ zuiloppohfaad.top
 zulhamburtidusan.hopto.org
 zuluranger.zapto.org
 zumzum.ddns.net
+zunelp.vip
 zunkv6c3.duckdns.org
 zunlen.com
 zunpthedoanin.com

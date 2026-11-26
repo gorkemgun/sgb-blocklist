@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260743
-# Last change: 2026-11-26 00:28:36 UTC (sync mode: full)
+# Records: 260749
+# Last change: 2026-11-26 09:37:21 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -2113,6 +2113,7 @@
 11245100102101.duckdns.org
 112724112.click
 1127273234hu4.blogspot.com
+112acil112acil112acil.duckdns.org
 112bucukeyluldesiparilerin.cloud
 112cfrstlrr.xyz
 113001011111101.duckdns.org
@@ -28501,6 +28502,7 @@ arzumlindirim.com
 arzumnova.xyz
 arzumprime.xyz
 arzumsizinindirimiiz.com
+arzumstindirimsizinns.com
 arzumverse.xyz
 as-aidatt-iade.ml
 as-gr-lr-tk.myonlineportal.ch
@@ -30199,6 +30201,7 @@ avs-kiralama.com
 avs-rentacars.com
 avs.kiralama-online.com.tr
 avs.kiralama-tr.com
+avsarabakiralama.net
 avsarackirala.com.tr
 avsarackirala.net
 avsarackiralamahizmet.com.tr
@@ -116892,6 +116895,7 @@ hemenanlikkayit.xyz
 hemenappr2.is-best.net
 hemenarabakm.com
 hemenarabanburada.net
+hemenarabanikirala.online
 hemenaracinikirala.com.tr
 hemenaracinikirala.xyz
 hemenarackirala-yolcu360.com
@@ -130078,6 +130082,7 @@ ile-satin-alim.com
 ile-satinalim.com.tr
 ile-satinlar.com
 ile-sepet-islemleri.com.tr
+ile-sepet-islemleri.info.tr
 ile-sepet-islemleri.net
 ile-sepete-islemler.com.tr
 ile-sepetim.com.tr
@@ -159743,6 +159748,7 @@ market10.duckdns.org
 market11.duckdns.org
 market12.duckdns.org
 market15.duckdns.org
+market386.com
 marketa101devindirim.store
 marketaktifa101firsatlarim.duckdns.org
 marketaktuel.info.tr
