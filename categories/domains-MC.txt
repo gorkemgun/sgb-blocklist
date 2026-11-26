@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42076
-# Last change: 2026-11-26 00:28:36 UTC (sync mode: full)
+# Records: 42097
+# Last change: 2026-11-26 19:40:54 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -521,6 +521,7 @@
 2025irswebsiteislive.live
 2025primakovreadings.info
 2030010213.goloser.ru
+204-76-203-204.sslip.io
 2047249581.dfgqdsd.ru
 20491.xc.mieseng.com
 20517.xc.mieseng.com
@@ -4703,6 +4704,7 @@ avaver.ru
 avayacloud.com.global.prod.fastly.net
 avcilar154.net
 avdev.net
+avela.top
 aventix.pw
 averageorganicfallfaw.shop
 averagetheater.site
@@ -6162,6 +6164,7 @@ blwcd.com
 blxlmexcfkqtfbf.cn
 blyatbitch.redirectme.net
 blzmuoi.com
+bmap.top
 bmapps.org
 bmhha.ddns.net
 bmividlec.com
@@ -10850,6 +10853,7 @@ dnkayyyd.info
 dnmsduialdevolr.cn
 dnn.duckduckanimesdownload.net
 dnot.sh
+dnow.top
 dnrhuyfv.com
 dns-cloud.net
 dns-iprecords.tk
@@ -12668,6 +12672,7 @@ esnoptdkkiirzewlpgmccbwuynvxjumf.name
 esoftwareupdates.com
 esogupi.com
 esoksokon413432.com
+esora.top
 esoseraz.cf
 esosv.itemdb.com
 espaciodiseno.es
@@ -14436,6 +14441,7 @@ freesitucionap.com
 freeskeetlol.ddns.net
 freesubmissiondirectoryy.com
 freesyria.ddns.net
+freeware-peter-desktop-parker.trycloudflare.com
 freewindowssoftware.com
 freezetdopzx.shop
 frefiredll.servehttp.com
@@ -15023,6 +15029,7 @@ gelenekseltemizlikfirmalari.xyz
 gelenhan.online
 geleroadaxcs.cyou
 gelgitamaverbirbittr33.com
+geliang.top
 gelimog.online
 gelinciik.com
 gelirgiderbuislerolurqw.xyz
@@ -16011,6 +16018,7 @@ grmae.com
 groggy3.xyz
 grongicibo.xyz
 gropinggo.com
+grosir.top
 grosjeangerard.hopto.org
 grotomnipobell.zapto.org
 groundlasopa592.weebly.com
@@ -20246,6 +20254,7 @@ kermo.pw
 kernelmonitor.cc
 kerosand.net
 kerstpakketten.horesca-meppel.nl
+keshen.top
 keskemolmasaydum.live
 keskinbakisbeyazyaka.site
 keskinbilisimde20.com
@@ -21365,6 +21374,7 @@ lekelpoe.xyz
 lekkeleke.xyz
 lekscopy.xyz
 lekuvam.com
+lelebag.com
 leletorrents.info
 lembellirium.com
 lemlbduytohrawn.su
@@ -23496,6 +23506,7 @@ mergezanems.surf
 meridian-protocol.org
 meridiangroup-corp.com
 meridyen-12.xyz
+merio.top
 merivaara.xyz
 meriwethershaquila.net
 mermilerseksin.com
@@ -26615,6 +26626,7 @@ okaa0-51499.portmap.host
 okanburuk-65.net
 okangurlercan.tk
 okanvehbiyalan.surf
+okara.top
 okayanuskizi23.digital
 okbro2.zapto.org
 okcigsmega.com
@@ -26942,6 +26954,7 @@ openclawcli.vercel.app
 opendnsapi.net
 openheartljiving.tech
 openlibrary.ignorelist.com
+openmagic.net
 openmatrix-app882.vercel.app
 openmatrix-ext539.vercel.app
 openstreetpro.com
@@ -28253,6 +28266,7 @@ piskoloijimiboizmyindhfhrj.club
 pismamcim.com
 pit.puttqrhubnk.cc
 pitagoras.app
+pitanie.top
 pitb.gov-pkgov.workers.dev
 pitbullzowna1.ddns.net
 pitca.com
@@ -28653,6 +28667,7 @@ porttagusta.surf
 portu-wd3463btrq-uc.a.run.app
 portuis.icu
 portuis.xyz
+porugo.com
 pose122dion.xyz
 pose2121dion.xyz
 pose2266dion.xyz
@@ -29979,6 +29994,7 @@ raqfs.com
 raqqdbjusbckbmk.cn
 rare-coisns.com
 rareboytzaki.ddns.net
+rarer.top
 rasaanah-iiis.org
 rasaaneh-iiis.org
 rasaneh-iiis.org
@@ -31755,6 +31771,7 @@ schetdigit.pics
 schicsima.mentrypsi.ru
 schilllr.icu
 schooloftutorials.com
+schools-account.com
 schroederindustries.cf
 schrothny.com
 schubert.docupdftext.com
@@ -32609,6 +32626,7 @@ sharkfangs.com
 sharp-dev-40d.ivx9ctza.workers.dev
 sharpestubcdwikifemale.agehowofu1990.workers.dev
 sharpshort3245.xyz
+shashen.top
 shawnahearnarts.com
 shaziaandrew582.xyz
 shbilly.ddns.net
@@ -34618,6 +34636,7 @@ sxx8sut6u3w96mzo0.541bgt.ru
 sxygp.com
 sxytlji.com
 sxzeg.com
+sybase.top
 sybrsatatdiyari.com
 sydwzl.cn
 syekjfbmc.com
@@ -38419,6 +38438,7 @@ volodyapetrovvvvvvv-20128.portmap.host
 volonmob.sbs
 volosmob.pics
 volosmob.sbs
+volosy.top
 volslirsan2a.digital
 voltampereactive.com
 voltix-net.com
@@ -39596,6 +39616,7 @@ workersquestionsjson.azurewebsites.net
 workerstats.net
 workhard.shop.swtest.ru
 workout.pictures
+workplace-local.com
 workrabota112.site
 workrepair.bazar
 works-clubs-attendance-vi.trycloudflare.com
