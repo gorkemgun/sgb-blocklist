@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 111208
-# Last change: 2026-11-25 15:42:32 UTC (sync mode: delta)
+# Records: 111241
+# Last change: 2026-11-26 00:28:36 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -69,6 +69,7 @@
 02tbbmmcc.ga
 02yuh9c.cn
 03.bontarsfonkalyopraskonistarya.net
+03214aa.site
 033325415230.duckdns.org
 03498.weebly.com
 03egrag.cn
@@ -483,6 +484,7 @@
 101001310177200.bounceme.net
 10100kampanya.duckdns.org
 101010233123.duckdns.org
+1010140ileheemen.webredirect.org
 10101firsattl.duckdns.org
 10108283004588.bounceme.net
 101101-23233.cloud
@@ -524,6 +526,7 @@
 101firsatlar.com
 101firsatlarigirisadresi.icu
 101firsatlarikacirrma.duckdns.org
+101flrsatdiyari.com
 101flrsatlarlburada1o1.duckdns.org
 101frsatlargeldignde.online
 101geldikapida.com
@@ -5838,6 +5841,7 @@ afishatheatreballet.com
 afishavokzal.com
 afloatcounteract.top
 afonsoferragista.com
+afpakfanwoentaxsa.giize.com
 afr7jqz.cn
 afsmsamn.net
 afsrex.click
@@ -6471,6 +6475,7 @@ akbankguvenlikgiris.ml
 akbankingpoint.xyz
 akbankinvestprogram-click.pages.dev
 akbankinvestprogram.click
+akbankkampanya.vercel.app
 akbankmetaverse.com
 akbankonline.com
 akbankturk.com
@@ -6727,6 +6732,7 @@ aktuel-c101.com.tr
 aktuel-cepte.b-cdn.net
 aktuel-extra-market.online
 aktuel-familia.net.tr
+aktuel-gunun-firsatlari-bim.webredirect.org
 aktuel-h101.com.tr
 aktuel-haberler.sninix.space
 aktuel-harcaharcabitmez.com
@@ -12493,6 +12499,7 @@ basvurtokim.xyz
 basvurtook.pro
 basvuru-akbank-mobil.github.io
 basvuru-btcturk.com
+basvuru-cep-teb.my-homeip.de
 basvuru-dogrulamasi.net
 basvuru-ekrani.icu
 basvuru-formu-gov.ignorelist.com
@@ -14353,6 +14360,7 @@ bilsenvakfi.net
 bilsenvakfi.org
 bilsesavasiyorumdahanelerle.sbs
 bilyoneri.com
+bim-aktuel.bounceme.net
 bim-cellsonlineodeme.com
 bim-celltlyukle.com
 bim11beach.net
@@ -17905,6 +17913,7 @@ buildwithtaiko.xyz
 buindirimsanagore.club
 buindirimsanagore.net
 buioldv.store
+bujkdfrgs.abrdns.com
 bukadarartikiki.top
 bukane.com
 buketozgunkarabrcodme.duckdns.org
@@ -19706,6 +19715,7 @@ cbznsbkazxc.shop
 cc-bsvral.com
 cc-checker.art
 ccaanli-sohbet.com
+ccacaca31.myvnc.com
 ccanli-show.net
 ccarref.xyz
 ccc232131x213.duckdns.org
@@ -20000,6 +20010,7 @@ cepnumaratasima.com
 cepoffices.co
 cepoffices.com
 ceppptesokklarli.online
+ceps-tr.lol
 cepsel-viptr.online
 cepsube.misecure.com
 cepsube.netlify.app
@@ -32618,6 +32629,7 @@ emeeramaontinwrldecp.com
 emek3d.xyz
 emekklibasvur.com
 emekklibasvuru.com
+emekli-cepteteb.my-homeip.de
 emekli-garanti.my-homeip.de
 emekli-ozel-kampanya.online
 emekli-promosyon.my-homeip.de
@@ -37320,6 +37332,7 @@ flash1nd1rmlersburdas1md1.com
 flash7haber.club
 flashaber.club
 flashaber.online
+flashbasvurular89456.sbs
 flashbelg.today
 flashcheck.online
 flashcombonus.com
@@ -42556,6 +42569,7 @@ gunrectification.top
 gunrehberi.online
 gunsigorta.site
 gunu-tr.online
+gunun-firsatlari-bim-aktuel.duckdns.org
 gununbakisi.cyou
 gunundosyasi.com
 gununfirsatiburada.com
@@ -43610,6 +43624,7 @@ haberokuru.club
 haberokuru.site
 haberpark24.com
 haberpusula.cyou
+habersayfa12361231.sbs
 habersayfalari176234234.sbs
 habersayfalari234754.sbs
 habersen.club
@@ -45166,6 +45181,7 @@ hemenalnsanra.net
 hemenaluyguna101.online
 hemenapaortal.lol
 hemenarabakiralama.com
+hemenarabanikirala.com
 hemenaracbakim.blogspot.com
 hemenarackirala.online
 hemenarackiralama.online
@@ -56311,6 +56327,7 @@ kiaceitn.store
 kian-demo.ir
 kibank.co
 kibariyelafimiolur.duckdns.org
+kibrisacicek.com
 kibriscicekmarket.com
 kickboxgroup.info
 kidbeyond.top
@@ -57509,6 +57526,7 @@ kopekcik.art
 kopenheimer1.app
 koperatflndmrlerid.blogdns.net
 koperatiftarim.cloud
+kopermatflndmrlrnde.cechire.com
 kopermatfrklalarriinddd.dyndns.biz
 kopermatfrklalarriinddde.dyndns-home.com
 kopermatfrklamlariiriin.blogdns.com
@@ -57517,6 +57535,8 @@ kopkop.click
 kopkrlzk.xyz
 koplafnmece.giize.com
 kopmarkts.is-leet.com
+kopmarktsss.groks-this.info
+kopmarktssss.leitungsen.de
 kopmenst.duckdns.org
 koprugecis.2kool4u.net
 kopruluislemler.com
@@ -59227,6 +59247,7 @@ lexis.sbs
 lexivo.qpon
 lexly.click
 lexorad.com
+lexroni.com
 lexu.click
 lexup.click
 lexware-invoice-deutsch-popup.lovable.app
@@ -62303,7 +62324,9 @@ marketpulse.lol
 marketridge.shop
 markets-sipariss-ptt-avm.com
 marketservice.xyz
+marketsiparis.lol
 marketsiparis.xyz
+marketsiparisfile.lol
 marketsokcepte.online
 marketsokceptefirsatlar.online
 marketsore24tr.com
@@ -63588,6 +63611,7 @@ merricakbank.com
 merrilswoler.life
 mersiniyilikor.net
 mersinturktelekom.com
+mert-basaran.com
 mertdanisma321.duckdns.org
 mertenemege.online
 mertiyungalaa.duckdns.org
@@ -63927,6 +63951,7 @@ mhhssrrtaaga.site
 mhhssrrtabga.site
 mhigcb.com
 mhilernduhlzi.cfd
+mhilrndvuzmni.cfd
 mhjr-s.com
 mhkasdmk34734awdzg.com
 mhkasdmk3474578f.com
@@ -71634,6 +71659,7 @@ orizontalai.top
 orj.bfm.mybluehost.me
 orjinalbelge.com
 orjinaltoggyedekparca.com
+orkanfasdct.giize.com
 orleansban.com
 orlethin.com
 orlovsereygtour.ru
@@ -76730,6 +76756,7 @@ proklineglob.site
 prokrakenportfolio.com
 prolance.study
 prolgr-app.webflow.io
+prolixu.com
 prom-app.top
 prom-btcturk.com
 prom-info.life
@@ -83550,6 +83577,7 @@ sahibindensozlesmeodemeleri.dedyn.io
 sahibindensparamguvenl.com
 sahibindentarziilanyazilimi.tk
 sahibindentarziilanyazilimi.tk.corlusahibinden.net
+sahibindenteslimat.com
 sahibindentm-param-guvende-odeme.publicvm.com
 sahibindentr.guvenli.online
 sahibindentr.onlinealisveris-tr.sa.com
@@ -83779,6 +83807,7 @@ sanal-101-ceptem-market.com
 sanal-a101im.site
 sanal-cepte-market.online
 sanal-cudan-101-market.xyz
+sanal-market-gunun-firsatlari-bim.duckdns.org
 sanal-market-hizli-bayram-kampanyasi.com
 sanal-market-hizli-bayram-kampanyasi.online
 sanal-market-kapinda101le.com
@@ -93072,6 +93101,7 @@ tarmbaylerm.net
 tarmdaonlmark.dnsdojo.com
 tarmkooperatfide.blogdns.com
 tarmkoopermarke.blogdns.com
+tarmkoopmarksonlinea.cechire.com
 tarmkoparmatifmarket.blogdns.com
 tarmkoperatif.blogdns.com
 tarmkopermarket.blogdns.com
@@ -93612,6 +93642,7 @@ teb-com-tr.my-homeip.de
 teb-com.internet-subesi.site
 teb-com.my-homeip.de
 teb-digital-emekliye-ozel.my-homeip.de
+teb-emek-pro.my-homeip.de
 teb-emekli.internet-subesi.site
 teb-emeklilere.my-homeip.de
 teb-emekliye.my-homeip.de
@@ -95701,6 +95732,7 @@ togethernet.site
 togfinans.com
 togg-arac-finansmani.com
 togg-arac-kredileri.com
+togg-basvuru.org
 togg-e.com
 togg-finans-kredim.com
 togg-finansman.com
@@ -106959,6 +106991,7 @@ www-hemenogren-ucretsiz.com
 www-heptecp-ayicalik-tvb.myonlineportal.ch
 www-heptecpte-ayricaliklarla.myonlineportal.ch
 www-hidetb-launcher-cepte.myonlineportal.ch
+www-hizmettb-sozcepte-ayrica.myonlineportal.ch
 www-hlptb-cepte-ayrica.myonlineportal.ch
 www-iade.com
 www-iadelerfinansmerkezim2021.mermerfatihlerimde.com

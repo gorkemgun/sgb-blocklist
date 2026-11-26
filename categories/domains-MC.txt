@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42071
-# Last change: 2026-11-25 15:42:32 UTC (sync mode: delta)
+# Records: 42076
+# Last change: 2026-11-26 00:28:36 UTC (sync mode: full)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -8446,6 +8446,7 @@ clubpecadores.com.de
 clubsproducts.tk
 cluedk.com
 clues4.com
+cluo.cc
 clusee.com
 cluster.buydoorlitesandlouvers.com
 clutch-car.com
@@ -29603,6 +29604,7 @@ qqkmonskrfgn.com
 qqmailappupdate.ga
 qqnbvb.space
 qqq.mayquala.com
+qqtcnbaidu.com
 qqtqvehldthppkg.ru
 qr202754.pw
 qranto.space
@@ -33367,6 +33369,7 @@ sockmanes.ml
 socks.beauty
 socksescort.com
 socktopiashop.com
+socluo.cc
 soctfrnahf.balancedgrav.ru
 sodaandcoke.top
 sodality.mandmsolicitors.com
@@ -38597,6 +38600,7 @@ vvuemlmxjrkdmdl.cn
 vvv-cargoconvoy.com
 vvv678.com
 vvvgirteka.top
+vvvvvvvvvv1212.com
 vvwjgfthomcybwi.cn
 vvxtech.net
 vw24ty15.com
@@ -39091,6 +39095,7 @@ wemart-apk.com
 wemepmrksmpylpv.ru
 wemoips.com
 wending015.com
+wendinghui70.vip
 wendoun.com
 wendyllc.com
 wenkgefmpgfumtk.com
