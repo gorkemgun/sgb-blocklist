@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 111336
-# Last change: 2026-11-26 19:40:54 UTC (sync mode: delta)
+# Records: 111374
+# Last change: 2026-11-27 02:54:35 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -268,6 +268,7 @@
 101-extra-mobil-online-shop-ozel-alisveris-urun-sepetleri-tr.trendlytr.site
 101-extra-mobil-ozel-alisveris-firsatlari-tr.extraburada.online
 101-extra-mobil-sadece-bugune-indirim-ozel-shop-sepetleri-tr.shp-cepte.online
+101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.n44444s4.site
 101-extra-mobil-sadece-bugune-ozel-alisveris-indirim-tr.shopsmobile.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-sepeti-tr.trendlysepet.online
 101-extra-mobil-sadece-bugune-ozel-alisveris-shop-indirimleri.uygundepo.online
@@ -2583,6 +2584,7 @@
 51-158-243-62.plesk.page
 5115151.duckdns.org
 512118001192.loseyourip.com
+512260176054572.cloud
 512512351213hizlcsmler-aracm360ptavm.online
 512512351213hizlcsmler-aracm360ptavm.space
 512548712854125841.cloud
@@ -2676,6 +2678,7 @@
 55888828282.click
 55955556315.cloud
 5621324625246.cloud
+5621905756129.cloud
 562323125.com
 562789-coinbase.com
 5638563454132.org
@@ -11917,6 +11920,7 @@ badlyroom.top
 badmintonsynthesis.top
 badpropeller.top
 badsfghsadasdds.gleeze.com
+badusyruzokuwe.live
 baelandworld.com
 bafbolta.duckdns.org
 bafd7a50.gfwisd-235.shop
@@ -15180,6 +15184,7 @@ birumudunuzolsun.xyz
 birvodka.online
 biryiyenbidahayiyor.xyz
 bisaenak.fun
+bisaracizate.company
 biscuitapt.top
 biscuitfabrication.top
 biscuitintercourse.top
@@ -17616,6 +17621,7 @@ btcturk-togg.com
 btcturk.cab
 btcturk.eu.com
 btcturk.gr.com
+btcturk.kriptom.pro
 btcturkc.com
 btcturkcekilisi.co
 btcturkcekilisi.online
@@ -19827,6 +19833,7 @@ ceaswadereli-viplifere.xyz
 cebamok.tk
 cebimdefirsttsok.com
 cebimfull.com
+cebinde-giris.online
 cebinde-temmuz.biz.tr
 cebinde-temmuz.com.tr
 cebinde-temmuz.org.tr
@@ -20073,6 +20080,7 @@ cepte-tr.online
 cepte.vakifonay-quajlhe.top
 cepteb.kisalink.cc
 cepteb.mobile-login.org
+ceptebi.my-homeip.de
 ceptebireyseldeniz.info
 ceptebli.my-homeip.de
 ceptedeniz100yil.online
@@ -20218,6 +20226,7 @@ cewondesystemns.com
 cewopoujoa.com
 cex9fo17tyc4glmylk.live
 cexaca1409.site
+ceydacicek.com
 ceyhunturizm.com
 ceyizlife.com
 ceza-bilgilendirme.com
@@ -32666,6 +32675,7 @@ emekli-cepteteb.my-homeip.de
 emekli-garanti.my-homeip.de
 emekli-ozel-kampanya.online
 emekli-promosyon.my-homeip.de
+emekli-teb-pro.my-homeip.de
 emekli-tebde.my-homeip.de
 emekli.my-homeip.de
 emeklilere-cepteteb-com.my-homeip.de
@@ -32679,6 +32689,7 @@ emeklipromosyonlari.com
 emeklipromosyonusgk.cfd
 emeklirotasi.cyou
 emeklisgkpromosyon.cfd
+emekliye-cepten.my-homeip.de
 emekliye-ceptetebde.my-homeip.de
 emeklleytmuracaatin.com
 emeklli-promosyon.com
@@ -33402,6 +33413,7 @@ enucuzuburada101.com.tr
 enucuzurunzamani.com
 enucuzusongun101.online
 enugnfrstbrda.cfd
+enuweveh.online
 enuygun-aal.site
 enuygun-kiralama.com
 enuygun.rent
@@ -34506,6 +34518,7 @@ evergift.gifts
 evergrovia.com
 everide.shop
 everitual.top
+evernixas.com
 everpasser-by.top
 everranch.top
 eversanctuary.top
@@ -36398,6 +36411,7 @@ fifa.tax
 fifahr-careers.com
 fifaworldcup-jobs.com
 fifikosisfsds.com
+fifozadof.world
 fift.my-style.in
 fifteenamplify.top
 fifteenq9.ru.com
@@ -42551,6 +42565,7 @@ gunceltrendyoladres.com
 gunceltrsikayetler-863.sbs
 guncelvakiftanhediyeniz2022.com
 guncelwep.forum
+guncelyasamportali.online
 guncelyatirimlar.online
 guncelzamanhizmeti2023.com
 guncelzamnhizmeti2023.com
@@ -47525,6 +47540,7 @@ homkoqar.duckdns.org
 homogeneousconverse.top
 homogeneousquart.top
 homogeubpz.shop
+homusyzuned.online
 hondaturkiyee.com
 honedestler.duckdns.org
 honehester.duckdns.org
@@ -56555,6 +56571,7 @@ kimselerhushimxd.net
 kimseyokmu.org
 kimtlfalyor.duckdns.org
 kinabik.pro
+kincikdekelmek.world
 kind-hearteddetachment.top
 kind-heartedloot.top
 kind-pike.16-171-61-234.plesk.page
@@ -57989,6 +58006,7 @@ kriptobagis.com
 kriptogelecek.top
 kriptogundem.top
 kriptoplus.online
+kriptotakvim.online
 krishanstudioz.com
 krishnayoga.com.ar
 kristalvilla.com
@@ -64072,6 +64090,7 @@ mhrlww.com
 mhrmhrdsmsd.click
 mhrmhrdsmsdd.click
 mhrmhrdsmsdxdd.click
+mhrndvuilebsladi.cfd
 mhrndvumhsglk.cfd
 mhrnmslrdnmzsaniz.mooo.com
 mhrnsndvlrmnazsd.giize.com
@@ -64951,6 +64970,7 @@ mobil-cep.online
 mobil-cepte.myonlineportal.de
 mobil-cepteb.my-homeip.de
 mobil-cepteteb.my-homeip.de
+mobil-com.my-homeip.de
 mobil-deniz-com-esube.duckdns.org
 mobil-deniz-com-promossyon-giris.duckdns.org
 mobil-deniz-com-promosyonum-cepte.loseyourip.com
@@ -64983,6 +65003,7 @@ mobil-jet-hizmet.online
 mobil-koinim.com
 mobil-limit.online
 mobil-obilet.uk
+mobil-onay-cepteteb.my-homeip.de
 mobil-ozel-tr.online
 mobil-ozel-tr.site
 mobil-ozel.site
@@ -67881,6 +67902,7 @@ nextstepmodern.top
 nextwaveideas.online
 nextworldly.world
 nextxriver.com
+nexufyra.com
 nexulio.xyz
 nexulix.com
 nexumra.com
@@ -68604,6 +68626,7 @@ noticesgove.top
 noticess.site
 noticestuff.top
 noticetoxic.top
+noticiasenfoco.site
 noticiasfy.com
 noticiavistaro.pro
 notifeed.org
@@ -69707,6 +69730,7 @@ oakcloudhi-ere.world
 oakcloudhi-erg.world
 oakenshade.site
 oakley-sunglasses2017.net
+oaklume.gifts
 oakmeadow.icu
 oakpelican.top
 oaktasncmask.giize.com
@@ -81062,6 +81086,7 @@ revolutionpersecute.top
 revolutionreputable.top
 revolvecordiality.top
 revolvenaivety.top
+revoquix.com
 revoult.pro
 revoxel.com
 reward-aave.us
@@ -81089,6 +81114,7 @@ rezervasyon-gunay-restoran.com.tr
 rezervasyon-gunay-restoran.site
 rezervasyon-gunay-restorant.com.tr
 rezervasyon-gunayrestoran.com.tr
+rezervasyon.loan
 rezervasyonbirimileri.nl
 rezervasyongarenta.com
 rezervasyontuvturk.com
@@ -81301,6 +81327,7 @@ rivalvessel.top
 rivanelitho.online
 rivelignli.net
 rivenal.com
+rivento.gifts
 riveoasdknasmadaas.blogspot.com
 riverlogic.top
 rivernova.icu
@@ -87602,6 +87629,7 @@ sizlerden.gelen.hizmetlerden.skdowkdaksdkasd.click
 sizlerden.gelen.hizmetlerden.ssshsdasgafasa.click
 sizlerden.gelen.hizmetlerden.vavazkksadlksado.click
 sizlerden.gelen.hizmetlerden.zusafjasdkasd.click
+sizlerdengelen.abrdns.com
 sizleree-ozel.online
 sizlereenguzelhizmetdevlet.com
 sizlereguzel-haberiverenleriz.com
@@ -96881,6 +96909,7 @@ tr0nll1linebasvurulll1arimfakifsube.net
 tr0nlllinebasvurulll1arimfakifsube.net
 tr1.hu1news.xyz
 tr1.lnatbox.com.tr
+tr1.possimus-deserunt-at.top
 tr1.thegameplays.com
 tr12biyanse-tr.com.tr
 tr13-guncelsikaytler.com
@@ -98582,6 +98611,7 @@ tteknosa.com.tr
 ttektiklaspnsrlurklam.com
 ttes.szfeisi.com
 ttfaturalitarifeler.com
+ttileyeniliklerveyenilik.site
 ttinternet.net
 ttiyigunleriyiseneler.site
 ttkkmmmevmmynn.org
@@ -107024,6 +107054,7 @@ www-ctbde-cepte-default.myonlineportal.ch
 www-cumhurbaskanligi-iletisim.com
 www-cumhurbaskanligiadesi.com
 www-customtb-extend-ayrica.myonlineportal.ch
+www-daimitb-cevirweb-ayrica.myonlineportal.ch
 www-debycpte-tb-weptan.myonlineportal.ch
 www-denizbank-at.translate.goog
 www-denizgov-banka-online.ml
@@ -107166,6 +107197,7 @@ www-suptb-extend-ayrica.myonlineportal.ch
 www-svtb-cpte-webten.myonlineportal.ch
 www-sync-ceptedir.myonlineportal.ch
 www-t0gg.net
+www-tagweb-cpttb-dispatch.myonlineportal.ch
 www-tamtb-cepte-screen.myonlineportal.ch
 www-tarimorman-gov-tr.translate.goog
 www-tb-cepte-coms.myonlineportal.ch
@@ -107502,6 +107534,7 @@ x9m1v6k4z7q2.lol
 x9r7b3n5q2m1a8t6y4w0z2v3.com.tr
 xadddsdsmhrs.duckdns.org
 xaedm.top
+xafirbix.com
 xaghclj.cn
 xahjgahjg.xyz
 xalamor.com
@@ -109821,6 +109854,7 @@ yilsonuindirimleri.site
 yilsonuindirmleri101learalikta.com
 yilsonukampanya.online
 yilsonuozel.shop
+yilsonupromosyonlari-teb.my-homeip.de
 yilsonuucuzurun.com.tr
 yilsonuuygunurunler.com
 yilsonuzamani.com.tr
@@ -109932,6 +109966,7 @@ ymwcbr.com
 ymzjdl.help
 yn25o4hubb.storage.googleapis.com
 ynamicseruptio.top
+ynatagonar.world
 yniaktuellmrkt-indrmllerinde.xyz
 ynidgitalbxparbu.com
 yniecrfsaaylrm.cfd
@@ -110430,6 +110465,7 @@ yuzyiltokiprojesi.xyz
 yvaxm.com
 yvdfvt-devt.com
 yvdrlvlt-vdet.com
+yvizoho.site
 yvquvn.top
 yvzj6.shop
 ywapilsewekasd.click
@@ -110518,6 +110554,7 @@ zafervakfi.com
 zafffasssa.dns.navy
 zafftron.com
 zafocanbimcellde.net
+zafrilo.com
 zagres.online
 zahaol.net
 zahin.net
@@ -111025,6 +111062,7 @@ zirveegitimbursu.com
 zirveline.online
 zirvenetwork.net
 zirvesigorta.site
+zirvia.finance
 zitrkfs.cfd
 ziuak.cn
 zivert-tickets.ru
