@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66786
-# Last change: 2026-11-26 19:40:54 UTC (sync mode: delta)
+# Records: 66790
+# Last change: 2026-11-27 12:36:29 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -8064,6 +8064,7 @@ acccessmykfcu.zapto.org
 accediareacliente.ddns.net
 acceesd1col.hopto.org
 accent48.xyz
+accenture.international-interviews.com
 accepnew.duckdns.org
 accept-newstory.hopto.org
 acceptanceapple.ddns.net
@@ -27162,6 +27163,7 @@ google.natrlyi.com
 google.poultrymiddleeast.com
 google.reset-account.com
 google.sneaws.com
+google.webinar-cloud.com
 google20323.ddns.net
 googleaccount.center
 googleaccounts.site
@@ -42614,6 +42616,7 @@ nveufmccrwtu.net
 nvfl9j.duckdns.org
 nvgeeforsegt.ru
 nvhquqajw.duckdns.org
+nvidia.feedback-study.com
 nvidia.geforcegt.icu
 nvidiacorp99.zapto.org
 nvidiasdk.fly.dev
@@ -53953,6 +53956,7 @@ sportsnewz.site
 sportstation.top
 spot-pressure.com
 spotcallty.xyz
+spotify.interview-experts.com
 spotlnd.hopto.org
 spotmarka.ap0x.com
 spotslfy.com

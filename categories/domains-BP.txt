@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Financial Phishing (BP)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=BP
-# Records: 260769
-# Last change: 2026-11-27 02:54:35 UTC (sync mode: full)
+# Records: 260779
+# Last change: 2026-11-27 12:36:29 UTC (sync mode: delta)
 0--9-9-8---7-77-7-7-6--65-5--4-3-3-3-2-1.com
 0--loook.net
 0-114848323232.cloud
@@ -8970,6 +8970,7 @@
 62945123.cloud
 62987200.servequake.com
 63108413.cloud
+6312211422245222224552245594.xyz
 63214998422419811284.com
 63234212.cloud
 632351412314124.online
@@ -39348,6 +39349,7 @@ bimbesler.com
 bimbhcll.com
 bimbigmans.net
 bimbigmans101.net
+bimbimbimbim.com
 bimbimcell.com
 bimbintlturkiyeykl.tk
 bimbmwrmzncf.com
@@ -78513,6 +78515,7 @@ e-saglikgov.xyz
 e-sagliklibiryasammucadele.digital
 e-saglikpandemigovisgiris.com
 e-saglikyardimpandemi.com
+e-sahibinden.ile-sepet-islemleri.info.tr
 e-sahibinden.online-odemelerim.sa.com
 e-sanalhizmetler-yapikredi.com
 e-sanalhizmetler-yapikredi.org
@@ -103642,6 +103645,7 @@ giris-mobil-gir.cfd
 giris-mobil-onlinen.sbs
 giris-mobil-zir.cfd
 giris-mobilaktif.vip
+giris-mobilde.online
 giris-mobile.sbs
 giris-mobiles.sbs
 giris-mobilsube.com
@@ -126667,6 +126671,7 @@ hzlylzdayi.net
 hzlzamani-caysokta.com.tr
 hzlzslemergovpttcbuk.duckdns.org
 hzmb-bilgilendirmebasvurusuvatandas.fun
+hzmdosya.com
 hzmesorns.app
 hzmetaidatiadleribsladi.com
 hzmetayaginizageldi.com
@@ -147490,6 +147495,7 @@ kasim-ozel-firsatlar-sadece.online
 kasim-ozel-firsatlar-sadece.xyz
 kasim-ozel-indirim-sadece-online-ozel.com
 kasim-ozel-indirim-sadece-online-ozel.xyz
+kasim-ozel.online
 kasim-pandemiaidatsorgulama.com
 kasim-pazarci-101indirim.com
 kasim-son-indirimler-sadece-online-ozell.com
@@ -197635,6 +197641,7 @@ sahibinden-get.alimlarinizhizmetler.online
 sahibinden-get.alisveris-guvende-10.sbs
 sahibinden-get.alisveris-sepeti-guvende-35.sbs
 sahibinden-get.alisverisinsepet-17.sbs
+sahibinden-get.alisverislersepet-35.sbs
 sahibinden-get.bireyselalimlarim.com
 sahibinden-get.click
 sahibinden-get.co.uk
@@ -197658,6 +197665,7 @@ sahibinden-get.eurunhizmetin.com
 sahibinden-get.eurunlerhizmetiniz.com
 sahibinden-get.guveli-hizmet.online
 sahibinden-get.guvencelmobil.com
+sahibinden-get.guvenle-ode-15.sbs
 sahibinden-get.guvenli-alisverislerim.sa.com
 sahibinden-get.guvenli-hizmet.online
 sahibinden-get.guvenli-odemelerim.pro
@@ -225247,6 +225255,7 @@ trendyol.alisveris-get-ilan.com
 trendyol.aramonline.shop
 trendyol.cuzdan.cf
 trendyol.e-guvende-alisverim.com
+trendyol.e-hizmetler-35.sbs
 trendyol.elektronik-sepetin.online
 trendyol.eonaylihizmetin.com
 trendyol.expresstr.net
@@ -230105,6 +230114,7 @@ tuvturkaracmuaynealmc.web.app
 tuvturkaracmuaynehizmeti.web.app
 tuvturkaracmuaynehizmti.web.app
 tuvturkaracmuaynehzmetlri.net
+tuvturkaracmuaynehzmtlermi.web.app
 tuvturkaracmuaynehzmtlra.web.app
 tuvturkaracmuaynehzmtlre.web.app
 tuvturkaracmuaynehzmtlrg.web.app
