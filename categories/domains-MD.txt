@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Distribution Domain (MD)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MD
-# Records: 66790
-# Last change: 2026-11-27 12:36:29 UTC (sync mode: delta)
+# Records: 66798
+# Last change: 2026-11-27 22:02:18 UTC (sync mode: delta)
 0-0-0-0-0-0-0-0-0-0-0-0-0-10-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-18-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0-0-0-0-0-0-0-0-0-0-0-0-0-33-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -17313,6 +17313,7 @@ codemeurtre187.zapto.org
 coderryt.ddns.net
 coderrytcopy.ddns.net
 codertricks.zapto.org
+codes-team.com
 codeviewer-three.vercel.app
 codevisualstudio.org
 codex-craft.com
@@ -39483,6 +39484,7 @@ monipnano.ddns.net
 monitor-android.ru
 monkdont.ddns.net
 monkeyhttps.ddns.net
+monkeysholder.info
 monlientes.duckdns.org
 monmessa.duckdns.org
 monmon.host
@@ -49494,6 +49496,7 @@ robint.us
 roblox-play.ru
 robloxakkaynt.hopto.org
 robloxrat.zapto.org
+roblx.codes-team.com
 robo-claim.site
 robo51.info
 roborobonsnsnn.net
@@ -52398,6 +52401,7 @@ sets.ddns.net
 setting3.yeahost.com
 settings-info04.ddns.net
 settingshomepge.hopto.org
+setup-assistant.com
 setup.hopto.org
 setupmypasskey.com
 setupyourdeviceandphone.duckdns.org
@@ -53433,6 +53437,7 @@ sniper.pet
 snipercilent.zapto.org
 snipersol.com
 sniperssss.zapto.org
+snipp.codes-team.com
 snjeax15u.duckdns.org
 snkozhkr.zapto.org
 snmpl.duckdns.org
@@ -55853,6 +55858,9 @@ teames.hopto.org
 teamfavour111.ddns.net
 teamfavour222.ddns.net
 teamhk123.ddns.net
+teams-bing.codes-team.com
+teams.codes-team.com
+teamsmac.codes-team.com
 teamswag.zapto.org
 teamtobsta.ddns.net
 teamupdatehub.ddns.net

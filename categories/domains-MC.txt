@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Malware Command Center (MC)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=MC
-# Records: 42097
-# Last change: 2026-11-26 19:40:54 UTC (sync mode: delta)
+# Records: 42101
+# Last change: 2026-11-27 22:02:18 UTC (sync mode: delta)
 0-000-0.pages.dev
 0-day.us
 0.solucionegos.top
@@ -31582,6 +31582,7 @@ sanitar.ml
 sankibanadonukbutunnamlular.com
 sanmakigokleredustumahh.com
 sanoradesert.com
+sanpaul.ae
 sansaispa.com
 sansarmacit.com
 sansesdersese002.site
@@ -35235,6 +35236,7 @@ tenjo10ht.top
 tenjo10sr.top
 tennis4good.co.uk
 tenntysjuxmz.shop
+tensealservices.com
 tentabatte.lat
 tentandonovamente.duckdns.org
 tentententen1010101010.net
@@ -35439,6 +35441,7 @@ theboypoo134.ddns.net
 thebromancesads.top
 thebtcgenerator.me
 thebtcrevolution.com
+thecalmdogguide.com
 thecareershub.org
 thecarwash-zone.com
 thechaibali.com
@@ -39614,6 +39617,7 @@ workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
 workerstats.net
+workfriction.com
 workhard.shop.swtest.ru
 workout.pictures
 workplace-local.com
