@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 111545
-# Last change: 2026-11-27 22:02:18 UTC (sync mode: delta)
+# Records: 111550
+# Last change: 2026-11-28 03:57:22 UTC (sync mode: full)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -2495,6 +2495,7 @@
 4aralikkampanya.com.tr
 4aralikkampanyalarinin.com.tr
 4axiomeltharvonicquantumengineering.cyou
+4axiontheravexultronicengineering.cyou
 4b87i3j4ngx.typeform.com
 4b9m5hy.cn
 4bidetys.dreamhosters.com
@@ -9888,6 +9889,7 @@ arzumbaharindirimi.com.tr
 arzumcaymaknnne.com
 arzumhdson.com
 arzumindirimalw499.com
+arzumindirimsiznle.store
 arzumindirimww.duckdns.org
 arzumindrimszznlex.com
 arzummaknneindrm.com
@@ -20189,6 +20191,7 @@ ceptetebeva.my-homeip.de
 ceptetebfirsati.xyz
 ceptetebli-ayricalik.my-homeip.de
 ceptetebli-kampanya.my-homeip.de
+ceptetebli-mobil.my-homeip.de
 ceptetebliye-ozel.my-homeip.de
 ceptetebte-tr.my-homeip.de
 ceptetep-firsat.my-homeip.de
@@ -64708,6 +64711,7 @@ miniatureascendance.top
 miniatureblunt.top
 miniaturerepress.top
 miniaturestipulation.top
+minicicek.com
 minicorporation1991.com
 minikekosistemler.pro
 minikgrowth.mom
@@ -65121,6 +65125,7 @@ mobil-teb.com
 mobil-tepden-basvur.myonlineportal.de
 mobil-tr-ilanlarim.com
 mobil-tradresi.live
+mobil-yayin.com
 mobil.acikdeniz.denizbank.4-231-237-0.plesk.page
 mobil.obilet-tr.uk
 mobil.tebligyeri.com
