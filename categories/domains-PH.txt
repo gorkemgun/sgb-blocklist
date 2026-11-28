@@ -1,7 +1,7 @@
 # T.C. Siber Guvenlik Baskanligi - Domain - Phishing (PH)
 # Source : https://siberguvenlik.gov.tr/api/address/index?type=domain&desc=PH
-# Records: 111550
-# Last change: 2026-11-28 03:57:22 UTC (sync mode: full)
+# Records: 111583
+# Last change: 2026-11-28 13:08:50 UTC (sync mode: delta)
 0-0.coinbase-com.info
 0-bltstnal.net
 000-authent-777-serv-000.pages.dev
@@ -306,6 +306,7 @@
 101-extra-online-bugune-ozel-mobil-indirim-sepeti-tr.trend-burada-tr.online
 101-extra-online-bugune-ozel-sepette-indirim-asliveris-cep-tr.sepetteal.online
 101-extra-online-mobil-sadece-bugune-ozel-firsatlar.online-trend.online
+101-extra-online-ozel-alisveris-indirim-tr.alisveris.top
 101-extra-online-ozel-firsatlar-mobil-sepet-tr.bilgi-ver.online
 101-extra-online-ozel-indirim-alisveris-sepeti-mobil-ozel-tr.eceptra-tr.online
 101-extra-online-ozel-urun-shop-alisveris-sepet-bilgileri-tr.shoptrcep.site
@@ -1378,6 +1379,7 @@
 1aktuel0online1.site
 1almaty-ayenderi.com
 1ao0opt.cn
+1axiomeltharvonicquantumengineering.cyou
 1b22513b.sieujnx.cloud
 1bcclmcll.com
 1bh4v4e.cn
@@ -2470,6 +2472,7 @@
 4812183513hizlcsmler-aracm360ptavm.online
 482901v-coinbase.com
 48512365482451615.duckdns.org
+485455486248485.duckdns.org
 48756.site
 488564648789.com
 48921492132.sbs
@@ -2822,6 +2825,7 @@
 6312211422245222224552245592.xyz
 6312211422245222224552245593.xyz
 6312211422245222224552245595.xyz
+6312211422245222224552245596.xyz
 6323232321.cloud
 6342523532.istanbul
 6348732od4we43.click
@@ -5529,6 +5533,7 @@ adjustmentdowngrade.top
 adjustreckless.top
 adkaojanama.ml
 adkincoin.com
+adkrentacar.com
 adkvipcim.com.tr
 adlibirim.net
 adlibirimi.org
@@ -5757,6 +5762,7 @@ aeeum.com
 aehnbk.click
 aejofa.cn
 aek8gnr.cn
+aekarackiralama.org
 aelararetailnexus.com
 aelmarix.com
 aeloria.blog
@@ -7548,6 +7554,8 @@ alo1-marketin.com.tr
 alo112bet.space
 alo182.org
 alo182biziz.duckdns.org
+alo182burdahemen.sbs
+alo182online.sbs
 alo182randevu.xyz
 alocagrimerkezi.com
 alocationrual.top
@@ -11317,6 +11325,8 @@ avmsiparisolustur.com
 avnarabakiralama.com
 avndsalpokjbv.duckdns.org
 avnfilo.com
+avnfilo.net
+avnrentcar.com
 avnuozphlia1.sbs
 avodemsahisgecis.xyz
 avoidanceprosper.top
@@ -11348,6 +11358,7 @@ avsaracinfilo.com
 avsaracingelsin.com
 avsaracinkurumsal.com
 avsarackirala.com
+avsarackirala.online
 avsarotokiralama.online
 avsarotomobil.online
 avsbaerd.giize.com
@@ -12197,6 +12208,7 @@ baninventory.top
 bank-garantii.com
 bank-invest1.com
 bank.securemygateway.com
+banka.teb.com.se
 bankaemeklipromosyonu.gen.rip
 bankamizsizinle.com
 bankarspace.com
@@ -12583,6 +12595,7 @@ basvuru.ailevegenclik.paygame.gen.tr
 basvuru.ailevegenclik.sedesa.com.tr
 basvuru.avrupagundem.uk
 basvuru.btcturkkripto-tr.com
+basvuru.cepteteb-online.com
 basvuru.e-islemler.site
 basvuru.ekredimi.com
 basvuru.isbank.com.tr.tr-ebireyselislemlerim.info
@@ -19473,6 +19486,7 @@ caremoney.life
 carenta360.com
 carettoursa.com
 carfilogomavs.com.tr
+carfilovista.com.tr
 carfourmdn.online
 carfourrmnzsubat.info
 carfourrse.com
@@ -21348,6 +21362,7 @@ clowngrope.top
 clownmc.fun
 clownmc.xyz
 clsacladkaslckcldalskcldkalasd.sbs
+clsradnsong.ooguy.com
 clsude.ai
 cltllhllhlh-vlvlltlv.com
 cltrmmrsrogula.net
@@ -25678,6 +25693,7 @@ cumminslogistic.kemalradio.com
 cumulativecomplement.top
 cumulativeportrait.top
 cuparwarm.link
+cupboard.milkytuba.info
 cupboardsusceptible.top
 cupbrotten.top
 cupcoffee.org
@@ -37261,6 +37277,7 @@ firsef325.com
 firshayvanlarlakampanyalarhaber.net
 firsimvav.cfd
 firsimvav.sbs
+firsonlmks.opik.net
 firsotlarbgunozell.site
 firssatsigorta.site
 first-onayweb.ink
@@ -39259,6 +39276,7 @@ garentadayrent.com
 garentadays.shop
 garentae.com
 garentafilokurumsal.com
+garentafilorental.net
 garentaglobal.com
 garentahemen.com.tr
 garentaherzaman.com
@@ -41257,6 +41275,7 @@ gokkalesosyalvakfi.site
 gokkalevakfi.site
 gokretmade.giize.com
 goktepe-loravuni.lol
+gokyolu.gifts
 gold21ecology.top
 goldapple.156953coinbase.com
 goldass.fundeble.com
@@ -45312,6 +45331,7 @@ hemenalnsanra.net
 hemenaluyguna101.online
 hemenapaortal.lol
 hemenarabakiralama.com
+hemenarabakiralama.net
 hemenarabanikirala.com
 hemenaracbakim.blogspot.com
 hemenarackirala.online
@@ -46822,6 +46842,7 @@ hizlibasvuralartoplan.sbs
 hizlibasvurlarinolustur.cloud
 hizlibasvurtamamlan.cloud
 hizlibasvuru.ml
+hizlibasvuru.my-homeip.de
 hizlibasvuru.net
 hizlibasvuru.online
 hizlibasvuru.tk
@@ -53991,6 +54012,7 @@ javed.live
 javedcheck.com
 javedonline.xyz
 javetinet.store
+javetodimi.online
 javex.city
 javex.network
 javex.online
@@ -55961,6 +55983,7 @@ kcoinzlogon.webflow.io
 kconloginus.webflow.io
 kcriptucom-logun.webflow.io
 kd3k9t.cyou
+kdaomcnaownr.opik.net
 kdarvama.com
 kddqmw.top
 kddredi-ztra.cfd
@@ -56705,6 +56728,7 @@ kiralama.hizmetinoktasi.com.tr
 kiralama.rent
 kiralamaaraclarburadan.xyz
 kiralamagarenta.com
+kiralamago.online
 kiralamalar360.com.tr
 kiralamamerkeziarabacim.com.tr
 kiralamamerkeziarabacin.com.tr
@@ -60216,6 +60240,7 @@ login-asmx.com
 login-auth--logon-trzor.webflow.io
 login-biil.net
 login-binancetr.net
+login-cep-teb-kredi.my-homeip.de
 login-deel.app
 login-diplomaticportal.global-mfa.org
 login-facebook-facebook.blogspot.com
@@ -64096,6 +64121,7 @@ mhdsgfsdgh.art
 mhdshgsdfv.art
 mherese.com
 mheresrandevu.cfd
+mhesers.duckdns.org
 mhfabthgsbska.shop
 mhgfshsfdhds.art
 mhgsrjasttga.icu
@@ -64259,6 +64285,7 @@ mhrslkislem.com
 mhrslmlmlmmr.com
 mhrsmlimlsmsm.duckdns.org
 mhrsmlxmxl.com
+mhrsmskd.cfd
 mhrsmsmhsxzwshshn.net
 mhrsmsxlm.com
 mhrsonlinebasvuru.duckdns.org
@@ -64371,6 +64398,7 @@ mhsrakogr.sbs
 mhsraog.buzz
 mhsrarandvlrmzbrda.sbs
 mhsrbsvrusistemszxc.space
+mhsresem.duckdns.org
 mhsrhrmhmrms.duckdns.org
 mhsroda182.click
 mhsroda182.cyou
@@ -66553,6 +66581,7 @@ muyne-alsanaknk.com
 muyne-alsanaknk.xyz
 muytamasklogin.webflow.io
 muyuteknoloji.net
+muzebaharim.com
 muzedekultur.com
 muzedunyasi.com
 muzegezi.click
@@ -73110,6 +73139,7 @@ pantherneithera.top
 panthertalents.xyz
 pantolonunnerdendiyor.click
 pantos.yasuapanitanaik.cfd
+pants.milkytuba.info
 panzerkroxy.sorgupanel.net
 paoefdsavn.giize.com
 paopaoliaotian.s3.ap-east-1.amazonaws.com
@@ -92330,6 +92360,7 @@ systemguarding.com
 systemguarsdsn.com
 systemmr.top
 systemonebusinessoffice.weebly.com
+systemp.live
 systems-brew.com
 systems-brew.xyz
 systems-cold.com
@@ -94383,6 +94414,7 @@ telefonfatura.app
 telefonfirsatiburdan.cfd
 telefonfrstlri.cfd
 telefonkamp101.online
+telefonmagazasi.com
 telefonnumarasi.pro
 telefonoppogirisilerigeldi.cfd
 telefonsuz-internet-onlinebasvuru.net
@@ -110905,6 +110937,7 @@ zegypue.com
 zehir.xyz
 zehircheck.online
 zehircheck.xyz
+zehrasoftdanismanlik.space
 zekoma-rupilo.lol
 zelalver.gifts
 zelcartiq.shop
